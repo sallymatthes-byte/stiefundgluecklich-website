@@ -1,7 +1,7 @@
 ---
 ---
 
-<section class="relative min-h-screen flex items-center pt-20">
+<section class="relative min-h-[90vh] md:min-h-screen flex items-center pt-20">
   <!-- Background Image with Overlay -->
   <div class="absolute inset-0 z-0">
     <img
@@ -10,24 +10,26 @@
       class="w-full h-full object-cover object-right-top"
       loading="eager"
     />
-    <div class="absolute inset-0 bg-gradient-to-r from-background/95 via-background/80 to-background/40"></div>
+    <!-- Mobile: stärkerer Overlay für Lesbarkeit, Desktop: sanfter Gradient -->
+    <div class="absolute inset-0 bg-background/85 md:bg-transparent"></div>
+    <div class="hidden md:block absolute inset-0 bg-gradient-to-r from-background/95 via-background/80 to-background/40"></div>
   </div>
 
-  <div class="container mx-auto px-6 relative z-10">
+  <div class="container mx-auto px-5 md:px-6 relative z-10">
     <div class="max-w-2xl">
       <!-- Tagline -->
-      <p class="text-primary font-medium mb-4 animate-fade-in opacity-0" style="animation-delay: 0.2s">
+      <p class="text-primary font-medium mb-3 text-sm md:text-base animate-fade-in opacity-0" style="animation-delay: 0.2s">
         Für Bonusmamas, die mehr wollen als nur funktionieren
       </p>
 
       <!-- Main Headline -->
-      <h1 class="font-serif text-4xl md:text-5xl lg:text-6xl text-foreground leading-tight mb-6 animate-fade-in opacity-0" style="animation-delay: 0.4s">
+      <h1 class="font-serif text-3xl md:text-5xl lg:text-6xl text-foreground leading-tight mb-4 md:mb-6 animate-fade-in opacity-0" style="animation-delay: 0.4s">
         Du gibst alles –
         <span class="italic text-primary">und fühlst dich trotzdem unsichtbar.</span>
       </h1>
 
       <!-- Subheadline -->
-      <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed animate-fade-in opacity-0" style="animation-delay: 0.6s">
+      <p class="text-base md:text-xl text-muted-foreground mb-6 md:mb-8 leading-relaxed animate-fade-in opacity-0" style="animation-delay: 0.6s">
         Er sagt der Ex zu, dass das Wochenende getauscht wird – ohne dich zu fragen. 
         Du schluckst es runter, wieder mal. Ich zeig dir, wie du sagst, was du brauchst – 
         und wie ihr als Paar anfangt, Entscheidungen gemeinsam zu treffen.
@@ -36,7 +38,7 @@
       <!-- CTA Button -->
       <div class="flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0" style="animation-delay: 0.8s">
         <a href="/quiz"
-          class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 text-lg font-medium transition-colors group">
+          class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-6 md:px-8 py-3 md:py-4 text-base md:text-lg font-medium transition-colors group">
           Finde deinen nächsten Schritt
           <svg class="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
@@ -45,7 +47,7 @@
       </div>
 
       <!-- Trust Indicators -->
-      <div class="mt-12 pt-8 border-t border-border/50 animate-fade-in opacity-0" style="animation-delay: 1s">
+      <div class="mt-8 md:mt-12 pt-6 md:pt-8 border-t border-border/50 animate-fade-in opacity-0" style="animation-delay: 1s">
         <p class="text-sm text-muted-foreground mb-3">Gehört von über 800 Bonusmamas</p>
         <div class="flex items-center gap-1">
           {Array.from({length: 5}).map(() => (
