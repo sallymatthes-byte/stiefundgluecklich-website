@@ -1,0 +1,323 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout title="Beyond Bonus – Das Online-Intensivprogramm für Bonusmamas" description="17+ Stunden Video-Module, Workbooks und ein 10-Wochen-Fahrplan für Bonusmamas. In deinem Tempo. 497€.">
+
+  <!-- Hero -->
+  <section class="relative flex flex-col md:min-h-[90vh] md:flex-row md:items-center overflow-hidden">
+    <div class="absolute inset-0 z-0 hidden md:block">
+      <img src="/images/beyondbonus/sally-hero-wide.jpg" alt="Sally – Stief & Glücklich" class="w-full h-full object-cover object-[75%_center]" />
+      <div class="absolute inset-0 bg-gradient-to-r from-background via-background/70 to-transparent"></div>
+    </div>
+    <div class="container mx-auto px-5 md:px-6 relative z-10 py-20">
+      <div class="max-w-2xl">
+        <div class="inline-flex items-center gap-2 bg-primary/10 border border-primary/20 px-4 py-2 mb-6">
+          <svg class="w-4 h-4 text-primary" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          <span class="text-sm font-medium text-primary">Online-Intensivprogramm – Starte sofort</span>
+        </div>
+        <p class="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Das Programm für Bonusmamas</p>
+        <h1 class="text-5xl md:text-6xl lg:text-7xl mb-6 leading-tight">BEYOND BONUS</h1>
+        <p class="text-lg md:text-xl mb-4 leading-relaxed">Du funktionierst. Du schluckst. Du fragst dich abends, ob das hier jemals dein Zuhause wird.</p>
+        <p class="text-xl md:text-2xl font-serif text-muted-foreground mb-8">17+ Stunden. 9 Module. Ein System.<br /><span class="text-foreground font-medium">Damit du aufhörst zu grübeln – und anfängst, etwas zu verändern.</span></p>
+        <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity mb-8">Jetzt Zugang sichern – 497 €</a>
+        <div class="flex flex-wrap gap-6 text-sm text-muted-foreground">
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 17+ Stunden Video-Module</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 10-Wochen E-Mail-Begleitung</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 12 Monate Zugang</div>
+        </div>
+      </div>
+    </div>
+    <div class="md:hidden w-full px-6 pb-8">
+      <img src="/images/beyondbonus/sally-hero-mobile.jpg" alt="Sally – Stief & Glücklich" class="w-full h-auto object-cover" />
+    </div>
+  </section>
+
+  <!-- Problem -->
+  <section class="py-20">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="grid md:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl md:text-4xl lg:text-5xl mb-8 leading-tight">„Du hast schon alles versucht – Podcasts, Blogs, Instagram-Tipps. Und trotzdem ändert sich nichts."</h2>
+          <div class="space-y-4 text-lg text-muted-foreground">
+            <p>Du liest. Du hörst zu. Du probierst aus.</p>
+            <p>Aber abends liegst du trotzdem wach und fragst dich, ob du jemals wirklich dazugehören wirst.</p>
+            <p>Das Problem ist nicht, dass du zu wenig weißt. Das Problem ist: Es fehlt die Reihenfolge, die Tiefe und ein System, das dich Schritt für Schritt durchführt.</p>
+            <p class="text-foreground font-medium pt-4">Beyond Bonus ist dieses System.</p>
+          </div>
+          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt dein System holen</a>
+        </div>
+        <div class="hidden md:block">
+          <img src="/images/warteliste/sally-creek.jpg" alt="Sally am Bach" class="w-full aspect-[4/5] object-cover" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Transformations -->
+  <section class="py-20 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">Deine Transformation</h2>
+        <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Von der Grübelspirale zum klaren System – in deinem Tempo</p>
+      </div>
+      <div class="max-w-4xl mx-auto space-y-6">
+        {[
+          ["Ich grüble abends stundenlang über meine Rolle in der Familie", "Ich habe Klarheit – und weiß, was mein nächster Schritt ist"],
+          ["Konflikte über Erziehung und die Ex eskalieren immer wieder", "Ich habe Werkzeuge für Kommunikation und Konflikte, die funktionieren"],
+          ["Ich fühle mich machtlos gegenüber der Ex-Partnerin", "Ich setze Grenzen – ohne Drama, ohne schlechtes Gewissen"],
+          ["Ich funktioniere nur noch – innerlich bröckelt es", "Ich kenne meine Kraftquellen und weiß, wie ich sie nutze"],
+          ["Ich weiß nicht, wo ich anfangen soll, etwas zu ändern", "Ich habe einen klaren Fahrplan, dem ich Woche für Woche folge"],
+        ].map(([before, after]) => (
+          <div class="grid md:grid-cols-[1fr,auto,1fr] gap-4 items-center bg-background border border-border p-6">
+            <div class="text-muted-foreground italic">„{before}"</div>
+            <div class="hidden md:flex justify-center"><svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></div>
+            <div class="text-foreground font-medium">„{after}"</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- 9 Module -->
+  <section class="py-20">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">9 Module. 17+ Stunden. Ein System.</h2>
+        <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Kein Sammelsurium aus Tipps, sondern ein strukturierter Fahrplan – in der richtigen Reihenfolge, mit der nötigen Tiefe.</p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-20">
+        {[
+          ["🧭", "Start & Einstieg", "Du gewinnst Klarheit über deine Vision und erkennst, welche Glaubenssätze dich bremsen."],
+          ["👤", "Persönlichkeit & Rolle", "Du erkennst deine Stärken, gibst Verantwortung ab und befreist dich vom Mental Load."],
+          ["🧩", "Patchworkdynamiken", "Du verstehst, warum du dich als Außenseiterin fühlst – und wie du da rauskommst."],
+          ["💛", "Kraftquellen", "Du lernst, deine Gefühle einzuordnen und Grenzen zu setzen, ohne schlechtes Gewissen."],
+          ["👶", "Bonuskinder", "Du baust eine echte Verbindung auf – in deinem Tempo, ohne dich zu verbiegen."],
+          ["💑", "Partnerschaft", "Du stärkst eure Beziehung und findet gemeinsame Werte und Erziehungsziele."],
+          ["💬", "Kommunikationsstrategien", "Du sagst, was du brauchst – ohne Vorwürfe, mit Wirkung."],
+          ["🛡", "Ex-Partnerin", "Du lernst, mit Hochstrittigkeit umzugehen und Trigger-Situationen zu entschärfen."],
+          ["✨", "Zukunft & Ausblick", "Du feierst deine Fortschritte und weißt, wie du dranbleibst."],
+        ].map(([icon, title, desc]) => (
+          <div class="bg-background p-6 border border-border">
+            <div class="flex items-center gap-3 mb-3">
+              <div class="w-10 h-10 bg-primary/10 flex items-center justify-center flex-shrink-0 text-lg">{icon}</div>
+              <h3 class="font-serif text-lg">{title}</h3>
+            </div>
+            <p class="text-sm text-muted-foreground">{desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <!-- What's included -->
+      <div class="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
+        <div>
+          <h3 class="text-2xl md:text-3xl mb-8">Das bekommst du:</h3>
+          <div class="space-y-6">
+            {[
+              ["17+ Stunden Video-Module", "Unterwegs anhörbar wie intensive Podcastfolgen – aber mit System und Reihenfolge."],
+              ["Workbooks mit Übungen", "Hier passiert die eigentliche Umsetzung – aktives Arbeiten an deiner Situation."],
+              ["10-Wochen-E-Mail-Serie", "Jede Woche automatisch eine E-Mail mit der nächsten Lektion und einem klaren nächsten Schritt."],
+              ["Q&A-Call-Archiv (Bonus)", "Aufzeichnungen aus vergangenen Live-Calls mit echten Fragen und Situationen."],
+              ["12 Monate Zugang", "Alle Inhalte, alle Module – in deinem Tempo, so oft du willst."],
+            ].map(([title, desc]) => (
+              <div class="flex gap-4">
+                <div class="flex-shrink-0 w-1 bg-primary"></div>
+                <div>
+                  <h4 class="font-semibold mb-1">{title}</h4>
+                  <p class="text-sm text-muted-foreground">{desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+        <div>
+          <img src="/images/sally-professional.jpeg" alt="Sally erklärt" class="w-full aspect-[4/5] object-cover" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- For You -->
+  <section class="py-20 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
+        <div class="order-2 md:order-1">
+          <img src="/images/warteliste/sally-moss.jpg" alt="Sally in der Natur" class="w-full aspect-[4/5] object-cover" />
+        </div>
+        <div class="order-1 md:order-2">
+          <h2 class="text-3xl md:text-4xl mb-8">Beyond Bonus ist für dich, wenn du...</h2>
+          <ul class="space-y-4">
+            {[
+              "...abends wach liegst und dich fragst, ob du jemals wirklich dazugehören wirst",
+              "...Konflikte mit dem Partner über Erziehung, die Ex oder Aufgabenverteilung regelmäßig eskalieren",
+              "...die Ex macht, was sie will – und du stehst machtlos daneben",
+              "...du funktionierst, aber innerlich bröckelt es: Erschöpfung, Selbstzweifel, Rückzug",
+              "...schon Podcasts gehört, Blogs gelesen, Instagram-Tipps ausprobiert hast – aber nichts hat nachhaltig geholfen",
+              "...weißt, dass sich etwas ändern muss – aber (noch) kein 1:1 Coaching willst oder kannst",
+            ].map(point => (
+              <li class="flex gap-4 items-start">
+                <div class="flex-shrink-0 w-6 h-6 bg-primary flex items-center justify-center mt-0.5">
+                  <svg class="w-4 h-4 text-primary-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                </div>
+                <span class="text-lg">{point}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="mt-8 text-lg font-medium">Du brauchst keine schnellen Tipps. Du brauchst ein System.</p>
+          <p class="mt-2 text-lg text-primary font-serif italic">Beyond Bonus ist dieses System.</p>
+          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Ich bin dabei – 497 €</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Sally -->
+  <section class="py-20">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center max-w-5xl mx-auto">
+        <div class="relative">
+          <img src="/images/sally-smiling.jpeg" alt="Sally – Dein Coach für Bonusmamas" class="shadow-2xl w-full max-w-md mx-auto" />
+        </div>
+        <div>
+          <p class="text-primary font-medium mb-4">Dein Coach</p>
+          <h2 class="text-3xl md:text-4xl lg:text-5xl mb-6"><span class="italic text-gold">Hallo,</span> ich bin Sally</h2>
+          <div class="space-y-4 text-muted-foreground leading-relaxed">
+            <p>Ich bin selbst Bonusmama. Seit über 6 Jahren.</p>
+            <p>Ich weiß, wie es ist, abends wach zu liegen und sich zu fragen: Gehöre ich hier wirklich hin?</p>
+            <p>Beyond Bonus ist alles, was ich in 6 Jahren als Bonusmama und Coach gelernt habe – strukturiert, in der richtigen Reihenfolge und so aufbereitet, dass du es in deinem Tempo durcharbeiten kannst. <strong class="text-foreground">Kein Rätselraten. Sondern ein System.</strong></p>
+          </div>
+          <div class="mt-8 grid grid-cols-3 gap-4">
+            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">100+</p><p class="text-sm text-muted-foreground">Begleitete Bonusmamas</p></div>
+            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">6+</p><p class="text-sm text-muted-foreground">Jahre Erfahrung</p></div>
+            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">17+</p><p class="text-sm text-muted-foreground">Stunden Kursmaterial</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="py-20 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="text-center max-w-3xl mx-auto mb-12">
+        <p class="text-primary font-medium mb-4">Erfahrungen</p>
+        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-6">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
+        <p class="text-lg text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
+      </div>
+      <div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+        {[
+          ["Die Liste mit den Gefühlen hat mir wirklich geholfen. Ich konnte endlich ausdrücken, wie ich mich fühle — das hat einen riesigen Unterschied gemacht.", "19:51"],
+          ["Ich hab mir das Video zu den Familienritualen angeschaut. Das wollen wir uns jetzt zusammen nochmal angucken — richtig guter Input.", "10:38"],
+          ["Ich habe die Kommunikationsmodule durchgearbeitet — da kann ich immer noch was Neues mitnehmen. Tools, die ich wirklich im Alltag anwende.", "16:03"],
+          ["Wir haben uns die Videos zu den Sprachen der Liebe zusammen angeschaut — fast 3 Stunden! Da wurde so viel nochmal zwischen uns angesprochen.", "09:14"],
+          ["Ich bin jetzt beim dritten Modul und arbeite mich durch. Besonders das Kommunikationsmodul finde ich richtig stark.", "12:09"],
+          ["Es gibt so viel wertvolles Material — für jede Situation findet man was Passendes. Ich greife immer wieder darauf zurück.", "15:27"],
+        ].map(([text, time]) => (
+          <div class="relative max-w-[90%]">
+            <div class="rounded-lg rounded-tl-none px-4 py-3 text-sm leading-relaxed text-white/90 relative" style="background-color: #1f3025;">
+              <span>{text}</span>
+              <span class="text-xs text-white/40 float-right mt-1 ml-3 whitespace-nowrap">{time}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="py-20">
+    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+      <div class="text-center mb-12">
+        <p class="text-primary font-medium mb-4">Häufige Fragen</p>
+        <h2 class="text-3xl md:text-4xl mb-4">Alles, was du wissen musst</h2>
+      </div>
+      <div class="space-y-0 divide-y divide-border">
+        {[
+          ["Ist das ein Online-Programm ohne Live-Begleitung?", "Ja – und genau das ist der Punkt. Du bekommst eine automatisierte 10-Wochen-E-Mail-Serie, die dich Schritt für Schritt durch das Programm führt. Jede Woche: eine gezielte Lektion, ein Worksheet und ein klarer nächster Schritt."],
+          ["Was unterscheidet Beyond Bonus von Podcasts und Blogs?", "Die Reihenfolge, die Tiefe und die Worksheets zur Umsetzung. Kostenlose Inhalte geben dir Wissen. Beyond Bonus gibt dir ein System – damit du nicht nur verstehst, sondern wirklich etwas veränderst."],
+          ["Kann ich die Module auch unterwegs anhören?", "Ja! Die Video-Module funktionieren wie intensive Podcastfolgen. Die Transformation passiert aber durch die Worksheets – also durch aktives Arbeiten an deiner eigenen Situation."],
+          ["Wie lange habe ich Zugang?", "12 Monate ab Kauf. Du kannst sofort starten und alle Inhalte so oft anschauen und durcharbeiten, wie du möchtest."],
+          ["Ist das ein Ersatz für 1:1 Coaching?", "Nein – Beyond Bonus ist der Einstieg. Es gibt dir Orientierung, Einordnung und Werkzeuge. Wer danach tiefere, persönliche Begleitung möchte, kann sich auf die 1:1-Warteliste setzen."],
+          ["Gibt es eine Ratenzahlung?", "Nein, Beyond Bonus ist als einmalige Zahlung von 497 € verfügbar. Kein Abo, keine versteckten Kosten."],
+        ].map(([q, a]) => (
+          <details class="group py-5">
+            <summary class="flex justify-between items-center cursor-pointer list-none font-serif text-lg"><span>{q}</span><span class="text-muted-foreground group-open:rotate-180 transition-transform">▾</span></summary>
+            <p class="mt-4 text-muted-foreground leading-relaxed">{a}</p>
+          </details>
+        ))}
+      </div>
+      <div class="text-center mt-12">
+        <p class="text-lg mb-2">Noch unsicher?</p>
+        <p class="text-muted-foreground mb-6">Schreib mir eine E-Mail an <a href="mailto:willkommen@sallymatthes.com" class="text-primary hover:underline">willkommen@sallymatthes.com</a> – ich antworte persönlich.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing -->
+  <section id="pricing" class="py-20 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="text-center mb-12">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Deine Investition</p>
+        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">Starte jetzt mit Beyond Bonus</h2>
+      </div>
+      <div class="max-w-md mx-auto">
+        <div class="bg-background p-8 ring-2 ring-primary relative">
+          <div class="absolute -top-4 left-1/2 -translate-x-1/2 bg-primary text-primary-foreground px-4 py-1 text-sm">Einmalzahlung</div>
+          <div class="text-center mb-6">
+            <h3 class="text-xl font-serif mb-2">Beyond Bonus</h3>
+            <div class="text-5xl font-serif">497€</div>
+            <p class="text-sm text-muted-foreground mt-2">Einmalig – kein Abo</p>
+          </div>
+          <ul class="space-y-3 mb-8">
+            {["17+ Stunden Video-Module in 9 Themenbereichen", "Workbooks mit Übungen zu jedem Modul", "10-Wochen-E-Mail-Serie (automatisiert)", "Q&A-Call-Archiv als Bonus", "12 Monate Zugang zu allen Inhalten", "Sofortiger Start nach Kauf"].map(f => (
+              <li class="flex gap-3"><svg class="w-5 h-5 text-primary flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg><span class="text-sm">{f}</span></li>
+            ))}
+          </ul>
+          <form id="bb-checkout-form" class="space-y-4">
+            <input type="text" id="bb-name" placeholder="Dein Name" required class="w-full p-3 border border-border bg-white focus:outline-none focus:border-primary" />
+            <input type="email" id="bb-email" placeholder="Deine E-Mail-Adresse" required class="w-full p-3 border border-border bg-white focus:outline-none focus:border-primary" />
+            <label class="flex items-start gap-3 cursor-pointer text-left">
+              <input type="checkbox" id="bb-consent" required class="mt-1 w-4 h-4 accent-primary flex-shrink-0" />
+              <span class="text-xs text-muted-foreground leading-relaxed">Ich stimme zu, dass mit der Bereitstellung der digitalen Inhalte sofort begonnen wird, und weiß, dass ich dadurch mein 14-tägiges Widerrufsrecht verliere.</span>
+            </label>
+            <button type="submit" id="bb-submit-btn" disabled class="w-full py-4 text-lg font-medium bg-primary text-primary-foreground hover:opacity-90 transition-opacity disabled:opacity-50">Weiter zur Zahlung</button>
+          </form>
+          <p class="text-xs text-muted-foreground text-center mt-3">Sichere Bezahlung über Stripe.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="py-20">
+    <div class="container mx-auto px-5 md:px-6 max-w-3xl text-center">
+      <h2 class="text-3xl md:text-4xl mb-6">Du weißt, dass sich etwas ändern muss.</h2>
+      <p class="text-lg text-muted-foreground mb-4 leading-relaxed">Kein weiterer Podcast. Kein weiterer Tipp. Sondern ein System, das dich Schritt für Schritt durchführt.</p>
+      <p class="text-lg text-muted-foreground mb-8 leading-relaxed">17+ Stunden. 9 Module. Workbooks. E-Mail-Begleitung.<br />In deinem Tempo. Ab sofort.</p>
+      <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt loslegen – 497 €</a>
+    </div>
+  </section>
+</Layout>
+
+<script is:inline>
+  const consent = document.getElementById('bb-consent');
+  const submitBtn = document.getElementById('bb-submit-btn');
+  consent?.addEventListener('change', () => { submitBtn.disabled = !consent.checked; });
+
+  document.getElementById('bb-checkout-form')?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    submitBtn.textContent = 'Wird geladen...';
+    submitBtn.disabled = true;
+    const name = document.getElementById('bb-name').value;
+    const email = document.getElementById('bb-email').value;
+    try {
+      const res = await fetch('/api/checkout-beyondbonus', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name, email }) });
+      const data = await res.json();
+      if (data?.url) { window.location.href = data.url; } else { throw new Error('No URL'); }
+    } catch (err) {
+      alert('Es gab ein Problem. Bitte versuche es erneut.');
+      submitBtn.textContent = 'Weiter zur Zahlung';
+      submitBtn.disabled = !consent.checked;
+    }
+  });
+</script>
