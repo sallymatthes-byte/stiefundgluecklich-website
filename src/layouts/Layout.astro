@@ -1,0 +1,42 @@
+---
+import '../styles/global.css'
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+}
+
+const { 
+  title, 
+  description = 'Coaching für Bonusmamas in Patchworkfamilien — klar, direkt, empathisch.',
+  canonical
+} = Astro.props;
+
+const siteUrl = 'https://stiefundgluecklich.de';
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonical} />}
+    
+    <!-- SEO -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical || siteUrl} />
+    <meta property="og:locale" content="de_DE" />
+    
+    <title>{title} | StiefundGlücklich</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <slot />
+  </body>
+</html>

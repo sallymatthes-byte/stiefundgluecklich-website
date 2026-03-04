@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+/* ============================================
+   StiefundGlücklich — Design Tokens
+   Fonts: Playfair Display (Headings) + Raleway (Body)
+   ============================================ */
+
+@theme {
+  /* Brand Colors */
+  --color-forest: hsl(107, 57%, 21%);
+  --color-forest-light: hsl(107, 40%, 35%);
+  --color-gold: hsl(42, 62%, 58%);
+  --color-gold-light: hsl(42, 62%, 75%);
+  --color-cream: hsl(45, 43%, 98%);
+  --color-terracotta: hsl(17, 50%, 55%);
+  --color-terracotta-light: hsl(17, 40%, 70%);
+
+  /* Typography */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Raleway', system-ui, sans-serif;
+}
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Base Styles */
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: #1a1a1a;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-forest);
+  line-height: 1.2;
+}
