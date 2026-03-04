@@ -1,59 +1,15 @@
 ---
 import Layout from '../../layouts/Layout.astro'
+import { getCollection } from 'astro:content';
 
-// Placeholder blog data — wird in Phase 4 durch echte WordPress-Artikel ersetzt
+const allPosts = await getCollection('blog');
+
+// Sort by date descending
+const blogPosts = allPosts.sort((a, b) => 
+  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
 const categories = ["Alle", "Rolle & Identität", "Partnerschaft", "Die Ex & das System", "Kinder & Bindung"];
-
-const blogPosts = [
-  {
-    slug: "wenn-die-besessenheit-von-der-ex-frau-deines-partners-dich-auffrisst",
-    title: "Wenn die Besessenheit von der Ex-Frau deines Partners dich auffrisst",
-    excerpt: "Du stalkerst ihr Profil, vergleichst dich ständig — und hasst dich dafür. Was wirklich dahinter steckt.",
-    category: "Die Ex & das System",
-    image: "/images/blog/blog-reflection.jpg",
-    readTime: "8 Min",
-  },
-  {
-    slug: "ab-wann-ist-man-stiefmutter",
-    title: "Ab wann ist man eigentlich Stiefmutter?",
-    excerpt: "Eine Frage, die sich viele stellen — und die Antwort ist komplizierter als du denkst.",
-    category: "Rolle & Identität",
-    image: "/images/blog/blog-journaling.jpg",
-    readTime: "6 Min",
-  },
-  {
-    slug: "von-der-stiefkind-eifersucht-zur-harmonie",
-    title: "Von der Stiefkind-Eifersucht zur Harmonie",
-    excerpt: "Wenn die Eifersucht auf sein Kind dich überwältigt — und wie du da rauskommst.",
-    category: "Kinder & Bindung",
-    image: "/images/blog/blog-conversation.jpg",
-    readTime: "7 Min",
-  },
-  {
-    slug: "staendig-streit-wegen-der-ex",
-    title: "Ständig Streit wegen der Ex-Frau",
-    excerpt: "Warum die Ex immer wieder zum Streitthema wird — und was ihr als Paar dagegen tun könnt.",
-    category: "Die Ex & das System",
-    image: "/images/blog/blog-relationship.jpg",
-    readTime: "9 Min",
-  },
-  {
-    slug: "die-10-rechte-der-stiefmuetter",
-    title: "Die 10 Rechte der Stiefmütter",
-    excerpt: "Du hast mehr Rechte als du denkst. Hier sind die wichtigsten — die dir niemand sagt.",
-    category: "Rolle & Identität",
-    image: "/images/blog/blog-selfcare.jpg",
-    readTime: "5 Min",
-  },
-  {
-    slug: "eifersucht-als-bonusmama",
-    title: "Eifersucht als Bonusmama — woher sie kommt und was du tun kannst",
-    excerpt: "Eifersucht auf die Ex, auf die Kinder, auf die gemeinsame Geschichte. Du bist nicht verrückt.",
-    category: "Partnerschaft",
-    image: "/images/blog/blog-solitude.jpg",
-    readTime: "10 Min",
-  },
-];
 ---
 
 <Layout 
@@ -97,33 +53,48 @@ const blogPosts = [
   <!-- Blog Grid -->
   <section class="py-12 md:py-16">
     <div class="container mx-auto px-5 md:px-6">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="blog-grid">
-        {blogPosts.map((post) => (
-          <a href={`/${post.slug}/`} class="blog-card group" data-category={post.category}>
-            <div class="border border-border overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer h-full flex flex-col">
-              <div class="aspect-[16/10] overflow-hidden bg-secondary">
-                <img src={post.image} alt={post.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-              </div>
-              <div class="p-5 md:p-6 flex flex-col flex-1">
-                <div class="flex items-center gap-3 md:gap-4 mb-3">
-                  <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{post.category}</span>
-                  <span class="text-xs text-muted-foreground">🕐 {post.readTime}</span>
+      {blogPosts.length === 0 ? (
+        <div class="text-center py-16">
+          <p class="text-muted-foreground text-lg">Noch keine Artikel vorhanden.</p>
+        </div>
+      ) : (
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="blog-grid">
+          {blogPosts.map((post) => (
+            <a href={`/blog/${post.slug}`} class="blog-card group" data-category={post.data.category}>
+              <div class="border border-border overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer h-full flex flex-col">
+                {post.data.image && (
+                  <div class="aspect-[16/10] overflow-hidden bg-secondary">
+                    <img 
+                      src={post.data.image} 
+                      alt={post.data.title} 
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                      loading="lazy" 
+                    />
+                  </div>
+                )}
+                <div class="p-5 md:p-6 flex flex-col flex-1">
+                  <div class="flex items-center gap-3 md:gap-4 mb-3">
+                    <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{post.data.category}</span>
+                    {post.data.readingTime && (
+                      <span class="text-xs text-muted-foreground">🕐 {post.data.readingTime}</span>
+                    )}
+                  </div>
+                  <h2 class="font-serif text-lg md:text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
+                    {post.data.title}
+                  </h2>
+                  <p class="text-muted-foreground text-sm leading-relaxed mb-4 flex-1">{post.data.excerpt}</p>
+                  <div class="flex items-center text-primary text-sm font-medium group-hover:gap-2 transition-all">
+                    Artikel lesen
+                    <svg class="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
                 </div>
-                <h2 class="font-serif text-lg md:text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
-                  {post.title}
-                </h2>
-                <p class="text-muted-foreground text-sm leading-relaxed mb-4 flex-1">{post.excerpt}</p>
-                <div class="flex items-center text-primary text-sm font-medium group-hover:gap-2 transition-all">
-                  Artikel lesen
-                  <svg class="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                  </svg>
-                </div>
               </div>
-            </div>
-          </a>
-        ))}
-      </div>
+            </a>
+          ))}
+        </div>
+      )}
     </div>
   </section>
 
@@ -151,13 +122,11 @@ const blogPosts = [
     btn.addEventListener('click', () => {
       const cat = (btn as HTMLElement).dataset.category;
       
-      // Update active button
       document.querySelectorAll('.category-btn').forEach(b => {
         b.className = 'category-btn px-3 md:px-4 py-1.5 md:py-2 text-sm font-medium transition-colors border border-border text-muted-foreground hover:text-foreground hover:border-primary';
       });
       btn.className = 'category-btn px-3 md:px-4 py-1.5 md:py-2 text-sm font-medium transition-colors bg-primary text-primary-foreground';
       
-      // Filter cards
       document.querySelectorAll('.blog-card').forEach(card => {
         const cardCat = (card as HTMLElement).dataset.category;
         if (cat === 'Alle' || cardCat === cat) {
