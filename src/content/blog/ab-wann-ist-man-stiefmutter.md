@@ -119,21 +119,17 @@ Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es
 
 **Lass mich dir eines sagen: Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
-> "Ich hatte schon so viele Ratgeber gelesen, aber erst Sallys Coaching hat mir wirklich geholfen, meinen Platz in unserer Patchworkfamilie zu finden. Heute fühle ich mich endlich sicher und wertvoll in meiner Rolle als Bonusmama." – Christina, 34, Bonusmama von zwei Jungs (7 und 9)
+<div class="testimonial-bubble">
+  <p class="testimonial-text">Ich hatte schon so viele Ratgeber gelesen, aber erst Sallys Coaching hat mir wirklich geholfen, meinen Platz in unserer Patchworkfamilie zu finden. Heute fühle ich mich endlich sicher und wertvoll in meiner Rolle als Bonusmama.</p>
+  <p class="testimonial-author">Christina, 34 · Bonusmama von zwei Jungs (7 und 9)</p>
+</div>
 
-> "Der geschützte Austausch in der Support Group ist Gold wert! Hier kann ich auch die Dinge ansprechen, die ich mich sonst nicht traue zu sagen. Das hat mir so viel Last von den Schultern genommen." – Maria, 41, Bonusmama einer Teenagerin
-
----
-
-## Nicht sicher, wo du gerade stehst?
-
-Jede Bonusmama ist an einem anderen Punkt auf ihrer Reise. Manche brauchen erste Orientierung, andere sind bereit für echte Veränderung. **In 2 Minuten findest du heraus, welcher nächste Schritt zu dir passt:**
-
-[→ Zum Quiz: Finde deinen nächsten Schritt](/quiz)
+<div class="testimonial-bubble">
+  <p class="testimonial-text">Der geschützte Austausch in der Support Group ist Gold wert! Hier kann ich auch die Dinge ansprechen, die ich mich sonst nicht traue zu sagen. Das hat mir so viel Last von den Schultern genommen.</p>
+  <p class="testimonial-author">Maria, 41 · Bonusmama einer Teenagerin</p>
+</div>
 
 ---
 
 Mach's gut,
 Deine Sally 💛
-
-P.S.: Noch nicht bereit für den nächsten Schritt? Kein Problem. Hör dir gerne meinen [Podcast](https://open.spotify.com/show/3x5xUaEBaEMrSMnIBqMRhG) an — dort teile ich regelmäßig praktische Tipps aus dem Bonusmama-Alltag.

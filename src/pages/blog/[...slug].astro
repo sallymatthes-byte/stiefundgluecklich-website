@@ -96,35 +96,6 @@ const relatedPosts = allPosts
           <Content />
         </div>
 
-        <!-- Podcast Reference -->
-        {post.data.podcastEpisode && (
-          <div class="mt-16 p-6 md:p-8 bg-secondary/50 border border-border">
-            <div class="flex items-center gap-2 text-primary mb-3">
-              <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072M12 12h.01M18.364 5.636a9 9 0 010 12.728M6 15H4a1 1 0 01-1-1V10a1 1 0 011-1h2l3.5-4.5A.5.5 0 0110 4.8v14.4a.5.5 0 01-.832.374L5.668 15" />
-              </svg>
-              <span class="font-medium text-sm uppercase tracking-wide">Mehr dazu im Podcast</span>
-            </div>
-            {post.data.podcastTitle && (
-              <h3 class="font-serif text-xl text-foreground mb-2">{post.data.podcastTitle}</h3>
-            )}
-            {post.data.podcastDescription && (
-              <p class="text-muted-foreground text-sm leading-relaxed mb-4">{post.data.podcastDescription}</p>
-            )}
-            <a
-              href={post.data.podcastEpisode}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="inline-flex items-center text-primary font-medium text-sm hover:opacity-80 transition-opacity"
-            >
-              Auf Spotify anhören
-              <svg class="ml-1.5 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </div>
-        )}
-
         <!-- Quiz CTA -->
         <div class="mt-16 bg-primary text-primary-foreground py-12 px-6 md:px-14 text-center shadow-lg">
           <h2 class="font-serif text-xl md:text-2xl lg:text-3xl font-semibold mb-3">
@@ -299,5 +270,41 @@ const relatedPosts = allPosts
   .prose-custom hr {
     margin: 2.5rem 0;
     border-color: hsl(var(--border));
+  }
+
+  /* WhatsApp-style testimonial bubbles */
+  .prose-custom .testimonial-bubble {
+    background: hsl(107, 57%, 21%);
+    color: white;
+    padding: 1.25rem 1.5rem;
+    border-radius: 0 16px 16px 16px;
+    margin: 1.5rem 0;
+    position: relative;
+    max-width: 90%;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+  }
+  .prose-custom .testimonial-bubble::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -8px;
+    width: 0;
+    height: 0;
+    border-top: 0 solid transparent;
+    border-right: 8px solid hsl(107, 57%, 21%);
+    border-bottom: 8px solid transparent;
+  }
+  .prose-custom .testimonial-text {
+    color: white !important;
+    font-style: italic;
+    font-size: 1rem !important;
+    line-height: 1.7 !important;
+    margin-bottom: 0.75rem !important;
+  }
+  .prose-custom .testimonial-author {
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-size: 0.85rem !important;
+    font-style: normal;
+    margin-bottom: 0 !important;
   }
 </style>
