@@ -1,0 +1,106 @@
+---
+const episodes = [
+  {
+    problemHook: "Was, wenn ich alles gebe – und es trotzdem nicht reicht?",
+    guest: "Fleur",
+    context: "Fleur hat als Bonusmama alles gegeben – und wurde trotzdem zurückgewiesen. Wie sie nach dem Kontaktabbruch beider Bonuskinder zurück zu sich selbst gefunden hat.",
+    spotifyEmbedUrl: "https://open.spotify.com/embed/episode/1daDaPmSDfZPUiQA0dO3l1",
+  },
+  {
+    problemHook: "Ich war kurz davor zu gehen",
+    guest: "Janni",
+    context: "Drei Kinder, ein alleinerziehender Partner, ein Haus voller Geschichte – und mittendrin Janni mit ganz viel Zweifel. Wie sie ihren eigenen Platz gefunden hat.",
+    spotifyEmbedUrl: "https://open.spotify.com/embed/episode/2DtVUv3v6YL7bHwr6gfs2i",
+  },
+  {
+    problemHook: "Überforderung, Eifersucht und endlose Konflikte",
+    guest: "Judith & Matthias",
+    context: "Ein Patchworkpaar am Limit. Wie sie durch Coaching von Chaos zu echter Verbindung und Leichtigkeit gefunden haben.",
+    spotifyEmbedUrl: "https://open.spotify.com/embed/episode/62LJvoTFiNjXtLIlUjN8mY",
+  },
+  {
+    problemHook: "Wie gehöre ich wirklich dazu?",
+    guest: "Sascha & Janni",
+    context: "Sascha (Vater von 3 Kindern) und seine Partnerin Janni sprechen ehrlich darüber, wie Patchwork wirklich zusammenwächst – und was Papas wirklich denken.",
+    spotifyEmbedUrl: "https://open.spotify.com/embed/episode/5y8QkvhAj9cRsoOGYFUdTE",
+  },
+];
+---
+
+<section class="py-24 bg-background">
+  <div class="container mx-auto px-6">
+    <!-- Header -->
+    <div class="text-center max-w-3xl mx-auto mb-12">
+      <div class="inline-flex items-center gap-2 text-primary font-medium mb-4">
+        <span>🎙️ Bonusgeflüster</span>
+      </div>
+      <h2 class="font-serif text-3xl md:text-4xl lg:text-5xl text-foreground mb-6">
+        Echte Geschichten aus dem <span class="italic text-gold-bright">Podcast</span>
+      </h2>
+      <p class="text-lg text-muted-foreground">
+        Hör dir an, wie andere Bonusmamas ihren Weg gefunden haben.
+      </p>
+    </div>
+
+    <!-- Episode Cards Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+      {episodes.map((episode) => (
+        <div class="bg-card border border-border overflow-hidden hover:shadow-lg transition-shadow duration-300 flex flex-col">
+          <div class="p-6 overflow-hidden flex flex-col flex-1">
+            <div class="flex-1">
+              <h3 class="font-serif text-xl md:text-2xl text-foreground mb-3 leading-tight">
+                „{episode.problemHook}"
+              </h3>
+              <p class="text-primary font-medium text-sm mb-2">
+                Mit {episode.guest}
+              </p>
+              <p class="text-muted-foreground text-sm mb-5 leading-relaxed">
+                {episode.context}
+              </p>
+            </div>
+            <div class="rounded-xl overflow-hidden -mx-1 mt-auto">
+              <iframe
+                style="border-radius: 12px;"
+                src={episode.spotifyEmbedUrl}
+                width="100%"
+                height="152"
+                frameborder="0"
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy"
+                title={`Podcast Episode mit ${episode.guest}`}
+                class="block w-full max-w-full overflow-hidden"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Social Proof -->
+    <div class="mt-12 text-center">
+      <div class="inline-flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
+        <div class="flex items-center gap-1">
+          {Array.from({length: 5}).map(() => (
+            <svg class="w-5 h-5 text-gold-bright fill-current" viewBox="0 0 24 24">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+            </svg>
+          ))}
+        </div>
+        <div class="flex flex-col sm:flex-row items-center gap-1 sm:gap-2">
+          <span class="text-foreground font-medium">4.8/5</span>
+          <span class="text-muted-foreground text-sm sm:text-base">| Der Podcast für Bonusmamas</span>
+        </div>
+      </div>
+      <p class="text-sm text-muted-foreground mt-3">Gehört von über 800 Bonusmamas</p>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-8">
+      <a href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm"
+        target="_blank" rel="noopener noreferrer"
+        class="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary/10 px-6 py-2.5 font-medium transition-colors">
+        🎧 Alle Folgen hören
+      </a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,136 @@
+---
+const testimonials = Array.from({length: 15}, (_, i) => ({
+  src: `/images/testimonials/testimonial-${i + 1}.png`,
+  alt: `Kundenfeedback von einer Bonusmama ${i + 1}`,
+}));
+
+// 4-column distribution for desktop masonry
+const columns = [
+  [testimonials[0], testimonials[4], testimonials[8], testimonials[12]],
+  [testimonials[1], testimonials[5], testimonials[9], testimonials[13]],
+  [testimonials[2], testimonials[6], testimonials[10]],
+  [testimonials[3], testimonials[7], testimonials[11], testimonials[14]],
+];
+---
+
+<section id="testimonials" class="py-24 bg-background">
+  <div class="container mx-auto px-6">
+    <!-- Header -->
+    <div class="text-center max-w-3xl mx-auto mb-12">
+      <p class="text-primary font-medium mb-4">Echte Stimmen</p>
+      <h2 class="font-serif text-3xl md:text-4xl lg:text-5xl text-foreground mb-6">
+        Was andere <span class="italic text-gold-bright">Bonusmamas</span> sagen
+      </h2>
+      <p class="text-lg text-muted-foreground">
+        Echte Nachrichten von Frauen, die ihren Weg zu mehr Leichtigkeit gefunden haben.
+      </p>
+    </div>
+
+    <!-- Desktop: 4-column masonry grid -->
+    <div class="hidden lg:block max-w-6xl mx-auto">
+      <div class="grid grid-cols-4 gap-4 items-start">
+        {columns.map((column, colIndex) => (
+          <div class="flex flex-col gap-4">
+            {column.map((t) => (
+              <button
+                class="testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                data-src={t.src}
+              >
+                <img src={t.src} alt={t.alt} class="w-full" loading="lazy" />
+              </button>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Mobile: Single column with load more -->
+    <div class="lg:hidden max-w-md mx-auto">
+      <div id="mobile-testimonials" class="flex flex-col gap-4">
+        {testimonials.slice(0, 5).map((t) => (
+          <button
+            class="testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none"
+            data-src={t.src}
+          >
+            <img src={t.src} alt={t.alt} class="w-full" loading="lazy" />
+          </button>
+        ))}
+      </div>
+      <div class="text-center mt-8" id="load-more-wrap">
+        <button id="load-more-btn"
+          class="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary/10 px-6 py-2.5 font-medium transition-colors">
+          Mehr laden
+          <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="fixed inset-0 z-50 bg-black/80 hidden items-center justify-center p-4">
+    <button id="lightbox-close" class="absolute top-4 right-4 text-white hover:text-white/80 transition-colors" aria-label="Schließen">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+    <img id="lightbox-img" src="" alt="Testimonial vergrößert" class="max-w-2xl w-full max-h-[85vh] object-contain" />
+  </div>
+</section>
+
+<script>
+  // Lightbox
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img') as HTMLImageElement;
+  
+  document.querySelectorAll('.testimonial-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const src = (btn as HTMLElement).dataset.src;
+      if (src && lightboxImg && lightbox) {
+        lightboxImg.src = src;
+        lightbox.classList.remove('hidden');
+        lightbox.classList.add('flex');
+      }
+    });
+  });
+
+  document.getElementById('lightbox-close')?.addEventListener('click', () => {
+    lightbox?.classList.add('hidden');
+    lightbox?.classList.remove('flex');
+  });
+
+  lightbox?.addEventListener('click', (e) => {
+    if (e.target === lightbox) {
+      lightbox.classList.add('hidden');
+      lightbox.classList.remove('flex');
+    }
+  });
+
+  // Mobile load more
+  const allTestimonials = JSON.parse(`${JSON.stringify(testimonials)}`);
+  let shown = 5;
+  
+  document.getElementById('load-more-btn')?.addEventListener('click', () => {
+    const container = document.getElementById('mobile-testimonials');
+    const next = allTestimonials.slice(shown, shown + 5);
+    next.forEach((t: {src: string, alt: string}) => {
+      const btn = document.createElement('button');
+      btn.className = 'testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none';
+      btn.dataset.src = t.src;
+      btn.innerHTML = `<img src="${t.src}" alt="${t.alt}" class="w-full" loading="lazy" />`;
+      btn.addEventListener('click', () => {
+        if (lightboxImg && lightbox) {
+          lightboxImg.src = t.src;
+          lightbox.classList.remove('hidden');
+          lightbox.classList.add('flex');
+        }
+      });
+      container?.appendChild(btn);
+    });
+    shown += 5;
+    if (shown >= allTestimonials.length) {
+      document.getElementById('load-more-wrap')?.classList.add('hidden');
+    }
+  });
+</script>

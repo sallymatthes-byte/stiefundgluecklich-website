@@ -1,0 +1,76 @@
+---
+const painPoints = [
+  'Nicht wegen der Arbeit. Sondern wegen dem Moment am Esstisch, als sein Kind sagte: „Bei Mama muss ich das nicht essen." Und dein Partner hat nichts gesagt.',
+  'Wegen der WhatsApp der Ex, die alles wieder durcheinander bringt — und du sollst einfach cool bleiben.',
+  'Wegen dem Gedanken, den du niemandem erzählst: „Ohne die Kinder wäre alles einfacher." Weil du dich so sehr dafür schämst.',
+];
+
+const desirePoints = [
+  "Du sagst deinem Partner was du brauchst — ohne dass es in einem Streit endet",
+  "Die Ex schreibt — und es macht dir nichts mehr aus",
+  "Dein Partner fragt dich, bevor eine Entscheidung getroffen wird. Und du weißt, dass ihr ein Team seid.",
+];
+---
+
+<!-- Pain Section -->
+<section class="py-24 bg-background">
+  <div class="container mx-auto px-6">
+    <div class="max-w-3xl mx-auto">
+      <p class="text-primary font-medium mb-4 text-center">Kommt dir das bekannt vor?</p>
+      <h2 class="font-serif text-3xl md:text-4xl lg:text-5xl text-foreground mb-6 text-center leading-tight">
+        Es ist 23 Uhr. Die Kinder schlafen.
+        <span class="italic text-primary">Und du liegst wach.</span>
+      </h2>
+
+      <div class="space-y-4 mt-10">
+        {painPoints.map((point) => (
+          <div class="bg-secondary/50 border border-border rounded-none p-5">
+            <p class="text-muted-foreground leading-relaxed">{point}</p>
+          </div>
+        ))}
+      </div>
+
+      <p class="text-foreground font-medium mt-10 text-center text-lg">
+        Du wolltest nie Stiefmutter sein. Und eigentlich hast du dir das alles anders vorgestellt.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- Desire Section -->
+<section class="py-24 bg-secondary">
+  <div class="container mx-auto px-6">
+    <div class="max-w-3xl mx-auto">
+      <p class="text-primary font-medium mb-4 text-center">Und wenn es anders wäre?</p>
+      <h2 class="font-serif text-2xl md:text-3xl lg:text-4xl text-foreground mb-6 text-center leading-tight">
+        Stell dir vor, du sitzt am Sonntagmorgen am Frühstückstisch. Alle sind da.
+      </h2>
+      <p class="text-muted-foreground text-center text-lg mb-10 leading-relaxed">
+        Und zum ersten Mal denkst du nicht: <em>Ich muss das hier aushalten, bis die Kinder wieder weg sind.</em>
+        <br />Sondern: <strong class="text-foreground">Das ist meine Familie. Ich finde es so schön.</strong>
+      </p>
+
+      <div class="space-y-4">
+        {desirePoints.map((point) => (
+          <div class="bg-background border border-border rounded-none p-5">
+            <p class="text-muted-foreground leading-relaxed">{point}</p>
+          </div>
+        ))}
+      </div>
+
+      <p class="text-muted-foreground mt-8 text-center italic">
+        Nicht weil du dich verbogen hast. Sondern weil du endlich weißt, wo du stehst.
+      </p>
+
+      <div class="text-center mt-10">
+        <a href="/quiz"
+          class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 text-lg font-medium transition-colors group">
+          Finde deinen nächsten Schritt
+          <svg class="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
