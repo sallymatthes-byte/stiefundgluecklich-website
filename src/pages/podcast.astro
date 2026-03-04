@@ -1,0 +1,137 @@
+---
+import Layout from '../layouts/Layout.astro'
+
+const curatedEpisodes = [
+  {
+    title: "Sind Ex-Partner wirklich Teil der Patchworkfamilie?",
+    description: "Eine der meistgehörten Folgen — und ein Thema, das fast jede Bonusmama beschäftigt.",
+    duration: "15 Min",
+    spotifyUrl: "https://open.spotify.com/episode/6BKfFvylBRAbkptxvqshX6",
+  },
+  {
+    title: "Die größten Fehler in Patchworkfamilien – und wie du sie vermeidest",
+    description: "Was ich bei meinen Kundinnen immer wieder sehe — und was du anders machen kannst.",
+    duration: "19 Min",
+    spotifyUrl: "https://open.spotify.com/episode/0xkttYoPMT7LXML7USoCMR",
+  },
+  {
+    title: "Warum du dich als Bonusmama wie eine Außenseiterin fühlst",
+    description: "Du gibst so viel — und trotzdem hast du das Gefühl, nicht dazuzugehören. Woran das liegt und was du tun kannst.",
+    duration: "25 Min",
+    spotifyUrl: "https://open.spotify.com/episode/3u0jDz3IJkVoQFsgPwcq9L",
+  },
+  {
+    title: "Wie du eine starke Bindung zu deinem Bonuskind aufbaust",
+    description: "Bindung lässt sich nicht erzwingen — aber du kannst den Raum dafür schaffen.",
+    duration: "15 Min",
+    spotifyUrl: "https://open.spotify.com/episode/7o4HPUtgK3z2Hiz5svKBBN",
+  },
+];
+---
+
+<Layout 
+  title="Podcast"
+  description="Bonusgeflüster — der Podcast für Bonusmamas, die ihren eigenen Weg finden wollen. Jede Woche echte Geschichten, ehrliche Gespräche und praktische Impulse."
+  canonical="https://stiefundgluecklich.de/podcast"
+>
+  <!-- Hero -->
+  <section class="pt-28 md:pt-32 pb-12 md:pb-16 bg-secondary/30">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-3xl">
+        <p class="text-primary font-medium mb-3 md:mb-4 text-sm md:text-base">Podcast</p>
+        <h1 class="font-serif text-3xl md:text-5xl lg:text-6xl text-foreground mb-4 md:mb-6">
+          <span class="italic text-gold-bright">Bonusgeflüster</span> — der Podcast für Bonusmamas
+        </h1>
+        <p class="text-base md:text-lg text-muted-foreground leading-relaxed">
+          Du fühlst dich wie das fünfte Rad am Wagen — obwohl du alles gibst?
+          Hier spreche ich Klartext, wo andere schweigen.
+        </p>
+      </div>
+
+      <!-- Aktuelle Folge -->
+      <div class="max-w-3xl mt-8 md:mt-10">
+        <p class="text-sm text-muted-foreground mb-3 font-medium">Aktuelle Folge</p>
+        <div class="rounded-xl overflow-hidden">
+          <iframe
+            style="border-radius: 12px;"
+            src="https://open.spotify.com/embed/show/5wNKGzYsF6PMxuCRmUu5Pm"
+            width="100%"
+            height="152"
+            frameborder="0"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy"
+            title="Bonusgeflüster — aktuelle Folge"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Kuratierte Folgen -->
+  <section class="py-14 md:py-24 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6 max-w-4xl">
+      <div class="text-center mb-10 md:mb-14">
+        <h2 class="font-serif text-2xl md:text-3xl lg:text-4xl text-foreground mb-4">
+          Folgen, die Bonusmamas <span class="italic text-gold-bright">am meisten bewegen</span>
+        </h2>
+        <p class="text-muted-foreground max-w-xl mx-auto">
+          Perfekt zum Einstieg — hör rein, wo es dich gerade am meisten anspricht.
+        </p>
+      </div>
+
+      <div class="space-y-4 md:space-y-6">
+        {curatedEpisodes.map((episode) => (
+          <div class="bg-background p-5 md:p-8">
+            <h3 class="font-serif text-xl md:text-2xl lg:text-3xl text-primary mb-2">
+              {episode.title}
+            </h3>
+            <p class="text-muted-foreground text-sm md:text-base mb-4 leading-relaxed">
+              {episode.description}
+            </p>
+            <div class="flex items-center gap-4 text-sm">
+              <span class="text-muted-foreground flex items-center gap-1.5">
+                🎧 {episode.duration}
+              </span>
+              <a href={episode.spotifyUrl} target="_blank" rel="noopener noreferrer"
+                class="text-primary font-medium hover:text-primary/80 transition-colors inline-flex items-center gap-1.5">
+                Auf Spotify anhören ↗
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Quiz CTA -->
+  <section class="py-14 md:py-24 bg-background">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-3xl mx-auto bg-primary text-primary-foreground py-10 md:py-12 px-6 md:px-14 text-center shadow-lg">
+        <h2 class="font-serif text-xl md:text-2xl lg:text-3xl font-semibold mb-3">
+          Nicht sicher, was jetzt dein nächster Schritt ist?
+        </h2>
+        <p class="text-primary-foreground/80 mb-6 md:mb-8 max-w-lg mx-auto">
+          Das Quiz zeigt's dir — in 2 Minuten.
+        </p>
+        <a href="/quiz"
+          class="inline-flex items-center justify-center bg-background text-foreground hover:bg-background/90 font-semibold px-6 py-3 shadow-md transition-colors group">
+          Finde deinen nächsten Schritt
+          <svg class="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Alle Folgen -->
+  <section class="py-12 md:py-16 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6 text-center">
+      <p class="text-muted-foreground mb-4">Du suchst eine bestimmte Folge?</p>
+      <a href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm" target="_blank" rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 text-primary font-medium hover:text-primary/80 transition-colors">
+        Alle Folgen auf Spotify ↗
+      </a>
+    </div>
+  </section>
+</Layout>

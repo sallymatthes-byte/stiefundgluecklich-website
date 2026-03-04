@@ -1,0 +1,155 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout 
+  title="Über mich"
+  description="Ich bin Sally — Bonusmama seit 6 Jahren und Coach für Frauen in Patchworkfamilien. Ich war selbst da, wo du heute bist."
+  canonical="https://stiefundgluecklich.de/about"
+>
+  <!-- Hero -->
+  <section class="pt-28 md:pt-32 pb-12 md:pb-16 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="grid lg:grid-cols-2 gap-8 lg:gap-20 items-center">
+        <div>
+          <h1 class="font-serif text-2xl md:text-4xl lg:text-5xl text-foreground mb-4 md:mb-6 leading-tight">
+            Du gibst alles – und fühlst dich trotzdem wie die <span class="italic text-gold-bright">Zuschauerin</span> in deiner eigenen Familie?
+          </h1>
+          <p class="text-lg md:text-xl text-primary font-medium mb-4 md:mb-6">
+            Damit ist jetzt Schluss.
+          </p>
+          <p class="text-base md:text-lg text-muted-foreground leading-relaxed mb-4">
+            Ich helfe dir, deine Rolle als Bonusmama zu verstehen — damit du weißt, 
+            wo du dich einbringen kannst und wo du dich abgrenzen darfst.
+          </p>
+          <p class="text-muted-foreground italic mb-4">
+            Ich bin Sally – Coachin für Bonusmamas, die oft funktionieren, statt zu fühlen.
+          </p>
+          <p class="text-sm text-muted-foreground mb-6 md:mb-8">
+            Mach den kurzen Check und finde heraus, welcher nächste Schritt zu deiner Situation passt.
+          </p>
+          <a href="/quiz"
+            class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-2.5 font-medium transition-colors">
+            Finde deinen nächsten Schritt
+          </a>
+        </div>
+        <div class="relative">
+          <div class="relative z-10">
+            <img src="/images/sally-professional.jpeg" alt="Sally Matthes — Coach für Bonusmamas" class="shadow-2xl w-full max-w-md mx-auto" loading="eager" />
+          </div>
+          <div class="absolute -bottom-6 -right-6 w-48 h-48 bg-primary/10 blur-3xl"></div>
+          <div class="absolute -top-6 -left-6 w-32 h-32 bg-gold/20 blur-2xl"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Meine Geschichte -->
+  <section class="py-14 md:py-20 bg-background">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-3xl mx-auto text-center mb-10 md:mb-12">
+        <p class="text-primary font-medium mb-3 md:mb-4">Meine Geschichte</p>
+        <h2 class="font-serif text-2xl md:text-3xl lg:text-4xl text-foreground mb-6">
+          Ich war selbst da, <span class="italic text-primary">wo du heute bist.</span>
+        </h2>
+      </div>
+      <div class="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
+        <div class="space-y-4 md:space-y-6 text-muted-foreground leading-relaxed">
+          <p>
+            Ich kenne diese Gedanken. „Ohne die Kinder wäre alles einfacher." 
+            „Ich wünschte, es gäbe sie nicht." Und direkt danach die Scham, 
+            so etwas überhaupt zu denken.
+          </p>
+          <p>
+            Ich habe Podcasts gehört, Bücher gelesen, gegoogelt — und trotzdem 
+            hat sich nichts verändert. Weil mir niemand gesagt hat, wie ich 
+            mit meiner konkreten Situation umgehen soll.
+          </p>
+          <p>
+            Mein Umfeld? Hat es nicht verstanden. „Du hast dir das doch ausgesucht." 
+            Und ich stand da — mit einem Gefühl, das ich niemandem erklären konnte.
+          </p>
+          <p>
+            <strong class="text-foreground">Es gibt keine Gebrauchsanweisung für diese Rolle.</strong> 
+            Aber es gibt einen Weg. Und den kenne ich – weil ich ihn selbst seit über 6 Jahren gehe.
+          </p>
+        </div>
+        <div class="relative">
+          <img src="/images/sally-journey.jpeg" alt="Sally Matthes — meine Reise als Bonusmama" class="shadow-xl w-full" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Podcast Embed -->
+  <section class="py-12 md:py-16 bg-primary/10">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-2xl mx-auto text-center">
+        <p class="text-primary font-medium mb-3 md:mb-4">🎧 Reinhören</p>
+        <h2 class="font-serif text-xl md:text-2xl lg:text-3xl text-foreground mb-2">
+          5 Jahre Patchwork
+        </h2>
+        <p class="text-muted-foreground mb-6">
+          Meine größten Learnings & warum ich heute glücklich bin.
+        </p>
+        <iframe
+          style="border-radius: 0px;"
+          src="https://open.spotify.com/embed/episode/4sGIZJ2hLLbuqpobdrxjvx?utm_source=generator&theme=0"
+          width="100%"
+          height="152"
+          frameborder="0"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mission -->
+  <section class="py-14 md:py-20 bg-background">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-3xl mx-auto">
+        <p class="text-primary font-medium mb-3 md:mb-4 text-center">Meine Mission</p>
+        <h2 class="font-serif text-2xl md:text-3xl lg:text-4xl text-foreground mb-6 md:mb-8 text-center">
+          Ich gebe dir das, was ich mir <span class="italic text-gold-bright">damals selbst gewünscht hätte.</span>
+        </h2>
+        <div class="space-y-4 md:space-y-6 text-muted-foreground leading-relaxed">
+          <p>Als ich Bonusmama wurde, hat mir niemand gesagt, was auf mich zukommt. Kein Ratgeber, kein Umfeld, niemand.</p>
+          <p>Ich musste mir alles selbst erarbeiten: Wie setze ich Grenzen, ohne die Beziehung zu gefährden? Wie gehe ich mit der Ex-Partnerin um? Wie finde ich meinen Platz in einer Familie, die schon vor mir da war?</p>
+          <p class="text-foreground font-semibold text-lg">Genau das gebe ich heute weiter.</p>
+          <p>Ich will, dass du als Bonusmama weißt, was du tun kannst — konkret, für deine Situation. Dass du dich nicht mehr allein durchkämpfst, sondern jemanden hast, der den Weg kennt.</p>
+          <p>Mein Ziel: Dich stärken. Damit du dich in deiner Rolle zurechtfindest — auf deine Art.</p>
+        </div>
+        <div class="text-center mt-8 md:mt-10">
+          <p class="text-sm text-muted-foreground mb-4">Finde in 2 Minuten heraus, welcher Schritt jetzt zu dir passt.</p>
+          <a href="/quiz" class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-2.5 font-medium transition-colors">
+            Zum Quiz
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="py-14 md:py-20 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="font-serif text-2xl md:text-3xl lg:text-4xl text-foreground mb-4 md:mb-6">
+          Du trägst mehr, <span class="italic text-primary">als irgendjemand sieht.</span>
+        </h2>
+        <div class="space-y-4 text-muted-foreground leading-relaxed mb-6 md:mb-8">
+          <p>Die Abende, an denen du dich fragst, ob du hier richtig bist. Die Gespräche, die du runterschluckst. Die Tränen im Auto.</p>
+          <p>Du bist nicht die Einzige. Und du musst das nicht allein durchstehen.</p>
+          <p class="text-foreground font-medium text-lg">Finde heraus, wo du gerade stehst — und was jetzt für dich dran ist.</p>
+        </div>
+        <a href="/quiz"
+          class="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-10 py-4 text-lg font-medium transition-colors group">
+          Finde deinen nächsten Schritt
+          <svg class="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>
