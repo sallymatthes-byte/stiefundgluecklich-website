@@ -254,20 +254,31 @@ const relatedPosts = allPosts
     margin-bottom: 0.5rem;
   }
   .prose-custom blockquote {
-    background: hsl(var(--secondary));
-    border-left: 4px solid hsl(var(--primary));
-    border-radius: 0 12px 12px 0;
-    padding: 1.25rem 1.5rem;
-    margin: 2rem 0;
-    color: hsl(var(--foreground) / 0.85);
+    background: hsl(45, 48%, 88%);
+    border-left: 5px solid hsl(var(--primary));
+    border-radius: 0;
+    padding: 1.5rem 2rem;
+    margin: 2.5rem 0;
+    color: hsl(var(--foreground) / 0.9);
     font-style: italic;
-    font-size: 1.0625rem;
-    line-height: 1.7;
+    font-size: 1.125rem;
+    line-height: 1.8;
     position: relative;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.06);
+  }
+  .prose-custom blockquote::before {
+    content: '\201E';
+    position: absolute;
+    top: -8px;
+    left: 16px;
+    font-size: 3.5rem;
+    color: hsl(var(--primary) / 0.25);
+    font-family: var(--font-serif);
+    line-height: 1;
   }
   .prose-custom blockquote p {
     margin-bottom: 0.5rem !important;
-    font-size: 1.0625rem !important;
+    font-size: 1.125rem !important;
   }
   .prose-custom blockquote p:last-child {
     margin-bottom: 0 !important;
