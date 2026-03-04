@@ -254,12 +254,23 @@ const relatedPosts = allPosts
     margin-bottom: 0.5rem;
   }
   .prose-custom blockquote {
+    background: hsl(var(--secondary));
     border-left: 4px solid hsl(var(--primary));
-    padding-left: 1.5rem;
+    border-radius: 0 12px 12px 0;
+    padding: 1.25rem 1.5rem;
     margin: 2rem 0;
-    color: hsl(var(--foreground) / 0.8);
+    color: hsl(var(--foreground) / 0.85);
     font-style: italic;
-    font-size: 1.125rem;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    position: relative;
+  }
+  .prose-custom blockquote p {
+    margin-bottom: 0.5rem !important;
+    font-size: 1.0625rem !important;
+  }
+  .prose-custom blockquote p:last-child {
+    margin-bottom: 0 !important;
   }
   .prose-custom img {
     width: 100%;
