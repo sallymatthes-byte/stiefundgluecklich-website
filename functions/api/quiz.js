@@ -1,5 +1,13 @@
-// Cloudflare Pages Function — Quiz → ActiveCampaign
+// Cloudflare Pages Function — Quiz / Warteliste → ActiveCampaign
 // Env vars needed: AC_API_URL, AC_API_KEY (set in Cloudflare Pages dashboard)
+
+// AC List IDs
+const LISTS = {
+  quiz: '27',        // Quiz Leads
+  its: '25',         // It's time to shine
+  beyondbonus: '24', // BeyondBonus
+  warteliste: '23',  // Warteliste 1:1 Babypause
+};
 
 export async function onRequestPost(context) {
   const { request, env } = context;
@@ -49,10 +57,36 @@ export async function onRequestPost(context) {
       return new Response(JSON.stringify({ error: 'Contact creation failed' }), { status: 500, headers: corsHeaders });
     }
 
-    // 2. Add tags
+    // 2. Add to appropriate list
+    // Quiz results → Quiz Leads list + result-specific list
+    // Warteliste → Warteliste list
+    const listsToAdd = [LISTS.quiz]; // Always add to Quiz Leads
+
+    if (result === 'warteliste') {
+      listsToAdd.push(LISTS.warteliste);
+    }
+
+    for (const listId of listsToAdd) {
+      try {
+        await fetch(`${AC_URL}/api/3/contactLists`, {
+          method: 'POST',
+          headers,
+          body: JSON.stringify({
+            contactList: {
+              list: listId,
+              contact: contactId,
+              status: '1', // 1 = subscribed
+            }
+          })
+        });
+      } catch (e) {
+        console.error(`Failed to add contact to list ${listId}:`, e);
+      }
+    }
+
+    // 3. Add tags
     if (tags && tags.length > 0) {
       for (const tagName of tags) {
-        // First, find or create the tag
         let tagId;
         
         // Search for existing tag
@@ -74,7 +108,6 @@ export async function onRequestPost(context) {
         }
 
         if (tagId) {
-          // Add tag to contact
           await fetch(`${AC_URL}/api/3/contactTags`, {
             method: 'POST',
             headers,
