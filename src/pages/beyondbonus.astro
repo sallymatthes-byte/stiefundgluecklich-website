@@ -88,19 +88,19 @@ import Layout from '../layouts/Layout.astro'
       </div>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-20">
         {[
-          ["🧭", "Start & Einstieg", "Du gewinnst Klarheit über deine Vision und erkennst, welche Glaubenssätze dich bremsen."],
-          ["👤", "Persönlichkeit & Rolle", "Du erkennst deine Stärken, gibst Verantwortung ab und befreist dich vom Mental Load."],
-          ["🧩", "Patchworkdynamiken", "Du verstehst, warum du dich als Außenseiterin fühlst – und wie du da rauskommst."],
-          ["💛", "Kraftquellen", "Du lernst, deine Gefühle einzuordnen und Grenzen zu setzen, ohne schlechtes Gewissen."],
-          ["👶", "Bonuskinder", "Du baust eine echte Verbindung auf – in deinem Tempo, ohne dich zu verbiegen."],
-          ["💑", "Partnerschaft", "Du stärkst eure Beziehung und findet gemeinsame Werte und Erziehungsziele."],
-          ["💬", "Kommunikationsstrategien", "Du sagst, was du brauchst – ohne Vorwürfe, mit Wirkung."],
-          ["🛡", "Ex-Partnerin", "Du lernst, mit Hochstrittigkeit umzugehen und Trigger-Situationen zu entschärfen."],
-          ["✨", "Zukunft & Ausblick", "Du feierst deine Fortschritte und weißt, wie du dranbleibst."],
+          ["01", "Start & Einstieg", "Du gewinnst Klarheit über deine Vision und erkennst, welche Glaubenssätze dich bremsen."],
+          ["02", "Persönlichkeit & Rolle", "Du erkennst deine Stärken, gibst Verantwortung ab und befreist dich vom Mental Load."],
+          ["03", "Patchworkdynamiken", "Du verstehst, warum du dich als Außenseiterin fühlst – und wie du da rauskommst."],
+          ["04", "Kraftquellen", "Du lernst, deine Gefühle einzuordnen und Grenzen zu setzen, ohne schlechtes Gewissen."],
+          ["05", "Bonuskinder", "Du baust eine echte Verbindung auf – in deinem Tempo, ohne dich zu verbiegen."],
+          ["06", "Partnerschaft", "Du stärkst eure Beziehung und findet gemeinsame Werte und Erziehungsziele."],
+          ["07", "Kommunikationsstrategien", "Du sagst, was du brauchst – ohne Vorwürfe, mit Wirkung."],
+          ["08", "Ex-Partnerin", "Du lernst, mit Hochstrittigkeit umzugehen und Trigger-Situationen zu entschärfen."],
+          ["09", "Zukunft & Ausblick", "Du feierst deine Fortschritte und weißt, wie du dranbleibst."],
         ].map(([icon, title, desc]) => (
           <div class="bg-background p-6 border border-border">
             <div class="flex items-center gap-3 mb-3">
-              <div class="w-10 h-10 bg-primary/10 flex items-center justify-center flex-shrink-0 text-lg">{icon}</div>
+              <div class="w-10 h-10 bg-primary/10 flex items-center justify-center flex-shrink-0 text-sm font-semibold text-primary">{icon}</div>
               <h3 class="font-serif text-lg">{title}</h3>
             </div>
             <p class="text-sm text-muted-foreground">{desc}</p>
