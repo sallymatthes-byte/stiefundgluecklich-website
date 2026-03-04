@@ -10,6 +10,13 @@ const blogPosts = allPosts.sort((a, b) =>
 );
 
 const categories = ["Alle", "Rolle & Identität", "Partnerschaft", "Die Ex & das System", "Kinder & Bindung"];
+
+const categoryLabels: Record<string, string> = {
+  'rolle-identitaet': 'Rolle & Identität',
+  'partnerschaft': 'Partnerschaft',
+  'ex-und-system': 'Die Ex & das System',
+  'kinder-bindung': 'Kinder & Bindung',
+};
 ---
 
 <Layout 
@@ -60,7 +67,7 @@ const categories = ["Alle", "Rolle & Identität", "Partnerschaft", "Die Ex & das
       ) : (
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="blog-grid">
           {blogPosts.map((post) => (
-            <a href={`/blog/${post.slug}`} class="blog-card group" data-category={post.data.category}>
+            <a href={`/blog/${post.slug}`} class="blog-card group" data-category={categoryLabels[post.data.category] || post.data.category}>
               <div class="border border-border overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer h-full flex flex-col">
                 {post.data.image && (
                   <div class="aspect-[16/10] overflow-hidden bg-secondary">
@@ -74,7 +81,7 @@ const categories = ["Alle", "Rolle & Identität", "Partnerschaft", "Die Ex & das
                 )}
                 <div class="p-5 md:p-6 flex flex-col flex-1">
                   <div class="flex items-center gap-3 md:gap-4 mb-3">
-                    <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{post.data.category}</span>
+                    <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{categoryLabels[post.data.category] || post.data.category}</span>
                     {post.data.readingTime && (
                       <span class="text-xs text-muted-foreground">🕐 {post.data.readingTime}</span>
                     )}
