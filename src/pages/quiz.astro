@@ -1,0 +1,350 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout title="Quiz — Wo stehst du als Bonusmama?" description="Finde in 2 Minuten heraus, was dein nächster Schritt als Bonusmama ist. Kostenloses Quiz von Sally Matthes.">
+  
+  <section class="pt-28 md:pt-32 pb-16 md:pb-24 min-h-[80vh] flex items-start">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-[640px] mx-auto">
+        
+        <!-- Progress Bar -->
+        <div id="progress-bar" class="mb-10 hidden">
+          <div class="flex justify-between text-xs text-muted-foreground mb-2">
+            <span id="progress-label">Frage 1 von 4</span>
+            <span id="progress-percent">25%</span>
+          </div>
+          <div class="w-full h-1.5 bg-cream rounded-full overflow-hidden">
+            <div id="progress-fill" class="h-full bg-primary transition-all duration-500 ease-out" style="width: 25%"></div>
+          </div>
+        </div>
+
+        <!-- WELCOME -->
+        <div id="step-welcome" class="quiz-step animate-fade-in">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Kostenloses Quiz</p>
+          <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">
+            Wo stehst du als Bonusmama?<br />
+            <span class="text-gold">Finde deinen nächsten Schritt.</span>
+          </h1>
+          <p class="text-lg text-muted-foreground leading-relaxed mb-8">
+            Du gibst jeden Tag alles für eine Familie, die du nicht von Anfang an mitgestaltet hast. Das ist mutig. Und manchmal verdammt anstrengend.
+          </p>
+          <p class="text-muted-foreground mb-10">
+            Dieses Quiz dauert 2 Minuten. Danach weißt du, was dein logischer nächster Schritt ist.
+          </p>
+          <button onclick="startQuiz()" class="bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+            Los geht's →
+          </button>
+        </div>
+
+        <!-- FRAGE 1 -->
+        <div id="step-q1" class="quiz-step hidden">
+          <p class="text-sm font-medium text-muted-foreground mb-3">Frage 1 von 4</p>
+          <h2 class="text-2xl md:text-3xl mb-8">Wie lange bist du schon Bonusmama?</h2>
+          <div class="space-y-3">
+            <button onclick="answer(1, 'quiz-erfahrung-unter1', 'Unter 1 Jahr')" class="quiz-option">
+              Unter 1 Jahr
+            </button>
+            <button onclick="answer(1, 'quiz-erfahrung-1bis3', '1–3 Jahre')" class="quiz-option">
+              1–3 Jahre
+            </button>
+            <button onclick="answer(1, 'quiz-erfahrung-ueber3', 'Über 3 Jahre')" class="quiz-option">
+              Über 3 Jahre
+            </button>
+          </div>
+        </div>
+
+        <!-- FRAGE 2 -->
+        <div id="step-q2" class="quiz-step hidden">
+          <p class="text-sm font-medium text-muted-foreground mb-3">Frage 2 von 4</p>
+          <h2 class="text-2xl md:text-3xl mb-8">Was ist gerade deine größte Herausforderung?</h2>
+          <div class="space-y-3">
+            <button onclick="answer(2, 'quiz-thema-grenzen', 'Grenzen setzen')" class="quiz-option">
+              Grenzen setzen <span class="block text-sm text-muted-foreground mt-1">(ohne als "böse Stiefmutter" dazustehen)</span>
+            </button>
+            <button onclick="answer(2, 'quiz-thema-kommunikation', 'Kommunikation')" class="quiz-option">
+              Kommunikation <span class="block text-sm text-muted-foreground mt-1">(mit Partner und/oder Ex)</span>
+            </button>
+            <button onclick="answer(2, 'quiz-thema-zugehoerigkeit', 'Zugehörigkeit')" class="quiz-option">
+              Zugehörigkeit <span class="block text-sm text-muted-foreground mt-1">(wo ist mein Platz in dieser Familie?)</span>
+            </button>
+            <button onclick="answer(2, 'quiz-thema-erschoepfung', 'Erschöpfung')" class="quiz-option">
+              Erschöpfung <span class="block text-sm text-muted-foreground mt-1">(ich trage zu viel Verantwortung)</span>
+            </button>
+            <button onclick="answer(2, 'quiz-thema-ex', 'Die Ex-Dynamik')" class="quiz-option">
+              Die Ex-Dynamik <span class="block text-sm text-muted-foreground mt-1">(Konflikte, Einmischung, Loyalitätskonflikte)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- FRAGE 3 -->
+        <div id="step-q3" class="quiz-step hidden">
+          <p class="text-sm font-medium text-muted-foreground mb-3">Frage 3 von 4</p>
+          <h2 class="text-2xl md:text-3xl mb-8">Was hast du bisher versucht?</h2>
+          <div class="space-y-3">
+            <button onclick="answer(3, 'quiz-versuch-nichts', 'Noch nichts')" class="quiz-option">
+              Noch nichts — ich suche gerade erst nach Unterstützung
+            </button>
+            <button onclick="answer(3, 'quiz-versuch-content', 'Content konsumiert')" class="quiz-option">
+              Bücher, Podcasts, Instagram — aber umsetzen fällt schwer
+            </button>
+            <button onclick="answer(3, 'quiz-versuch-coaching', 'Beratung/Coaching')" class="quiz-option">
+              Ich war schon in Beratung/Coaching, aber es hat nicht gereicht
+            </button>
+            <button onclick="answer(3, 'quiz-versuch-vieles', 'Vieles versucht')" class="quiz-option">
+              Ich mache vieles, aber es ändert sich wenig
+            </button>
+          </div>
+        </div>
+
+        <!-- FRAGE 4 -->
+        <div id="step-q4" class="quiz-step hidden">
+          <p class="text-sm font-medium text-muted-foreground mb-3">Frage 4 von 4</p>
+          <h2 class="text-2xl md:text-3xl mb-8">Was passt gerade am besten zu dir?</h2>
+          <div class="space-y-3">
+            <button onclick="answer(4, 'quiz-level-reinschnuppern', 'its')" class="quiz-option">
+              Ich will erstmal reinschnuppern und konkrete Tools an die Hand bekommen
+            </button>
+            <button onclick="answer(4, 'quiz-level-programm', 'beyondbonus')" class="quiz-option">
+              Ich bin bereit für ein umfassendes Programm, das mich Schritt für Schritt begleitet
+            </button>
+            <button onclick="answer(4, 'quiz-level-1zu1', 'warteliste')" class="quiz-option">
+              Ich will intensive 1:1 Begleitung mit persönlichem Feedback
+            </button>
+          </div>
+        </div>
+
+        <!-- EMAIL -->
+        <div id="step-email" class="quiz-step hidden">
+          <h2 class="text-2xl md:text-3xl mb-4">Fast geschafft!</h2>
+          <p class="text-muted-foreground mb-8">
+            Damit ich dir dein Ergebnis schicken kann:
+          </p>
+          <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
+            <div>
+              <label for="firstname" class="block text-sm font-medium mb-2">Vorname</label>
+              <input type="text" id="firstname" name="firstname" required
+                class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors" 
+                placeholder="Dein Vorname" />
+            </div>
+            <div>
+              <label for="email" class="block text-sm font-medium mb-2">E-Mail-Adresse</label>
+              <input type="email" id="email" name="email" required
+                class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors" 
+                placeholder="deine@email.de" />
+            </div>
+            <p class="text-xs text-muted-foreground">
+              Deine Daten sind sicher. Du bekommst dein Ergebnis per Mail — und kannst dich jederzeit abmelden.
+            </p>
+            <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+              Zeig mir mein Ergebnis →
+            </button>
+          </form>
+        </div>
+
+        <!-- ERGEBNIS: ITS BUNDLE -->
+        <div id="result-its" class="quiz-step hidden">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Dein Ergebnis</p>
+          <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
+            Dein nächster Schritt: Konkrete Tools, die du <span class="text-gold">HEUTE</span> anwenden kannst.
+          </h2>
+          <p class="text-muted-foreground leading-relaxed mb-6">
+            Du brauchst kein 12-Wochen-Programm, um den ersten Schritt zu machen. Du brauchst Klarheit und Werkzeuge, die in deinem Alltag funktionieren.
+          </p>
+          <p class="text-muted-foreground leading-relaxed mb-4">
+            Das <strong class="text-foreground">ITS Bundle</strong> gibt dir genau das:
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground"><strong class="text-foreground">Setting Limits</strong> — ein 5-Tage-Programm, das dir zeigt, wie du Grenzen setzt, die halten</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground"><strong class="text-foreground">I Belong Audio</strong> — damit du innerlich ankommst, bevor du nach außen kämpfst</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground"><strong class="text-foreground">Talk like a Team</strong> — Kommunikation, die verbindet statt trennt</span>
+            </li>
+          </ul>
+          <p class="text-muted-foreground mb-10">
+            Kein Wohlfühl-Fluff. Sondern das, was im echten Patchwork-Alltag funktioniert.
+          </p>
+          <a href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+            ITS Bundle sichern — €59 →
+          </a>
+        </div>
+
+        <!-- ERGEBNIS: BEYONDBONUS -->
+        <div id="result-beyondbonus" class="quiz-step hidden">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Dein Ergebnis</p>
+          <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
+            Dein nächster Schritt: <span class="text-gold">Echte Veränderung.</span> Schritt für Schritt.
+          </h2>
+          <p class="text-muted-foreground leading-relaxed mb-6">
+            Du weißt längst, dass es so nicht weitergehen kann. Einzelne Tipps reichen nicht mehr — du bist bereit für echte Arbeit an den Mustern, die dich als Bonusmama blockieren.
+          </p>
+          <p class="text-muted-foreground leading-relaxed mb-4">
+            <strong class="text-foreground">BeyondBonus</strong> ist mein 12-Wochen-Transformationsprogramm für Bonusmamas, die nicht mehr nur überleben, sondern gestalten wollen.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground">Rolle, Grenzen, Kommunikation, Selbstwert — alles drin</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground">Schritt für Schritt, in deinem Tempo</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-primary font-bold mt-0.5">—</span>
+              <span class="text-muted-foreground">Community Calls für Support</span>
+            </li>
+          </ul>
+          <p class="text-muted-foreground mb-10">
+            Kein Wohlfühl-Programm. Sondern echte Arbeit, die echte Ergebnisse bringt.
+          </p>
+          <a href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+            Mehr über BeyondBonus erfahren →
+          </a>
+        </div>
+
+        <!-- ERGEBNIS: 1:1 WARTELISTE -->
+        <div id="result-warteliste" class="quiz-step hidden">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Dein Ergebnis</p>
+          <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
+            Dein nächster Schritt: <span class="text-gold">Persönliche Begleitung</span> für deine Situation.
+          </h2>
+          <p class="text-muted-foreground leading-relaxed mb-6">
+            Deine Situation ist zu komplex für allgemeine Strategien. Du brauchst jemanden, der mit dir auf DEINE konkrete Konstellation schaut und individuelle Lösungen erarbeitet.
+          </p>
+          <p class="text-muted-foreground leading-relaxed mb-6">
+            Mein 1:1 Coaching ist aktuell nur über die Warteliste verfügbar. Sobald ein Platz frei wird, melde ich mich persönlich bei dir.
+          </p>
+          <p class="text-muted-foreground leading-relaxed mb-10">
+            In der Zwischenzeit: Starte mit dem <strong class="text-foreground">ITS Bundle (€59)</strong> — damit hast du sofort erste Tools an der Hand, die du nutzen kannst, bis wir zusammenarbeiten.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4">
+            <a href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
+              ITS Bundle als Soforthilfe — €59 →
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .quiz-option {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid hsl(45, 25%, 85%);
+    background: white;
+    font-size: 1rem;
+    line-height: 1.5;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .quiz-option:hover {
+    border-color: hsl(107, 57%, 21%);
+    background: hsl(107, 57%, 21%, 0.03);
+  }
+  .quiz-option:active {
+    background: hsl(107, 57%, 21%, 0.08);
+  }
+
+  .quiz-step {
+    animation: fade-in 0.4s ease-out forwards;
+  }
+
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<script is:inline>
+  const answers = {};
+
+  function showStep(id) {
+    document.querySelectorAll('.quiz-step').forEach(el => el.classList.add('hidden'));
+    const step = document.getElementById(id);
+    step.classList.remove('hidden');
+    // Re-trigger animation
+    step.style.animation = 'none';
+    step.offsetHeight; // force reflow
+    step.style.animation = '';
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function updateProgress(step) {
+    const bar = document.getElementById('progress-bar');
+    const fill = document.getElementById('progress-fill');
+    const label = document.getElementById('progress-label');
+    const percent = document.getElementById('progress-percent');
+    
+    if (step >= 1 && step <= 4) {
+      bar.classList.remove('hidden');
+      const pct = step * 25;
+      fill.style.width = pct + '%';
+      label.textContent = 'Frage ' + step + ' von 4';
+      percent.textContent = pct + '%';
+    } else {
+      bar.classList.add('hidden');
+    }
+  }
+
+  function startQuiz() {
+    updateProgress(1);
+    showStep('step-q1');
+  }
+
+  function answer(question, tag, value) {
+    answers['q' + question] = { tag, value };
+    
+    if (question < 4) {
+      updateProgress(question + 1);
+      showStep('step-q' + (question + 1));
+    } else {
+      updateProgress(5);
+      showStep('step-email');
+    }
+  }
+
+  async function submitEmail(e) {
+    e.preventDefault();
+    
+    const btn = document.getElementById('submit-btn');
+    const originalText = btn.textContent;
+    btn.textContent = 'Wird geladen...';
+    btn.disabled = true;
+
+    const firstname = document.getElementById('firstname').value;
+    const email = document.getElementById('email').value;
+    const tags = Object.values(answers).map(a => a.tag);
+    const result = answers.q4?.value || 'its';
+
+    // Send to ActiveCampaign
+    try {
+      const response = await fetch('/api/quiz', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ firstname, email, tags, result })
+      });
+      
+      if (!response.ok) {
+        console.error('AC submission failed, showing result anyway');
+      }
+    } catch (err) {
+      console.error('AC submission error:', err);
+    }
+
+    // Show result regardless
+    showStep('result-' + result);
+  }
+</script>
