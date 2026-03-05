@@ -58,6 +58,14 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 ## Tipps und Fragen für den Patchwork-Alltag
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-3.jpg)
 
 Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es im turbulenten Familienleben um? Hier kommen ein paar praktische Tipps und Fragen, die dir helfen können, den Eisberg-Blick zu schärfen:

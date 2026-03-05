@@ -87,6 +87,14 @@ Mit**Einfühlungsvermögen, Geduld und dem Willen, aufeinander zuzugehen**, kön
 ## Und was solltest du nicht tun?
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Ausgeschlossen in der eigenen Familie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-3.jpg)
 
 Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche Verhaltensweisen die Insider-Outsider-Dynamik verschärfen können:

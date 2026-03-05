@@ -74,6 +74,14 @@ Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sag
 ## Hand in Hand
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Erfolgreiche Erziehung in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-3.jpg)
 
 Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der Patchworkfamilie mitzugestalten. Doch anstatt dich in Machtkämpfe zu verlieren, solltest du lernen, deinen Partner zu unterstützen und gemeinsam an einem Strang zu ziehen. Hier sind einige Tipps, wie dir das gelingen kann:

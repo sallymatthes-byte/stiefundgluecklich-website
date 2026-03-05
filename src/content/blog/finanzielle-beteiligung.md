@@ -78,6 +78,14 @@ Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wen
 ## Wahre deine finanzielle Unabhängigkeit**Als Bonusmama ist es leicht, sich selbst zu vergessen.**Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-3.jpg)
 
 Auch wenn ihr als Paar oder Familie gemeinsam wirtschaftet, solltest du nicht dein gesamtes eigenes Einkommen in den Familientopf geben.*Behalte einen Teil für dich selbst, über den du frei verfügen kannst.*

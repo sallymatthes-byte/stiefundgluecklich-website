@@ -51,6 +51,14 @@ Denk daran: Nur wenn du auch gut für dich selbst sorgst, kannst du entspannt f�
 ## So haltet ihr Erinnerungen lebendig
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-3.jpg)
 
 Auch wenn der Koffer wieder ausgepackt und die Wäsche gewaschen ist, muss der Urlaub nicht vorbei sein.

@@ -58,6 +58,14 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 ## Wachstum durch Herausforderungen
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/innere-kind-heilung-3.jpg)
 
 Auch wenn es manchmal schmerzhaft sein kann, von den eigenen Bonuskindern getriggert zu werden, liegt darin auch eine immense Chance für persönliches Wachstum und Transformation. Unsere Bonuskinder sind wie weise Lehrer, die uns immer wieder an unsere Grenzen bringen und uns dadurch helfen, über uns hinauszuwachsen. Jede Herausforderung birgt die Möglichkeit, *Geduld*, *Empathie* und *bedingungslose Liebe* zu entwickeln – Qualitäten, die nicht nur unseren Bonuskindern zugutekommen, sondern auch uns selbst bereichern.

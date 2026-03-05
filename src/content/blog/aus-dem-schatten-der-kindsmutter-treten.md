@@ -90,6 +90,14 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 - Setzt euch gemeinsam hin und sprecht offen über eure Gefühle und Bedürfnisse
 
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
+
 - Hört einander zu und versucht, die Perspektive des anderen nachzuvollziehen
 
 - Zeigt Mitgefühl und Geduld, auch wenn es mal schwierig ist

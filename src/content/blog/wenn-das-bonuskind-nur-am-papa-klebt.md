@@ -52,6 +52,14 @@ Mir wurde klar, dass ich etwas ändern musste, wenn ich ein harmonisches Familie
 ## Annäherung statt rückzug
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Warum es normal ist, wenn das Bonuskind nur Papa will" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)
 
 Nachdem ich erkannt hatte, dass mein bisheriger Weg nicht funktionierte, beschloss ich, einen neuen Ansatz zu wählen. Anstatt mich zurückzuziehen, wenn die Kinder am Papa klebten, entschied ich mich bewusst dafür, auf sie zuzugehen und mich in die Situation einzubringen.**Dieser Prozess bestand aus drei wichtigen Schritten: Analyse, Veränderungen und Kommunikation.**Zunächst analysierte ich die Situation genauer. Ich versuchte zu verstehen, warum die Kinder so sehr am Papa hingen.*Mir wurde klar, dass es für sie völlig normal war, sich nach der Trennung der Eltern an den vertrauten Elternteil zu klammern.* Sie suchten Sicherheit und Geborgenheit in einer Zeit der Veränderung. Dieses Verständnis half mir, ihre Bedürfnisse besser nachzuvollziehen und mit mehr Mitgefühl zu reagieren.

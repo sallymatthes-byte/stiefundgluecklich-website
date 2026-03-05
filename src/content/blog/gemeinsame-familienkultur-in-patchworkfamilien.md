@@ -82,6 +82,14 @@ Ein respektvoller Umgang miteinander bedeutet auch, Unterschiede auszuhalten und
 ## Schritt für Schritt Gemeinsamkeiten finden
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-3.jpg)
 
 Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstellungen von Familienalltag und -kultur mit. Papernow empfiehlt, sich darauf einzustellen und Veränderungen langsam anzugehen. Hier sind zwei konkrete Beispiele, wie das gelingen kann:

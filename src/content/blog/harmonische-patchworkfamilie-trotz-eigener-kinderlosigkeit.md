@@ -40,6 +40,14 @@ Es ist wichtig, dass wir als Paar offen miteinander über unsere unterschiedlich
 ## Wie habe ich mich den kindern gegenüber geöffnet?
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Kinderlos im Patchworkleben" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-3.jpg)
 
 Als Bonusmama war es für mich ein wichtiger Schritt, mich den Kindern gegenüber zu öffnen und sie als einen*Bestandteil meines Lebens anzunehmen*. Anfangs war es nicht immer leicht, da ich nie eigene Kinder wollte und sich dadurch eine gewisse Distanz aufbaute. Doch mit der Zeit habe ich erkannt, dass eine liebevolle Beziehung zu den Kindern nicht bedeutet, meine eigenen Wünsche aufzugeben. Es bedeutet, sie als Teil meines Lebens zu akzeptieren und ihnen mit Offenheit und Respekt zu begegnen.

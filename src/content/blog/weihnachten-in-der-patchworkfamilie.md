@@ -57,6 +57,14 @@ Als Eltern ist es wichtig, sich dieser Herausforderungen bewusst zu sein und dem
 ## Außergewöhnliche Rituale
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/weihnachten-in-der-patchworkfamilie-3.jpg)
 
 In einer Patchworkfamilie kommen bekanntlich Menschen mit unterschiedlichen Hintergründen, Traditionen und Vorlieben zusammen. Dass sich alle Mitglieder der Familie gleichermaßen wertgeschätzt und eingebunden fühlen, trägt maßgeblich zum Weihnachtsfrieden bei. Deshalb möchte ich dir heute ein paar kreative Ideen für Weihnachtsrituale in Patchworkfamilien vorstellen, die diese Vielfalt berücksichtigen.

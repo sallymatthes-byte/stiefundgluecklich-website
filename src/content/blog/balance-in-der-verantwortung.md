@@ -61,6 +61,14 @@ Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln
 ## Wo sind die Grenzen?
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
 
 Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine**Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?

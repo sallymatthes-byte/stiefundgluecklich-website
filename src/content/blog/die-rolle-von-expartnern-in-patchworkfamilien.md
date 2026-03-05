@@ -77,6 +77,14 @@ Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Ause
 ## Parallel parenting
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-3.jpg)
 
 Lass uns ehrlich sein: Nicht immer ist es möglich, eng und harmonisch mit der Expartnerin zusammenzuarbeiten. Wenn eine echte Kooperation nicht funktioniert, gibt es eine Alternative: das sogenannte “Parallel Parenting”.

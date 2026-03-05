@@ -78,6 +78,14 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 ## Strategien, um das Kind zu unterstützen
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
 
 Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Loyalitätskonflikten und Überforderung kämpfen, fühlen wir uns oft hilflos. Doch es gibt Wege, wie wir sie in dieser herausfordernden Situation unterstützen können:

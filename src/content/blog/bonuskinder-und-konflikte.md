@@ -58,6 +58,14 @@ Im nächsten Abschnitt werden wir uns Notfallstrategien anschauen, die dabei hel
 ## Was tun, wenn es eskaliert?
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn die Stimmung kippt – Konflikte mit Bonuskindern" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/bonuskinder-und-konflikte-3.jpg)
 
 Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – atme tief durch und verlasse ggf. die Situation, bevor es eskaliert. Hier sind drei Tipps, die dir in solchen Situationen helfen können:**1. Aktive Zuhörtechnik:**Nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und höre aktiv zu, ohne zu unterbrechen. Wiederhole ihre Aussagen, um sicherzustellen, dass du sie richtig verstanden hast. Zum Beispiel kannst du sagen: “Ich höre, dass du frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu bekommen. Ist das richtig?” Durch diese Technik zeigst du den Kindern, dass du sie ernst nimmst und ihre Gefühle wahrnimmst.**2. Ich-Botschaften:**Verwende Ich-Botschaften, um deine eigenen Gefühle und Bedürfnisse auszudrücken, ohne die Kinder zu beschuldigen. Zum Beispiel könntest du sagen: “Ich fühle mich überfordert, wenn das Zimmer unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen ordentlichen und harmonischen Raum haben.” Dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und mitzudenken, anstatt sich angegriffen zu fühlen.**3. Gemeinsame Lösungen finden:**Statt den Streit zu eskalieren, arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem gelöst werden könnte. Zum Beispiel könntest du sagen: “Wie könnten wir gemeinsam dafür sorgen, dass das Zimmer aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser organisieren können?” Indem du die Kinder in den Lösungsprozess einbeziehst, ermöglichst du ihnen, Verantwortung zu übernehmen und ihre Fähigkeiten zur Problemlösung zu entwickeln.

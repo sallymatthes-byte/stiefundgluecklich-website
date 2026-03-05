@@ -56,6 +56,14 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 ## Was, wenn es zu viel wird?
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-3.jpg)
 
 Manchmal ist das Patchworkleben einfach unglaublich anstrengend. Selbstfürsorge und das Setzen von Grenzen sind für Bonusmütter essenziell, um sich selbst treu zu bleiben und dennoch eine enge Bindung zu ihren Stiefkindern aufzubauen.

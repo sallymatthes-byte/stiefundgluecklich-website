@@ -46,6 +46,14 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 ## Eine Zerreißprobe für die Kinder
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Muttertag als Bonusmama: Das solltest du wissen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-3.jpg)
 
 Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre leibliche Mama und ihre Bonusmama. Doch an diesem besonderen Tag fühlen sie sich**hin- und hergerissen.**Sie wollen keine der beiden Frauen enttäuschen oder verletzen und geraten dadurch in einen inneren Konflikt. Vielleicht verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu feiern.

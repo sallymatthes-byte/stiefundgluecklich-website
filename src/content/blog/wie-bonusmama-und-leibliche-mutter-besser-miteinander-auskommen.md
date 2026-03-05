@@ -73,6 +73,14 @@ Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte ents
 ## TIPPS ZUR VERBESSERUNG DES VERHÄLTNISSES
 
 
+
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
 
 Wenn wir die zugrundeliegenden Ursachen für Konflikte zwischen Bonusmama und leiblicher Mutter verstehen, können wir effektivere Strategien zur Lösung dieser Konflikte entwickeln.
