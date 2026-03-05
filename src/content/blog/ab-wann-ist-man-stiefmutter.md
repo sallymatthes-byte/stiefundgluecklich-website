@@ -131,5 +131,9 @@ Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es
 
 ---
 
+<div class="signatur">
+
 Mach's gut,
 Deine Sally 💛
+
+</div>
