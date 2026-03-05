@@ -273,17 +273,22 @@ const relatedPosts = allPosts
     border-color: hsl(var(--border));
   }
 
-  /* WhatsApp-style testimonial bubbles — echtes WhatsApp-Design */
+  /* WhatsApp Dark Mode testimonial bubbles */
+  .prose-custom .testimonial-wrapper {
+    background: #0B141A;
+    border-radius: 12px;
+    padding: 1.25rem 1rem;
+    margin: 2rem 0;
+  }
   .prose-custom .testimonial-bubble {
-    background: #FFFFFF;
-    color: #111B21;
-    padding: 0.625rem 0.75rem 0.375rem;
+    background: #202C33;
+    color: #E9EDEF;
+    padding: 0.625rem 0.75rem 0.5rem;
     border-radius: 0 8px 8px 8px;
-    margin: 1.25rem 0;
+    margin: 0.75rem 0;
     position: relative;
-    max-width: 85%;
-    box-shadow: 0 1px 2px rgb(0 0 0 / 0.13);
-    border: 1px solid #E9EDEF;
+    max-width: 88%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 0.2);
   }
   .prose-custom .testimonial-bubble::before {
     content: '';
@@ -293,45 +298,20 @@ const relatedPosts = allPosts
     width: 0;
     height: 0;
     border-top: 0 solid transparent;
-    border-right: 8px solid #FFFFFF;
+    border-right: 8px solid #202C33;
     border-bottom: 8px solid transparent;
   }
   .prose-custom .testimonial-text {
-    color: #111B21 !important;
+    color: #E9EDEF !important;
     font-style: normal;
     font-size: 0.9375rem !important;
     line-height: 1.55 !important;
     margin-bottom: 0.25rem !important;
   }
   .prose-custom .testimonial-author {
-    color: #667781 !important;
+    color: #8696A0 !important;
     font-size: 0.75rem !important;
     font-style: normal;
     margin-bottom: 0 !important;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .prose-custom .testimonial-author::after {
-    content: '✓✓';
-    color: #53BDEB;
-    font-size: 0.8rem;
-    margin-left: 0.5rem;
-  }
-
-  /* Signatur-Box "Mach's gut, Deine Sally" */
-  .prose-custom .signatur,
-  .prose-custom p:last-of-type:has(img[alt*="sally"]),
-  .prose-custom > p:last-child {
-    /* Default — überschrieben durch explizite .signatur-Klasse */
-  }
-  .prose-custom .signatur {
-    background: hsl(45, 43%, 96%);
-    border-left: 4px solid hsl(42, 62%, 58%);
-    padding: 1.5rem 2rem;
-    margin-top: 3rem;
-    font-style: italic;
-    font-size: 1.125rem;
-    color: hsl(var(--foreground) / 0.8);
   }
 </style>

@@ -119,21 +119,15 @@ Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es
 
 **Lass mich dir eines sagen: Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
-<div class="testimonial-bubble">
-  <p class="testimonial-text">Ich hatte schon so viele Ratgeber gelesen, aber erst Sallys Coaching hat mir wirklich geholfen, meinen Platz in unserer Patchworkfamilie zu finden. Heute fühle ich mich endlich sicher und wertvoll in meiner Rolle als Bonusmama.</p>
-  <p class="testimonial-author">Christina, 34 · Bonusmama von zwei Jungs (7 und 9)</p>
-</div>
+So wie für Christina und Maria:
 
-<div class="testimonial-bubble">
-  <p class="testimonial-text">Der geschützte Austausch in der Support Group ist Gold wert! Hier kann ich auch die Dinge ansprechen, die ich mich sonst nicht traue zu sagen. Das hat mir so viel Last von den Schultern genommen.</p>
-  <p class="testimonial-author">Maria, 41 · Bonusmama einer Teenagerin</p>
-</div>
-
----
-
-<div class="signatur">
-
-Mach's gut,
-Deine Sally 💛
-
+<div class="testimonial-wrapper">
+  <div class="testimonial-bubble">
+    <p class="testimonial-text">Ich hatte schon so viele Ratgeber gelesen, aber erst Sallys Coaching hat mir wirklich geholfen, meinen Platz in unserer Patchworkfamilie zu finden. Heute fühle ich mich endlich sicher und wertvoll in meiner Rolle als Bonusmama.</p>
+    <p class="testimonial-author">Christina, 34 · Bonusmama von zwei Jungs (7 und 9)</p>
+  </div>
+  <div class="testimonial-bubble">
+    <p class="testimonial-text">Der geschützte Austausch in der Support Group ist Gold wert! Hier kann ich auch die Dinge ansprechen, die ich mich sonst nicht traue zu sagen. Das hat mir so viel Last von den Schultern genommen.</p>
+    <p class="testimonial-author">Maria, 41 · Bonusmama einer Teenagerin</p>
+  </div>
 </div>
