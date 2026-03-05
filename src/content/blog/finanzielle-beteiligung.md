@@ -43,7 +43,7 @@ Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas meh
 > „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen.“
 – Benjamin franklin
 
-## Mit dem partner über geld sprechen
+## Mit dem Partner über Geld sprechen
 
 Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien kann es noch komplizierter sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse und Verpflichtungen prallen aufeinander. Da ist es ganz normal, wenn es auch mal kracht. Umso wichtiger ist eine offene und ehrliche Kommunikation über die Finanzen.
 
@@ -76,8 +76,6 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf beiden Seiten lässt sich ein Weg finden. Denk immer daran: Ihr sitzt im selben Boot und wollt beide das Beste für eure Familie.
 
 ## Wahre deine finanzielle Unabhängigkeit**Als Bonusmama ist es leicht, sich selbst zu vergessen.**Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
-
-
 
 
 ---

@@ -57,8 +57,6 @@ Als Eltern ist es wichtig, sich dieser Herausforderungen bewusst zu sein und dem
 ## Außergewöhnliche Rituale
 
 
-
-
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.

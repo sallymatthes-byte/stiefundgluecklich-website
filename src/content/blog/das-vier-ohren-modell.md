@@ -27,7 +27,7 @@ Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen kö
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: Mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
-## Der wunsch nach einem Miteinander ohne Vorwürfe
+## Der Wunsch nach einem Miteinander ohne Vorwürfe
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
@@ -40,7 +40,6 @@ Dafür war es unerlässlich, dass wir lernen, einander zuzuhören und zu versteh
 
 Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen. Doch der Weg dahin war nicht immer einfach, denn alte Kommunikationsmuster abzulegen und neue zu erlernen, erfordert Geduld und Übung.
 
->
 
 > „wer sich selbst versteht, kommuniziert besser.”" – Friedemann Schulz von Thun
 

@@ -16,7 +16,7 @@ Ein Prozess, der sich über mehrere Wochen hinweggezogen hat und uns noch einmal
 
 Lass uns gleich mal einen Blick darauf werfen, welche Vorteile es noch mit sich gebracht hat.
 
-## So hat das Visionboard unserer patchworkfamilie geholfen
+## So hat das Visionboard unserer Patchworkfamilie geholfen
 
 In unserem Patchworkalltag haben wir oft mit Herausforderungen zu kämpfen, denn Konflikte mit der Ex-Partnerin und Unstimmigkeiten bei Erziehungsfragen können überwältigend sein. Es ist leicht, sich in diesen Momenten im Alltagsstress zu verlieren und den Fokus auf das Negative zu legen. Doch gerade deshalb ist es so wichtig, unsere gemeinsame Vision zu entwickeln.
 

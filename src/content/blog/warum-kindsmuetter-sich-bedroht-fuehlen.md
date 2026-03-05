@@ -35,7 +35,7 @@ Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht 
 
 – tom tellez
 
-## Die Perspektive der bonusmama
+## Die Perspektive der Bonusmama
 
 
 ![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
@@ -52,7 +52,7 @@ In manchen Momenten überkommt dich vielleicht sogar der *Impuls, aufzugeben un
 
 Es ist wichtig, dass du dir inmitten dieser emotionalen Achterbahnfahrt Raum für deine eigenen Gefühle gibst. Erlaube dir, die Verletzungen wahrzunehmen und auszudrücken, sei es durch Gespräche mit deinem Partner, einer Freundin oder einem Therapeuten. Pflege auch einen liebevollen Umgang mit dir selbst und gönne dir Momente der Selbstfürsorge.
 
-## Gemeinsames brückenbauen
+## Gemeinsames Brückenbauen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-3.jpg)

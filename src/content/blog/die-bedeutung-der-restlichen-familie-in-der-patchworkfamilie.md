@@ -22,7 +22,7 @@ Lass mich dir ein Beispiel geben:
 Meine [Eltern](https://www.grosseltern.de/tipps-fuer-stief-grosseltern-gleichbehandlung-der-biologischen-und-nicht-biologischen-enkel/) hatten bereits ein Enkelkind, welches sie abgöttisch lieben. Und plötzlich gab es da zwei weitere Kinder, die nicht dieselbe Sprache sprechen und schon etwas älter sind. Jedes Enkelkind ist für sie dennoch einzigartig und hat seine eigenen Bedürfnisse und Persönlichkeiten.
 Bei leiblichen Enkelkindern besteht oft eine biologische Verbindung, die von Natur aus eine gewisse Nähe und Verbundenheit schafft. Doch das bedeutet nicht, dass die Bindung zu den Enkelkindern aus einer Patchworkfamilie weniger stark sein muss. Im Gegenteil, sie kann sogar noch intensiver und wertvoller sein, da sie auf gegenseitigem Vertrauen und Liebe aufbaut.
 
-## Wie die restliche Familie eine rolle spielt
+## Wie die restliche Familie eine Rolle spielt
 
 
 ![Stimmungsbild zum Artikel](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-2.jpg)

@@ -14,7 +14,7 @@ Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit i
 Und in den Momenten dieser Trennung kam bei ihr immer wieder der Gedanke auf: “Ich bin gescheitert. Ich habe es nicht geschafft. Ich bin nicht gut genug. Ich habe versagt.”
 Dann ist es einfach da: diese Enttäuschung darüber, etwas nicht geschafft zu haben – dass die Bonustochter sich über das Geburtstagsgeschenk freut, der Ex-Frau zugelächelt wird oder die Paarzeit harmonisch ist. Wie kommst du dann aus dem Gefühl des Scheiterns wieder raus?
 
-## Ursachen für das Gefühl des scheiterns als Bonusmama
+## Ursachen für das Gefühl des Scheiterns als Bonusmama
 
 Das Gefühl des Scheiterns als Bonusmama kann tief verwurzelt und vielschichtig sein. Eine der Hauptursachen ist der**immense Druck**, den du dir selbst auferlegst. Du möchtest alles richtig machen: die perfekte Partnerin für deinen Lebensgefährten sein, eine liebevolle und akzeptierte Figur für seine Kinder und gleichzeitig deine eigenen Bedürfnisse nicht vernachlässigen.*Dieser Balanceakt ist anspruchsvoll und oft begleitet von dem ständigen Gefühl, den Erwartungen nicht gerecht zu werden.*
 

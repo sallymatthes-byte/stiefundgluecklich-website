@@ -59,7 +59,7 @@ Doch so verständlich die Positionen auch sein mögen: Für Kinder sind diese Ma
 > „Erziehung besteht aus zwei Dingen: Beispiel und Liebe.“
 – friedrich fröbel
 
-## Zurückhaltung als bonuseltern
+## Zurückhaltung als Bonuseltern
 
 Viele Bonuseltern wünschen sich mehr Einfluss auf die Erziehungsmethoden in Patchworkfamilien. Doch Studien zeigen eindeutig:**Kinder profitieren am meisten davon, wenn die Disziplin in den Händen des leiblichen Elternteils bleibt**– zumindest so lange, bis der Bonuselternteil eine liebevolle, vertrauensvolle Beziehung zum Kind aufgebaut hat.
 
@@ -72,8 +72,6 @@ Hinzu kommt: Ein autoritärer Erziehungsstil, wie ihn Bonuseltern häufig an den
 Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sagen dürfen. Als Teil der Patchworkfamilie bringen sie ihre eigenen Werte und Vorstellungen mit, die durchaus berechtigt sind. Entscheidend ist jedoch, dass sie diese zunächst mit dem leiblichen Elternteil abstimmen und gemeinsam nach Kompromissen suchen. So entwickeln sie Schritt für Schritt eine Erziehungspartnerschaft, in der das Wohl des Kindes an erster Stelle steht.
 
 ## Hand in Hand
-
-
 
 
 ---

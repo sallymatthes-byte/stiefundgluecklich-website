@@ -30,7 +30,7 @@ Du fragst dich:
 
 Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten.
 
-## Die tieferen ursachen der eifersucht verstehen
+## Die tieferen Ursachen der Eifersucht verstehen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
@@ -47,7 +47,6 @@ Vielleicht spürst du:
 
 - Die Unsicherheit, ob deine Liebe “ausreicht”, um die Schatten der Vergangenheit zu überstrahlen
 
->
 
 “Eifersucht ist wie ein Kompass – sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen.”
 
@@ -152,4 +151,4 @@ Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verste
 
 ***“Durch Sallys Begleitung habe ich gelernt, dass meine Eifersucht mir eigentlich etwas Wichtiges sagen wollte. Heute kann ich viel gelassener mit der Ex-Situation umgehen und fühle mich sicher in meiner Rolle als Bonusmama.”*** – Maria, 36, Bonusmama von drei Kindern
 
->
+

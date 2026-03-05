@@ -19,7 +19,7 @@ In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchwork
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) genau das Richtige für dich:
 
-## Verliebt, nicht verlobt, aber patchwork
+## Verliebt, nicht verlobt, aber Patchwork
 
 Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, eine Auszeit zu nehmen und für drei Monate mit meinem Rucksack durch Südostasien zu reisen. Ich war glücklich, frei und hatte gerade erst wieder zu mir selbst gefunden. Das Letzte, wonach ich suchte, war eine neue Beziehung – doch dann kam alles anders. In Thailand lernte ich meinen jetzigen Partner kennen und verliebte mich Hals über Kopf.
 
@@ -31,7 +31,7 @@ Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragt
 
 *All diese Herausforderungen führten dazu, dass ich mich immer mehr zurückzog und mich auf mich selbst konzentrierte.* Ich suchte nach Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional von meinem Partner und den Kindern distanzierte. Wir führten viele Gespräche darüber, ob unsere Beziehung diese Belastungsprobe aushalten würde und ob wir wirklich gemeinsam eine Zukunft gestalten konnten.
 
-## Dabei wollte ich nur harmonie
+## Dabei wollte ich nur Harmonie
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-2.jpg)
@@ -46,7 +46,6 @@ Mir wurde klar, dass ich aktiv etwas verändern musste, um meinem Ziel näher zu
 
 Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien auseinanderzusetzen und nach Wegen zu suchen, wie ich meine Rolle als Stiefmutter positiv gestalten konnte. Ich war fest entschlossen, meinen Beitrag zu einem harmonischen Familienleben zu leisten und nicht aufzugeben, bis wir gemeinsam unser Ziel erreicht hatten. Und wie mir das gelang, erfährst du im nächsten Absatz.
 
->
 
 > „in schwierigen zeiten ist familie das beste.”" – Burmesisches Sprichwort
 
@@ -60,7 +59,7 @@ In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung.
 
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
-## Der neue weg
+## Der neue Weg
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-3.jpg)

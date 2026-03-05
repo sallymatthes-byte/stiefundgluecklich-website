@@ -58,8 +58,6 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 ## Wachstum durch Herausforderungen
 
 
-
-
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.

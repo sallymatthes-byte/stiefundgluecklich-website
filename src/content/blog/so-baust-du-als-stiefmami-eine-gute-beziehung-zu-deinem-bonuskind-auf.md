@@ -35,7 +35,7 @@ Der Aufbau einer Beziehung braucht Zeit und Geduld. Lass deinem Bonuskind genüg
 – Friedrich Fröbel
 
 
-## VErwandle Stolpersteine in Edelsteine
+## Verwandle Stolpersteine in Edelsteine
 
 Der Beziehungsaufbau zu deinem Bonuskind kann mit verschiedenen Stolpersteinen, also Herausforderungen, verbunden sein. Es ist wichtig, sich dieser Herausforderungen bewusst zu sein und nach Lösungen zu suchen, um eine harmonische Beziehung aufzubauen. Und somit Edelsteine daraus zu machen.
 
@@ -54,8 +54,6 @@ Der Beziehungsaufbau zu deinem Bonuskind kann mit verschiedenen Stolpersteinen, 
 Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig, doch es gibt immer Wege, diese zu überwinden. Mit Geduld, Einfühlungsvermögen und einer respektvollen Haltung kannst du dazu beitragen, eine liebevolle Beziehung zu deinem Bonuskind aufzubauen.
 
 ## Was, wenn es zu viel wird?
-
-
 
 
 ---

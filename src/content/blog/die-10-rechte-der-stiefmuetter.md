@@ -18,13 +18,12 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
 
-## Warum die rechte der stiefmütter so wichtig sind
+## Warum die Rechte der Stiefmütter so wichtig sind
 
 Kennst du das Gefühl, als Stiefmutter immer wieder an deine Grenzen zu stoßen? Du übernimmst Verantwortung für die Kinder deines Partners, gestaltest den Familienalltag mit und investierst viel Zeit und Energie. *Doch oft fühlst du dich dabei unsichtbar, als würden deine eigenen Bedürfnisse und Wünsche keine Rolle spielen.* Vielleicht hast du schon erlebt, wie Entscheidungen über deinen Kopf hinweg getroffen wurden oder du bei Konflikten zwischen den Fronten stehst.
 
 Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen – sei es durch festgefahrene Rollenbilder, Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
 
->
 
 > „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen..”" – J.W. von Goethe
 
@@ -137,6 +136,5 @@ In einem 30-minütigen Gespräch entwickeln wir gemeinsam:
 
 - Eine maßgeschneiderte Strategie für deine spezifische Familiensituation
 
->
 
 “Seit dem Coaching mit Sally fühle ich mich endlich stark genug, für meine Bedürfnisse einzustehen. Mein Partner unterstützt mich jetzt aktiv, und sogar meine Stiefkinder zeigen mehr Respekt. Ich hätte nie gedacht, dass sich so viel ändern kann!” – Maria, 42, Stiefmutter von zwei Kindern

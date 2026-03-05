@@ -76,7 +76,7 @@ Klar, Smalltalk kann eine Herausforderung sein. Aber sieh es als Chance, neue Me
 Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast jedes Recht, mit Freude und Engagement dabei zu sein. Also strahle diese Zuversicht aus und genieße die bereichernden Momente mit deinem Bonuskind.
 Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
 
-## Hand in hand durch herausfordernde Situationen
+## Hand in Hand durch herausfordernde Situationen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)

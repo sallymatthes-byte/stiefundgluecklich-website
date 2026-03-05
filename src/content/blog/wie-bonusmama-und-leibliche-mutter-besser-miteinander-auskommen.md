@@ -22,7 +22,7 @@ In diesem Blogartikel möchte ich einen Blick auf diese weit verbreitete Herausf
 
 Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchworkfamilie oder einfach nur jemand, der mehr über diese Familienkonstellationen erfahren möchte – ich lade dich ein, mit mir auf diese Reise der Erkenntnis zu gehen.
 
-## DIE HERAUSFORDERUNG VERSTEHEN
+## Die Herausforderung verstehen
 
 Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd.**Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
 
@@ -35,7 +35,7 @@ Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusma
 Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters schlecht redet. Daher ist es wichtig, diese Herausforderungen anzugehen und Wege zu finden, um ein harmonisches Miteinander zu fördern.
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
-## URSACHEN FÜR KONFLIKTE
+## Ursachen für Konflikte
 
 
 ![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
@@ -58,7 +58,7 @@ Die Bonusmama kann sich unsicher fühlen, wie sie sich in das bestehende Familie
 
 Indem wir diese Ursachen erkennen und verstehen, können wir beginnen, effektive Strategien zur Lösung dieser Konflikte zu entwickeln. Im nächsten Abschnitt werden wir durch die “systemische Brille” schauen, um ein tieferes Verständnis für die Dynamik in Patchworkfamilien zu erlangen.
 
-## DURCH DIE SYSTEMISCHE BRILLE SCHAUEN
+## Durch die systemische Brille schauen
 
 *Die systemische Theorie bietet einen wertvollen Rahmen, um die komplexen Dynamiken in Patchworkfamilien zu verstehen.* Sie betrachtet die Familie nicht nur als eine Gruppe von Individuen, sondern als ein System von Beziehungen, in dem jede Person und jede Beziehung die anderen beeinflusst.
 
@@ -70,9 +70,7 @@ Ein weiterer wichtiger Punkt ist das Verständnis, dass Konflikte oft Symptome t
 
 Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte entstehen und wie sie sich auf die gesamte Familie auswirken. Dieses Verständnis ist ein erster Schritt hin zu effektiven Strategien zur Konfliktlösung, die wir im nächsten Abschnitt diskutieren werden.
 
-## TIPPS ZUR VERBESSERUNG DES VERHÄLTNISSES
-
-
+## Tipps zur Verbesserung des Verhältnisses
 
 
 ---
@@ -97,7 +95,7 @@ Grenzen setzen: Es ist wichtig, klare Grenzen zu setzen und die Rollen und Veran
 
 Unterstützung suchen: Es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und Ihnen helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
 
-## IN A  NUTSHELL
+## Zusammenfassung
 
 Patchworkfamilien sind eine besondere Form des Familienlebens, die ihre eigenen Herausforderungen und Chancen bietet. Eine der größten Herausforderungen ist oft das Verhältnis zwischen Bonusmama und leiblicher Mutter.
 Konflikte können aufgrund verschiedener Faktoren wie unterschiedliche Erziehungsstile, Eifersucht, Kommunikationsprobleme und Rollenunsicherheiten entstehen.

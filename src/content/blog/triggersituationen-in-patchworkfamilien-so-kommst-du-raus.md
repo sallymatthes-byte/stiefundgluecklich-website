@@ -15,7 +15,7 @@ Ein Beispiel: Sie kommentiert gerade vieles mit “Das ist ja langweilig!”. In
 Solche oder ähnliche Situationen kennen viele [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Nicht selten kommt es dann zu heftigen Auseinandersetzungen in der Patchworkfamilie.
 Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem Schmerz? Und wie kommt man da wieder raus?
 
-## Was verstehen wir unter einem trigger?
+## Was verstehen wir unter einem Trigger?
 
 Kennst du das auch?
 Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/blog/patchworkfamilie-herausforderungen-und-chancen/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.

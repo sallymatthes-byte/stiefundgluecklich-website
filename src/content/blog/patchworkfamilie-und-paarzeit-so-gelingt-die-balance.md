@@ -30,7 +30,7 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 
 *Die Zeit als Paar in unserer Patchworkfamilie schien wie ein Luxusgut geworden zu sein.* Wenn ich abends im Bett lag, häuften sich die Fragen in meinem Kopf: Würden wir irgendwann nur noch Eltern sein und das Paar-Sein vergessen? War es egoistisch, sich nach mehr Zweisamkeit zu sehnen, wenn die Kinder so selten bei uns waren? Diese Gedanken nagten an mir, während ich spürte, wie unsere Verbindung als Liebespaar immer dünner wurde.
 
-## Die suche nach verlorener nähe
+## Die Suche nach verlorener Nähe
 
 
 ![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
@@ -40,7 +40,7 @@ Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick
 
 Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
 
-## Der wendepunkt: als ich aufhörte zu warten
+## Der Wendepunkt: Als ich aufhörte zu warten
 
 
 Es war ein regnerischer Sonntagmorgen, als ich aufwachte und diese erdrückende Sehnsucht nach Nähe nicht mehr ignorieren konnte. Die Kinder schauten ihre Lieblingsserie, mein Partner war in der Küche beschäftigt, und ich lag im Bett, gefangen in diesem Gefühl der Einsamkeit inmitten unserer Familie. In diesem Moment wurde mir klar: Die Zeit als Paar in unserer Patchworkfamilie würde sich nicht von alleine finden. Wir mussten aktiv etwas verändern.
@@ -87,8 +87,6 @@ Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zu
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
 
 
->
-
 “Durch Sallys Begleitung haben wir nicht nur als Familie, sondern vor allem als Paar wieder zueinander gefunden. Heute wissen wir, wie wir uns trotz vollem Familienkalender Zeit für unsere Liebe nehmen können.” – Lisa, 37, Bonusmama von drei Kindern
 
->
+

@@ -17,7 +17,7 @@ Ich wünsche mir manchmal, dass es die Kinder nicht gäbe.”
 All das sind Sätze, die ich immer wieder von Bonusmamas höre. Und auch ich kenne sie. Diese sich selbst einzugestehen und dann laut auszusprechen, ist unglaublich schmerzhaft. Schuld und Scham begleiten sie und oftmals geht das Gefühl damit einher, nicht gut genug zu sein.
 Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und weshalb es okay ist, dass du sie hast.
 
-## Wann spüren wir schuld?
+## Wann spüren wir Schuld?
 
 Lass uns zunächst die Situationen betrachten, in denen sich Bonusmamas häufig schuldig fühlen:
 
@@ -40,7 +40,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 > “Das Schuldgefühl hindert uns daran, die Dinge klar zu sehen.”
 – Doris May Lessing
 
-## Die Entstehung von schuldgefühlen
+## Die Entstehung von Schuldgefühlen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
@@ -52,7 +52,7 @@ Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.ps
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
-## Der Umgang mit der schuld
+## Der Umgang mit der Schuld
 
 
 ![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)

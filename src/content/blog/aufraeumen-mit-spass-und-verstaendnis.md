@@ -14,7 +14,7 @@ Immer wenn unsere Bonuskinder bei uns sind, bricht für mich gefühlt das Chaos 
 Stimmt. Und gleichzeitig bringt es mich auf die Palme, wenn überall die Spielsachen rumliegen und die Kinder nicht ihre Sachen aufräumen. Schließlich ist es doch unser aller zu Hause und da sind meine Bedürfnisse ja auch wichtig – das Bedürfnis nach Sauberkeit und Ordnung.
 Doch, was können wir eigentlich von den Kindern verlangen?
 
-## Ordnung und Chaos in verschiedenen phasen
+## Ordnung und Chaos in verschiedenen Phasen
 
 Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ordnung und Chaos prägen. In jeder Phase haben sie unterschiedliche Bedürfnisse und Fähigkeiten, die sich auch auf das Aufräumen auswirken.
 

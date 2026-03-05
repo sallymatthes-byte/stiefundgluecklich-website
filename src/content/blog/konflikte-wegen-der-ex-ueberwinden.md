@@ -53,7 +53,9 @@ All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einma
 
 Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
-## Zeit für veränderung**Schritt 1: Analyse – Die Situation mit Abstand betrachten**Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
+## Zeit für Veränderung
+
+**Schritt 1: Analyse – Die Situation mit Abstand betrachten**Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
 
 
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)

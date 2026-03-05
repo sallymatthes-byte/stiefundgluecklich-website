@@ -34,7 +34,7 @@ An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die V
 
 Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschrauben, ohne die Kinder zu vernachlässigen? Und wie sollte ich meinem Partner beibringen, dass ich mehr Unterstützung brauchte, ohne ihn zu überfordern? Ich wusste, dass es nicht einfach werden würde, aber ich war entschlossen, einen Weg zu finden.
 
-## Mein wunsch nach veränderung
+## Mein Wunsch nach Veränderung
 
 
 ![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
@@ -53,11 +53,10 @@ Mein Ziel war es, eine gesunde Balance zwischen meiner Rolle als Bonusmama und m
 
 Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen zu setzen und offen zu kommunizieren. Ich wusste, dass es Herausforderungen geben würde, aber ich war bereit, mich ihnen zu stellen. Und welche das waren, erfährst du im nächgsten Abschnitt.
 
->
 
 > „Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas Schönes bauen.”" – Erich Kästner
 
-## Grenzen setzen und verantwortung abgeben
+## Grenzen setzen und Verantwortung abgeben
 
 Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – zwei Dinge, die mir alles andere als leicht fielen.
 

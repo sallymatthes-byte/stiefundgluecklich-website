@@ -123,7 +123,7 @@ Vielleicht hast du das Gefühl, dass du dich in die Finanzen deines Partners nic
 
 Aber: Du hast das Recht, deine finanzielle Situation aktiv mitzugestalten!
 
-## Wie du als bonusmama finanzielle sicherheit gewinnst
+## Wie du als Bonusmama finanzielle Sicherheit gewinnst
 
 Vielleicht hast du dich bisher aus den finanziellen Angelegenheiten deines Partners herausgehalten. Doch sobald du merkst, dass die finanzielle Belastung eurer Beziehung schadet oder du dich unfair behandelt fühlst, wird klar: Das ist auch dein Thema. Doch wie kannst du sicherstellen, dass ihr eine faire Lösung findet – ohne Streit, ohne Schuldgefühle und ohne das Gefühl, dich selbst zurücknehmen zu müssen?
 

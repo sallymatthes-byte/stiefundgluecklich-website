@@ -15,7 +15,7 @@ Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsp
  bei EchteMamas schon einmal darüber gesprochen.
 Lass uns nun mal einen Blick darauf werfen, wie man mit diesen sprachlichen Barrieren umgehen kann und wie wir es geschafft haben. Kleiner Spoiler vorweg: Das braucht wirklich Zeit!
 
-## Chancen und herausforderungen
+## Chancen und Herausforderungen
 
 Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” Sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – und ich liebe es!**Klar, manchmal fragen wir uns, ob unsere Kids durch die vielen Sprachen nicht durcheinander kommen.**Aber dann sehe ich, wie selbstverständlich sie zwischen den Sprachen wechseln und wie sehr sie kognitiv davon profitieren. Sie lernen, sich flexibel auf unterschiedliche Gesprächspartner (auch in Bezug auf meine [Familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) und Situationen einzustellen – eine Superkraft fürs Leben! Und ganz nebenbei eröffnen ihnen die Sprachen Türen zu anderen Kulturen. Was für ein Geschenk!**Natürlich läuft nicht immer alles rund.**Manchmal mischen die Kinder die Sprachen wild durcheinander oder brauchen in einer Sprache etwas länger als andere Kinder. Aber hey, das ist völlig okay und gehört zur mehrsprachigen Entwicklung dazu. Da heißt es: Entspannt bleiben und dem Sprachenwirrwarr mit Humor begegnen.
 
@@ -52,7 +52,7 @@ In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/bl
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 
-## Umgang mit interkulturellen herausforderungen
+## Umgang mit interkulturellen Herausforderungen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-3.jpg)

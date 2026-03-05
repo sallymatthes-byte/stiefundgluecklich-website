@@ -46,7 +46,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
-## Die Bedeutung von expartnerinnen
+## Die Bedeutung von Expartnerinnen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
@@ -74,9 +74,7 @@ Natürlich bedeutet das nicht, dass Unstimmigkeiten mit der Mutter komplett verm
 
 Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Auseinandersetzungen herauszuhalten. Vermeidet abfällige Bemerkungen, verhandelt strittige Themen, wenn die Kinder nicht dabei sind, und bemüht euch um einen respektvollen, sachlichen Ton. Je besser euch das gelingt, die eigenen Emotionen zu regulieren und konstruktiv zu kommunizieren, desto mehr Sicherheit und Stabilität könnt den Kindern bieten.
 
-## Parallel parenting
-
-
+## Parallel Parenting
 
 
 ---

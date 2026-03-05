@@ -52,7 +52,7 @@ Gleichzeitig gibt es zahlreiche Stiefväter, die sich intensiv um ihre Stiefkind
 Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannungen führen kann.
 *Letztlich zeigt sich, dass sowohl Stiefmütter als auch Stiefväter mit Vorurteilen und überhöhten Erwartungen zu kämpfen haben, die ihrer individuellen Situation und ihren Bemühungen nicht immer gerecht werden.*
 
-## Warum sich meine angebote an bonusmamas richten
+## Warum sich meine Angebote an Bonusmamas richten
 
 
 ![Stimmungsbild zum Artikel](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-3.jpg)

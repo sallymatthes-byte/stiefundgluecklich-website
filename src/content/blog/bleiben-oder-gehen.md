@@ -27,7 +27,7 @@ Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner un
 
 Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre.  Kennst du das auch?
 
-## Aber dann gibt es ja auch noch diese momente…
+## Aber dann gibt es ja auch noch diese Momente…
 
 … in denen du an all die guten Seiten deines Partners denkst und die Liebe zwischen euch spürst. Die Momente, in denen ihr als Paar Zeit für euch habt und die Patchworkdynamik für einen Moment in den Hintergrund tritt.
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.

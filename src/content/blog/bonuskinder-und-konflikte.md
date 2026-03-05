@@ -17,7 +17,7 @@ Daher möchte ich dich heute einmal mit durch meine Gedanken und Überlegungen n
 
 Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, Konflikte mit den Bonuskindern zu minimieren und eine harmonische Beziehung aufzubauen. Wir werden uns außerdem mit dem Verständnis für die Situation der Kinder, dem Setzen und Respektieren von Grenzen, der Bedeutung der Kommunikation und der Schaffung gemeinsamer Aktivitäten und Rituale beschäftigen.
 
-## Weshalb entstehen konflikte?
+## Weshalb entstehen Konflikte?
 
 Nicht nur die Pubertät bringt Konflikte mit den Bonuskindern hervor. Auch in anderen Situationen kann es immer wieder zu Unstimmigkeiten und Streitereien kommen.**Wo Reibung entsteht, entsteht Wärme.**Dass also Konflikte entstehen, ist meines Erachtens absolut natürlich, wenn Menschen miteinander im Kontakt sind. Und sie bergen ein enormes Potenzial zu einem harmonischen Miteinander.
 
@@ -56,8 +56,6 @@ Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosph�
 Im nächsten Abschnitt werden wir uns Notfallstrategien anschauen, die dabei helfen können, wenn es doch mal brenzlig wird.
 
 ## Was tun, wenn es eskaliert?
-
-
 
 
 ---

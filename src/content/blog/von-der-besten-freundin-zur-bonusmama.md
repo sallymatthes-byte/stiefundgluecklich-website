@@ -20,7 +20,7 @@ Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
 
-## Vom vertrauten umfeld zur außenseiterin
+## Vom vertrauten Umfeld zur Außenseiterin
 
 Marion war eine der besten Freundinnen der Kindsmutter und kannte somit auch die Kinder schon vor ihrer Beziehung mit dem Kindsvater. Als sie dann zur Bonusmutter wurde, veränderte sich plötzlich alles.*Die einst so vertraute Freundschaft zur Kindsmutter zerbrach und Marion fand sich in einer völlig neuen Rolle wieder.*
 
@@ -47,7 +47,7 @@ Mit diesen Wünschen und Zielen im Herzen machte sich Marion auf den Weg, die He
 
 > „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”" – Mark Twain
 
-## Gerüchte, anfeindungen und das gefühl des alleingelassenseins
+## Gerüchte, Anfeindungen und das Gefühl des Alleingelassenseins
 
 Marion sah sich mit einer Vielzahl von Herausforderungen konfrontiert, die es ihr erschwerten, ihre Ziele zu erreichen.**Die Gerüchte und Anfeindungen im Umfeld belasteten sie sehr.**Immer wieder wurde sie mit Vorwürfen konfrontiert, sie sei die Schuldige an der Trennung der Eltern. Die Kinder waren durch die neue Rollenkonstellation verunsichert und wussten nicht, wie sie mit Marion umgehen sollten.
 
@@ -63,7 +63,7 @@ Dafür brauchte Marion einen neuen Ansatz, eine Strategie, die ihr helfen würde
 
 Und was dieser Schlüssel war, erfährst du im nächsten Abschnitt.
 
-## Der schlüssel zum glück
+## Der Schlüssel zum Glück
 
 
 ![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-3.jpg)

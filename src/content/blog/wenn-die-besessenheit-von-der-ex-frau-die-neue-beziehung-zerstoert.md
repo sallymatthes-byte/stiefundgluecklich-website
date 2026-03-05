@@ -16,7 +16,7 @@ In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über 
 
 Über [diesen Link](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) gelangst du zum Podcast und kannst dir dort nochmal tiefere Einblicke in dieses Thema holen:
 
-## Wenn die ex-frau zur bedrohung wird
+## Wenn die Ex-Frau zur Bedrohung wird
 
 Der Samstagnachmittag sollte eigentlich entspannt sein – du hast extra einen Kuchen gebacken und das Kinderzimmer ist aufgeräumt. Doch dann kommt die Nachricht: “Tut mir leid, aber die Kinder bleiben heute doch bei ihrer Mutter. Sie hat spontan einen Ausflug geplant…” Wieder einmal durchkreuzt die Ex-Frau eure Pläne, wieder einmal fühlst du dich machtlos und übergangen.
 
@@ -50,7 +50,6 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 
 - Unterschiedliche Vorstellungen von Familienleben und Erziehung
 
->
 
 “Leid ist Schmerz, an dem wir festhalten.“
 – Deepak chopra
@@ -75,11 +74,10 @@ Der [erste und wichtigste Schritt](/blog/das-3-schritte-framework/) ist, dir üb
 
 Diese Fragen können wehtun, denn sie zwingen uns, genau hinzuschauen. Aber sie sind der Schlüssel zur Veränderung. Denn nur wenn du weißt, wo du stehst und was du willst, kannst du die nächsten Schritte gehen.
 
->
 
 “Klarheit ist der erste Schritt zur Veränderung. Erst wenn wir verstehen, wo wir stehen, können wir entscheiden, wohin wir gehen wollen.”
 
-## Die 3 Schlüssel zur transformation
+## Die 3 Schlüssel zur Transformation
 
 Der Weg aus der toxischen Dynamik zwischen Ex-Frau und neue Beziehung führt über drei entscheidende Etappen. Jede davon ist wichtig, keine kann übersprungen werden. Lass uns gemeinsam einen Blick darauf werfen, wie diese Transformation aussehen kann:
 
@@ -119,7 +117,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 - Eine neue Familiendynamik etablieren
 
-## Dein weg zur harmonischen patchworkfamilie
+## Dein Weg zur harmonischen Patchworkfamilie
 
 
 ![Stimmungsbild zum Artikel](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-3.jpg)
@@ -136,7 +134,7 @@ Stell dir vor, wie es sich anfühlen würde, wenn die Ex-Frau und neue Beziehung
 
 - Störversuche von außen prallen an ihnen ab
 
-## Durchbreche jetzt den teufelskreis
+## Durchbreche jetzt den Teufelskreis
 
 Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur selbst erlebt, wie es ist, wenn die Ex-Frau die neue Beziehung überschattet – ich habe auch schon vielen Bonusmamas geholfen, aus dieser Situation auszubrechen.
 

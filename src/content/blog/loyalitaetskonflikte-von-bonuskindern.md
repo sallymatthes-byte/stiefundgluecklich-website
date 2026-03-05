@@ -45,7 +45,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
-## Zwischen den stühlen
+## Zwischen den Stühlen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
@@ -63,7 +63,7 @@ Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit
 > „Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter.“
 – unbekannt
 
-## Das leben in der schneekugel
+## Das Leben in der Schneekugel
 
 Emmas Leben gleicht einem Wirbelsturm der Veränderungen. Erst die Trennung ihrer Eltern, die ihr den Boden unter den Füßen weggerissen hat. Dann der Umzug in eine neue Wohnung, weg von ihrem vertrauten Zuhause, ihren Freunden und Nachbarn. In der Schule ist sie jetzt die Neue, muss sich erst wieder ihren Platz suchen. Und nun auch noch Lisa, die neue Partnerin ihres Vaters, die plötzlich ständig präsent ist.
 
@@ -76,8 +76,6 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 *Als Eltern und Bonuseltern ist es unsere Aufgabe, Verständnis für diese Überforderung zu haben.* Anstatt Begeisterung und schnelle Anpassung zu erwarten, sollten wir den Kindern den Raum geben, den sie brauchen, um mit den Veränderungen Schritt für Schritt klarzukommen. Nur wenn wir ihr Tempo respektieren und ihre Gefühle ernst nehmen, können sie nach und nach in ihrem neuen Leben ankommen.
 
 ## Strategien, um das Kind zu unterstützen
-
-
 
 
 ---

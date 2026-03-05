@@ -16,7 +16,7 @@ Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese
 
  genau das Richtige für dich:
 
-## Von der außenseterin zur bezugsperson
+## Von der Außenseiterin zur Bezugsperson
 
 Als ich meinen Partner kennenlernte, war ich voller Vorfreude, Teil einer Patchworkfamilie zu werden. Ich malte mir aus, wie wir gemeinsam Zeit verbringen, Ausflüge unternehmen und eine enge Bindung zueinander aufbauen würden. Doch schnell merkte ich, dass die Realität anders aussah als erwartet.**Die Kinder klebten förmlich am Papa und ich fühlte mich oft ausgeschlossen.**Selbst bei gemeinsamen Unternehmungen wie Kinobesuchen saßen die Kinder links und rechts von ihm, während für mich kein Platz zu sein schien. Sie wollten seine Hand halten, seine Nähe spüren und seine ungeteilte Aufmerksamkeit genießen.
 
@@ -38,7 +38,7 @@ Ich stellte mir vor, wie wir gemeinsam lachen, spielen und Erinnerungen schaffen
 Ich träumte von einer Patchworkfamilie, in der jeder seinen Platz hatte und sich geborgen fühlte. Eine Familie, in der wir füreinander einstehen, uns gegenseitig unterstützen und gemeinsam durch dick und dünn gehen würden. Ich sehnte mich nach einem Zuhause voller Liebe, Verständnis und Zusammenhalt.
 
 
-## Rückzug und diestanz – direkt in die sackgasse
+## Rückzug und Distanz – direkt in die Sackgasse
 
 Anfangs versuchte ich, mit meinen Gefühlen des Ausgeschlossenseins umzugehen, indem ich mich zurückzog und Distanz schaffte. Wenn die Kinder am Papa klebten, sagte ich mir: “Wisst ihr was? Ich habe keine Lust dazu. Macht ihr mal eure Zeit zusammen, ich lese solange ein Buch.”**Doch diese Strategie führte nur dazu, dass ich noch mehr von der Familie abgekapselt wurde.**Ich baute eine Mauer um mich herum auf und konnte in diesen Momenten keine Verbindung zu meinen Lieben aufrechterhalten. Stattdessen gab ich mich meinen negativen Gedanken hin und malte mir aus, wie schrecklich es war, nicht dazuzugehören.*Ich fühlte mich einsam und unverstanden.*
 
@@ -49,9 +49,7 @@ Ich erkannte, dass ich mit meinem Verhalten in eine Sackgasse geraten war. Ansta
 Mir wurde klar, dass ich etwas ändern musste, wenn ich ein harmonisches Familienleben führen wollte. Ich musste lernen, mit meinen Gefühlen umzugehen, ohne mich zu isolieren. Ich brauchte ein neues Verständnis für die Situation und den Mut, auf die Kinder zuzugehen, auch wenn es bedeutete, verletzlich zu sein.
 
 
-## Annäherung statt rückzug
-
-
+## Annäherung statt Rückzug
 
 
 ---

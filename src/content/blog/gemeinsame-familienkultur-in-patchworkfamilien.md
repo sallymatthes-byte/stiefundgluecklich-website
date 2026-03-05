@@ -82,8 +82,6 @@ Ein respektvoller Umgang miteinander bedeutet auch, Unterschiede auszuhalten und
 ## Schritt für Schritt Gemeinsamkeiten finden
 
 
-
-
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.

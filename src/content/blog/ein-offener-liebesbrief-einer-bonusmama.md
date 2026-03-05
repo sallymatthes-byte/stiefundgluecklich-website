@@ -47,4 +47,4 @@ Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe d
 In tiefer Liebe und Verbundenheit,
 Sally
 
->
+

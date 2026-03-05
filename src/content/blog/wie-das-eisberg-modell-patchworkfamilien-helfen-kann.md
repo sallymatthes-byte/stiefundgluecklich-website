@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das oft verwendet wird, um zu veranschaulichen, dass viele unserer Verhaltensweisen, Reaktionen und Entscheidungen von unbewussten Gedanken, Gefühlen und Motivationen beeinflusst werden, die unter der Oberfläche liegen. Und wir schauen uns heute mal an, wie das Eisberg-Modell einer Patchworkfamilie helfen kann.
 
-## Was ist das eisberg-Modell eigentlich?
+## Was ist das Eisberg-Modell eigentlich?
 
 Das Eisberg-Modell ist ein faszinierendes Konzept aus der Psychologie, das uns hilft, die Komplexität menschlichen Verhaltens besser zu verstehen. Es basiert auf einer einfachen, aber eindrucksvollen Analogie: *Wie bei einem Eisberg ist auch bei uns Menschen nur ein kleiner Teil unseres Wesens sichtbar.*
 
@@ -56,8 +56,6 @@ Wenn wir die Eisberg-Perspektive einnehmen, können wir bewusster kommunizieren.
 Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstraktes Konstrukt, sondern ein praktisches Werkzeug für unseren Patchwork-Alltag. Es hilft uns, mit Neugier und Verständnis zu reagieren, anstatt vorschnell zu urteilen. Probier es doch mal aus, wenn bei euch das nächste Mal die Wogen hochschlagen. Ich verspreche dir: Es kann Wunder wirken!
 
 ## Tipps und Fragen für den Patchwork-Alltag
-
-
 
 
 ---

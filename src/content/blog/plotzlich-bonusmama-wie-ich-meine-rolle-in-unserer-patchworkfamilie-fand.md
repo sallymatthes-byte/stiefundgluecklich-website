@@ -14,7 +14,7 @@ Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in T
 
 Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das so leicht klingt und doch eine völlig neue Welt bedeutete. Die sprachliche Barriere war dabei noch die kleinste Herausforderung. Viel schwieriger waren die Fragen, die sich in meinem Kopf überschlugen: Wer war ich für diese Kinder? Welche Rolle sollte ich einnehmen? Wie nah durfte ich ihnen kommen?
 
-## Die ersten schritte in der rolle als bonusmama
+## Die ersten Schritte in der Rolle als Bonusmama
 
 Als Erziehungswissenschaftlerin und langjährige Kita-Mitarbeiterin dachte ich, ich wäre gut vorbereitet. Doch nichts in meiner Ausbildung hatte mich auf diese emotionale Achterbahn vorbereitet. Zum ersten Mal sah ich meinen Partner in seiner Rolle als Papa – liebevoll, fürsorglich und manchmal auch nachgiebig. Ich musste lernen, ihn zu “teilen”, nicht nur mit seinen Kindern, sondern auch mit einer Vergangenheit, zu der ich keinen Zugang hatte.
 
@@ -76,8 +76,6 @@ Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen
 Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama authentisch zu gestalten?
 
 -
-
-
 
 
 Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.

@@ -41,8 +41,6 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 ## Ein Wochenplan als Lösung
 
 
-
-
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.

@@ -15,7 +15,7 @@ Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für 
 Jede Beziehung ist einzigartig und erfordert *individuelle Lösungen*. In unserem Fall lag die Verantwortung zu Beginn komplett bei meinem Partner – eine Entscheidung, die nicht immer auf Verständnis stößt, aber uns geholfen hat, eine solide Basis für unsere Beziehung zu schaffen.
 Weshalb und wie wir das geschafft haben, erfährst du im Artikel.
 
-## Was bedeutet diese verantwortung eigentlich?
+## Was bedeutet diese Verantwortung eigentlich?
 
 Als Bonusmama oder Bonuspapa sind wir nicht nur Partner_in unseres liebsten Menschen, sondern auch eine*wichtige Bezugsperson* für die Bonuskinder.
 Wir tragen dadurch auch Verantwortung für ihr Wohlergehen und ihre Entwicklung.
@@ -45,7 +45,7 @@ Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortu
 > “Die größte Führungsaufgabe ist die Verantwortung für die eigene Familie.”
 – John C. Maxwell
 
-##  Wie erfolgt die schrittweise Verantwortungsübernahme?
+## Wie erfolgt die schrittweise Verantwortungsübernahme?
 
 Die schrittweise Aufteilung der Verantwortung in einer neuen Beziehung ist ein entscheidender Schritt auf dem Weg zu einer harmonischen Patchworkfamilie. Nachdem wir den Raum gegeben haben, damit sich die Bindung zwischen dem biologischen Elternteil und den Bonuskindern weiterentwickeln konnte, ist es nun an der Zeit, uns aktiv einzubringen und unsere Verantwortung zu übernehmen. Doch wie gelingt diese schrittweise Aufteilung?
 
@@ -59,8 +59,6 @@ Es ist jedoch auch wichtig anzuerkennen, dass die schrittweise Aufteilung der Ve
 Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln kommen kann. Doch gerade in diesen Momenten ist es wichtig, am Ball zu bleiben, offen zu kommunizieren und sich gegenseitig zu unterstützen.
 
 ## Wo sind die Grenzen?
-
-
 
 
 ---
