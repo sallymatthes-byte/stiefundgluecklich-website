@@ -20,10 +20,9 @@ Und dann sind da noch die**gesellschaftlichen Erwartungen und Vorurteile**gegen�
 
 All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen nichts über deinen Wert als Bonusmama aus. Und dennoch tut es weh - wie kannst du diese Gefühle also annehmen?
 
-## Deine Gefühle wahrnehmen und annehmen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
+
+## Deine Gefühle wahrnehmen und annehmen
 
 wenn die Vergleiche kommen, trifft es dich wie ein Stich ins Herz. Da ist *Wut, Traurigkeit, Enttäuschung und die nagende Frage: "Bin ich gut genug?"* Es ist so wichtig, dass du diese schmerzhaften Emotionen zulässt und ihnen Raum gibst.
 
@@ -43,10 +42,9 @@ Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh
 
 > „Ein gefällter Baum wirft keinen Schatten.“ – Unbekannt
 
-## Deinen eigenen Platz finden
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
+
+## Deinen eigenen Platz finden
 
 Es ist Zeit, dass du aus dem Schatten der Vergleiche mit der Kindsmutter heraustrittst und deinen eigenen, einzigartigen Platz in der Familie findest und ausfüllst. Denn du bist so viel mehr als eine Kopie der Kindsmutter - du bist eine wundervolle Bonusmama mit ganz besonderen Stärken und Qualitäten.
 

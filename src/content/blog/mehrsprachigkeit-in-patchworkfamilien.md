@@ -21,10 +21,9 @@ Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühst�
 
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: Ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
-## Bedeutung der Bonusmutter für die Sprachentwicklung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-2.jpg)
+
+## Bedeutung der Bonusmutter für die Sprachentwicklung
 
 Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen Einfluss auf die Sprachentwicklung deiner Bonuskinder. Indem du konsequent deine Muttersprache mit ihnen sprichst, schaffst du einen natürlichen Raum für das Erlernen einer weiteren Sprache.
 
@@ -52,10 +51,9 @@ In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/bl
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 
-## Umgang mit interkulturellen Herausforderungen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-3.jpg)
+
+## Umgang mit interkulturellen Herausforderungen
 
 Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in mehrsprachigen Patchworkfamilien stecken in scheinbar banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei verschiedenen [Erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der richtigen Haltung und ein paar ungewöhnlichen Strategien lassen sich Brücken bauen:
 

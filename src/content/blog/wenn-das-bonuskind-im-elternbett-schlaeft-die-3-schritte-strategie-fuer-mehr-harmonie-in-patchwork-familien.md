@@ -17,7 +17,7 @@ Doch was wäre, wenn es einen Weg gäbe, deine Bedürfnisse zu wahren, ohne Schu
 
 Bevor wir starten, möchte ich eines klarstellen: Es geht in diesem Artikel nicht darum zu bewerten, ob ein Familienbett grundsätzlich richtig oder falsch ist. Jede Familie ist einzigartig. Was ich dir stattdessen anbiete, ist ein Weg, deine aktuelle Situation zu verbessern, wenn du damit unzufrieden bist – ohne dass sich jemand ausgeschlossen oder angegriffen fühlt.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Das Bonuskind im Elternbett – Zwischen Verzweiflung und Durchbruch
 
@@ -35,10 +35,9 @@ Der Durchbruch kam, als Mara eine entscheidende Erkenntnis hatte: Es ging nicht 
 
 Diese Erkenntnis veränderte alles – nicht nur für Mara, sondern für viele Bonusmamas, mit denen ich seither gearbeitet habe. Und genau diese verwandelnde Perspektive möchte ich jetzt mit dir teilen.
 
-## Die besonderen Herausforderungen, wenn ein Bonuskind im Elternbett schläft
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-2.jpg)
+
+## Die besonderen Herausforderungen, wenn ein Bonuskind im Elternbett schläft
 
 Vielleicht erkennst du dich in Maras Geschichte wieder. Die Herausforderungen, die entstehen, wenn ein Bonuskind im Elternbett schläft, sind vielfältig und betreffen viele Patchwork-Familien. Lass uns einen ehrlichen Blick auf die häufigsten Probleme werfen, damit du weißt: Du bist mit deinen Gefühlen nicht allein.
 
@@ -54,10 +53,9 @@ Wenn du deinen Partner dann doch auf das Thema ansprichst, fühlt er sich mögli
 
 Der erste Schritt zur Veränderung ist, diese Herausforderungen anzuerkennen. Deine Gefühle sind berechtigt. Dein Wunsch nach erholsamem Schlaf und Nähe zu deinem Partner ist kein Egoismus – es ist ein Grundbedürfnis, das du ohne Schuldgefühle haben darfst.
 
-## Warum Veränderung möglich ist – auch wenn das Bonuskind im Elternbett zur Gewohnheit wurde
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-3.jpg)
+
+## Warum Veränderung möglich ist – auch wenn das Bonuskind im Elternbett zur Gewohnheit wurde
 
 Nach Maras Durchbruch stellte sich natürlich die Frage: *Wie geht es jetzt weiter?* Wie konnte sie die Situation mit dem Bonuskind im Elternbett so verändern, dass alle Beteiligten sich wohlfühlten?
 

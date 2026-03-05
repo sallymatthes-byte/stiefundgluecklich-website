@@ -12,9 +12,6 @@ imageAlt: "Titelbild zum Artikel"
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
 Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist?**Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.**Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese
-
- genau das Richtige für dich:
 
 ## Von der Außenseiterin zur Bezugsperson
 
@@ -26,10 +23,9 @@ Ich fragte mich, ob es überhaupt möglich sein würde, eine Beziehung zu den Ki
 
 Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog ich mich immer weiter zurück. Ich gab dem Gefühl des Ausgeschlossenseins nach und verlor mich in Selbstzweifeln. Es war ein Teufelskreis, den ich durchbrechen musste, um eine Veränderung herbeizuführen.
 
-## Eigentlich wollte ich nur dazugehören
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
+
+## Eigentlich wollte ich nur dazugehören
 
 In meinem tiefsten Inneren sehnte ich mich danach, von meinen Bonuskindern als wichtige Bezugsperson anerkannt zu werden. Ich wünschte mir, dass sie mich nicht nur als die Partnerin ihres Vaters sahen, sondern als ein vollwertiges Familienmitglied, dem sie vertrauen und zu dem sie eine enge Bindung aufbauen konnten.
 

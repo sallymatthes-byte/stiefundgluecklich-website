@@ -36,10 +36,9 @@ Und nicht zuletzt bleibt die Frage nach den**Geschenken**: Wer beschenkt wen? Wi
 So viele Stolpersteine, die uns in der (Vor-) Weihnachtszeit erwarten.
 Und dabei wollen wir doch alle nur eins: harmonische Feiertage, ohne Streit und Konflikte.
 
-## Und wie fühlt es sich für die Kinder an?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/weihnachten-in-der-patchworkfamilie-2.jpg)
+
+## Und wie fühlt es sich für die Kinder an?
 
 Stell dir vor, du bist ein Kind in einer Patchworkfamilie und Weihnachten steht vor der Tür.
 

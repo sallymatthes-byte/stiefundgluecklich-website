@@ -35,10 +35,9 @@ Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht 
 
 – tom tellez
 
-## Die Perspektive der Bonusmama
-
-
 ![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
+
+## Die Perspektive der Bonusmama
 
 Als Bonusmama kann es eine schmerzliche Erfahrung sein, wenn du bemerkst, dass die Kindsmutter Konkurrenzgefühle dir gegenüber hegt. Die unterschwellige Spannung zwischen euch und die Ablehnung, die dir entgegenschlägt, können dich zutiefst verunsichern und dein *Selbstwertgefühl erschüttern*.
 
@@ -52,10 +51,9 @@ In manchen Momenten überkommt dich vielleicht sogar der *Impuls, aufzugeben un
 
 Es ist wichtig, dass du dir inmitten dieser emotionalen Achterbahnfahrt Raum für deine eigenen Gefühle gibst. Erlaube dir, die Verletzungen wahrzunehmen und auszudrücken, sei es durch Gespräche mit deinem Partner, einer Freundin oder einem Therapeuten. Pflege auch einen liebevollen Umgang mit dir selbst und gönne dir Momente der Selbstfürsorge.
 
-## Gemeinsames Brückenbauen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-3.jpg)
+
+## Gemeinsames Brückenbauen
 
 Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du erkennst, dass eine gute Zusammenarbeit mit der Kindsmutter der Schlüssel zu einer harmonischen Patchwork-Familie ist, in der sich das Kind geborgen und geliebt fühlt. Doch der Weg zu einer solchen Kooperation ist nicht immer einfach und erfordert *[Geduld,](/blog/die-4-phasen-der-patchworkfamilie/) Einfühlungsvermögen und den Willen zu Kompromissen*.**Als Bonusmama kannst du durch folgende Schritte dazu beitragen, eine Brücke zur Kindsmutter zu bauen:**-*Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
 

@@ -27,10 +27,9 @@ Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen 
 > “der schmerz ist unvermeidlich, das leiden ist optional.”
 – haruki murakami
 
-## Warum triggern uns bestimmte Situationen?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
+
+## Warum triggern uns bestimmte Situationen?
 
 Es liegt oft daran, dass bestimmte Situationen oder Verhaltensweisen**alte Wunden**in uns berühren. Diese Wunden können aus unserer eigenen Vergangenheit stammen oder aus vergangenen Beziehungen. Vielleicht erinnert dich das Verhalten der Ex-Frau an einen früheren Konflikt mit einem Familienmitglied oder an eine schmerzhafte Erfahrung in deiner Kindheit.
 Diese alten Verletzungen liegen wie ein sensibler Nerv in uns und werden durch ähnliche Situationen wieder aktiviert.
@@ -45,10 +44,9 @@ Achte auch auf**körperliche Reaktionen**wie Anspannung, Herzrasen oder Bauchsch
 Schreibe auf, wann und warum du dich getriggert fühlst. Welche Gedanken und Gefühle tauchen in diesen Momenten auf? Durch das Festhalten dieser Informationen kannst du Muster erkennen und Zusammenhänge besser verstehen. Es ist auch hilfreich, sich mit anderen Bonusmamas auszutauschen.
 Du wirst feststellen, dass du nicht allein mit diesen Triggersituationen bist und dass andere ähnliche Erfahrungen gemacht haben. Das kann dir helfen, deine eigenen Trigger besser zu erkennen und zu verstehen.
 
-## Wie kann ich reagieren?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-3.jpg)
+
+## Wie kann ich reagieren?
 
 Wenn du dich in einer Triggersituation befindest und merkst, dass du gerade getriggert wurdest, ist es wichtig, angemessen zu reagieren.
 

@@ -22,10 +22,9 @@ Auch *eigene Ansprüche* können eine Rolle spielen. Vielleicht möchtest du d
 
 Lass uns diese Ursachen im Hinterkopf behalten, während wir uns auf deine Reise zu mehr Selbstsicherheit und innerer Stärke begeben. In den nächsten Abschnitten gehen wir gemeinsam durch, was du tun kannst, um trotz Selbstzweifeln und Unverstandensein zu wachsen.
 
-## Umgang mit Unverständnis des Umfelds
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-2.jpg)
+
+## Umgang mit Unverständnis des Umfelds
 
 Es ist so frustrierend, wenn Menschen in deinem Umfeld deine Situation nicht nachvollziehen können. Sei es dein Partner, der nicht versteht, warum du dich ausgeschlossen fühlst, oder Freunde, die unbedacht fragen, wieso du dich so quälst –*“du wusstest es doch vorher?!”*. Dieses Unverständnis kann wie Nadelstiche sein, die dich immer wieder verunsichern.
 
@@ -54,10 +53,9 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
-## Bedeutung von Selbstfürsorge und Auszeiten für Bonusmamas
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-3.jpg)
+
+## Bedeutung von Selbstfürsorge und Auszeiten für Bonusmamas
 
 Lass uns zum Abschluss über etwas sprechen, das mir wirklich am Herzen liegt: Deine Selbstfürsorge. Inmitten der vielen Aufgaben und emotionalen Herausforderungen als Bonusmama ist es so leicht, sich selbst zu vergessen. Aber glaube mir, du bist das Fundament der Familie.**Nur wenn du stabil und erfüllt bist, kannst du langfristig für alle da sein.**Selbstfürsorge ist kein Luxus, sondern eine Notwendigkeit. Sie sieht für jede anders aus. Vielleicht bedeutet sie für dich, jeden Morgen in Ruhe deinen Kaffee zu trinken und ein paar Seiten zu lesen. Oder einmal pro Woche deine Lieblingssportart auszuüben. Finde Rituale und Aktivitäten, die dir guttun und deine Batterien aufladen.
 

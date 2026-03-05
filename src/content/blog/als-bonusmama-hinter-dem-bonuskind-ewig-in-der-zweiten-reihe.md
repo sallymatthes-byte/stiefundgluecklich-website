@@ -37,10 +37,9 @@ Indem du deine eigene Priorität stärkst, kannst du dazu beitragen, eine harmon
 > “Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren.”
 – Buddha
 
-## Mach dich selbst zur Priorität
-
-
 ![Stimmungsbild zum Artikel](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
+
+## Mach dich selbst zur Priorität
 
 Oftmals neigen wir dazu, unsere Anerkennung und Wertschätzung von anderen Menschen zu erwarten.
 Wir suchen nach Bestätigung von unserem Partner, den Kindern oder sogar der Ex-Frau.**Doch die Wahrheit ist, dass wir uns diese Anerkennung zuerst selbst geben können und müssen.**Es beginnt damit, dass wir uns selbst wertschätzen und anerkennen, wer wir sind und welchen Wert wir in die Patchworkfamilie bringen.
@@ -48,10 +47,9 @@ Indem wir uns selbst lieben und uns selbst wichtig nehmen, schaffen wir die Grun
 Also fang an, dir selbst diese [Wertschätzung](https://gedankenwelt.de/zehn-schritte-um-dir-selbst-die-prioritaet-zu-geben/) zu geben, die du verdienst, und beobachte, wie sich deine Beziehungen zu anderen Menschen, einschließlich deiner Patchworkfamilie, positiv verändern.
 
 
-## Du bist wichtig!
-
-
 ![Stimmungsbild zum Artikel](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-3.jpg)
+
+## Du bist wichtig!
 
 Als Stiefmami kann es eine besondere Herausforderung sein, sich selbst Anerkennung und Wertschätzung zu geben.*Oftmals wird von uns erwartet, uns um die [Bedürfnisse und Anliegen](/blog/balance-in-der-verantwortung/) anderer zu kümmern, während unsere eigenen Bedürfnisse in den Hintergrund treten.* Doch es ist wichtig, dass wir uns bewusst machen, dass wir genauso wichtig sind und verdient haben, uns selbst zu würdigen.**Ein wichtiger Schritt ist es, sich selbst zu akzeptieren und anzuerkennen, dass man als Stiefmutter eine wertvolle Rolle in der Patchworkfamilie spielt**. Du trägst dazu bei, dass die Familie harmonisch und liebevoll zusammenleben kann.**Es kann auch hilfreich sein, sich regelmäßig Zeit für sich selbst zu nehmen.**Finde heraus, was dich glücklich macht und was dir Energie gibt. Ob es nun ein Hobby, ein Spaziergang in der Natur oder einfach nur Zeit für dich alleine ist – solche Aktivitäten stärken nicht nur dein Selbstwertgefühl, sondern helfen dir auch dabei, deine eigenen Bedürfnisse nicht zu vernachlässigen.**Zudem ist es wichtig, dass du dir selbst gegenüber mitfühlend bist.**Manchmal sind wir zu hart mit uns selbst und setzen uns unter Druck, perfekt zu sein. Doch das ist nicht realistisch. Erlaube dir, Fehler zu machen und aus ihnen zu lernen. Behandle dich selbst mit der gleichen Güte und Fürsorge, die du auch anderen entgegenbringst.**Nicht zuletzt ist es auch wichtig, ein Netzwerk von Unterstützung aufzubauen.**Suche nach anderen Bonusmüttern, mit denen du dich austauschen und gegenseitig unterstützen kannst. Es ist hilfreich zu wissen, dass du nicht alleine bist und dass andere ähnliche Herausforderungen durchleben. Gemeinsam könnt ihr euch gegenseitig ermutigen und stärken.
 

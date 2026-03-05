@@ -33,10 +33,9 @@ Darüber hinaus ist es mir als Pädagogin auch immer eine Herzensangelegenheit, 
 
 Im nächsten Abschnitt werden wir uns mit einem weiteren wichtigen Punkt beschäftigen: dem Setzen und Respektieren von Grenzen. Denn klare und angemessene Grenzen sind entscheidend für eine gesunde und respektvolle Beziehung zu den Bonuskindern.
 
-## Wie setze ich Grenzen?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bonuskinder-und-konflikte-2.jpg)
+
+## Wie setze ich Grenzen?
 
 Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) ist es für mich besonders wichtig, klare Grenzen zu setzen und diese auch zu kommunizieren. Es ist für mich entscheidend, dass die Kinder wissen, welche Verhaltensweisen akzeptabel sind und welche nicht. Dies schafft*Sicherheit und Struktur* für sie und für mich.
 

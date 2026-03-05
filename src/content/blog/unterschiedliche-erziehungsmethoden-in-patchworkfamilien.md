@@ -20,19 +20,17 @@ Die Herausforderung der unterschiedlichen [Erziehungsansätze](https://www.kita.
 
 An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leben. **Wenn ich versuchte, Grenzen zu setzen, untergrub er sie oft unbeabsichtigt.** Wenn er den Kindern mehr Freiheiten ließ, kämpfte ich mit dem Impuls, korrigierend einzugreifen. Diese ständige Diskrepanz in unseren Erziehungsvorstellungen schuf eine unterschwellige Spannung, die sich wie ein feiner Nebel über unser Familienleben legte.
 
-## Die Suche nach Antworten
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
+
+## Die Suche nach Antworten
 
 “Redet doch einfach miteinander” oder “Findet einen Kompromiss” – diese gut gemeinten Ratschläge von Freunden und Familie klangen in meinen Ohren wie Hohn. Sie verstanden nicht, dass jedes Gespräch über Erziehung zu einem emotionalen Minenfeld wurde. Wir versuchten es. Immer wieder. Doch meist endeten unsere Gespräche in einer von zwei Richtungen: **Entweder zog sich einer von uns verletzt zurück, oder wir verhärteten unsere Positionen noch mehr.**
 
 Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder begannen, unsere unterschiedlichen Ansätze für sich zu nutzen. “Aber Papa hat gesagt…” oder “Bei Mama darf ich das aber…” wurden zu Standardsätzen, die jede Diskussion noch schwieriger machten. Ich beobachtete, wie sie zwischen unseren verschiedenen Erziehungsstilen hin und her lavierten, mal bei ihm Zuflucht suchten, wenn ich ihnen Grenzen setzte, mal bei mir, wenn seine Flexibilität sie überforderte.
 
-## Weg von der unterschiedlichen Erziehung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
+
+## Weg von der unterschiedlichen Erziehung
 
 Nach monatelangem Ringen wurde mir klar: Wir brauchten mehr als nur oberflächliche Kompromisse oder den Versuch, unsere unterschiedlichen Methoden irgendwie unter einen Hut zu bringen. Was wir brauchten, war ein völlig neuer Ansatz – einen Weg, der bei uns selbst beginnt.
 

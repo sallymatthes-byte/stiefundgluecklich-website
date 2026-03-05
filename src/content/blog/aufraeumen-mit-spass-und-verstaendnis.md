@@ -28,10 +28,9 @@ Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ord
 
 Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen einfach noch anstrengender.
 
-## Die Rolle der Bonusmama
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
+
+## Die Rolle der Bonusmama
 
 Als Bonusmama bist du gefordert, eine Balance zwischen *Verständnis* und *Konsequenz* zu finden. Einerseits ist es wichtig, die entwicklungspsychologischen Hintergründe im Blick zu haben und mit Geduld und Einfühlungsvermögen auf die Bonuskinder einzugehen. Andererseits brauchen Kinder klare Regeln und Grenzen, um sich sicher und geborgen zu fühlen.
 
@@ -79,10 +78,9 @@ Schulkinder (5-10 Jahre):
 
 *Wichtig ist, dass du die Methoden an die individuellen Vorlieben und Fähigkeiten deiner Bonuskinder anpasst.* Experimentiere mit verschiedenen Ansätzen und finde heraus, was für eure Familie am besten funktioniert. Mit Spaß und Fantasie wird das Aufräumen zu einer positiven Erfahrung für alle Beteiligten.
 
-## Tipps für eine aufgeräumte Patchwork-Wohnung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-3.jpg)
+
+## Tipps für eine aufgeräumte Patchwork-Wohnung
 
 Um Ordnung in einer Patchwork-Wohnung zu schaffen, sind klare Regeln und gemeinsame Routinen unverzichtbar. Hier sind einige Tipps, die dir helfen können:
 

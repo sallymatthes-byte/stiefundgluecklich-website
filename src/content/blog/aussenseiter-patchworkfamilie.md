@@ -48,10 +48,9 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
-## Die Position des Außenseiters
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-2.jpg)
+
+## Die Position des Außenseiters
 
 Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer "First-time Family", also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält.**In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht.**Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes Mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum "Insider", der neue Partner zum "Outsider".*
 

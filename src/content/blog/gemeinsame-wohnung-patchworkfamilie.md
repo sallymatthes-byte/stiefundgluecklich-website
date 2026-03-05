@@ -69,10 +69,9 @@ Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn 
 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das Leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 
-## Ängste in der Patchworkfamilie ansprechen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-3.jpg)
+
+## Ängste in der Patchworkfamilie ansprechen
 
 Das Zusammenziehen in einer Patchworkfamilie kann eine [Herausforderung](/blog/patchworkfamilie-herausforderungen-und-chancen/) sein, aber auch eine Chance für persönliches Wachstum und eine stärkere Bindung. Indem wir die Bedürfnisse aller Beteiligten berücksichtigen, eine offene und ehrliche Kommunikation pflegen und Raum für individuelle Bedürfnisse schaffen, können wir ein harmonisches Miteinander erreichen.
 

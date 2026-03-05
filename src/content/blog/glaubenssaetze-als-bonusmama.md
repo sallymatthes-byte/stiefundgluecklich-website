@@ -21,10 +21,9 @@ Als Bonusmama in einer Patchworkfamilie bist du mit vielen Herausforderungen kon
 
 Doch so mächtig Glaubenssätze auch sein mögen, sie sind nicht in Stein gemeißelt. Wir haben die Macht, sie zu hinterfragen, zu verändern und durch neue, positive Überzeugungen zu ersetzen. Doch wie kommen wir diesen auf die Spur?
 
-## Wie erkennen wir Glaubenssätze?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/glaubenssaetze-als-bonusmama-2.jpg)
+
+## Wie erkennen wir Glaubenssätze?
 
 Stell dir vor, du stehst vor einem Spiegel. Zunächst siehst du nur dein Spiegelbild, doch wenn du genauer hinschaust, erkennst du die feinen Risse und Schrammen auf der Oberfläche. So ähnlich ist es mit unseren Glaubenssätzen.*Sie sind so sehr ein Teil von uns, dass wir sie oft gar nicht wahrnehmen.* Doch wenn wir innehalten und bewusst hinschauen, können wir sie erkennen.
 
@@ -44,10 +43,9 @@ Wenn du deine Glaubenssätze erkannt hast, ist es an der Zeit, sie aufzulösen u
 
 Ein weiterer wichtiger Aspekt ist, sich von der Vergangenheit zu lösen. Deine Prägungen und Erfahrungen haben dich zu der Person gemacht, die du heute bist. Doch sie müssen nicht deine Zukunft bestimmen.**Erlaube dir, neue, positive Glaubenssätze zu entwickeln, die dich unterstützen und stärken.**Sprich zu dir selbst mit liebevollen, ermutigenden Worten, so wie du es auch bei einem guten Freund tun würdest.**Visualisierung kann ein machtvolles Werkzeug sein, um Glaubenssätze aufzulösen.**Stell dir vor, wie dein Leben aussehen würde, wenn du frei von limitierenden Überzeugungen wärst. Male dir aus, wie du selbstbewusst und gelassen auf Herausforderungen in deiner Patchworkfamilie reagierst. Je öfter du diese positiven Bilder in deinem Geist entstehen lässt, desto mehr werden sie zu deiner Realität.
 
-## Was wird dadurch möglich?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/glaubenssaetze-als-bonusmama-3.jpg)
+
+## Was wird dadurch möglich?
 
 Wenn du als Bonusmama hinderliche Glaubenssätze hinterfragst, kannst du deine Sichtweise und dein Verhalten positiv verändern. Das bedeutet nicht, dass plötzlich alles perfekt ist, doch es eröffnet neue Möglichkeiten. Anstatt dich als weniger wichtig zu sehen, erkennst du deinen Wert für die Familie. Du kannst den Kindern mit mehr Selbstvertrauen begegnen und eine liebevolle Beziehung zu ihnen aufbauen. Auch Konflikte mit dem Partner oder der Ex-Frau lassen sich oft entschärfen, wenn du gelassener und lösungsorientierter reagierst, weil du nicht mehr von Ängsten oder Zweifeln getrieben bist.
 

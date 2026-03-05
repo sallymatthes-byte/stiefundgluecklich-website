@@ -26,10 +26,9 @@ Diese unterschiedlichen Erwartungen können Stiefmütter unter Druck setzen und 
 
 Auch in meiner Patchworkfamilie habe ich das so erlebt: Wenn die Kinder Zeit mit dem Papa verbrachten, war es überhaupt nicht schlimm, wenn es nur Pommes und TV gab. War ich dabei, wurde gesundes Essen und pädagogische Aktivitäten erwartet. Zumindest in meiner Vorstellung und laut meinen Erfahrungen.
 
-## StiefPapas als Spielgefährten, Stiefmamas als Erzieher_innen?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-2.jpg)
+
+## StiefPapas als Spielgefährten, Stiefmamas als Erzieher_innen?
 
 Die unterschiedlichen gesellschaftlichen Erwartungen spiegeln sich auch in der Wahrnehmung und Ausübung der Rollen von Stiefvätern und Stiefmüttern wider.
 
@@ -52,10 +51,9 @@ Gleichzeitig gibt es zahlreiche Stiefväter, die sich intensiv um ihre Stiefkind
 Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannungen führen kann.
 *Letztlich zeigt sich, dass sowohl Stiefmütter als auch Stiefväter mit Vorurteilen und überhöhten Erwartungen zu kämpfen haben, die ihrer individuellen Situation und ihren Bemühungen nicht immer gerecht werden.*
 
-## Warum sich meine Angebote an Bonusmamas richten
-
-
 ![Stimmungsbild zum Artikel](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-3.jpg)
+
+## Warum sich meine Angebote an Bonusmamas richten
 
 Obwohl sowohl Stiefmütter als auch Stiefväter mit Herausforderungen und Vorurteilen konfrontiert sind, richten sich meine Angebote vorrangig an Stiefmamas.
 *Der Grund dafür liegt in den unterschiedlichen gesellschaftlichen Erwartungen und dem daraus resultierenden Druck, dem sich viele Stiefmütter ausgesetzt sehen.* Wie bereits erwähnt, wird von Frauen oft erwartet, dass sie die Rolle der “perfekten Mutter” übernehmen und nahtlos in die Fußstapfen der leiblichen Mutter treten. Diese Erwartungshaltung führt dazu, dass sich viele Stiefmütter selbst enorm**unter Druck**setzen, alles richtig zu machen und von den Kindern geliebt zu werden.

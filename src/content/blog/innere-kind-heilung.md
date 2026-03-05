@@ -23,10 +23,9 @@ Innere Verletzungen entstehen durch schmerzhafte Erfahrungen, die wir als Kind g
 
 Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durch einen Elternteil oder die Verweigerung von Zuneigung weckt schmerzhafte Erinnerungen an emotionale Vernachlässigung. In diesen Triggerpunkten liegt jedoch auch eine große Chance zur Heilung und zum persönlichen Wachstum. Doch was ist der erste Schritt, dies anzunehmen?
 
-## Unsere Gefühle annehmen: Der Schlüssel zur inneren Balance
-
-
 ![Stimmungsbild zum Artikel](/images/blog/innere-kind-heilung-2.jpg)
+
+## Unsere Gefühle annehmen: Der Schlüssel zur inneren Balance
 
 Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die dadurch ausgelösten Emotionen *bewusst wahrzunehmen und anzunehmen*. Versuche nicht, deine Gefühle zu unterdrücken oder zu bewerten – sie sind ein wertvoller Wegweiser zu deinen tiefsten Bedürfnissen. Erlaube dir selbst, die Wut, den Schmerz oder die Enttäuschung zu spüren, ohne dich dafür zu verurteilen. Entwickle stattdessen**Selbstmitgefühl**und Verständnis für deine eigenen Reaktionen. Frage dich:
 

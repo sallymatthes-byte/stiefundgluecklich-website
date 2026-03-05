@@ -32,10 +32,9 @@ Die Rolle des biologischen Elternteils in Bezug auf Verantwortung ist ein sensib
 
 Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in der der biologische Elternteil bereits eine Verbindung zu den Kindern aufgebaut hat. Es ist wichtig, diese Bindung zu respektieren und Raum für die Entwicklung der Beziehung zwischen dem biologischen Elternteil und den Bonuskindern zu lassen. Indem wir die Verantwortung zu Beginn in den Händen des biologischen Elternteils belassen, signalisieren wir, dass wir seine/ihre Rolle wertschätzen und unterstützen.
 
-## Wie geht es den Kindern?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-2.jpg)
+
+## Wie geht es den Kindern?
 
 Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise**verunsichert**und**brauchen Zeit**, um sich an die neue Situation zu gewöhnen.
 Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem Leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.

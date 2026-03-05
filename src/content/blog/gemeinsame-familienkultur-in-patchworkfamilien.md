@@ -47,10 +47,9 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die vierte Herausforderung einsteigen.
 
-## Warum ist dies so eine Herausforderung?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-2.jpg)
+
+## Warum ist dies so eine Herausforderung?
 
 Eine Patchworkfamilie ist wie ein buntes Puzzle aus verschiedenen Teilen, die erst noch zusammengefügt werden müssen. Jeder bringt seine eigene Geschichte, Gewohnheiten und Vorlieben mit. Da ist es nicht verwunderlich, dass es eine große Herausforderung ist, eine gemeinsame Familienkultur zu entwickeln.***Doch warum ist das in Patchworkfamilien schwieriger als in Kernfamilien?***Die Antwort liegt in den bereits bestehenden Bindungen und Loyalitäten. In einer Kernfamilie wachsen Eltern und Kinder Schritt für Schritt zusammen. Sie entwickeln gemeinsam ihre Rituale, Regeln und Werte. Es gibt keine “alte” Familienkulturen, die integriert werden müssen.
 

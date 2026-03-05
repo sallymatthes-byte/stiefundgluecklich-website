@@ -46,10 +46,9 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
-## Die Bedeutung von Expartnerinnen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
+
+## Die Bedeutung von Expartnerinnen
 
 Wenn die Mutter noch lebt, beeinflusst sie viele Aspekte eures Familienalltags. Bei der Planung von Urlaub und Freizeit ist sie zu berücksichtigen, oft teilt sie sich das Sorgerecht und muss sich mit deinem Partner über Erziehungsfragen abstimmen. Die Kinder wechseln zwischen den Haushalten hin und her und bringen die Stimmungen und Erfahrungen von einem Ort zum anderen mit.
 

@@ -30,10 +30,9 @@ Doch das wahre Geschenk liegt darin, dem anderen unsere volle Aufmerksamkeit zu 
 – STEPHEN R. COVEY
 
 
-## Aktives Zuhören nach Carl Rogers
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-2.jpg)
+
+## Aktives Zuhören nach Carl Rogers
 
 Carl Rogers, ein bedeutender Psychologe und Begründer der klientenzentrierten Therapie, hat das Konzept des aktiven Zuhörens maßgeblich geprägt. Seine Grundprinzipien des empathischen Zuhörens sind heute noch genauso relevant wie damals. Es basiert auf der Idee, dass wir durch empathisches Zuhören die Gedanken, Gefühle und Bedürfnisse des anderen besser verstehen können.
 
@@ -49,10 +48,9 @@ Und wie wird es in der Praxis angewandt?
 
 Doch wie nutzte das Mia in ihrer Familie?
 
-## Praktische Umsetzung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-3.jpg)
+
+## Praktische Umsetzung
 
 *Bonusmama Mia und ihre Patchworkfamilie beschlossen, eine Familienkonferenz abzuhalten, um die Spannungen und Konflikte anzugehen, die sie belasteten. Sie wollten wieder aufeinander zugehen und ein harmonisches Familienleben führen. Bei der Konferenz wandten sie die Prinzipien des aktiven Zuhörens an.*
 

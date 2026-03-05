@@ -32,10 +32,9 @@ Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzuf�
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
-## So holst du deinen Partner ins Boot
-
-
 ![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-2.jpg)
+
+## So holst du deinen Partner ins Boot
 
 die Kommunikation mit deinem Partner ist der Schlüssel, um dich bei Veranstaltungen sicherer und selbstbewusster zu fühlen. Aber zugegeben, es ist nicht immer leicht, offen über die eigenen Bedürfnisse und Erwartungen zu sprechen.
 
@@ -70,10 +69,9 @@ Es gibt ein paar Tricks, die dir helfen können, bei Veranstaltungen selbstbewus
 Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast jedes Recht, mit Freude und Engagement dabei zu sein. Also strahle diese Zuversicht aus und genieße die bereichernden Momente mit deinem Bonuskind.
 Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
 
-## Hand in Hand durch herausfordernde Situationen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
+
+## Hand in Hand durch herausfordernde Situationen
 
 Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltungen unangenehme Situationen entstehen oder Kritik aufkommt. Aber keine Sorge, gemeinsam mit deinem Partner findest du einen Weg, damit umzugehen.
 

@@ -21,10 +21,9 @@ Eine positive Verbindung zwischen euch beiden schafft *Vertrauen, Zugehörigkeit
 
 Wenn Bonusmutter und Bonuskind eine liebevolle und respektvolle Bindung zueinander haben, wird dies nicht nur das Wohlbefinden des Kindes maßgeblich beeinflussen, sondern auch das gesamte Familiensystem stärken. Denn letztendlich geht es darum, dass sich alle Familienmitglieder respektiert, geliebt und wertgeschätzt fühlen. Das ist der Schlüssel zu einem harmonischen Patchworkfamilienleben.
 
-## Wie machst du den Anfang?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-2.jpg)
+
+## Wie machst du den Anfang?
 
 Jetzt möchte ich dir einige Tipps und Strategien an die Hand geben, die dir helfen können, eine gute Beziehung zu deinem Stiefkind aufzubauen. Dabei ist es wichtig, den richtigen Zeitpunkt für das Kennenlernen zu wählen. Das sollte nicht zu früh geschehen. Wenn die Trennung der Eltern noch nicht lange her ist, sollte sich das Kind vor allem erst einmal an diesen Zustand gewöhnen dürfen.
 

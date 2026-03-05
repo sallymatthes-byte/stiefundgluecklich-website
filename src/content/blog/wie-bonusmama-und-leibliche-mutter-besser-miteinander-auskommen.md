@@ -35,10 +35,9 @@ Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusma
 Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters schlecht redet. Daher ist es wichtig, diese Herausforderungen anzugehen und Wege zu finden, um ein harmonisches Miteinander zu fördern.
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
-## Ursachen für Konflikte
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
+
+## Ursachen für Konflikte
 
 Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre**Ursachen zu verstehen**.
 Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus.

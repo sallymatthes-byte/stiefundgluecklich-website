@@ -45,10 +45,9 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
-## Zwischen den Stühlen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
+
+## Zwischen den Stühlen
 
 Ich möchte dir gern die 13-jährige Emma vorstellen. Ihre Eltern haben sich vor einem Jahr getrennt und jetzt hat ihr Vater eine neue Partnerin, Lisa. Sie mag Lisa eigentlich ganz gern, aber immer, wenn sie sieht, wie vertraut sie und dein Vater miteinander umgehen, fühlt sie einen Stich im Herzen.
 

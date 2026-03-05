@@ -24,10 +24,9 @@ Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder
 Wir wünschen uns Anerkennung für unseren Beitrag in der Familie, wollen aber gleichzeitig nicht die Rolle der leiblichen Mutter einnehmen.
 Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – und der Muttertag macht diese Herausforderung besonders deutlich.
 
-## Erwartungen und Enttäuschungen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-2.jpg)
+
+## Erwartungen und Enttäuschungen
 
 Stellen wir uns folgende Situation vor: Es ist Muttertag und du hast dir fest vorgenommen, diesen Tag mit deiner Patchworkfamilie zu verbringen. Du hast ein leckeres Frühstück vorbereitet, den Tisch liebevoll gedeckt und freust dich auf einen harmonischen Start in den Tag. Doch dann kommt dein Partner verschlafen aus dem Schlafzimmer und murmelt nur ein kurzes “Morgen”, bevor er sich seinem Handy widmet. Die Kinder sind noch bei ihrer leiblichen Mutter und du sitzt alleine am Frühstückstisch.*In diesem Moment fühlst du dich unsichtbar und fragst dich, ob deine Bemühungen überhaupt gesehen und geschätzt werden.*
 

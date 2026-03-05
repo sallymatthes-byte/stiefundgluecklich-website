@@ -16,7 +16,7 @@ Wir betrachten die “[10 Rechte einer Stiefmutter](http://wednesdaymartin.com/b
 
 Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu gestalten? Dann lass uns gemeinsam einen Blick auf die einzelnen Punkte werfen!
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
 
 ## Warum die Rechte der Stiefmütter so wichtig sind
 
@@ -51,10 +51,9 @@ Nehmen wir an, deine Schwiegermutter plant einen Familienurlaub und setzt einfac
 
 *Als Stiefmutter bist du kein Anhängsel der Familie, sondern ein eigenständiger Mensch mit eigenen Bedürfnissen und Plänen.* Es ist eine Frage des Respekts, dich bei Entscheidungen, die dein Leben betreffen, zu konsultieren und deine Zustimmung einzuholen.
 
-## #4 “Ich bin nicht verantwortlich für die Kinder, über die ich keine Grenzen setzen darf.”
-
-
 ![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-2.jpg)
+
+## #4 “Ich bin nicht verantwortlich für die Kinder, über die ich keine Grenzen setzen darf.”
 
 Verantwortung ohne Autorität ist einer der größten Frustrationsfaktoren für Stiefmütter. **Das führt zu einem ständigen Gefühl der Machtlosigkeit und des Kontrollverlusts.** Stell dir vor, du wirst gebeten, die Kinder zu beaufsichtigen, während dein Partner arbeitet. Aber wenn du versuchst, Regeln durchzusetzen, wirst du einfach ignoriert.
 
@@ -88,10 +87,9 @@ In einer Patchworkfamilie können Finanzen schnell zu einem heiklen Thema werden
 
 Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partner. Aber wenn es um größere Entscheidungen geht, die euer gemeinsames Leben betreffen, solltest du auf jeden Fall informiert werden.
 
-## #8 “Mein privater Raum und meine Besitztümer werden respektiert.”
-
-
 ![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-3.jpg)
+
+## #8 “Mein privater Raum und meine Besitztümer werden respektiert.”
 
 Wenn Kinder aus einer früheren Beziehung regelmäßig bei euch leben, kann es leicht passieren, dass deine persönlichen Grenzen überschritten werden. **Schließlich hat jeder Mensch das Recht auf einen privaten Rückzugsort und darauf, dass persönliche Dinge respektiert werden.**
 

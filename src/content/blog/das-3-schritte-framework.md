@@ -17,7 +17,7 @@ Doch dann kam die Wende. In meiner Coachingausbildung lernte ich Techniken und S
 
 In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchworkfamilie bringen kannst. Ich nehme dich mit auf meine persönliche Reise vom Stiefmutter-Frust zum Patchworkglück und verrate dir, welche drei Schritte mir geholfen haben, meine Rolle als Bonusmama zu finden und ein harmonisches Familienleben zu gestalten.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) an.
 
 ## Verliebt, nicht verlobt, aber Patchwork
 
@@ -31,10 +31,9 @@ Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragt
 
 *All diese Herausforderungen führten dazu, dass ich mich immer mehr zurückzog und mich auf mich selbst konzentrierte.* Ich suchte nach Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional von meinem Partner und den Kindern distanzierte. Wir führten viele Gespräche darüber, ob unsere Beziehung diese Belastungsprobe aushalten würde und ob wir wirklich gemeinsam eine Zukunft gestalten konnten.
 
-## Dabei wollte ich nur Harmonie
-
-
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-2.jpg)
+
+## Dabei wollte ich nur Harmonie
 
 Trotz all der Herausforderungen und Zweifel gab es in mir immer die Sehnsucht nach einem harmonischen Familienleben.* Ich wünschte mir nichts mehr, als mit meinem Partner und den Kindern eine liebevolle, vertrauensvolle Beziehung aufzubauen und gemeinsam als Familie zu wachsen.*
 
@@ -59,10 +58,9 @@ In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung.
 
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
-## Der neue Weg
-
-
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-3.jpg)
+
+## Der neue Weg
 
 Die Wende kam, als ich mich für eine Coachingausbildung entschied. Schon immer interessierte ich mich für persönliche Entwicklung und die Ausbildung eröffnete mir neue Perspektiven. In Seminaren und Workshops lernte ich wirkungsvolle Kommunikationstechniken und Strategien zur Konfliktlösung. Mir wurde klar, dass viele Herausforderungen als Stiefmutter auch in anderen Lebensbereichen auftreten und es Werkzeuge gibt, um damit umzugehen.
 
@@ -76,7 +74,7 @@ Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell
 
 Mit dem Framework als Leitfaden begann ich aktiv an unserer Familiendynamik zu arbeiten. Ich analysierte unsere Situation, initiierte gemeinsam mit meinem Partner Veränderungen und setzte die gelernten Kommunikationstechniken ein. Schritt für Schritt spürte ich, wie sich die Atmosphäre in unserer Familie verbesserte und wir zu einem stärkeren Team zusammenwuchsen.
 
-wie sich vieles veränderte
+## Wie sich vieles veränderte
 
 Die Umsetzung meines 3-Schritte-Frameworks war ein Prozess, der Zeit und Geduld erforderte. **Doch schon bald zeigten sich erste positive Veränderungen in unserer Familiendynamik.** Durch die gemeinsame Analyse unserer Situation gelang es uns, die Bedürfnisse aller Familienmitglieder besser zu verstehen und zu berücksichtigen. Wir begannen, offener und wertschätzender miteinander zu kommunizieren, was zu einem entspannteren Miteinander führte.
 

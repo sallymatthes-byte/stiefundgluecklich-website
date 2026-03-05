@@ -32,10 +32,9 @@ In Büchern und Ratgebern las ich, dass eine Bonusmama eine “wertvolle Ergänz
 
 Besonders schmerzhaft waren die Momente, in denen meine hohen Erwartungen an mich selbst auf die Realität trafen. Als Pädagogin wollte ich alles richtig machen, die perfekte Bonusmama sein. Doch je mehr ich mich unter Druck setzte, desto mehr schien mir diese Rolle zu entgleiten.
 
-## Die inneren Konflikte einer Bonusmama
-
-
 ![Stimmungsbild zum Artikel](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-2.jpg)
+
+## Die inneren Konflikte einer Bonusmama
 
 Was in Ratgebern so einfach klang – eine “wertvolle Ergänzung” zu sein, eine zusätzliche Bezugsperson, die Liebe und Stabilität bietet – stellte sich im Alltag als emotionales Minenfeld heraus. Die Realität war komplexer, vielschichtiger und forderte mich auf eine Weise heraus, auf die mich kein Buch vorbereitet hatte. ***In meiner Rolle als Bonusmama kämpfte ich täglich mit neuen Herausforderungen.***
 
@@ -53,10 +52,9 @@ Aus dieser Klarheit heraus kann sich der zweite Schritt entfalten: ein tiefgreif
 
 Der dritte Schritt ist die Entwicklung einer neuen Art der **Kommunikation** – eine, die von innen nach außen wirkt. Wenn du klar mit dir selbst bist und deine Rolle annimmst, verändert sich auch die Art, wie du mit deinem Partner und den Kindern kommunizierst. *Nicht mehr aus Unsicherheit oder dem Bedürfnis nach Anerkennung heraus, sondern aus einer Position der Stärke und des Verständnisses.* Diese neue Form des Austauschs schafft eine Basis für echte Bindungen und gegenseitigen Respekt in der Patchworkfamilie.
 
-## Deine Chance, in die Rolle als Bonusmama hineinzuwachsen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-3.jpg)
+
+## Deine Chance, in die Rolle als Bonusmama hineinzuwachsen
 
 Kennst du diese Momente auch? Du liegst nachts wach und fragst dicht:
 

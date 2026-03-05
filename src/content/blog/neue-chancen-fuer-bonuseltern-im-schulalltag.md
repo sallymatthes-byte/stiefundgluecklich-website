@@ -17,7 +17,7 @@ Darfst du dein Bonuskind zum Kindergarten bringen? Gehört es sich, dass du mit 
 
 In diesem Artikel teile ich mit dir meine bewährte Bonusmama-Formel, die dir hilft, deine Rolle als Bonuselternteil im Schul- und Kindergartenalltag aktiv und selbstbewusst zu gestalten – auch wenn die Regeln manchmal unklar sind.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Von unsichtbar zu unverzichtbar: Mein Weg als Bonusmama im Schulalltag
 
@@ -33,10 +33,9 @@ Diese Geschichte zeigt den entscheidenden Durchbruch, den viele Bonuseltern im S
 
 Genau wie Anna habe ich gelernt, dass es Wege gibt, sich zu beteiligen, auch wenn sie manchmal anders aussehen als gedacht. Diese Erkenntnis hat für mich alles verändert – und kann es auch für dich tun.
 
-## Die besonderen Herausforderungen für Bonuseltern im Schulalltag
-
-
 ![Stimmungsbild zum Artikel](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-2.jpg)
+
+## Die besonderen Herausforderungen für Bonuseltern im Schulalltag
 
 Die Situation von Anna ist kein Einzelfall. Viele Bonuseltern im Schulalltag stehen vor ähnlichen Herausforderungen, die ich sowohl aus eigener Erfahrung als auch durch meine Arbeit mit zahlreichen Klientinnen kenne.
 
@@ -52,10 +51,9 @@ Die Situation von Anna ist kein Einzelfall. Viele Bonuseltern im Schulalltag ste
 
 Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen – Wege, die ich selbst gegangen bin und die ich nun mit dir teilen möchte.
 
-## Wie du als Bonuseltern im Schulalltag trotzdem wirksam sein kannst
-
-
 ![Stimmungsbild zum Artikel](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-3.jpg)
+
+## Wie du als Bonuseltern im Schulalltag trotzdem wirksam sein kannst
 
 Nach meiner eigenen Wendepunkt-Erkenntnis und denen vieler Klientinnen kann ich dir versichern: **Es ist absolut möglich, diese Herausforderungen zu überwinden und deinen Platz als Bonuselternteil im Schul- und Kindergartenalltag zu finden.**
 

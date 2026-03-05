@@ -30,10 +30,9 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 
 *Die Zeit als Paar in unserer Patchworkfamilie schien wie ein Luxusgut geworden zu sein.* Wenn ich abends im Bett lag, häuften sich die Fragen in meinem Kopf: Würden wir irgendwann nur noch Eltern sein und das Paar-Sein vergessen? War es egoistisch, sich nach mehr Zweisamkeit zu sehnen, wenn die Kinder so selten bei uns waren? Diese Gedanken nagten an mir, während ich spürte, wie unsere Verbindung als Liebespaar immer dünner wurde.
 
-## Die Suche nach verlorener Nähe
-
-
 ![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
+
+## Die Suche nach verlorener Nähe
 
 
 Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “Ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen.**
@@ -73,10 +72,9 @@ Mit diesem neuen Bewusstsein begann ich, meine Rolle anders zu sehen. Nicht als 
 
 Der wichtigste Schritt war, diese Gefühle und Bedürfnisse mit meinem Partner zu teilen – nicht als Vorwurf, sondern als Einladung zur gemeinsamen Entwicklung.
 
-## Dein Weg zu mehr Nähe und Verbundenheit
-
-
 ![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
+
+## Dein Weg zu mehr Nähe und Verbundenheit
 
 Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zusammen seid? Sehnst du dich nach:
 
@@ -85,7 +83,5 @@ Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zu
 - Tieferer emotionaler Verbindung trotz Familienalltag?
 
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
-
-
 
 

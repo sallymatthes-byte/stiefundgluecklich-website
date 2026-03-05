@@ -45,10 +45,9 @@ Das erfordert**Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hil
 – Henri Matisse
 
 
-## Phase 2 – Das Storming
-
-
 ![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-2.jpg)
+
+## Phase 2 – Das Storming
 
 In der Phase des “Stormings” einer Patchworkfamilie kommen**Konflikte und Spannungen**zum Vorschein. Diese entstehen durch unterschiedliche Erwartungen und Erfahrungen aller Familienmitglieder. Als Bonusmama ist es wichtig, diese Herausforderungen anzuerkennen und aktiv anzugehen, um eine harmonische Atmosphäre in der Familie zu schaffen.
 
@@ -74,10 +73,9 @@ In dieser Phase können wir als Bonusmama auch unsere Rolle als Unterstützerin 
 
 Die Phase des “Normings” ist entscheidend für den**Aufbau einer stabilen und harmonischen Patchworkfamilie**. Durch die gemeinsame Entwicklung von Regeln, die Akzeptanz und Respekt fördern, sowie durch unsere Unterstützung und Vermittlung können wir als Bonusmama aktiv zur Stabilität und zum Zusammenhalt der Familie beitragen.
 
-## Phase 4 – Das Performing
-
-
 ![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-3.jpg)
+
+## Phase 4 – Das Performing
 
 Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 In dieser Phase haben die Familienmitglieder ihre Rollen gefunden und**arbeiten erfolgreich zusammen,**um gemeinsame Ziele zu erreichen.
 

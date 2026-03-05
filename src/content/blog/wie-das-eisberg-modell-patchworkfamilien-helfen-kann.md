@@ -22,10 +22,9 @@ Die Spitze des Eisbergs, die aus dem Wasser ragt, repräsentiert unser bewusstes
 
 Genau hier liegt die Bedeutung des Eisberg-Modells: Es lädt uns ein, unter die Oberfläche zu blicken und die verborgenen Einflüsse auf unser Verhalten zu ergründen. Indem wir erkennen, was uns unbewusst antreibt, können wir anfangen, bewusster zu kommunizieren und einfühlsamer miteinander umzugehen. Diese Fähigkeit ist gerade in Patchworkfamilien von unschätzbarem Wert, wie wir gleich sehen werden
 
-## Was bedeutet das für Patchworkfamilien?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-2.jpg)
+
+## Was bedeutet das für Patchworkfamilien?
 
 Hand aufs Herz: Patchworkfamilien sind nicht immer leicht. Da treffen verschiedene Welten aufeinander, jeder bringt sein eigenes Päckchen mit – und plötzlich kochen die Emotionen hoch, ohne dass wir so recht wissen, warum. Kennst du das? Genau hier kann das Eisberg-Modell uns helfen, tiefer zu blicken und uns gegenseitig besser zu verstehen.
 

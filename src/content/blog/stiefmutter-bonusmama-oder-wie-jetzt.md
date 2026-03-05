@@ -28,10 +28,9 @@ Das Wort “Stief” stammt aus dem Germanischen und bedeutet so viel wie “ber
 > “Optimal für die Kinder ist es, wenn die leiblichen Eltern anständig miteinander umgehen und der neue Partner nicht die Erzieherrolle übernimmt, sondern dem Kind ein guter Erwachsenenfreund wird”.
 Jesper Juul
 
-## Der Blick in die Gegenwart
-
-
 ![Stimmungsbild zum Artikel](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
+
+## Der Blick in die Gegenwart
 
 Heute gibt es viele Gründe, warum sich Familien verändern: Trennung, Scheidung, Wiederheirat.
 Wenn ein neuer Partner hinzukommt, ist die Situation eine andere als früher. Trotzdem haftet dem Wort “Stiefmutter” oft noch etwas Negatives an, durch Märchen wie Schneewittchen oder Aschenputtel.
@@ -45,10 +44,9 @@ Und diese Vielfältigkeit demonstriert der Begriff der Patchworkfamilie. Was nac
 
 Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elternteil*, welcher maßgeblich an der Zeugung des Kindes beteiligt war. Es gibt den*rechtlichen Elternteil*, welcher das Sorgerecht innehat (oder diese Rechte durch eine Adoption erworben hat). Und es gibt den*sozialen Elternteil*, der ohne gesetzliche Rechtsansprüche für das Kind eine wichtige Bezugsperson darstellt. Leider ist das aber gesetzlich so nicht verankert – wie soll man da den Überblick behalten?
 
-## Meine Begriffsklärung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
+
+## Meine Begriffsklärung
 
 Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer.**Stiefmutter**ist für mich zu negativ besetzt,**Bonusmama**finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.

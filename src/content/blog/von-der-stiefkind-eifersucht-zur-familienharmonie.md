@@ -14,7 +14,7 @@ Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer Patchworkfam
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier, das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.**
 
-Und wie ich damit umging, erzähle ich dir in diesem Artikel oder in dieser [Podcastfolge:](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ)
+🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
@@ -38,10 +38,9 @@ Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine Rolle zu finden. *I
 
 Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war als die Eifersucht: meine tiefe Sehnsucht nach einer harmonischen Patchworkfamilie. Eine Sehnsucht, die mich nicht losließ, auch wenn die Eifersucht manchmal übermächtig erschien.
 
-## Der Traum von einer harmonischen Patchworkfamilie
-
-
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
+
+## Der Traum von einer harmonischen Patchworkfamilie
 
 In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus seltsam leer wirkte, wurde mir meine tiefste Sehnsucht bewusst. Ich träumte davon, wie wir entspannt am Frühstückstisch sitzen würden, ohne diese nagenden Gefühle in meiner Brust. Wie das Lachen der Kinder einfach nur Freude bedeuten würde, ohne den bitteren Beigeschmack der Eifersucht. ***Dieser Traum von einer harmonischen Patchworkfamilie war mehr als eine naive Hoffnung – er war der Antrieb, der mich weitermachen ließ.*** Ich wollte die Beziehung zwischen meinem Partner und seinen Kindern nicht mehr als Bedrohung empfinden müssen, sondern als das, was sie eigentlich war: ein wertvoller Teil unseres Familienlebens.
 
@@ -60,10 +59,9 @@ Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst a
 
 In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
-## Der Wendepunkt: Als ich aufhörte zu kämpfen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
+
+## Der Wendepunkt: Als ich aufhörte zu kämpfen
 
 Ausgerechnet an einem dieser schweren Tage, als die Eifersucht auf das Stiefkind besonders stark war, kam der entscheidende Moment der Erkenntnis. Ich beobachtete, wie mein Partner seinem Kind half, die Schuhe zu binden – eine alltägliche Szene, die mich sonst immer eifersüchtig gemacht hatte. Seine Bewegungen waren voller Geduld, sein Blick strahlte diese bedingungslose Liebe aus, die ich bisher als Bedrohung wahrgenommen hatte. Das Kind schaute zu ihm auf, voller Vertrauen und Zuneigung, und zum ersten Mal sah ich diese Verbindung mit anderen Augen.
 
@@ -100,7 +98,5 @@ Vielleicht liest du diese Zeilen gerade mit pochendem Herzen, weil du dich in je
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 ***Du bist nicht allein mit diesen Gedanken.*** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
-
-
 
 

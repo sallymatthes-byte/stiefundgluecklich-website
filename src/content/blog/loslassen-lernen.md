@@ -25,10 +25,9 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 
 *Doch die Realität sieht oft anders aus, gerade in Patchwork-Familien.* Und so stehen wir vor der Herausforderung, unsere Ideale und Erwartungen mit der Wirklichkeit in Einklang zu bringen. Der erste Schritt dabei ist, sich der eigenen Prägungen bewusst zu werden und zu verstehen, woher sie kommen.
 
-## Warum es in der Patchworkfamilie nicht so einfach ist
-
-
 ![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-2.jpg)
+
+## Warum es in der Patchworkfamilie nicht so einfach ist
 
 In einer Patchworkfamilie kommen *unterschiedliche Erfahrungen, [Erwartungen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und Emotionen* zusammen. Da sind die Kinder, die den Verlust einer vertrauten Familiensituation verarbeiten und sich an neue Bezugspersonen gewöhnen müssen. Da sind [Ex-Partner_innen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/), die weiterhin als Eltern präsent sind und mit denen es gilt, eine respektvolle Ebene zu finden. Und da bist du als Bonusmama, die ihren Platz in diesem komplexen Gefüge finden muss.
 
@@ -55,10 +54,9 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
-## Inneren Frieden finden
-
-
 ![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-3.jpg)
+
+## Inneren Frieden finden
 
 auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inneren Frieden und Erfüllung zu finden*. Denn nur wenn du im Einklang mit dir selbst bist, kannst du auch für andere da sein und die Schönheit des Augenblicks genießen.
 

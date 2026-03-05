@@ -33,10 +33,9 @@ Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
 
-## Wenn nur die Kinder nicht wären
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bleiben-oder-gehen-2.jpg)
+
+## Wenn nur die Kinder nicht wären
 
 Und möglicherweise beginnen sich dann deine Gedanken zu verändern. Du freust dich nicht mehr auf die Kinder, weil du weißt, dass eure Harmonie verfliegen wird.
 Du bist vielleicht gereizt, wenn die Kinder da sind.
@@ -56,10 +55,9 @@ Und obwohl du so gern eine Lösung finden würdest, hast du den Eindruck, dass e
 Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer diese Distanz in der kinderfreien Zeit zu überwinden.
 
 
-## Ist es Zeit zu gehen?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bleiben-oder-gehen-3.jpg)
+
+## Ist es Zeit zu gehen?
 
 Immer wieder schwirrt dir die Frage “Gehen oder Bleiben?” durch den Kopf. Und das ist unglaublich belastend.
 

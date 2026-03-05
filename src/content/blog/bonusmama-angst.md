@@ -22,7 +22,7 @@ Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: Sie
 
 In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder sicher und stabil zu fühlen.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 #### Mein Aha-Moment als Bonusmama: Warum Angst so tief sitzt
 
@@ -52,10 +52,9 @@ Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durc
 
 Wichtig zu wissen: **Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** Deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
 
-#### Bonusmama-Angsttypen: Welcher Archetyp zeigt sich bei dir?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bonusmama-angst-2.jpg)
+
+#### Bonusmama-Angsttypen: Welcher Archetyp zeigt sich bei dir?
 
 Angst hat viele Gesichter – und in Patchworkfamilien zeigt sie sich oft in vier [typischen Rollen](/blog/archetypen-einer-bonusmama/), die Bonusmamas unbewusst einnehmen.
 

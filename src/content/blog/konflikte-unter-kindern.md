@@ -26,10 +26,9 @@ Ben möchte mit seinem Vater alleine Zeit verbringen, doch der nimmt inzwischen 
 Kleine Nadelstiche im Alltag führen zu Frust und Streit, denn für die Kinder ist die neue Situation ungewohnt und herausfordernd.
 Doch wie können wir ihnen helfen, damit umzugehen?
 
-## So unterstützt du den Prozess
-
-
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-unter-kindern-2.jpg)
+
+## So unterstützt du den Prozess
 
 Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können:**1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.**Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die Macht der Ich-Botschaften, um Streit zu entschärfen.**Statt “Du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” Diese Formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [Ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**in denen die Kinder sich näherkommen können.
 Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas erleben und die schönen Seiten einer großen Familie spüren. “Weißt du noch, wie wir neulich im Wald den riesigen Baum entdeckt haben?”, könnte Ben seine Schwester fragen und schon ist da wieder diese besondere Erinnerung, die verbindet.

@@ -23,10 +23,9 @@ Ein harmonischer Patchwork-Urlaub beginnt damit, dass du die individuellen Bedü
 
 Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse aller kann der Patchwork-Urlaub für jeden zu einer wertvollen Auszeit werden. Eine Zeit, in der jeder auftanken und schöne Erinnerungen sammeln kann. So stärkt ihr eure Familienbande und schafft Momente, die euch verbinden – auch wenn nicht immer alle gemeinsam verreisen.
 
-## Ideen für unvergessliche Momente
-
-
 ![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-2.jpg)
+
+## Ideen für unvergessliche Momente
 
 Gemeinsame Aktivitäten im Urlaub sind eine wunderbare Gelegenheit, um als Patchworkfamilie zusammenzuwachsen und unvergessliche Erinnerungen zu schaffen.
 Wie wäre es mit einem**Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?

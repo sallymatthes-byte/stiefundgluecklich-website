@@ -17,7 +17,7 @@ Du fragst dich:💰 Warum bleibt trotz unseres Einkommens so wenig für uns übr
 
 Genau darum geht es in diesem Artikel. Ich zeige dir, wie Unterhalt, Kindergeld und Steuern in Deutschland, Österreich und der Schweiz geregelt sind, warum die finanzielle Situation deines Partners auch dich betrifft – und wie du mehr Klarheit über eure Finanzen bekommst, um dich nicht ohnmächtig zu fühlen.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Das betrifft mich doch nicht!?
 
@@ -33,10 +33,9 @@ Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebs
 
 Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und der Schweiz werfen.
 
-## Deutschland, Österreich, Schweiz – Wer bekommt was?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
+
+## Deutschland, Österreich, Schweiz – Wer bekommt was?
 
 Deutschland: Klare Vorgaben, wenig Flexibilität
 
@@ -106,10 +105,9 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 - Unverheiratete Patchwork-Familien haben oft steuerliche Nachteile gegenüber traditionellen Familien.
 
-## Warum du dich finanziell oft benachteiligt fühlst – die größten Herausforderungen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
+
+## Warum du dich finanziell oft benachteiligt fühlst – die größten Herausforderungen
 
 Vielleicht hast du das Gefühl, dass du dich in die Finanzen deines Partners nicht „einmischen“ darfst. Schließlich betrifft der Unterhalt ja „nur“ die Kinder – oder? Doch in Wirklichkeit beeinflussen diese Zahlungen auch euer gemeinsames Leben:
 

@@ -47,10 +47,9 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die dritte Herausforderung einsteigen.
 
-## Wenn die Erziehung zum Minenfeld wird
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-2.jpg)
+
+## Wenn die Erziehung zum Minenfeld wird
 
 Erziehungsmethoden in Patchworkfamilien werden oft zum Zankapfel zwischen leiblichen Eltern und Bonuseltern. Wie ein unsichtbarer Magnet zieht die Familienkonstellation die Erwachsenen in entgegengesetzte Richtungen:**Während Bonuseltern häufig mehr Struktur und Disziplin einfordern, wünschen sich leibliche Eltern meist mehr Verständnis und Nachsicht für ihre Kinder.**Schnell verhärten sich die Fronten: Die genervte Bonusmama beschwert sich, dass die Kinder verwöhnt und undiszipliniert seien. Der Vater verteidigt seinen Nachwuchs und wirft seiner Partnerin vor, zu streng zu sein. Je länger die Diskussion dauert, desto weiter entfernen sich die Positionen voneinander.*Am Ende stehen sich zwei frustrierte Erwachsene gegenüber, die sich im Erziehungsalltag gegenseitig blockieren.***Diese Konstellation ist kein Zufall, sondern ein typisches Muster.**Bonuseltern haben oftmals das Gefühl, nicht genug Mitspracherecht zu haben und wünschen sich mehr Einfluss. Leibliche Eltern hingegen wollen ihre Kinder schützen und fürchten, dass der neue Partner zu hohe Anforderungen stellt.*Unterschiedliche emotionale Bindungen zu den Kindern verkomplizieren die Situation zusätzlich.*
 

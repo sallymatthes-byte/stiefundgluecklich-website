@@ -15,7 +15,7 @@ Vielleicht hast du es versucht anzusprechen – und bekamst die Antwort: „Es s
 
 Aber was, wenn ich dir sage: Es ist nicht dein Fehler?Das ist kein Bonusmama-Problem – sondern ein Beziehungsproblem. Und genau darum geht es heute: Warum passiert das? Warum ist es nicht deine Schuld? Und vor allem: Wie kannst du das ändern – ohne Vorwürfe, ohne Schuldgefühle?
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 #### Der Moment, in dem mir alles klar wurde
 
@@ -81,19 +81,17 @@ Familienzeit ist nicht gleich Paarzeit! Plant bewusst Zeit nur für euch – ohn
 
 > Praxis-Tipp: Setzt euch eine „Paarzeit-Challenge“: 10 Minuten pro Tag nur für euch – ohne Handys, ohne Kinder, ohne Ablenkung.
 
-## 2️⃣ Kleine Rituale in den Alltag einbauen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-2.jpg)
+
+## 2️⃣ Kleine Rituale in den Alltag einbauen
 
 Manchmal sind es die kleinen Dinge, die den größten Unterschied machen. Eine bewusste Umarmung am Morgen, ein liebevoller Blick oder eine kurze Sprachnachricht zwischendurch können Wunder wirken.
 
 > Idee: Fangt den Tag mit einer positiven Frage an: „Worauf freust du dich heute?“ – das schafft Verbindung, ohne viel Aufwand.
 
-## 3️⃣ Gemeinsame Momente auch MIT den Kindern anders gestalten
-
-
 ![Stimmungsbild zum Artikel](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-3.jpg)
+
+## 3️⃣ Gemeinsame Momente auch MIT den Kindern anders gestalten
 
 Wenn du dich ausgeschlossen fühlst, weil dein Partner nur auf die Kinder fokussiert ist, dann versuche, bewusst Teil dieser Momente zu werden.
 

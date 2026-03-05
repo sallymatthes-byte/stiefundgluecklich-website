@@ -46,10 +46,9 @@ Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. 
 
 > “Eine Patchwork-Familie ist wie ein bunter Quilt, jeder Stoff einzigartig, aber zusammen perfekt.”
 
-## Ist es das alles wert?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-2.jpg)
+
+## Ist es das alles wert?
 
 Trotz all dieser Herausforderungen gibt es auch viele Chancen, die das Patchworkleben mit sich bringt. Es ermöglicht uns, verschiedene Perspektiven kennenzulernen und unsere eigene Sichtweise zu erweitern.
 Wir können von den Erfahrungen und dem Wissen anderer Familienmitglieder profitieren und gemeinsam wachsen. Patchworkfamilien können eine Quelle der Unterstützung und des Zusammenhalts sein, in der sich jeder angenommen und geliebt fühlt.
@@ -58,10 +57,9 @@ Mein Ziel dabei als Bonusmama ist es, den Kindern ein weiteres Vorbild zu sein: 
 
 Im nächsten Abschnitt werde ich dir meine Tipps geben, wie du ein harmonisches Patchworkleben gestalten kannst und was uns hilft. Ich werde dir zeigen, wie du die Herausforderungen meistern und die Chancen nutzen kannst, um eine starke und liebevolle Patchworkfamilie aufzubauen.
 
-## Tipps für ein harmonisches Patchworkleben
-
-
 ![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-3.jpg)
+
+## Tipps für ein harmonisches Patchworkleben
 
 Um ein harmonisches Patchworkleben zu gestalten, ist es wichtig, dass alle Familienmitglieder aktiv dazu beitragen. Hier sind einige Tipps, die mir dabei helfen:
 

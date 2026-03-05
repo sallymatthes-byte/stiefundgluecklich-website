@@ -18,7 +18,7 @@ Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf
 
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die Fallen der Verantwortungsübernahme umschifft.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) an.
 
 ## Mir ging es auch so!
 
@@ -34,10 +34,9 @@ An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die V
 
 Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschrauben, ohne die Kinder zu vernachlässigen? Und wie sollte ich meinem Partner beibringen, dass ich mehr Unterstützung brauchte, ohne ihn zu überfordern? Ich wusste, dass es nicht einfach werden würde, aber ich war entschlossen, einen Weg zu finden.
 
-## Mein Wunsch nach Veränderung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
+
+## Mein Wunsch nach Veränderung
 
 Je länger ich in der Rolle der Bonusmama aufging, desto stärker wurde mein Verlangen nach Veränderung. Ich sehnte mich danach, wieder mehr Partnerin zu sein und die Leichtigkeit in unserer Beziehung zurückzugewinnen.
 
@@ -74,10 +73,9 @@ Ein wichtiger Schritt war es auch, offen mit meinem Partner über meine Gefühle
 
 Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
-## Der Weg zur Balance
-
-
 ![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-3.jpg)
+
+## Der Weg zur Balance
 
 Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte. **Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.**
 

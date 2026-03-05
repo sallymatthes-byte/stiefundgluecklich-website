@@ -27,10 +27,9 @@ Es ist ein emotionales Thema. Für manche Bonusmamas ist es ein Weg, ihre Liebe 
 
 Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligung von Bonusmamas.
 
-## Was, wenn du das Gefühl hast verzichten zu müssen?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-2.jpg)
+
+## Was, wenn du das Gefühl hast verzichten zu müssen?
 
 Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
 

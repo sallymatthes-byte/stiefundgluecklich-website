@@ -66,10 +66,9 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 > „Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben.“
 – katharine hepburn
 
-## Auswirkungen der “ich sollte”- gedanken
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
+
+## Auswirkungen der “ich sollte”- gedanken
 
 Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
 
@@ -83,10 +82,9 @@ Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können 
 
 - Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
-## Entfliehe den Erwartungen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
+
+## Entfliehe den Erwartungen
 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 

@@ -15,7 +15,7 @@ In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Of
 
 Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine Sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure Partnerschaft zu stärken und Harmonie in eure Kommunikation zu bringen.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) an.
 
 ## Ein Satz, vier Bedeutungen
 
@@ -27,10 +27,9 @@ Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen kö
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: Mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
-## Der Wunsch nach einem Miteinander ohne Vorwürfe
-
-
 ![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
+
+## Der Wunsch nach einem Miteinander ohne Vorwürfe
 
 Als ich erkannte, wie schnell ein simpler Satz zu Konflikten führen kann, wurde mir bewusst, wie wichtig eine klare und achtsame Kommunikation ist. Ich sehnte mich nach einem harmonischen Miteinander, bei dem wir offen und verständnisvoll miteinander reden können, ohne dass einer von uns sich angegriffen fühlt oder in Rechtfertigungsdruck gerät.
 
@@ -57,10 +56,9 @@ Doch immer wieder fielen wir in alte Muster zurück und interpretierten Aussagen
 
 Erst mit der Zeit lernten wir, bewusster zu kommunizieren und auch mal innezuhalten, wenn wir merkten, dass wir auf unterschiedlichen Ebenen hörten. Das 4-Ohren-Modell gab uns ein Werkzeug an die Hand, um Missverständnisse schneller zu erkennen und aus der Welt zu schaffen.
 
-## So gelingt die Kommunikation mit dem 4-Ohren-Modell
-
-
 ![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-3.jpg)
+
+## So gelingt die Kommunikation mit dem 4-Ohren-Modell
 
 Die Herausforderungen in unserer Kommunikation waren vielfältig: Missverständnisse, verletzende Worte, das Gefühl, nicht gehört zu werden. Doch mit dem 4-Ohren-Modell fanden wir einen Weg, diese Hürden zu überwinden und einander besser zu verstehen.
 

@@ -18,7 +18,7 @@ Ich kann dich beruhigen: Du bist nicht allein! Unzählige Stiefeltern kämpfen t
 
 Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erfährst du in diesem Artikel. Lass uns gemeinsam deine Beziehung stärken und Lösungen finden!
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
 
 ## Lerne Yvonne kennen
 
@@ -28,10 +28,9 @@ Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht da
 
 Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die Beziehung ruinieren zu lassen?
 
-## Yvonne träumte davon…
-
-
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
+
+## Yvonne träumte davon…
 
 Yvonne hatte einen sehnlichen Wunsch:**Sie wollte endlich zur Ruhe kommen und eine stabile, liebevolle Beziehung zu ihrem Partner aufbauen.**Die ständigen Streitereien mit seiner Ex zerrten nicht nur an ihren Nerven, sondern drohten auch ihre [Partnerschaft zu zerstören](/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert/).
 

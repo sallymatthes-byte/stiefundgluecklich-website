@@ -55,10 +55,9 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 – Deepak chopra
 
 
-## Der erste Schritt zur Veränderung
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-2.jpg)
+
+## Der erste Schritt zur Veränderung
 
 Vielleicht kennst du diesen einen Moment – dieser Augenblick, in dem dir klar wird: “So kann es nicht weitergehen.” Vielleicht war es nach einer weiteren durchweinten Nacht, weil die Ex-Frau wieder einmal eure Urlaubsplanung torpediert hat. *Oder nach einem Streit mit deinem Partner, weil er schon wieder nicht Position bezogen hat.* Die Ex-Frau und neue Beziehung scheinen in einer Endlosschleife gefangen zu sein, und du spürst: Etwas muss sich ändern.
 
@@ -117,10 +116,9 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 - Eine neue Familiendynamik etablieren
 
-## Dein Weg zur harmonischen Patchworkfamilie
-
-
 ![Stimmungsbild zum Artikel](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-3.jpg)
+
+## Dein Weg zur harmonischen Patchworkfamilie
 
 Stell dir vor, wie es sich anfühlen würde, wenn die Ex-Frau und neue Beziehung nicht mehr von Spannung und Konflikt geprägt wären. Wenn du morgens aufwachst und dich auf den Tag freust, anstatt zu grübeln, welche “Überraschungen” wohl heute wieder auf dich warten. Wenn du dich stark und sicher in deiner Rolle fühlst, egal was von außen kommt.
 

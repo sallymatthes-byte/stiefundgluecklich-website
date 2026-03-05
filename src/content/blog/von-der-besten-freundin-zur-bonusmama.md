@@ -18,7 +18,7 @@ In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfäh
 
 Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns gemeinsam eintauchen und herausfinden, wie die Transformation von der besten Freundin zur Bonusmama gelingen kann.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
 
 ## Vom vertrauten Umfeld zur Außenseiterin
 
@@ -30,10 +30,9 @@ Marions Partner stand zwischen den Stühlen – hin- und hergerissen zwischen se
 
 Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getroffen hatte. War sie wirklich bereit für diese Herausforderung? Konnte sie den Kindern gerecht werden und eine gute Bonusmutter sein? Diese Fragen beschäftigten sie sehr und sie spürte, dass sich etwas ändern musste.
 
-## Marion wünschte sich…
-
-
 ![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-2.jpg)
+
+## Marion wünschte sich…
 
 Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie.**Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.**Ihr größtes Ziel war es, eine starke und liebevolle Patchworkfamilie aufzubauen, in der jeder seinen Platz hat und respektiert wird. Sie wollte für die Kinder da sein, eine vertrauensvolle Beziehung zu ihnen aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern wählen müssen, sondern von allen geliebt werden.
 
@@ -63,10 +62,9 @@ Dafür brauchte Marion einen neuen Ansatz, eine Strategie, die ihr helfen würde
 
 Und was dieser Schlüssel war, erfährst du im nächsten Abschnitt.
 
-## Der Schlüssel zum Glück
-
-
 ![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-3.jpg)
+
+## Der Schlüssel zum Glück
 
 Als Marion erkannte, dass sie alleine nicht weiterkam, beschloss sie, sich professionelle Unterstützung zu suchen. In unserer Zusammenarbeit fand sie heraus, dass der Schlüssel zu einer harmonischen Patchwork-Familie in einem ganzheitlichen Ansatz liegt, der auf drei wirksamen Schritten basiert: Analyse, Veränderungen und Kommunikation.**Im ersten Schritt, der Analyse, nahmen wir Marions Situation genau unter die Lupe.**Wir identifizierten die Hauptprobleme, die zu den Konflikten und Herausforderungen führten. Durch gezielte Fragen und Reflexionsübungen half ich Marion dabei, die Dynamiken in ihrer Patchwork-Familie besser zu verstehen und zu erkennen, welche Rolle sie selbst darin spielte.**Basierend auf den Erkenntnissen aus der Analyse ging es im zweiten Schritt darum, konkrete Veränderungen anzustoßen.**Gemeinsam erarbeiteten wir Strategien, wie Marion ihre Einstellung und ihr Verhalten anpassen konnte, um die Situation zu verbessern. Dazu gehörte beispielsweise, dass sie lernte, sich klar abzugrenzen, ihre eigenen Bedürfnisse ernst zu nehmen und sich auf die positiven Aspekte ihrer neuen Familie zu fokussieren.**Der dritte und entscheidende Schritt lag in der Kommunikation.**Marion lernte, wie sie ihre Gedanken und Gefühle klar und respektvoll ausdrücken konnte. Sie übte, wie sie schwierige Gespräche mit ihrem Partner, den Kindern oder der Kindsmutter führen und dabei trotzdem für sich und ihre Werte einstehen konnte. Durch eine verbesserte Kommunikation gelang es ihr, Missverständnisse auszuräumen, Konflikte zu entschärfen und die Beziehungen innerhalb der Familie zu stärken.
 

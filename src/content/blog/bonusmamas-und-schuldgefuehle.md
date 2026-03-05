@@ -40,10 +40,9 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 > “Das Schuldgefühl hindert uns daran, die Dinge klar zu sehen.”
 – Doris May Lessing
 
-## Die Entstehung von Schuldgefühlen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
+
+## Die Entstehung von Schuldgefühlen
 
 Schuldgefühle sind ein häufiger Begleiter für Stiefmütter. Sie entstehen oft aus dem tiefen Wunsch heraus, alles richtig zu machen und niemandem wehzutun. Doch in der komplexen Dynamik einer Patchworkfamilie ist es nahezu unmöglich, immer allen gerecht zu werden. Konflikte zwischen den Bedürfnissen der Stiefkinder, der eigenen Kinder, des Partners und den eigenen Wünschen führen fast zwangsläufig zu Situationen, in denen man sich schuldig fühlt.
 
@@ -52,10 +51,9 @@ Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.ps
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
-## Der Umgang mit der Schuld
-
-
 ![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
+
+## Der Umgang mit der Schuld
 
 *Zunächst ist es wichtig, sich bewusst zu machen, dass man nicht perfekt sein muss.* Stiefmütter sollten lernen, auch mal Nein zu sagen, sich abzugrenzen und sich Zeit für sich selbst zu nehmen, ohne sich dafür schuldig zu fühlen.
 

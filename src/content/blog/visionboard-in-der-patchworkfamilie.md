@@ -31,10 +31,9 @@ Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfa
 > “The future belongs to those who believe in the beauty of their dreams.“
 – Eleanor Roosevelt
 
-## So erstellt ihr ein Visionboard für die Patchworkfamilie
-
-
 ![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
+
+## So erstellt ihr ein Visionboard für die Patchworkfamilie
 
 Es gibt viele Möglichkeiten, ein Visionboard zu gestalten, aber der Prozess beginnt immer mit der Reflexion über eure Werte, Bedürfnisse und Wünsche als Paar und als Familie.
 

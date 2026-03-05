@@ -30,10 +30,9 @@ Du fragst dich:
 
 Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten.
 
-## Die tieferen Ursachen der Eifersucht verstehen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
+
+## Die tieferen Ursachen der Eifersucht verstehen
 
 Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. **Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.**
 
@@ -50,10 +49,9 @@ Vielleicht spürst du:
 
 "Eifersucht ist wie ein Kompass - sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen."
 
-## Den Weg aus der Eifersucht finden
-
-
 ![Stimmungsbild zum Artikel](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
+
+## Den Weg aus der Eifersucht finden
 
 Vielleicht hast du schon oft gehört: "Sei doch nicht eifersüchtig, die Beziehung ist doch vorbei!" Aber so einfach ist es nicht, oder? Die Eifersucht auf die Ex-Frau sitzt tiefer, sie nährt sich von deinen ***innersten Ängsten und Unsicherheiten***. Um diese komplexen Gefühle zu transformieren, braucht es mehr als gut gemeinte Ratschläge. Es braucht einen systematischen Ansatz, der dir hilft, aus diesem Gefühlschaos herauszufinden.
 

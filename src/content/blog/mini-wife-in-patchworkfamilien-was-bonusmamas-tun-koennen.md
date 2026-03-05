@@ -19,7 +19,7 @@ Ein Begriff, der nach Drama klingt – und doch beschreibt er eine stille Dynami
 
 Wenn du dich manchmal wie eine Rivalin fühlst – obwohl du doch eigentlich Partnerin bist –, dann lies unbedingt weiter. Dieser Artikel ist für dich.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Mein Wendepunkt: Zwischen Scham und Erkenntnis
 
@@ -39,10 +39,9 @@ Sie war ein Kind – in einer Rolle, die sie nie hätte übernehmen dürfen. Und
 
 Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde – aber weil ich endlich verstand, dass es nicht um Schuld ging. Sondern um Klarheit, Verantwortung und neue Strukturen.
 
-## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
-
-
 ![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
+
+## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
 
 Das sogenannte „Mini-Wife“-Phänomen beschreibt eine Dynamik, bei der eine Tochter unbewusst in die emotionale Partnerrolle des Vaters rutscht. Sie übernimmt Verantwortung, sucht Nähe, kontrolliert unbewusst das Beziehungsfeld – weil klare Grenzen fehlen.
 
@@ -68,10 +67,9 @@ Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 Das Kind ist nicht schuld.Es ist Aufgabe des Vaters – und auch der Erwachsenen im System –, für eine klare, sichere Rollenverteilung zu sorgen.
 
-## Was mich so lange davon abgehalten hat, etwas zu sagen
-
-
 ![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
+
+## Was mich so lange davon abgehalten hat, etwas zu sagen
 
 Heute sehe ich klar, was damals so verschwommen war. Aber bis zu diesem Punkt lagen viele innere Hürden. Vielleicht kennst du einige davon auch.
 

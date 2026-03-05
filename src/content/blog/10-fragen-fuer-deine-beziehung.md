@@ -17,7 +17,7 @@ Doch dann erinnerst du dich daran, warum du diesen Weg gewählt hast: aus Liebe 
 
 Wir lernten so viel Neues übereinander und konnten endlich wieder tiefgehende Gespräche führen. Zu diesem Zeitpunkt waren wir etwa zwei Jahre zusammen und ich stand vor der bisher größten Herausforderung in unserer Beziehung. Wir hatten gerade unsere erste gemeinsame Wohnung bezogen, die Kinder waren regelmäßig bei uns und wir mussten unsere Rolle als Patchworkfamilie erst finden. Es war eine schwierige Zeit, in der ich oft an meine Grenzen stieß. Und ich teile mit dir heute die Fragen, die uns wieder näher zueinander gebracht haben.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) genau das Richtige für dich:
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) an.
 
 ## Die ersten Monate als Patchworkfamilie
 
@@ -27,10 +27,9 @@ Dieses Hin und Her war nicht nur für mich, sondern auch für die Kinder unglaub
 
 In dieser Zeit wurde mir bewusst, wie sehr wir uns im Alltag verausgaben. Wenn wir über unsere Probleme sprachen, ging es oft darum, wer Recht hat und wer nicht. Selten schafften wir es, offen und verständnisvoll miteinander umzugehen. Ich hatte Angst davor, was passieren würde, wenn wir uns nicht einigen konnten oder mein Partner eine Antwort von mir nicht akzeptieren würde. Doch dann kam der Wendepunkt.
 
-## Tiefe Verbundenheit und Klarheit
-
-
 ![Stimmungsbild zum Artikel](/images/blog/10-fragen-fuer-deine-beziehung-2.jpg)
+
+## Tiefe Verbundenheit und Klarheit
 
 Der Wendepunkt kam mit unserem spontanen Kurztrip Richtung Gardasee. Trotz des stundenlangen Staus und der Anspannung, die wir beide spürten, war dieser Moment unglaublich wertvoll für uns. Das mitgebrachte Fragespiel eröffnete uns neue Wege, uns auszutauschen und einander besser zu verstehen.
 
@@ -54,10 +53,9 @@ All diese Herausforderungen erforderten ein hohes Maß an Reflexion, Empathie un
 
 Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
-## Die 10 Fragen, die alles verändern
-
-
 ![Stimmungsbild zum Artikel](/images/blog/10-fragen-fuer-deine-beziehung-3.jpg)
+
+## Die 10 Fragen, die alles verändern
 
 **Analyse: Fragen für eine ehrliche Bestandsaufnahme**
 
