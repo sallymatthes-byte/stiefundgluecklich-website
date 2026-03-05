@@ -273,11 +273,9 @@ const relatedPosts = allPosts
     border-color: hsl(var(--border));
   }
 
-  /* WhatsApp Dark Mode testimonial bubbles */
+  /* WhatsApp-style testimonial bubbles — dark bubbles on white */
   .prose-custom .testimonial-wrapper {
-    background: #0B141A;
-    border-radius: 12px;
-    padding: 1.25rem 1rem;
+    padding: 0.5rem 0;
     margin: 2rem 0;
   }
   .prose-custom .testimonial-bubble {
@@ -299,6 +297,7 @@ const relatedPosts = allPosts
     height: 0;
     border-top: 0 solid transparent;
     border-right: 8px solid #202C33;
+    filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.08));
     border-bottom: 8px solid transparent;
   }
   .prose-custom .testimonial-text {
