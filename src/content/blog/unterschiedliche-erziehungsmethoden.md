@@ -56,7 +56,7 @@ Erziehungsmethoden in Patchworkfamilien werden oft zum Zankapfel zwischen leibl
 
 Doch so verständlich die Positionen auch sein mögen: Für Kinder sind diese Machtkämpfe fatal. Anstatt Sicherheit und Stabilität zu bekommen, erleben sie die Erwachsenen als zerstritten. Es ist daher immens wichtig, dass Eltern und Bonuseltern in Erziehungsfragen an einem Strang ziehen. Wie das geht, erfährst du im nächsten Abschnitt.
 
-> „Erziehung besteht aus zwei Dingen: Beispiel und Liebe.“
+> „Erziehung Besteht aus zwei Dingen: Beispiel und Liebe.“
 – friedrich fröbel
 
 ## Zurückhaltung als Bonuseltern

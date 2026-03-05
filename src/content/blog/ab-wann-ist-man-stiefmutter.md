@@ -12,7 +12,7 @@ podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein — jenseits von Definitionen und Märchen."
 ---
 
-> „Ich will nicht die böse Stiefmutter sein!" – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue Rolle als Bonusmama wagte.
+> „Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue Rolle als Bonusmama wagte.
 
 Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Partner in Tränen ausbrach. Die Angst, nicht gut genug zu sein, die Sorge, von den Kindern abgelehnt zu werden, und die Unsicherheit über meine neue Rolle – all das überwältigte mich in diesem Moment.**Heute weiß ich: Eine Stiefmutter zu sein bedeutet so viel mehr als nur die neue Partnerin des Vaters zu sein.**Es ist eine Reise zu dir selbst, eine Herausforderung, die dich wachsen lässt, und eine Chance, Teil von etwas ganz Besonderem zu werden.
 
@@ -44,7 +44,7 @@ Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich 
 
 In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen Erfahrungen würden mir nur bedingt helfen.
 
-> „Nur wer sein Ziel kennt, findet den Weg." – Laozi
+> „Nur wer sein Ziel kennt, findet den Weg.“ – Laozi
 
 ---
 
@@ -80,7 +80,7 @@ Die wichtigste Erkenntnis auf meinem Weg war:**Offene Kommunikation ist nicht nu
 
 Anfangs war es holprig. Die Kleine saß mit verschränkten Armen da, die Große spielte lieber mit den Legosteinen. Aber mit der Zeit merkten alle: Hier werden wir ernst genommen, hier dürfen wir sein, wie wir sind.
 
-> „Sally, ich mag dich. Nicht wie Mama, aber anders." – Dieser Satz meiner Bonustochter bedeutete mir mehr als jedes „Ich hab dich lieb". Er zeigte: Wir hatten einen Weg gefunden, authentisch miteinander umzugehen.
+> „Sally, ich mag dich. Nicht wie Mama, aber anders.“ – Dieser Satz meiner Bonustochter bedeutete mir mehr als jedes „Ich hab dich lieb“. Er zeigte: Wir hatten einen Weg gefunden, authentisch miteinander umzugehen.
 
 Unsere Kommunikationsregeln entwickelten sich organisch:
 

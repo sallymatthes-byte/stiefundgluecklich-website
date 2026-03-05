@@ -41,7 +41,7 @@ Mit ihrer Sichtweise stand Yvonne nicht allein da. Viele Stiefeltern wünschen s
 
 Yvonne aber wollte sich damit nicht abfinden. Sie war entschlossen, die Situation zu verbessern. Dafür war sie bereit, alte Denkmuster über Bord zu werfen und neue Wege zu gehen – damit nicht nur in ihrer Patchwork-Familie endlich Frieden einkehren, sondern auch ihre Partnerschaft wieder aufblühen konnte.
 
-> „Der beste Beweis der Liebe ist Vertrauen.”" – Joyce Brothers
+> „Der beste Beweis der Liebe ist Vertrauen.” – Joyce Brothers
 
 ## Doch das erschien schwerer als angenommen
 

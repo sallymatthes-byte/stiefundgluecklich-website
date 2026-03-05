@@ -47,7 +47,7 @@ Mir wurde klar, dass ich aktiv etwas verändern musste, um meinem Ziel näher zu
 Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien auseinanderzusetzen und nach Wegen zu suchen, wie ich meine Rolle als Stiefmutter positiv gestalten konnte. Ich war fest entschlossen, meinen Beitrag zu einem harmonischen Familienleben zu leisten und nicht aufzugeben, bis wir gemeinsam unser Ziel erreicht hatten. Und wie mir das gelang, erfährst du im nächsten Absatz.
 
 
-> „in schwierigen zeiten ist familie das beste.”" – Burmesisches Sprichwort
+> „In schwierigen Zeiten ist Familie das Beste.” – Burmesisches Sprichwort
 
 ## Hindernisse überwinden
 

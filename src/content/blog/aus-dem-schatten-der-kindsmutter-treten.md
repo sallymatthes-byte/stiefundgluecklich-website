@@ -41,7 +41,7 @@ Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und
 
 Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, gehört zu werden.* Je klarer und selbstbewusster du kommunizierst, desto leichter fällt es den anderen, dich als eigenständige und wertvolle Bonusmama wahrzunehmen. Du musst dich nicht kleinmachen oder verstecken - trete mit Stolz und Klarheit für dich ein!
 
-> "Ein gefällter Baum wirft keinen Schatten." - Unbekannt
+> „Ein gefällter Baum wirft keinen Schatten.“ – Unbekannt
 
 ## Deinen eigenen Platz finden
 

@@ -41,7 +41,7 @@ Dafür war es unerlässlich, dass wir lernen, einander zuzuhören und zu versteh
 Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen. Doch der Weg dahin war nicht immer einfach, denn alte Kommunikationsmuster abzulegen und neue zu erlernen, erfordert Geduld und Übung.
 
 
-> „wer sich selbst versteht, kommuniziert besser.”" – Friedemann Schulz von Thun
+> „Wer sich selbst versteht, kommuniziert besser.” – Friedemann Schulz von Thun
 
 ## Aneinander vorbeireden – Wenn unterschiedliche Ebenen aufeinanderprallen
 

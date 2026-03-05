@@ -45,7 +45,7 @@ Doch um all diese Ziele zu erreichen, musste Marion erst einmal herausfinden, wi
 
 Mit diesen Wünschen und Zielen im Herzen machte sich Marion auf den Weg, die Herausforderungen anzunehmen und sich Schritt für Schritt in ihre neue Rolle als Bonusmama einzufinden. Sie war bereit, alles dafür zu tun, um die erträumte Harmonie in ihrer Patchworkfamilie Wirklichkeit werden zu lassen.
 
-> „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”" – Mark Twain
+> „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.” – Mark Twain
 
 ## Gerüchte, Anfeindungen und das Gefühl des Alleingelassenseins
 

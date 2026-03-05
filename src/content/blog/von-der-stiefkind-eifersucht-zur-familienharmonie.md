@@ -46,7 +46,7 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus seltsam leer wirkte, wurde mir meine tiefste Sehnsucht bewusst. Ich träumte davon, wie wir entspannt am Frühstückstisch sitzen würden, ohne diese nagenden Gefühle in meiner Brust. Wie das Lachen der Kinder einfach nur Freude bedeuten würde, ohne den bitteren Beigeschmack der Eifersucht. ***Dieser Traum von einer harmonischen Patchworkfamilie war mehr als eine naive Hoffnung – er war der Antrieb, der mich weitermachen ließ.*** Ich wollte die Beziehung zwischen meinem Partner und seinen Kindern nicht mehr als Bedrohung empfinden müssen, sondern als das, was sie eigentlich war: ein wertvoller Teil unseres Familienlebens.
 
 
-> „eifersucht ist liebesneid“" – Wilhelm Busch
+> „Eifersucht ist Liebesneid“ – Wilhelm Busch
 
 ## Die unsichtbaren Mauern der Eifersucht
 

@@ -115,7 +115,7 @@ Der wichtigste Gesprächspartner in dieser Dynamik ist dein Partner.Nicht das Ki
 
 Sprich ehrlich, aber liebevoll mit ihm:
 
-> „Ich erlebe, dass eure Bindung sehr eng ist" – Und Ich Weiß Manchmal Nicht, Wie Ich Mich in Diese Nähe Einfügen Kann.“
+> „Ich erlebe, dass eure Bindung sehr eng ist – und ich weiß manchmal nicht, wie ich mich in diese Nähe einfügen kann.“
 > „Ich wünsche mir, dass wir als Paar auch dann Raum füreinander haben, wenn die Kinder da sind.“
 
 Er muss erkennen: Seine Tochter ist seine Tochter – nicht seine Vertraute, nicht seine „Ersatzpartnerin“.Und du bist seine Partnerin – nicht die Konkurrentin des Kindes.
@@ -128,7 +128,7 @@ Du bist die Erwachsene.Auch wenn du dich manchmal wie ein Teenager fühlst, der 
 
 Sprich mit dem Kind, wenn es sich richtig anfühlt – nicht als Konfrontation, sondern als Einladung:
 
-> „Ich bin nicht deine Mama. Aber ich bin gern da" – Und Freue Mich, Wenn Wir Miteinander Klar und Freundlich Umgehen.“
+> „Ich bin nicht deine Mama. Aber ich bin gern da – und freue mich, wenn wir miteinander klar und freundlich umgehen.“
 > „Du darfst Kind sein. Und ich bin nicht hier, um dir etwas wegzunehmen.“
 
 Suche kleine Rituale, in denen Nähe entstehen darf – ohne Zwang, ohne Konkurrenz.Ein gemeinsames Frühstück. Ein Spiel. Ein Spaziergang.
