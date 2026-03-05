@@ -5,5 +5,12 @@ category: "partnerschaft"
 date: 2024-11-21
 metaTitle: "Das 4-Ohren-Modell in der Patchworkfamilie: Besser kommunizieren"
 metaDescription: "Missverständnisse mit Partner, Ex oder Bonuskindern? Das 4-Ohren-Modell zeigt dir, warum — und wie du besser kommunizierst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/11/steph_franchess_httpss.mj_.run1fG1SV5uW4I_httpss.mj_.runOJ9fV4m_03d962c3-dc3f-47a4-94eb-7c1ba3a04b6c_1.png"
+image: "/images/blog/das-vier-ohren-modell-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
+
+![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
+
+
+
+![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-3.jpg)

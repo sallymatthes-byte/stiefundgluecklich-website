@@ -6,7 +6,8 @@ date: 2024-07-26
 updated: 2024-07-29
 metaTitle: "Loslassen lernen als Bonusmama: Familienideale verabschieden"
 metaDescription: "Die perfekte Familie gibt es nicht — schon gar nicht als Bonusmama. Wie du das Ideal loslässt und deine eigene Version findest."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/07/steph_franchess_httpss.mj_.runK4kmNvf3s14_Create_a_digital_ill_101b8eb2-de15-495a-aecb-fb8fcb4ada5d_0.png"
+image: "/images/blog/loslassen-lernen-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Als man mich als 3-Jährige fragte, was ich werden möchte, sagte ich: “Hausfrau und Braut!”. Schon von klein auf wünschte ich mir eine Familie und zeitweise malte ich mir aus, wie es wäre vier eigene Kinder zu haben. Irgendwann wurde der Wunsch nach eigenen Kindern kleiner, der Wunsch nach einer intakten Familie aber blieb.
@@ -25,6 +26,9 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 *Doch die Realität sieht oft anders aus, gerade in Patchwork-Familien.* Und so stehen wir vor der Herausforderung, unsere Ideale und Erwartungen mit der Wirklichkeit in Einklang zu bringen. Der erste Schritt dabei ist, sich der eigenen Prägungen bewusst zu werden und zu verstehen, woher sie kommen.
 
 ## Warum es in der Patchworkfamilie nicht so einfach ist
+
+
+![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-2.jpg)
 
 In einer Patchworkfamilie kommen *unterschiedliche Erfahrungen, [Erwartungen](/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und Emotionen* zusammen. Da sind die Kinder, die den Verlust einer vertrauten Familiensituation verarbeiten und sich an neue Bezugspersonen gewöhnen müssen. Da sind [Ex-Partner_innen](/eifersucht-als-bonusmama-die-ex-als-konkurrenz/), die weiterhin als Eltern präsent sind und mit denen es gilt, eine respektvolle Ebene zu finden. Und da bist du als Bonusmama, die ihren Platz in diesem komplexen Gefüge finden muss.
 
@@ -52,6 +56,9 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
 ## Inneren Frieden finden
+
+
+![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-3.jpg)
 
 auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inneren Frieden und Erfüllung zu finden*. Denn nur wenn du im Einklang mit dir selbst bist, kannst du auch für andere da sein und die Schönheit des Augenblicks genießen.
 

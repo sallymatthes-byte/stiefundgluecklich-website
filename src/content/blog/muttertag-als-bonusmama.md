@@ -6,7 +6,8 @@ date: 2024-05-03
 updated: 2024-06-15
 metaTitle: "Muttertag als Bonusmama: Zwischen Feiern und Schmerz"
 metaDescription: "Muttertag als Bonusmama ist kompliziert. Für dich und dein Gefühl. So gestaltest du den Tag, der sich richtig für dich anfühlt."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2023/12/steph_franchess_httpss.mj_.runviGVaRq0OUM_Create_a_digital_ill_622cf603-9889-4f55-81f7-a72eeffed0f8_1.png"
+image: "/images/blog/muttertag-als-bonusmama-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Nächste Woche ist Muttertag.
@@ -25,6 +26,9 @@ Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – und der Muttertag m
 
 ## Erwartungen und Enttäuschungen
 
+
+![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-2.jpg)
+
 Stellen wir uns folgende Situation vor: Es ist Muttertag und du hast dir fest vorgenommen, diesen Tag mit deiner Patchworkfamilie zu verbringen. Du hast ein leckeres Frühstück vorbereitet, den Tisch liebevoll gedeckt und freust dich auf einen harmonischen Start in den Tag. Doch dann kommt dein Partner verschlafen aus dem Schlafzimmer und murmelt nur ein kurzes “Morgen”, bevor er sich seinem Handy widmet. Die Kinder sind noch bei ihrer leiblichen Mutter und du sitzt alleine am Frühstückstisch.*In diesem Moment fühlst du dich unsichtbar und fragst dich, ob deine Bemühungen überhaupt gesehen und geschätzt werden.*
 
 Oder stell dir vor, die Kinder kommen später zu dir und berichten dir von dem selbstgebastelten [Geschenk](https://www.etsy.com/de-en/listing/1684843793/custom-bonus-mama-mug-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bonus+mama+geschenk&ref=sc_gallery-1-4&pro=1&sts=1&plkey=728f051bf05f0f407bdf3a36cd67ce2b5e5464c5%3A1684843793), welches sie ihrer Mutter überreicht haben. Du freust dich für sie, aber gleichzeitig spürst du einen [Stich im Herzen](/eifersucht-als-bonusmama-die-ex-als-konkurrenz/). Denn für dich haben sie nichts vorbereitet.*In diesem Augenblick fühlst du dich ausgeschlossen und zweifelst an deiner Bedeutung in der Familie.*
@@ -40,6 +44,9 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 
 ## Eine Zerreißprobe für die Kinder
+
+
+![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-3.jpg)
 
 Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre leibliche Mama und ihre Bonusmama. Doch an diesem besonderen Tag fühlen sie sich**hin- und hergerissen.**Sie wollen keine der beiden Frauen enttäuschen oder verletzen und geraten dadurch in einen inneren Konflikt. Vielleicht verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu feiern.
 Dabei spüren sie die**Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.

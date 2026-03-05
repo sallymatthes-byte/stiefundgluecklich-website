@@ -6,7 +6,8 @@ date: 2024-08-30
 updated: 2024-08-17
 metaTitle: "Unterschiedliche Erziehung in der Patchworkfamilie: Was tun?"
 metaDescription: "Dein Partner erzieht anders als du? Warum unterschiedliche Erziehungsmethoden in Patchworkfamilien normal sind — und wie ihr einen Weg findet."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/08/steph_franchess_httpss.mj_.runo9fcNNP7b4A_httpss.mj_.runKzJdgf4_9322d2e1-a5a6-4578-9217-7b872becb00f_1.png"
+image: "/images/blog/unterschiedliche-erziehungsmethoden-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Vielleicht kennst du es ja auch: dein Bonuskind räumt mal wieder sein Zimmer nicht auf oder beklagt sich darüber, dass es den Tisch abwischen soll. Du als Bonusmama wünschst dir mehr Regeln, mehr Struktur, doch dein Partner sieht das ziemlich gelassen. Das ist zumindest bei uns häufig an der Tagesordnung.
@@ -48,6 +49,9 @@ Lass uns nun direkt mal tiefer in die dritte Herausforderung einsteigen.
 
 ## Wenn die Erziehung zum Minenfeld wird
 
+
+![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-2.jpg)
+
 Erziehungsmethoden in Patchworkfamilien werden oft zum Zankapfel zwischen leiblichen Eltern und Bonuseltern. Wie ein unsichtbarer Magnet zieht die Familienkonstellation die Erwachsenen in entgegengesetzte Richtungen:**Während Bonuseltern häufig mehr Struktur und Disziplin einfordern, wünschen sich leibliche Eltern meist mehr Verständnis und Nachsicht für ihre Kinder.**Schnell verhärten sich die Fronten: Die genervte Bonusmama beschwert sich, dass die Kinder verwöhnt und undiszipliniert seien. Der Vater verteidigt seinen Nachwuchs und wirft seiner Partnerin vor, zu streng zu sein. Je länger die Diskussion dauert, desto weiter entfernen sich die Positionen voneinander.*Am Ende stehen sich zwei frustrierte Erwachsene gegenüber, die sich im Erziehungsalltag gegenseitig blockieren.***Diese Konstellation ist kein Zufall, sondern ein typisches Muster.**Bonuseltern haben oftmals das Gefühl, nicht genug Mitspracherecht zu haben und wünschen sich mehr Einfluss. Leibliche Eltern hingegen wollen ihre Kinder schützen und fürchten, dass der neue Partner zu hohe Anforderungen stellt.*Unterschiedliche emotionale Bindungen zu den Kindern verkomplizieren die Situation zusätzlich.*
 
 Doch so verständlich die Positionen auch sein mögen: Für Kinder sind diese Machtkämpfe fatal. Anstatt Sicherheit und Stabilität zu bekommen, erleben sie die Erwachsenen als zerstritten. Es ist daher immens wichtig, dass Eltern und Bonuseltern in Erziehungsfragen an einem Strang ziehen. Wie das geht, erfährst du im nächsten Abschnitt.
@@ -68,6 +72,9 @@ Hinzu kommt: Ein autoritärer Erziehungsstil, wie ihn Bonuseltern häufig an den
 Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sagen dürfen. Als Teil der Patchworkfamilie bringen sie ihre eigenen Werte und Vorstellungen mit, die durchaus berechtigt sind. Entscheidend ist jedoch, dass sie diese zunächst mit dem leiblichen Elternteil abstimmen und gemeinsam nach Kompromissen suchen. So entwickeln sie Schritt für Schritt eine Erziehungspartnerschaft, in der das Wohl des Kindes an erster Stelle steht.
 
 ## Hand in Hand
+
+
+![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-3.jpg)
 
 Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der Patchworkfamilie mitzugestalten. Doch anstatt dich in Machtkämpfe zu verlieren, solltest du lernen, deinen Partner zu unterstützen und gemeinsam an einem Strang zu ziehen. Hier sind einige Tipps, wie dir das gelingen kann:
 

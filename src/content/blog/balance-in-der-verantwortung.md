@@ -6,7 +6,8 @@ date: 2023-12-29
 updated: 2024-06-15
 metaTitle: "Verantwortung als Bonusmama: Wie viel ist zu viel?"
 metaDescription: "Wo hört Hilfe auf und wo fängt Aufopferung an? Finde die richtige Balance bei der Verantwortung für deine Bonuskinder."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2023/12/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_273f9f16-9014-45b5-b880-86b885cfc95c_3.png"
+image: "/images/blog/balance-in-der-verantwortung-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-All Ansatz!
@@ -33,6 +34,9 @@ Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in de
 
 ## Wie geht es den Kindern?
 
+
+![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-2.jpg)
+
 Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise**verunsichert**und**brauchen Zeit**, um sich an die neue Situation zu gewöhnen.
 Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem Leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.
 
@@ -55,6 +59,9 @@ Es ist jedoch auch wichtig anzuerkennen, dass die schrittweise Aufteilung der Ve
 Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln kommen kann. Doch gerade in diesen Momenten ist es wichtig, am Ball zu bleiben, offen zu kommunizieren und sich gegenseitig zu unterstützen.
 
 ## Wo sind die Grenzen?
+
+
+![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
 
 Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine**Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 

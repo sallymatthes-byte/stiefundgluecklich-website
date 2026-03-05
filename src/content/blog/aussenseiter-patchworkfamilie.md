@@ -5,7 +5,8 @@ category: "partnerschaft"
 date: 2024-08-16
 metaTitle: "Außenseiter in der eigenen Familie? Das steckt dahinter"
 metaDescription: "Du fühlst dich als Außenseiter in deiner Patchworkfamilie? Warum dieses Gefühl entsteht und was dir jetzt hilft."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/08/steph_franchess_sad_face_expression_-ar_169_-v_6.1_e700b7db-e5a4-49f0-8e37-62f9fd99380a_0.png"
+image: "/images/blog/aussenseiter-patchworkfamilie-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Neulich begegnete mir das Konzept von Dr. Patricia Papernow – eine renommierte Psychologin und Expertin im Bereich der Patchworkfamilien.
@@ -49,6 +50,9 @@ Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
 ## Die Position des Außenseiters
 
+
+![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-2.jpg)
+
 Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer “First-time Family”, also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält.**In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht.**Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes Mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum “Insider”, der neue Partner zum “Outsider”.*
 
 Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes Mal, wenn eins der Kinder den Raum betritt, entsteht automatisch eine Insider-Outsider-Dynamik: Kevin und das Kind teilen einen exklusiven Moment, während du dich schnell [ausgeschlossen](/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) fühlst. Kevin wiederum fühlt sich hin- und hergerissen zwischen dir und seinen Kindern.
@@ -81,6 +85,9 @@ So fühlt sich jeder gesehen und wertgeschätzt.
 Mit**Einfühlungsvermögen, Geduld und dem Willen, aufeinander zuzugehen**, können Kevin und Sabine die Herausforderung meistern.
 
 ## Und was solltest du nicht tun?
+
+
+![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-3.jpg)
 
 Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche Verhaltensweisen die Insider-Outsider-Dynamik verschärfen können:
 

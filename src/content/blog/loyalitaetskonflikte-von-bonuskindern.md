@@ -5,7 +5,8 @@ category: "kinder-bindung"
 date: 2024-08-23
 metaTitle: "Loyalitätskonflikte bei Kindern: Was Bonusmamas wissen müssen"
 metaDescription: "Dein Bonuskind steckt zwischen den Fronten? Was hinter Loyalitätskonflikten steckt und wie du als Bonusmama helfen kannst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/08/steph_franchess_sad_face_expression_-ar_31_-v_6.1_2ff5fe2d-2c37-4bca-8330-be760e6da14c_2.png"
+image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Neulich erzählte mir eine Klientin, dass sie gehört hatte, wie ihr Bonuskind am Telefon zur Mutter sagte “Ja, mir geht es auch nicht gut. Ich vermisse dich auch.” Und das, obwohl das Kind den ganzen Tag unbeschwert gespielt hatte.
@@ -46,6 +47,9 @@ Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
 ## Zwischen den stühlen
 
+
+![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
+
 Ich möchte dir gern die 13-jährige Emma vorstellen. Ihre Eltern haben sich vor einem Jahr getrennt und jetzt hat ihr Vater eine neue Partnerin, Lisa. Sie mag Lisa eigentlich ganz gern, aber immer, wenn sie sieht, wie vertraut sie und dein Vater miteinander umgehen, fühlt sie einen Stich im Herzen.
 
 Es ist, als würde sie ihren Vater *verlieren* – an diese andere Frau, die plötzlich so viel Zeit mit ihm verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa einlässt. Sie fühlt sich hin- und hergerissen,**zwischen zwei Stühlen**.
@@ -72,6 +76,9 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 *Als Eltern und Bonuseltern ist es unsere Aufgabe, Verständnis für diese Überforderung zu haben.* Anstatt Begeisterung und schnelle Anpassung zu erwarten, sollten wir den Kindern den Raum geben, den sie brauchen, um mit den Veränderungen Schritt für Schritt klarzukommen. Nur wenn wir ihr Tempo respektieren und ihre Gefühle ernst nehmen, können sie nach und nach in ihrem neuen Leben ankommen.
 
 ## Strategien, um das Kind zu unterstützen
+
+
+![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
 
 Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Loyalitätskonflikten und Überforderung kämpfen, fühlen wir uns oft hilflos. Doch es gibt Wege, wie wir sie in dieser herausfordernden Situation unterstützen können:
 

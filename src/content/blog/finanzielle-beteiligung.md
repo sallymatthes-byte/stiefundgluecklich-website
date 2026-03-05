@@ -5,7 +5,8 @@ category: "rolle-identitaet"
 date: 2024-08-06
 metaTitle: "Finanzen als Bonusmama: So sicherst du deine Unabhängigkeit"
 metaDescription: "Sollst du für die Bonuskinder mitbezahlen? Wie du als Bonusmama finanziell unabhängig bleibst — ohne schlechtes Gewissen."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/08/steph_franchess_httpss.mj_.runcdv8895R2PM_Create_a_digital_ill_5de9b96f-5ca6-4356-ae30-4c233c49a2db_0.png"
+image: "/images/blog/finanzielle-beteiligung-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Als Bonusmama ist man oft mit der Frage konfrontiert, wie man mit den Finanzen in der Patchworkfamilie umgehen soll. Soll man sich zur Hälfte an allen Kosten beteiligen? Wie geht man damit um, wenn das Gefühl des Verzichtens zugunsten der Bonuskinder überhandnimmt? Und wie kann man über dieses heikle Thema mit dem Partner sprechen?
@@ -27,6 +28,9 @@ Es ist ein emotionales Thema. Für manche Bonusmamas ist es ein Weg, ihre Liebe 
 Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligung von Bonusmamas.
 
 ## Was, wenn du das Gefühl hast verzichten zu müssen?
+
+
+![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-2.jpg)
 
 Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
 
@@ -72,6 +76,9 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf beiden Seiten lässt sich ein Weg finden. Denk immer daran: Ihr sitzt im selben Boot und wollt beide das Beste für eure Familie.
 
 ## Wahre deine finanzielle Unabhängigkeit**Als Bonusmama ist es leicht, sich selbst zu vergessen.**Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
+
+
+![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-3.jpg)
 
 Auch wenn ihr als Paar oder Familie gemeinsam wirtschaftet, solltest du nicht dein gesamtes eigenes Einkommen in den Familientopf geben.*Behalte einen Teil für dich selbst, über den du frei verfügen kannst.*
 

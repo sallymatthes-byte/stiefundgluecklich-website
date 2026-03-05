@@ -6,7 +6,8 @@ date: 2024-03-01
 updated: 2024-06-15
 metaTitle: "Familie in der Patchworkfamilie: Großeltern, Tanten & ihre Rolle"
 metaDescription: "Wie Großeltern, Onkel und Tanten die Patchworkfamilie beeinflussen — und wie du als Bonusmama damit umgehst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/03/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_077fa3bf-e194-499c-a99a-3e3c8ef8ab06_2-1024x512.png"
+image: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
@@ -22,6 +23,9 @@ Meine [Eltern](https://www.grosseltern.de/tipps-fuer-stief-grosseltern-gleichbeh
 Bei leiblichen Enkelkindern besteht oft eine biologische Verbindung, die von Natur aus eine gewisse Nähe und Verbundenheit schafft. Doch das bedeutet nicht, dass die Bindung zu den Enkelkindern aus einer Patchworkfamilie weniger stark sein muss. Im Gegenteil, sie kann sogar noch intensiver und wertvoller sein, da sie auf gegenseitigem Vertrauen und Liebe aufbaut.
 
 ## Wie die restliche Familie eine rolle spielt
+
+
+![Stimmungsbild zum Artikel](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-2.jpg)
 
 in einer Patchworkfamilie können alle weiteren Familienmitglieder eine wertvolle und positive Rolle spielen. Jeder Einzelne hat die Möglichkeit, die Kinder der Patchworkfamilie zu unterstützen und ihnen ein Gefühl von Zugehörigkeit zu vermitteln.
 
@@ -48,6 +52,9 @@ Ein weiteres Hindernis kann die**Unsicherheit oder Abneigung**einiger Familienmi
 Eine weitere Herausforderung kann darin bestehen, dass die Kinder möglicherweise Schwierigkeiten haben, sich in die restliche Familie zu integrieren. Sie können sich unsicher fühlen oder befürchten, dass sie nicht akzeptiert werden. Hier ist es wichtig, den Kindern die Zeit und den Raum zu geben, sich anzupassen und Vertrauen aufzubauen. Es kann hilfreich sein, ihnen Aufgaben und Verantwortlichkeiten zu übertragen, um sie in die Familie einzubeziehen und ihnen das Gefühl zu geben, dass sie einen wichtigen Beitrag leisten.
 
 ## Gemeinsame Aktivitäten
+
+
+![Stimmungsbild zum Artikel](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-3.jpg)
 
 Um die restliche Familie in eine Patchworkfamilie zu integrieren und sich besser kennenzulernen, gibt es verschiedene Aktivitäten, die helfen können, eine harmonische Beziehung aufzubauen. Hier sind fünf konkrete Ideen:**1. Gemeinsames Kochen:**Eine tolle Möglichkeit, um Zeit miteinander zu verbringen und sich näher kennenzulernen, ist das gemeinsame Kochen. Jedes Familienmitglied kann ein Lieblingsrezept mitbringen und zusammen könnt ihr ein köstliches Mahl zubereiten. Während des Kochens könnt ihr euch austauschen, über eure Vorlieben und Geschmäcker sprechen und dabei eine Verbindung aufbauen. Meine Bonustöchter lieben es beispielsweise das Dessert für unsere Familientreffen vorzubereiten.**2. Familienausflüge:**Plant regelmäßig Familienausflüge, bei denen ihr gemeinsam etwas unternehmt und neue Erfahrungen sammelt. Das kann ein Besuch im Museum, ein Tag am See oder ein Ausflug in einen Freizeitpark sein. Während dieser Ausflüge könnt ihr als Familie zusammenwachsen, Erinnerungen schaffen und Spaß haben. Wir waren zum Beispiel schon mehrere Tage gemeinsam in Paris – eine Zeit, die wir alle nie vergessen werden.**3. Spiel- und Filmabende:**Organisiert regelmäßige Spiel- und Filmabende, bei denen ihr gemeinsam spielt, lacht und euch entspannt. Jedes Familienmitglied kann abwechselnd einen Film auswählen oder ein Spiel vorschlagen. Diese gemütlichen Abende bieten die Möglichkeit, sich besser kennenzulernen und gemeinsam als Familie Zeit zu verbringen.**4. Sportliche Aktivitäten:**Geht zusammen sportlichen Aktivitäten nach, wie zum Beispiel Fahrradfahren, Wandern oder Schwimmen. Durch Bewegung und gemeinsame Herausforderungen könnt ihr als Familie zusammenwachsen und eine starke Bindung aufbauen. Wir waren beispielsweise schon gemeinsam im Kletterpark – eine tolle Möglichkeit, sich gegenseitig zu helfen und zu motivieren!**5. Familienfeste:**Auch die Teilnahme an Familienfesten oder [Traditionen](/weihnachten-in-der-patchworkfamilie/) ist wichtig, um sich zugehörig zu fühlen. Familienfotos und gemeinsam zelebrierte Höhepunkte wie Sommerfeste oder Geburtstage symbolisieren: “Wir gehören zusammen!”
 

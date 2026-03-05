@@ -6,7 +6,8 @@ date: 2024-12-02
 updated: 2024-11-22
 metaTitle: "Von der besten Freundin zur Bonusmama: Wenn sich alles ändert"
 metaDescription: "Vom Kumpel-Status zur Erziehungsrolle — wie sich die Beziehung zu den Kindern verändert, wenn du die Partnerin wirst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/11/steph_franchess_httpss.mj_.runOJ9fV4mVGXY_httpss.mj_.runoeJHAZm_152454f3-5c42-4b45-b650-29815471838b_1.png"
+image: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich die Bonusmama in der Patchwork-Familie. *Ein Rollenwechsel, der nicht nur für dich, sondern auch für das gesamte Umfeld eine große Herausforderung darstellt.* Auf einmal bist du mit Gerüchten konfrontiert, fühlst dich angegriffen und zweifelst daran, ob du wirklich das Richtige tust.
@@ -30,6 +31,9 @@ Marions Partner stand zwischen den Stühlen – hin- und hergerissen zwischen se
 Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getroffen hatte. War sie wirklich bereit für diese Herausforderung? Konnte sie den Kindern gerecht werden und eine gute Bonusmutter sein? Diese Fragen beschäftigten sie sehr und sie spürte, dass sich etwas ändern musste.
 
 ## marion wünschte sich…
+
+
+![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-2.jpg)
 
 Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie.**Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.**Ihr größtes Ziel war es, eine starke und liebevolle Patchworkfamilie aufzubauen, in der jeder seinen Platz hat und respektiert wird. Sie wollte für die Kinder da sein, eine vertrauensvolle Beziehung zu ihnen aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern wählen müssen, sondern von allen geliebt werden.
 
@@ -60,6 +64,9 @@ Dafür brauchte Marion einen neuen Ansatz, eine Strategie, die ihr helfen würde
 Und was dieser Schlüssel war, erfährst du im nächsten Abschnitt.
 
 ## der schlüssel zum glück
+
+
+![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-3.jpg)
 
 Als Marion erkannte, dass sie alleine nicht weiterkam, beschloss sie, sich professionelle Unterstützung zu suchen. In unserer Zusammenarbeit fand sie heraus, dass der Schlüssel zu einer harmonischen Patchwork-Familie in einem ganzheitlichen Ansatz liegt, der auf drei wirksamen Schritten basiert: Analyse, Veränderungen und Kommunikation.**Im ersten Schritt, der Analyse, nahmen wir Marions Situation genau unter die Lupe.**Wir identifizierten die Hauptprobleme, die zu den Konflikten und Herausforderungen führten. Durch gezielte Fragen und Reflexionsübungen half ich Marion dabei, die Dynamiken in ihrer Patchwork-Familie besser zu verstehen und zu erkennen, welche Rolle sie selbst darin spielte.**Basierend auf den Erkenntnissen aus der Analyse ging es im zweiten Schritt darum, konkrete Veränderungen anzustoßen.**Gemeinsam erarbeiteten wir Strategien, wie Marion ihre Einstellung und ihr Verhalten anpassen konnte, um die Situation zu verbessern. Dazu gehörte beispielsweise, dass sie lernte, sich klar abzugrenzen, ihre eigenen Bedürfnisse ernst zu nehmen und sich auf die positiven Aspekte ihrer neuen Familie zu fokussieren.**Der dritte und entscheidende Schritt lag in der Kommunikation.**Marion lernte, wie sie ihre Gedanken und Gefühle klar und respektvoll ausdrücken konnte. Sie übte, wie sie schwierige Gespräche mit ihrem Partner, den Kindern oder der Kindsmutter führen und dabei trotzdem für sich und ihre Werte einstehen konnte. Durch eine verbesserte Kommunikation gelang es ihr, Missverständnisse auszuräumen, Konflikte zu entschärfen und die Beziehungen innerhalb der Familie zu stärken.
 

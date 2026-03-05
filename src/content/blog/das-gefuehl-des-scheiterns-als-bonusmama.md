@@ -6,7 +6,8 @@ date: 2024-05-31
 updated: 2024-06-15
 metaTitle: "Scheitern als Bonusmama: Wenn nichts mehr zu funktionieren scheint"
 metaDescription: "Du hast das Gefühl, als Bonusmama zu versagen? Warum dieses Scheitern keine Niederlage ist — sondern ein Wendepunkt."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/05/steph_franchess_httpss.mj_.run1fG1SV5uW4I_Create_a_semi-realis_6e7e9ea5-0e59-4cdb-946b-e3dc1b30dc52_1.png"
+image: "/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit ihrer Patchworkfamilie getrennt. Natürlich ist das nicht das Ergebnis, welches wir angestrebt haben, aber es gehört eben auch zum Leben dazu. Manchmal ist es sinnvoller, sich zu trennen, anstatt unglücklich zu bleiben.
@@ -44,11 +45,17 @@ Indem du diese Strategien anwendest, kannst du lernen, deine Selbstzweifel zu ma
 
 ## Der Vergleich mit anderen Familien
 
+
+![Stimmungsbild zum Artikel](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-2.jpg)
+
 Der ständige Vergleich mit anderen Familien kann für Bonusmamas zu einer Quelle von Schmerz und Unsicherheit werden. Stell dir vor, du scrollst durch soziale Medien und siehst all diese perfekt inszenierten Familienfotos – strahlende Gesichter, harmonische Ausflüge, scheinbar mühelose Glücksmomente. Es ist leicht, sich dabei klein und unzulänglich zu fühlen. Doch diese Bilder sind oft nur Momentaufnahmen, die die Realität verzerren.**💖**Anstatt dich entmutigen zu lassen, schaffe deine e**igenen wertvollen Familienrituale**. Denk daran, wie besonders die Abende sind, an denen ihr gemeinsam lacht, selbst wenn das Essen mal nicht perfekt gelingt. Vielleicht könnt ihr einen wöchentlichen Spieleabend einführen, bei dem es nur um Spaß und das Zusammensein geht – ganz ohne Druck.**💖**Fokussiere dich auf die**kleinen, aber bedeutenden Erfolge**in deinem Familienleben. Führt ein „Familien-Erfolgsbuch“, in das ihr gemeinsam schöne Momente und kleine Siege eintragt. Stell dir vor, wie ihr zusammen auf der Couch sitzt und die Einträge durchlest, euch an die Geschichten erinnert und dabei merkt, wie viel ihr schon gemeinsam erreicht habt.**💖**Suche**Kontakt zu anderen Bonusmamas**, die ähnliche Erfahrungen machen. Der Austausch in lokalen Gruppen oder Online-Communities kann ein echter Rettungsanker sein. Stell dir vor, wie erleichternd es ist, mit jemandem sprechen zu können, der wirklich versteht, was du durchmachst. Ihr könnt euch gegenseitig inspirieren und unterstützen, sei es bei der Planung von Wochenenden oder beim Finden von Wegen, um die Beziehung zu den Kindern zu stärken.
 
 Indem du dich auf deine eigene Familie konzentrierst und diese positiven, praxisnahen Strategien umsetzt, kannst du verhindern, dass Vergleiche dein Herz beschweren.**Deine Familie ist einzigartig**, voller eigener Geschichten und Momente, die es zu feiern gilt. Lass dich nicht von fremden Bildern täuschen – das wahre Glück liegt in den Augenblicken, die nur ihr miteinander teilt.
 
 ## WAs tun, wenn es dennoch nicht klappt?
+
+
+![Stimmungsbild zum Artikel](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-3.jpg)
 
 Manchmal, trotz aller Bemühungen und guten Absichten, gehen Patchworkfamilien auseinander. Diese Erfahrung kann tief schmerzhaft und entmutigend sein. Doch auch in dieser schwierigen Zeit gibt es Wege, um mit dem Scheitern umzugehen und Heilung zu finden.**Akzeptanz und Selbstmitgefühl**sind die ersten Schritte. Es ist wichtig, sich selbst gegenüber freundlich zu sein und anzuerkennen, dass das Scheitern einer Familie nicht ausschließlich deine Schuld ist. Jede Familie hat ihre eigenen Herausforderungen, und manchmal sind die Umstände einfach zu komplex, um sie zu überwinden. Erlaube dir, die Trauer und den Verlust zu fühlen, ohne dich selbst zu verurteilen.**Tipp 1:**Erschaffe dir einen sicheren Raum für deine Gefühle. Das kann ein Tagebuch sein, in dem du deine Gedanken und Emotionen frei ausdrückst, oder Gespräche mit vertrauenswürdigen Freunden und Familienmitgliedern. Stell dir vor, wie befreiend es sein kann, deine innersten Gefühle ohne Angst vor Verurteilung zu teilen.**Tipp 2:**Suche professionelle Unterstützung. Ein Therapeut oder ein Coach kann dir helfen, die komplexen Emotionen zu verarbeiten und neue Perspektiven zu entwickeln. In einer solchen Begleitung kannst du lernen, wie du den Schmerz loslassen und wieder nach vorne schauen kannst.**Tipp 3:**Konzentriere dich auf Selbstfürsorge und persönliche Weiterentwicklung. Nutze diese Zeit, um dich selbst besser kennenzulernen und Aktivitäten zu finden, die dir Freude und Erfüllung bringen. Vielleicht entdeckst du ein neues Hobby oder nimmst dir Zeit für Dinge, die du immer mal tun wolltest, aber bisher vernachlässigt hast.**Tipp 4:**Wenn Kinder involviert sind, ist es entscheidend, weiterhin eine stabile und liebevolle Präsenz in ihrem Leben zu bleiben. Kommuniziert offen und ehrlich über die Veränderungen und versichert ihnen, dass eure Liebe zu ihnen unverändert bleibt. Schafft neue, positive Rituale, die das Gefühl von Sicherheit und Kontinuität fördern.**Neuanfang und Perspektive:**Jede Trennung ist auch eine Chance für einen Neuanfang. Versuche, die Erfahrungen als Lernprozess zu sehen, der dich stärker und weiser gemacht hat. Gib dir Zeit, um zu heilen, und sei offen für neue Möglichkeiten und Beziehungen, die dir auf deinem weiteren Lebensweg begegnen.
 

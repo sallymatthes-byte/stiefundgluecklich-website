@@ -5,7 +5,8 @@ category: "kinder-bindung"
 date: 2024-11-21
 metaTitle: "Bonuskind klebt nur am Papa? Was dahintersteckt (+ was hilft)"
 metaDescription: "Dein Bonuskind will nur den Papa und ignoriert dich? Warum das passiert und wie du trotzdem eine Verbindung aufbaust."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/11/steph_franchess_children_and_man_playing_in_the_distance_-ar_78c04aa4-20ee-4f35-b6f3-76204e0cb1c7_2.png"
+image: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
@@ -26,6 +27,9 @@ Ich fragte mich, ob es überhaupt möglich sein würde, eine Beziehung zu den Ki
 Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog ich mich immer weiter zurück. Ich gab dem Gefühl des Ausgeschlossenseins nach und verlor mich in Selbstzweifeln. Es war ein Teufelskreis, den ich durchbrechen musste, um eine Veränderung herbeizuführen.
 
 ## eigentlich wollte ich nur dazugehören
+
+
+![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
 
 In meinem tiefsten Inneren sehnte ich mich danach, von meinen Bonuskindern als wichtige Bezugsperson anerkannt zu werden. Ich wünschte mir, dass sie mich nicht nur als die Partnerin ihres Vaters sahen, sondern als ein vollwertiges Familienmitglied, dem sie vertrauen und zu dem sie eine enge Bindung aufbauen konnten.
 
@@ -52,6 +56,9 @@ Der Weg aus der Sackgasse erforderte Selbstreflexion, Geduld und die Bereitschaf
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
 ## annäherung statt rückzug
+
+
+![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)
 
 Nachdem ich erkannt hatte, dass mein bisheriger Weg nicht funktionierte, beschloss ich, einen neuen Ansatz zu wählen. Anstatt mich zurückzuziehen, wenn die Kinder am Papa klebten, entschied ich mich bewusst dafür, auf sie zuzugehen und mich in die Situation einzubringen.**Dieser Prozess bestand aus drei wichtigen Schritten: Analyse, Veränderungen und Kommunikation.**Zunächst analysierte ich die Situation genauer. Ich versuchte zu verstehen, warum die Kinder so sehr am Papa hingen.*Mir wurde klar, dass es für sie völlig normal war, sich nach der Trennung der Eltern an den vertrauten Elternteil zu klammern.* Sie suchten Sicherheit und Geborgenheit in einer Zeit der Veränderung. Dieses Verständnis half mir, ihre Bedürfnisse besser nachzuvollziehen und mit mehr Mitgefühl zu reagieren.
 

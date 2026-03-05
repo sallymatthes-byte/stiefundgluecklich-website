@@ -6,7 +6,8 @@ date: 2024-06-28
 updated: 2024-06-15
 metaTitle: "Mehrsprachigkeit in der Patchworkfamilie: Chance statt Hindernis"
 metaDescription: "Verschiedene Sprachen in der Patchworkfamilie? Wie ihr Mehrsprachigkeit als Chance nutzt statt als Barriere."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/05/steph_franchess_httpss.mj_.run1fG1SV5uW4I_Create_a_semi-realis_eb2ed55d-8cd0-409c-959a-08fade9e447a_1.png"
+image: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsprache ist Deutsch und mein Partner und ich sprechen miteinander Englisch. Das ist wirklich nicht immer einfach und hat vor allem am Anfang zu vielen Missverständnissen geführt. Darüber habe ich in der 
@@ -21,6 +22,9 @@ Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühst�
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: Ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
 ## Bedeutung der Bonusmutter für die Sprachentwicklung
+
+
+![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-2.jpg)
 
 Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen Einfluss auf die Sprachentwicklung deiner Bonuskinder. Indem du konsequent deine Muttersprache mit ihnen sprichst, schaffst du einen natürlichen Raum für das Erlernen einer weiteren Sprache.
 
@@ -49,6 +53,9 @@ In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/bo
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 
 ## Umgang mit interkulturellen herausforderungen
+
+
+![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-3.jpg)
 
 Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in mehrsprachigen Patchworkfamilien stecken in scheinbar banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei verschiedenen [Erziehungsstilen](/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der richtigen Haltung und ein paar ungewöhnlichen Strategien lassen sich Brücken bauen:
 

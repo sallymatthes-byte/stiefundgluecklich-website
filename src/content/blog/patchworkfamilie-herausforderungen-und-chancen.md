@@ -6,7 +6,8 @@ date: 2023-12-04
 updated: 2024-06-17
 metaTitle: "Patchworkfamilie: Herausforderungen & Chancen auf dem Weg zur Harmonie"
 metaDescription: "Das komplexe Leben einer Patchworkfamilie — warum es unglaublich bereichernd ist und welche Stolpersteine auf dem Weg laufen."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2023/12/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_077fa3bf-e194-499c-a99a-3e3c8ef8ab06_0-1024x512.png"
+image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Als Teil einer Patchworkfamilie kenne ich die *Stolpersteine* nur allzu gut. Mein Partner hat zwei wundervolle Mädchen, die in Frankreich leben und bei uns in den Schulferien leben. Diese Konstellation bringt viele schöne und einzigartige Momente mit sich, aber auch einige Hürden, die es zu überwinden gilt.
@@ -47,6 +48,9 @@ Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. 
 
 ## Ist es das alles wert?
 
+
+![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-2.jpg)
+
 Trotz all dieser Herausforderungen gibt es auch viele Chancen, die das Patchworkleben mit sich bringt. Es ermöglicht uns, verschiedene Perspektiven kennenzulernen und unsere eigene Sichtweise zu erweitern.
 Wir können von den Erfahrungen und dem Wissen anderer Familienmitglieder profitieren und gemeinsam wachsen. Patchworkfamilien können eine Quelle der Unterstützung und des Zusammenhalts sein, in der sich jeder angenommen und geliebt fühlt.
 
@@ -55,6 +59,9 @@ Mein Ziel dabei als Bonusmama ist es, den Kindern ein weiteres Vorbild zu sein: 
 Im nächsten Abschnitt werde ich dir meine Tipps geben, wie du ein harmonisches Patchworkleben gestalten kannst und was uns hilft. Ich werde dir zeigen, wie du die Herausforderungen meistern und die Chancen nutzen kannst, um eine starke und liebevolle Patchworkfamilie aufzubauen.
 
 ## Tipps für ein harmonisches Patchworkleben
+
+
+![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-3.jpg)
 
 Um ein harmonisches Patchworkleben zu gestalten, ist es wichtig, dass alle Familienmitglieder aktiv dazu beitragen. Hier sind einige Tipps, die mir dabei helfen:
 

@@ -6,7 +6,8 @@ date: 2023-12-04
 updated: 2024-06-15
 metaTitle: "Bonusmama & leibliche Mutter: So verbessert ihr eure Beziehung"
 metaDescription: "Ständig Konflikte mit der leiblichen Mutter? 5 Wege, wie Bonusmama und Kindsmutter besser miteinander auskommen."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/04/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_77ac0e67-540d-4ac5-9f86-844bb33b84d3_3.png"
+image: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 “Das hat sie jetzt nicht wirklich getan!”, rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
@@ -35,6 +36,9 @@ Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters 
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
 ## URSACHEN FÜR KONFLIKTE
+
+
+![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
 
 Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre**Ursachen zu verstehen**.
 Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus.
@@ -67,6 +71,9 @@ Ein weiterer wichtiger Punkt ist das Verständnis, dass Konflikte oft Symptome t
 Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte entstehen und wie sie sich auf die gesamte Familie auswirken. Dieses Verständnis ist ein erster Schritt hin zu effektiven Strategien zur Konfliktlösung, die wir im nächsten Abschnitt diskutieren werden.
 
 ## TIPPS ZUR VERBESSERUNG DES VERHÄLTNISSES
+
+
+![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
 
 Wenn wir die zugrundeliegenden Ursachen für Konflikte zwischen Bonusmama und leiblicher Mutter verstehen, können wir effektivere Strategien zur Lösung dieser Konflikte entwickeln.
 

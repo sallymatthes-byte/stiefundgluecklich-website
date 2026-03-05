@@ -6,7 +6,8 @@ date: 2024-06-07
 updated: 2024-06-15
 metaTitle: "Das Eisberg-Modell in der Patchworkfamilie: Konflikte verstehen"
 metaDescription: "Warum Konflikte in Patchworkfamilien tiefer liegen als du denkst. Das Eisberg-Modell zeigt dir, was wirklich los ist."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/05/steph_franchess_httpss.mj_.run1fG1SV5uW4I_Create_a_semi-realis_a71fd3c1-5561-439d-a8a3-87580bf0b1da_2.png"
+image: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das oft verwendet wird, um zu veranschaulichen, dass viele unserer Verhaltensweisen, Reaktionen und Entscheidungen von unbewussten Gedanken, Gefühlen und Motivationen beeinflusst werden, die unter der Oberfläche liegen. Und wir schauen uns heute mal an, wie das Eisberg-Modell einer Patchworkfamilie helfen kann.
@@ -22,6 +23,9 @@ Die Spitze des Eisbergs, die aus dem Wasser ragt, repräsentiert unser bewusstes
 Genau hier liegt die Bedeutung des Eisberg-Modells: Es lädt uns ein, unter die Oberfläche zu blicken und die verborgenen Einflüsse auf unser Verhalten zu ergründen. Indem wir erkennen, was uns unbewusst antreibt, können wir anfangen, bewusster zu kommunizieren und einfühlsamer miteinander umzugehen. Diese Fähigkeit ist gerade in Patchworkfamilien von unschätzbarem Wert, wie wir gleich sehen werden
 
 ## Was bedeutet das für Patchworkfamilien?
+
+
+![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-2.jpg)
 
 Hand aufs Herz: Patchworkfamilien sind nicht immer leicht. Da treffen verschiedene Welten aufeinander, jeder bringt sein eigenes Päckchen mit – und plötzlich kochen die Emotionen hoch, ohne dass wir so recht wissen, warum. Kennst du das? Genau hier kann das Eisberg-Modell uns helfen, tiefer zu blicken und uns gegenseitig besser zu verstehen.
 
@@ -52,6 +56,9 @@ Wenn wir die Eisberg-Perspektive einnehmen, können wir bewusster kommunizieren.
 Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstraktes Konstrukt, sondern ein praktisches Werkzeug für unseren Patchwork-Alltag. Es hilft uns, mit Neugier und Verständnis zu reagieren, anstatt vorschnell zu urteilen. Probier es doch mal aus, wenn bei euch das nächste Mal die Wogen hochschlagen. Ich verspreche dir: Es kann Wunder wirken!
 
 ## Tipps und Fragen für den Patchwork-Alltag
+
+
+![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-3.jpg)
 
 Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es im turbulenten Familienleben um? Hier kommen ein paar praktische Tipps und Fragen, die dir helfen können, den Eisberg-Blick zu schärfen:
 

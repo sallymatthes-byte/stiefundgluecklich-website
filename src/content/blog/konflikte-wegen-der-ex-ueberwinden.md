@@ -6,7 +6,8 @@ date: 2024-12-06
 updated: 2025-04-15
 metaTitle: "Konflikte wegen der Ex: So überwindest du den Dauerstreit"
 metaDescription: "Ständig Streit wegen der Ex-Frau? Wie du als Bonusmama Konflikte löst und endlich Frieden in eure Beziehung bringst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/11/steph_franchess_httpss.mj_.runOJ9fV4mVGXY_httpss.mj_.runoeJHAZm_aa844530-d95a-4f4a-bc8d-80e548faa5d4_3.png"
+image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um die Erziehung der Kinder geht, um Absprachen oder Grenzen – die Verflossene ist immer präsent und sorgt für Ärger. Du fühlst dich zurückgesetzt, nicht wertgeschätzt und ausgeschlossen. Dabei willst du doch eigentlich nur eines: gemeinsam mit deinem Partner eine harmonische Patchwork-Familie sein.
@@ -29,6 +30,9 @@ Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, o
 
 ## yvonne träumte davon…
 
+
+![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
+
 Yvonne hatte einen sehnlichen Wunsch:**Sie wollte endlich zur Ruhe kommen und eine stabile, liebevolle Beziehung zu ihrem Partner aufbauen.**Die ständigen Streitereien mit seiner Ex zerrten nicht nur an ihren Nerven, sondern drohten auch ihre [Partnerschaft zu zerstören](/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert/).
 
 Ihr Verlangen war klar: Sie wollte als Teil der Familie anerkannt werden – mit allen Rechten und Pflichten, die dazugehören. Doch immer wieder sah sie sich mit kurzfristigen Änderungen konfrontiert, fühlte sich ausgebootet, wenn ihr Partner Entscheidungen traf, ohne sie einzubeziehen. Gleichzeitig wollte sie nicht ständig nachgeben müssen, sondern als gleichwertige Partnerin mit ihren eigenen Vorstellungen ernst genommen werden – auch und gerade von der Ex.
@@ -50,6 +54,9 @@ All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einma
 Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
 ## zeit für veränderung**Schritt 1: Analyse – Die Situation mit Abstand betrachten**Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
+
+
+![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
 
 Durch diesen Perspektivwechsel gelang es Yvonne, mehr Klarheit zu gewinnen. Sie erkannte, dass die Streite oft durch mangelnde Absprachen und unterschiedliche Erwartungen entstanden. Und sie sah, dass es letztlich allen Beteiligten um dasselbe ging: respektiert und wertgeschätzt zu werden.**Schritt 2: Veränderung – Alte Muster durchbrechen**Mit diesen Erkenntnissen im Gepäck ging Yvonne den nächsten Schritt: Sie fing an, ihr eigenes Verhalten zu reflektieren. Statt ihrem Partner Vorwürfe zu machen, übte sie sich in Gelassenheit.*In unseren Sitzungen hinterfragte sie ihre eigenen Ansprüche und versuchte, Verständnis für die Perspektive ihres Partners und der Ex zu entwickeln.*
 

@@ -6,7 +6,8 @@ date: 2024-09-13
 updated: 2024-10-04
 metaTitle: "Die Rolle des Ex-Partners: So gehst du damit um"
 metaDescription: "Der Ex ist Teil des Pakets — ob du willst oder nicht. Wie du als Bonusmama einen gesunden Umgang findest."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/09/steph_franchess_httpss.mj_.runo9fcNNP7b4A_Create_a_digital_ill_c4e3599e-36b3-4a4f-9bfb-d08d4942d4d8_0-1024x683.png"
+image: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Wir alle kennen es: es gibt in Patchworkfamilien nicht nur uns und unseren Partner und die Kinder. Es gibt auch immer noch einen Elternteil (egal ob tot oder lebendig), der ein Teil dieser Konstellation ist und eine Rolle spielt. Ob uns das nun gefällt oder nicht.
@@ -47,6 +48,9 @@ Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
 ## Die Bedeutung von expartnerinnen
 
+
+![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
+
 Wenn die Mutter noch lebt, beeinflusst sie viele Aspekte eures Familienalltags. Bei der Planung von Urlaub und Freizeit ist sie zu berücksichtigen, oft teilt sie sich das Sorgerecht und muss sich mit deinem Partner über Erziehungsfragen abstimmen. Die Kinder wechseln zwischen den Haushalten hin und her und bringen die Stimmungen und Erfahrungen von einem Ort zum anderen mit.
 
 Selbst wenn die Mutter verstorben ist, hat sie oft eine große Präsenz in den Gedanken und Gefühlen der Kinder. Sie bleibt ein wichtiger Teil ihrer Identität und Loyalität. Gerade wenn die Kinder nur wenige Erinnerungen oder Anhaltspunkte haben, kann die Bindung besonders intensiv sein. Sie halten an jedem Schnipsel fest, den sie von ihrer Mutter haben.
@@ -71,6 +75,9 @@ Natürlich bedeutet das nicht, dass Unstimmigkeiten mit der Mutter komplett verm
 Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Auseinandersetzungen herauszuhalten. Vermeidet abfällige Bemerkungen, verhandelt strittige Themen, wenn die Kinder nicht dabei sind, und bemüht euch um einen respektvollen, sachlichen Ton. Je besser euch das gelingt, die eigenen Emotionen zu regulieren und konstruktiv zu kommunizieren, desto mehr Sicherheit und Stabilität könnt den Kindern bieten.
 
 ## Parallel parenting
+
+
+![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-3.jpg)
 
 Lass uns ehrlich sein: Nicht immer ist es möglich, eng und harmonisch mit der Expartnerin zusammenzuarbeiten. Wenn eine echte Kooperation nicht funktioniert, gibt es eine Alternative: das sogenannte “Parallel Parenting”.
 

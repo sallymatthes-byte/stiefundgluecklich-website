@@ -6,7 +6,8 @@ date: 2024-09-27
 updated: 2024-09-09
 metaTitle: "Überfordert als Bonusmama? Wenn die Erwartungen dich erdrücken"
 metaDescription: "Alle erwarten alles — und du funktionierst nur noch? Warum Bonusmamas besonders unter Erwartungsdruck stehen und was hilft."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/09/steph_franchess_httpss.mj_.runo9fcNNP7b4A_Create_a_digital_ill_faf349c0-f87b-4f18-9c94-049db55549ba_2.png"
+image: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du diese Gedanken von “Ich sollte”?
@@ -67,6 +68,9 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 
 ## auswirkungen der “ich sollte”- gedanken
 
+
+![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
+
 Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
 
 -
@@ -90,6 +94,9 @@ Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns st
 Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
 ## entfliehe den Erwartungen
+
+
+![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 

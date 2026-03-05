@@ -6,7 +6,8 @@ date: 2024-03-29
 updated: 2024-06-15
 metaTitle: "Urlaub als Patchworkfamilie: Planung ohne Drama"
 metaDescription: "Urlaubsplanung in der Patchworkfamilie — zwischen Umgangsregelung und echtem Erholungswunsch. So klappt es ohne Drama."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2023/12/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_dc2cee56-e9aa-4475-b673-3cb41a93e4f2_2.png"
+image: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Wir sitzen gerade wieder an der Urlaubsplanung. Wann verreisen wir wohin mit den Kindern? Was wollen wir erleben? Welche Bedürfnisse müssen dabei erfüllt werden? Und wie kann ich mir dabei als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/)Auszeiten nehmen? Und muss ich überhaupt mit allen gemeinsam fahren?
@@ -23,6 +24,9 @@ Ein harmonischer Patchwork-Urlaub beginnt damit, dass du die individuellen Bedü
 Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse aller kann der Patchwork-Urlaub für jeden zu einer wertvollen Auszeit werden. Eine Zeit, in der jeder auftanken und schöne Erinnerungen sammeln kann. So stärkt ihr eure Familienbande und schafft Momente, die euch verbinden – auch wenn nicht immer alle gemeinsam verreisen.
 
 ## Ideen für unvergessliche Momente
+
+
+![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-2.jpg)
 
 Gemeinsame Aktivitäten im Urlaub sind eine wunderbare Gelegenheit, um als Patchworkfamilie zusammenzuwachsen und unvergessliche Erinnerungen zu schaffen.
 Wie wäre es mit einem**Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
@@ -45,6 +49,9 @@ Auch im schönsten Familienurlaub kann es Momente geben, in denen dir alles zu v
 Denk daran: Nur wenn du auch gut für dich selbst sorgst, kannst du entspannt für deine Familie da sein. Gönne dir Momente der Ruhe und mach dir bewusst, dass du diese Auszeiten verdient hast. Sie helfen dir, den Urlaub zu genießen und mit neuer Energie für deine Lieben da zu sein.
 
 ## So haltet ihr Erinnerungen lebendig
+
+
+![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-3.jpg)
 
 Auch wenn der Koffer wieder ausgepackt und die Wäsche gewaschen ist, muss der Urlaub nicht vorbei sein.
 Nutze die Zeit danach, um gemeinsam mit deiner Familie in Erinnerungen zu schwelgen und die schönen Momente aufleben zu lassen.*Wie wäre es mit einem gemütlichen Abend, an dem ihr eure Fotos anschaut und euch eure Lieblingsmomente erzählt?* Jeder kann berichten, was ihm besonders gut gefallen hat und was er aus dem Urlaub mitnimmt.

@@ -6,7 +6,8 @@ date: 2024-07-12
 updated: 2024-06-15
 metaTitle: "Veranstaltungen als Bonusmama: Selbstbewusst auftreten"
 metaDescription: "Schulfeste, Geburtstage, Familienfeiern — überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/07/steph_franchess_httpss.mj_.run1fG1SV5uW4I_Create_a_semi-realis_4f4cec9f-a532-4bcf-a223-304aa9fa481a_2-1024x574.png"
+image: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Neulich erzählte mir eine Bonusmama, dass sie eine von den hoch begehrten Eintrittskarten für den Schulanfang ihres Bonuskindes erhalten hat. Sie freute sich wahnsinnig darüber, gleichzeitig fragte sie sich: “Wie werden wir dort auftreten? Ich neben der Ex? Oder ich vielleicht irgendwo allein?”
@@ -32,6 +33,9 @@ Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzuf�
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
 ## So holst du deinen Partner ins Boot
+
+
+![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-2.jpg)
 
 die Kommunikation mit deinem Partner ist der Schlüssel, um dich bei Veranstaltungen sicherer und selbstbewusster zu fühlen. Aber zugegeben, es ist nicht immer leicht, offen über die eigenen Bedürfnisse und Erwartungen zu sprechen.
 
@@ -73,6 +77,9 @@ Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast je
 Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
 
 ## Hand in hand durch herausfordernde Situationen
+
+
+![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
 
 Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltungen unangenehme Situationen entstehen oder Kritik aufkommt. Aber keine Sorge, gemeinsam mit deinem Partner findest du einen Weg, damit umzugehen.
 

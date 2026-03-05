@@ -6,18 +6,25 @@ date: 2024-01-26
 updated: 2025-04-15
 metaTitle: "Erziehungskonflikte in Patchworkfamilien: Wenn Welten aufeinanderprallen"
 metaDescription: "Dein Partner erzieht völlig anders? Warum Erziehungskonflikte in Patchworkfamilien besonders heftig sind — und was hilft."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/01/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_d235e9dc-6a86-42df-9db1-f0979f08d3a1_1.png"
+image: "/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 -
 
 wo genau eure Erziehungskonflikte liegen
 
+
+![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
+
 -
 
 wie du deine Position als Bonusmama stärken kannst
 
 -
+
+
+![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
 
 und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
 

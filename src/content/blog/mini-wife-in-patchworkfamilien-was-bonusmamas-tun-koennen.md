@@ -5,9 +5,16 @@ category: "kinder-bindung"
 date: 2025-05-16
 metaTitle: "Mini-Wife-Syndrom: Wenn seine Tochter eure Beziehung bestimmt"
 metaDescription: "Seine Tochter verhält sich wie die Partnerin? Was hinter dem Mini-Wife-Syndrom steckt und was du als Bonusmama tun kannst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2025/04/steph_franchess_httpss.mj_.runDx6yhbNd2dY_httpss.mj_.runoTK7-eV_bae03c4e-e6dd-4222-b98d-7d8c0fb615a1_2.png"
+image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Mach’s ganz gut,Deine Sally 💛
 
+
+![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
+
 -
+
+
+![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)

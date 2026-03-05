@@ -6,7 +6,8 @@ date: 2024-01-12
 updated: 2024-06-15
 metaTitle: "Zusammenziehen als Patchworkfamilie: So gestaltet ihr euer Zuhause"
 metaDescription: "Eine gemeinsame Wohnung für die Patchworkfamilie? Worauf es ankommt, damit sich alle — auch du — wirklich zu Hause fühlen."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/01/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_f56e2be9-5706-45f9-8fe6-bd179f8a0f44_0.png"
+image: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
@@ -30,6 +31,9 @@ Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem 
 
 ## Welche Faktoren gibt es zu berücksichtigen?**1.**Bedürfnisse aller Beteiligten berücksichtigen
 Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
+
+
+![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
 
 - Was wünscht sich jeder genau von euch?
 
@@ -66,6 +70,9 @@ Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das Leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 
 ## Ängste in der Patchworkfamilie ansprechen
+
+
+![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-3.jpg)
 
 Das Zusammenziehen in einer Patchworkfamilie kann eine [Herausforderung](/patchworkfamilie-herausforderungen-und-chancen/) sein, aber auch eine Chance für persönliches Wachstum und eine stärkere Bindung. Indem wir die Bedürfnisse aller Beteiligten berücksichtigen, eine offene und ehrliche Kommunikation pflegen und Raum für individuelle Bedürfnisse schaffen, können wir ein harmonisches Miteinander erreichen.
 

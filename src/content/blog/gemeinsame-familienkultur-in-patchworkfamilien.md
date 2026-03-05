@@ -6,7 +6,8 @@ date: 2024-09-06
 updated: 2024-08-17
 metaTitle: "Gemeinsame Familienkultur in der Patchworkfamilie aufbauen"
 metaDescription: "Wie ihr als Patchworkfamilie eigene Traditionen, Rituale und eine Kultur schafft, in der sich alle zugehörig fühlen."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/09/steph_franchess_httpss.mj_.runo9fcNNP7b4A_httpss.mj_.runalRB0NA_1418fb71-b304-4cb3-97ed-36b616d72223_0.png"
+image: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Diese Woche hatte mein Partner Geburtstag und das ist immer einer Herausforderung für uns. Ich möchte bereits beim Aufstehen Geschenke auspacken, Konfetti regnen lassen und Kuchen essen. Er möchte davon gar nichts wissen, sondern in Ruhe Kaffee trinken – der Geburtstagskuchen wird in seiner Familie nach dem Abendessen angeschnitten.
@@ -48,6 +49,9 @@ Lass uns nun direkt mal tiefer in die vierte Herausforderung einsteigen.
 
 ## Warum ist dies so eine Herausforderung?
 
+
+![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-2.jpg)
+
 Eine Patchworkfamilie ist wie ein buntes Puzzle aus verschiedenen Teilen, die erst noch zusammengefügt werden müssen. Jeder bringt seine eigene Geschichte, Gewohnheiten und Vorlieben mit. Da ist es nicht verwunderlich, dass es eine große Herausforderung ist, eine gemeinsame Familienkultur zu entwickeln.***Doch warum ist das in Patchworkfamilien schwieriger als in Kernfamilien?***Die Antwort liegt in den bereits bestehenden Bindungen und Loyalitäten. In einer Kernfamilie wachsen Eltern und Kinder Schritt für Schritt zusammen. Sie entwickeln gemeinsam ihre Rituale, Regeln und Werte. Es gibt keine “alte” Familienkulturen, die integriert werden müssen.
 
 In einer Patchworkfamilie dagegen haben Eltern und Kinder bereits eine gemeinsame Geschichte und eingespielte Gewohnheiten.**Die neuen Partner und Geschwister sind zunächst “Fremde”, die in dieses System eintreten.**Sie bringen ihre eigenen Vorstellungen und Prägungen mit.
@@ -76,6 +80,9 @@ Ein respektvoller Umgang miteinander bedeutet auch, Unterschiede auszuhalten und
 *Mit einer Haltung des Respekts und der Wertschätzung können Patchworkfamilien die Vielfalt in ihrer Familie als Stärke erkennen.* Sie lernen voneinander und erweitern ihren Horizont. Und sie erfahren, dass Unterschiede eine Familie nicht spalten müssen, sondern im Gegenteil den Zusammenhalt stärken können.
 
 ## Schritt für Schritt Gemeinsamkeiten finden
+
+
+![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-3.jpg)
 
 Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstellungen von Familienalltag und -kultur mit. Papernow empfiehlt, sich darauf einzustellen und Veränderungen langsam anzugehen. Hier sind zwei konkrete Beispiele, wie das gelingen kann:
 

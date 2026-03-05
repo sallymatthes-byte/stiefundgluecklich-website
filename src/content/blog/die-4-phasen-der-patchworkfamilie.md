@@ -6,7 +6,8 @@ date: 2024-02-23
 updated: 2024-06-15
 metaTitle: "Die 4 Phasen der Patchworkfamilie: In welcher steckst du?"
 metaDescription: "Jede Patchworkfamilie durchläuft 4 Phasen — von der Euphorie bis zur echten Verbundenheit. Finde heraus, wo ihr steht."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/02/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_fea3f97a-1059-4ade-9fc5-35981a16a94d_0.png"
+image: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
@@ -46,6 +47,9 @@ Das erfordert**Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hil
 
 ## Phase 2 – das storming
 
+
+![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-2.jpg)
+
 In der Phase des “Stormings” einer Patchworkfamilie kommen**Konflikte und Spannungen**zum Vorschein. Diese entstehen durch unterschiedliche Erwartungen und Erfahrungen aller Familienmitglieder. Als Bonusmama ist es wichtig, diese Herausforderungen anzuerkennen und aktiv anzugehen, um eine harmonische Atmosphäre in der Familie zu schaffen.
 
 Während dieser Phase kann es zu**unterschiedlichen Meinungen**über [Erziehungsfragen](/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/), Regeln oder den Umgang mit der Ex-Frau kommen. Es ist normal, dass jedes Familienmitglied seine eigenen Vorstellungen und Bedürfnisse hat. Doch anstatt in einen Machtkampf zu geraten, ist es ratsam, nach gemeinsamen Lösungen zu suchen und Kompromisse einzugehen.
@@ -71,6 +75,9 @@ In dieser Phase können wir als Bonusmama auch unsere Rolle als Unterstützerin 
 Die Phase des “Normings” ist entscheidend für den**Aufbau einer stabilen und harmonischen Patchworkfamilie**. Durch die gemeinsame Entwicklung von Regeln, die Akzeptanz und Respekt fördern, sowie durch unsere Unterstützung und Vermittlung können wir als Bonusmama aktiv zur Stabilität und zum Zusammenhalt der Familie beitragen.
 
 ## Phase 4 – das Performing
+
+
+![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-3.jpg)
 
 Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 In dieser Phase haben die Familienmitglieder ihre Rollen gefunden und**arbeiten erfolgreich zusammen,**um gemeinsame Ziele zu erreichen.
 

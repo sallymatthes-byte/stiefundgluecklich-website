@@ -6,7 +6,8 @@ date: 2024-05-24
 updated: 2024-06-15
 metaTitle: "Wenn der Partner zögert: Zusammenziehen, Heiraten, Kinder"
 metaDescription: "Dein Partner will nicht zusammenziehen, heiraten oder ein gemeinsames Kind? Was dahintersteckt und wie du damit umgehst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/05/steph_franchess_annoyed_-ar_32_d7b05607-b2f2-4eea-b75c-faec4d4f9607_0.png"
+image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. “Ich möchte noch nicht [zusammenziehen](/gemeinsame-wohnung-patchworkfamilie/)“, “Ich will nicht noch einmal heiraten” oder “Ich will keine Kinder mehr” sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
@@ -24,6 +25,9 @@ Nicht zuletzt können**unterschiedliche Bedürfnisse und Lebensvorstellungen**de
 All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft wenig mit dir als Person zu tun, sondern entspringen den prägenden Erlebnissen deines Partners. Wenn du versuchst, sein Verhalten zu verstehen, anstatt es als persönliche Ablehnung zu sehen, kannst du leichter Mitgefühl und Geduld entwickeln. Das ist der erste Schritt zu einer liebevollen Lösung für euch beide.
 
 ## Kommunikation ist der Schlüssel
+
+
+![Stimmungsbild zum Artikel](/images/blog/wenn-der-partner-zoegert-2.jpg)
 
 Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: “Mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte.”
 
@@ -55,6 +59,9 @@ Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundene
 Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* erfordert. Sei sanft und nachsichtig mit dir selbst, auch wenn du manchmal in alte Muster zurückfällst. Jeder Moment der Achtsamkeit und Selbstreflexion trägt zu deinem Wachstum bei und bringt dich näher zu deinem wahren, friedvollen Selbst. Vertraue darauf, dass du mit jedem Tag mehr innere Klarheit und Stärke gewinnst.
 
 ## Wachstum durch Herausforderungen
+
+
+![Stimmungsbild zum Artikel](/images/blog/wenn-der-partner-zoegert-3.jpg)
 
 Auch wenn es manchmal schmerzhaft sein kann, von den eigenen Bonuskindern getriggert zu werden, liegt darin auch eine immense Chance für persönliches Wachstum und Transformation. Unsere Bonuskinder sind wie weise Lehrer, die uns immer wieder an unsere Grenzen bringen und uns dadurch helfen, über uns hinauszuwachsen. Jede Herausforderung birgt die Möglichkeit, *Geduld*, *Empathie* und *bedingungslose Liebe* zu entwickeln – Qualitäten, die nicht nur unseren Bonuskindern zugutekommen, sondern auch uns selbst bereichern.
 

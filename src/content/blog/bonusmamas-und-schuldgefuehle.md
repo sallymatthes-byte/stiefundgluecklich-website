@@ -6,7 +6,8 @@ date: 2024-04-12
 updated: 2024-06-15
 metaTitle: "Schuldgefühle als Bonusmama: 7 typische Fallen (+ Auswege)"
 metaDescription: "Du fühlst dich schuldig — für Gefühle, Grenzen oder Wünsche? 7 typische Schuldfallen für Bonusmamas und wie du rauskommst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/04/steph_franchess_httpss.mj_.runK4kmNvf3s14_Create_a_digital_ill_6515be55-d306-4be7-b64b-7c86ebab3750_3.png"
+image: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Ich wünsche mir manchmal, dass es die Kinder nicht gäbe.”
@@ -41,6 +42,9 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 ## Die Entstehung von schuldgefühlen
 
+
+![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
+
 Schuldgefühle sind ein häufiger Begleiter für Stiefmütter. Sie entstehen oft aus dem tiefen Wunsch heraus, alles richtig zu machen und niemandem wehzutun. Doch in der komplexen Dynamik einer Patchworkfamilie ist es nahezu unmöglich, immer allen gerecht zu werden. Konflikte zwischen den Bedürfnissen der Stiefkinder, der eigenen Kinder, des Partners und den eigenen Wünschen führen fast zwangsläufig zu Situationen, in denen man sich schuldig fühlt.
 
 Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere**eigenen Werte**verstoßen haben und motivieren uns, [Verantwortung](/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas Normales und sogar Nützliches.
@@ -49,6 +53,9 @@ Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer daue
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 ## Der Umgang mit der schuld
+
+
+![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
 
 *Zunächst ist es wichtig, sich bewusst zu machen, dass man nicht perfekt sein muss.* Stiefmütter sollten lernen, auch mal Nein zu sagen, sich abzugrenzen und sich Zeit für sich selbst zu nehmen, ohne sich dafür schuldig zu fühlen.
 

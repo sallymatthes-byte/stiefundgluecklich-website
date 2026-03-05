@@ -6,7 +6,8 @@ date: 2024-03-15
 updated: 2024-06-15
 metaTitle: "Trigger in der Patchworkfamilie: So kommst du raus"
 metaDescription: "Bestimmte Situationen triggern dich als Bonusmama jedes Mal? Wie du Triggersituationen erkennst und endlich durchbrichst."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/03/steph_franchess_httpss.mj_.runK4kmNvf3s14_Create_a_digital_ill_e72fd851-f82e-465a-b1dd-cf183ee2056f_0.png"
+image: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Meine älteste Bonustochter kommt gerade in die Pubertät – und viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/Trigger_(Medizin)) mich gerade mehr als sonst. Das heißt, dass diese Situationen eine Reaktion in mir auslösen, die ich sonst nicht kenne.
@@ -28,6 +29,9 @@ Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen 
 
 ## Warum triggern uns bestimmte Situationen?
 
+
+![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
+
 Es liegt oft daran, dass bestimmte Situationen oder Verhaltensweisen**alte Wunden**in uns berühren. Diese Wunden können aus unserer eigenen Vergangenheit stammen oder aus vergangenen Beziehungen. Vielleicht erinnert dich das Verhalten der Ex-Frau an einen früheren Konflikt mit einem Familienmitglied oder an eine schmerzhafte Erfahrung in deiner Kindheit.
 Diese alten Verletzungen liegen wie ein sensibler Nerv in uns und werden durch ähnliche Situationen wieder aktiviert.
 
@@ -42,6 +46,9 @@ Schreibe auf, wann und warum du dich getriggert fühlst. Welche Gedanken und Gef
 Du wirst feststellen, dass du nicht allein mit diesen Triggersituationen bist und dass andere ähnliche Erfahrungen gemacht haben. Das kann dir helfen, deine eigenen Trigger besser zu erkennen und zu verstehen.
 
 ## Wie kann ich reagieren?
+
+
+![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-3.jpg)
 
 Wenn du dich in einer Triggersituation befindest und merkst, dass du gerade getriggert wurdest, ist es wichtig, angemessen zu reagieren.
 

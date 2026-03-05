@@ -6,7 +6,8 @@ date: 2024-04-19
 updated: 2024-06-15
 metaTitle: "Konflikte unter Kindern in der Patchworkfamilie: So hilfst du"
 metaDescription: "Streit zwischen Geschwistern und Bonuskindern? Warum Konflikte in Patchworkfamilien anders sind — und was wirklich hilft."
-image: "https://stiefundgluecklich.de/wp-content/uploads/2024/04/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_2af6dddd-cdec-4c84-9bf8-64b64d1d81ce_2.png"
+image: "/images/blog/konflikte-unter-kindern-1.jpg"
+imageAlt: "Titelbild zum Artikel"
 ---
 
 Konflikte unter Kindern in der Patchworkfamilie können wirklich nervenaufreibend sein.
@@ -27,6 +28,9 @@ Doch wie können wir ihnen helfen, damit umzugehen?
 
 ## So unterstützt du den Prozess
 
+
+![Stimmungsbild zum Artikel](/images/blog/konflikte-unter-kindern-2.jpg)
+
 Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können:**1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.**Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die Macht der Ich-Botschaften, um Streit zu entschärfen.**Statt “Du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” Diese Formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [Ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**in denen die Kinder sich näherkommen können.
 Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas erleben und die schönen Seiten einer großen Familie spüren. “Weißt du noch, wie wir neulich im Wald den riesigen Baum entdeckt haben?”, könnte Ben seine Schwester fragen und schon ist da wieder diese besondere Erinnerung, die verbindet.
 
@@ -35,6 +39,9 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 
 
 ## Ein Wochenplan als Lösung
+
+
+![Stimmungsbild zum Artikel](/images/blog/konflikte-unter-kindern-3.jpg)
 
 Ein Wochenplan kann ein wertvolles Instrument sein, um Geschwisterrivalität in Patchworkfamilien zu entschärfen.
 Setze dich mit allen Familienmitgliedern zusammen und gestaltet gemeinsam einen Plan, der die Bedürfnisse und Wünsche jedes Einzelnen berücksichtigt.
