@@ -19,17 +19,17 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
--**Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.**- Der neue Partner fühlt sich oft[ausgeschlossen](/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+-**Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.**- Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 
 -**Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.**- Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 
-- Sie fühlen sich [hin- und hergerissen](/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
+- Sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
--**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/unterschiedliche-erziehungsmethoden/)und -vorstellungen haben.
+-**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/)und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 

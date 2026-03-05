@@ -37,7 +37,7 @@ Heute gibt es viele Gründe, warum sich Familien verändern: Trennung, Scheidung
 Wenn ein neuer Partner hinzukommt, ist die Situation eine andere als früher. Trotzdem haftet dem Wort “Stiefmutter” oft noch etwas Negatives an, durch Märchen wie Schneewittchen oder Aschenputtel.
 Wir müssen mittlerweile niemanden ersetzen und dieser Anspruch besteht in den meisten Fällen auch nicht.
 
-Doch das Finden in diese [Rollen](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) ist immer noch herausfordernd. Möglicherweise wollte der Stiefelternteil keine eigenen Kinder und sieht sich nun mit den Kindern des Partners/ der Partnerin konfrontiert. (So wie bei mir.)
+Doch das Finden in diese [Rollen](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) ist immer noch herausfordernd. Möglicherweise wollte der Stiefelternteil keine eigenen Kinder und sieht sich nun mit den Kindern des Partners/ der Partnerin konfrontiert. (So wie bei mir.)
 Oder man zieht zu der bestehenden Familie und fragt sich: “Wo ist mein Platz in dieser Konstellation?” und ist auf der Suche nach einer gemeinsamen Neuausrichtung des Familienmodells.
 
 In vielen Fällen kommen auch die eigenen Kinder mit dazu und dann gilt es nicht nur sich selbst in die neue Aufstellung einzufinden, sondern auch die Kinder miteinander zu verknüpfen. Und auch die gemeinsam verbrachte Zeit gestaltet sich unterschiedlich: je nach Aufteilung des Sorgerechts und der Wohnorte. (Bei uns beispielsweise kommt erschwerend hinzu, dass die Kinder in Frankreich leben und eine andere Sprache sprechen)

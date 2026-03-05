@@ -32,7 +32,7 @@ Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligun
 
 ![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-2.jpg)
 
-Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
+Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
 
 Diese Gefühle sind absolut verständlich und menschlich.**Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.**Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
 
@@ -55,7 +55,7 @@ Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien ka
 
 - Welche Ausgaben kommen speziell für die Kinder dazu?
 
-Sei ehrlich zu dir selbst und deinem Partner, wenn es um deine eigenen Bedürfnisse und Wünsche geht. Nur wenn du klar kommunizierst, was dir wichtig ist, kann dein Partner dich auch verstehen und unterstützen. Gleichzeitig ist es wichtig, auch offen für die [Perspektive](/aktives-zuhoeren-in-der-patchworkfamilie/) des anderen zu sein.
+Sei ehrlich zu dir selbst und deinem Partner, wenn es um deine eigenen Bedürfnisse und Wünsche geht. Nur wenn du klar kommunizierst, was dir wichtig ist, kann dein Partner dich auch verstehen und unterstützen. Gleichzeitig ist es wichtig, auch offen für die [Perspektive](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) des anderen zu sein.
 
 Gemeinsam könnt ihr Strategien entwickeln, wie ihr die finanzielle Situation meistert:
 
@@ -88,7 +88,7 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 
 - 💎 dir kleine Extras gönnen, ohne ein schlechtes Gewissen zu haben
 
-- 💎 eine finanzielle Rücklage für Notfälle aufbauen**Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.**Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/bonusmamas-und-schuldgefuehle/) anderer dreht.
+- 💎 eine finanzielle Rücklage für Notfälle aufbauen**Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.**Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
 
 Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 

@@ -41,7 +41,7 @@ Es gibt drei unbewusste Dynamiken, die dazu führen, dass du dich in deiner Bezi
 
 Du hast das Problem erkannt. Du fühlst dich unsichtbar und möchtest wieder als Partnerin wahrgenommen werden. Doch warum ist es so schwer, das zu ändern? Warum fällt es dir schwer, das Gespräch mit deinem Partner zu führen oder aktiv etwas zu verändern?
 
-Ein Grund ist, dass du dich vielleicht fragst, ob du überhaupt das [Recht](/die-10-rechte-der-stiefmuetter/) hast, etwas einzufordern. Die Kinder waren schon vor dir da, und du möchtest nicht den Eindruck erwecken, als würdest du mit ihnen konkurrieren. Vielleicht hast du Angst davor, als egoistisch wahrgenommen zu werden, wenn du dir mehr Aufmerksamkeit von deinem Partner wünschst.
+Ein Grund ist, dass du dich vielleicht fragst, ob du überhaupt das [Recht](/blog/die-10-rechte-der-stiefmuetter/) hast, etwas einzufordern. Die Kinder waren schon vor dir da, und du möchtest nicht den Eindruck erwecken, als würdest du mit ihnen konkurrieren. Vielleicht hast du Angst davor, als egoistisch wahrgenommen zu werden, wenn du dir mehr Aufmerksamkeit von deinem Partner wünschst.
 
 Dazu kommt oft eine tiefe Unsicherheit: Was, wenn mein Partner mich nicht versteht? Was, wenn er meine Gefühle abtut und sagt: „Aber es sind doch meine Kinder, das musst du akzeptieren.“ Diese Angst vor Ablehnung oder Unverständnis hält viele Bonusmamas davon ab, ihr Bedürfnis nach Zweisamkeit offen zu kommunizieren.
 
@@ -67,7 +67,7 @@ Frag dich selbst:
 
 🔹 Tipp: Schreibe dir konkrete Situationen auf, in denen du dich unsichtbar fühlst. So kannst du sie später deinem Partner leichter erklären.
 
-👉 Beispiel: „Ich fühle mich unsichtbar, wenn wir gemeinsam essen und du nur mit den Kindern sprichst. Ich würde mir wünschen, dass wir uns auch als Paar austauschen.“
+> Beispiel: „Ich fühle mich unsichtbar, wenn wir gemeinsam essen und du nur mit den Kindern sprichst. Ich würde mir wünschen, dass wir uns auch als Paar austauschen.“
 
 Erst wenn du diese Klarheit für dich hast, kannst du wirklich etwas verändern.
 
@@ -88,7 +88,7 @@ Familienzeit ist nicht gleich Paarzeit! Plant bewusst Zeit nur für euch – ohn
 
 Manchmal sind es die kleinen Dinge, die den größten Unterschied machen. Eine bewusste Umarmung am Morgen, ein liebevoller Blick oder eine kurze Sprachnachricht zwischendurch können Wunder wirken.
 
-💡 Idee: Fangt den Tag mit einer positiven Frage an: „Worauf freust du dich heute?“ – das schafft Verbindung, ohne viel Aufwand.
+> Idee: Fangt den Tag mit einer positiven Frage an: „Worauf freust du dich heute?“ – das schafft Verbindung, ohne viel Aufwand.
 
 ## 3️⃣ Gemeinsame Momente auch MIT den Kindern anders gestalten
 
@@ -97,7 +97,7 @@ Manchmal sind es die kleinen Dinge, die den größten Unterschied machen. Eine b
 
 Wenn du dich ausgeschlossen fühlst, weil dein Partner nur auf die Kinder fokussiert ist, dann versuche, bewusst Teil dieser Momente zu werden.
 
-👉 Beispiel: Statt nur daneben zu sitzen, wenn dein Partner mit den Kindern spielt, frag aktiv nach, wie du einbezogen werden kannst. Manchmal hilft es schon, bewusst mitzulachen oder sich an einem gemeinsamen Spiel zu beteiligen.
+> Beispiel: Statt nur daneben zu sitzen, wenn dein Partner mit den Kindern spielt, frag aktiv nach, wie du einbezogen werden kannst. Manchmal hilft es schon, bewusst mitzulachen oder sich an einem gemeinsamen Spiel zu beteiligen.
 
 Wichtig: Der Wandel beginnt mit kleinen Schritten. Erwarte keine sofortige Veränderung – aber bleib dran!
 
@@ -111,7 +111,7 @@ Jetzt kommt der wichtigste Teil: das Gespräch mit deinem Partner. Und hier lieg
 
 ✅ Bessere Strategie:✔ „Ich merke, dass mir unsere gemeinsame Zeit fehlt. Ich wünsche mir, dass wir bewusst mehr Momente zu zweit einplanen.“✔ „Mir ist unsere Beziehung sehr wichtig. Wie können wir beide es schaffen, trotz des Familienalltags unsere Verbindung zu stärken?“
 
-👉 Der Schlüssel ist, nicht aus einer Erwartungshaltung heraus zu sprechen, sondern deinen Partner in die Lösung mit einzubeziehen.
+> Der Schlüssel ist, nicht aus einer Erwartungshaltung heraus zu sprechen, sondern deinen Partner in die Lösung mit einzubeziehen.
 
 Wenn du das Gefühl hast, dein Partner versteht dich nicht oder blockt ab, dann sei geduldig. Viele reagieren erst mal defensiv, weil sie sich angegriffen fühlen. Bleib ruhig und mache deutlich, dass es nicht um Vorwürfe geht, sondern darum, gemeinsam eure Beziehung zu stärken.
 
@@ -127,7 +127,7 @@ In unserem 60-minütigen Gespräch:
 
 ✅ Schauen wir uns deine aktuelle Situation genau an – Was sind die Muster, die dich immer wieder ins Abseits drängen?✅ Identifizieren wir deine größten Herausforderungen – und warum du dich in bestimmten Momenten so unsichtbar fühlst.✅ Entwickeln wir erste konkrete Schritte – die du sofort umsetzen kannst, um dich wieder als Partnerin wahrgenommen zu fühlen.✅ Prüfen wir, ob eine längerfristige Zusammenarbeit für dich sinnvoll wäre – damit du nicht nur kurzfristige Lösungen findest, sondern langfristig mehr Harmonie und Klarheit gewinnst.
 
-💡 Denk daran: Die wichtigste Frage ist nicht, warum du dich unsichtbar fühlst – sondern wie du deine Position aktiv gestalten kannst, ohne Schuldgefühle und Konflikte.
+> Denk daran: Die wichtigste Frage ist nicht, warum du dich unsichtbar fühlst – sondern wie du deine Position aktiv gestalten kannst, ohne Schuldgefühle und Konflikte.
 
 Ich weiß, wie herausfordernd es ist, seinen Platz in einer Patchworkfamilie zu finden. Aber du musst diese Reise nicht allein gehen. Ich begleite dich dabei, deine Beziehung zu stärken, ohne dass du das Gefühl hast, immer nur Zuschauerin zu sein.
 
@@ -135,15 +135,11 @@ Ich weiß, wie herausfordernd es ist, seinen Platz in einer Patchworkfamilie zu 
 
 PS: Vielleicht zögerst du noch, diesen Schritt zu gehen…
 
-Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr – nicht nur als „die Erwachsene, die eben auch da ist“, sondern als seine wichtigste Verbündete.
+Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/blog/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr – nicht nur als „die Erwachsene, die eben auch da ist“, sondern als seine wichtigste Verbündete.
 
 Wie würde es sich anfühlen, wenn du dich nicht mehr fragst, „Bin ich hier eigentlich noch wichtig?“, sondern genau wüsstest, dass dein Platz in der Familie sicher ist – unabhängig davon, ob die Kinder da sind oder nicht?
 
 Diese Veränderung ist möglich. Und du musst sie nicht alleine schaffen.
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)
 - [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

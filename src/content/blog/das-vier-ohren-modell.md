@@ -21,7 +21,7 @@ Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](
 
 Ich erinnere mich noch genau an den Moment, als mir die Bedeutung des 4-Ohren-Modells klar wurde. Mein Partner und ich waren mitten im Alltag mit seinen zwei Töchtern. Während wir uns ums Frühstück und die Hausaufgaben kümmerten, sagte ich beiläufig: “Die Kinder müssen heute noch ihre Haare waschen.”
 
-Die Reaktion meines Partners kam unerwartet: “Was soll ich denn noch alles im Blick behalten?” Ich war verblüfft. Für mich war es eine simple Information gewesen, doch er fühlte sich offenbar angegriffen. Eine [heftige Diskussion](/unterschiedliche-erziehungsmethoden/) entbrannte darüber, wer für die Haarpflege der Kinder zuständig sei und was wir voneinander erwarten könnten.
+Die Reaktion meines Partners kam unerwartet: “Was soll ich denn noch alles im Blick behalten?” Ich war verblüfft. Für mich war es eine simple Information gewesen, doch er fühlte sich offenbar angegriffen. Eine [heftige Diskussion](/blog/unterschiedliche-erziehungsmethoden/) entbrannte darüber, wer für die Haarpflege der Kinder zuständig sei und was wir voneinander erwarten könnten.
 
 Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen können.** Ein harmloser Satz hatte ausgereicht, um einen Konflikt auszulösen.** Doch warum? Die Antwort fand ich im 4-Ohren-Modell von Friedemann Schulz von Thun.
 
@@ -96,7 +96,5 @@ Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedl
 Das 4-Ohren-Modell ist ein wertvolles Werkzeug, um Missverständnisse in der Kommunikation zu vermeiden und Beziehungen zu stärken. Indem wir lernen, Botschaften auf vier Ebenen wahrzunehmen und zu senden – *Sachinhalt, Selbstoffenbarung, Beziehung und Appell* – können wir klarer und achtsamer miteinander kommunizieren. Durch Selbstreflexion, bewusstes Formulieren und gemeinsames Anwenden des Modells lassen sich Konflikte entschärfen und eine tiefere Verbindung zueinander aufbauen. Auch wenn es Übung erfordert, lohnt sich der Einsatz des 4-Ohren-Modells, um mehr Harmonie und Verständnis in Partnerschaften zu bringen.
 
 Bist du bereit, deine Kommunikation und Beziehung auf ein neues Level zu heben? Dann ist mein 3-Schritte-Coaching-Programm genau das Richtige für dich! In diesem intensiven 1:1-Coaching arbeiten wir unter anderem gezielt daran, das 4-Ohren-Modell für deine individuellen Bedürfnisse und Herausforderungen anzupassen.
-Mach’s ganz gut,
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

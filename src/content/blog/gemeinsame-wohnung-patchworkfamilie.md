@@ -15,7 +15,7 @@ Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist imme
 Er ist damals also sofort bei mir eingezogen – in meine 35qm große Einzimmerwohnung. Die Frage, wer wann wo bei wem einzieht, stellte sich für unsere Patchworkfamilie aufgrund unserer Entfernung daher erst einmal nicht.
 Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb also nur die Option, dass er zu mir kommt. Und ob wir langfristig zusammenbleiben wollten, mussten wir auch erst einmal herausfinden. Von gemeinsamer Wohnung war da also noch nicht die Rede.
 
-Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) um?
+Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.
 
 ## Wann sollte man zusammenziehen?
@@ -74,9 +74,9 @@ Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehe
 
 ![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-3.jpg)
 
-Das Zusammenziehen in einer Patchworkfamilie kann eine [Herausforderung](/patchworkfamilie-herausforderungen-und-chancen/) sein, aber auch eine Chance für persönliches Wachstum und eine stärkere Bindung. Indem wir die Bedürfnisse aller Beteiligten berücksichtigen, eine offene und ehrliche Kommunikation pflegen und Raum für individuelle Bedürfnisse schaffen, können wir ein harmonisches Miteinander erreichen.
+Das Zusammenziehen in einer Patchworkfamilie kann eine [Herausforderung](/blog/patchworkfamilie-herausforderungen-und-chancen/) sein, aber auch eine Chance für persönliches Wachstum und eine stärkere Bindung. Indem wir die Bedürfnisse aller Beteiligten berücksichtigen, eine offene und ehrliche Kommunikation pflegen und Raum für individuelle Bedürfnisse schaffen, können wir ein harmonisches Miteinander erreichen.
 
-Du darfst deine eigenen Gefühle und Bedenken ansprechen und dich aktiv in die Gestaltung der gemeinsamen Wohnung und des Familienlebens einzubringen. Denn letztendlich geht es darum, eine sichere Bindung in der Patchworkfamilie aufzubauen und ein harmonisches Patchworkfamilienleben zu führen, in dem du dich als Bonusmama wohlfühlst und deine [Rolle](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) mit Freude und Selbstvertrauen ausfüllen kannst.
+Du darfst deine eigenen Gefühle und Bedenken ansprechen und dich aktiv in die Gestaltung der gemeinsamen Wohnung und des Familienlebens einzubringen. Denn letztendlich geht es darum, eine sichere Bindung in der Patchworkfamilie aufzubauen und ein harmonisches Patchworkfamilienleben zu führen, in dem du dich als Bonusmama wohlfühlst und deine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) mit Freude und Selbstvertrauen ausfüllen kannst.
 
 ## Zusammenfassung
 Beim Zusammenziehen ist es wichtig, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine offene Kommunikation zu pflegen. Eine sorgfältige Planung und Vorbereitung sind von großer Bedeutung, um den Übergang reibungslos zu gestalten.

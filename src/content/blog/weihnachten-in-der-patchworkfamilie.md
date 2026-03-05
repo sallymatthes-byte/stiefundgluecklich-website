@@ -76,7 +76,7 @@ Eine weitere schöne Idee ist es, sich gemeinsam Geschichten zu erzählen. Jedes
 Diese Rituale sind nur einige Beispiele dafür, wie ihr als Patchworkfamilie eure eigenen, kreativen und harmonischen Weihnachtstraditionen etablieren könnt. Wichtig ist, dass sich alle Familienmitglieder gehört und eingebunden fühlen. Indem ihr die vielfältigen Hintergründe und [Traditionen](https://www.paarzeit.de/3-mikroabenteuer-fuer-paare-im-alltag/) jedes Einzelnen wertschätzt und in euer gemeinsames Fest integriert, schafft ihr eine harmonische Atmosphäre voller Liebe und Zusammenhalt.
 
 ## Zusammenfassung
-Weihnachten kann absolut herausfordernd sein: sowohl organisatorisch als auch emotional gesehen. Diese [Herausforderungen](/patchworkfamilie-herausforderungen-und-chancen/) anzuerkennen ist der erste wichtige Schritt in ein harmonisches Weihnachtsfest.
+Weihnachten kann absolut herausfordernd sein: sowohl organisatorisch als auch emotional gesehen. Diese [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) anzuerkennen ist der erste wichtige Schritt in ein harmonisches Weihnachtsfest.
 Das Einnehmen von anderen Blickwinkeln, eine transparente Kommunikation sowie eigene Rituale können das Fest aber zu etwas ganz Besonderem werden lassen.
 
 Ich wünsche dir eine besinnliche Vorweihnachtszeit und ein harmonisches Fest im Kreise deiner Lieben!

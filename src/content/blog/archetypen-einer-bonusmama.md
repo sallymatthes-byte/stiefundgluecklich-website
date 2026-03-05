@@ -13,6 +13,4 @@ imageAlt: "Titelbild zum Artikel"
 ![Stimmungsbild zum Artikel](/images/blog/archetypen-einer-bonusmama-2.jpg)
 
 
-
 ![Stimmungsbild zum Artikel](/images/blog/archetypen-einer-bonusmama-3.jpg)
-

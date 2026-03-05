@@ -11,7 +11,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
-Diese Phasen gibt es auch in der Patchworkfamilie. Ich bin der Meinung, dass du als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) alle 4 Phasen durchlaufen wirst und in jeder Phase gibt es einiges zu beachten.
+Diese Phasen gibt es auch in der Patchworkfamilie. Ich bin der Meinung, dass du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) alle 4 Phasen durchlaufen wirst und in jeder Phase gibt es einiges zu beachten.
 
 Doch lass uns mal von vorn beginnen. Welche 4 Phasen gibt es eigentlich?
 
@@ -52,7 +52,7 @@ Das erfordert**Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hil
 
 In der Phase des “Stormings” einer Patchworkfamilie kommen**Konflikte und Spannungen**zum Vorschein. Diese entstehen durch unterschiedliche Erwartungen und Erfahrungen aller Familienmitglieder. Als Bonusmama ist es wichtig, diese Herausforderungen anzuerkennen und aktiv anzugehen, um eine harmonische Atmosphäre in der Familie zu schaffen.
 
-Während dieser Phase kann es zu**unterschiedlichen Meinungen**über [Erziehungsfragen](/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/), Regeln oder den Umgang mit der Ex-Frau kommen. Es ist normal, dass jedes Familienmitglied seine eigenen Vorstellungen und Bedürfnisse hat. Doch anstatt in einen Machtkampf zu geraten, ist es ratsam, nach gemeinsamen Lösungen zu suchen und Kompromisse einzugehen.
+Während dieser Phase kann es zu**unterschiedlichen Meinungen**über [Erziehungsfragen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/), Regeln oder den Umgang mit der Ex-Frau kommen. Es ist normal, dass jedes Familienmitglied seine eigenen Vorstellungen und Bedürfnisse hat. Doch anstatt in einen Machtkampf zu geraten, ist es ratsam, nach gemeinsamen Lösungen zu suchen und Kompromisse einzugehen.
 
 Ein Beispiel aus meiner eigenen Erfahrung ist, als es zu Unstimmigkeiten zwischen mir und meinem Partner bezüglich der Ernährung der Kinder kam. Ich hatte eine strengere Herangehensweise, während er eher nachsichtig war. Dies führte zu Konflikten und Uneinigkeit darüber, wie wir mit bestimmten Situationen umgehen sollten.
 
@@ -83,7 +83,7 @@ Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut fu
 
 In dieser Phase können wir als Bonusmama unsere Unterstützung und Wertschätzung für die Leistungen und Bemühungen aller Familienmitglieder zum Ausdruck bringen. Indem wir ihnen zeigen, dass wir ihre Beiträge anerkennen und schätzen, stärken wir den Zusammenhalt und motivieren sie weiterhin, ihr Bestes zu geben.
 
-In der Phase des “Performings” können wir als Bonusmama auch dazu beitragen, dass die gemeinsamen Ziele der Familie weiterhin im Fokus bleiben. Indem wir regelmäßige**Familienbesprechungen**abhalten und über unsere Wünsche, Träume und Pläne sprechen, schaffen wir eine gemeinsame [Vision](/visionboard-in-der-patchworkfamilie/) für die Zukunft. Diese gemeinsamen Ziele können dazu beitragen, dass die Familie weiterhin zusammenarbeitet und sich gegenseitig unterstützt, um sie zu erreichen.
+In der Phase des “Performings” können wir als Bonusmama auch dazu beitragen, dass die gemeinsamen Ziele der Familie weiterhin im Fokus bleiben. Indem wir regelmäßige**Familienbesprechungen**abhalten und über unsere Wünsche, Träume und Pläne sprechen, schaffen wir eine gemeinsame [Vision](/blog/visionboard-in-der-patchworkfamilie/) für die Zukunft. Diese gemeinsamen Ziele können dazu beitragen, dass die Familie weiterhin zusammenarbeitet und sich gegenseitig unterstützt, um sie zu erreichen.
 
 Es ist wichtig, in dieser Phase als Bonusmama auch Raum für individuelle Bedürfnisse und Interessen zu lassen. Jedes Familienmitglied sollte die Möglichkeit haben, seine eigenen Ziele zu verfolgen und seine Leidenschaften auszuleben.
 

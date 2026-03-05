@@ -10,7 +10,7 @@ image: "/images/blog/bleiben-oder-gehen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Neulich erzählte mir eine [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das Leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
+Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das Leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
 
 Und ganz ehrlich? Ich kenne diese Gedanken auch.
 Am Anfang unserer Beziehung überwog das Verliebt-Sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
@@ -23,7 +23,7 @@ Da ist zum Beispiel die Situation, in der du versuchst, eine harmonische Beziehu
 
 Oder wenn du versuchst, dich in die Erziehung einzubringen, aber immer wieder auf Widerstand stößt. Eigentlich würdest du es ja ganz anders machen, wenn die Kinder deine eigenen wären. Die Frustration und Hilflosigkeit, nicht zu wissen, wie du dich einbringen kannst und gleichzeitig den Frieden bewahrst, sind überwältigend.
 
-Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner und den Kindern hin- und hergerissen fühlst. Die ambivalenten Gefühle von Liebe und Verantwortung, aber auch von Eifersucht und Unsicherheit, lassen dich manchmal verzweifeln. Dass du gefühlt immer hinter den Kindern zurückstecken musst, nagt auch an dir. Und [Zeit füreinander](/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) findet ihr schon gar nicht.
+Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner und den Kindern hin- und hergerissen fühlst. Die ambivalenten Gefühle von Liebe und Verantwortung, aber auch von Eifersucht und Unsicherheit, lassen dich manchmal verzweifeln. Dass du gefühlt immer hinter den Kindern zurückstecken musst, nagt auch an dir. Und [Zeit füreinander](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) findet ihr schon gar nicht.
 
 Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre.  Kennst du das auch?
 
@@ -41,7 +41,7 @@ Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die
 Und möglicherweise beginnen sich dann deine Gedanken zu verändern. Du freust dich nicht mehr auf die Kinder, weil du weißt, dass eure Harmonie verfliegen wird.
 Du bist vielleicht gereizt, wenn die Kinder da sind.
 Oder du ziehst dich mehr zurück, versuchst mehr Zeit außerhalb der Familie zu verbringen.
-Damit distanzierst du dich von den Kindern, ihr seid nicht mehr verbunden, teilt kaum noch schöne Momente. Ihr [streitet](/bonuskinder-und-konflikte/) mehr und irgendwie können es dir die Kinder nicht recht machen.
+Damit distanzierst du dich von den Kindern, ihr seid nicht mehr verbunden, teilt kaum noch schöne Momente. Ihr [streitet](/blog/bonuskinder-und-konflikte/) mehr und irgendwie können es dir die Kinder nicht recht machen.
 Das führt letztendlich dazu, dass du dich in deinem zu Hause nur zu Gast fühlst, wenn die Kinder da sind. Du hast das Gefühl, kein Teil der Familie zu sein.
 
 > “*An den Scheidewegen des Lebens stehen keine Wegweiser.*”

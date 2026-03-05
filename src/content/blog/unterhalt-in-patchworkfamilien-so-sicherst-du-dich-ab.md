@@ -127,7 +127,7 @@ Aber: Du hast das Recht, deine finanzielle Situation aktiv mitzugestalten!
 
 Vielleicht hast du dich bisher aus den finanziellen Angelegenheiten deines Partners herausgehalten. Doch sobald du merkst, dass die finanzielle Belastung eurer Beziehung schadet oder du dich unfair behandelt fühlst, wird klar: Das ist auch dein Thema. Doch wie kannst du sicherstellen, dass ihr eine faire Lösung findet – ohne Streit, ohne Schuldgefühle und ohne das Gefühl, dich selbst zurücknehmen zu müssen?
 
-Der erste und wichtigste Schritt ist, Klarheit über die aktuelle [finanzielle Situation](/finanzielle-beteiligung/) zu bekommen. Es reicht nicht aus zu wissen, dass dein Partner Unterhalt zahlt – du musst verstehen, wie diese Zahlungen eure gemeinsamen Finanzen beeinflussen. Setzt euch zusammen und macht eine ehrliche Bestandsaufnahme: Wie hoch sind die monatlichen Fixkosten? Welche Summen gehen für Unterhalt und andere Verpflichtungen weg? Wie wird das verbleibende Einkommen zwischen euch aufgeteilt? Viele Patchworkpaare haben hier keine klare Übersicht und leben von Monat zu Monat, ohne zu wissen, wo das Geld eigentlich bleibt. Doch ohne eine solide Grundlage lassen sich keine fairen Lösungen finden.
+Der erste und wichtigste Schritt ist, Klarheit über die aktuelle [finanzielle Situation](/blog/finanzielle-beteiligung/) zu bekommen. Es reicht nicht aus zu wissen, dass dein Partner Unterhalt zahlt – du musst verstehen, wie diese Zahlungen eure gemeinsamen Finanzen beeinflussen. Setzt euch zusammen und macht eine ehrliche Bestandsaufnahme: Wie hoch sind die monatlichen Fixkosten? Welche Summen gehen für Unterhalt und andere Verpflichtungen weg? Wie wird das verbleibende Einkommen zwischen euch aufgeteilt? Viele Patchworkpaare haben hier keine klare Übersicht und leben von Monat zu Monat, ohne zu wissen, wo das Geld eigentlich bleibt. Doch ohne eine solide Grundlage lassen sich keine fairen Lösungen finden.
 
 Sobald ihr diese Klarheit geschaffen habt, geht es darum, neue Lösungen zu entwickeln, die für euch beide funktionieren. Viele Paare machen den Fehler, einfach alles „halbe-halbe“ zu teilen – doch wenn einer von euch hohe Unterhaltsverpflichtungen hat, kann das schnell unfair werden. Vielleicht verdient dein Partner mehr als du, hat aber durch den Unterhalt kaum Spielraum. Vielleicht bist du es, die die alltäglichen Kosten für Essen, Freizeitaktivitäten oder kleinere Anschaffungen deckt, während sein Gehalt zum großen Teil direkt weitergeleitet wird. Um eine faire Balance zu finden, solltet ihr eine individuelle Aufteilung wählen, die euer Einkommen, eure Ausgaben und eure jeweiligen finanziellen Verpflichtungen berücksichtigt. Vielleicht macht ein gemeinsames Haushaltskonto Sinn, auf das ihr beide anteilig einzahlt. Vielleicht braucht ihr eine neue Regelung, wer welche Kosten übernimmt, damit ihr beide finanziell atmen könnt.
 
@@ -145,7 +145,7 @@ Vielleicht fragst du dich:
 
 📞 In unserem 60-minütigen Gespräch:✅ Schauen wir uns deine aktuelle Situation genau an.✅ Identifizieren wir die größten Herausforderungen.✅ Erarbeiten wir erste konkrete Schritte, die du sofort umsetzen kannst.
 
-💡 Die wichtigste Frage ist nicht, wie hoch der Unterhalt ist – sondern wie ihr als Paar eure Finanzen fair regelt.
+> Die wichtigste Frage ist nicht, wie hoch der Unterhalt ist – sondern wie ihr als Paar eure Finanzen fair regelt.
 
 [Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
 
@@ -154,10 +154,6 @@ PS: Vielleicht zögerst du noch, diesen Schritt zu gehen…
 Doch stell dir vor, wie es sich anfühlen würde, finanzielle Sicherheit zu haben, ohne dass du dich benachteiligt fühlst. Stell dir vor, du wüsstest genau, wo du stehst – und wie du deinen Platz in der Patchwork-Familie gestaltest, ohne dabei auf eigene finanzielle Unabhängigkeit zu verzichten.
 
 Diese Veränderung ist möglich. Und du musst sie nicht allein schaffen.
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)
 - [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

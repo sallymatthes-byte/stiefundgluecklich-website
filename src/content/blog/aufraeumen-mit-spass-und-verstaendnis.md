@@ -37,7 +37,7 @@ Als Bonusmama bist du gefordert, eine Balance zwischen *Verständnis* und *Ko
 
 Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
-- Stimme dich mit dem leiblichen Elternteil ab: Gemeinsame Regeln und Konsequenzen sind wichtig, um den Kindern Sicherheit zu geben. Trefft Absprachen und zieht an einem [Strang.](/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/)
+- Stimme dich mit dem leiblichen Elternteil ab: Gemeinsame Regeln und Konsequenzen sind wichtig, um den Kindern Sicherheit zu geben. Trefft Absprachen und zieht an einem [Strang.](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/)
 
 -**Zeige Verständnis für die Situation der Kinder:**Der Wechsel zwischen zwei Haushalten kann herausfordernd sein. Hab Geduld, wenn die Kinder Zeit brauchen, um sich an unterschiedliche Regeln zu gewöhnen.
 
@@ -45,7 +45,7 @@ Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
 -**Bleib konsequent und geduldig:**Veränderungen brauchen Zeit und Wiederholung. Bleib freundlich, aber bestimmt und feiere kleine Fortschritte.
 
-Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
+Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
 >**Wer die welt in ordnung bringen will, geht zuerst durchs eigene haus.**– aus china
 
@@ -100,7 +100,7 @@ Um Ordnung in einer Patchwork-Wohnung zu schaffen, sind klare Regeln und gemeins
 
 -**Passt die Regeln an:**Mit der Zeit und den sich ändernden Bedürfnissen der Kinder müssen auch die Aufräum-Regeln angepasst werden. *Bleibt flexibel und offen für Veränderungen.* Sprecht regelmäßig darüber, was gut funktioniert und was verbessert werden kann.
 
-Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als Familie zusammenzuwachsen und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
+Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als Familie zusammenzuwachsen und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
 
 ## Zusammenfassung
 Aufräumen mit Bonuskindern kann eine Herausforderung sein, doch mit Verständnis für die entwicklungspsychologischen Hintergründe und kreativen, altersgerechten Methoden lässt sich Ordnung spielerisch und mit Freude schaffen. Als Bonusmama ist es wichtig, eine Balance zwischen Einfühlungsvermögen und klaren Regeln zu finden und gemeinsam mit dem leiblichen Elternteil an einem Strang zu ziehen. Mit fantasievollen Aufräum-Ideen, wie Farbsortierung, Schatzsuche oder Aufräum-Robotern, kann man Kinder in verschiedenen Altersgruppen motivieren und das Aufräumen in die Tagesroutine integrieren. Klare Regeln, genügend Stauraum, ein gutes Vorbild und positive Verstärkung durch Lob und Belohnungen sind zusätzliche Bausteine für eine aufgeräumte Patchwork-Wohnung. Mit Geduld, Konsequenz und einer Portion Gelassenheit wird das Aufräumen zu einem selbstverständlichen und sogar freudvollen Teil des Familienlebens.

@@ -20,7 +20,7 @@ Nicht nur für uns Erwachsene ist die Situation herausfordernd, sondern auch fü
 In Patchworkfamilien treffen Kinder mit *unterschiedlichen Erfahrungen, Prägungen und Bedürfnissen* aufeinander. Da ist zum einen Emma, die bisher als Einzelkind aufgewachsen ist und nun plötzlich teilen muss. Oder Ben, der sich nach der Trennung seiner Eltern zurückgesetzt fühlt und um Aufmerksamkeit kämpft. Jedes Kind bringt seine eigene Geschichte mit, seinen eigenen Platz in der Ursprungsfamilie.
 
 Jetzt heißt es, sich in einer neuen Konstellation zurechtzufinden. Und das ist wie Puzzleteile zusammenzufügen, die nicht passen wollen.
-Es entstehen Reibungen, weil jeder um seine Position ringt. Und das ist auch gut so, wie du in diesem [Beitrag](/die-4-phasen-der-patchworkfamilie/) erkennen kannst.
+Es entstehen Reibungen, weil jeder um seine Position ringt. Und das ist auch gut so, wie du in diesem [Beitrag](/blog/die-4-phasen-der-patchworkfamilie/) erkennen kannst.
 Emmas Kuscheltier verschwindet und sie verdächtigt ihre neue Schwester Mia, weil sie denkt, dass Mia es aus Eifersucht versteckt hat.
 Ben möchte mit seinem Vater alleine Zeit verbringen, doch der nimmt inzwischen auch Rücksicht auf seine Stiefkinder, sodass Ben sich vernachlässigt fühlt.
 Kleine Nadelstiche im Alltag führen zu Frust und Streit, denn für die Kinder ist die neue Situation ungewohnt und herausfordernd.
@@ -51,7 +51,7 @@ Wichtig ist, dass jedes Kind auch Zeitfenster hat, in denen es die ungeteilte Au
 
 Neben den Eins-zu-eins-Zeiten sollte der Plan auch*gemeinsame Aktivitäten* enthalten, bei denen die ganze Familie etwas zusammen unternimmt. Das können Spieleabende, Ausflüge oder gemeinsame Mahlzeiten sein – Hauptsache, alle sind dabei und haben Spaß.
 
-Doch auch [Zeit für dich selbst](/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) oder für euch als Paar sollten darin vermerkt werden. So könnt ihr ebenfalls eure Bedürfnisse erfüllen – denn es geht nicht immer nur um die Kinder!
+Doch auch [Zeit für dich selbst](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) oder für euch als Paar sollten darin vermerkt werden. So könnt ihr ebenfalls eure Bedürfnisse erfüllen – denn es geht nicht immer nur um die Kinder!
 
 Hängt den Wochenplan für alle sichtbar auf und achtet darauf, dass er eingehalten wird. So haben die Kinder eine klare Struktur und wissen, wann sie mit wem Zeit verbringen können. Das schafft Sicherheit und mindert Konflikte um Aufmerksamkeit und Zuwendung.
 

@@ -26,14 +26,14 @@ Yvonne kam völlig verzweifelt zu mir in die Beratung. Der Grund: die Ex-Frau ih
 
 Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht davor zurück, immer mehr Nähe einzufordern. Gemeinsame Weihnachtsfeiern, Familienurlaube – Yvonne sollte bei allem dabei sein. Für sie war das jedoch oft zu viel, sie fühlte sich unwohl.**Doch eine Grenze zu ziehen, fiel ihr schwer.**Zu den organisatorischen Schwierigkeiten kamen bald auch Erziehungsfragen hinzu. Während Yvonne klare Regeln für wichtig hielt, herrschte bei der Ex das Laisser-faire. Für die Kinder verwirrend, für Yvonne und ihren Partner ein ständiger Streitpunkt. Erschöpft und mit den Nerven am Ende suchte Yvonne schließlich Rat bei mir.
 
-Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die Beziehung ruinieren zu lassen?
+Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die Beziehung ruinieren zu lassen?
 
 ## yvonne träumte davon…
 
 
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
 
-Yvonne hatte einen sehnlichen Wunsch:**Sie wollte endlich zur Ruhe kommen und eine stabile, liebevolle Beziehung zu ihrem Partner aufbauen.**Die ständigen Streitereien mit seiner Ex zerrten nicht nur an ihren Nerven, sondern drohten auch ihre [Partnerschaft zu zerstören](/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert/).
+Yvonne hatte einen sehnlichen Wunsch:**Sie wollte endlich zur Ruhe kommen und eine stabile, liebevolle Beziehung zu ihrem Partner aufbauen.**Die ständigen Streitereien mit seiner Ex zerrten nicht nur an ihren Nerven, sondern drohten auch ihre [Partnerschaft zu zerstören](/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert/).
 
 Ihr Verlangen war klar: Sie wollte als Teil der Familie anerkannt werden – mit allen Rechten und Pflichten, die dazugehören. Doch immer wieder sah sie sich mit kurzfristigen Änderungen konfrontiert, fühlte sich ausgebootet, wenn ihr Partner Entscheidungen traf, ohne sie einzubeziehen. Gleichzeitig wollte sie nicht ständig nachgeben müssen, sondern als gleichwertige Partnerin mit ihren eigenen Vorstellungen ernst genommen werden – auch und gerade von der Ex.
 

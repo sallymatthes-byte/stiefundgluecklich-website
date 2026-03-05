@@ -18,7 +18,7 @@ Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen b
 
 Als Erziehungswissenschaftlerin und langjährige Kita-Mitarbeiterin dachte ich, ich wäre gut vorbereitet. Doch nichts in meiner Ausbildung hatte mich auf diese emotionale Achterbahn vorbereitet. Zum ersten Mal sah ich meinen Partner in seiner Rolle als Papa – liebevoll, fürsorglich und manchmal auch nachgiebig. Ich musste lernen, ihn zu “teilen”, nicht nur mit seinen Kindern, sondern auch mit einer Vergangenheit, zu der ich keinen Zugang hatte.
 
-Die Realität als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde. *Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer Patchworkfamilie lag ein Ozean, den ich erst noch überbrücken musste.*
+Die Realität als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde. *Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer Patchworkfamilie lag ein Ozean, den ich erst noch überbrücken musste.*
 
 ## Die verborgenen Herausforderungen in der Rolle als Bonusmama
 
@@ -84,7 +84,7 @@ Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama a
 
 Und: Ist mein Bonusmama-Programm gerade der richtige Schritt für dich?
 
-✨ Dies ist deine Chance, endlich Klarheit zu finden – und einen Weg zu wählen, der wirklich zu DIR passt.Nicht zu einer Vorstellung davon, wie eine „perfekte“ Bonusmama sein sollte.
+> Dies ist deine Chance, endlich Klarheit zu finden – und einen Weg zu wählen, der wirklich zu DIR passt.Nicht zu einer Vorstellung davon, wie eine „perfekte“ Bonusmama sein sollte.
 
 [Ja, ich möchte meine Rolle finden!](https://calendly.com/sallymatthes/qualifizierungscall)
 
@@ -99,7 +99,5 @@ Ich musste nur lernen, meinen Platz zu finden – und den Mut haben, ihn auch ei
 Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.
 
 💫 @stiefundgluecklich auf Instagram – für echte Impulse & sanften Austausch.Ich freu mich auf dich.
-
-Mach’s ganz gut,Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

@@ -10,7 +10,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
-Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist?**Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.**Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
+Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist?**Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.**Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese 
 
@@ -66,7 +66,7 @@ Als nächstes setzte ich kleine Veränderungen in meinem Verhalten um.*Ich began
 
 Der dritte Schritt war die Kommunikation.*Ich sprach offen mit meinem Partner über meine Gefühle und Wünsche.* Gemeinsam überlegten wir, wie wir die Situation verbessern konnten. Wir vereinbarten, dass er den Kindern erklären würde, dass ich ein ebenso wichtiger Teil der Familie bin und dass es in Ordnung ist, wenn sie auch zu mir eine enge Beziehung aufbauen.
 
-Mit der Zeit zeigten die Veränderungen Wirkung. Die Kinder begannen, auch meine Nähe zu suchen und mir zu vertrauen. Sie merkten, dass ich nicht ihre Beziehung zum Papa ersetzen wollte, sondern dass ich eine zusätzliche Bezugsperson für sie sein konnte. Unsere [Beziehung](/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) wuchs und vertiefte sich, ohne dass die Bindung zum Papa darunter litt.
+Mit der Zeit zeigten die Veränderungen Wirkung. Die Kinder begannen, auch meine Nähe zu suchen und mir zu vertrauen. Sie merkten, dass ich nicht ihre Beziehung zum Papa ersetzen wollte, sondern dass ich eine zusätzliche Bezugsperson für sie sein konnte. Unsere [Beziehung](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) wuchs und vertiefte sich, ohne dass die Bindung zum Papa darunter litt.
 
 wie sich vieles veränderte
 

@@ -89,13 +89,13 @@ Heute sehe ich klar, was damals so verschwommen war. Aber bis zu diesem Punkt la
 
 Da war zum Beispiel diese leise Stimme in mir, die sagte: „Du willst dich doch nicht mit einem Kind vergleichen, oder?“Ich schämte mich für meine Gedanken. Für das Gefühl, dass ich mich in meiner eigenen Beziehung wie eine Außenseiterin fühlte – und dass ich ausgerechnet sie, die Tochter, als Grund dafür empfand.
 
-Ich dachte, wenn ich das anspreche, wirke ich[eifersüchtig](/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/). Kleinlich. Unreif. Ich hatte Angst, dass mein Partner mich nicht versteht. Dass er sagt: „Sie ist mein Kind – was erwartest du?“
+Ich dachte, wenn ich das anspreche, wirke ich[eifersüchtig](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/). Kleinlich. Unreif. Ich hatte Angst, dass mein Partner mich nicht versteht. Dass er sagt: „Sie ist mein Kind – was erwartest du?“
 
 Und dann war da auch der Druck, die „Gute“ zu sein. Die verständnisvolle Bonusmama. Die empathisch ist, die nichts eskaliert. Ich hatte das Gefühl, ich müsste das aushalten – aus Liebe, aus Rücksicht, aus Pflichtgefühl.
 
 Doch je länger ich schwieg, desto mehr wurde ich innerlich laut. Ich begann, in Gedanken zu diskutieren. Mich zu vergleichen. Ich fühlte mich übergangen – von meinem Partner, aber auch von mir selbst.
 
-Und vielleicht das größte Hindernis: Ich wusste gar nicht, wie ich das Thema ansprechen soll, ohne [Schuldgefühle](/bonusmamas-und-schuldgefuehle/) zu erzeugen.Ich wollte niemandem wehtun – und genau deshalb tat ich mir selbst weh.
+Und vielleicht das größte Hindernis: Ich wusste gar nicht, wie ich das Thema ansprechen soll, ohne [Schuldgefühle](/blog/bonusmamas-und-schuldgefuehle/) zu erzeugen.Ich wollte niemandem wehtun – und genau deshalb tat ich mir selbst weh.
 
 Erst als ich verstand, dass es nicht um Schuld oder Rechtfertigung geht, sondern um Beziehung, um gesunde Strukturen und emotionale Sicherheit für alle Beteiligten, konnte ich die Dynamik wirklich benennen.
 
@@ -115,11 +115,12 @@ Der wichtigste Gesprächspartner in dieser Dynamik ist dein Partner.Nicht das Ki
 
 Sprich ehrlich, aber liebevoll mit ihm:
 
-💬 „Ich erlebe, dass eure Bindung sehr eng ist – und ich weiß manchmal nicht, wie ich mich in diese Nähe einfügen kann.“💬 „Ich wünsche mir, dass wir als Paar auch dann Raum füreinander haben, wenn die Kinder da sind.“
+> „Ich erlebe, dass eure Bindung sehr eng ist – und ich weiß manchmal nicht, wie ich mich in diese Nähe einfügen kann.“
+> „Ich wünsche mir, dass wir als Paar auch dann Raum füreinander haben, wenn die Kinder da sind.“
 
 Er muss erkennen: Seine Tochter ist seine Tochter – nicht seine Vertraute, nicht seine „Ersatzpartnerin“.Und du bist seine Partnerin – nicht die Konkurrentin des Kindes.
 
-💡 Ganz wichtig: Es geht nicht darum, das Kind „zurückzudrängen“. Sondern darum, deinen Platz mit Klarheit und Mitgefühl zu behaupten.
+> Ganz wichtig: Es geht nicht darum, das Kind „zurückzudrängen“. Sondern darum, deinen Platz mit Klarheit und Mitgefühl zu behaupten.
 
 ### 3. Verbindend kommunizieren – Gib Sicherheit, nicht Widerstand
 
@@ -127,7 +128,8 @@ Du bist die Erwachsene.Auch wenn du dich manchmal wie ein Teenager fühlst, der 
 
 Sprich mit dem Kind, wenn es sich richtig anfühlt – nicht als Konfrontation, sondern als Einladung:
 
-💬 „Ich bin nicht deine Mama. Aber ich bin gern da – und freue mich, wenn wir miteinander klar und freundlich umgehen.“💬 „Du darfst Kind sein. Und ich bin nicht hier, um dir etwas wegzunehmen.“
+> „Ich bin nicht deine Mama. Aber ich bin gern da – und freue mich, wenn wir miteinander klar und freundlich umgehen.“
+> „Du darfst Kind sein. Und ich bin nicht hier, um dir etwas wegzunehmen.“
 
 Suche kleine Rituale, in denen Nähe entstehen darf – ohne Zwang, ohne Konkurrenz.Ein gemeinsames Frühstück. Ein Spiel. Ein Spaziergang.
 
@@ -137,9 +139,11 @@ Und wenn’s nicht klappt? Dann ist auch das okay. Nähe darf wachsen. Und brauc
 
 Die Tochter deines Partners ist kein Gegner. Sie ist ein Kind, das seinen Platz sucht.
 
-✨ Und du? Du darfst deinen Platz finden – in deiner Partnerschaft, in der Familie, in deinem eigenen Selbstverständnis.
+> Und du? Du darfst deinen Platz finden – in deiner Partnerschaft, in der Familie, in deinem eigenen Selbstverständnis.
 
-💛 Du darfst gesehen werden.💛 Du darfst Grenzen setzen.💛 Du darfst dir Unterstützung holen.
+> Du darfst gesehen werden.
+> Du darfst Grenzen setzen.
+> Du darfst dir Unterstützung holen.
 
 Und genau dafür bin ich da.
 
@@ -154,8 +158,6 @@ PS: Vielleicht zögerst du noch…
 Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen?Was, wenn dein Platz nicht auf Kosten anderer entsteht – sondern für das ganze System gut ist?
 
 Diese Veränderung ist möglich.Und du musst sie nicht allein schaffen.
-
-Mach’s ganz gut,Deine Sally 💛
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)
 - [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

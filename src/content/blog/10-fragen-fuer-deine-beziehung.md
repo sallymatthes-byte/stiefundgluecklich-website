@@ -21,7 +21,7 @@ Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](
 
 ## die ersten monate als patchworkfamilie
 
-In unserer [ersten gemeinsamen Wohnung](/gemeinsame-wohnung-patchworkfamilie/) hatte ich keinen eigenen Rückzugsort. Ich war ständig überfordert und wusste nicht, wie ich mit der Situation umgehen sollte. **Mal zog ich mich zurück und war emotional distanziert, dann wieder versuchte ich, mich voll und ganz einzubringen.** Ich backte Waffeln mit den Kindern, unternahm Ausflüge und bastelte mit ihnen. Doch nach ein paar Tagen war ich wieder völlig erschöpft und zog mich erneut zurück.
+In unserer [ersten gemeinsamen Wohnung](/blog/gemeinsame-wohnung-patchworkfamilie/) hatte ich keinen eigenen Rückzugsort. Ich war ständig überfordert und wusste nicht, wie ich mit der Situation umgehen sollte. **Mal zog ich mich zurück und war emotional distanziert, dann wieder versuchte ich, mich voll und ganz einzubringen.** Ich backte Waffeln mit den Kindern, unternahm Ausflüge und bastelte mit ihnen. Doch nach ein paar Tagen war ich wieder völlig erschöpft und zog mich erneut zurück.
 
 Dieses Hin und Her war nicht nur für mich, sondern auch für die Kinder unglaublich schwierig. Ich war nicht verlässlich und mein Verhalten war unberechenbar. Das führte natürlich auch zu Spannungen in meiner Partnerschaft. Wir stritten uns häufig und standen immer wieder vor der Frage, ob das alles überhaupt Sinn macht. **Es war eine Zerreißprobe für unsere Beziehung.**
 
@@ -101,7 +101,7 @@ Frage 9: Wie viel Paarzeit ist für dich genug?
 Diese Frage hilft dabei, die Erwartungen und Vorstellungen bezüglich der gemeinsamen Zeit als Paar zu klären.
 
 Frage 10: Was wünschst du dir für unsere Patchwork-Familie in 5 Jahren?
-Der Blick in die Zukunft ermöglicht es, gemeinsame [Visionen](/visionboard-in-der-patchworkfamilie/) und Ziele zu entwickeln und darauf hinzuarbeiten.
+Der Blick in die Zukunft ermöglicht es, gemeinsame [Visionen](/blog/visionboard-in-der-patchworkfamilie/) und Ziele zu entwickeln und darauf hinzuarbeiten.
 
 Diese drei Schritte und die dazugehörigen Fragen bieten eine wertvolle Orientierung auf dem Weg zu einer erfüllten Partnerschaft als Bonusmama. Sie laden dazu ein, sich Zeit für tiefgründige Gespräche zu nehmen, offen und ehrlich miteinander zu kommunizieren und gemeinsam an einer positiven Zukunft für die Patchworkfamilie zu arbeiten.
 
@@ -122,8 +122,5 @@ Als Bonusmama in einer Patchworkfamilie stehst du vor vielen Herausforderungen, 
 
 Du möchtest die Fragen und Schritte gerne auf deine eigene Situation anwenden und deine Partnerschaft als Bonusmama stärken?
 Lass uns gemeinsam deine individuellen Herausforderungen analysieren und Lösungen entwickeln, die zu dir und deiner Patchworkfamilie passen. Ich freue mich darauf, dich kennenzulernen und dich auf diesem wichtigen Weg zu begleiten!
-
-Mach’s ganz gut,
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

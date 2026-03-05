@@ -11,7 +11,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Kennst du das Gefühl, als Stiefmutter nicht richtig dazuzugehören? Die Herausforderungen einer Patchworkfamilie können einen schnell überfordern und frustrieren. Genau so erging es mir vor einigen Jahren. Ich war mit einem geschiedenen Mann und Vater zweier Mädchen liiert und stolperte völlig unvorbereitet in die Rolle der Stiefmutter. Anfangs war ich motiviert und voller Tatendrang, doch schon bald merkte ich, dass es nicht so einfach war, wie ich es mir vorgestellt hatte.
 
-**Sprachbarrieren, Vergleiche mit der Ex-Partnerin und fehlende Mitsprache in Entscheidungen führten dazu, dass ich mich immer weiter zurückzog.** Ich fühlte mich [ausgeschlossen](/aussenseiter-patchworkfamilie/) und fragte mich, ob ich jemals einen Platz in dieser Familie finden würde. Der Wunsch nach Harmonie und Zusammenhalt war groß, aber der Weg dorthin schien steinig und unüberwindbar.
+**Sprachbarrieren, Vergleiche mit der Ex-Partnerin und fehlende Mitsprache in Entscheidungen führten dazu, dass ich mich immer weiter zurückzog.** Ich fühlte mich [ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und fragte mich, ob ich jemals einen Platz in dieser Familie finden würde. Der Wunsch nach Harmonie und Zusammenhalt war groß, aber der Weg dorthin schien steinig und unüberwindbar.
 
 Doch dann kam die Wende. In meiner Coachingausbildung lernte ich Techniken und Strategien kennen, die mir halfen, meine Rolle als Stiefmutter aktiv zu gestalten und die Beziehungen in unserer Patchworkfamilie zu stärken. Ich entwickelte ein 3-Schritte-Framework, das mein Patchworkleben von Grund auf veränderte. Und heute möchte ich dieses Wissen mit dir teilen.
 
@@ -79,7 +79,7 @@ Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell
 
 -
 
-*Kommunikation:* Der dritte und entscheidende Schritt ist eine offene, wertschätzende Kommunikation. Durch [aktives Zuhören](/aktives-zuhoeren-in-der-patchworkfamilie/), Empathie und klare Ausdrucksweise können Missverständnisse vermieden und Konflikte gelöst werden. Eine positive Kommunikationskultur trägt maßgeblich zu einem harmonischen Miteinander in der Patchworkfamilie bei.
+*Kommunikation:* Der dritte und entscheidende Schritt ist eine offene, wertschätzende Kommunikation. Durch [aktives Zuhören](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), Empathie und klare Ausdrucksweise können Missverständnisse vermieden und Konflikte gelöst werden. Eine positive Kommunikationskultur trägt maßgeblich zu einem harmonischen Miteinander in der Patchworkfamilie bei.
 
 Mit dem Framework als Leitfaden begann ich aktiv an unserer Familiendynamik zu arbeiten. Ich analysierte unsere Situation, initiierte gemeinsam mit meinem Partner Veränderungen und setzte die gelernten Kommunikationstechniken ein. Schritt für Schritt spürte ich, wie sich die Atmosphäre in unserer Familie verbesserte und wir zu einem stärkeren Team zusammenwuchsen.
 
@@ -97,8 +97,5 @@ Unser Weg als Patchworkfamilie ist sicherlich noch nicht zu Ende. Es werden imme
 
 ## Zusammenfassung
 Als Stiefmutter in einer Patchworkfamilie sehnte ich mich nach Harmonie und einem liebevollen Miteinander, doch der Weg dorthin war von Herausforderungen geprägt. Durch eine Coachingausbildung gewann ich neue Perspektiven und entwickelte ein 3-Schritte-Framework, das auf Analyse, Veränderungen initiieren und Kommunikation basiert. Mit diesem Leitfaden gelang es mir, unsere Familiendynamik Schritt für Schritt zu verbessern und ein Zuhause voller Geborgenheit und bedingungsloser Liebe zu schaffen.
-
-Mach’s ganz gut,
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

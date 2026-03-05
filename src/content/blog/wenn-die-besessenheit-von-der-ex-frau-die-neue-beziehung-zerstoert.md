@@ -36,7 +36,7 @@ Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dic
 
 ## Die versteckten Dynamiken verstehen
 
-Was macht die Situation zwischen Ex-Frau und neue Beziehung so explosiv? Oft liegt es an tieferen Mustern, die wie [unsichtbare Fäden](/die-rolle-von-expartnern-in-patchworkfamilien/) alle Beteiligten miteinander verbinden. *Die Ex-Frau kämpft möglicherweise mit dem Verlust ihrer gewohnten Rolle* – nicht nur als Partnerin, sondern auch als alleinige “Managerin” der Familie. Vielleicht fürchtet sie, dass die Kinder dich eines Tages mehr lieben könnten als sie, oder sie verarbeitet ihre eigenen Verletzungen durch die Trennung, indem sie Kontrolle ausübt.
+Was macht die Situation zwischen Ex-Frau und neue Beziehung so explosiv? Oft liegt es an tieferen Mustern, die wie [unsichtbare Fäden](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) alle Beteiligten miteinander verbinden. *Die Ex-Frau kämpft möglicherweise mit dem Verlust ihrer gewohnten Rolle* – nicht nur als Partnerin, sondern auch als alleinige “Managerin” der Familie. Vielleicht fürchtet sie, dass die Kinder dich eines Tages mehr lieben könnten als sie, oder sie verarbeitet ihre eigenen Verletzungen durch die Trennung, indem sie Kontrolle ausübt.
 
 **Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – meist selbst auferlegt – können erdrückend sein. Dein Partner wiederum steht zwischen den Fronten, zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu vermeiden.
 
@@ -63,7 +63,7 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 
 Vielleicht kennst du diesen einen Moment – dieser Augenblick, in dem dir klar wird: “So kann es nicht weitergehen.” Vielleicht war es nach einer weiteren durchweinten Nacht, weil die Ex-Frau wieder einmal eure Urlaubsplanung torpediert hat. *Oder nach einem Streit mit deinem Partner, weil er schon wieder nicht Position bezogen hat.* Die Ex-Frau und neue Beziehung scheinen in einer Endlosschleife gefangen zu sein, und du spürst: Etwas muss sich ändern.
 
-Der [erste und wichtigste Schritt](/das-3-schritte-framework/) ist, dir über deine Position in diesem Gefüge klar zu werden. Das bedeutet auch, unangenehme Fragen zu stellen:
+Der [erste und wichtigste Schritt](/blog/das-3-schritte-framework/) ist, dir über deine Position in diesem Gefüge klar zu werden. Das bedeutet auch, unangenehme Fragen zu stellen:
 
 - Welche deiner Grenzen werden regelmäßig überschritten?
 
@@ -159,9 +159,5 @@ In diesem 60-minütigen Gespräch nehmen wir uns Zeit, deine spezifische Situati
 “Ich hatte schon fast aufgegeben. Die ständigen Einmischungen der Ex-Frau haben mich zermürbt und unsere Beziehung belastet. Durch Sallys Coaching habe ich nicht nur gelernt, damit umzugehen – ich bin selbst so viel stärker geworden. Heute führen wir eine glückliche Beziehung, und die Störversuche perlen einfach an mir ab.” – Sarah, 34, Bonusmama von zwei Kindern
 
 PS: **Wie viele weitere Wochenenden willst du dir noch von der Ex-Frau verderben lassen?** Wie lange willst du noch in diesem Zustand der Ohnmacht verharren? Du hast es in der Hand, JETZT etwas zu verändern. Nimm dein Leben und deine Beziehung wieder selbst in die Hand!
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

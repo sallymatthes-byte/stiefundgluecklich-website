@@ -10,7 +10,7 @@ image: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-In Coachingsitzungen tauchen bei vielen [Bonusmamas](/stiefmutter-bonusmama-oder-wie-jetzt/)Glaubenssätze auf. Da fallen Sätze wie “Ich bin nicht gut genug”, “Ich kann das nicht.” oder “Das tut man doch nicht.” [Auch ich kenne sie](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und hatte Glaubenssätze wie “Ich darf nicht schwach sein” oder “Ich muss für die Kinder zurückstecken.” Solche Sätze hindern uns jedoch daran, glücklich und frei zu leben.
+In Coachingsitzungen tauchen bei vielen [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)Glaubenssätze auf. Da fallen Sätze wie “Ich bin nicht gut genug”, “Ich kann das nicht.” oder “Das tut man doch nicht.” [Auch ich kenne sie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und hatte Glaubenssätze wie “Ich darf nicht schwach sein” oder “Ich muss für die Kinder zurückstecken.” Solche Sätze hindern uns jedoch daran, glücklich und frei zu leben.
 Doch wie beeinflussen sie unser Leben genau? Und wie können wir sie auflösen?
 
 ## So beeinflussen Glaubenssätze unser Leben
@@ -30,7 +30,7 @@ Stell dir vor, du stehst vor einem Spiegel. Zunächst siehst du nur dein Spiegel
 
 Eine Möglichkeit, Glaubenssätze aufzuspüren, ist, auf unsere**Gedanken und Gefühle**zu achten. Welche Situationen lösen wiederkehrende negative Emotionen aus? Welche Sätze tauchen immer wieder in unserem inneren Dialog auf? “Ich bin nicht gut genug”, “Ich schaffe das nie” oder “Ich passe nicht in diese Familie” – solche Gedanken können Hinweise auf tiefliegende Glaubenssätze sein.
 
-Auch unser**Verhalten**kann uns Aufschluss darüber geben, welche Überzeugungen uns leiten. Vermeiden wir bestimmte [Situationen](/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) oder Herausforderungen? Reagieren wir auf Konflikte immer auf die gleiche Art und Weise? Wenn wir uns dabei ertappen, dass wir uns selbst sabotieren oder in alte Muster verfallen, lohnt es sich, den zugrunde liegenden Glaubenssätzen auf die Spur zu kommen.
+Auch unser**Verhalten**kann uns Aufschluss darüber geben, welche Überzeugungen uns leiten. Vermeiden wir bestimmte [Situationen](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) oder Herausforderungen? Reagieren wir auf Konflikte immer auf die gleiche Art und Weise? Wenn wir uns dabei ertappen, dass wir uns selbst sabotieren oder in alte Muster verfallen, lohnt es sich, den zugrunde liegenden Glaubenssätzen auf die Spur zu kommen.
 
 Eine weitere hilfreiche Strategie ist es, sich mit seinen**Prägungen**und seiner Vergangenheit auseinanderzusetzen. Welche Botschaften haben wir als Kind von unseren Eltern, Lehrern oder Gleichaltrigen erhalten? Welche Erfahrungen haben uns geprägt und möglicherweise negative Glaubenssätze entstehen lassen? Indem wir uns unserer Geschichte bewusst werden, können wir verstehen, woher unsere Überzeugungen stammen und sie hinterfragen.
 

@@ -14,7 +14,7 @@ Kennst du das Gefühl, als Bonusmama immer mehr in die Rolle der Mutter zu schl�
 
 Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist.**
 
-Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
+Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
 
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die Fallen der Verantwortungsübernahme umschifft.
 
@@ -112,5 +112,3 @@ Als Bonusmama in einer Patchworkfamilie ist es eine große Herausforderung, die 
 Doch durch konkrete Veränderungen wie bewusste Quality Time für die Beziehung, eine gerechte Aufgabenverteilung und offene Kommunikation mit dem Partner lässt sich Schritt für Schritt eine neue Balance erreichen.
 Indem wir lernen, unsere Partnerschaft zu priorisieren und gleichzeitig die Kinder altersgerecht in die Verantwortung zu nehmen, können wir wieder mehr Erfüllung und Nähe in unserer Beziehung finden und trotzdem für die Kinder da sein.
 
-Mach’s ganz gut,
-Deine Sallyinstagram

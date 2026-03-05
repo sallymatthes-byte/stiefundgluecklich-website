@@ -14,7 +14,7 @@ Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich di
 
 Genau so erging es auch meiner Klientin Marion, deren Geschichte ich dir heute erzählen möchte. Sie hat erlebt, wie sich ihre Beziehung zur besten Freundin von einem Tag auf den anderen komplett veränderte und welche Herausforderungen dies mit sich brachte. Doch Marion hat es geschafft, aus dieser schwierigen Situation gestärkt hervorzugehen und eine liebevolle Beziehung zu ihren Bonuskindern und ihrem Partner aufzubauen.
 
-In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfährst, wie sie mithilfe meines [3-Schritte-Frameworks](/das-3-schritte-framework/) gelernt hat, mit den Herausforderungen umzugehen, sich abzugrenzen und sich auf das Wesentliche zu fokussieren. Lass dich inspirieren von Marions Weg und erfahre, wie auch du es schaffen kannst, als Bonusmama in deiner Patchwork-Familie zu glänzen.
+In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfährst, wie sie mithilfe meines [3-Schritte-Frameworks](/blog/das-3-schritte-framework/) gelernt hat, mit den Herausforderungen umzugehen, sich abzugrenzen und sich auf das Wesentliche zu fokussieren. Lass dich inspirieren von Marions Weg und erfahre, wie auch du es schaffen kannst, als Bonusmama in deiner Patchwork-Familie zu glänzen.
 
 Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns gemeinsam eintauchen und herausfinden, wie die Transformation von der besten Freundin zur Bonusmama gelingen kann.
 

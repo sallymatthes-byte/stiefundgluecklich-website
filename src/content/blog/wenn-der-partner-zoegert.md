@@ -10,7 +10,7 @@ image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. “Ich möchte noch nicht [zusammenziehen](/gemeinsame-wohnung-patchworkfamilie/)“, “Ich will nicht noch einmal heiraten” oder “Ich will keine Kinder mehr” sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
+Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. “Ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)“, “Ich will nicht noch einmal heiraten” oder “Ich will keine Kinder mehr” sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
 
 ## Warum der Partner zögert
 
@@ -35,7 +35,7 @@ Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspekti
 
 - Führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
 
-- Erstellt ein [Visionboard](/visionboard-in-der-patchworkfamilie/)
+- Erstellt ein [Visionboard](/blog/visionboard-in-der-patchworkfamilie/)
 
 - Kauft euch etwas, was euch beiden gehört – einen neuen Fernseher beispielsweise
 

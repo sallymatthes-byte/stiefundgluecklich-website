@@ -10,7 +10,7 @@ image: "/images/blog/balance-in-der-verantwortung-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-All Ansatz!
+Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-All Ansatz!
 
 Jede Beziehung ist einzigartig und erfordert *individuelle Lösungen*. In unserem Fall lag die Verantwortung zu Beginn komplett bei meinem Partner – eine Entscheidung, die nicht immer auf Verständnis stößt, aber uns geholfen hat, eine solide Basis für unsere Beziehung zu schaffen.
 Weshalb und wie wir das geschafft haben, erfährst du im Artikel.
@@ -22,7 +22,7 @@ Wir tragen dadurch auch Verantwortung für ihr Wohlergehen und ihre Entwicklung.
 Das heißt: Wir müssen dafür Sorge tragen, dass die Kinder keine Gewalt erfahren, ihre Grundbedürfnisse erfüllt werden und sie ein sicheres zu Hause bei uns finden. Doch wie sieht es aus mit Geburtstagsfeiern, Skikursen, gemeinsamen Urlauben, Hausaufgabenbetreuung etc.? Sind wir als Bonuseltern auch dafür verantwortlich?
 Und wenn ja, wie stellen wir sicher, dass wir auch unsere Bedürfnisse erfüllen?
 
-Diese Fragen zu klären, benötigt viele Gespräche zwischen den Erwachsenen. Denn nur wenn wir unsere Verantwortung bewusst wahrnehmen und uns aktiv einbringen, können wir eine [harmonische Beziehung](/bonuskinder-und-konflikte/) zu unseren Bonuskindern aufbauen und ihnen Sicherheit und Geborgenheit vermitteln.
+Diese Fragen zu klären, benötigt viele Gespräche zwischen den Erwachsenen. Denn nur wenn wir unsere Verantwortung bewusst wahrnehmen und uns aktiv einbringen, können wir eine [harmonische Beziehung](/blog/bonuskinder-und-konflikte/) zu unseren Bonuskindern aufbauen und ihnen Sicherheit und Geborgenheit vermitteln.
 
 Doch wie können wir diese Verantwortung konkret umsetzen? Das möchte ich im nächsten Abschnitt genauer beleuchten.
 

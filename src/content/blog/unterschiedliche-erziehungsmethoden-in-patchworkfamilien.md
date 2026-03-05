@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Es war wieder einer dieser Momente am Abendbrottisch, die mir das Herz schwer machten. Mein Partner hatte seiner Tochter gerade zum dritten Mal erlaubt, das Gemüse links liegen zu lassen und stattdessen nur Nudeln zu essen. Ich spürte, wie sich alles in mir zusammenzog, während ich beobachtete, wie die gesunde Mahlzeit, die ich mit Liebe zubereitet hatte, unangerührt blieb. Als ausgebildete Pädagogin wusste ich, wie wichtig ausgewogene Ernährung für Kinder ist – aber noch wichtiger war die Frage, die mich in solchen Momenten quälte: **War es überhaupt meine Rolle, hier einzugreifen?** Die unterschiedliche Erziehung in unserer Patchworkfamilie wurde immer mehr zu einer emotionalen Zerreißprobe.
 
-Diese alltäglichen Situationen, in denen unsere Erziehungsvorstellungen aufeinanderprallten, häuften sich wie kleine Mosaiksteine eines größeren Bildes: Während ich auf feste Schlafenszeiten und begrenzte Mediennutzung setzte, war mein Partner deutlich lockerer. “Ach, lass sie doch noch eine halbe Stunde”, hörte ich oft, wenn die Kinder abends noch vor dem Tablet saßen. Wo ich klare Strukturen für wichtig hielt, ließ er spontane Planänderungen zu. Mit jedem dieser Momente wuchs meine Unsicherheit: *Wie viel durfte ich als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) überhaupt mitbestimmen? Wann war es angebracht, meine Meinung zu äußern, und wann sollte ich mich zurückhalten?*
+Diese alltäglichen Situationen, in denen unsere Erziehungsvorstellungen aufeinanderprallten, häuften sich wie kleine Mosaiksteine eines größeren Bildes: Während ich auf feste Schlafenszeiten und begrenzte Mediennutzung setzte, war mein Partner deutlich lockerer. “Ach, lass sie doch noch eine halbe Stunde”, hörte ich oft, wenn die Kinder abends noch vor dem Tablet saßen. Wo ich klare Strukturen für wichtig hielt, ließ er spontane Planänderungen zu. Mit jedem dieser Momente wuchs meine Unsicherheit: *Wie viel durfte ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) überhaupt mitbestimmen? Wann war es angebracht, meine Meinung zu äußern, und wann sollte ich mich zurückhalten?*
 
 ## der kampf mit den unterschiedlichen welten
 
@@ -69,9 +69,5 @@ und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
 “Ich dachte wirklich, unsere unterschiedlichen Erziehungsvorstellungen würden unsere Familie zerreißen. Durch Sallys Begleitung haben wir nicht nur gelernt, damit umzugehen, sondern sogar Stärke daraus zu ziehen. Heute sind wir endlich ein echtes Team!” – Jana, 36, Bonusmama von zwei Kindern
 
 PS: Wie viele weitere Konflikte willst du noch durchstehen, bevor ihr einen gemeinsamen Weg findet? ***Mach jetzt den ersten Schritt zu einem harmonischen Miteinander in deiner Patchworkfamilie!***
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

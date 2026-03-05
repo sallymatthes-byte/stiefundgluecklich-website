@@ -23,7 +23,7 @@ Und wenn du dir lieber das Video zu den Herausforderungen als Bonusmama anschaue
 
 Jeder Alltag hat eine andere Dynamik. Wenn verschiedene Familien zu einer Einheit verschmelzen, bringt dies zwangsläufig Herausforderungen mit sich. Jeder einzelne bringt seine eigenen Erfahrungen, Gewohnheiten und Bedürfnisse in die neue Familie ein.
 Die Kinder müssen sich jedes Mal an eine neue Dynamik anpassen: andere Essenszeiten, andere Regeln, bei uns sogar eine andere Sprache. Dass dies allein für die Kinder eine enorme Anpassungsfähigkeit erfordert, ist mir als Pädagogin besonders klar und zeigt einfach, wie komplex dieses Thema ist.
-Wir als Erwachsene versuchen währenddessen unseren Job mit den Kindern in Einklang zu bringen und müssen uns jedes Mal wieder auf das Leben mit Kindern einstellen – weniger [Paarzeit](/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/), der Fokus verschiebt sich.
+Wir als Erwachsene versuchen währenddessen unseren Job mit den Kindern in Einklang zu bringen und müssen uns jedes Mal wieder auf das Leben mit Kindern einstellen – weniger [Paarzeit](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/), der Fokus verschiebt sich.
 
 Wir dürfen dabei lernen, unsere*Rollen als Eltern und Bonuseltern (neu) zu definieren* und miteinander zu kooperieren.
 Es ist ein Prozess des Anpassens, des Lernens und des Wachsens.
@@ -89,4 +89,3 @@ Manchmal können professionelle Unterstützung oder Beratung von außen hilfreic
 
 ## Zusammenfassung
 Das Leben in einer Patchworkfamilie ist nicht immer einfach, aber mit Liebe, Geduld und Verständnis ist es möglich, eine harmonische und glückliche Familie zu schaffen. Kompromissbereitschaft, Offenheit und Kommunikation sind für mich der Schlüssel zum Erfolg. Und sei liebevoll und geduldig mit dir – es ist eine sehr [herausfordernde Situation](https://www.erf.de/lesen/themen/leben/herausforderung-patchworkfamilie/6866-542-6861) und du darfst immer wieder innehalten und dazulernen.
-

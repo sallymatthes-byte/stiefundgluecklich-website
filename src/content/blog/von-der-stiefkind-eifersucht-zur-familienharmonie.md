@@ -51,7 +51,7 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 ## Die unsichtbaren Mauern der Eifersucht
 
-Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut. **Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
+Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut. **Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
@@ -119,7 +119,5 @@ In einem persönlichen 60-minütigen Gespräch schauen wir uns an:
 >
 
 PS: Wie viele weitere Nächte willst du noch mit Selbstzweifeln verbringen? ***Du hast es in der Hand, JETZT den ersten Schritt zu einer harmonischen Patchworkfamilie zu gehen.***
-
-Mach’s gut, Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

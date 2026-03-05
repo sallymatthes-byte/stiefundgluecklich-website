@@ -16,7 +16,7 @@ Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das
 
 Das Eisberg-Modell ist ein faszinierendes Konzept aus der Psychologie, das uns hilft, die Komplexität menschlichen Verhaltens besser zu verstehen. Es basiert auf einer einfachen, aber eindrucksvollen Analogie: *Wie bei einem Eisberg ist auch bei uns Menschen nur ein kleiner Teil unseres Wesens sichtbar.*
 
-Die Spitze des Eisbergs, die aus dem Wasser ragt, repräsentiert unser bewusstes Verhalten – das, was wir sagen und tun. Doch der weitaus größere Teil des Eisbergs, der unter der Wasseroberfläche verborgen liegt, steht für unsere unbewussten Gedanken, Gefühle, [Überzeugungen](/glaubenssaetze-als-bonusmama/) und Prägungen. Diese unsichtbaren Einflüsse sind es, die unser Verhalten maßgeblich steuern, auch wenn wir uns dessen oft nicht bewusst sind.
+Die Spitze des Eisbergs, die aus dem Wasser ragt, repräsentiert unser bewusstes Verhalten – das, was wir sagen und tun. Doch der weitaus größere Teil des Eisbergs, der unter der Wasseroberfläche verborgen liegt, steht für unsere unbewussten Gedanken, Gefühle, [Überzeugungen](/blog/glaubenssaetze-als-bonusmama/) und Prägungen. Diese unsichtbaren Einflüsse sind es, die unser Verhalten maßgeblich steuern, auch wenn wir uns dessen oft nicht bewusst sind.
 
 *Stell dir vor, dein Partner reagiert gereizt auf eine harmlose Bemerkung von dir.* An der Oberfläche mag seine Reaktion übertrieben erscheinen, doch unter Wasser verbergen sich vielleicht alte Verletzungen oder Ängste, die durch deine Worte getriggert wurden.
 
@@ -41,7 +41,7 @@ Klar, das ist nicht immer einfach. Es braucht Mut, Geduld und Einfühlungsvermö
 
 ## Das Modell in der Praxis
 
-Genug der Theorie – lass uns das Eisberg-Modell mal in Aktion erleben! Stell dir vor, du bist seit einem Jahr mit Tom zusammen, der zwei Kinder mit in eure Beziehung bringt: Laura (8) und Ben (5). Eigentlich läuft es ganz gut zwischen euch, aber manchmal gibt es eben diese Momente, in denen die [Stimmung kippt](/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und alle genervt sind. Zum Beispiel neulich, als ihr einen Ausflug machen wolltet:
+Genug der Theorie – lass uns das Eisberg-Modell mal in Aktion erleben! Stell dir vor, du bist seit einem Jahr mit Tom zusammen, der zwei Kinder mit in eure Beziehung bringt: Laura (8) und Ben (5). Eigentlich läuft es ganz gut zwischen euch, aber manchmal gibt es eben diese Momente, in denen die [Stimmung kippt](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und alle genervt sind. Zum Beispiel neulich, als ihr einen Ausflug machen wolltet:
 
 *Tom hatte vorgeschlagen, in den Zoo zu fahren, aber Laura schmollte nur und maulte: “Nee, keinen Bock. Ich will lieber zu Mama!”. Du warst irritiert – wollte Laura nicht letzte Woche noch unbedingt die Eisbären sehen? Und überhaupt, warum will sie auf einmal zu ihrer Mutter, wo sie doch das ganze Wochenende mit euch verbringen sollte?*
 
@@ -64,7 +64,7 @@ Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es 
 
 -***Mach regelmäßig einen “Eisberg-Check”*:**Nimm dir Zeit, in dich hineinzuspüren und zu fragen: “Was beschäftigt mich gerade unter der Oberfläche? Welche unerfüllten Bedürfnisse oder alten Verletzungen schwingen in meinen Reaktionen mit?” Je besser du deine eigenen Eisberge kennst, desto leichter fällt es dir, auch die deiner Lieben zu erkunden.
 
--***Stell neugierige Fragen*:**Wenn dein Partner oder dein Bonuskind mal wieder genervt oder trotzig reagiert, frag nicht vorwurfsvoll “Was ist denn jetzt schon wieder los?”, sondern interessiert: “Ich merke, dass dich gerade etwas beschäftigt. Magst du mir mehr darüber erzählen?” So signalisierst du [Gesprächsbereitschaft](/aktives-zuhoeren-in-der-patchworkfamilie/) und Einfühlungsvermögen.
+-***Stell neugierige Fragen*:**Wenn dein Partner oder dein Bonuskind mal wieder genervt oder trotzig reagiert, frag nicht vorwurfsvoll “Was ist denn jetzt schon wieder los?”, sondern interessiert: “Ich merke, dass dich gerade etwas beschäftigt. Magst du mir mehr darüber erzählen?” So signalisierst du [Gesprächsbereitschaft](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) und Einfühlungsvermögen.
 
 -**Lass Verständnis wichtiger sein als Lösungen****:**Oft wollen wir schnell Ratschläge geben oder Probleme aus dem Weg räumen. Aber manchmal braucht es erstmal nur ein “Ich sehe dich und ich verstehe, was du fühlst”. Vertrau darauf, dass sich Lösungen leichter finden lassen, wenn sich alle tiefgreifend verstanden fühlen.
 

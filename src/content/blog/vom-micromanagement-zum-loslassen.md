@@ -87,7 +87,7 @@ Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben 
 
 ### Schritt 3: Kommunikation – Sprich über Vertrauen und Aufgabenteilung
 
-Besprich mit deinem [Partner](/das-vier-ohren-modell/), wie ihr Verantwortung besser aufteilen könnt. Kommuniziere auch mit deinen Stiefkindern, dass du ihnen mehr zutraust. Frag sie: *„Wie würdet ihr das lösen?“* So fühlen sie sich ernst genommen und lernen, eigenständig zu denken.
+Besprich mit deinem [Partner](/blog/das-vier-ohren-modell/), wie ihr Verantwortung besser aufteilen könnt. Kommuniziere auch mit deinen Stiefkindern, dass du ihnen mehr zutraust. Frag sie: *„Wie würdet ihr das lösen?“* So fühlen sie sich ernst genommen und lernen, eigenständig zu denken.
 
 ## Die Transformation
 

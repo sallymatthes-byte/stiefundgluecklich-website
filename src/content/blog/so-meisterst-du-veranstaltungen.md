@@ -16,11 +16,11 @@ Genau deshalb betrachten wir heute mal diese Situationen und werfen einen Blick 
 
 ## Wenn Unsicherheit und Selbstzweifel an der Seele nagen
 
-Die neue Rolle bringt viele [Unsicherheiten](/patchworkfamilie-herausforderungen-und-chancen/) und Selbstzweifel mit sich, die gerade bei Veranstaltungen in Kita, Schule oder Verein übermächtig werden können. Vielleicht kennst du diese Gedanken:
+Die neue Rolle bringt viele [Unsicherheiten](/blog/patchworkfamilie-herausforderungen-und-chancen/) und Selbstzweifel mit sich, die gerade bei Veranstaltungen in Kita, Schule oder Verein übermächtig werden können. Vielleicht kennst du diese Gedanken:
 
 *“Bin ich hier überhaupt erwünscht? Wie sehen mich die anderen? Kann ich den Erwartungen gerecht werden?”*
 
-Die Angst, auf Ablehnung zu stoßen oder mit der leiblichen Mutter[verglichen](/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) zu werden, lässt dich am liebsten unsichtbar werden. Auch die Unklarheit über deine Aufgaben als Bonusmama kann verunsichern:
+Die Angst, auf Ablehnung zu stoßen oder mit der leiblichen Mutter[verglichen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) zu werden, lässt dich am liebsten unsichtbar werden. Auch die Unklarheit über deine Aufgaben als Bonusmama kann verunsichern:
 
 *“Wie weit darf ich gehen? Was ist meine Rolle?”*
 
@@ -87,7 +87,7 @@ Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltun
 
 - 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure**Grenzen setzen.**- 💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir**Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
 
-- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure**Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
+- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure**Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 

@@ -10,7 +10,7 @@ image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die Ex-Frauals [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag – **all das trifft dich wie kleine Nadelstiche direkt ins Herz.**
+Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die Ex-Frauals [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag – **all das trifft dich wie kleine Nadelstiche direkt ins Herz.**
 
 Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: “Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein.”
 
@@ -164,9 +164,3 @@ In einem persönlichen 60-minütigen Gespräch erkunden wir:
 >
 
 PS: *Jeder Tag, an dem du mit deiner Eifersucht alleine kämpfst, ist ein Tag zu viel.* ***Lass uns gemeinsam einen Weg finden, wie du zu einer selbstbewussten, glücklichen Bonusmama wirst!***
-
-Mach’s ganz gut,
-
-Deine Sally
-
-instagram

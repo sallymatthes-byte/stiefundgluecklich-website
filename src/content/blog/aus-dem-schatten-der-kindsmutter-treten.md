@@ -14,7 +14,7 @@ Vielleicht kennst du es ja: den Satz “Bei Andrea hätte es das aber nicht gege
 
 ## Die Gründe verstehen: Warum Vergleiche entstehen
 
-Es ist verletzend und frustrierend, immer wieder mit der Kindsmutter verglichen zu werden. Aber lass uns gemeinsam ergründen, woher diese Vergleiche kommen, denn oft stecken dahinter tiefere Unsicherheiten und Ängste aller Beteiligten.**Die Kinder befinden sich in einem Loyalitätskonflikt**: Sie lieben ihre Mama und haben Angst, sie zu verraten, wenn sie eine enge Beziehung zu dir aufbauen. Gleichzeitig möchten sie dich als neue Bezugsperson in ihr Herz schließen. Dieser innere Zwiespalt kann sich in abwertenden Vergleichen äußern.**Auch die Schwiegereltern und dein Partner sind verunsichert.**Sie wollen dem Kind gerecht werden und fürchten, dass es die Mama vermisst. In dem [Versuch](/die-4-phasen-der-patchworkfamilie/), die Erste nicht zu vergessen, greifen sie unbewusst zu Vergleichen.
+Es ist verletzend und frustrierend, immer wieder mit der Kindsmutter verglichen zu werden. Aber lass uns gemeinsam ergründen, woher diese Vergleiche kommen, denn oft stecken dahinter tiefere Unsicherheiten und Ängste aller Beteiligten.**Die Kinder befinden sich in einem Loyalitätskonflikt**: Sie lieben ihre Mama und haben Angst, sie zu verraten, wenn sie eine enge Beziehung zu dir aufbauen. Gleichzeitig möchten sie dich als neue Bezugsperson in ihr Herz schließen. Dieser innere Zwiespalt kann sich in abwertenden Vergleichen äußern.**Auch die Schwiegereltern und dein Partner sind verunsichert.**Sie wollen dem Kind gerecht werden und fürchten, dass es die Mama vermisst. In dem [Versuch](/blog/die-4-phasen-der-patchworkfamilie/), die Erste nicht zu vergessen, greifen sie unbewusst zu Vergleichen.
 
 Und dann sind da noch die**gesellschaftlichen Erwartungen und Vorurteile**gegenüber Stiefmüttern. Das Bild der “bösen Stiefmutter” ist tief verankert und schürt die Angst, dir nicht zu genügen oder eine intakte Familie zu gefährden.
 
@@ -80,7 +80,7 @@ Nimm Komplimente und Dankbarkeit bewusst an und freue dich darüber
 
 - Erlaube dir, stolz auf deine Rolle und Leistung zu sein
 
-Indem du deinen [eigenen Platz](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) findest und ausfüllst, wirst du nicht nur selbstbewusster und zufriedener, sondern zeigst auch dem Bonuskind und der Familie, wie wertvoll und einzigartig du bist. Du bist ein unverzichtbarer Teil des Familiengefüges – nicht als Ersatz, sondern als bereichernd und liebevolle Bonusmama.
+Indem du deinen [eigenen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) findest und ausfüllst, wirst du nicht nur selbstbewusster und zufriedener, sondern zeigst auch dem Bonuskind und der Familie, wie wertvoll und einzigartig du bist. Du bist ein unverzichtbarer Teil des Familiengefüges – nicht als Ersatz, sondern als bereichernd und liebevolle Bonusmama.
 
 Gemeinsam wachsen
 
@@ -94,7 +94,7 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 - Zeigt Mitgefühl und Geduld, auch wenn es mal schwierig ist
 
-🤝 Geht [Konflikte](/bonuskinder-und-konflikte/) konstruktiv an und löst sie
+🤝 Geht [Konflikte](/blog/bonuskinder-und-konflikte/) konstruktiv an und löst sie
 
 - Bleibt bei Meinungsverschiedenheiten sachlich und respektvoll
 

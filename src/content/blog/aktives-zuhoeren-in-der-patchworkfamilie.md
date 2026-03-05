@@ -11,14 +11,14 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du auch dieses Gefühl, dass man manchmal einfach das Gefühl nicht verstanden worden zu sein?
-In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – nicht nur als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/). Das liegt daran, dass wir häufig nicht richtig zuhören, sondern damit beschäftigt sind, über unsere Antwort nachzudenken.
+In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – nicht nur als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das liegt daran, dass wir häufig nicht richtig zuhören, sondern damit beschäftigt sind, über unsere Antwort nachzudenken.
 Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden?
 Und wie setzt sich das in der Praxis um?
 
 ## Unser Beispiel
 
 Damit es ein bisschen anschaulicher wird, möchte ich dir von Mia erzählen:
-*Bonusmama Mia lebt gemeinsam mit ihrem Partner Tom, ihren beiden Kindern Emily und Ben in der Nähe von Leipzig. Zur Familie gehört außerdem noch Toms [Ex-Frau](/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) Lisa und deren Sohn Max. Die Familie hatte schon seit einiger Zeit mit Spannungen und Konflikten zu kämpfen. Häufig fielen Sätze wie “Das machst du immer so!” oder “Du willst mich einfach nicht verstehen!”. Häufig wurde der andere unterbrochen und die einst lebhaften Gespräche beim Abendessen gab es nicht mehr. Jeder fühlte sich [missverstanden](/bonuskinder-und-konflikte/) und es schien, als ob das harmonische Familienleben, von dem sie alle träumten, in weite Ferne gerückt war.*
+*Bonusmama Mia lebt gemeinsam mit ihrem Partner Tom, ihren beiden Kindern Emily und Ben in der Nähe von Leipzig. Zur Familie gehört außerdem noch Toms [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) Lisa und deren Sohn Max. Die Familie hatte schon seit einiger Zeit mit Spannungen und Konflikten zu kämpfen. Häufig fielen Sätze wie “Das machst du immer so!” oder “Du willst mich einfach nicht verstehen!”. Häufig wurde der andere unterbrochen und die einst lebhaften Gespräche beim Abendessen gab es nicht mehr. Jeder fühlte sich [missverstanden](/blog/bonuskinder-und-konflikte/) und es schien, als ob das harmonische Familienleben, von dem sie alle träumten, in weite Ferne gerückt war.*
 
 ## Warum ist zuhören so wichtig?
 

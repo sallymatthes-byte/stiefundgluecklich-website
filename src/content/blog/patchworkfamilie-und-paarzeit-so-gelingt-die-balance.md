@@ -106,8 +106,4 @@ In einem vertrauensvollen 60-minütigen Gespräch schauen wir uns an:
 
 PS: Wie viele weitere kostbare Momente der Zweisamkeit willst du noch verstreichen lassen? ***Finde jetzt zurück zur Nähe, die ihr als Paar verdient!***
 
-Mach’s ganz gut,
-
-Deine Sally
-
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)

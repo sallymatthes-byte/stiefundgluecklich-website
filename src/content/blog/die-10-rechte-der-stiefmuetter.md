@@ -102,7 +102,7 @@ Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln 
 
 ## #9 “Ich werde in meinem eigenen Zuhause nicht als Außenseiterin behandelt.”
 
-Viele Stiefmütter berichten, dass sie sich wie [Gäste im eigenen Zuhause](/aussenseiter-patchworkfamilie/) fühlen. *In solchen Momenten ist es absolut verständlich, dass du dich verletzt fühlst und das Bedürfnis hast, ein vollwertiger Teil des Familienlebens zu sein.*
+Viele Stiefmütter berichten, dass sie sich wie [Gäste im eigenen Zuhause](/blog/aussenseiter-patchworkfamilie/) fühlen. *In solchen Momenten ist es absolut verständlich, dass du dich verletzt fühlst und das Bedürfnis hast, ein vollwertiger Teil des Familienlebens zu sein.*
 
 **Die Kinder müssen Gelegenheit haben, ihre Beziehung zum leiblichen Elternteil zu pflegen, aber das darf nicht zu deinen Lasten geschehen.** Forschungsergebnisse zeigen, dass Stiefmütter oft als “Außenseiterinnen” wahrgenommen werden.
 

@@ -42,7 +42,7 @@ Aber: Du bist nicht allein. Und vor allem – du bist nicht falsch. Du bist nich
 
 Angst ist kein Fehler in deinem System. Sie ist ein Signal. Und sie wird besonders laut, wenn unsere innere Sicherheit ins Wanken gerät. Patchworkfamilien sind hochkomplexe soziale Konstrukte – mit vielen ungeschriebenen Regeln, alten Wunden und sensiblen Beziehungslinien.
 
-Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/ab-wann-ist-man-stiefmutter/) bietet. Du sollst „Familie“ mitgestalten, bist aber oft emotional wie rechtlich nicht abgesichert.
+Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/blog/ab-wann-ist-man-stiefmutter/) bietet. Du sollst „Familie“ mitgestalten, bist aber oft emotional wie rechtlich nicht abgesichert.
 
 Genau in diesem Spannungsfeld entsteht Angst – und sie äußert sich auf sehr unterschiedliche Weise. Manche Bonusmamas beschreiben eine dauerhafte Grundanspannung. Andere sagen: „Ich funktioniere – aber ich kann nie ganz loslassen.“
 
@@ -57,31 +57,31 @@ Wichtig zu wissen: **Diese Angst kann sich unterschiedlich zeigen – je nach Pe
 
 ![Stimmungsbild zum Artikel](/images/blog/bonusmama-angst-2.jpg)
 
-Angst hat viele Gesichter – und in Patchworkfamilien zeigt sie sich oft in vier [typischen Rollen](/archetypen-einer-bonusmama/), die Bonusmamas unbewusst einnehmen.
+Angst hat viele Gesichter – und in Patchworkfamilien zeigt sie sich oft in vier [typischen Rollen](/blog/archetypen-einer-bonusmama/), die Bonusmamas unbewusst einnehmen.
 
 ### Die Perfektionistin
 
 Sie will alles „richtig“ machen – vom Geschenk für das Schulkind bis zur perfekten Wochenendplanung. Ihr tiefstes Bedürfnis: Wenn ich alles korrekt mache, dann bin ich sicher. Doch das Problem: Sie erschöpft sich in Perfektion – und bekommt trotzdem keine Garantie auf Anerkennung.
 
-💡 Impulse für dich: Lass deine Menschlichkeit sichtbar werden. Du musst nicht perfekt sein, um geliebt zu werden. Nähe entsteht durch Echtheit, nicht durch Fehlerfreiheit.
+> Impulse für dich: Lass deine Menschlichkeit sichtbar werden. Du musst nicht perfekt sein, um geliebt zu werden. Nähe entsteht durch Echtheit, nicht durch Fehlerfreiheit.
 
 ### Die Kümmerin (Caretaker)
 
 Sie sorgt für alle – denkt an alles – übernimmt mehr, als sie müsste. Ihr Wunsch: Wenn ich nützlich bin, werde ich gebraucht. Doch oft verliert sie sich in der Fürsorge – und spürt irgendwann nur noch Erschöpfung.
 
-💡 Tipp: Frag dich: Tue ich das aus Liebe – oder aus Angst, sonst nicht dazuzugehören? Gib nur, wenn dein eigener Tank voll ist.
+> Tipp: Frag dich: Tue ich das aus Liebe – oder aus Angst, sonst nicht dazuzugehören? Gib nur, wenn dein eigener Tank voll ist.
 
 ### Die People-Pleaserin
 
 Sie möchte Harmonie, liest jeden Gesichtsausdruck, vermeidet jede Spannung. Ihr Antrieb: Wenn ich niemandem zur Last falle, bleibe ich willkommen. Doch das führt dazu, dass sie sich selbst vergisst.
 
-💡 Übung: Fang mit kleinen Neins an. Deine Grenzen sind kein Problem – sie sind ein Geschenk an dich selbst.
+> Übung: Fang mit kleinen Neins an. Deine Grenzen sind kein Problem – sie sind ein Geschenk an dich selbst.
 
 ### Die Überfliegerin (Overachiever)
 
 Sie will beweisen, dass Patchwork mit ihr klappt. Sie gibt Vollgas – organisiert, plant, vermittelt. Ihr Motto: Ich schaffe das. Und doch bleibt oft das Gefühl, dass sie sich selbst verliert.
 
-💡 Erinnerung: Du bist keine Projektleiterin. Du bist ein Mensch in Beziehung. Es ist okay, zu fühlen, statt zu funktionieren.
+> Erinnerung: Du bist keine Projektleiterin. Du bist ein Mensch in Beziehung. Es ist okay, zu fühlen, statt zu funktionieren.
 
 In welchem Muster erkennst du dich am stärksten? Und welches Bedürfnis steckt dahinter? Schreibe es mir gern in die Kommentare!
 
@@ -95,7 +95,7 @@ Bevor du etwas verändern kannst, musst du verstehen, was in dir überhaupt pass
 
 Stell dir dabei nicht die Frage, ob deine Reaktion „logisch“ ist – sondern, was sie dir sagen will. Hinter jedem emotionalen Impuls steckt ein Bedürfnis. Und Angst entsteht oft dort, wo ein Grundbedürfnis – wie Sicherheit, Zugehörigkeit oder Selbstwert – bedroht scheint.
 
-💡 Schreibimpuls: „In welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?“
+> Schreibimpuls: „In welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?“
 
 ### 2. Wandel einleiten – Finde sichere Inseln im Alltag
 
@@ -106,7 +106,7 @@ Sicherheit beginnt nicht im Außen – sondern in deiner Wahrnehmung. Deshalb is
 
 Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfter du sie bewusst wahrnimmst, desto mehr baust du eine innere Stabilität auf – auch wenn das Außen chaotisch bleibt.
 
-💡 Frage an dich: „Was kann ich heute tun, damit ich mich innerlich etwas sicherer fühle?“
+> Frage an dich: „Was kann ich heute tun, damit ich mich innerlich etwas sicherer fühle?“
 
 ### 3. Verbindend kommunizieren – Sprich über dich, nicht über andere
 
@@ -132,10 +132,8 @@ PS:Vielleicht zögerst du noch…
 
 …weil du denkst, du solltest das alleine hinkriegen. Oder weil du dir nicht sicher bist, ob du „wirklich ein Coaching brauchst“. Aber was, wenn genau dieses Gespräch der Anfang von mehr innerer Ruhe ist?
 
-✨ Mehr Gelassenheit.✨ Mehr Selbstsicherheit.✨ Mehr Verbindung – zu dir, deinem Partner, deiner Familie.
+> Mehr Gelassenheit.
+> Mehr Selbstsicherheit.
+> Mehr Verbindung – zu dir, deinem Partner, deiner Familie.
 
 Du musst nicht warten, bis es „ganz schlimm“ wird. Du darfst jetzt losgehen – für dich.
-
-Mach’s ganz gut,Deine Sally 💛
-
-instagramspotify

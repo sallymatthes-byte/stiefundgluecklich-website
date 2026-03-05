@@ -25,7 +25,7 @@ Vor einigen Monaten kam eine Klientin zu mir – nennen wir sie Mara. Mit Träne
 
 “In diesem Moment fühlte ich mich zum ersten Mal, als wäre ich das fünfte Rad am Wagen,” gestand Mara. **“Ich lag wach, starrte an die Decke und dachte: Vielleicht wäre alles einfacher, wenn ich keine Bonusmama wäre.”**
 
-Diese Gedanken quälten sie zunehmend: War sie [egoistisch](/von-der-stiefkind-eifersucht-zur-familienharmonie/), weil sie ihre Bedürfnisse nach Ruhe und Intimität einfordern wollte? Oder verriet sie sich selbst, wenn sie immer nachgab? Hatte sie überhaupt ein Recht, mitzuentscheiden, wenn das Bonuskind im Elternbett schlafen wollte?
+Diese Gedanken quälten sie zunehmend: War sie [egoistisch](/blog/von-der-stiefkind-eifersucht-zur-familienharmonie/), weil sie ihre Bedürfnisse nach Ruhe und Intimität einfordern wollte? Oder verriet sie sich selbst, wenn sie immer nachgab? Hatte sie überhaupt ein Recht, mitzuentscheiden, wenn das Bonuskind im Elternbett schlafen wollte?
 
 Mara hatte bereits alles versucht. Sie hatte im Internet recherchiert und ihrem Partner zahlreiche Argumente gegen ein gemeinsames Familienbett präsentiert. Das Ergebnis? Er fühlte sich angegriffen und verteidigte seine Entscheidungen nur noch vehementer. Die Fronten verhärteten sich.
 
@@ -113,7 +113,7 @@ Die Selbstfürsorge spielt in diesem Schritt eine zentrale Rolle. **Dein Bedürf
 
 ### Schritt 3: Verbindend kommunizieren
 
-Der dritte Schritt ist entscheidend für den Erfolg: Wie sprichst du mit deinem [Partner](/10-fragen-fuer-deine-beziehung/) über das Thema Bonuskind im Elternbett?
+Der dritte Schritt ist entscheidend für den Erfolg: Wie sprichst du mit deinem [Partner](/blog/10-fragen-fuer-deine-beziehung/) über das Thema Bonuskind im Elternbett?
 
 Häufig kommunizieren wir so, dass wir uns vom anderen distanzieren oder ihn unbewusst angreifen. *Dein Partner muss verstehen, was du fühlst und brauchst, ohne sich angegriffen zu fühlen oder Vorwürfe zu hören.*
 
@@ -154,10 +154,6 @@ Du darfst deine Bedürfnisse ernst nehmen und dich für deinen Raum in der Famil
 [Vereinbare jetzt dein gespräch](https://calendly.com/sallymatthes/qualifizierungscall)
 
 PS: Ich weiß, wie schwer es sein kann, den ersten Schritt zu machen. Aber stell dir vor, wie sich dein Leben verändert, wenn du endlich wieder erholsam schläfst und die Nähe zu deinem Partner genießen kannst – während gleichzeitig auch das Bonuskind im Elternbett kein Thema mehr ist, das eure Familie belastet. Diese Veränderung ist möglich – und ich würde mich freuen, dich auf diesem Weg zu begleiten.
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)
 - [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

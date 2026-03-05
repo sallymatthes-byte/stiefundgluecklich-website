@@ -59,7 +59,7 @@ Auch**familiäre Prägungen und eigene Kindheitserfahrungen**tragen zu den hohen
 
 Der**Wunsch nach Kontrolle und Perfektion**ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
 
-Nicht zuletzt spielt die**Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
+Nicht zuletzt spielt die**Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
 
 All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “sollten”. Doch damit tun wir uns keinen Gefallen, denn die “Ich sollte”-Sätze führen oft zu Überforderung und Schuldgefühlen.
 
@@ -79,7 +79,7 @@ Wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell*überfordert 
 
 -
 
-Auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
+Auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/blog/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
 
 -
 
@@ -100,7 +100,7 @@ Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wi
 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
-- 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.**Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
+- 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.**Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 
 - 💎**Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.**Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
 

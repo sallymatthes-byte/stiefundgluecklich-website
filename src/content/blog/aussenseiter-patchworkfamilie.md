@@ -30,7 +30,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
--**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
+-**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 
@@ -55,7 +55,7 @@ Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
 Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer “First-time Family”, also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält.**In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht.**Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes Mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum “Insider”, der neue Partner zum “Outsider”.*
 
-Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes Mal, wenn eins der Kinder den Raum betritt, entsteht automatisch eine Insider-Outsider-Dynamik: Kevin und das Kind teilen einen exklusiven Moment, während du dich schnell [ausgeschlossen](/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) fühlst. Kevin wiederum fühlt sich hin- und hergerissen zwischen dir und seinen Kindern.
+Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes Mal, wenn eins der Kinder den Raum betritt, entsteht automatisch eine Insider-Outsider-Dynamik: Kevin und das Kind teilen einen exklusiven Moment, während du dich schnell [ausgeschlossen](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) fühlst. Kevin wiederum fühlt sich hin- und hergerissen zwischen dir und seinen Kindern.
 
 Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen Herausforderungen für Patchworkfamilien ist. Anders als in einer Kernfamilie, wo die Kinder von Anfang an mit beiden Eltern vertraut sind, gibt es in Stieffamilien**zunächst keine gemeinsame Basis.**Die Insider-Outsider-Positionen sind festgefahren und es braucht Zeit und Geduld, sie aufzulockern.
 

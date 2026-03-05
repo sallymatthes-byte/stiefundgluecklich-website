@@ -23,7 +23,7 @@ Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](
 
 Als ich das erste Mal vor der Klassenlehrerin stand und sie mich fragte: “Und Sie sind… die Mama?”, blieb ich sprachlos. Diese eine Frage löste einen Sturm von Gefühlen in mir aus. **War ich “nur” die Bonusmama?** Hatte ich überhaupt das Recht, hier zu sein?
 
-Ich hatte mich monatelang darauf gefreut, am Schulleben meines Bonuskindes teilzunehmen. Ich wollte Hausaufgaben betreuen, bei Projekten helfen, vielleicht sogar beim Schulfest mitarbeiten. Doch plötzlich fühlte ich mich wie eine Außenseiterin – jemand, der keinen [offiziellen Platz](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) im System hatte.
+Ich hatte mich monatelang darauf gefreut, am Schulleben meines Bonuskindes teilzunehmen. Ich wollte Hausaufgaben betreuen, bei Projekten helfen, vielleicht sogar beim Schulfest mitarbeiten. Doch plötzlich fühlte ich mich wie eine Außenseiterin – jemand, der keinen [offiziellen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) im System hatte.
 
 Diese Unsicherheit spürte ich auch bei meiner Klientin Anna, einer Bonusmama aus Österreich. Sie erzählte mir, wie sie sich beim Elternabend fehl am Platz fühlte. Die anderen Eltern beäugten sie skeptisch, als gehöre sie nicht dazu. Sie fragte sich: “Darf ich überhaupt hier sein? Was werden die anderen denken?”
 
@@ -48,7 +48,7 @@ Die Situation von Anna ist kein Einzelfall. Viele Bonuseltern im Schulalltag ste
 
 *Auch die unterschiedlichen Systeme in Deutschland und Österreich schaffen Verwirrung.* In Österreich gibt es ein verpflichtendes letztes Kindergartenjahr, während der Besuch in Deutschland oft freiwillig ist. Die Elternbeteiligung ist in Österreich durch Elternvereine stärker institutionalisiert, während sie in Deutschland je nach Einrichtung stark variieren kann.
 
-**Die vielleicht schwierigste Herausforderung liegt jedoch in der Kommunikation mit der leiblichen Mutter.** Ihre Zustimmung ist oft entscheidend dafür, wie stark du dich als Bonuselternteil im Schulalltag einbringen kannst. Doch diese Gespräche sind emotional aufgeladen und können schnell zu [Konflikten](/konflikte-wegen-der-ex-ueberwinden/) führen, wenn die Mutter dein Engagement als Konkurrenz oder Einmischung empfindet.
+**Die vielleicht schwierigste Herausforderung liegt jedoch in der Kommunikation mit der leiblichen Mutter.** Ihre Zustimmung ist oft entscheidend dafür, wie stark du dich als Bonuselternteil im Schulalltag einbringen kannst. Doch diese Gespräche sind emotional aufgeladen und können schnell zu [Konflikten](/blog/konflikte-wegen-der-ex-ueberwinden/) führen, wenn die Mutter dein Engagement als Konkurrenz oder Einmischung empfindet.
 
 Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen – Wege, die ich selbst gegangen bin und die ich nun mit dir teilen möchte.
 
@@ -200,10 +200,6 @@ Denk daran: Die wichtigste Frage ist nicht, was du offiziell “darfst”, sonde
 [Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
 
 PS: Vielleicht zögerst du noch, diesen Schritt zu gehen. Doch stell dir vor, wie es sich anfühlen würde, selbstverständlich am Elternabend teilzunehmen, von Lehrkräften als wichtige Bezugsperson anerkannt zu werden und gemeinsam mit allen Beteiligten das Beste für dein Bonuskind zu erreichen. Diese Veränderung ist möglich – und du musst sie nicht alleine schaffen.
-
-Mach’s ganz gut,
-
-Deine Sally
 
 - [Folgen](https://www.instagram.com/stiefundgluecklich/)
 - [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

@@ -13,10 +13,10 @@ imageAlt: "Titelbild zum Artikel"
 “Das hat sie jetzt nicht wirklich getan!”, rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
 
 Eine Situation, die es so in vielen Patchworkfamilien gibt. Das Leben in einer Patchworkfamilie kann eine bereichernde Erfahrung sein, voller Liebe, Lernen und Wachstum.
-Es ist jedoch auch komplex und birgt eigene [Herausforderungen](/patchworkfamilie-herausforderungen-und-chancen/) – insbesondere, wenn es um das Verhältnis zwischen Bonusmama und leiblicher Mutter geht.
+Es ist jedoch auch komplex und birgt eigene [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) – insbesondere, wenn es um das Verhältnis zwischen Bonusmama und leiblicher Mutter geht.
 Oftmals ist dieses Verhältnis von Missverständnissen, Konflikten und Unsicherheiten geprägt.
 
-Als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) kann man sich manchmal wie eine Drahtseilartistin fühlen, die versucht, den Balanceakt zwischen Respekt für die leibliche Mutter und dem Wunsch, eine authentische Beziehung zu den Kindern aufzubauen, zu meistern.
+Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) kann man sich manchmal wie eine Drahtseilartistin fühlen, die versucht, den Balanceakt zwischen Respekt für die leibliche Mutter und dem Wunsch, eine authentische Beziehung zu den Kindern aufzubauen, zu meistern.
 
 In diesem Blogartikel möchte ich einen Blick auf diese weit verbreitete Herausforderung werfen.
 
@@ -24,7 +24,7 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 
 ## DIE HERAUSFORDERUNG VERSTEHEN
 
-Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd.**Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
+Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd.**Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
 
 Oftmals basieren diese Konflikte auf Ängsten und Unsicherheiten, die in der neuen, ungewohnten Situation entstehen.
 *Die leibliche Mutter könnte Sorgen haben, dass sie durch die neue Frau in ihrem Leben ihrer Kinder ersetzt wird.* Gerade wenn der Mann die Kindsmutter verlassen hat, ist das eine Angst, die häufig mitschwingt.

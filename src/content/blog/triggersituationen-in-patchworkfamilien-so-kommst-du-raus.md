@@ -12,16 +12,16 @@ imageAlt: "Titelbild zum Artikel"
 
 Meine älteste Bonustochter kommt gerade in die Pubertät – und viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/Trigger_(Medizin)) mich gerade mehr als sonst. Das heißt, dass diese Situationen eine Reaktion in mir auslösen, die ich sonst nicht kenne.
 Ein Beispiel: Sie kommentiert gerade vieles mit “Das ist ja langweilig!”. In mir wird dann sofort die 14-jährige Sally aktiviert, die damals genau so war. Ich werde sauer und ziehe mich dann zurück.
-Solche oder ähnliche Situationen kennen viele [Bonusmamas](/stiefmutter-bonusmama-oder-wie-jetzt/). Nicht selten kommt es dann zu heftigen Auseinandersetzungen in der Patchworkfamilie.
+Solche oder ähnliche Situationen kennen viele [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Nicht selten kommt es dann zu heftigen Auseinandersetzungen in der Patchworkfamilie.
 Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem Schmerz? Und wie kommt man da wieder raus?
 
 ## Was verstehen wir unter einem trigger?
 
 Kennst du das auch?
-Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/patchworkfamilie-herausforderungen-und-chancen/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.
+Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/blog/patchworkfamilie-herausforderungen-und-chancen/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.
 *Diese Momente, in denen dich etwas aus dem Gleichgewicht bringt, nennen wir Triggersituationen.*
 Sie können verschiedene Ursachen haben und werden oft durch bestimmte Auslöser hervorgerufen.
-Stell dir zum Beispiel vor, du hast das Gefühl, von der [Ex-Frau](/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) nicht ernst genommen zu werden. Jedes Mal, wenn sie dich abwertend behandelt oder dir gegenüber respektlos ist, gerätst du in Rage.
+Stell dir zum Beispiel vor, du hast das Gefühl, von der [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) nicht ernst genommen zu werden. Jedes Mal, wenn sie dich abwertend behandelt oder dir gegenüber respektlos ist, gerätst du in Rage.
 Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen Reaktionen führen. Es ist wichtig, sie zu verstehen und angemessen damit umzugehen.
 
 > “der schmerz ist unvermeidlich, das leiden ist optional.”
@@ -58,6 +58,6 @@ Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung
 
 ## Zusammenfassung
 Es gibt bestimmte Situationen, in denen wir heftige Reaktionen in uns selbst wahrnehmen. Wir sprechen dann von “Triggern” – diese erinnern uns an schmerzliche Erfahrungen in unserem Leben und sind ein Indiz dafür, dass diese noch nicht geheilt sind.
-Damit diese nicht in heftige [Konflikte](/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess.
+Damit diese nicht in heftige [Konflikte](/blog/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess.
 
 Du hast das Gefühl es gibt eine Situation, die dich immer wieder an deine Grenze bringt und du weißt nicht weiter? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!

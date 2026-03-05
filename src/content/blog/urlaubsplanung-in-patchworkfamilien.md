@@ -10,14 +10,14 @@ image: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Wir sitzen gerade wieder an der Urlaubsplanung. Wann verreisen wir wohin mit den Kindern? Was wollen wir erleben? Welche Bedürfnisse müssen dabei erfüllt werden? Und wie kann ich mir dabei als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/)Auszeiten nehmen? Und muss ich überhaupt mit allen gemeinsam fahren?
+Wir sitzen gerade wieder an der Urlaubsplanung. Wann verreisen wir wohin mit den Kindern? Was wollen wir erleben? Welche Bedürfnisse müssen dabei erfüllt werden? Und wie kann ich mir dabei als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)Auszeiten nehmen? Und muss ich überhaupt mit allen gemeinsam fahren?
 Lass uns all diese Fragen gleich einmal genauer betrachten.
 
 ## So kommen alle auf ihre Kosten
 
 Ein harmonischer Patchwork-Urlaub beginnt damit, dass du die individuellen Bedürfnisse aller [Familienmitglieder](https://www.kribbelbunt.de/artikel/news/die-10-schoensten-urlaubsziele-mit-kindern/) berücksichtigst. Das kann eine Herausforderung sein, denn oft haben Erwachsene und Kinder unterschiedliche Vorstellungen davon, was Erholung und Spaß bedeuten.
 
-*Hier ist es wichtig, dass du offen mit deinem Partner und den Kindern [sprichst](/aktives-zuhoeren-in-der-patchworkfamilie/) – dafür eignet sich hervorragend eine Familienkonferenz.* Finde heraus, was sich jeder vom Urlaub erhofft. Vielleicht wünschen sich die Kinder actionreiche Aktivitäten, während du und dein Partner auch mal Ruhe und Zweisamkeit genießen möchtet. In diesem Fall könntet ihr den Urlaub in Abschnitte unterteilen: Eine gemeinsame Familienzeit und Auszeiten für euch als Paar, in denen die Kinder bei den Großeltern oder im Kinderclub gut aufgehoben sind.
+*Hier ist es wichtig, dass du offen mit deinem Partner und den Kindern [sprichst](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) – dafür eignet sich hervorragend eine Familienkonferenz.* Finde heraus, was sich jeder vom Urlaub erhofft. Vielleicht wünschen sich die Kinder actionreiche Aktivitäten, während du und dein Partner auch mal Ruhe und Zweisamkeit genießen möchtet. In diesem Fall könntet ihr den Urlaub in Abschnitte unterteilen: Eine gemeinsame Familienzeit und Auszeiten für euch als Paar, in denen die Kinder bei den Großeltern oder im Kinderclub gut aufgehoben sind.
 
 *Vergiss dabei nicht, auch auf deine eigenen Bedürfnisse zu achten.* Wenn du spürst, dass ein Urlaub ohne dich für alle Beteiligten entspannter wäre, ist das völlig in Ordnung. Sprich mit deinem Partner darüber und trefft diese Entscheidung gemeinsam, ohne Schuldgefühle. Erkläre den Kindern einfühlsam, warum du nicht mitkommst und dass dies nichts mit mangelnder Zuneigung zu tun hat. Vielleicht plant ihr stattdessen einen separaten Kurztrip mit den Kindern, bei dem du ganz für sie da sein kannst.
 
