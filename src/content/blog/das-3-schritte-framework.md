@@ -48,7 +48,7 @@ Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien 
 
 >
 
-„in schwierigen zeiten ist familie das beste.”– burmesisches sprichwort
+> „in schwierigen zeiten ist familie das beste.”" – Burmesisches Sprichwort
 
 ## Hindernisse überwinden
 

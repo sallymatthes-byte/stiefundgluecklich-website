@@ -183,8 +183,6 @@ Vielleicht fragst du dich:
 
 - Wie spreche ich mit meinem Bonuskind über meine Rolle in seinem Schulleben?
 
-In diesem 60-minütigen Gespräch:
-
 - Hören wir uns deine aktuelle Situation an
 
 - Identifizieren die größten Herausforderungen, die dich zurückhalten

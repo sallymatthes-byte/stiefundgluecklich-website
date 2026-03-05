@@ -42,7 +42,7 @@ Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen.
 
 >
 
-„wer sich selbst versteht, kommuniziert besser.”– friedemann schulz von thun
+> „wer sich selbst versteht, kommuniziert besser.”" – Friedemann Schulz von Thun
 
 ## Aneinander vorbeireden – Wenn unterschiedliche Ebenen aufeinanderprallen
 

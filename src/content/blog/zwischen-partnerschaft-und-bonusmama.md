@@ -55,7 +55,7 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 >
 
-„Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas Schönes bauen.”– erich kästner
+> „Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas Schönes bauen.”" – Erich Kästner
 
 ## Grenzen setzen und verantwortung abgeben
 

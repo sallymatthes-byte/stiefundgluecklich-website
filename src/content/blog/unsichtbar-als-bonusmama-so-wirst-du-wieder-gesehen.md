@@ -115,9 +115,6 @@ Jetzt kommt der wichtigste Teil: das Gespräch mit deinem Partner. Und hier lieg
 
 Wenn du das Gefühl hast, dein Partner versteht dich nicht oder blockt ab, dann sei geduldig. Viele reagieren erst mal defensiv, weil sie sich angegriffen fühlen. Bleib ruhig und mache deutlich, dass es nicht um Vorwürfe geht, sondern darum, gemeinsam eure Beziehung zu stärken.
 
-Jetzt bist du dran – Lass uns gemeinsam deine Beziehung stärken!
-
-Wenn du jetzt denkst: “Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?” – dann bist du nicht allein. Jede Patchworkfamilie hat ihre eigenen Dynamiken, Herausforderungen und Möglichkeiten.
 
 Vielleicht fragst du dich:
 
@@ -126,9 +123,6 @@ Vielleicht fragst du dich:
 > Wie finde ich eine Balance zwischen Familienleben und Paarzeit, ohne mich egoistisch zu fühlen?
 > Wie kann ich meinen Platz in der Patchwork-Familie finden, ohne ständig das Gefühl zu haben, im Hintergrund zu stehen?
 
-In unserem 60-minütigen Gespräch:
-
-✅ Schauen wir uns deine aktuelle Situation genau an – Was sind die Muster, die dich immer wieder ins Abseits drängen?✅ Identifizieren wir deine größten Herausforderungen – und warum du dich in bestimmten Momenten so unsichtbar fühlst.✅ Entwickeln wir erste konkrete Schritte – die du sofort umsetzen kannst, um dich wieder als Partnerin wahrgenommen zu fühlen.✅ Prüfen wir, ob eine längerfristige Zusammenarbeit für dich sinnvoll wäre – damit du nicht nur kurzfristige Lösungen findest, sondern langfristig mehr Harmonie und Klarheit gewinnst.
 
 > Denk daran: Die wichtigste Frage ist nicht, warum du dich unsichtbar fühlst – sondern wie du deine Position aktiv gestalten kannst, ohne Schuldgefühle und Konflikte.
 

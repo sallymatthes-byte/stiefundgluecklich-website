@@ -47,7 +47,7 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 >
 
-„eifersucht ist liebesneid“– wilhelm busch
+> „eifersucht ist liebesneid“" – Wilhelm Busch
 
 ## Die unsichtbaren Mauern der Eifersucht
 
@@ -101,16 +101,6 @@ Vielleicht liest du diese Zeilen gerade mit pochendem Herzen, weil du dich in je
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 ***Du bist nicht allein mit diesen Gedanken.*** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
-
-### Lass uns gemeinsam deine Situation analysieren
-
-In einem persönlichen 60-minütigen Gespräch schauen wir uns an:
-
-- Wo genau deine Eifersucht-Trigger liegen
-
-- Wie du deine Position in der Familie nachhaltig stärken kannst
-
-- Ob mein Bonusmama-Programm “Raus aus der Stiefmutter-Falle” der richtige Weg für dich ist
 
 
 “Ich dachte, ich würde diese Eifersucht nie überwinden. Sallys Ansatz hat mir die Augen geöffnet – heute kann ich die Beziehung zwischen meinem Partner und seinem Kind sogar als Bereicherung sehen. Das hätte ich nie für möglich gehalten!” – Christina, 38, Bonusmama eines 6-jährigen Sohnes

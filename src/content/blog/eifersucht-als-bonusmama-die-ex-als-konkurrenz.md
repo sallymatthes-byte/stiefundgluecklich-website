@@ -145,19 +145,10 @@ Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie
 
 Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist – nicht trotz, sondern gerade wegen ihrer besonderen Rolle als Bonusmama.*
 
-### Lass uns gemeinsam deine Geschichte schreiben
-
-In einem persönlichen 60-minütigen Gespräch erkunden wir:
-
 - Wie deine ***individuellen Eifersuchtsmuster*** aussehen
-
-- Welche *verborgenen Stärken* in dir schlummern
 
 - Wie du diese Gefühle in ***Kraft und Selbstbewusstsein*** verwandeln kannst
 
-- Ob mein Bonusmama-Programm der richtige nächste Schritt für dich ist
-
->
 
 ***“Durch Sallys Begleitung habe ich gelernt, dass meine Eifersucht mir eigentlich etwas Wichtiges sagen wollte. Heute kann ich viel gelassener mit der Ex-Situation umgehen und fühle mich sicher in meiner Rolle als Bonusmama.”*** – Maria, 36, Bonusmama von drei Kindern
 

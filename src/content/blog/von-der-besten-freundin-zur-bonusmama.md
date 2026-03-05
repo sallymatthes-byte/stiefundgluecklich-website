@@ -45,7 +45,7 @@ Doch um all diese Ziele zu erreichen, musste Marion erst einmal herausfinden, wi
 
 Mit diesen Wünschen und Zielen im Herzen machte sich Marion auf den Weg, die Herausforderungen anzunehmen und sich Schritt für Schritt in ihre neue Rolle als Bonusmama einzufinden. Sie war bereit, alles dafür zu tun, um die erträumte Harmonie in ihrer Patchworkfamilie Wirklichkeit werden zu lassen.
 
-> „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”– mark twain
+> „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”" – Mark Twain
 
 ## Gerüchte, anfeindungen und das gefühl des alleingelassenseins
 
@@ -88,5 +88,3 @@ Heute ist Marion eine Inspiration für viele andere Patchwork-Familien. Sie mach
 
 ## Zusammenfassung
 Marions Geschichte zeigt, wie herausfordernd es sein kann, von der besten Freundin zur Bonusmama zu werden. Doch durch die Zusammenarbeit mit mir als Coach und die Anwendung eines ganzheitlichen Ansatzes, der auf Analyse, Veränderungen und Kommunikation basiert, gelang ihr eine beeindruckende Verwandlung. Sie entwickelte sich von der verunsicherten Außenseiterin zur selbstbewussten und liebevollen Bonusmama, die ihre neue Identität mit Freude und Stärke lebt.
-
-Wenn auch du als Bonusmama Herausforderungen erlebst und dir eine ähnliche Transformation wünschst, lade ich dich herzlich ein, mit mir zusammenzuarbeiten. Gemeinsam finden wir die Strategie, die zu dir und deiner einzigartigen Situation passt und die dir hilft, deine Ziele zu erreichen und ein harmonisches Familienleben zu gestalten. Lass uns gemeinsam deine Geschichte schreiben und dich in deine Kraft als Bonusmama bringen – ich freue mich darauf, dich auf diesem Weg zu begleiten!

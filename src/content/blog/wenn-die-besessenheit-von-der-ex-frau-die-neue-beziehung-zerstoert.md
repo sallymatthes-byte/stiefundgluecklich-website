@@ -144,15 +144,7 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 
 **Lass uns in einem kostenlosen Analysegespräch gemeinsam herausfinden:**
 
-- Wo genau in deiner Situation die größten Stellschrauben für Veränderung liegen
-
-- Welche unbewussten Muster dich momentan noch blockieren
-
-- Ob mein Bonusmama-Programm der richtige Weg für dich ist
-
 - Wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
-
-In diesem 60-minütigen Gespräch nehmen wir uns Zeit, deine spezifische Situation zu verstehen. Gemeinsam analysieren wir, was dich aktuell am meisten belastet und welche Lösungswege für dich in Frage kommen.
 
 
 “Ich hatte schon fast aufgegeben. Die ständigen Einmischungen der Ex-Frau haben mich zermürbt und unsere Beziehung belastet. Durch Sallys Coaching habe ich nicht nur gelernt, damit umzugehen – ich bin selbst so viel stärker geworden. Heute führen wir eine glückliche Beziehung, und die Störversuche perlen einfach an mir ab.” – Sarah, 34, Bonusmama von zwei Kindern

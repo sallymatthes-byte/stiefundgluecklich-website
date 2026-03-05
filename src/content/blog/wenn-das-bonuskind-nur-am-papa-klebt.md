@@ -37,9 +37,6 @@ Ich stellte mir vor, wie wir gemeinsam lachen, spielen und Erinnerungen schaffen
 
 Ich träumte von einer Patchworkfamilie, in der jeder seinen Platz hatte und sich geborgen fühlte. Eine Familie, in der wir füreinander einstehen, uns gegenseitig unterstützen und gemeinsam durch dick und dünn gehen würden. Ich sehnte mich nach einem Zuhause voller Liebe, Verständnis und Zusammenhalt.
 
-Doch um dieses Verlangen Wirklichkeit werden zu lassen, musste ich erkennen, dass es an mir lag, die Veränderung anzustoßen. Ich musste aktiv werden, meine Ängste überwinden und auf die Kinder zugehen. Nur so konnte ich die Mauern einreißen und eine tiefe, bedeutungsvolle Beziehung zu ihnen aufbauen.
-
-> „Wenn du etwas nicht magst, ändere es. Wenn du es nicht ändern kannst, ändere deine Einstellung.”– maya angelou
 
 ## Rückzug und diestanz – direkt in die sackgasse
 
@@ -51,9 +48,6 @@ Ich erkannte, dass ich mit meinem Verhalten in eine Sackgasse geraten war. Ansta
 
 Mir wurde klar, dass ich etwas ändern musste, wenn ich ein harmonisches Familienleben führen wollte. Ich musste lernen, mit meinen Gefühlen umzugehen, ohne mich zu isolieren. Ich brauchte ein neues Verständnis für die Situation und den Mut, auf die Kinder zuzugehen, auch wenn es bedeutete, verletzlich zu sein.
 
-Der Weg aus der Sackgasse erforderte Selbstreflexion, Geduld und die Bereitschaft, neue Wege einzuschlagen. Ich musste meine Überzeugungen hinterfragen und lernen, die Dinge aus einer anderen Perspektive zu betrachten. Nur so konnte ich die Mauern einreißen und eine liebevolle Beziehung zu meinen Bonuskindern aufbauen.
-
-Und was das genau war, erfährst du im nächsten Abschnitt.
 
 ## Annäherung statt rückzug
 
@@ -77,10 +71,3 @@ Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen di
 Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen – als Familie.
 
 ## Zusammenfassung
-Als Bonusmama fühlte ich mich oft ausgeschlossen und sehnte mich nach einer engen Beziehung zu meinen Bonuskindern. Anfangs zog ich mich zurück, wenn die Kinder am Papa klebten, doch ich merkte, dass dies keine Lösung war. Durch Analyse, Veränderungen in meinem Verhalten und offene Kommunikation mit meinem Partner gelang es mir, eine liebevolle Bindung zu den Kindern aufzubauen. Heute sind wir eine glückliche Patchworkfamilie, in der Vertrauen, Zusammenhalt und gegenseitige Wertschätzung an erster Stelle stehen.**Bist du auch eine Bonusmama, die sich nach einer tieferen Verbindung zu ihren Bonuskindern sehnt?**Möchtest du lernen, wie du eine harmonische Patchworkfamilie gestalten und deinen Platz im Herzen der Kinder einnehmen kannst? Dann ist mein Coaching-Programm genau das Richtige für dich!
-
-In meinem 8-wöchigen Coaching-Kurs “Raus aus der Stiefmutterfalle und rein ins Patchworkglück” begleite ich dich Schritt für Schritt auf deinem Weg zu einem erfüllten Familienleben. Du lernst, wie du mit deinen Gefühlen umgehst, die Bedürfnisse der Kinder verstehst und eine liebevolle Beziehung zu ihnen aufbaust. Gemeinsam entwickeln wir Strategien, um Herausforderungen zu meistern und ein harmonisches Miteinander in der Patchworkfamilie zu schaffen.
-
-Profitiere von meiner Erfahrung als Bonusmama und lass dich von mir inspirieren und motivieren. Mithilfe praktischer Übungen, wertvoller Tipps und dem Austausch mit gleichgesinnten Bonusmamas wirst du schon bald spürbare Veränderungen in deiner Familie erleben.
-
-Zögere nicht länger und melde dich noch heute für mein Coaching-Programm an! Ich freue mich darauf, dich auf deiner Reise zu begleiten und gemeinsam mit dir dein Familienleben positiv zu gestalten. Lass uns gemeinsam die Mauern einreißen und eine Patchworkfamilie voller Liebe und Vertrauen schaffen!

@@ -48,9 +48,6 @@ Fühlst du dich manchmal zerrissen zwischen deinen Vorstellungen von Erziehung u
 
 Dann lass uns sprechen.
 
-In einem persönlichen 60-minütigen Gespräch schauen wir gemeinsam:
-
--
 
 wo genau eure Erziehungskonflikte liegen
 

@@ -86,16 +86,6 @@ Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zu
 
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
 
-## Lass uns gemeinsam einen Weg finden
-
-In einem vertrauensvollen 60-minütigen Gespräch schauen wir uns an:
-
-- Wo genau deine Beziehung mehr Nähe braucht
-
-- Wie ihr trotz Familienalltag eure Verbindung stärken könnt
-
-- Ob mein Bonusmama-Programm der richtige Weg für euch ist
-
 
 >
 

@@ -68,11 +68,6 @@ Kennst du diese Momente auch? Du liegst nachts wach und fragst dicht:
 
 Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können.**
 
-## Lass uns gemeinsam deinen Weg finden
-
-In einem persönlichen, vertraulichen Gespräch schauen wir gemeinsam auf deine Situation:
-
--
 
 Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen?
 
@@ -82,12 +77,6 @@ Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama a
 
 -
 
-Und: Ist mein Bonusmama-Programm gerade der richtige Schritt für dich?
-
-> Dies ist deine Chance, endlich Klarheit zu finden – und einen Weg zu wählen, der wirklich zu DIR passt.Nicht zu einer Vorstellung davon, wie eine „perfekte“ Bonusmama sein sollte.
-
-
-„Sallys Begleitung hat mir die Augen geöffnet. Heute weiß ich, dass ich keine perfekte Bonusmama sein muss – ich darf einfach ich selbst sein und in meine Rolle hineinwachsen.“– Marie, 34, Bonusmama von zwei Kindern
 
 ## UND FALLS DU GERADE EINFACH NUR SPÜREN WILLST, OB DAS DER WEG FÜR DICH IST:
 

@@ -97,5 +97,3 @@ Loslassen hat nicht nur meine Familie verändert, sondern auch mich selbst. Ich 
 
 ## Zusammenfassung
 Micromanaging schadet dir und deiner Familie. Doch mit der Bonusmama-Formel kannst du lernen, loszulassen und Vertrauen aufzubauen. Das wird nicht nur deine Beziehungen stärken, sondern auch dein eigenes Leben leichter machen.
-
-Du willst wissen, wie das konkret für dich und deine Familiensituation aussieht? Stell dir vor, du legst endlich den schweren Rucksack voller Verantwortung ab und spürst, wie sich Erleichterung in deinem Alltag ausbreitet. Lass uns gemeinsam herausfinden, ob die Bonusmama-Formel der richtige Weg für dich ist. Lass uns gemeinsam herausfinden, ob die Bonusmama-Formel der richtige Weg für dich ist.

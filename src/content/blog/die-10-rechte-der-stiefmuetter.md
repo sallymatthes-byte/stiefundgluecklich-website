@@ -26,7 +26,7 @@ Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von d
 
 >
 
-„Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen..”– j.W. von Goethe
+> „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen..”" – J.W. von Goethe
 
 ## #1 “Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen.”
 

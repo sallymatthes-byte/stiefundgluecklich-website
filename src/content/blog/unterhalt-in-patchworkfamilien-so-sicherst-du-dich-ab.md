@@ -143,11 +143,5 @@ Vielleicht fragst du dich:
 
 💰 Wie kann ich mich in finanziellen Entscheidungen einbringen, ohne Konflikte auszulösen?💰 Wie kann ich sicherstellen, dass ich finanziell nicht benachteiligt werde?💰 Wie spreche ich mit meinem Partner über Geld, ohne dass es Streit gibt?
 
-> In unserem 60-minütigen Gespräch:✅ Schauen wir uns deine aktuelle Situation genau an.✅ Identifizieren wir die größten Herausforderungen.✅ Erarbeiten wir erste konkrete Schritte, die du sofort umsetzen kannst.
-
-> Die wichtigste Frage ist nicht, wie hoch der Unterhalt ist – sondern wie ihr als Paar eure Finanzen fair regelt.
-
 
 Doch stell dir vor, wie es sich anfühlen würde, finanzielle Sicherheit zu haben, ohne dass du dich benachteiligt fühlst. Stell dir vor, du wüsstest genau, wo du stehst – und wie du deinen Platz in der Patchwork-Familie gestaltest, ohne dabei auf eigene finanzielle Unabhängigkeit zu verzichten.
-
-Diese Veränderung ist möglich. Und du musst sie nicht allein schaffen.
