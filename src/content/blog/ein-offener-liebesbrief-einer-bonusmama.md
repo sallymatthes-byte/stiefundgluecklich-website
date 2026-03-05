@@ -4,14 +4,14 @@ description: "Mein offener Brief an meinen Partner, den Vater meiner Bonuskinder
 category: "partnerschaft"
 date: 2024-08-07
 updated: 2024-08-05
-metaTitle: "Ein offener Liebesbrief einer Bonusmama"
-metaDescription: "Mein offener Brief an meinen Partner, den Vater meiner Bonuskinder - in Liebe, Demütigkeit und Dankbarkeit."
+metaTitle: "Ein Liebesbrief an alle Bonusmamas: Du machst das großartig"
+metaDescription: "An alle Bonusmamas, die gerade zweifeln: Dieser offene Brief ist für dich. Du bist genug — genau so wie du bist."
 image: "https://stiefundgluecklich.de/wp-content/uploads/2024/07/steph_franchess_httpss.mj_.runcdv8895R2PM_Create_a_digital_ill_4220e2e6-ef96-4d20-a4fc-bcbe394cb7ba_0.png"
 ---
 
 Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als Bonusmama die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
 
-#### Lieber Stéphane,
+## Lieber Stéphane,
 
 erinnerst du dich noch an unseren Anfang? Damals, an diesem zauberhaften Strand in Thailand, als ich meinen Tauchschein machen wollte und außerdem die Liebe meines Lebens fand? Als ich dich sah, war es, als würde uns ein Band magisch zueinander hinziehen. Trotz der Sprachbarriere spürte ich sofort eine tiefe Verbindung zu dir.
 
@@ -41,5 +41,3 @@ In tiefer Liebe und Verbundenheit,
 Sally
 
 >
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

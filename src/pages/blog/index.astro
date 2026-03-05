@@ -65,42 +65,52 @@ const categoryLabels: Record<string, string> = {
           <p class="text-muted-foreground text-lg">Noch keine Artikel vorhanden.</p>
         </div>
       ) : (
-        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="blog-grid">
-          {blogPosts.map((post) => (
-            <a href={`/blog/${post.slug}`} class="blog-card group" data-category={categoryLabels[post.data.category] || post.data.category}>
-              <div class="border border-border overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer h-full flex flex-col">
-                {post.data.image && (
-                  <div class="aspect-[16/10] overflow-hidden bg-secondary">
-                    <img 
-                      src={post.data.image} 
-                      alt={post.data.title} 
-                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
-                      loading="lazy" 
-                    />
-                  </div>
-                )}
-                <div class="p-5 md:p-6 flex flex-col flex-1">
-                  <div class="flex items-center gap-3 md:gap-4 mb-3">
-                    <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{categoryLabels[post.data.category] || post.data.category}</span>
-                    {post.data.readingTime && (
-                      <span class="text-xs text-muted-foreground">🕐 {post.data.readingTime}</span>
-                    )}
-                  </div>
-                  <h2 class="font-serif text-lg md:text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
-                    {post.data.title}
-                  </h2>
-                  <p class="text-muted-foreground text-sm leading-relaxed mb-4 flex-1">{post.data.excerpt}</p>
-                  <div class="flex items-center text-primary text-sm font-medium group-hover:gap-2 transition-all">
-                    Artikel lesen
-                    <svg class="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                    </svg>
+        <>
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="blog-grid">
+            {blogPosts.map((post, index) => (
+              <a href={`/blog/${post.slug}`} class="blog-card group" data-category={categoryLabels[post.data.category] || post.data.category} data-index={index}>
+                <div class="border border-border overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer h-full flex flex-col">
+                  {post.data.image && (
+                    <div class="aspect-[16/10] overflow-hidden bg-secondary">
+                      <img 
+                        src={post.data.image} 
+                        alt={post.data.title} 
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                        loading="lazy" 
+                      />
+                    </div>
+                  )}
+                  <div class="p-5 md:p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-3 md:gap-4 mb-3">
+                      <span class="text-xs font-medium text-primary bg-primary/10 px-3 py-1">{categoryLabels[post.data.category] || post.data.category}</span>
+                      {post.data.readingTime && (
+                        <span class="text-xs text-muted-foreground">🕐 {post.data.readingTime}</span>
+                      )}
+                    </div>
+                    <h2 class="font-serif text-lg md:text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
+                      {post.data.title}
+                    </h2>
+                    <p class="text-muted-foreground text-sm leading-relaxed mb-4 flex-1">{post.data.description || post.data.excerpt}</p>
+                    <div class="flex items-center text-primary text-sm font-medium group-hover:gap-2 transition-all">
+                      Artikel lesen
+                      <svg class="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                      </svg>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </a>
-          ))}
-        </div>
+              </a>
+            ))}
+          </div>
+          <div class="text-center mt-10" id="show-more-wrapper" style="display:none;">
+            <button id="show-more-btn" class="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary/10 px-6 py-2.5 font-medium transition-colors">
+              Weitere Artikel anzeigen
+              <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+          </div>
+        </>
       )}
     </div>
   </section>
@@ -125,23 +135,61 @@ const categoryLabels: Record<string, string> = {
 </Layout>
 
 <script>
+  const INITIAL_SHOW = 3;
+  let expanded = false;
+  let currentCat = 'Alle';
+
+  function applyFilter() {
+    const cards = document.querySelectorAll('.blog-card') as NodeListOf<HTMLElement>;
+    let visibleCount = 0;
+    let totalVisible = 0;
+
+    cards.forEach(card => {
+      const cardCat = card.dataset.category;
+      const matches = currentCat === 'Alle' || cardCat === currentCat;
+      
+      if (matches) {
+        totalVisible++;
+        if (expanded || visibleCount < INITIAL_SHOW) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    const wrapper = document.getElementById('show-more-wrapper') as HTMLElement;
+    const btn = document.getElementById('show-more-btn') as HTMLElement;
+    if (totalVisible > INITIAL_SHOW && !expanded) {
+      wrapper.style.display = '';
+      btn.textContent = `Weitere ${totalVisible - INITIAL_SHOW} Artikel anzeigen`;
+    } else {
+      wrapper.style.display = 'none';
+    }
+  }
+
   document.querySelectorAll('.category-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const cat = (btn as HTMLElement).dataset.category;
+      currentCat = (btn as HTMLElement).dataset.category || 'Alle';
+      expanded = false;
       
       document.querySelectorAll('.category-btn').forEach(b => {
         b.className = 'category-btn px-3 md:px-4 py-1.5 md:py-2 text-sm font-medium transition-colors border border-border text-muted-foreground hover:text-foreground hover:border-primary';
       });
       btn.className = 'category-btn px-3 md:px-4 py-1.5 md:py-2 text-sm font-medium transition-colors bg-primary text-primary-foreground';
       
-      document.querySelectorAll('.blog-card').forEach(card => {
-        const cardCat = (card as HTMLElement).dataset.category;
-        if (cat === 'Alle' || cardCat === cat) {
-          (card as HTMLElement).style.display = '';
-        } else {
-          (card as HTMLElement).style.display = 'none';
-        }
-      });
+      applyFilter();
     });
   });
+
+  document.getElementById('show-more-btn')?.addEventListener('click', () => {
+    expanded = true;
+    applyFilter();
+  });
+
+  // Initial state: show 3
+  applyFilter();
 </script>

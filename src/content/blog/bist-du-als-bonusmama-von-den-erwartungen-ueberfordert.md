@@ -4,8 +4,8 @@ description: "Viele Bonusmamas plagen sich mit 'Ich sollte'-Gedanken: Ich sollte
 category: "rolle-identitaet"
 date: 2024-09-27
 updated: 2024-09-09
-metaTitle: "Bist du als Bonusmama von den Erwartungen überfordert?"
-metaDescription: "Viele Bonusmamas plagen sich mit 'Ich sollte'-Gedanken: Ich sollte die Kinder lieben, mich zurücknehmen usw. Erfahre, wie du dich davon befreien kannst."
+metaTitle: "Überfordert als Bonusmama? Wenn die Erwartungen dich erdrücken"
+metaDescription: "Alle erwarten alles — und du funktionierst nur noch? Warum Bonusmamas besonders unter Erwartungsdruck stehen und was hilft."
 image: "https://stiefundgluecklich.de/wp-content/uploads/2024/09/steph_franchess_httpss.mj_.runo9fcNNP7b4A_Create_a_digital_ill_faf349c0-f87b-4f18-9c94-049db55549ba_2.png"
 ---
 
@@ -18,7 +18,7 @@ Ich sollte ihnen gesunde Lebensmittel servieren.
 Ich könnte diese Reihe noch ewig lang fortsetzen, mit all den Erwartungen, die mir als Bonusmama schon begegnet sind.
 Lass uns daher mal genauer einen Blick darauf werfen.
 
-#### “Ich Sollte” – Gedanken von Bonusmamas
+## “Ich Sollte” – Gedanken von Bonusmamas
 
 Kennst du das? In deinem Kopf kreisen ständig diese Gedanken:
 
@@ -52,72 +52,62 @@ ursachen dieser gedanken
 
 Aber woher kommen all diese “Ich sollte”-Gedanken eigentlich? Warum tragen wir Bonusmamas so viele Erwartungen an uns selbst heran? Die Ursachen dafür sind vielfältig.
 
-Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
+Zum einen spielen**gesellschaftliche Vorstellungen und Normen**eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
-Auch **familiäre Prägungen und eigene Kindheitserfahrungen** tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
+Auch**familiäre Prägungen und eigene Kindheitserfahrungen**tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
 
-Der **Wunsch nach Kontrolle und Perfektion** ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
+Der**Wunsch nach Kontrolle und Perfektion**ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
 
-Nicht zuletzt spielt die **Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
+Nicht zuletzt spielt die**Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
 
 All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “sollten”. Doch damit tun wir uns keinen Gefallen, denn die “Ich sollte”-Sätze führen oft zu Überforderung und Schuldgefühlen.
 
->
-
-„Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben.“
+> „Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben.“
 – katharine hepburn
 
-#### auswirkungen der “ich sollte”- gedanken
+## auswirkungen der “ich sollte”- gedanken
 
 Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
 
 -
 
-Wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell *überfordert und gestresst*. Wir haben das Gefühl, ständig zu funktionieren und nicht zur Ruhe zu kommen. Das geht auf Kosten unserer psychischen und körperlichen Gesundheit.
+Wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell*überfordert und gestresst*. Wir haben das Gefühl, ständig zu funktionieren und nicht zur Ruhe zu kommen. Das geht auf Kosten unserer psychischen und körperlichen Gesundheit.
 
 -
 
-Auch unser *Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
+Auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
 
 -
 
-Die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu *Misstrauen und Distanz* führen.
+Die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu*Misstrauen und Distanz* führen.
 
 -
 
-Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung. *Konflikte sind vorprogrammiert.*
+Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung.*Konflikte sind vorprogrammiert.*
 
 -
 
-Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu *Ungleichgewichten und Spannungen* in der Familie führen.
+Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
-#### entfliehe den Erwartungen
+## entfliehe den Erwartungen
 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
-💎 **Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.** Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
+- 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.**Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 
-💎 **Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.** Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
+- 💎**Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.**Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
 
-💎 **Übe dich in Selbstmitgefühl.** Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
+- 💎**Übe dich in Selbstmitgefühl.**Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
 
-💎 **Tausche dich mit anderen Bonusmamas aus.** Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
+- 💎**Tausche dich mit anderen Bonusmamas aus.**Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
 
-💎**Hole dir Unterstützung, wenn du sie brauchst.** Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
+- 💎**Hole dir Unterstützung, wenn du sie brauchst.**Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
 
 Der Weg zu einem Leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine ganze Patchworkfamilie.
 
 Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deinem Weg als Bonusmama bekommen möchtest, kann ein Coaching eine wertvolle Hilfe sein. Hier hast du den geschützten Raum, deine Situation zu reflektieren und ganz konkrete Lösungen für deinen Alltag zu entwickeln.
 
-Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt. ***Von “Ich sollte” zu “Ich möchte”.***
-
-IN A NUTSHELL
-
+Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt.***Von “Ich sollte” zu “Ich möchte”.***## Zusammenfassung
 Viele Bonusmamas plagen sich mit “Ich sollte”-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – von gesellschaftlichen Erwartungen über familiäre Prägungen bis hin zur Angst, nicht zu genügen. Sich von diesen Gedanken zu befreien, ist ein Prozess, der Selbstreflexion, Selbstfürsorge und oft auch Unterstützung von außen erfordert. Ein Coaching kann dabei helfen, individuelle Lösungen zu finden und Schritt für Schritt zu einem erfüllteren Leben als Bonusmama zu gelangen.
 
 Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!
-
-Mach’s ganz gut,
-Deine Sally
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

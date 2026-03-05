@@ -4,8 +4,8 @@ description: "Konflikte mit den Bonuskindern in der Partnerschaft? Erfahre, wie 
 category: "kinder-bindung"
 date: 2023-12-15
 updated: 2024-06-15
-metaTitle: "Bonuskinder und Konflikte: Wie du harmonische Beziehungen aufbaust"
-metaDescription: "Konflikte mit den Bonuskindern in der Partnerschaft? Erfahre, wie du harmonische Beziehungen aufbaust und Konflikte konstruktiv löst."
+metaTitle: "Konflikte mit Bonuskindern: So baust du Brücken statt Mauern"
+metaDescription: "Streit, Ablehnung, Trotz — Konflikte mit Bonuskindern tun besonders weh. Was dahintersteckt und wie du damit umgehst."
 image: "https://stiefundgluecklich.de/wp-content/uploads/2023/12/steph_franchess_httpss.mj_.run5FWh2pOO01w_Create_a_digital_ill_8f6df72b-e031-4550-a0fe-1ff36f006b80_0.png"
 ---
 
@@ -16,62 +16,48 @@ Daher möchte ich dich heute einmal mit durch meine Gedanken und Überlegungen n
 
 Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, Konflikte mit den Bonuskindern zu minimieren und eine harmonische Beziehung aufzubauen. Wir werden uns außerdem mit dem Verständnis für die Situation der Kinder, dem Setzen und Respektieren von Grenzen, der Bedeutung der Kommunikation und der Schaffung gemeinsamer Aktivitäten und Rituale beschäftigen.
 
-#### Weshalb entstehen konflikte?
+## Weshalb entstehen konflikte?
 
-Nicht nur die Pubertät bringt Konflikte mit den Bonuskindern hervor. Auch in anderen Situationen kann es immer wieder zu Unstimmigkeiten und Streitereien kommen. **Wo Reibung entsteht, entsteht Wärme. **Dass also Konflikte entstehen, ist meines Erachtens absolut natürlich, wenn Menschen miteinander im Kontakt sind. Und sie bergen ein enormes Potenzial zu einem harmonischen Miteinander.
+Nicht nur die Pubertät bringt Konflikte mit den Bonuskindern hervor. Auch in anderen Situationen kann es immer wieder zu Unstimmigkeiten und Streitereien kommen.**Wo Reibung entsteht, entsteht Wärme.**Dass also Konflikte entstehen, ist meines Erachtens absolut natürlich, wenn Menschen miteinander im Kontakt sind. Und sie bergen ein enormes Potenzial zu einem harmonischen Miteinander.
 
-Mir ist es ist wichtig, dass ich versuche mich in die Rolle der Kinder hineinversetzen und ihre *Sichtweise verstehen*. Kinder in Patchworkfamilien müssen oft mit verschiedenen Veränderungen und Herausforderungen umgehen, wie dem Gefühl des Verlustes, der Anpassung an neue Regeln und Dynamiken oder der Beziehung zu ihrem leiblichen Elternteil. Indem ich mich bemühe, die Gefühle und Bedürfnisse zu verstehen, kann ich eine Atmosphäre des **Verständnisses und der Empathie** schaffen.
+Mir ist es ist wichtig, dass ich versuche mich in die Rolle der Kinder hineinversetzen und ihre*Sichtweise verstehen*. Kinder in Patchworkfamilien müssen oft mit verschiedenen Veränderungen und Herausforderungen umgehen, wie dem Gefühl des Verlustes, der Anpassung an neue Regeln und Dynamiken oder der Beziehung zu ihrem leiblichen Elternteil. Indem ich mich bemühe, die Gefühle und Bedürfnisse zu verstehen, kann ich eine Atmosphäre des**Verständnisses und der Empathie**schaffen.
 
-Ein erster Schritt, um Verständnis aufzubauen, ist das *offene Gespräch* mit den Kindern. Wir sollten ihnen die Möglichkeit geben, ihre Gefühle und Gedanken auszudrücken und ihnen das Gefühl geben, dass ihre Meinung respektiert wird. Fragen wie “Wie geht es dir gerade?”, “Möchtest du mir erzählen, was dich gerade ärgert?” oder “Was wünschst du dir jetzt?” eröffnen Gespräche auf Augenhöhe. Indem wir aktiv zuhören und uns in ihre Lage versetzen, können wir besser verstehen, was sie durchmachen und wie wir ihnen dabei helfen können, sich in der neuen Familiensituation wohlzufühlen.
+Ein erster Schritt, um Verständnis aufzubauen, ist das*offene Gespräch* mit den Kindern. Wir sollten ihnen die Möglichkeit geben, ihre Gefühle und Gedanken auszudrücken und ihnen das Gefühl geben, dass ihre Meinung respektiert wird. Fragen wie “Wie geht es dir gerade?”, “Möchtest du mir erzählen, was dich gerade ärgert?” oder “Was wünschst du dir jetzt?” eröffnen Gespräche auf Augenhöhe. Indem wir aktiv zuhören und uns in ihre Lage versetzen, können wir besser verstehen, was sie durchmachen und wie wir ihnen dabei helfen können, sich in der neuen Familiensituation wohlzufühlen.
 
-Es ist auch wichtig, dass wir als Bonuseltern unsere *eigenen Erwartungen und Vorstellungen überdenken*. Jedes Kind ist einzigartig und hat seine eigene Art, Beziehungen aufzubauen. Manche Kinder sind vielleicht von Anfang an offen und bereit, eine enge Beziehung zu uns aufzubauen, während andere möglicherweise mehr Zeit und Raum benötigen. Indem wir unsere Erwartungen anpassen und den Kindern Raum geben, ihre eigene Beziehung zu uns zu gestalten, können wir Konflikte vermeiden und eine authentische Verbindung aufbauen.
+Es ist auch wichtig, dass wir als Bonuseltern unsere*eigenen Erwartungen und Vorstellungen überdenken*. Jedes Kind ist einzigartig und hat seine eigene Art, Beziehungen aufzubauen. Manche Kinder sind vielleicht von Anfang an offen und bereit, eine enge Beziehung zu uns aufzubauen, während andere möglicherweise mehr Zeit und Raum benötigen. Indem wir unsere Erwartungen anpassen und den Kindern Raum geben, ihre eigene Beziehung zu uns zu gestalten, können wir Konflikte vermeiden und eine authentische Verbindung aufbauen.
 
-#### Aus Sicht der Entwicklungspsychologie
+## Aus Sicht der Entwicklungspsychologie
 
-Darüber hinaus ist es mir als Pädagogin auch immer eine Herzensangelegenheit, die *Situation entwicklungspsychologisch* zu betrachten. Ein Kind kann mit 2 Jahren beispielsweise seine Emotionen noch nicht selbst regulieren – es tut es nicht aus Trotz oder um mich zu ärgern – es kann es schlichtweg einfach noch nicht immer selbst. **Häufig sieht man diesen Entwicklungsstand einfach nicht** und erwartet dann von dem Kind Dinge, zu denen es noch nicht in der Lage ist. Sich mit diesen Entwicklungsschritten zu beschäftigen, kann unglaublich bereichernd sein, um Verständnis in die Situation zu bringen.
+Darüber hinaus ist es mir als Pädagogin auch immer eine Herzensangelegenheit, die*Situation entwicklungspsychologisch* zu betrachten. Ein Kind kann mit 2 Jahren beispielsweise seine Emotionen noch nicht selbst regulieren – es tut es nicht aus Trotz oder um mich zu ärgern – es kann es schlichtweg einfach noch nicht immer selbst.**Häufig sieht man diesen Entwicklungsstand einfach nicht**und erwartet dann von dem Kind Dinge, zu denen es noch nicht in der Lage ist. Sich mit diesen Entwicklungsschritten zu beschäftigen, kann unglaublich bereichernd sein, um Verständnis in die Situation zu bringen.
 
 Im nächsten Abschnitt werden wir uns mit einem weiteren wichtigen Punkt beschäftigen: dem Setzen und Respektieren von Grenzen. Denn klare und angemessene Grenzen sind entscheidend für eine gesunde und respektvolle Beziehung zu den Bonuskindern.
 
-#### Wie setze ich Grenzen?
+## Wie setze ich Grenzen?
 
-Als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) ist es für mich besonders wichtig, klare Grenzen zu setzen und diese auch zu kommunizieren. Es ist für mich entscheidend, dass die Kinder wissen, welche Verhaltensweisen akzeptabel sind und welche nicht. Dies schafft *Sicherheit und Struktur* für sie und für mich.
+Als [Bonusmama](/stiefmutter-bonusmama-oder-wie-jetzt/) ist es für mich besonders wichtig, klare Grenzen zu setzen und diese auch zu kommunizieren. Es ist für mich entscheidend, dass die Kinder wissen, welche Verhaltensweisen akzeptabel sind und welche nicht. Dies schafft*Sicherheit und Struktur* für sie und für mich.
 
-Ein Beispiel dafür ist die Festlegung von *Hausregeln*. Gemeinsam mit deinem Partner solltet ihr klare Regeln aufstellen, die für alle Familienmitglieder gelten. **Und die dürfen sich auch von den Regeln des anderen Elternteils unterscheiden.** Diese Regeln können beispielsweise den Umgang miteinander, den Umgang mit persönlichen Gegenständen oder auch die Erledigung von Aufgaben im Haushalt betreffen. Indem ihr die Kinder in die Erstellung dieser Regeln einbezieht, fühlen sie sich gehört und haben das Gefühl, dass ihre Meinung zählt.Für unsere Bonuskinder gilt zum Beispiel bei uns: Um 20.30 Uhr geht es ins Bett – dort dürfen sie noch lesen etc., jedoch beginnt dann unsere[Paarzeit](/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/). Bei ihrer Mama dürfen sie viel länger aufbleiben – und das ist auch völlig okay. Die Kinder wissen, dass es bei uns so läuft und wissen darum.
+Ein Beispiel dafür ist die Festlegung von*Hausregeln*. Gemeinsam mit deinem Partner solltet ihr klare Regeln aufstellen, die für alle Familienmitglieder gelten.**Und die dürfen sich auch von den Regeln des anderen Elternteils unterscheiden.**Diese Regeln können beispielsweise den Umgang miteinander, den Umgang mit persönlichen Gegenständen oder auch die Erledigung von Aufgaben im Haushalt betreffen. Indem ihr die Kinder in die Erstellung dieser Regeln einbezieht, fühlen sie sich gehört und haben das Gefühl, dass ihre Meinung zählt.Für unsere Bonuskinder gilt zum Beispiel bei uns: Um 20.30 Uhr geht es ins Bett – dort dürfen sie noch lesen etc., jedoch beginnt dann unsere[Paarzeit](/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/). Bei ihrer Mama dürfen sie viel länger aufbleiben – und das ist auch völlig okay. Die Kinder wissen, dass es bei uns so läuft und wissen darum.
 
-Auch in Bezug auf die *Beziehungsdynamik* ist es wichtig, Grenzen zu setzen. Als Bonusmama ist es natürlich schön, eine enge Beziehung zu den Kindern aufzubauen. Doch dabei ist es wichtig, dass wir auch unsere eigenen Bedürfnisse und Grenzen respektieren. Es ist in Ordnung, Zeit für uns selbst zu nehmen und unsere eigenen Interessen zu verfolgen. Wir müssen uns nicht immerzu um die Bedürfnisse der Kinder kümmern, sondern dürfen auch unsere eigenen Bedürfnisse wahrnehmen. So nehme ich mir ganz bewusst Auszeiten, wenn die Kinder da sind und ziehe mich aus Aktivitäten auch mal raus – dann tanke ich wieder auf und kann die gemeinsame Zeit nachher wieder viel mehr genießen.
+Auch in Bezug auf die*Beziehungsdynamik* ist es wichtig, Grenzen zu setzen. Als Bonusmama ist es natürlich schön, eine enge Beziehung zu den Kindern aufzubauen. Doch dabei ist es wichtig, dass wir auch unsere eigenen Bedürfnisse und Grenzen respektieren. Es ist in Ordnung, Zeit für uns selbst zu nehmen und unsere eigenen Interessen zu verfolgen. Wir müssen uns nicht immerzu um die Bedürfnisse der Kinder kümmern, sondern dürfen auch unsere eigenen Bedürfnisse wahrnehmen. So nehme ich mir ganz bewusst Auszeiten, wenn die Kinder da sind und ziehe mich aus Aktivitäten auch mal raus – dann tanke ich wieder auf und kann die gemeinsame Zeit nachher wieder viel mehr genießen.
 
->
-
-“Ein echter Dialog entsteht erst, wenn man bereit ist, auch die Perspektive des anderen zu verstehen.”
+> “Ein echter Dialog entsteht erst, wenn man bereit ist, auch die Perspektive des anderen zu verstehen.”
 – Thich Nhat Hanh
 
-#### Wie kommuniziere ich diese?
+## Wie kommuniziere ich diese?
 
-*Klare Kommunikation* über persönliche Grenzen und Bedürfnisse ist essenziell. Wenn uns bestimmte Verhaltensweisen der Bonuskinder stören oder wir uns in einer Situation unwohl fühlen, sollten wir dies **offen und respektvoll ansprechen**. Dabei ist es wichtig, auf eine wertschätzende Art und Weise zu kommunizieren und Lösungen gemeinsam zu finden. Meine Bonuskinder haben zum Beispiel anfangs meine Haarbürste benutzt – was mich total gestört hat. Also habe ich ihnen eigene Bürsten besorgt und ihnen gesagt, dass ich es nicht möchte, dass sie meine benutzen – ohne Streit und Konflikte.
+*Klare Kommunikation* über persönliche Grenzen und Bedürfnisse ist essenziell. Wenn uns bestimmte Verhaltensweisen der Bonuskinder stören oder wir uns in einer Situation unwohl fühlen, sollten wir dies**offen und respektvoll ansprechen**. Dabei ist es wichtig, auf eine wertschätzende Art und Weise zu kommunizieren und Lösungen gemeinsam zu finden. Meine Bonuskinder haben zum Beispiel anfangs meine Haarbürste benutzt – was mich total gestört hat. Also habe ich ihnen eigene Bürsten besorgt und ihnen gesagt, dass ich es nicht möchte, dass sie meine benutzen – ohne Streit und Konflikte.
 
 Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosphäre des Respekts und der gegenseitigen Achtung. Die Kinder lernen, was angemessenes Verhalten ist und wie sie ihre eigenen Grenzen wahren können. Gleichzeitig stärken wir unsere Rolle als Bonusmama und haben eine gesunde Basis für eine liebevolle und harmonische Beziehung zu den Kindern.
 
 Im nächsten Abschnitt werden wir uns Notfallstrategien anschauen, die dabei helfen können, wenn es doch mal brenzlig wird.
 
-#### Was tun, wenn es eskaliert?
+## Was tun, wenn es eskaliert?
 
-Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – atme tief durch und verlasse ggf. die Situation, bevor es eskaliert. Hier sind drei Tipps, die dir in solchen Situationen helfen können:
-
-**1. Aktive Zuhörtechnik:** Nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und höre aktiv zu, ohne zu unterbrechen. Wiederhole ihre Aussagen, um sicherzustellen, dass du sie richtig verstanden hast. Zum Beispiel kannst du sagen: “Ich höre, dass du frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu bekommen. Ist das richtig?” Durch diese Technik zeigst du den Kindern, dass du sie ernst nimmst und ihre Gefühle wahrnimmst.
-
-**2. Ich-Botschaften: **Verwende Ich-Botschaften, um deine eigenen Gefühle und Bedürfnisse auszudrücken, ohne die Kinder zu beschuldigen. Zum Beispiel könntest du sagen: “Ich fühle mich überfordert, wenn das Zimmer unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen ordentlichen und harmonischen Raum haben.” Dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und mitzudenken, anstatt sich angegriffen zu fühlen.
-
-**3. Gemeinsame Lösungen finden:** Statt den Streit zu eskalieren, arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem gelöst werden könnte. Zum Beispiel könntest du sagen: “Wie könnten wir gemeinsam dafür sorgen, dass das Zimmer aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser organisieren können?” Indem du die Kinder in den Lösungsprozess einbeziehst, ermöglichst du ihnen, Verantwortung zu übernehmen und ihre Fähigkeiten zur Problemlösung zu entwickeln.
+Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – atme tief durch und verlasse ggf. die Situation, bevor es eskaliert. Hier sind drei Tipps, die dir in solchen Situationen helfen können:**1. Aktive Zuhörtechnik:**Nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und höre aktiv zu, ohne zu unterbrechen. Wiederhole ihre Aussagen, um sicherzustellen, dass du sie richtig verstanden hast. Zum Beispiel kannst du sagen: “Ich höre, dass du frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu bekommen. Ist das richtig?” Durch diese Technik zeigst du den Kindern, dass du sie ernst nimmst und ihre Gefühle wahrnimmst.**2. Ich-Botschaften:**Verwende Ich-Botschaften, um deine eigenen Gefühle und Bedürfnisse auszudrücken, ohne die Kinder zu beschuldigen. Zum Beispiel könntest du sagen: “Ich fühle mich überfordert, wenn das Zimmer unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen ordentlichen und harmonischen Raum haben.” Dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und mitzudenken, anstatt sich angegriffen zu fühlen.**3. Gemeinsame Lösungen finden:**Statt den Streit zu eskalieren, arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem gelöst werden könnte. Zum Beispiel könntest du sagen: “Wie könnten wir gemeinsam dafür sorgen, dass das Zimmer aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser organisieren können?” Indem du die Kinder in den Lösungsprozess einbeziehst, ermöglichst du ihnen, Verantwortung zu übernehmen und ihre Fähigkeiten zur Problemlösung zu entwickeln.
 
 Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvolle und pädagogisch wertvolle Weise anzugehen.
 
-#### In A Nutshell
-
+## Zusammenfassung
 Konflikte mit den Bonuskindern sind nicht immer vermeidbar – wichtig ist jedoch, dass du dich in das Kind hineinversetzt, ihm zuhörst und deine Grenzen kommunizierst. In einer Familie sind sowohl deine als auch die Grenzen der Kinder gleich wichtig – wenn diese klar sind, können Konflikte friedlich miteinander gelöst werden.
 
 Wie löst ihr Konflikte mit den Kindern? Schreib mir eine Nachricht und erzähl mir davon!
-
-Mach’s ganz gut,
-Deine Sally
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

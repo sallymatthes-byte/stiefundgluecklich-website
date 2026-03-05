@@ -4,8 +4,8 @@ description: "Von der unsicheren Außenseiterin zur selbstbewussten Bonusmama: M
 category: "rolle-identitaet"
 date: 2024-12-02
 updated: 2024-11-22
-metaTitle: "Von der besten Freundin zur Stiefmutter - überwinde die Gerüchte"
-metaDescription: "Von der unsicheren Außenseiterin zur selbstbewussten Bonusmama: Marions beeindruckende Transformation und was du daraus lernen kannst."
+metaTitle: "Von der besten Freundin zur Bonusmama: Wenn sich alles ändert"
+metaDescription: "Vom Kumpel-Status zur Erziehungsrolle — wie sich die Beziehung zu den Kindern verändert, wenn du die Partnerin wirst."
 image: "https://stiefundgluecklich.de/wp-content/uploads/2024/11/steph_franchess_httpss.mj_.runOJ9fV4mVGXY_httpss.mj_.runoeJHAZm_152454f3-5c42-4b45-b650-29815471838b_1.png"
 ---
 
@@ -19,9 +19,9 @@ Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) genau das Richtige für dich:
 
-#### vom vertrauten umfeld zur außenseiterin
+## vom vertrauten umfeld zur außenseiterin
 
-Marion war eine der besten Freundinnen der Kindsmutter und kannte somit auch die Kinder schon vor ihrer Beziehung mit dem Kindsvater. Als sie dann zur Bonusmutter wurde, veränderte sich plötzlich alles. *Die einst so vertraute Freundschaft zur Kindsmutter zerbrach und Marion fand sich in einer völlig neuen Rolle wieder.*
+Marion war eine der besten Freundinnen der Kindsmutter und kannte somit auch die Kinder schon vor ihrer Beziehung mit dem Kindsvater. Als sie dann zur Bonusmutter wurde, veränderte sich plötzlich alles.*Die einst so vertraute Freundschaft zur Kindsmutter zerbrach und Marion fand sich in einer völlig neuen Rolle wieder.*
 
 In dem kleinen Dorf, in dem sie lebte, machten schnell Gerüchte die Runde. Marion wurde beschuldigt, die Ehe ihrer Freundin zerstört zu haben und die Schuld an der Trennung der Eltern zu tragen. Sie war verletzt und fühlte sich ungerecht behandelt. Die Kinder, die sie eigentlich schon kannte, waren nun auch verunsichert und wussten nicht, wie sie mit der neuen Situation umgehen sollten.
 
@@ -29,79 +29,57 @@ Marions Partner stand zwischen den Stühlen – hin- und hergerissen zwischen se
 
 Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getroffen hatte. War sie wirklich bereit für diese Herausforderung? Konnte sie den Kindern gerecht werden und eine gute Bonusmutter sein? Diese Fragen beschäftigten sie sehr und sie spürte, dass sich etwas ändern musste.
 
-#### marion wünschte sich…
+## marion wünschte sich…
 
-Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie. **Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.**
-
-Ihr größtes Ziel war es, eine starke und liebevolle Patchworkfamilie aufzubauen, in der jeder seinen Platz hat und respektiert wird. Sie wollte für die Kinder da sein, eine vertrauensvolle Beziehung zu ihnen aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern wählen müssen, sondern von allen geliebt werden.
+Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie.**Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.**Ihr größtes Ziel war es, eine starke und liebevolle Patchworkfamilie aufzubauen, in der jeder seinen Platz hat und respektiert wird. Sie wollte für die Kinder da sein, eine vertrauensvolle Beziehung zu ihnen aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern wählen müssen, sondern von allen geliebt werden.
 
 Auch für ihre Partnerschaft hatte Marion klare Vorstellungen. Sie sehnte sich danach, mit ihrem Partner ein unzertrennliches Team zu bilden, das gemeinsam durch dick und dünn geht. Marion wünschte sich mehr Rückhalt und Verständnis von ihm, gerade wenn es um Entscheidungen ging, die die ganze Familie betrafen.
 
-Ein weiteres wichtiges Anliegen war es für Marion, sich von den negativen Einflüssen in ihrem Umfeld zu befreien. *Sie wollte lernen, sich abzugrenzen und den Fokus auf die Menschen zu richten, die ihr guttun und sie unterstützen.* Marion war klar, dass sie Kraft schöpfen musste, um den Herausforderungen des Bonusmama-Seins gewachsen zu sein.
+Ein weiteres wichtiges Anliegen war es für Marion, sich von den negativen Einflüssen in ihrem Umfeld zu befreien.*Sie wollte lernen, sich abzugrenzen und den Fokus auf die Menschen zu richten, die ihr guttun und sie unterstützen.* Marion war klar, dass sie Kraft schöpfen musste, um den Herausforderungen des Bonusmama-Seins gewachsen zu sein.
 
 Doch um all diese Ziele zu erreichen, musste Marion erst einmal herausfinden, wie sie die Situation entschärfen und innerlich zur Ruhe kommen konnte. Sie brauchte eine Strategie, um mit den Anfeindungen und Gerüchten umzugehen, ohne sich davon verletzen zu lassen. Und sie musste lernen, ihre eigenen Bedürfnisse und Grenzen klar zu kommunizieren.
 
 Mit diesen Wünschen und Zielen im Herzen machte sich Marion auf den Weg, die Herausforderungen anzunehmen und sich Schritt für Schritt in ihre neue Rolle als Bonusmama einzufinden. Sie war bereit, alles dafür zu tun, um die erträumte Harmonie in ihrer Patchworkfamilie Wirklichkeit werden zu lassen.
 
->
+> „Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”– mark twain
 
-„Eine Lüge ist bereits dreimal um die Erde gelaufen, bevor sich die Wahrheit die Schuhe anzieht.”– mark twain
+## gerüchte, anfeindungen und das gefühl des alleingelassenseins
 
-#### gerüchte, anfeindungen und das gefühl des alleingelassenseins
-
-Marion sah sich mit einer Vielzahl von Herausforderungen konfrontiert, die es ihr erschwerten, ihre Ziele zu erreichen. **Die Gerüchte und Anfeindungen im Umfeld belasteten sie sehr.** Immer wieder wurde sie mit Vorwürfen konfrontiert, sie sei die Schuldige an der Trennung der Eltern. Die Kinder waren durch die neue Rollenkonstellation verunsichert und wussten nicht, wie sie mit Marion umgehen sollten.
+Marion sah sich mit einer Vielzahl von Herausforderungen konfrontiert, die es ihr erschwerten, ihre Ziele zu erreichen.**Die Gerüchte und Anfeindungen im Umfeld belasteten sie sehr.**Immer wieder wurde sie mit Vorwürfen konfrontiert, sie sei die Schuldige an der Trennung der Eltern. Die Kinder waren durch die neue Rollenkonstellation verunsichert und wussten nicht, wie sie mit Marion umgehen sollten.
 
 Erschwerend kam hinzu, dass sich Marion oft alleingelassen fühlte. Sie vermisste den Rückhalt ihres Partners, gerade wenn es darum ging, sich gemeinsam den Herausforderungen zu stellen. Auch der Ausschluss aus dem alten Freundeskreis und von Familienfeiern machte ihr zu schaffen.
 
-Um die Situation zu entschärfen, probierte Marion verschiedene Ansätze aus. *Zunächst suchte sie das direkte Gespräch mit den Personen, die Gerüchte verbreiteten.* Sie versuchte, ihnen ihre Sichtweise zu erklären und die Vorwürfe zu entkräften. Doch schnell musste sie feststellen, dass diese Konfrontationen die Lage nur noch verschlimmerten.
+Um die Situation zu entschärfen, probierte Marion verschiedene Ansätze aus.*Zunächst suchte sie das direkte Gespräch mit den Personen, die Gerüchte verbreiteten.* Sie versuchte, ihnen ihre Sichtweise zu erklären und die Vorwürfe zu entkräften. Doch schnell musste sie feststellen, dass diese Konfrontationen die Lage nur noch verschlimmerten.
 
 *Auch den Kontakt zur Kindsmutter suchte Marion, in der Hoffnung, die Wogen glätten zu können.* Doch die einst so enge Freundschaft ließ sich nicht wieder herstellen. Die Kindsmutter blieb auf Distanz und Marion musste akzeptieren, dass es kein Zurück mehr gab.
 
-*In manchen Momenten zog sich Marion bewusst zurück, um den Anfeindungen aus dem Weg zu gehen.* Wenn sie zu Familienfeiern nicht eingeladen wurde, blieb sie fern, auch wenn es schmerzte. Sie hoffte, dass ihr Partner sich stärker für sie einsetzen und Partei ergreifen würde, doch oft fühlte sie sich auch von ihm im Stich gelassen.
-
-**All diese Herausforderungen zerrten an Marions Kräften.** Sie fühlte sich erschöpft und wusste nicht mehr, wie sie die ersehnte Harmonie in ihrer Patchwork-Familie erreichen sollte. Doch aufgeben kam für sie nicht infrage. Sie war entschlossen, einen Weg zu finden, um die Situation zu verbessern und in ihrer Rolle als Bonusmama glücklich zu werden.
+*In manchen Momenten zog sich Marion bewusst zurück, um den Anfeindungen aus dem Weg zu gehen.* Wenn sie zu Familienfeiern nicht eingeladen wurde, blieb sie fern, auch wenn es schmerzte. Sie hoffte, dass ihr Partner sich stärker für sie einsetzen und Partei ergreifen würde, doch oft fühlte sie sich auch von ihm im Stich gelassen.**All diese Herausforderungen zerrten an Marions Kräften.**Sie fühlte sich erschöpft und wusste nicht mehr, wie sie die ersehnte Harmonie in ihrer Patchwork-Familie erreichen sollte. Doch aufgeben kam für sie nicht infrage. Sie war entschlossen, einen Weg zu finden, um die Situation zu verbessern und in ihrer Rolle als Bonusmama glücklich zu werden.
 
 Dafür brauchte Marion einen neuen Ansatz, eine Strategie, die ihr helfen würde, die Herausforderungen zu meistern und sich auf das Wesentliche zu konzentrieren. Sie musste lernen, sich abzugrenzen, ihre Bedürfnisse klar zu kommunizieren und die Beziehungen innerhalb der Familie zu stärken. Und genau dafür sollte sich der Schlüssel schon bald finden lassen.
 
 Und was dieser Schlüssel war, erfährst du im nächsten Abschnitt.
 
-#### der schlüssel zum glück
+## der schlüssel zum glück
 
-Als Marion erkannte, dass sie alleine nicht weiterkam, beschloss sie, sich professionelle Unterstützung zu suchen. In unserer Zusammenarbeit fand sie heraus, dass der Schlüssel zu einer harmonischen Patchwork-Familie in einem ganzheitlichen Ansatz liegt, der auf drei wirksamen Schritten basiert: Analyse, Veränderungen und Kommunikation.
-
-**Im ersten Schritt, der Analyse, nahmen wir Marions Situation genau unter die Lupe.** Wir identifizierten die Hauptprobleme, die zu den Konflikten und Herausforderungen führten. Durch gezielte Fragen und Reflexionsübungen half ich Marion dabei, die Dynamiken in ihrer Patchwork-Familie besser zu verstehen und zu erkennen, welche Rolle sie selbst darin spielte.
-
-**Basierend auf den Erkenntnissen aus der Analyse ging es im zweiten Schritt darum, konkrete Veränderungen anzustoßen.** Gemeinsam erarbeiteten wir Strategien, wie Marion ihre Einstellung und ihr Verhalten anpassen konnte, um die Situation zu verbessern. Dazu gehörte beispielsweise, dass sie lernte, sich klar abzugrenzen, ihre eigenen Bedürfnisse ernst zu nehmen und sich auf die positiven Aspekte ihrer neuen Familie zu fokussieren.
-
-**Der dritte und entscheidende Schritt lag in der Kommunikation.** Marion lernte, wie sie ihre Gedanken und Gefühle klar und respektvoll ausdrücken konnte. Sie übte, wie sie schwierige Gespräche mit ihrem Partner, den Kindern oder der Kindsmutter führen und dabei trotzdem für sich und ihre Werte einstehen konnte. Durch eine verbesserte Kommunikation gelang es ihr, Missverständnisse auszuräumen, Konflikte zu entschärfen und die Beziehungen innerhalb der Familie zu stärken.
+Als Marion erkannte, dass sie alleine nicht weiterkam, beschloss sie, sich professionelle Unterstützung zu suchen. In unserer Zusammenarbeit fand sie heraus, dass der Schlüssel zu einer harmonischen Patchwork-Familie in einem ganzheitlichen Ansatz liegt, der auf drei wirksamen Schritten basiert: Analyse, Veränderungen und Kommunikation.**Im ersten Schritt, der Analyse, nahmen wir Marions Situation genau unter die Lupe.**Wir identifizierten die Hauptprobleme, die zu den Konflikten und Herausforderungen führten. Durch gezielte Fragen und Reflexionsübungen half ich Marion dabei, die Dynamiken in ihrer Patchwork-Familie besser zu verstehen und zu erkennen, welche Rolle sie selbst darin spielte.**Basierend auf den Erkenntnissen aus der Analyse ging es im zweiten Schritt darum, konkrete Veränderungen anzustoßen.**Gemeinsam erarbeiteten wir Strategien, wie Marion ihre Einstellung und ihr Verhalten anpassen konnte, um die Situation zu verbessern. Dazu gehörte beispielsweise, dass sie lernte, sich klar abzugrenzen, ihre eigenen Bedürfnisse ernst zu nehmen und sich auf die positiven Aspekte ihrer neuen Familie zu fokussieren.**Der dritte und entscheidende Schritt lag in der Kommunikation.**Marion lernte, wie sie ihre Gedanken und Gefühle klar und respektvoll ausdrücken konnte. Sie übte, wie sie schwierige Gespräche mit ihrem Partner, den Kindern oder der Kindsmutter führen und dabei trotzdem für sich und ihre Werte einstehen konnte. Durch eine verbesserte Kommunikation gelang es ihr, Missverständnisse auszuräumen, Konflikte zu entschärfen und die Beziehungen innerhalb der Familie zu stärken.
 
 Unser ganzheitlicher Ansatz, der Analyse, Veränderungen und Kommunikation miteinander verband, ermöglichte es Marion, nachhaltige Verbesserungen in ihrer Patchworkfamilie zu erzielen. Und wie diese aussahen, erzähle ich dir im nächsten Absatz.
 
 marions transformation
 
-Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – vollzog Marion eine beeindruckende Verwandlung, sowohl in ihrem Auftreten nach außen als auch in ihrer inneren Haltung.
-
-**War sie anfangs noch unsicher und von Zweifeln geplagt, strahlte Marion nun eine neue Zuversicht und Selbstsicherheit aus.** Sie hatte gelernt, zu sich und ihren Bedürfnissen zu stehen und sich nicht mehr von negativen Einflüssen verunsichern zu lassen. Ihr Auftreten war von einer ruhigen Gelassenheit geprägt, die auch auf ihr Umfeld ausstrahlte.
+Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – vollzog Marion eine beeindruckende Verwandlung, sowohl in ihrem Auftreten nach außen als auch in ihrer inneren Haltung.**War sie anfangs noch unsicher und von Zweifeln geplagt, strahlte Marion nun eine neue Zuversicht und Selbstsicherheit aus.**Sie hatte gelernt, zu sich und ihren Bedürfnissen zu stehen und sich nicht mehr von negativen Einflüssen verunsichern zu lassen. Ihr Auftreten war von einer ruhigen Gelassenheit geprägt, die auch auf ihr Umfeld ausstrahlte.
 
 In Gesprächen mit der Kindsmutter oder anderen Kritikern blieb Marion freundlich, aber bestimmt. Sie ließ sich nicht mehr in Machtkämpfe verwickeln, sondern fokussierte sich darauf, Lösungen zu finden und respektvoll miteinander umzugehen. Durch ihre klare Kommunikation gelang es ihr, viele Konflikte schon im Keim zu ersticken.
 
-Auch innerhalb ihrer Patchwork-Familie war Marions Verwandlung deutlich spürbar. Sie übernahm ihre Rolle als Bonusmama mit Freude und Selbstvertrauen. Anstatt sich unter Druck zu setzen, alles perfekt machen zu wollen, akzeptierte sie, dass es auch mal Herausforderungen geben kann. Sie begegnete den Kindern mit Liebe, Geduld und Verständnis und baute eine vertrauensvolle Beziehung zu ihnen auf.
+Auch innerhalb ihrer Patchwork-Familie war Marions Verwandlung deutlich spürbar. Sie übernahm ihre Rolle als Bonusmama mit Freude und Selbstvertrauen. Anstatt sich unter Druck zu setzen, alles perfekt machen zu wollen, akzeptierte sie, dass es auch mal Herausforderungen geben kann. Sie begegnete den Kindern mit Liebe, Geduld und Verständnis und baute eine vertrauensvolle Beziehung zu ihnen auf.**Besonders beeindruckend war die neue Identität, die Marion durch ihre Verwandlung gewonnen hatte.**Sie definierte sich nicht mehr über die Rolle der Außenseiterin oder der Frau, die eine Familie “zerstört” hatte. Stattdessen sah sie sich als liebevolle Partnerin und Bonusmama, die aktiv dazu beiträgt, ihre Patchwork-Familie zusammenzuhalten und zu stärken.
 
-**Besonders beeindruckend war die neue Identität, die Marion durch ihre Verwandlung gewonnen hatte.** Sie definierte sich nicht mehr über die Rolle der Außenseiterin oder der Frau, die eine Familie “zerstört” hatte. Stattdessen sah sie sich als liebevolle Partnerin und Bonusmama, die aktiv dazu beiträgt, ihre Patchwork-Familie zusammenzuhalten und zu stärken.
-
-Diese neue Identität gab Marion ein Gefühl von Sinn und Erfüllung. *Sie erkannte, dass sie eine wichtige Aufgabe hatte und gebraucht wurde.* Anstatt sich klein zu machen oder ihre Bedürfnisse zurückzustellen, stand sie nun selbstbewusst für sich und ihre Familie ein.
+Diese neue Identität gab Marion ein Gefühl von Sinn und Erfüllung.*Sie erkannte, dass sie eine wichtige Aufgabe hatte und gebraucht wurde.* Anstatt sich klein zu machen oder ihre Bedürfnisse zurückzustellen, stand sie nun selbstbewusst für sich und ihre Familie ein.
 
 Marions Geschichte zeigt eindrucksvoll, welche positive Veränderung möglich ist, wenn man bereit ist, an sich zu arbeiten und neue Wege zu gehen. Durch die Unterstützung einer erfahrenen Stiefmutter und die Anwendung wirksamer Strategien gelang es ihr, ihre Herausforderungen zu meistern und ein erfülltes Leben als Bonusmama zu führen.
 
 Heute ist Marion eine Inspiration für viele andere Patchwork-Familien. Sie macht Mut, dass es sich lohnt, für seine Träume und Wünsche einzustehen und aktiv an einer harmonischen Familiendynamik zu arbeiten. Ihre Verwandlung ist ein leuchtendes Beispiel dafür, dass es möglich ist, aus der Rolle der verunsicherten Außenseiterin in die einer selbstbewussten und liebevollen Bonusmama zu schlüpfen.
 
-IN A NUTSHELL
-
+## Zusammenfassung
 Marions Geschichte zeigt, wie herausfordernd es sein kann, von der besten Freundin zur Bonusmama zu werden. Doch durch die Zusammenarbeit mit mir als Coach und die Anwendung eines ganzheitlichen Ansatzes, der auf Analyse, Veränderungen und Kommunikation basiert, gelang ihr eine beeindruckende Verwandlung. Sie entwickelte sich von der verunsicherten Außenseiterin zur selbstbewussten und liebevollen Bonusmama, die ihre neue Identität mit Freude und Stärke lebt.
 
 Wenn auch du als Bonusmama Herausforderungen erlebst und dir eine ähnliche Transformation wünschst, lade ich dich herzlich ein, mit mir zusammenzuarbeiten. Gemeinsam finden wir die Strategie, die zu dir und deiner einzigartigen Situation passt und die dir hilft, deine Ziele zu erreichen und ein harmonisches Familienleben zu gestalten. Lass uns gemeinsam deine Geschichte schreiben und dich in deine Kraft als Bonusmama bringen – ich freue mich darauf, dich auf diesem Weg zu begleiten!
-
-Mach’s ganz gut,
-Deine Sally
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

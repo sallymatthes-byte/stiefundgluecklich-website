@@ -18,6 +18,10 @@ const blog = defineCollection({
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     podcastEpisode: z.string().optional(),
+    podcastTitle: z.string().optional(),
+    podcastDescription: z.string().optional(),
+    readingTime: z.string().optional(),
+    excerpt: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

@@ -4,8 +4,8 @@ description: "Erstellt ein Visionboard für eure Patchworkfamilie. Erfahre, wie 
 category: "partnerschaft"
 date: 2024-01-05
 updated: 2024-06-15
-metaTitle: "Gemeinsam träumen: Warum ein Visionboard in der Patchworkfamilie so wichtig ist"
-metaDescription: "Erstellt ein Visionboard für eure Patchworkfamilie. Erfahre, wie ihr eure gemeinsamen Ziele visualisieren und verwirklichen könnt."
+metaTitle: "Visionboard als Patchworkfamilie: Gemeinsam Ziele setzen"
+metaDescription: "Ein Visionboard in der Patchworkfamilie? Warum gemeinsames Träumen so wichtig ist und wie ihr es als Ritual einführt."
 image: "https://stiefundgluecklich.de/wp-content/uploads/2024/04/steph_franchess_httpss.mj_.runLW1mGtqb2T8_Create_a_digital_ill_cf427740-671f-4cf1-9dac-0e680e6915d9_0.png"
 ---
 
@@ -15,7 +15,7 @@ Ein Prozess, der sich über mehrere Wochen hinweggezogen hat und uns noch einmal
 
 Lass uns gleich mal einen Blick darauf werfen, welche Vorteile es noch mit sich gebracht hat.
 
-#### So hat das Visionboard unserer patchworkfamilie geholfen
+## So hat das Visionboard unserer patchworkfamilie geholfen
 
 In unserem Patchworkalltag haben wir oft mit Herausforderungen zu kämpfen, denn Konflikte mit der Ex-Partnerin und Unstimmigkeiten bei Erziehungsfragen können überwältigend sein. Es ist leicht, sich in diesen Momenten im Alltagsstress zu verlieren und den Fokus auf das Negative zu legen. Doch gerade deshalb ist es so wichtig, unsere gemeinsame Vision zu entwickeln.
 
@@ -27,12 +27,10 @@ Auch haben wir über unsere Finanzen gesprochen und uns überlegt, was wir uns i
 
 Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und unsere Beziehung auf ein neues Level gehoben. Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
 
->
-
-“The future belongs to those who believe in the beauty of their dreams.“
+> “The future belongs to those who believe in the beauty of their dreams.“
 – Eleanor Roosevelt
 
-#### So erstellt ihr ein Visionboard für die Patchworkfamilie
+## So erstellt ihr ein Visionboard für die Patchworkfamilie
 
 Es gibt viele Möglichkeiten, ein Visionboard zu gestalten, aber der Prozess beginnt immer mit der Reflexion über eure Werte, Bedürfnisse und Wünsche als Paar und als Familie.
 
@@ -62,17 +60,8 @@ Indem ihr euch diese Fragen stellt und eure Antworten auf eurem Visionboard fest
 
 Denkt daran, dass ein Visionboard nicht statisch ist. Es kann sich im Laufe der Zeit verändern und entwickeln, ebenso wie eure Beziehung und eure Patchworkfamilie. Nehmt euch daher regelmäßig Zeit, um euer Visionboard zu überprüfen und anzupassen.
 
->
-
-#### In A Nutshell
-
+> ## Zusammenfassung
 Durch das Erstellen eines Visionboards können Ziele und Träume visualisiert und in den Alltag integriert werden. Konkrete Fragen helfen bei der Gestaltung des Visionboards. Ein Visionboard ist nicht statisch und darf regelmäßig überprüft und angepasst werden.
 Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die gemeinsame Vision zu manifestieren und Hindernisse zu überwinden. Das Visionboard dient somit als Begleiter auf dem Weg zu einer harmonischen und liebevollen Beziehung und Patchworkfamilie.
 
 Habt ihr ein gemeinsames Visionboard?
-Schreib mir eine Nachricht und erzähl mir davon!
-
-Mach’s ganz gut,
-Deine Sally
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
