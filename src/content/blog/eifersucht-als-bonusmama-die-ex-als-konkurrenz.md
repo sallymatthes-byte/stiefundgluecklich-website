@@ -6,6 +6,7 @@ date: 2024-02-02
 updated: 2025-02-06
 metaTitle: "Eifersucht als Bonusmama: Wenn die Ex zur Konkurrenz wird"
 metaDescription: "Eifersucht auf die Ex-Frau deines Partners? Warum sie entsteht, wann sie gefährlich wird - und 5 Wege raus."
+heroImage: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -34,7 +35,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 
 ## Die tieferen Ursachen der Eifersucht verstehen
 
-Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. **Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.**
+Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. ** Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.**
 
 Vielleicht spürst du:
 
@@ -59,7 +60,7 @@ Vielleicht hast du schon oft gehört: "Sei doch nicht eifersüchtig, die Beziehu
 
 Der erste und wichtigste Schritt ist es, *die Situation wirklich zu verstehen*. Wie bei einem verworrenen Wollknäuel musst du dir die Zeit nehmen, jeden einzelnen Faden zu betrachten:
 
-- ***Wann*** genau taucht die Eifersucht auf? Sind es bestimmte Situationen, Worte oder Gesten?
+- *** Wann*** genau taucht die Eifersucht auf? Sind es bestimmte Situationen, Worte oder Gesten?
 
 - *Welche Gedanken* schießen dir in diesen Momenten durch den Kopf?
 
@@ -95,7 +96,7 @@ Definiere deine eigene Rolle in der Familie
 
 ### 3. Verbindende Kommunikation aufbauen
 
-***Das Schweigen über unsere Eifersucht macht sie nur stärker*** - wie ein Monster unterm Bett, das in der Dunkelheit wächst und wächst. Der Schlüssel liegt in einer neuen Art der Kommunikation:
+*** Das Schweigen über unsere Eifersucht macht sie nur stärker*** - wie ein Monster unterm Bett, das in der Dunkelheit wächst und wächst. Der Schlüssel liegt in einer neuen Art der Kommunikation:
 
 - *Mit dir selbst*
 
@@ -135,12 +136,12 @@ Stell dir vor, du stehst auf einem Berg und blickst auf deine Situation herab. W
 
 - *Die einzigartigen Erfahrungen, die ihr miteinander teilt*
 
-Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie kann sogar ein Katalysator für persönliches Wachstum sein. ***Denn oft zeigt sie uns genau die Bereiche, in denen wir uns selbst noch mehr lieben und akzeptieren dürfen.***
+Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie kann sogar ein Katalysator für persönliches Wachstum sein. *** Denn oft zeigt sie uns genau die Bereiche, in denen wir uns selbst noch mehr lieben und akzeptieren dürfen.***
 
 Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist - nicht trotz, sondern gerade wegen ihrer besonderen Rolle als Bonusmama.*
 
 - Wie deine ***individuellen Eifersuchtsmuster*** aussehen
 
-- Wie du diese Gefühle in ***Kraft und Selbstbewusstsein*** verwandeln kannst
+- Wie du diese Gefühle in *** Kraft und Selbstbewusstsein*** verwandeln kannst
 
 

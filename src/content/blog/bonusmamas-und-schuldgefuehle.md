@@ -6,6 +6,7 @@ date: 2024-04-12
 updated: 2024-06-15
 metaTitle: "Schuldgefühle als Bonusmama: 7 typische Fallen (+ Auswege)"
 metaDescription: "Du fühlst dich schuldig — für Gefühle, Grenzen oder Wünsche? 7 typische Schuldfallen für Bonusmamas und wie du rauskommst."
+heroImage: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 image: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -27,7 +28,7 @@ Lass uns zunächst die Situationen betrachten, in denen sich Bonusmamas häufig 
 
 - Wenn sie**die Stiefkinder nicht lieben**können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
 
-- Wenn sie**Zeit für sich brauchen**: Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
+- Wenn sie** Zeit für sich brauchen**: Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
 
 - Weil sie**den Stiefkindern Grenzen setzen**: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
 
@@ -57,7 +58,7 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 *Zunächst ist es wichtig, sich bewusst zu machen, dass man nicht perfekt sein muss.* Stiefmütter sollten lernen, auch mal Nein zu sagen, sich abzugrenzen und sich Zeit für sich selbst zu nehmen, ohne sich dafür schuldig zu fühlen.
 
-*Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren.***Ein weiterer hilfreicher Schritt ist die Selbstreflexion.* Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
+*Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren.*** Ein weiterer hilfreicher Schritt ist die Selbstreflexion.* Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
 *Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder [Coaching](/blog/formular/), kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden.
 

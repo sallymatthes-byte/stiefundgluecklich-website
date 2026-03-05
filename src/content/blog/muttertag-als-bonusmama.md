@@ -6,6 +6,7 @@ date: 2024-05-03
 updated: 2024-06-15
 metaTitle: "Muttertag als Bonusmama: Zwischen Feiern und Schmerz"
 metaDescription: "Muttertag als Bonusmama ist kompliziert. Für dich und dein Gefühl. So gestaltest du den Tag, der sich richtig für dich anfühlt."
+heroImage: "/images/blog/muttertag-als-bonusmama-1.jpg"
 image: "/images/blog/muttertag-als-bonusmama-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -17,7 +18,7 @@ Lass uns dies heute mal genauer betrachten.
 
 ## Ein herausfordernder Tag
 
-Muttertag – ein Tag voller Blumen, Frühstück ans Bett und selbstgebastelter Geschenke. Für viele Mütter ist es ein**Tag der Wertschätzung und Dankbarkeit,**an dem sie von ihren Kindern und Partner_innen gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine echte Herausforderung sein.
+Muttertag – ein Tag voller Blumen, Frühstück ans Bett und selbstgebastelter Geschenke. Für viele Mütter ist es ein** Tag der Wertschätzung und Dankbarkeit,**an dem sie von ihren Kindern und Partner_innen gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine echte Herausforderung sein.
 Denn oft fühlen wir uns hin- und hergerissen zwischen unserer Rolle als Partnerin und der Rolle als “Bonusmama”.
 
 Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder Unterstützerin der Kinder. Und genau das kann am Muttertag zu**inneren Konflikten**führen.
@@ -47,14 +48,14 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Muttertag als Bonusmama: Das solltest du wissen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Muttertag als Bonusmama: Das solltest du wissen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
 ![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-3.jpg)
 
-Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre leibliche Mama und ihre Bonusmama. Doch an diesem besonderen Tag fühlen sie sich**hin- und hergerissen.**Sie wollen keine der beiden Frauen enttäuschen oder verletzen und geraten dadurch in einen inneren Konflikt. Vielleicht verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu feiern.
-Dabei spüren sie die**Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.
+Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre leibliche Mama und ihre Bonusmama. Doch an diesem besonderen Tag fühlen sie sich**hin- und hergerissen.** Sie wollen keine der beiden Frauen enttäuschen oder verletzen und geraten dadurch in einen inneren Konflikt. Vielleicht verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu feiern.
+Dabei spüren sie die** Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.
 
 Gleichzeitig wünschen sie sich ein**harmonisches Miteinander**ihrer Eltern und eine entspannte Atmosphäre. Doch oft spüren sie die unausgesprochenen Konflikte und fühlen sich dafür verantwortlich.
 
@@ -63,15 +64,15 @@ Indem wir ihnen den Rücken stärken und offen über unsere eigenen Gefühle spr
 
 Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonischen und entspannten Tag für alle machen? Hier sind ein paar Tipps, wie du dich auf diesen besonderen Tag vorbereiten und Enttäuschungen vermeiden kannst:
 
--**[Kommuniziere](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) offen mit deinem Partner und den Kindern über deine Wünsche und Erwartungen.**Mach deutlich, dass du den Tag gemeinsam verbringen möchtest, aber auch Verständnis dafür hast, wenn die Kinder Zeit mit ihrer leiblichen Mutter verbringen wollen.
+- **[Kommuniziere](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) offen mit deinem Partner und den Kindern über deine Wünsche und Erwartungen.** Mach deutlich, dass du den Tag gemeinsam verbringen möchtest, aber auch Verständnis dafür hast, wenn die Kinder Zeit mit ihrer leiblichen Mutter verbringen wollen.
 
--**Plane gemeinsame Aktivitäten, die allen Spaß machen und euch als Familie verbinden.**Ein Picknick im Grünen, ein Ausflug in ein Museum oder ein Spielenachmittag zu Hause – Hauptsache, ihr verbringt Zeit miteinander und schafft schöne Erinnerungen.
+- ** Plane gemeinsame Aktivitäten, die allen Spaß machen und euch als Familie verbinden.** Ein Picknick im Grünen, ein Ausflug in ein Museum oder ein Spielenachmittag zu Hause – Hauptsache, ihr verbringt Zeit miteinander und schafft schöne Erinnerungen.
 
--**Sei dir bewusst, dass der Muttertag für alle Familienmitglieder eine emotional herausfordernde Zeit sein kann.**Nimm dir Momente für dich selbst, um durchzuatmen und deine Batterien aufzuladen. Nur wenn du gut für dich sorgst, kannst du auch für andere da sein.
+- ** Sei dir bewusst, dass der Muttertag für alle Familienmitglieder eine emotional herausfordernde Zeit sein kann.** Nimm dir Momente für dich selbst, um durchzuatmen und deine Batterien aufzuladen. Nur wenn du gut für dich sorgst, kannst du auch für andere da sein.
 
--**Fokussiere dich auf die schönen Momente und die Liebe, die ihr als Familie teilt.**Lass dich nicht von Erwartungen oder Vergleichen mit anderen Familien verunsichern. Jede Patchworkfamilie ist einzigartig und hat ihre eigene Art, Feste zu feiern.
+- ** Fokussiere dich auf die schönen Momente und die Liebe, die ihr als Familie teilt.** Lass dich nicht von Erwartungen oder Vergleichen mit anderen Familien verunsichern. Jede Patchworkfamilie ist einzigartig und hat ihre eigene Art, Feste zu feiern.
 
--**Schaffe Rituale, die euch als Familie verbinden und stärken.**Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – so zeigst du, dass du für alle da bist und sie wertschätzt.
+- ** Schaffe Rituale, die euch als Familie verbinden und stärken.** Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – so zeigst du, dass du für alle da bist und sie wertschätzt.
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
 

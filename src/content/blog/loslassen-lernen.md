@@ -6,6 +6,7 @@ date: 2024-07-26
 updated: 2024-07-29
 metaTitle: "Loslassen lernen als Bonusmama: Familienideale verabschieden"
 metaDescription: "Die perfekte Familie gibt es nicht — schon gar nicht als Bonusmama. Wie du das Ideal loslässt und deine eigene Version findest."
+heroImage: "/images/blog/loslassen-lernen-1.jpg"
 image: "/images/blog/loslassen-lernen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -31,7 +32,7 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 
 In einer Patchworkfamilie kommen *unterschiedliche Erfahrungen, [Erwartungen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und Emotionen* zusammen. Da sind die Kinder, die den Verlust einer vertrauten Familiensituation verarbeiten und sich an neue Bezugspersonen gewöhnen müssen. Da sind [Ex-Partner_innen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/), die weiterhin als Eltern präsent sind und mit denen es gilt, eine respektvolle Ebene zu finden. Und da bist du als Bonusmama, die ihren Platz in diesem komplexen Gefüge finden muss.
 
-Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die “perfekte” Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens.**Flexibilität und Anpassungsfähigkeit**sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
+Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die “perfekte” Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens.** Flexibilität und Anpassungsfähigkeit**sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
 
 Das bedeutet auch, dass du deine *Erwartungen an dich selbst als Bonusmama* hinterfragen und anpassen darfst. Du musst nicht die perfekte Mutterrolle sein, um deinen Platz in der Familie zu finden. Erlaube dir, deine eigene Rolle zu definieren und auszufüllen, fernab von gesellschaftlichen Idealen.
 
@@ -46,11 +47,11 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 • Dankbarkeit praktizieren: Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen Lieben. Je mehr du das Positive in den Vordergrund rückst, desto stärker fühlst du dich.
 
-•**Selbstfürsorge priorisieren**: Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – fülle deinen Tank regelmäßig auf. Eine gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
+•** Selbstfürsorge priorisieren**: Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – fülle deinen Tank regelmäßig auf. Eine gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
 
-•**Grenzen setzen**: Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
+•** Grenzen setzen**: Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
 
-•**Erfolge feiern**: Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+•** Erfolge feiern**: Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
@@ -60,11 +61,11 @@ Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du 
 
 auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inneren Frieden und Erfüllung zu finden*. Denn nur wenn du im Einklang mit dir selbst bist, kannst du auch für andere da sein und die Schönheit des Augenblicks genießen.
 
-Ein wichtiger Schlüssel dazu ist die Stärkung deiner**Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
+Ein wichtiger Schlüssel dazu ist die Stärkung deiner** Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 
-Pflege auch die**Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu richten und es wertzuschätzen.
+Pflege auch die** Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu richten und es wertzuschätzen.
 
-Nicht zuletzt geht es darum,**Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
+Nicht zuletzt geht es darum,** Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
 
 Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 

@@ -4,8 +4,9 @@ description: "Bilingualität in Patchworkfamilien: So förderst du als Bonusmama
 category: "kinder-bindung"
 date: 2024-06-28
 updated: 2024-06-15
-metaTitle: "Mehrsprachigkeit in der Patchworkfamilie: Chance statt Hindernis"
+metaTitle: "Mehrsprachigkeit in der Patchworkfamilie"
 metaDescription: "Verschiedene Sprachen in der Patchworkfamilie? Wie ihr Mehrsprachigkeit als Chance nutzt statt als Barriere."
+heroImage: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
 image: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -17,7 +18,7 @@ Lass uns nun mal einen Blick darauf werfen, wie man mit diesen sprachlichen Barr
 
 ## Chancen und Herausforderungen
 
-Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” Sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – und ich liebe es!**Klar, manchmal fragen wir uns, ob unsere Kids durch die vielen Sprachen nicht durcheinander kommen.**Aber dann sehe ich, wie selbstverständlich sie zwischen den Sprachen wechseln und wie sehr sie kognitiv davon profitieren. Sie lernen, sich flexibel auf unterschiedliche Gesprächspartner (auch in Bezug auf meine [Familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) und Situationen einzustellen – eine Superkraft fürs Leben! Und ganz nebenbei eröffnen ihnen die Sprachen Türen zu anderen Kulturen. Was für ein Geschenk!**Natürlich läuft nicht immer alles rund.**Manchmal mischen die Kinder die Sprachen wild durcheinander oder brauchen in einer Sprache etwas länger als andere Kinder. Aber hey, das ist völlig okay und gehört zur mehrsprachigen Entwicklung dazu. Da heißt es: Entspannt bleiben und dem Sprachenwirrwarr mit Humor begegnen.
+Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” Sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – und ich liebe es!** Klar, manchmal fragen wir uns, ob unsere Kids durch die vielen Sprachen nicht durcheinander kommen.** Aber dann sehe ich, wie selbstverständlich sie zwischen den Sprachen wechseln und wie sehr sie kognitiv davon profitieren. Sie lernen, sich flexibel auf unterschiedliche Gesprächspartner (auch in Bezug auf meine [Familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) und Situationen einzustellen – eine Superkraft fürs Leben! Und ganz nebenbei eröffnen ihnen die Sprachen Türen zu anderen Kulturen. Was für ein Geschenk!** Natürlich läuft nicht immer alles rund.** Manchmal mischen die Kinder die Sprachen wild durcheinander oder brauchen in einer Sprache etwas länger als andere Kinder. Aber hey, das ist völlig okay und gehört zur mehrsprachigen Entwicklung dazu. Da heißt es: Entspannt bleiben und dem Sprachenwirrwarr mit Humor begegnen.
 
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: Ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
@@ -33,21 +34,21 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 
 *Ein weiterer Vorteil ist, dass die Kinder durch dich ein breiteres kulturelles Verständnis entwickeln.* Sprache ist immer auch ein Träger von Kultur. Indem du ihnen deutsche Geschichten, Lieder und Traditionen vermittelst, öffnest du ihnen ein Fenster zu einer neuen Welt.
 
->**Freundlichkeit ist eine sprache, die taube hören und blinde sehen können.**– mark twain
+>** Freundlichkeit ist eine sprache, die taube hören und blinde sehen können.**– mark twain
 
 ## Strategien für eine gelingende Kommunikation in der bilingualen Patchworkfamilie
 
 In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/blog/bonuskinder-und-konflikte/) das A und O. Ich habe dir einige wertvolle Strategien zusammengestellt, die dir helfen können, sprachliche Hürden zu meistern und ein positives Kommunikationsklima zu schaffen:
 
-•***Etabliere klare Sprachenregeln*:**Legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
+•*** Etabliere klare Sprachenregeln*:** Legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
 
-•***Pflegt eure Familiensprachen gleichermaßen*:**Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
+•*** Pflegt eure Familiensprachen gleichermaßen*:** Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
 
-•***Nutzt Übersetzungs-Apps und Bildwörterbücher*:**Manchmal fehlen einfach die Worte. Hier können visuelle Hilfen und Apps eine Brücke bauen. Macht es zu einem lustigen Spiel, gemeinsam nach Begriffen zu suchen.
+•*** Nutzt Übersetzungs-Apps und Bildwörterbücher*:** Manchmal fehlen einfach die Worte. Hier können visuelle Hilfen und Apps eine Brücke bauen. Macht es zu einem lustigen Spiel, gemeinsam nach Begriffen zu suchen.
 
-•***Habt Geduld und Humor*:**Sprachenpannen gehören dazu. Wenn mal etwas schief geht, lacht gemeinsam darüber. Humor ist ein starker Verbündeter, um Frustration abzubauen und Nähe zu schaffen.
+•*** Habt Geduld und Humor*:** Sprachenpannen gehören dazu. Wenn mal etwas schief geht, lacht gemeinsam darüber. Humor ist ein starker Verbündeter, um Frustration abzubauen und Nähe zu schaffen.
 
-•***Feiert eure mehrsprachige Identität*:**Eure Sprachenvielfalt ist etwas Besonderes. Seid stolz darauf! Pflegt Traditionen aus allen euren Kulturen und feiert eure einzigartige Patchwork-Identität.
+•*** Feiert eure mehrsprachige Identität*:** Eure Sprachenvielfalt ist etwas Besonderes. Seid stolz darauf! Pflegt Traditionen aus allen euren Kulturen und feiert eure einzigartige Patchwork-Identität.
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 

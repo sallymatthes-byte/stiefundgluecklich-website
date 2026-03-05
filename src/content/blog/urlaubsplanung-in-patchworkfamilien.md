@@ -6,6 +6,7 @@ date: 2024-03-29
 updated: 2024-06-15
 metaTitle: "Urlaub als Patchworkfamilie: Planung ohne Drama"
 metaDescription: "Urlaubsplanung in der Patchworkfamilie — zwischen Umgangsregelung und echtem Erholungswunsch. So klappt es ohne Drama."
+heroImage: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 image: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -28,10 +29,10 @@ Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse
 ## Ideen für unvergessliche Momente
 
 Gemeinsame Aktivitäten im Urlaub sind eine wunderbare Gelegenheit, um als Patchworkfamilie zusammenzuwachsen und unvergessliche Erinnerungen zu schaffen.
-Wie wäre es mit einem**Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
-Oder ihr erkundet bei einer**Wanderung**die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im Freien.
-Auch ein Tag am**Strand**bietet viele Möglichkeiten: Ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
-Am Abend vielleicht ein**Gesellschaftsspiel**oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
+Wie wäre es mit einem** Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
+Oder ihr erkundet bei einer** Wanderung**die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im Freien.
+Auch ein Tag am** Strand**bietet viele Möglichkeiten: Ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
+Am Abend vielleicht ein** Gesellschaftsspiel**oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
 
 Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspannt – Hauptsache, ihr verbringt qualitativ hochwertige Zeit miteinander und jeder kann sich einbringen. So lernt ihr euch besser kennen, entwickelt Verständnis füreinander und schafft ein Gefühl von Zusammengehörigkeit. Und wer weiß, vielleicht entdeckt ihr dabei sogar neue Hobbys oder Leidenschaften, die euch auch nach dem Urlaub verbinden.
 
@@ -43,7 +44,7 @@ Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspann
 
 Auch im schönsten Familienurlaub kann es Momente geben, in denen dir alles zu viel wird. Vielleicht hast du das Gefühl, ständig für alle da sein zu müssen oder kommst selbst nicht zur Ruhe. Hier sind drei kreative Tipps, die dir helfen können, wieder zu dir zu finden:
 
-1**. Gönn dir eine “Ich-Stunde” am Tag.**Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – meditiere, lies ein paar Seiten in deinem Lieblingsbuch oder mach einen Spaziergang am Strand. Du musst nicht immer für alle verfügbar sein.**2. Verwandle einen Gegenstand in dein persönliches “Auszeit-Symbol”.**Das kann ein besonderer Stein, eine Muschel oder ein Armband sein. Immer, wenn du diesen Gegenstand bei dir trägst oder in der Hand hältst, ist das ein Zeichen für dich und deine Familie, dass du gerade eine kleine Pause brauchst.**3. Entwickle einen “Notfall-Plan” mit deinem Partner.**Überlegt gemeinsam, wie ihr euch gegenseitig entlasten könnt, wenn einem von euch die Decke auf den Kopf fällt. Vielleicht übernimmt dann der andere für ein paar Stunden die Kinder oder ihr wechselt euch mit “Auszeittagen” ab.
+1**. Gönn dir eine “Ich-Stunde” am Tag.** Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – meditiere, lies ein paar Seiten in deinem Lieblingsbuch oder mach einen Spaziergang am Strand. Du musst nicht immer für alle verfügbar sein.**2. Verwandle einen Gegenstand in dein persönliches “Auszeit-Symbol”.** Das kann ein besonderer Stein, eine Muschel oder ein Armband sein. Immer, wenn du diesen Gegenstand bei dir trägst oder in der Hand hältst, ist das ein Zeichen für dich und deine Familie, dass du gerade eine kleine Pause brauchst.**3. Entwickle einen “Notfall-Plan” mit deinem Partner.** Überlegt gemeinsam, wie ihr euch gegenseitig entlasten könnt, wenn einem von euch die Decke auf den Kopf fällt. Vielleicht übernimmt dann der andere für ein paar Stunden die Kinder oder ihr wechselt euch mit “Auszeittagen” ab.
 
 Denk daran: Nur wenn du auch gut für dich selbst sorgst, kannst du entspannt für deine Familie da sein. Gönne dir Momente der Ruhe und mach dir bewusst, dass du diese Auszeiten verdient hast. Sie helfen dir, den Urlaub zu genießen und mit neuer Energie für deine Lieben da zu sein.
 
@@ -52,7 +53,7 @@ Denk daran: Nur wenn du auch gut für dich selbst sorgst, kannst du entspannt f�
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

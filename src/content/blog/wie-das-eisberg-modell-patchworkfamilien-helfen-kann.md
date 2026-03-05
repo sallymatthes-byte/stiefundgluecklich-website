@@ -4,8 +4,9 @@ description: "Manchmal kippt die Stimmung einfach und du weißt nicht woran. Das
 category: "kinder-bindung"
 date: 2024-06-07
 updated: 2024-06-15
-metaTitle: "Das Eisberg-Modell in der Patchworkfamilie: Konflikte verstehen"
+metaTitle: "Das Eisberg-Modell in der Patchworkfamilie"
 metaDescription: "Warum Konflikte in Patchworkfamilien tiefer liegen als du denkst. Das Eisberg-Modell zeigt dir, was wirklich los ist."
+heroImage: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 image: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -36,7 +37,7 @@ All diese verborgenen Einflüsse können unseren Patchwork-Alltag ganz schön du
 
 Klar, das ist nicht immer einfach. Es braucht Mut, Geduld und Einfühlungsvermögen, um die Eisberge des anderen zu erkunden. Aber glaub mir: Es lohnt sich! Denn nur wenn wir verstehen, was unter der Oberfläche liegt, können wir einander wirklich begegnen und gemeinsam Lösungen finden, die für alle passen.
 
->**Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar**– Der kleine Prinz
+>** Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar**– Der kleine Prinz
 
 ## Das Modell in der Praxis
 
@@ -59,7 +60,7 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -67,11 +68,11 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 
 Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es im turbulenten Familienleben um? Hier kommen ein paar praktische Tipps und Fragen, die dir helfen können, den Eisberg-Blick zu schärfen:
 
--***Mach regelmäßig einen “Eisberg-Check”*:**Nimm dir Zeit, in dich hineinzuspüren und zu fragen: “Was beschäftigt mich gerade unter der Oberfläche? Welche unerfüllten Bedürfnisse oder alten Verletzungen schwingen in meinen Reaktionen mit?” Je besser du deine eigenen Eisberge kennst, desto leichter fällt es dir, auch die deiner Lieben zu erkunden.
+- *** Mach regelmäßig einen “Eisberg-Check”*:** Nimm dir Zeit, in dich hineinzuspüren und zu fragen: “Was beschäftigt mich gerade unter der Oberfläche? Welche unerfüllten Bedürfnisse oder alten Verletzungen schwingen in meinen Reaktionen mit?” Je besser du deine eigenen Eisberge kennst, desto leichter fällt es dir, auch die deiner Lieben zu erkunden.
 
--***Stell neugierige Fragen*:**Wenn dein Partner oder dein Bonuskind mal wieder genervt oder trotzig reagiert, frag nicht vorwurfsvoll “Was ist denn jetzt schon wieder los?”, sondern interessiert: “Ich merke, dass dich gerade etwas beschäftigt. Magst du mir mehr darüber erzählen?” So signalisierst du [Gesprächsbereitschaft](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) und Einfühlungsvermögen.
+- *** Stell neugierige Fragen*:** Wenn dein Partner oder dein Bonuskind mal wieder genervt oder trotzig reagiert, frag nicht vorwurfsvoll “Was ist denn jetzt schon wieder los?”, sondern interessiert: “Ich merke, dass dich gerade etwas beschäftigt. Magst du mir mehr darüber erzählen?” So signalisierst du [Gesprächsbereitschaft](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) und Einfühlungsvermögen.
 
--**Lass Verständnis wichtiger sein als Lösungen****:**Oft wollen wir schnell Ratschläge geben oder Probleme aus dem Weg räumen. Aber manchmal braucht es erstmal nur ein “Ich sehe dich und ich verstehe, was du fühlst”. Vertrau darauf, dass sich Lösungen leichter finden lassen, wenn sich alle tiefgreifend verstanden fühlen.
+- ** Lass Verständnis wichtiger sein als Lösungen****:** Oft wollen wir schnell Ratschläge geben oder Probleme aus dem Weg räumen. Aber manchmal braucht es erstmal nur ein “Ich sehe dich und ich verstehe, was du fühlst”. Vertrau darauf, dass sich Lösungen leichter finden lassen, wenn sich alle tiefgreifend verstanden fühlen.
 
 Klar, niemand von uns wird über Nacht zum Eisberg-Experten. Wir alle haben unsere blinden Flecken und verfallen manchmal in alte Muster. Aber mit jeder Begegnung, in der wir unter die Oberfläche schauen und uns mit Verständnis begegnen, werden wir als Familie stärker. Also sei geduldig mit dir und deinen Lieben – und vertrau darauf, dass jeder Eisberg-Moment ein Geschenk ist, das euch einander näherbringt.
 

@@ -6,6 +6,7 @@ date: 2025-05-30
 updated: 2025-04-11
 metaTitle: "Angst als Bonusmama: Warum Unsicherheit so normal ist"
 metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder alles falsch zu machen — warum sie als Bonusmama so häufig ist."
+heroImage: "/images/blog/bonusmama-angst-1.jpg"
 image: "/images/blog/bonusmama-angst-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -46,11 +47,11 @@ Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der ein
 
 Genau in diesem Spannungsfeld entsteht Angst – und sie äußert sich auf sehr unterschiedliche Weise. Manche Bonusmamas beschreiben eine dauerhafte Grundanspannung. Andere sagen: „Ich funktioniere – aber ich kann nie ganz loslassen.“
 
-Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist.** Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
+Das liegt nicht daran, dass du unsicher bist. ** Es liegt daran, dass dein Nervensystem wachsam ist.** Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
 
 Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durchlässig. Vielleicht hast du schon gemerkt, wie schnell du in die Überforderung rutschst – obwohl du nach außen „alles im Griff“ hast.
 
-Wichtig zu wissen: **Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** Deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
+Wichtig zu wissen: ** Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** Deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
 
 ![Stimmungsbild zum Artikel](/images/blog/bonusmama-angst-2.jpg)
 

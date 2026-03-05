@@ -6,6 +6,7 @@ date: 2023-12-29
 updated: 2024-06-15
 metaTitle: "Verantwortung als Bonusmama: Wie viel ist zu viel?"
 metaDescription: "Wo hört Hilfe auf und wo fängt Aufopferung an? Finde die richtige Balance bei der Verantwortung für deine Bonuskinder."
+heroImage: "/images/blog/balance-in-der-verantwortung-1.jpg"
 image: "/images/blog/balance-in-der-verantwortung-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -28,7 +29,7 @@ Doch wie können wir diese Verantwortung konkret umsetzen? Das möchte ich im n�
 
 ## Wer trägt die Verantwortung?
 
-Die Rolle des biologischen Elternteils in Bezug auf Verantwortung ist ein sensibles Thema, das oft zu kontroversen Diskussionen führt. Einwände wie “Warum sollte der biologische Elternteil die volle Verantwortung tragen?” oder “Sollte die Verantwortung nicht gleichmäßig aufgeteilt werden?” sind durchaus nachvollziehbar. Doch es gibt gute Gründe dafür, zu Beginn einer Beziehung die**Verantwortung komplett beim biologischen Elternteil zu lassen**.
+Die Rolle des biologischen Elternteils in Bezug auf Verantwortung ist ein sensibles Thema, das oft zu kontroversen Diskussionen führt. Einwände wie “Warum sollte der biologische Elternteil die volle Verantwortung tragen?” oder “Sollte die Verantwortung nicht gleichmäßig aufgeteilt werden?” sind durchaus nachvollziehbar. Doch es gibt gute Gründe dafür, zu Beginn einer Beziehung die** Verantwortung komplett beim biologischen Elternteil zu lassen**.
 
 Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in der der biologische Elternteil bereits eine Verbindung zu den Kindern aufgebaut hat. Es ist wichtig, diese Bindung zu respektieren und Raum für die Entwicklung der Beziehung zwischen dem biologischen Elternteil und den Bonuskindern zu lassen. Indem wir die Verantwortung zu Beginn in den Händen des biologischen Elternteils belassen, signalisieren wir, dass wir seine/ihre Rolle wertschätzen und unterstützen.
 
@@ -62,21 +63,21 @@ Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
 ![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
 
-Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine**Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
+Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 
-Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig.**Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
+Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig.** Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
 
 ## Wo finden wir Unterstützung?
 
 Während wir uns dieser Herausforderungen bewusst sind, sollten wir uns auch immer wieder vor Augen führen, dass es in Ordnung ist, Hilfe anzunehmen. Wir müssen nicht alles alleine bewältigen. Sich mit anderen Bonuseltern*auszutauschen*, kann eine wertvolle Unterstützung bieten. Gemeinsam können wir unsere Erfahrungen teilen, Tipps geben und uns gegenseitig ermutigen. Auch**professionelle Unterstützung**, wie zum Beispiel ein Familientherapeut oder durch ein Coaching, kann uns dabei helfen, Klarheit zu finden und uns in diesem Prozess zu begleiten.
 
-Bei all den Höhen und Tiefen, die diese Reise mit sich bringt, ist es wichtig, uns immer wieder daran zu erinnern, warum wir uns für eine Patchworkfamilie entschieden haben. Es geht darum, eine*liebevolle und harmonische Umgebung* für unsere Bonuskinder zu schaffen. Es geht darum, ihnen Geborgenheit und Sicherheit zu bieten. Und es geht darum, als Bonuseltern unseren Platz in dieser neuen Konstellation zu finden und unser Bestes zu geben.**In dem Prozess der Verantwortungsaufteilung dürfen wir uns selbst erlauben, Fehler zu machen und aus ihnen zu lernen. Wir dürfen uns gegenseitig verzeihen und uns immer wieder neu aufeinander einlassen**.
+Bei all den Höhen und Tiefen, die diese Reise mit sich bringt, ist es wichtig, uns immer wieder daran zu erinnern, warum wir uns für eine Patchworkfamilie entschieden haben. Es geht darum, eine*liebevolle und harmonische Umgebung* für unsere Bonuskinder zu schaffen. Es geht darum, ihnen Geborgenheit und Sicherheit zu bieten. Und es geht darum, als Bonuseltern unseren Platz in dieser neuen Konstellation zu finden und unser Bestes zu geben.** In dem Prozess der Verantwortungsaufteilung dürfen wir uns selbst erlauben, Fehler zu machen und aus ihnen zu lernen. Wir dürfen uns gegenseitig verzeihen und uns immer wieder neu aufeinander einlassen**.
 Denn letztendlich geht es darum, gemeinsam zu wachsen und eine starke Patchworkfamilie zu werden. Es mag nicht immer einfach sein, aber es ist es wert.
 
 ## Zusammenfassung

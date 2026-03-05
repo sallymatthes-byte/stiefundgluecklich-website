@@ -4,8 +4,9 @@ description: "Wenn unsere Bonuskinder uns triggern, können wir viel über unser
 category: "rolle-identitaet"
 date: 2024-05-17
 updated: 2024-06-15
-metaTitle: "Inneres Kind heilen: Was Bonuskinder uns über uns selbst lehren"
+metaTitle: "Inneres Kind heilen: Was Bonuskinder uns lehren"
 metaDescription: "Bonuskinder triggern oft tiefe Wunden aus der Kindheit. Wie du dein inneres Kind heilst und dadurch eine bessere Bonusmama wirst."
+heroImage: "/images/blog/innere-kind-heilung-1.jpg"
 image: "/images/blog/innere-kind-heilung-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -27,7 +28,7 @@ Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durc
 
 ## Unsere Gefühle annehmen: Der Schlüssel zur inneren Balance
 
-Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die dadurch ausgelösten Emotionen *bewusst wahrzunehmen und anzunehmen*. Versuche nicht, deine Gefühle zu unterdrücken oder zu bewerten – sie sind ein wertvoller Wegweiser zu deinen tiefsten Bedürfnissen. Erlaube dir selbst, die Wut, den Schmerz oder die Enttäuschung zu spüren, ohne dich dafür zu verurteilen. Entwickle stattdessen**Selbstmitgefühl**und Verständnis für deine eigenen Reaktionen. Frage dich:
+Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die dadurch ausgelösten Emotionen *bewusst wahrzunehmen und anzunehmen*. Versuche nicht, deine Gefühle zu unterdrücken oder zu bewerten – sie sind ein wertvoller Wegweiser zu deinen tiefsten Bedürfnissen. Erlaube dir selbst, die Wut, den Schmerz oder die Enttäuschung zu spüren, ohne dich dafür zu verurteilen. Entwickle stattdessen** Selbstmitgefühl**und Verständnis für deine eigenen Reaktionen. Frage dich:
 
 - Welche Situation in meiner Kindheit könnte diese Emotion ausgelöst haben?
 
@@ -35,14 +36,14 @@ Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die
 
 - Wie kann ich mein inneres Kind in diesem Moment trösten und unterstützen?
 
-Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du einen sicheren Raum für deine innere Heilung. Du gibst deinem verletzten inneren Kind die Erlaubnis, gesehen und gehört zu werden – vielleicht zum ersten Mal. Dieser Prozess der**Selbstannahme**ist nicht immer einfach, aber er ist unglaublich wichtig für dein seelisches Gleichgewicht. Erinnere dich daran, dass jede Emotion ihre Berechtigung hat und dass du stark genug bist, sie zu fühlen und zu transformieren. Mit jedem Mal, wenn du deine Triggerpunkte bewusst wahrnimmst und deine Gefühle annimmst, kommst du deiner inneren Balance ein Stückchen näher.
+Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du einen sicheren Raum für deine innere Heilung. Du gibst deinem verletzten inneren Kind die Erlaubnis, gesehen und gehört zu werden – vielleicht zum ersten Mal. Dieser Prozess der** Selbstannahme**ist nicht immer einfach, aber er ist unglaublich wichtig für dein seelisches Gleichgewicht. Erinnere dich daran, dass jede Emotion ihre Berechtigung hat und dass du stark genug bist, sie zu fühlen und zu transformieren. Mit jedem Mal, wenn du deine Triggerpunkte bewusst wahrnimmst und deine Gefühle annimmst, kommst du deiner inneren Balance ein Stückchen näher.
 
->**Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist**.
+>** Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist**.
 – carl rogers
 
 ## Den Weg zu innerem Frieden finden
 
-Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste**Selbstreflexion**vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – beobachte deine Gedanken und Emotionen, ohne sie zu bewerten oder zu versuchen, sie zu verändern. Stelle dir Fragen wie:
+Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste** Selbstreflexion**vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – beobachte deine Gedanken und Emotionen, ohne sie zu bewerten oder zu versuchen, sie zu verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
 
@@ -50,7 +51,7 @@ Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundene
 
 - Wie könnte ich in Zukunft gelassener und liebevoller mit ähnlichen Herausforderungen umgehen?
 
-*Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – sei es ein entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir aufsteigen spürst, probiere**Techniken zur Selbstberuhigung**aus, wie zum Beispiel tiefe Bauchatmung oder progressive Muskelentspannung.
+*Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – sei es ein entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir aufsteigen spürst, probiere** Techniken zur Selbstberuhigung**aus, wie zum Beispiel tiefe Bauchatmung oder progressive Muskelentspannung.
 
 Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* erfordert. Sei sanft und nachsichtig mit dir selbst, auch wenn du manchmal in alte Muster zurückfällst. Jeder Moment der Achtsamkeit und Selbstreflexion trägt zu deinem Wachstum bei und bringt dich näher zu deinem wahren, friedvollen Selbst. Vertraue darauf, dass du mit jedem Tag mehr innere Klarheit und Stärke gewinnst.
 
@@ -59,7 +60,7 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

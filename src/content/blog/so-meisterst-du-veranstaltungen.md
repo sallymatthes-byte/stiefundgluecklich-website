@@ -6,6 +6,7 @@ date: 2024-07-12
 updated: 2024-06-15
 metaTitle: "Veranstaltungen als Bonusmama: Selbstbewusst auftreten"
 metaDescription: "Schulfeste, Geburtstage, Familienfeiern — überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
+heroImage: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 image: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -54,7 +55,7 @@ Dein Partner liebt dich und möchte, dass du dich wohlfühlst. Vertraue darauf, 
 
 Gemeinsam seid ihr stark und könnt lernen, diese Herausforderungen als Chance für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
 
->**Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein Leben lang begleiten.**– sarah weber
+>** Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein Leben lang begleiten.**– sarah weber
 
 ## Selbstbewusst und strahlend: So meisterst du als Bonusmama jede Veranstaltung
 
@@ -77,9 +78,9 @@ Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltun
 
 - 💎 Sprich vorher mit deinem Partner über deine Sorgen und überlegt gemeinsam, wie ihr euch gegenseitig unterstützen könnt. Ein**geheimer Handschlag**, ein aufmunternder Blick oder ein Codewort können Wunder wirken, wenn die Unsicherheit überhandnimmt.
 
-- 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure**Grenzen setzen.**- 💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir**Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
+- 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure** Grenzen setzen.** 💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir** Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
 
-- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure**Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
+- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure** Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 

@@ -6,6 +6,7 @@ date: 2024-01-05
 updated: 2024-06-15
 metaTitle: "Visionboard als Patchworkfamilie: Gemeinsam Ziele setzen"
 metaDescription: "Ein Visionboard in der Patchworkfamilie? Warum gemeinsames Träumen so wichtig ist und wie ihr es als Ritual einführt."
+heroImage: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---

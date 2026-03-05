@@ -6,6 +6,7 @@ date: 2024-09-13
 updated: 2024-10-04
 metaTitle: "Die Rolle des Ex-Partners: So gehst du damit um"
 metaDescription: "Der Ex ist Teil des Pakets — ob du willst oder nicht. Wie du als Bonusmama einen gesunden Umgang findest."
+heroImage: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 image: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -18,27 +19,27 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
--**Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.**- Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+- ** Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 
--**Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.**- Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 
 - Sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
--**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/)und -vorstellungen haben.
+- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 
--**Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.**- Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 
 - Es gilt, neue [Traditionen und Rituale](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) zu entwickeln, die alle einbeziehen.
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
--**In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob lebend oder verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist.**- Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
+- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob lebend oder verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist.** Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 
@@ -65,7 +66,7 @@ Ja, es ist nicht immer einfach. Aber denk daran: Deine Akzeptanz und dein Verst�
 
 ## Wie Konflikte den Bonuskindern schaden
 
-*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit.**Und es belastet sie – mehr, als wir oft wahrhaben wollen.**Selbst moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das soziale Funktionieren eines Kindes beeinträchtigen. Sie fühlen sich hin- und hergerissen zwischen zwei Menschen, die sie lieben. Sie machen sich Sorgen, geraten in Loyalitätskonflikte, fühlen sich ohnmächtig und schuldig. Manche Kinder reagieren mit Rückzug, andere mit Aggression oder psychosomatischen Beschwerden.
+*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit.** Und es belastet sie – mehr, als wir oft wahrhaben wollen.** Selbst moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das soziale Funktionieren eines Kindes beeinträchtigen. Sie fühlen sich hin- und hergerissen zwischen zwei Menschen, die sie lieben. Sie machen sich Sorgen, geraten in Loyalitätskonflikte, fühlen sich ohnmächtig und schuldig. Manche Kinder reagieren mit Rückzug, andere mit Aggression oder psychosomatischen Beschwerden.
 
 *Je höher das Konfliktlevel, desto gravierender sind die Folgen.* Kinder, die ständigem Streit ausgesetzt sind, haben ein erhöhtes Risiko für Angststörungen, Depressionen, Verhaltensauffälligkeiten und Probleme in sozialen Beziehungen. Die negativen Effekte können bis ins Erwachsenenalter reichen.
 
@@ -78,7 +79,7 @@ Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Ause
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

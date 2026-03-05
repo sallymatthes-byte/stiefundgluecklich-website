@@ -4,8 +4,9 @@ description: "Kannst du deine Beziehung retten oder ist die Patchworkfamilie zum
 category: "rolle-identitaet"
 date: 2024-01-19
 updated: 2024-06-15
-metaTitle: "Patchworkfamilie: Bleiben oder gehen? Eine ehrliche Orientierung"
+metaTitle: "Patchworkfamilie: Bleiben oder gehen?"
 metaDescription: "Du fragst dich, ob du in der Patchworkfamilie bleiben oder gehen sollst? Eine ehrliche Reflexion für den schwersten Moment."
+heroImage: "/images/blog/bleiben-oder-gehen-1.jpg"
 image: "/images/blog/bleiben-oder-gehen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---

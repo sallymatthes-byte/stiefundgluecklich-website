@@ -4,8 +4,9 @@ description: "Wie kannst du den (Bonus-)Kindern dabei helfen, Konflikte oder Riv
 category: "kinder-bindung"
 date: 2024-04-19
 updated: 2024-06-15
-metaTitle: "Konflikte unter Kindern in der Patchworkfamilie: So hilfst du"
+metaTitle: "Konflikte unter Kindern in der Patchworkfamilie"
 metaDescription: "Streit zwischen Geschwistern und Bonuskindern? Warum Konflikte in Patchworkfamilien anders sind — und was wirklich hilft."
+heroImage: "/images/blog/konflikte-unter-kindern-1.jpg"
 image: "/images/blog/konflikte-unter-kindern-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -30,7 +31,7 @@ Doch wie können wir ihnen helfen, damit umzugehen?
 
 ## So unterstützt du den Prozess
 
-Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können:**1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.**Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die Macht der Ich-Botschaften, um Streit zu entschärfen.**Statt “Du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” Diese Formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [Ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**in denen die Kinder sich näherkommen können.
+Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können:**1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.** Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die Macht der Ich-Botschaften, um Streit zu entschärfen.** Statt “Du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” Diese Formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [Ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**in denen die Kinder sich näherkommen können.
 Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas erleben und die schönen Seiten einer großen Familie spüren. “Weißt du noch, wie wir neulich im Wald den riesigen Baum entdeckt haben?”, könnte Ben seine Schwester fragen und schon ist da wieder diese besondere Erinnerung, die verbindet.
 
 > “*Nicht das Kind soll sich der Umgebung anpassen. Sondern wir sollten die Umgebung dem Kind anpassen.*“
@@ -42,7 +43,7 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

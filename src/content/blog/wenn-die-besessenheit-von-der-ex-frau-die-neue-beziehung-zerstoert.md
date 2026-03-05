@@ -6,6 +6,7 @@ date: 2024-04-26
 updated: 2025-02-06
 metaTitle: "Besessen von der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ständig an die Ex-Frau deines Partners denken? Warum diese Besessenheit entsteht und wie du sie endlich loslässt."
+heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -32,13 +33,13 @@ Der Samstagnachmittag sollte eigentlich entspannt sein – du hast extra einen K
 
 - Sie nutzt jede Gelegenheit, um ihre frühere Beziehung mit deinem Partner zu erwähnen
 
-Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dich emotional auszehrt. Du schwankst zwischen Wut, wenn sie sich wieder einmal einmischt, und Verzweiflung, wenn du merkst, wie sehr diese Situation an deinen Kräften zehrt. **Manchmal fragst du dich sogar, ob es das alles wert ist – obwohl du deinen Partner von Herzen liebst.**
+Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dich emotional auszehrt. Du schwankst zwischen Wut, wenn sie sich wieder einmal einmischt, und Verzweiflung, wenn du merkst, wie sehr diese Situation an deinen Kräften zehrt. ** Manchmal fragst du dich sogar, ob es das alles wert ist – obwohl du deinen Partner von Herzen liebst.**
 
 ## Die versteckten Dynamiken verstehen
 
 Was macht die Situation zwischen Ex-Frau und neue Beziehung so explosiv? Oft liegt es an tieferen Mustern, die wie [unsichtbare Fäden](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) alle Beteiligten miteinander verbinden. *Die Ex-Frau kämpft möglicherweise mit dem Verlust ihrer gewohnten Rolle* – nicht nur als Partnerin, sondern auch als alleinige “Managerin” der Familie. Vielleicht fürchtet sie, dass die Kinder dich eines Tages mehr lieben könnten als sie, oder sie verarbeitet ihre eigenen Verletzungen durch die Trennung, indem sie Kontrolle ausübt.
 
-**Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – meist selbst auferlegt – können erdrückend sein. Dein Partner wiederum steht zwischen den Fronten, zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu vermeiden.
+** Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – meist selbst auferlegt – können erdrückend sein. Dein Partner wiederum steht zwischen den Fronten, zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu vermeiden.
 
 Diese komplexe Dynamik wird noch verstärkt durch:
 
@@ -122,7 +123,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 Stell dir vor, wie es sich anfühlen würde, wenn die Ex-Frau und neue Beziehung nicht mehr von Spannung und Konflikt geprägt wären. Wenn du morgens aufwachst und dich auf den Tag freust, anstatt zu grübeln, welche “Überraschungen” wohl heute wieder auf dich warten. Wenn du dich stark und sicher in deiner Rolle fühlst, egal was von außen kommt.
 
-**Das ist keine Utopie.** Ich erlebe in meiner Arbeit jeden Tag, wie Bonusmamas genau diese Transformation durchlaufen:
+** Das ist keine Utopie.** Ich erlebe in meiner Arbeit jeden Tag, wie Bonusmamas genau diese Transformation durchlaufen:
 
 - Sie gewinnen ihre emotionale Freiheit zurück
 
@@ -138,7 +139,7 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 
 *Der Unterschied zwischen einer Bonusmama, die unter der Situation leidet, und einer, die ihre Patchworkfamilie glücklich lebt, liegt nicht in den äußeren Umständen*. Er liegt in den Werkzeugen und Strategien, die sie zur Verfügung hat.
 
-**Lass uns in einem kostenlosen Analysegespräch gemeinsam herausfinden:**
+** Lass uns in einem kostenlosen Analysegespräch gemeinsam herausfinden:**
 
 - Wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
 

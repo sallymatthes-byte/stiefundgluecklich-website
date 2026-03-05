@@ -4,8 +4,9 @@ description: "Wann ist der richtige Zeitpunkt für eine gemeinsame Wohnung? Und 
 category: "partnerschaft"
 date: 2024-01-12
 updated: 2024-06-15
-metaTitle: "Zusammenziehen als Patchworkfamilie: So gestaltet ihr euer Zuhause"
+metaTitle: "Zusammenziehen als Patchworkfamilie"
 metaDescription: "Eine gemeinsame Wohnung für die Patchworkfamilie? Worauf es ankommt, damit sich alle — auch du — wirklich zu Hause fühlen."
+heroImage: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
 image: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -29,7 +30,7 @@ Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem 
 > “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.”
 – deutsches sprichwort
 
-## Welche Faktoren gibt es zu berücksichtigen?**1.**Bedürfnisse aller Beteiligten berücksichtigen
+## Welche Faktoren gibt es zu berücksichtigen?**1.** Bedürfnisse aller Beteiligten berücksichtigen
 Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
 
 
@@ -63,7 +64,7 @@ Unsere Kinder wollten zum Beispiel Betten, die sie zusammenschieben, aber auch t
 
 Falls einer von euch in die bestehende Wohnung des anderen zieht, solltet ihr euch auch darüber Gedanken machen, wie diese Wohnung gestaltet werden kann, damit sie ein*Wohlfühlort für alle* wird. Möglicherweise möchtest du nicht all deine Möbel aufgeben, eine neue [Wandfarbe](https://zuhausewohnen.de/einrichtungstipps/farben-special/artikel/wohnen-mit-farben-ratgeber-0) bringt deinen Stil mit rein und Bilder von dir und deinen Erinnerungen lassen dich zu Hause fühlen.
 
-Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?!**3. Offene Kommunikation und Ängste ansprechen**Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
+Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?!**3. Offene Kommunikation und Ängste ansprechen** Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
 
 Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – also besorgten wir Kisten für die Spielsachen und jeden Morgen heißt es bei uns: gemeinsames Aufräumen!
 

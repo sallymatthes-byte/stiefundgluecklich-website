@@ -5,6 +5,7 @@ category: "rolle-identitaet"
 date: 2024-08-06
 metaTitle: "Finanzen als Bonusmama: So sicherst du deine Unabhängigkeit"
 metaDescription: "Sollst du für die Bonuskinder mitbezahlen? Wie du als Bonusmama finanziell unabhängig bleibst — ohne schlechtes Gewissen."
+heroImage: "/images/blog/finanzielle-beteiligung-1.jpg"
 image: "/images/blog/finanzielle-beteiligung-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -33,7 +34,7 @@ Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligun
 
 Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
 
-Diese Gefühle sind absolut verständlich und menschlich.**Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.**Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
+Diese Gefühle sind absolut verständlich und menschlich.** Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.** Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
 
 Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unterdrücken. Sprich mit deinem Partner darüber, wie es dir geht. Oft hilft es schon, sich einfach mal alles von der Seele zu reden und sich verstanden zu fühlen.
 
@@ -74,12 +75,12 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 
 Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf beiden Seiten lässt sich ein Weg finden. Denk immer daran: Ihr sitzt im selben Boot und wollt beide das Beste für eure Familie.
 
-## Wahre deine finanzielle Unabhängigkeit**Als Bonusmama ist es leicht, sich selbst zu vergessen.**Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
+## Wahre deine finanzielle Unabhängigkeit** Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -93,7 +94,7 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 
 - 💎 dir kleine Extras gönnen, ohne ein schlechtes Gewissen zu haben
 
-- 💎 eine finanzielle Rücklage für Notfälle aufbauen**Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.**Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
+- 💎 eine finanzielle Rücklage für Notfälle aufbauen** Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.** Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
 
 Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 

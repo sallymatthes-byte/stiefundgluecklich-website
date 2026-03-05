@@ -4,8 +4,9 @@ description: "Erfahre, wie du als Bonusmama Konkurrenzgefühle der Kindsmutter �
 category: "ex-und-system"
 date: 2024-07-05
 updated: 2024-06-15
-metaTitle: "Warum sich Kindsmütter bedroht fühlen: Die andere Perspektive"
+metaTitle: "Warum sich Kindsmütter bedroht fühlen"
 metaDescription: "Die leibliche Mutter reagiert feindselig? Warum sie sich bedroht fühlt und wie du als Bonusmama damit umgehen kannst."
+heroImage: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
 image: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -41,7 +42,7 @@ Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht 
 
 Als Bonusmama kann es eine schmerzliche Erfahrung sein, wenn du bemerkst, dass die Kindsmutter Konkurrenzgefühle dir gegenüber hegt. Die unterschwellige Spannung zwischen euch und die Ablehnung, die dir entgegenschlägt, können dich zutiefst verunsichern und dein *Selbstwertgefühl erschüttern*.
 
-Du fragst dich vielleicht:***“Was mache ich falsch? Warum kann sie nicht sehen, dass ich nur das Beste für das Kind möchte?”***Die Sehnsucht nach Anerkennung und einem harmonischen Miteinander kann sich in Frustration und Hilflosigkeit verwandeln, wenn deine Bemühungen immer wieder auf Widerstand stoßen.
+Du fragst dich vielleicht:***“Was mache ich falsch? Warum kann sie nicht sehen, dass ich nur das Beste für das Kind möchte?”*** Die Sehnsucht nach Anerkennung und einem harmonischen Miteinander kann sich in Frustration und Hilflosigkeit verwandeln, wenn deine Bemühungen immer wieder auf Widerstand stoßen.
 
 *Gefühle von Traurigkeit und Enttäuschung* können dich übermannen, wenn du siehst, wie die Kindsmutter deine Beziehung zum Kind kritisch beäugt oder versucht, dich auszugrenzen. Du hast dir diese neue Familienkonstellation vielleicht ganz anders vorgestellt und sehnst dich nach Akzeptanz und Zusammenhalt.
 
@@ -55,7 +56,7 @@ Es ist wichtig, dass du dir inmitten dieser emotionalen Achterbahnfahrt Raum fü
 
 ## Gemeinsames Brückenbauen
 
-Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du erkennst, dass eine gute Zusammenarbeit mit der Kindsmutter der Schlüssel zu einer harmonischen Patchwork-Familie ist, in der sich das Kind geborgen und geliebt fühlt. Doch der Weg zu einer solchen Kooperation ist nicht immer einfach und erfordert *[Geduld,](/blog/die-4-phasen-der-patchworkfamilie/) Einfühlungsvermögen und den Willen zu Kompromissen*.**Als Bonusmama kannst du durch folgende Schritte dazu beitragen, eine Brücke zur Kindsmutter zu bauen:**-*Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
+Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du erkennst, dass eine gute Zusammenarbeit mit der Kindsmutter der Schlüssel zu einer harmonischen Patchwork-Familie ist, in der sich das Kind geborgen und geliebt fühlt. Doch der Weg zu einer solchen Kooperation ist nicht immer einfach und erfordert *[Geduld,](/blog/die-4-phasen-der-patchworkfamilie/) Einfühlungsvermögen und den Willen zu Kompromissen*.** Als Bonusmama kannst du durch folgende Schritte dazu beitragen, eine Brücke zur Kindsmutter zu bauen:**-*Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
 
 -*Kommuniziere offen und respektvoll* mit der Kindsmutter über Erziehungsfragen und sucht nach Kompromissen.
 

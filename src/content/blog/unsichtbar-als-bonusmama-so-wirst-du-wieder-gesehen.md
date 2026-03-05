@@ -5,6 +5,7 @@ category: "rolle-identitaet"
 date: 2025-04-04
 metaTitle: "Unsichtbar als Bonusmama? So wirst du endlich gesehen"
 metaDescription: "Du fühlst dich unsichtbar als Bonusmama? Warum das Gefühl real ist — und 5 Wege, wie du wieder gesehen wirst."
+heroImage: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 image: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---

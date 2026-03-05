@@ -6,6 +6,7 @@ date: 2024-05-24
 updated: 2024-06-15
 metaTitle: "Wenn der Partner zögert: Zusammenziehen, Heiraten, Kinder"
 metaDescription: "Dein Partner will nicht zusammenziehen, heiraten oder ein gemeinsames Kind? Was dahintersteckt und wie du damit umgehst."
+heroImage: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -30,7 +31,7 @@ All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft
 
 Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: “Mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte.”
 
-Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: “Was genau sind deine Bedenken?” oder “Wovor hast du Angst?”. So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist.**Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden.**Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
+Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: “Was genau sind deine Bedenken?” oder “Wovor hast du Angst?”. So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist.** Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden.** Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
 
 - Führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
 
@@ -40,12 +41,12 @@ Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspekti
 
 Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzeptiere, dass Veränderungen Zeit brauchen und dein Partner möglicherweise nicht im selben Tempo voranschreiten möchte wie du. Macht euch bewusst: Auch kleine Schritte in die richtige Richtung stärken eure Beziehung und bringen euch einander näher.
 
->**Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist**.
+>** Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist**.
 – carl rogers
 
 ## Den Weg zu innerem Frieden finden
 
-Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste**Selbstreflexion**vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – beobachte deine Gedanken und Emotionen, ohne sie zu bewerten oder zu versuchen, sie zu verändern. Stelle dir Fragen wie:
+Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste** Selbstreflexion**vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – beobachte deine Gedanken und Emotionen, ohne sie zu bewerten oder zu versuchen, sie zu verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
 
@@ -53,7 +54,7 @@ Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundene
 
 - Wie könnte ich in Zukunft gelassener und liebevoller mit ähnlichen Herausforderungen umgehen?
 
-*Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – sei es ein entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir aufsteigen spürst, probiere**Techniken zur Selbstberuhigung**aus, wie zum Beispiel tiefe Bauchatmung oder progressive Muskelentspannung.
+*Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – sei es ein entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir aufsteigen spürst, probiere** Techniken zur Selbstberuhigung**aus, wie zum Beispiel tiefe Bauchatmung oder progressive Muskelentspannung.
 
 Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* erfordert. Sei sanft und nachsichtig mit dir selbst, auch wenn du manchmal in alte Muster zurückfällst. Jeder Moment der Achtsamkeit und Selbstreflexion trägt zu deinem Wachstum bei und bringt dich näher zu deinem wahren, friedvollen Selbst. Vertraue darauf, dass du mit jedem Tag mehr innere Klarheit und Stärke gewinnst.
 

@@ -3,8 +3,9 @@ title: "Unterhalt in Patchworkfamilien: So sicherst du dich ab!"
 description: "Finanzen und Unterhalt in Patchworkfamilien: Erfahre, wie du dich finanziell absicherst, ohne dich ausgenutzt zu fühlen – egal, wo du lebst!"
 category: "rolle-identitaet"
 date: 2025-04-18
-metaTitle: "Unterhalt in Patchworkfamilien: Was du als Bonusmama wissen musst"
+metaTitle: "Unterhalt in Patchworkfamilien: Das musst du wissen"
 metaDescription: "Unterhalt, Kindergeld, Steuern — wie Finanzen deine Patchworkfamilie beeinflussen. Deutschland, Österreich, Schweiz im Vergleich."
+heroImage: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
 image: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -131,7 +132,7 @@ Sobald ihr diese Klarheit geschaffen habt, geht es darum, neue Lösungen zu entw
 
 Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend miteinander kommuniziert. Geld ist ein hoch emotionales Thema – vor allem in Patchwork-Familien, wo oft noch Ex-Partner:innen und Kinder involviert sind. Vielleicht hast du Angst, als „fordernd“ zu wirken, wenn du das Thema ansprichst. Vielleicht fürchtet dein Partner, dass du seine Verantwortung gegenüber seinen Kindern nicht akzeptierst. Doch je länger ihr vermeidet, darüber zu sprechen, desto größer wird der Frust. Es geht nicht darum, Vorwürfe zu machen, sondern gemeinsame Lösungen zu finden. Sag deinem Partner nicht: „Du zahlst so viel Unterhalt, dass für uns nichts übrig bleibt.“ Sag stattdessen: „Ich wünsche mir, dass wir gemeinsam überlegen, wie wir trotz der Verpflichtungen auch unser eigenes Leben gut finanzieren können.“
 
-**Der Schlüssel zu finanzieller Sicherheit in der Patchwork-Familie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
+** Der Schlüssel zu finanzieller Sicherheit in der Patchwork-Familie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
 
 sichere deine finalzielle zukunft als bonusmama!
 

@@ -3,8 +3,9 @@ title: "Die unsichtbare Last: Verluste und Loyalitätskonflikte von Bonuskindern
 description: "Kinder in Patchworkfamilien kämpfen oft mit Verlusten und Loyalitätskonflikten. Erfahre, wie du sie dabei unterstützen kannst."
 category: "kinder-bindung"
 date: 2024-08-23
-metaTitle: "Loyalitätskonflikte bei Kindern: Was Bonusmamas wissen müssen"
+metaTitle: "Loyalitätskonflikte bei Kindern in Patchworkfamilien"
 metaDescription: "Dein Bonuskind steckt zwischen den Fronten? Was hinter Loyalitätskonflikten steckt und wie du als Bonusmama helfen kannst."
+heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -17,27 +18,27 @@ Dies ist eine der 5 Herausforderungen, die die amerikanische Psychologin Patrici
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
--**Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.**- Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+- ** Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 
--**Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.**- Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 
 - Sie fühlen sich hin- und hergerissen zwischen dem biologischen Elternteil und dem neuen Partner.
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
--**Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.**- Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
+- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 
--**Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.**- Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 
 - Es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
--**In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob lebend oder verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist.**- Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
+- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob lebend oder verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist.** Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 
@@ -55,7 +56,7 @@ Es ist, als würde sie ihren Vater *verlieren* – an diese andere Frau, die p
 
 Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust, fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*.
 
-Der**Loyalitätskonflikt**– das Gefühl, Mama oder Papa zu verraten, wenn man die Bonuseltern mag – kann quälend sein. Selbst bei einvernehmlichen Trennungen ist diese Zerrissenheit für Kinder eine große Belastung. Kommt es zwischen den leiblichen Eltern zum Streit, wird sie sogar *unerträglich*.
+Der** Loyalitätskonflikt**– das Gefühl, Mama oder Papa zu verraten, wenn man die Bonuseltern mag – kann quälend sein. Selbst bei einvernehmlichen Trennungen ist diese Zerrissenheit für Kinder eine große Belastung. Kommt es zwischen den leiblichen Eltern zum Streit, wird sie sogar *unerträglich*.
 
 Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit, um sich an die neue Situation anzupassen. *Gerade Teenager wie Emma, Kinder mit tieferen Loyalitätskonflikten und Kinder, die bereits andere Verluste erlebt haben, benötigen ein langsameres Tempo, viel Eins-zu-eins-Zeit mit Mama oder Papa und weniger Aktivitäten mit der ganzen Patchworkfamilie.*
 
@@ -79,7 +80,7 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -87,17 +88,17 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 
 Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Loyalitätskonflikten und Überforderung kämpfen, fühlen wir uns oft hilflos. Doch es gibt Wege, wie wir sie in dieser herausfordernden Situation unterstützen können:
 
--**Nehmt euch Zeit**: Akzeptiert, dass die Anpassung an die neue Familiensituation für Kinder oft länger dauert als für Erwachsene. Geht die Veränderungen in einem Tempo an, das für die Kinder verträglich ist. Überstürzt nichts und habt Geduld.
+- ** Nehmt euch Zeit**: Akzeptiert, dass die Anpassung an die neue Familiensituation für Kinder oft länger dauert als für Erwachsene. Geht die Veränderungen in einem Tempo an, das für die Kinder verträglich ist. Überstürzt nichts und habt Geduld.
 
--**Schafft Stabilitäten**: Inmitten all der Veränderungen brauchen Kinder Ankerpunkte, an denen sie sich festhalten können. Etabliert verlässliche Routinen und Rituale, die ihnen Halt und Sicherheit geben. Das können feste Zeiten für gemeinsame Mahlzeiten, Gute-Nacht-Geschichten oder Wochenendausflüge sein.
+- ** Schafft Stabilitäten**: Inmitten all der Veränderungen brauchen Kinder Ankerpunkte, an denen sie sich festhalten können. Etabliert verlässliche Routinen und Rituale, die ihnen Halt und Sicherheit geben. Das können feste Zeiten für gemeinsame Mahlzeiten, Gute-Nacht-Geschichten oder Wochenendausflüge sein.
 
--**Seid aufmerksam**: Beobachtet eure Kinder genau und versucht, ihre Perspektive einzunehmen. Welche Verhaltensweisen oder Stimmungen deuten darauf hin, dass sie überfordert sind? Wann zeigen sich Anzeichen von Loyalitätskonflikten bei den Bonuskindern? Je besser ihr ihre Bedürfnisse versteht, desto gezielter könnt ihr darauf eingehen.
+- ** Seid aufmerksam**: Beobachtet eure Kinder genau und versucht, ihre Perspektive einzunehmen. Welche Verhaltensweisen oder Stimmungen deuten darauf hin, dass sie überfordert sind? Wann zeigen sich Anzeichen von Loyalitätskonflikten bei den Bonuskindern? Je besser ihr ihre Bedürfnisse versteht, desto gezielter könnt ihr darauf eingehen.
 
--**Bietet Gesprächsangebote**: Zeigt den Kindern, dass ihr für sie da seid und ein offenes Ohr für ihre Sorgen habt. Fragt sie nach ihren Gefühlen und Gedanken, ohne sie zu drängen. Manchmal hilft es schon, wenn sie wissen, dass sie mit euch über alles reden können.
+- ** Bietet Gesprächsangebote**: Zeigt den Kindern, dass ihr für sie da seid und ein offenes Ohr für ihre Sorgen habt. Fragt sie nach ihren Gefühlen und Gedanken, ohne sie zu drängen. Manchmal hilft es schon, wenn sie wissen, dass sie mit euch über alles reden können.
 
--**Gestaltet Eins-zu-eins-Zeit**: Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – wichtig ist, dass sie spüren, dass sie nicht um eure Zuwendung konkurrieren müssen.
+- ** Gestaltet Eins-zu-eins-Zeit**: Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – wichtig ist, dass sie spüren, dass sie nicht um eure Zuwendung konkurrieren müssen.
 
--**Erlaubt Ambivalenzen**: Macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
+- ** Erlaubt Ambivalenzen**: Macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
 
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird – und begleitet es dabei ohne Druck und Erwartungen.
 

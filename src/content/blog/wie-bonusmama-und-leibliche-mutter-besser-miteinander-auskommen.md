@@ -4,8 +4,9 @@ description: "Häufig gibt es Konflikte zwischen Bonusmama und leiblicher Mutter
 category: "ex-und-system"
 date: 2023-12-04
 updated: 2024-06-15
-metaTitle: "Bonusmama & leibliche Mutter: So verbessert ihr eure Beziehung"
+metaTitle: "Bonusmama & leibliche Mutter: Besser miteinander"
 metaDescription: "Ständig Konflikte mit der leiblichen Mutter? 5 Wege, wie Bonusmama und Kindsmutter besser miteinander auskommen."
+heroImage: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
 image: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
@@ -24,14 +25,14 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 
 ## Die Herausforderung verstehen
 
-Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd.**Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
+Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd.** Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
 
 Oftmals basieren diese Konflikte auf Ängsten und Unsicherheiten, die in der neuen, ungewohnten Situation entstehen.
 *Die leibliche Mutter könnte Sorgen haben, dass sie durch die neue Frau in ihrem Leben ihrer Kinder ersetzt wird.* Gerade wenn der Mann die Kindsmutter verlassen hat, ist das eine Angst, die häufig mitschwingt.
 
 Die Bonusmama könnte sich unsicher fühlen, wie sie sich in das bestehende Familiengefüge einfügen soll, ohne Grenzen zu überschreiten.
 
-Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusmama und der leiblichen Mutter, sondern können auch**Auswirkungen auf die gesamte Familienstruktur**haben und insbesondere für die Kinder stressig sein.
+Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusmama und der leiblichen Mutter, sondern können auch** Auswirkungen auf die gesamte Familienstruktur**haben und insbesondere für die Kinder stressig sein.
 Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters schlecht redet. Daher ist es wichtig, diese Herausforderungen anzugehen und Wege zu finden, um ein harmonisches Miteinander zu fördern.
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
@@ -39,7 +40,7 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 
 ## Ursachen für Konflikte
 
-Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre**Ursachen zu verstehen**.
+Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre** Ursachen zu verstehen**.
 Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus.
 In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese Konflikte sind ungelöst und werden immer wieder neu aufgerollt. Diese Ursachen können vielfältig sein und sind oft tief in den Emotionen und Ängsten der Beteiligten verwurzelt.
 
@@ -74,7 +75,7 @@ Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte ents
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

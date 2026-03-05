@@ -6,6 +6,7 @@ date: 2024-08-07
 updated: 2024-08-05
 metaTitle: "Ein Liebesbrief an alle Bonusmamas: Du machst das großartig"
 metaDescription: "An alle Bonusmamas, die gerade zweifeln: Dieser offene Brief ist für dich. Du bist genug — genau so wie du bist."
+heroImage: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 image: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
