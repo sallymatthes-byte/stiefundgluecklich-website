@@ -86,7 +86,6 @@ Und: Ist mein Bonusmama-Programm gerade der richtige Schritt für dich?
 
 > Dies ist deine Chance, endlich Klarheit zu finden – und einen Weg zu wählen, der wirklich zu DIR passt.Nicht zu einer Vorstellung davon, wie eine „perfekte“ Bonusmama sein sollte.
 
-[Ja, ich möchte meine Rolle finden!](https://calendly.com/sallymatthes/qualifizierungscall)
 
 „Sallys Begleitung hat mir die Augen geöffnet. Heute weiß ich, dass ich keine perfekte Bonusmama sein muss – ich darf einfach ich selbst sein und in meine Rolle hineinwachsen.“– Marie, 34, Bonusmama von zwei Kindern
 
@@ -97,7 +96,3 @@ Heute weiß ich: Ich musste mich nie entscheiden.Nicht zwischen meinem Partner u
 Ich musste nur lernen, meinen Platz zu finden – und den Mut haben, ihn auch einzunehmen.Nicht perfekt. Sondern echt.
 
 Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.
-
-💫 @stiefundgluecklich auf Instagram – für echte Impulse & sanften Austausch.Ich freu mich auf dich.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

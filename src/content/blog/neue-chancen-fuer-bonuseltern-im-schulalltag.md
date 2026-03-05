@@ -196,10 +196,3 @@ In diesem 60-minütigen Gespräch:
 In meinem ganzheitlichen Begleitprogramm für Bonuseltern unterstütze ich dich dabei, eine klare Rolle im Schul- und Kindergartenalltag zu entwickeln – ohne dich fehl am Platz zu fühlen. Ich helfe dir, dich selbstbewusst einzubringen und gleichzeitig respektvoll mit allen Beteiligten umzugehen.
 
 Denk daran: Die wichtigste Frage ist nicht, was du offiziell “darfst”, sondern was du willst und wie du es mit deinem Partner und dem Bonuskind abstimmst. Du kannst deinen eigenen Weg als Bonuseltern im Schulalltag finden – und ich würde mich freuen, dich dabei zu begleiten.
-
-[Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
-
-PS: Vielleicht zögerst du noch, diesen Schritt zu gehen. Doch stell dir vor, wie es sich anfühlen würde, selbstverständlich am Elternabend teilzunehmen, von Lehrkräften als wichtige Bezugsperson anerkannt zu werden und gemeinsam mit allen Beteiligten das Beste für dein Bonuskind zu erreichen. Diese Veränderung ist möglich – und du musst sie nicht alleine schaffen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

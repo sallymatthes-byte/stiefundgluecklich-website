@@ -65,7 +65,7 @@ Frag dich selbst:
 
 - Geht es um Wertschätzung? Hast du das Gefühl, dass dein Beitrag zur Familie nicht gesehen wird?
 
-🔹 Tipp: Schreibe dir konkrete Situationen auf, in denen du dich unsichtbar fühlst. So kannst du sie später deinem Partner leichter erklären.
+> Tipp: Schreibe dir konkrete Situationen auf, in denen du dich unsichtbar fühlst. So kannst du sie später deinem Partner leichter erklären.
 
 > Beispiel: „Ich fühle mich unsichtbar, wenn wir gemeinsam essen und du nur mit den Kindern sprichst. Ich würde mir wünschen, dass wir uns auch als Paar austauschen.“
 
@@ -79,7 +79,7 @@ Sobald du weißt, was dir fehlt, geht es darum, aktiv neue Routinen in eure Bezi
 
 Familienzeit ist nicht gleich Paarzeit! Plant bewusst Zeit nur für euch – ohne Ablenkung durch Kinder oder Haushalt. Das kann ein fester Abend in der Woche sein oder ein kurzer Spaziergang zu zweit.
 
-📝 Praxis-Tipp: Setzt euch eine „Paarzeit-Challenge“: 10 Minuten pro Tag nur für euch – ohne Handys, ohne Kinder, ohne Ablenkung.
+> Praxis-Tipp: Setzt euch eine „Paarzeit-Challenge“: 10 Minuten pro Tag nur für euch – ohne Handys, ohne Kinder, ohne Ablenkung.
 
 ## 2️⃣ Kleine Rituale in den Alltag einbauen
 
@@ -107,7 +107,7 @@ Jetzt kommt der wichtigste Teil: das Gespräch mit deinem Partner. Und hier lieg
 
 ## So formulierst du deine Wünsche richtig:
 
-🚫 Falsche Strategie:❌ „Du beachtest mich nie, wenn die Kinder da sind.“❌ „Ich bin dir gar nicht mehr wichtig.“
+> Falsche Strategie:❌ „Du beachtest mich nie, wenn die Kinder da sind.“❌ „Ich bin dir gar nicht mehr wichtig.“
 
 ✅ Bessere Strategie:✔ „Ich merke, dass mir unsere gemeinsame Zeit fehlt. Ich wünsche mir, dass wir bewusst mehr Momente zu zweit einplanen.“✔ „Mir ist unsere Beziehung sehr wichtig. Wie können wir beide es schaffen, trotz des Familienalltags unsere Verbindung zu stärken?“
 
@@ -121,7 +121,10 @@ Wenn du jetzt denkst: “Das klingt gut, aber wie setze ich das in meiner spezie
 
 Vielleicht fragst du dich:
 
-🔹 Wie kann ich meine Bedürfnisse klar kommunizieren, ohne Vorwürfe zu machen?🔹 Was tue ich, wenn mein Partner meine Unsicherheit nicht versteht oder abwehrt?🔹 Wie finde ich eine Balance zwischen Familienleben und Paarzeit, ohne mich egoistisch zu fühlen?🔹 Wie kann ich meinen Platz in der Patchwork-Familie finden, ohne ständig das Gefühl zu haben, im Hintergrund zu stehen?
+> Wie kann ich meine Bedürfnisse klar kommunizieren, ohne Vorwürfe zu machen?
+> Was tue ich, wenn mein Partner meine Unsicherheit nicht versteht oder abwehrt?
+> Wie finde ich eine Balance zwischen Familienleben und Paarzeit, ohne mich egoistisch zu fühlen?
+> Wie kann ich meinen Platz in der Patchwork-Familie finden, ohne ständig das Gefühl zu haben, im Hintergrund zu stehen?
 
 In unserem 60-minütigen Gespräch:
 
@@ -131,15 +134,7 @@ In unserem 60-minütigen Gespräch:
 
 Ich weiß, wie herausfordernd es ist, seinen Platz in einer Patchworkfamilie zu finden. Aber du musst diese Reise nicht allein gehen. Ich begleite dich dabei, deine Beziehung zu stärken, ohne dass du das Gefühl hast, immer nur Zuschauerin zu sein.
 
-[Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
-
-PS: Vielleicht zögerst du noch, diesen Schritt zu gehen…
 
 Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/blog/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr – nicht nur als „die Erwachsene, die eben auch da ist“, sondern als seine wichtigste Verbündete.
 
 Wie würde es sich anfühlen, wenn du dich nicht mehr fragst, „Bin ich hier eigentlich noch wichtig?“, sondern genau wüsstest, dass dein Platz in der Familie sicher ist – unabhängig davon, ob die Kinder da sind oder nicht?
-
-Diese Veränderung ist möglich. Und du musst sie nicht alleine schaffen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

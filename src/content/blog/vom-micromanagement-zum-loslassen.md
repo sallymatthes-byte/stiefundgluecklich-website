@@ -41,7 +41,7 @@ Stell dir vor: Dein Stiefkind kommt aus der Schule, will sich entspannen, aber d
 
 Micromanagement mag dir das Gefühl geben, alles im Griff zu haben – doch in Wirklichkeit schadet es euren Beziehungen.
 
-## warum ist Micromanaging problematisch?
+## Warum ist Micromanaging problematisch?
 
 
 ![Stimmungsbild zum Artikel](/images/blog/vom-micromanagement-zum-loslassen-2.jpg)
@@ -99,8 +99,3 @@ Loslassen hat nicht nur meine Familie verändert, sondern auch mich selbst. Ich 
 Micromanaging schadet dir und deiner Familie. Doch mit der Bonusmama-Formel kannst du lernen, loszulassen und Vertrauen aufzubauen. Das wird nicht nur deine Beziehungen stärken, sondern auch dein eigenes Leben leichter machen.
 
 Du willst wissen, wie das konkret für dich und deine Familiensituation aussieht? Stell dir vor, du legst endlich den schweren Rucksack voller Verantwortung ab und spürst, wie sich Erleichterung in deinem Alltag ausbreitet. Lass uns gemeinsam herausfinden, ob die Bonusmama-Formel der richtige Weg für dich ist. Lass uns gemeinsam herausfinden, ob die Bonusmama-Formel der richtige Weg für dich ist.
-
-[Vereinbare jetzt dein gespräch](https://calendly.com/sallymatthes/qualifizierungscall)
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

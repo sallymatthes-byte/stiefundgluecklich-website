@@ -19,7 +19,7 @@ In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchwork
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) genau das Richtige für dich:
 
-## verliebt, nicht verlobt, aber patchwork
+## Verliebt, nicht verlobt, aber patchwork
 
 Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, eine Auszeit zu nehmen und für drei Monate mit meinem Rucksack durch Südostasien zu reisen. Ich war glücklich, frei und hatte gerade erst wieder zu mir selbst gefunden. Das Letzte, wonach ich suchte, war eine neue Beziehung – doch dann kam alles anders. In Thailand lernte ich meinen jetzigen Partner kennen und verliebte mich Hals über Kopf.
 
@@ -31,7 +31,7 @@ Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragt
 
 *All diese Herausforderungen führten dazu, dass ich mich immer mehr zurückzog und mich auf mich selbst konzentrierte.* Ich suchte nach Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional von meinem Partner und den Kindern distanzierte. Wir führten viele Gespräche darüber, ob unsere Beziehung diese Belastungsprobe aushalten würde und ob wir wirklich gemeinsam eine Zukunft gestalten konnten.
 
-## dabei wollte ich nur harmonie
+## Dabei wollte ich nur harmonie
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-2.jpg)
@@ -50,7 +50,7 @@ Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien 
 
 „in schwierigen zeiten ist familie das beste.”– burmesisches sprichwort
 
-## hindernisse überwinden
+## Hindernisse überwinden
 
 Trotz meines Verlangens nach Harmonie in unserer Patchworkfamilie, war der Weg dorthin von Herausforderungen geprägt. Je mehr ich versuchte, eine Beziehung zu den Kindern aufzubauen, desto mehr hatte ich das Gefühl, gegen eine unsichtbare Wand zu laufen. Die Sprachbarriere und die ständigen Vergleiche mit der leiblichen Mutter ließen mich an meiner Rolle zweifeln.
 
@@ -60,7 +60,7 @@ In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung.
 
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
-## der neue weg
+## Der neue weg
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-3.jpg)
@@ -97,5 +97,3 @@ Unser Weg als Patchworkfamilie ist sicherlich noch nicht zu Ende. Es werden imme
 
 ## Zusammenfassung
 Als Stiefmutter in einer Patchworkfamilie sehnte ich mich nach Harmonie und einem liebevollen Miteinander, doch der Weg dorthin war von Herausforderungen geprägt. Durch eine Coachingausbildung gewann ich neue Perspektiven und entwickelte ein 3-Schritte-Framework, das auf Analyse, Veränderungen initiieren und Kommunikation basiert. Mit diesem Leitfaden gelang es mir, unsere Familiendynamik Schritt für Schritt zu verbessern und ein Zuhause voller Geborgenheit und bedingungsloser Liebe zu schaffen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

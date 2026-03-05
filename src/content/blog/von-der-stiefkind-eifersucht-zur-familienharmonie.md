@@ -16,7 +16,7 @@ Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besond
 
 Und wie ich damit umging, erzähle ich dir in diesem Artikel oder in dieser [Podcastfolge:](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ)
 
-## wenn die eifersucht zur ständigen begleiterin wird
+## Wenn die eifersucht zur ständigen begleiterin wird
 
 In solchen Momenten überkamen mich Gedanken, für die ich mich gleichzeitig schämte: **“Das Kind nimmt mir meinen Partner weg”** oder **“Ich werde nie einen so wichtigen Platz in seinem Leben einnehmen”**. Diese Gedanken schlichen sich ein wie ungebetene Gäste, machten sich in meinem Kopf breit und vergifteten langsam aber sicher die Atmosphäre in unserer Familie.
 
@@ -24,7 +24,7 @@ Besonders schmerzhaft waren die kleinen, alltäglichen Situationen: Wenn sie in 
 
 *An diesem Sonntagmorgen wurde mir klar: Wenn ich jetzt nicht aktiv gegensteuere, wird die Eifersucht auf das Stiefkind nicht nur mich zerfressen, sondern auch unsere Beziehung und den Familienfrieden zerstören.* Es war dieser Moment der schmerzhaften Erkenntnis, der gleichzeitig den Wendepunkt markierte.
 
-## ein steiniger weg
+## Ein steiniger weg
 
 Als ich meinen Partner kennenlernte, hatte ich eine so naive, romantische Vorstellung von unserer Zukunft als Patchworkfamilie. Die Liebe würde alle Hindernisse überwinden, davon war ich überzeugt. Doch die Realität holte mich schneller ein, als mir lieb war. Die Eifersucht auf meine Stiefkinder wurde zu meinem ständigen Schatten, einem ungebetenen Begleiter, der mich auf Schritt und Tritt verfolgte.
 
@@ -38,7 +38,7 @@ Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine Rolle zu finden. *I
 
 Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war als die Eifersucht: meine tiefe Sehnsucht nach einer harmonischen Patchworkfamilie. Eine Sehnsucht, die mich nicht losließ, auch wenn die Eifersucht manchmal übermächtig erschien.
 
-## der traum von einer harmonischen Patchworkfamilie
+## Der traum von einer harmonischen Patchworkfamilie
 
 
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
@@ -61,7 +61,7 @@ Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst a
 
 In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
-## der wendepunkt: als ich aufhörte zu kämpfen
+## Der wendepunkt: als ich aufhörte zu kämpfen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
@@ -112,12 +112,7 @@ In einem persönlichen 60-minütigen Gespräch schauen wir uns an:
 
 - Ob mein Bonusmama-Programm “Raus aus der Stiefmutter-Falle” der richtige Weg für dich ist
 
-[Ja, ich will die Eifersucht ablegen!](https://calendly.com/sallymatthes/qualifizierungscall)
 
 “Ich dachte, ich würde diese Eifersucht nie überwinden. Sallys Ansatz hat mir die Augen geöffnet – heute kann ich die Beziehung zwischen meinem Partner und seinem Kind sogar als Bereicherung sehen. Das hätte ich nie für möglich gehalten!” – Christina, 38, Bonusmama eines 6-jährigen Sohnes
 
 >
-
-PS: Wie viele weitere Nächte willst du noch mit Selbstzweifeln verbringen? ***Du hast es in der Hand, JETZT den ersten Schritt zu einer harmonischen Patchworkfamilie zu gehen.***
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

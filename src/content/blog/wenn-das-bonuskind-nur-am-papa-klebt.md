@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
 Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist?**Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.**Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
 
-Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese 
+Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese
 
  genau das Richtige für dich:
 
@@ -26,7 +26,7 @@ Ich fragte mich, ob es überhaupt möglich sein würde, eine Beziehung zu den Ki
 
 Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog ich mich immer weiter zurück. Ich gab dem Gefühl des Ausgeschlossenseins nach und verlor mich in Selbstzweifeln. Es war ein Teufelskreis, den ich durchbrechen musste, um eine Veränderung herbeizuführen.
 
-## eigentlich wollte ich nur dazugehören
+## Eigentlich wollte ich nur dazugehören
 
 
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
@@ -41,7 +41,7 @@ Doch um dieses Verlangen Wirklichkeit werden zu lassen, musste ich erkennen, das
 
 > „Wenn du etwas nicht magst, ändere es. Wenn du es nicht ändern kannst, ändere deine Einstellung.”– maya angelou
 
-## rückzug und diestanz – direkt in die sackgasse
+## Rückzug und diestanz – direkt in die sackgasse
 
 Anfangs versuchte ich, mit meinen Gefühlen des Ausgeschlossenseins umzugehen, indem ich mich zurückzog und Distanz schaffte. Wenn die Kinder am Papa klebten, sagte ich mir: “Wisst ihr was? Ich habe keine Lust dazu. Macht ihr mal eure Zeit zusammen, ich lese solange ein Buch.”**Doch diese Strategie führte nur dazu, dass ich noch mehr von der Familie abgekapselt wurde.**Ich baute eine Mauer um mich herum auf und konnte in diesen Momenten keine Verbindung zu meinen Lieben aufrechterhalten. Stattdessen gab ich mich meinen negativen Gedanken hin und malte mir aus, wie schrecklich es war, nicht dazuzugehören.*Ich fühlte mich einsam und unverstanden.*
 
@@ -55,7 +55,7 @@ Der Weg aus der Sackgasse erforderte Selbstreflexion, Geduld und die Bereitschaf
 
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
-## annäherung statt rückzug
+## Annäherung statt rückzug
 
 
 ![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)

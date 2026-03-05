@@ -34,7 +34,7 @@ An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die V
 
 Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschrauben, ohne die Kinder zu vernachlässigen? Und wie sollte ich meinem Partner beibringen, dass ich mehr Unterstützung brauchte, ohne ihn zu überfordern? Ich wusste, dass es nicht einfach werden würde, aber ich war entschlossen, einen Weg zu finden.
 
-## mein wunsch nach veränderung
+## Mein wunsch nach veränderung
 
 
 ![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
@@ -57,7 +57,7 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 „Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas Schönes bauen.”– erich kästner
 
-## grenzen setzen und verantwortung abgeben
+## Grenzen setzen und verantwortung abgeben
 
 Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – zwei Dinge, die mir alles andere als leicht fielen.
 
@@ -111,4 +111,3 @@ Als Bonusmama in einer Patchworkfamilie ist es eine große Herausforderung, die 
 
 Doch durch konkrete Veränderungen wie bewusste Quality Time für die Beziehung, eine gerechte Aufgabenverteilung und offene Kommunikation mit dem Partner lässt sich Schritt für Schritt eine neue Balance erreichen.
 Indem wir lernen, unsere Partnerschaft zu priorisieren und gleichzeitig die Kinder altersgerecht in die Verantwortung zu nehmen, können wir wieder mehr Erfüllung und Nähe in unserer Beziehung finden und trotzdem für die Kinder da sein.
-

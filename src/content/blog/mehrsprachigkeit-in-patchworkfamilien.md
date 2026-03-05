@@ -10,7 +10,7 @@ image: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsprache ist Deutsch und mein Partner und ich sprechen miteinander Englisch. Das ist wirklich nicht immer einfach und hat vor allem am Anfang zu vielen Missverständnissen geführt. Darüber habe ich in der 
+Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsprache ist Deutsch und mein Partner und ich sprechen miteinander Englisch. Das ist wirklich nicht immer einfach und hat vor allem am Anfang zu vielen Missverständnissen geführt. Darüber habe ich in der
 
  bei EchteMamas schon einmal darüber gesprochen.
 Lass uns nun mal einen Blick darauf werfen, wie man mit diesen sprachlichen Barrieren umgehen kann und wie wir es geschafft haben. Kleiner Spoiler vorweg: Das braucht wirklich Zeit!

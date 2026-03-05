@@ -28,7 +28,7 @@ Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht da
 
 Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die Beziehung ruinieren zu lassen?
 
-## yvonne träumte davon…
+## Yvonne träumte davon…
 
 
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
@@ -43,7 +43,7 @@ Yvonne aber wollte sich damit nicht abfinden. Sie war entschlossen, die Situatio
 
 > „Der beste Beweis der Liebe ist Vertrauen.”– joyce brothers
 
-## doch das erschien schwerer als angenommen
+## Doch das erschien schwerer als angenommen
 
 Yvonne war klar: Wenn sie die Konflikte mit der Ex ihres Partners entschärfen wollte, musste sie aktiv werden. Doch auf dem Weg zu ihrem Ziel sah sie sich mit verschiedenen Herausforderungen konfrontiert.
 
@@ -53,7 +53,7 @@ All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einma
 
 Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
-## zeit für veränderung**Schritt 1: Analyse – Die Situation mit Abstand betrachten**Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
+## Zeit für veränderung**Schritt 1: Analyse – Die Situation mit Abstand betrachten**Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
 
 
 ![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)

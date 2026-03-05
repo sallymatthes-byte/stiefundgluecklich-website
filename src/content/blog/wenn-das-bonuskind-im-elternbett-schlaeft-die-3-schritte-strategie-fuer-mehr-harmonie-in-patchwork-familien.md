@@ -150,10 +150,3 @@ In meinem ganzheitlichen Begleitprogramm für Bonusmamas helfe ich dir dabei:
 - Schritt für Schritt mehr Harmonie in eure Familie zu bringen
 
 Du darfst deine Bedürfnisse ernst nehmen und dich für deinen Raum in der Familie einsetzen. Eine Lösung für das Bonuskind im Elternbett zu finden bedeutet nicht, dass du das Kind ausschließt – sondern dass du für ein stabiles und harmonisches Familienleben sorgst.
-
-[Vereinbare jetzt dein gespräch](https://calendly.com/sallymatthes/qualifizierungscall)
-
-PS: Ich weiß, wie schwer es sein kann, den ersten Schritt zu machen. Aber stell dir vor, wie sich dein Leben verändert, wenn du endlich wieder erholsam schläfst und die Nähe zu deinem Partner genießen kannst – während gleichzeitig auch das Bonuskind im Elternbett kein Thema mehr ist, das eure Familie belastet. Diese Veränderung ist möglich – und ich würde mich freuen, dich auf diesem Weg zu begleiten.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

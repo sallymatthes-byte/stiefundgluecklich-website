@@ -66,7 +66,7 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 > „Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben.“
 – katharine hepburn
 
-## auswirkungen der “ich sollte”- gedanken
+## Auswirkungen der “ich sollte”- gedanken
 
 
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
@@ -93,7 +93,7 @@ Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns st
 
 Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
-## entfliehe den Erwartungen
+## Entfliehe den Erwartungen
 
 
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)

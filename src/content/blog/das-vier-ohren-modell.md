@@ -17,7 +17,7 @@ Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikatio
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) genau das Richtige für dich:
 
-## ein Satz, vier Bedeutungen
+## Ein Satz, vier Bedeutungen
 
 Ich erinnere mich noch genau an den Moment, als mir die Bedeutung des 4-Ohren-Modells klar wurde. Mein Partner und ich waren mitten im Alltag mit seinen zwei Töchtern. Während wir uns ums Frühstück und die Hausaufgaben kümmerten, sagte ich beiläufig: “Die Kinder müssen heute noch ihre Haare waschen.”
 
@@ -27,7 +27,7 @@ Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen kö
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: Mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
-## der wunsch nach einem Miteinander ohne Vorwürfe
+## Der wunsch nach einem Miteinander ohne Vorwürfe
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
@@ -94,7 +94,3 @@ Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedl
 
 ## Zusammenfassung
 Das 4-Ohren-Modell ist ein wertvolles Werkzeug, um Missverständnisse in der Kommunikation zu vermeiden und Beziehungen zu stärken. Indem wir lernen, Botschaften auf vier Ebenen wahrzunehmen und zu senden – *Sachinhalt, Selbstoffenbarung, Beziehung und Appell* – können wir klarer und achtsamer miteinander kommunizieren. Durch Selbstreflexion, bewusstes Formulieren und gemeinsames Anwenden des Modells lassen sich Konflikte entschärfen und eine tiefere Verbindung zueinander aufbauen. Auch wenn es Übung erfordert, lohnt sich der Einsatz des 4-Ohren-Modells, um mehr Harmonie und Verständnis in Partnerschaften zu bringen.
-
-Bist du bereit, deine Kommunikation und Beziehung auf ein neues Level zu heben? Dann ist mein 3-Schritte-Coaching-Programm genau das Richtige für dich! In diesem intensiven 1:1-Coaching arbeiten wir unter anderem gezielt daran, das 4-Ohren-Modell für deine individuellen Bedürfnisse und Herausforderungen anzupassen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

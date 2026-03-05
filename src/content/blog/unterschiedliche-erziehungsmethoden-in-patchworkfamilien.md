@@ -14,13 +14,13 @@ Es war wieder einer dieser Momente am Abendbrottisch, die mir das Herz schwer ma
 
 Diese alltäglichen Situationen, in denen unsere Erziehungsvorstellungen aufeinanderprallten, häuften sich wie kleine Mosaiksteine eines größeren Bildes: Während ich auf feste Schlafenszeiten und begrenzte Mediennutzung setzte, war mein Partner deutlich lockerer. “Ach, lass sie doch noch eine halbe Stunde”, hörte ich oft, wenn die Kinder abends noch vor dem Tablet saßen. Wo ich klare Strukturen für wichtig hielt, ließ er spontane Planänderungen zu. Mit jedem dieser Momente wuchs meine Unsicherheit: *Wie viel durfte ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) überhaupt mitbestimmen? Wann war es angebracht, meine Meinung zu äußern, und wann sollte ich mich zurückhalten?*
 
-## der kampf mit den unterschiedlichen welten
+## Der kampf mit den unterschiedlichen welten
 
 Die Herausforderung der unterschiedlichen [Erziehungsansätze](https://www.kita.de/wissen/erziehungsstile/) zeigte sich besonders an den Wochenenden. Samstags wollte ich gerne den Tag strukturiert beginnen – mit einem gemeinsamen Frühstück, danach Hausaufgaben, damit der Rest des Tages frei war für schöne Aktivitäten. Mein Partner hingegen liebte es, die Kinder ausschlafen zu lassen und den Tag spontan zu gestalten. “Sie sollen doch auch mal Kind sein dürfen”, sagte er dann, während ich innerlich mit den Auswirkungen dieser Planlosigkeit rang. Ich sah, wie die fehlende Struktur die Kinder unruhig machte, wie die Hausaufgaben sich bis in den späten Nachmittag zogen und damit den ganzen Tag überschatteten.
 
 An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leben. **Wenn ich versuchte, Grenzen zu setzen, untergrub er sie oft unbeabsichtigt.** Wenn er den Kindern mehr Freiheiten ließ, kämpfte ich mit dem Impuls, korrigierend einzugreifen. Diese ständige Diskrepanz in unseren Erziehungsvorstellungen schuf eine unterschwellige Spannung, die sich wie ein feiner Nebel über unser Familienleben legte.
 
-## die suche nach antworten
+## Die suche nach antworten
 
 
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
@@ -29,7 +29,7 @@ An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leb
 
 Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder begannen, unsere unterschiedlichen Ansätze für sich zu nutzen. “Aber Papa hat gesagt…” oder “Bei Mama darf ich das aber…” wurden zu Standardsätzen, die jede Diskussion noch schwieriger machten. Ich beobachtete, wie sie zwischen unseren verschiedenen Erziehungsstilen hin und her lavierten, mal bei ihm Zuflucht suchten, wenn ich ihnen Grenzen setzte, mal bei mir, wenn seine Flexibilität sie überforderte.
 
-## weg von der unterschiedlichen erziehung
+## Weg von der unterschiedlichen erziehung
 
 
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
@@ -64,10 +64,5 @@ und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
 
 >
 
-[Ja, ich will ein harmonisches Miteinander!](https://calendly.com/sallymatthes/qualifizierungscall)
 
 “Ich dachte wirklich, unsere unterschiedlichen Erziehungsvorstellungen würden unsere Familie zerreißen. Durch Sallys Begleitung haben wir nicht nur gelernt, damit umzugehen, sondern sogar Stärke daraus zu ziehen. Heute sind wir endlich ein echtes Team!” – Jana, 36, Bonusmama von zwei Kindern
-
-PS: Wie viele weitere Konflikte willst du noch durchstehen, bevor ihr einen gemeinsamen Weg findet? ***Mach jetzt den ersten Schritt zu einem harmonischen Miteinander in deiner Patchworkfamilie!***
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

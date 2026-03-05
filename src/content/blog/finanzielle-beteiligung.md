@@ -43,7 +43,7 @@ Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas meh
 > „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen.“
 – Benjamin franklin
 
-## mit dem partner über geld sprechen
+## Mit dem partner über geld sprechen
 
 Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien kann es noch komplizierter sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse und Verpflichtungen prallen aufeinander. Da ist es ganz normal, wenn es auch mal kracht. Umso wichtiger ist eine offene und ehrliche Kommunikation über die Finanzen.
 

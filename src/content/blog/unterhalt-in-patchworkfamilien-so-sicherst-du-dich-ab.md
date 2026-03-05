@@ -40,19 +40,19 @@ Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und 
 
 Deutschland: Klare Vorgaben, wenig Flexibilität
 
-🔹 Kindesunterhalt:
+> Kindesunterhalt:
 
 - Wird nach der Düsseldorfer Tabelle berechnet (abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom Alter des Kindes).
 
 - Seit Januar 2025 wurde der Unterhalt um 2 bis 8 € pro Monat erhöht.
 
-🔹 Kindergeld:
+> Kindergeld:
 
 - Einheitlich 250 € pro Monat und Kind – unabhängig vom Einkommen.
 
 - Ein Tipp: Das Kindergeld auf ein separates Konto einzahlen lassen, auf das beide Elternteile Zugriff haben – das erleichtert die faire Kostenverteilung.
 
-🔹 Steuerliche Aspekte:
+> Steuerliche Aspekte:
 
 - Unterhaltszahlungen an Ex-Partner können als Sonderausgaben abgesetzt werden.
 
@@ -60,13 +60,13 @@ Deutschland: Klare Vorgaben, wenig Flexibilität
 
 Österreich: Familienbeihilfe und individuelle Unterhaltsverhandlungen
 
-🔹 Familienbeihilfe (statt Kindergeld):
+> Familienbeihilfe (statt Kindergeld):
 
 - 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren.
 
 - Geschwisterstaffelung: Mehr Kinder = höherer Betrag pro Kind.
 
-🔹 Kindesunterhalt:
+> Kindesunterhalt:
 
 - Kein festes System wie in Deutschland.
 
@@ -78,7 +78,7 @@ Deutschland: Klare Vorgaben, wenig Flexibilität
 
 - „Luxusgrenze“: Maximal zweieinhalbfacher Regelbedarf, um extrem hohe Unterhaltszahlungen zu begrenzen.
 
-🔹 Steuerliche Aspekte:
+> Steuerliche Aspekte:
 
 - Familienbonus Plus: Bis zu 1.500 € Steuerentlastung pro Jahr und Kind.
 
@@ -86,11 +86,11 @@ Deutschland: Klare Vorgaben, wenig Flexibilität
 
 Schweiz: Hohe Unterhaltszahlungen, aber auch mehr Rechte für Väter
 
-🔹 Kinderzulagen statt Kindergeld:
+> Kinderzulagen statt Kindergeld:
 
 - Je nach Kanton zwischen 200 und 300 CHF pro Monat.
 
-🔹 Unterhalt:
+> Unterhalt:
 
 - Höher als in Deutschland oder Österreich, weil Lebenshaltungskosten berücksichtigt werden.
 
@@ -100,7 +100,7 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 - Dadurch mehr Rechte für Väter, aber oft auch höhere finanzielle Verpflichtungen.
 
-🔹 Steuerliche Aspekte:
+> Steuerliche Aspekte:
 
 - Ehepaare werden gemeinsam besteuert, was oft zu einer höheren Steuerlast führt.
 
@@ -113,13 +113,13 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 Vielleicht hast du das Gefühl, dass du dich in die Finanzen deines Partners nicht „einmischen“ darfst. Schließlich betrifft der Unterhalt ja „nur“ die Kinder – oder? Doch in Wirklichkeit beeinflussen diese Zahlungen auch euer gemeinsames Leben:
 
-🔹 Fehlender finanzieller Spielraum – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
+> Fehlender finanzieller Spielraum – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
 
-🔹 Unklare Kostenverteilung – Wer zahlt eigentlich was? Manche Bonusmamas fühlen sich unfair belastet, weil sie sich an Haushaltskosten beteiligen, während ihr Partner noch hohe Unterhaltszahlungen leistet.
+> Unklare Kostenverteilung – Wer zahlt eigentlich was? Manche Bonusmamas fühlen sich unfair belastet, weil sie sich an Haushaltskosten beteiligen, während ihr Partner noch hohe Unterhaltszahlungen leistet.
 
-🔹 Angst vor Konflikten – Viele Bonuseltern vermeiden Finanzgespräche, weil sie befürchten, es könnte Streit geben. Doch genau dieses Schweigen führt oft zu Missverständnissen und Frust.
+> Angst vor Konflikten – Viele Bonuseltern vermeiden Finanzgespräche, weil sie befürchten, es könnte Streit geben. Doch genau dieses Schweigen führt oft zu Missverständnissen und Frust.
 
-🔹 Das Gefühl, zurückzustecken – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hinten anstehen.
+> Das Gefühl, zurückzustecken – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hinten anstehen.
 
 Aber: Du hast das Recht, deine finanzielle Situation aktiv mitzugestalten!
 
@@ -143,17 +143,11 @@ Vielleicht fragst du dich:
 
 💰 Wie kann ich mich in finanziellen Entscheidungen einbringen, ohne Konflikte auszulösen?💰 Wie kann ich sicherstellen, dass ich finanziell nicht benachteiligt werde?💰 Wie spreche ich mit meinem Partner über Geld, ohne dass es Streit gibt?
 
-📞 In unserem 60-minütigen Gespräch:✅ Schauen wir uns deine aktuelle Situation genau an.✅ Identifizieren wir die größten Herausforderungen.✅ Erarbeiten wir erste konkrete Schritte, die du sofort umsetzen kannst.
+> In unserem 60-minütigen Gespräch:✅ Schauen wir uns deine aktuelle Situation genau an.✅ Identifizieren wir die größten Herausforderungen.✅ Erarbeiten wir erste konkrete Schritte, die du sofort umsetzen kannst.
 
 > Die wichtigste Frage ist nicht, wie hoch der Unterhalt ist – sondern wie ihr als Paar eure Finanzen fair regelt.
 
-[Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
-
-PS: Vielleicht zögerst du noch, diesen Schritt zu gehen…
 
 Doch stell dir vor, wie es sich anfühlen würde, finanzielle Sicherheit zu haben, ohne dass du dich benachteiligt fühlst. Stell dir vor, du wüsstest genau, wo du stehst – und wie du deinen Platz in der Patchwork-Familie gestaltest, ohne dabei auf eigene finanzielle Unabhängigkeit zu verzichten.
 
 Diese Veränderung ist möglich. Und du musst sie nicht allein schaffen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

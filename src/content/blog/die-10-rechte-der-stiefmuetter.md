@@ -130,7 +130,6 @@ Und jetzt? Du hast den Artikel gelesen und denkst: “Ja, genau so fühle ich mi
 
 - dich nicht mehr wie eine Außenseiterin in deiner eigenen Familie fühlen müsstest?
 
-### [Hole dir jetzt dein kostenloses Strategiegespräch](https://calendly.com/sallymatthes/qualifizierungscall)
 
 In einem 30-minütigen Gespräch entwickeln wir gemeinsam:
 
@@ -141,10 +140,3 @@ In einem 30-minütigen Gespräch entwickeln wir gemeinsam:
 >
 
 “Seit dem Coaching mit Sally fühle ich mich endlich stark genug, für meine Bedürfnisse einzustehen. Mein Partner unterstützt mich jetzt aktiv, und sogar meine Stiefkinder zeigen mehr Respekt. Ich hätte nie gedacht, dass sich so viel ändern kann!” – Maria, 42, Stiefmutter von zwei Kindern
-
-PS: Noch unschlüssig? Denk dran: Jeder Tag, an dem du dich nicht wie ein vollwertiges Familienmitglied fühlst, ist ein Tag zu viel. Du verdienst es, glücklich und respektiert zu sein – lass uns gemeinsam daran arbeiten!
-
-[Ja, ich will mein kostenloses strategiegespräch](https://calendly.com/sallymatthes/qualifizierungscall)
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)

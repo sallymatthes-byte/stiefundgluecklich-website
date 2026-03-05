@@ -19,7 +19,7 @@ Wir lernten so viel Neues übereinander und konnten endlich wieder tiefgehende G
 
 Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) genau das Richtige für dich:
 
-## die ersten monate als patchworkfamilie
+## Die ersten monate als patchworkfamilie
 
 In unserer [ersten gemeinsamen Wohnung](/blog/gemeinsame-wohnung-patchworkfamilie/) hatte ich keinen eigenen Rückzugsort. Ich war ständig überfordert und wusste nicht, wie ich mit der Situation umgehen sollte. **Mal zog ich mich zurück und war emotional distanziert, dann wieder versuchte ich, mich voll und ganz einzubringen.** Ich backte Waffeln mit den Kindern, unternahm Ausflüge und bastelte mit ihnen. Doch nach ein paar Tagen war ich wieder völlig erschöpft und zog mich erneut zurück.
 
@@ -44,7 +44,7 @@ Sie halfen uns, eine ehrliche Bestandsaufnahme zu machen, Veränderungen anzusto
 
 „Ein klarer Gedanke erspart tausend verworrene.“– andreas tenzer
 
-## nicht immer eitel sonnenschein
+## Nicht immer eitel sonnenschein
 
 Der Wunsch nach einer tieferen Verbindung und Klarheit in meiner Rolle als Bonusmama war geweckt, doch der Weg dahin war nicht immer einfach. Wir mussten lernen, offen und ehrlich miteinander zu kommunizieren, ohne den anderen zu verletzen oder in die Defensive zu drängen. *Das erforderte viel Mut, Vertrauen und Verständnis von beiden Seiten.*
 
@@ -122,5 +122,3 @@ Als Bonusmama in einer Patchworkfamilie stehst du vor vielen Herausforderungen, 
 
 Du möchtest die Fragen und Schritte gerne auf deine eigene Situation anwenden und deine Partnerschaft als Bonusmama stärken?
 Lass uns gemeinsam deine individuellen Herausforderungen analysieren und Lösungen entwickeln, die zu dir und deiner Patchworkfamilie passen. Ich freue mich darauf, dich kennenzulernen und dich auf diesem wichtigen Weg zu begleiten!
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

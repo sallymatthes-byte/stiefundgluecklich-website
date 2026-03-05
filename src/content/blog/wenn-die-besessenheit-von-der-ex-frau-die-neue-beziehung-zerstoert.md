@@ -16,7 +16,7 @@ In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über 
 
 Über [diesen Link](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) gelangst du zum Podcast und kannst dir dort nochmal tiefere Einblicke in dieses Thema holen:
 
-## wenn die ex-frau zur bedrohung wird
+## Wenn die ex-frau zur bedrohung wird
 
 Der Samstagnachmittag sollte eigentlich entspannt sein – du hast extra einen Kuchen gebacken und das Kinderzimmer ist aufgeräumt. Doch dann kommt die Nachricht: “Tut mir leid, aber die Kinder bleiben heute doch bei ihrer Mutter. Sie hat spontan einen Ausflug geplant…” Wieder einmal durchkreuzt die Ex-Frau eure Pläne, wieder einmal fühlst du dich machtlos und übergangen.
 
@@ -136,7 +136,7 @@ Stell dir vor, wie es sich anfühlen würde, wenn die Ex-Frau und neue Beziehung
 
 - Störversuche von außen prallen an ihnen ab
 
-## durchbreche jetzt den teufelskreis
+## Durchbreche jetzt den teufelskreis
 
 Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur selbst erlebt, wie es ist, wenn die Ex-Frau die neue Beziehung überschattet – ich habe auch schon vielen Bonusmamas geholfen, aus dieser Situation auszubrechen.
 
@@ -154,10 +154,5 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 
 In diesem 60-minütigen Gespräch nehmen wir uns Zeit, deine spezifische Situation zu verstehen. Gemeinsam analysieren wir, was dich aktuell am meisten belastet und welche Lösungswege für dich in Frage kommen.
 
-[Ja, ich will meine Situation verbessern!](https://calendly.com/sallymatthes/qualifizierungscall)
 
 “Ich hatte schon fast aufgegeben. Die ständigen Einmischungen der Ex-Frau haben mich zermürbt und unsere Beziehung belastet. Durch Sallys Coaching habe ich nicht nur gelernt, damit umzugehen – ich bin selbst so viel stärker geworden. Heute führen wir eine glückliche Beziehung, und die Störversuche perlen einfach an mir ab.” – Sarah, 34, Bonusmama von zwei Kindern
-
-PS: **Wie viele weitere Wochenenden willst du dir noch von der Ex-Frau verderben lassen?** Wie lange willst du noch in diesem Zustand der Ohnmacht verharren? Du hast es in der Hand, JETZT etwas zu verändern. Nimm dein Leben und deine Beziehung wieder selbst in die Hand!
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)

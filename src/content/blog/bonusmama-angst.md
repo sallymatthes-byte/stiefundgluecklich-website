@@ -128,7 +128,6 @@ Du darfst weich und klar zugleich sein.Du darfst für dich sorgen, ohne egoistis
 
 Wenn du spürst, dass diese Themen dich immer wieder beschäftigen – wenn dein Nervensystem kaum zur Ruhe kommt, obwohl du so viel versuchst – dann begleite ich dich gern auf deinem Weg. In meinem 1:1-Coaching schauen wir gemeinsam auf deine Situation: auf das, was dich verunsichert, aber auch auf das, was dich wieder stark macht.
 
-PS:Vielleicht zögerst du noch…
 
 …weil du denkst, du solltest das alleine hinkriegen. Oder weil du dir nicht sicher bist, ob du „wirklich ein Coaching brauchst“. Aber was, wenn genau dieses Gespräch der Anfang von mehr innerer Ruhe ist?
 

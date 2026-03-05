@@ -48,7 +48,7 @@ Das sogenannte „Mini-Wife“-Phänomen beschreibt eine Dynamik, bei der eine T
 
 Diese Dynamik entsteht nicht, weil das Kind „falsch“ ist. Sondern weil es versucht, Orientierung zu finden.
 
-🧠 Häufige Ursachen:
+> Häufige Ursachen:
 
 -
 
@@ -101,13 +101,13 @@ Erst als ich verstand, dass es nicht um Schuld oder Rechtfertigung geht, sondern
 
 Und du darfst das auch. Du darfst sagen: „So wie es ist, fühlt es sich nicht gut an.“ Ohne Drama. Aber mit Klarheit.
 
-## die Bonusmama-Formel: Was du konkret tun kannst
+## Die Bonusmama-Formel: Was du konkret tun kannst
 
 ### 1. Klarheit schaffen – Werde dir deines eigenen Platzes bewusst
 
 Deine Wahrnehmung zählt. Du bildest dir nichts ein. Beobachte bewusst: In welchen Situationen kippt die Stimmung? Wann fühlst du dich klein, überflüssig oder wie ein Eindringling?
 
-📝 Frag dich: „Wo spüre ich meinen Platz in der Familie – und wo verliere ich ihn?“Und vor allem: „Welche Gefühle tauchen auf – und welches Bedürfnis steckt dahinter?“Ist es der Wunsch nach Zugehörigkeit, nach Partnerschaft, nach Anerkennung?
+> Frag dich: „Wo spüre ich meinen Platz in der Familie – und wo verliere ich ihn?“Und vor allem: „Welche Gefühle tauchen auf – und welches Bedürfnis steckt dahinter?“Ist es der Wunsch nach Zugehörigkeit, nach Partnerschaft, nach Anerkennung?
 
 ### 2. Wandel einleiten – Grenzen setzen, ohne Schuldzuweisung
 
@@ -147,17 +147,9 @@ Die Tochter deines Partners ist kein Gegner. Sie ist ein Kind, das seinen Platz 
 
 Und genau dafür bin ich da.
 
-📞 Aktuell habe ich wieder Plätze für mein 1:1-Coaching frei.
-
-[Sichere dir jetzt deinen termin](https://calendly.com/sallymatthes/qualifizierungscall)
-
-PS: Vielleicht zögerst du noch…
 
 …weil du denkst: „Ich will kein Drama machen.“Oder: „Ich will dem Kind nichts wegnehmen.“
 
 Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen?Was, wenn dein Platz nicht auf Kosten anderer entsteht – sondern für das ganze System gut ist?
 
 Diese Veränderung ist möglich.Und du musst sie nicht allein schaffen.
-
-- [Folgen](https://www.instagram.com/stiefundgluecklich/)
-- [Folgen](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm?si=OW_Iwwn0RPeJpoSomcXIHw)
