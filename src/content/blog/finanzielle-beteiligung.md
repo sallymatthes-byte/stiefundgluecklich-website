@@ -34,18 +34,17 @@ Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligun
 
 Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
 
-Diese Gefühle sind absolut verständlich und menschlich.** Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.** Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
+Diese Gefühle sind absolut verständlich und menschlich. **Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.** Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
 
 Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unterdrücken. Sprich mit deinem Partner darüber, wie es dir geht. Oft hilft es schon, sich einfach mal alles von der Seele zu reden und sich verstanden zu fühlen.
 
 Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas mehr auf unser gemeinsames Konto überweist, wenn die Kinder da sind. So können wir Lebensmittel, Geschenke und Ausflüge gemeinsam bezahlen und müssen nicht alles kleinteilig aufrechnen. Das war für mich schon immer ein No-Go: Ich wollte nie vor den Kindern darüber diskutieren und ihnen das Gefühl geben nicht für sie zahlen zu wollen. Gleichzeitig möchte ich große Investitionen in Zahnspangen etc. nicht mittragen müssen. Ich tue es öfter, dann aber weil ich es möchte und nicht weil es erwartet wird.
 
-> „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen.“
-– Benjamin franklin
+> „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen.“ – Benjamin franklin
 
 ## Mit dem Partner über Geld sprechen
 
-Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien kann es noch komplizierter sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse und Verpflichtungen prallen aufeinander. Da ist es ganz normal, wenn es auch mal kracht. Umso wichtiger ist eine offene und ehrliche Kommunikation über die Finanzen.
+Geld ist in vielen Beziehungen ein heikles Thema – Und In Patchworkfamilien Kann Es Noch Komplizierter Sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse Und Verpflichtungen Prallen Aufeinander. Da Ist Es Ganz Normal, Wenn Es Auch Mal Kracht. Umso Wichtiger Ist Eine Offene Und Ehrliche Kommunikation Über Die Finanzen.
 
 *Scheue dich nicht davor, das Thema anzusprechen.*  Je früher ihr euch austauscht, desto besser. Setz dich mit deinem Partner zusammen und sprecht offen über eure finanzielle Situation:
 
@@ -73,14 +72,14 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 
 - Stehen größere Ausgaben an, die besprochen werden müssen?
 
-Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf beiden Seiten lässt sich ein Weg finden. Denk immer daran: Ihr sitzt im selben Boot und wollt beide das Beste für eure Familie.
+Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – Auch Wenn Es Mal Schwierig Wird. Mit Verständnis, Geduld Und Kompromissbereitschaft Auf Beiden Seiten Lässt Sich Ein Weg Finden. Denk Immer Daran: Ihr Sitzt Im Selben Boot Und Wollt Beide Das Beste Für Eure Familie.
 
-## Wahre deine finanzielle Unabhängigkeit** Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
+## Wahre deine finanzielle Unabhängigkeit **Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 
 
 ---
 
-🎙 ** Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -94,7 +93,7 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 
 - 💎 dir kleine Extras gönnen, ohne ein schlechtes Gewissen zu haben
 
-- 💎 eine finanzielle Rücklage für Notfälle aufbauen** Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.** Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
+- 💎 eine finanzielle Rücklage für Notfälle aufbauen **Es geht nicht darum, Geheimnisse vor deinem Partner zu haben.** Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
 
 Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 

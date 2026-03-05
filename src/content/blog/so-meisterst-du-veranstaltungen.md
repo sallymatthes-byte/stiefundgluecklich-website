@@ -29,7 +29,7 @@ Neugierige Fragen oder Kommentare bringen dich zusätzlich aus dem Konzept. All 
 
 Doch lass dir eines sagen: *Du bist nicht allein mit diesen Gefühlen!* Es ist völlig normal, dass dich die neue Rolle zunächst überfordert. Viele Bonusmamas kämpfen mit ähnlichen Unsicherheiten und Selbstzweifeln.
 
-Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – all das kann eine immense Belastung sein.
+Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – All Das Kann Eine Immense Belastung Sein.
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
@@ -55,7 +55,7 @@ Dein Partner liebt dich und möchte, dass du dich wohlfühlst. Vertraue darauf, 
 
 Gemeinsam seid ihr stark und könnt lernen, diese Herausforderungen als Chance für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
 
->** Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein Leben lang begleiten.**– sarah weber
+>**Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein Leben lang begleiten.**– Sarah Weber
 
 ## Selbstbewusst und strahlend: So meisterst du als Bonusmama jede Veranstaltung
 
@@ -76,11 +76,11 @@ Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausf�
 
 Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltungen unangenehme Situationen entstehen oder Kritik aufkommt. Aber keine Sorge, gemeinsam mit deinem Partner findest du einen Weg, damit umzugehen.
 
-- 💎 Sprich vorher mit deinem Partner über deine Sorgen und überlegt gemeinsam, wie ihr euch gegenseitig unterstützen könnt. Ein**geheimer Handschlag**, ein aufmunternder Blick oder ein Codewort können Wunder wirken, wenn die Unsicherheit überhandnimmt.
+- 💎 Sprich vorher mit deinem Partner über deine Sorgen und überlegt gemeinsam, wie ihr euch gegenseitig unterstützen könnt. Ein **geheimer Handschlag **, ein aufmunternder Blick oder ein Codewort können Wunder wirken, wenn die Unsicherheit überhandnimmt.
 
-- 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure** Grenzen setzen.** 💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir** Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
+- 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure **Grenzen setzen.**💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir**Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
 
-- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure** Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
+- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure **Erfahrungen und Gefühle**offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 

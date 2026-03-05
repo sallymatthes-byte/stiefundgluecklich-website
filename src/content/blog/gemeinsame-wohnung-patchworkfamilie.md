@@ -12,9 +12,9 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
-Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist immer noch da. 😅
-Er ist damals also sofort bei mir eingezogen – in meine 35qm große Einzimmerwohnung. Die Frage, wer wann wo bei wem einzieht, stellte sich für unsere Patchworkfamilie aufgrund unserer Entfernung daher erst einmal nicht.
-Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb also nur die Option, dass er zu mir kommt. Und ob wir langfristig zusammenbleiben wollten, mussten wir auch erst einmal herausfinden. Von gemeinsamer Wohnung war da also noch nicht die Rede.
+Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – Er Ist Immer Noch Da. 😅
+Er ist damals also sofort bei mir eingezogen – In Meine 35qm Große Einzimmerwohnung. Die Frage, Wer Wann Wo Bei Wem Einzieht, Stellte Sich Für Unsere Patchworkfamilie Aufgrund Unserer Entfernung Daher Erst Einmal Nicht.
+Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – Es Blieb Also Nur Die Option, Dass Er Zu Mir Kommt. Und Ob Wir Langfristig Zusammenbleiben Wollten, Mussten Wir Auch Erst Einmal Herausfinden. Von Gemeinsamer Wohnung War Da Also Noch Nicht Die Rede.
 
 Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.
@@ -25,12 +25,11 @@ Du hast dich verliebt und möchtest mit deinem Partner eine gemeinsame Zukunft a
 Dennoch gibt es einige Faktoren, die eine Rolle spielen können, um eine fundierte Entscheidung zu treffen.
 Es geht darum, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine somit stabile Basis für ein harmonisches Miteinander zu schaffen.
 
-Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem wir die Pandemie in der kleinen Wohnung gut überstanden hatten, war uns klar: Wir können zusammen leben und wir möchten auch seinen Töchtern ein zu Hause in Deutschland bieten.
+Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – Nach Dem Wir Die Pandemie In Der Kleinen Wohnung Gut Überstanden Hatten, War Uns Klar: Wir Können Zusammen Leben Und Wir Möchten Auch Seinen Töchtern Ein Zu Hause In Deutschland Bieten.
 
-> “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.”
-– deutsches sprichwort
+> “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
 
-## Welche Faktoren gibt es zu berücksichtigen?**1.** Bedürfnisse aller Beteiligten berücksichtigen
+## Welche Faktoren gibt es zu berücksichtigen? **1. ** Bedürfnisse aller Beteiligten berücksichtigen
 Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
 
 
@@ -64,9 +63,9 @@ Unsere Kinder wollten zum Beispiel Betten, die sie zusammenschieben, aber auch t
 
 Falls einer von euch in die bestehende Wohnung des anderen zieht, solltet ihr euch auch darüber Gedanken machen, wie diese Wohnung gestaltet werden kann, damit sie ein*Wohlfühlort für alle* wird. Möglicherweise möchtest du nicht all deine Möbel aufgeben, eine neue [Wandfarbe](https://zuhausewohnen.de/einrichtungstipps/farben-special/artikel/wohnen-mit-farben-ratgeber-0) bringt deinen Stil mit rein und Bilder von dir und deinen Erinnerungen lassen dich zu Hause fühlen.
 
-Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?!**3. Offene Kommunikation und Ängste ansprechen** Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
+Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?! **3. Offene Kommunikation und Ängste ansprechen ** Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
 
-Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – also besorgten wir Kisten für die Spielsachen und jeden Morgen heißt es bei uns: gemeinsames Aufräumen!
+Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – Also Besorgten Wir Kisten Für Die Spielsachen Und Jeden Morgen Heißt Es Bei Uns: Gemeinsames Aufräumen!
 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das Leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 

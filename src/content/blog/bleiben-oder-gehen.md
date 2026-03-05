@@ -44,8 +44,7 @@ Oder du ziehst dich mehr zurück, versuchst mehr Zeit außerhalb der Familie zu 
 Damit distanzierst du dich von den Kindern, ihr seid nicht mehr verbunden, teilt kaum noch schöne Momente. Ihr [streitet](/blog/bonuskinder-und-konflikte/) mehr und irgendwie können es dir die Kinder nicht recht machen.
 Das führt letztendlich dazu, dass du dich in deinem zu Hause nur zu Gast fühlst, wenn die Kinder da sind. Du hast das Gefühl, kein Teil der Familie zu sein.
 
-> “*An den Scheidewegen des Lebens stehen keine Wegweiser.*”
-– charlie chaplin
+> “*An den Scheidewegen des Lebens stehen keine Wegweiser.*” – Charlie Chaplin
 
 
 ## Lösungsversuche

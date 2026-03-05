@@ -29,8 +29,7 @@ Auch haben wir über unsere Finanzen gesprochen und uns überlegt, was wir uns i
 
 Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und unsere Beziehung auf ein neues Level gehoben. Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
 
-> “The future belongs to those who believe in the beauty of their dreams.“
-– Eleanor Roosevelt
+> “The future belongs to those who believe in the beauty of their dreams.“ – Eleanor Roosevelt
 
 ![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
 
@@ -67,7 +66,7 @@ Indem ihr euch diese Fragen stellt und eure Antworten auf eurem Visionboard fest
 
 Denkt daran, dass ein Visionboard nicht statisch ist. Es kann sich im Laufe der Zeit verändern und entwickeln, ebenso wie eure Beziehung und eure Patchworkfamilie. Nehmt euch daher regelmäßig Zeit, um euer Visionboard zu überprüfen und anzupassen.
 
-> ## Zusammenfassung
+> „Zusammenfassung"
 Durch das Erstellen eines Visionboards können Ziele und Träume visualisiert und in den Alltag integriert werden. Konkrete Fragen helfen bei der Gestaltung des Visionboards. Ein Visionboard ist nicht statisch und darf regelmäßig überprüft und angepasst werden.
 Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die gemeinsame Vision zu manifestieren und Hindernisse zu überwinden. Das Visionboard dient somit als Begleiter auf dem Weg zu einer harmonischen und liebevollen Beziehung und Patchworkfamilie.
 

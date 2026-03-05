@@ -15,9 +15,9 @@ Vielleicht kennst du es ja: den Satz "Bei Andrea hätte es das aber nicht gegebe
 
 ## Die Gründe verstehen: Warum Vergleiche entstehen
 
-Es ist verletzend und frustrierend, immer wieder mit der Kindsmutter verglichen zu werden. Aber lass uns gemeinsam ergründen, woher diese Vergleiche kommen, denn oft stecken dahinter tiefere Unsicherheiten und Ängste aller Beteiligten.** Die Kinder befinden sich in einem Loyalitätskonflikt**: Sie lieben ihre Mama und haben Angst, sie zu verraten, wenn sie eine enge Beziehung zu dir aufbauen. Gleichzeitig möchten sie dich als neue Bezugsperson in ihr Herz schließen. Dieser innere Zwiespalt kann sich in abwertenden Vergleichen äußern.** Auch die Schwiegereltern und dein Partner sind verunsichert.** Sie wollen dem Kind gerecht werden und fürchten, dass es die Mama vermisst. In dem [Versuch](/blog/die-4-phasen-der-patchworkfamilie/), die Erste nicht zu vergessen, greifen sie unbewusst zu Vergleichen.
+Es ist verletzend und frustrierend, immer wieder mit der Kindsmutter verglichen zu werden. Aber lass uns gemeinsam ergründen, woher diese Vergleiche kommen, denn oft stecken dahinter tiefere Unsicherheiten und Ängste aller Beteiligten. **Die Kinder befinden sich in einem Loyalitätskonflikt:**Sie lieben ihre Mama und haben Angst, sie zu verraten, wenn sie eine enge Beziehung zu dir aufbauen. Gleichzeitig möchten sie dich als neue Bezugsperson in ihr Herz schließen. Dieser innere Zwiespalt kann sich in abwertenden Vergleichen äußern.**Auch die Schwiegereltern und dein Partner sind verunsichert.** Sie wollen dem Kind gerecht werden und fürchten, dass es die Mama vermisst. In dem [Versuch](/blog/die-4-phasen-der-patchworkfamilie/), die Erste nicht zu vergessen, greifen sie unbewusst zu Vergleichen.
 
-Und dann sind da noch die**gesellschaftlichen Erwartungen und Vorurteile**gegenüber Stiefmüttern. Das Bild der "bösen Stiefmutter" ist tief verankert und schürt die Angst, dir nicht zu genügen oder eine intakte Familie zu gefährden.
+Und dann sind da noch die **gesellschaftlichen Erwartungen und Vorurteile **gegenüber Stiefmüttern. Das Bild der "bösen Stiefmutter" ist tief verankert und schürt die Angst, dir nicht zu genügen oder eine intakte Familie zu gefährden.
 
 All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen nichts über deinen Wert als Bonusmama aus. Und dennoch tut es weh - wie kannst du diese Gefühle also annehmen?
 
@@ -27,17 +27,17 @@ All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen ni
 
 wenn die Vergleiche kommen, trifft es dich wie ein Stich ins Herz. Da ist *Wut, Traurigkeit, Enttäuschung und die nagende Frage: "Bin ich gut genug?"* Es ist so wichtig, dass du diese schmerzhaften Emotionen zulässt und ihnen Raum gibst.
 
-- ** Erlaube dir, verletzt zu sein.** Es ist völlig normal, dass dich die Vergleiche treffen und verunsichern. Versuche nicht, die Gefühle zu unterdrücken, sondern nimm sie bewusst wahr.
+- **Erlaube dir, verletzt zu sein.** Es ist völlig normal, dass dich die Vergleiche treffen und verunsichern. Versuche nicht, die Gefühle zu unterdrücken, sondern nimm sie bewusst wahr.
 
-- ** Sprich über deine Emotionen.** Teile deine Gedanken und Sorgen mit deinem Partner, einer guten Freundin oder einem Coach. Das hilft, den Schmerz zu verarbeiten und neue Perspektiven zu gewinnen.
+- **Sprich über deine Emotionen.** Teile deine Gedanken und Sorgen mit deinem Partner, einer guten Freundin oder einem Coach. Das hilft, den Schmerz zu verarbeiten und neue Perspektiven zu gewinnen.
 
-- ** Begegne dir selbst mit Mitgefühl.** Sei sanft und verständnisvoll mit dir. Du musst nicht perfekt sein, um eine wunderbare Bonusmama zu sein. Erinnere dich daran, dass du dein Bestes gibst und dass deine Gefühle wichtig sind.
+- **Begegne dir selbst mit Mitgefühl.** Sei sanft und verständnisvoll mit dir. Du musst nicht perfekt sein, um eine wunderbare Bonusmama zu sein. Erinnere dich daran, dass du dein Bestes gibst und dass deine Gefühle wichtig sind.
 
 Es ist ein Prozess, die Selbstzweifel und Unsicherheiten zu überwinden. Aber je mehr du deine Gefühle annimmst und wertschätzt, desto stärker und selbstbewusster wirst du. Du lernst, die Vergleiche nicht mehr als Angriff auf dich zu sehen, sondern als Ausdruck der Unsicherheit anderer.
 
-*Doch wie kannst du deine Gefühle auch deinen Liebsten mitteilen?***## Klar und selbstbewusst kommunizieren
+*Doch wie kannst du deine Gefühle auch deinen Liebsten mitteilen? ***## Klar und selbstbewusst kommunizieren
 
-Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und selbstbewusst zu kommunizieren. Denn nur wenn du deine Rolle und Bedürfnisse deutlich machst, können die anderen sie auch verstehen und respektieren.**💎 Definiere deine Rolle als Bonusmama.** Überlege dir, welchen Platz du in der Familie einnehmen möchtest und was dir wichtig ist. *Möchtest du eine freundschaftliche Beziehung zum Bonuskind aufbauen? Oder siehst du dich eher als zusätzliche Erziehungsperson?* Mache dir deine Vorstellungen bewusst und kommuniziere sie offen.**💎 Setze Grenzen und fordere Respekt ein.** Wenn dich Vergleiche oder Verhaltensweisen verletzen, sprich es direkt an. Sage freundlich, aber bestimmt: *"Es verletzt mich, wenn ihr mich mit der Kindsmutter vergleicht. Ich bin eine eigenständige Person und möchte als solche wahrgenommen werden."* Zeige, dass du Respekt verdienst und erwarte ihn auch von den anderen.**💎 Führe offene Gespräche mit deinem Partner und der Familie.** Erkläre ihnen, wie die Vergleiche dich fühlen lassen und was du dir stattdessen wünschst. *Höre auch ihnen aufmerksam zu und versuche, ihre Perspektive zu verstehen.* Gemeinsam könnt ihr Wege finden, respektvoll und wertschätzend miteinander umzugehen.
+Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und selbstbewusst zu kommunizieren. Denn nur wenn du deine Rolle und Bedürfnisse deutlich machst, können die anderen sie auch verstehen und respektieren. **💎 Definiere deine Rolle als Bonusmama. ** Überlege dir, welchen Platz du in der Familie einnehmen möchtest und was dir wichtig ist. *Möchtest du eine freundschaftliche Beziehung zum Bonuskind aufbauen? Oder siehst du dich eher als zusätzliche Erziehungsperson?* Mache dir deine Vorstellungen bewusst und kommuniziere sie offen. **💎 Setze Grenzen und fordere Respekt ein. ** Wenn dich Vergleiche oder Verhaltensweisen verletzen, sprich es direkt an. Sage freundlich, aber bestimmt: *"Es verletzt mich, wenn ihr mich mit der Kindsmutter vergleicht. Ich bin eine eigenständige Person und möchte als solche wahrgenommen werden."* Zeige, dass du Respekt verdienst und erwarte ihn auch von den anderen. **💎 Führe offene Gespräche mit deinem Partner und der Familie. ** Erkläre ihnen, wie die Vergleiche dich fühlen lassen und was du dir stattdessen wünschst. *Höre auch ihnen aufmerksam zu und versuche, ihre Perspektive zu verstehen.* Gemeinsam könnt ihr Wege finden, respektvoll und wertschätzend miteinander umzugehen.
 
 Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, gehört zu werden.* Je klarer und selbstbewusster du kommunizierst, desto leichter fällt es den anderen, dich als eigenständige und wertvolle Bonusmama wahrzunehmen. Du musst dich nicht kleinmachen oder verstecken - trete mit Stolz und Klarheit für dich ein!
 
@@ -86,7 +86,7 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 ---
 
-🎙 ** Passend dazu:** Hör dir die Podcastfolge "So überwindest du den Ex-Frau-Konflikt als Bonusmama" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge "So überwindest du den Ex-Frau-Konflikt als Bonusmama" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -95,9 +95,7 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 - Zeigt Mitgefühl und Geduld, auch wenn es mal schwierig ist
 
-> Geht [Konflikte](/blog/bonuskinder-und-konflikte/) konstruktiv an und löst sie
-
-- Bleibt bei Meinungsverschiedenheiten sachlich und respektvoll
+> Geht [Konflikte](/blog/bonuskinder-und-konflikte/) konstruktiv an und löst sie - Bleibt bei Meinungsverschiedenheiten sachlich und respektvoll
 
 - Sucht gemeinsam nach Kompromissen und Lösungen, die für alle funktionieren
 
@@ -111,7 +109,7 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 - Feiert eure Erfolge und freut euch aneinander
 
-*Als Patchwork-Familie zu wachsen bedeutet, füreinander einzustehen, auch wenn es mal Herausforderungen gibt. Es bedeutet, die Einzigartigkeit jedes Einzelnen wertzuschätzen und zu erkennen, dass ihr zusammen ein starkes Team seid. Mit Liebe, Verständnis und Zusammenhalt könnt ihr alles schaffen und eine wundervolle Bonus-Familie sein.***## Zusammenfassung
+*Als Patchwork-Familie zu wachsen bedeutet, füreinander einzustehen, auch wenn es mal Herausforderungen gibt. Es bedeutet, die Einzigartigkeit jedes Einzelnen wertzuschätzen und zu erkennen, dass ihr zusammen ein starkes Team seid. Mit Liebe, Verständnis und Zusammenhalt könnt ihr alles schaffen und eine wundervolle Bonus-Familie sein. ***## Zusammenfassung
 Als Bonusmama ständig mit der Kindsmutter verglichen zu werden, kann verletzend sein, doch es ist wichtig, die Gründe dafür zu verstehen und sich bewusst zu machen, dass diese Vergleiche oft aus Unsicherheiten und Ängsten der Beteiligten entstehen. Es ist essenziell, die eigenen Gefühle wahrzunehmen, anzunehmen und mit Mitgefühl und Verständnis sich selbst zu begegnen. Durch klare und selbstbewusste Kommunikation der eigenen Rolle und Bedürfnisse sowie das Setzen von Grenzen und das Einfordern von Respekt kann man seinen Platz in der Familie finden und ausfüllen. Dabei ist es wichtig, die eigenen einzigartigen Stärken und Qualitäten zu erkennen, die Beziehung zum Bonuskind aktiv zu gestalten und sich als wertvolle Bonusmama anerkennen zu lassen.
 
 
