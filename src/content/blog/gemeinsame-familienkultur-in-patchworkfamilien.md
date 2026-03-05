@@ -103,4 +103,3 @@ Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstel
 ## Zusammenfassung
 Eine gemeinsame Familienkultur in Patchworkfamilien zu entwickeln, ist eine große Herausforderung, da unterschiedliche Gewohnheiten, Werte und Erziehungsstile aufeinandertreffen. Die bereits bestehenden emotionalen Bindungen und Loyalitäten zwischen leiblichen Eltern und Kindern können es für neue Partner schwierig machen, ihren Platz zu finden, ohne als Eindringlinge wahrgenommen zu werden. Doch mit Geduld, Respekt und der Bereitschaft, Kompromisse einzugehen und Gemeinsamkeiten zu finden, kann Schritt für Schritt eine neue Familienidentität entstehen, die für alle passt und ein Gefühl von Zugehörigkeit schafft.
 
-Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

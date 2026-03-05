@@ -60,4 +60,3 @@ Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung
 Es gibt bestimmte Situationen, in denen wir heftige Reaktionen in uns selbst wahrnehmen. Wir sprechen dann von “Triggern” – diese erinnern uns an schmerzliche Erfahrungen in unserem Leben und sind ein Indiz dafür, dass diese noch nicht geheilt sind.
 Damit diese nicht in heftige [Konflikte](/blog/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess.
 
-Du hast das Gefühl es gibt eine Situation, die dich immer wieder an deine Grenze bringt und du weißt nicht weiter? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!

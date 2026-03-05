@@ -78,10 +78,6 @@ Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama a
 -
 
 
-## UND FALLS DU GERADE EINFACH NUR SPÜREN WILLST, OB DAS DER WEG FÜR DICH IST:
 
-Heute weiß ich: Ich musste mich nie entscheiden.Nicht zwischen meinem Partner und meinem Kind.Nicht zwischen Nähe und Klarheit.Nicht zwischen Anpassung und Selbstbestimmung.
-
-Ich musste nur lernen, meinen Platz zu finden – und den Mut haben, ihn auch einzunehmen.Nicht perfekt. Sondern echt.
 
 Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.

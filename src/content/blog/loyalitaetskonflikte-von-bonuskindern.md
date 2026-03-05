@@ -107,4 +107,3 @@ Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren 
 ## Zusammenfassung
 Bonuskinder in Patchworkfamilien sind oft mit schmerzhaften Verlusterfahrungen und belastenden Loyalitätskonflikten konfrontiert. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch lernen, sich in einer neuen Familienkonstellation zurechtzufinden, ohne die leiblichen Eltern zu verletzen. Hinzu kommt die Überforderung durch zu viele und zu schnelle Veränderungen, die die Kinder leicht aus dem Gleichgewicht bringen können.
 
-Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

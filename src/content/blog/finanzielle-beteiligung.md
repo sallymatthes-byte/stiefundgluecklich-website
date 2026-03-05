@@ -105,4 +105,3 @@ Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehle
 ## Zusammenfassung
 Als Bonusmama ist die Frage nach der finanziellen Beteiligung an den Kosten für die Bonuskinder oft eine Herausforderung, bei der es keine allgemeingültige Regel gibt.  Gefühle des Verzichts sind dabei normal und sollten ernst genommen werden, während man gleichzeitig für sich selbst sorgt. Eine offene und ehrliche Kommunikation über Geld in der Partnerschaft ist unerlässlich, um gemeinsam Strategien zu entwickeln und faire Lösungen zu finden. Trotz allem ist es wichtig, sich ein Stück finanzielle Unabhängigkeit zu bewahren, um für die eigenen Bedürfnisse sorgen zu können.
 
-Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

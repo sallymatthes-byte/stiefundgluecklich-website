@@ -117,4 +117,4 @@ Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deine
 Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt.***Von “Ich sollte” zu “Ich möchte”.***## Zusammenfassung
 Viele Bonusmamas plagen sich mit “Ich sollte”-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – von gesellschaftlichen Erwartungen über familiäre Prägungen bis hin zur Angst, nicht zu genügen. Sich von diesen Gedanken zu befreien, ist ein Prozess, der Selbstreflexion, Selbstfürsorge und oft auch Unterstützung von außen erfordert. Ein Coaching kann dabei helfen, individuelle Lösungen zu finden und Schritt für Schritt zu einem erfüllteren Leben als Bonusmama zu gelangen.
 
-Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!
+

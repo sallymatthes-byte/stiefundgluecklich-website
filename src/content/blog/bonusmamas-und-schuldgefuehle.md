@@ -66,4 +66,4 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 ## Zusammenfassung
 Schuldgefühle gehören für viele Stiefmütter zum Alltag. Sie sind bis zu einem gewissen Grad normal und erfüllen wichtige Funktionen. Doch wenn sie zu einer dauerhaften Belastung werden, ist es wichtig, aktiv gegenzusteuern. Mit Selbstreflexion, Kommunikation, Abgrenzung und der Unterstützung anderer können Stiefmütter lernen, besser mit ihren Schuldgefühlen umzugehen und trotz der Herausforderungen eine erfüllende Rolle in ihrer Patchworkfamilie zu finden.
 
-Du hast das Gefühl, die Schuldgefühle fressen dich auf? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!
+

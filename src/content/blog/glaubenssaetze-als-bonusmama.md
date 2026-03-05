@@ -58,4 +58,3 @@ Veränderte Glaubenssätze wirken sich auf die ganze Familie aus. Kinder profiti
 ## Zusammenfassung
 Glaubenssätze sind innere Überzeugungen, die wir meist schon seit Kindesbeinen in uns tragen. Sie [bestärken uns](https://www.jolie.de/leben/positive-affirmationen-50-glaubenssaetze-fuer-jeden-tag-210630.html) (“Ich kann das!”) oder sie hemmen uns (“Das macht man nicht!”). Diese limitierenden Glaubenssätze aufzuspüren hilft uns dabei, unsere Patchworkfamilie zu gestalten und mehr Sicherheit zu gewinnen. Der erste Schritt dafür ist es, die eigenen Überzeugungen zu bemerken und zu erkunden.
 
-Das fällt dir schwer und du wünschst dir dabei Unterstützung? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!

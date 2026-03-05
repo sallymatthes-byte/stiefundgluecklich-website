@@ -126,4 +126,3 @@ Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen 
 ## Zusammenfassung
 In Patchworkfamilien bleiben Expartner ein fester Bestandteil der Familiendynamik und beeinflussen viele Aspekte des Familienalltags. Als Bonusmama gilt es, die Beziehung der Kinder zum anderen Elternteil zu respektieren und Konflikte zu minimieren, da diese schwerwiegende Auswirkungen auf das Wohlergehen der Kinder haben können. Wenn eine enge Kooperation nicht möglich ist, kann Parallel Parenting eine Alternative sein, bei der klare Regeln und Zuständigkeiten festgelegt werden.
 
-Du wünschst dir Unterstützung bei dieser Reise? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

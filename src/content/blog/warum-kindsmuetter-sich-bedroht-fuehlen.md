@@ -75,4 +75,3 @@ Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen 
 Oft entsteht in der Beziehung zwischen Kindsmutter und Bonusmama das Gefühl, einander Konkurrenz zu sein. Doch das ist ehrlich gesagt totaler Quatsch.
 Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist eine wichtige Person für das Kind und soll es auch bleiben. Es darf jedoch mehr Verständnis für beide Seiten einziehen. Denn dies ist der erste wichtige Schritt dahingehend eine positive Beziehung aufzubauen und dem Kind ein liebevolles Umfeld zu ermöglichen.
 
-Du wünschst dir Unterstützung bei den Konflikten mit der Ex? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

@@ -72,4 +72,3 @@ Vergesst nicht: Eure Liebe zueinander ist der Kit, der euch verbindet – egal, 
 ## Zusammenfassung
 Das Leben in einer multilingualen Patchworkfamilie hat definitiv seine Herausforderungen – doch auch so viele Vorteile. Mit Zeit, Humor und viel Verständnis lässt sich diese Hürde überwinden. Und es ist ein unglaubliches Geschenk, miteinander und voneinander zu lernen.
 
-Du wünschst dir Unterstützung mit dem Umgang von interkulturellen Stolpersteinen? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

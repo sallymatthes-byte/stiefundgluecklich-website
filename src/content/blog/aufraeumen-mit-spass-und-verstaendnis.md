@@ -47,7 +47,7 @@ Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
 Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
->**Wer die welt in ordnung bringen will, geht zuerst durchs eigene haus.**– aus china
+> „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus." – Aus China
 
 ## Kreative Methoden zum Aufräumen
 
@@ -105,4 +105,4 @@ Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patch
 ## Zusammenfassung
 Aufräumen mit Bonuskindern kann eine Herausforderung sein, doch mit Verständnis für die entwicklungspsychologischen Hintergründe und kreativen, altersgerechten Methoden lässt sich Ordnung spielerisch und mit Freude schaffen. Als Bonusmama ist es wichtig, eine Balance zwischen Einfühlungsvermögen und klaren Regeln zu finden und gemeinsam mit dem leiblichen Elternteil an einem Strang zu ziehen. Mit fantasievollen Aufräum-Ideen, wie Farbsortierung, Schatzsuche oder Aufräum-Robotern, kann man Kinder in verschiedenen Altersgruppen motivieren und das Aufräumen in die Tagesroutine integrieren. Klare Regeln, genügend Stauraum, ein gutes Vorbild und positive Verstärkung durch Lob und Belohnungen sind zusätzliche Bausteine für eine aufgeräumte Patchwork-Wohnung. Mit Geduld, Konsequenz und einer Portion Gelassenheit wird das Aufräumen zu einem selbstverständlichen und sogar freudvollen Teil des Familienlebens.
 
-Du wünschst dir Unterstützung bei deinen Erwartungen an die Kinder? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!
+

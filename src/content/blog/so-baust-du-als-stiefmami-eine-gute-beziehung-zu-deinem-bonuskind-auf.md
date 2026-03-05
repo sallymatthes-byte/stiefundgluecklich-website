@@ -82,4 +82,3 @@ Selbstfürsorge und das Setzen von Grenzen sind kein Egoismus, sondern eine Vora
 Der Beziehungsaufbau zu dem Kind deines Partners, deinem Bonuskind, ist ein wichtiges Fundament im Patchworkfamilienalltag. Viel Zeit und Geduld, wahres Interesse und eine offene Kommunikation sind dafür unverzichtbar.
 Dennoch kann es zu Konflikten und Herausforderungen kommen, denen du dann mit viel Verständnis und Selbstfürsorge entgegentreten kannst.
 
-Du möchtest das gern in die Praxis umsetzen? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!

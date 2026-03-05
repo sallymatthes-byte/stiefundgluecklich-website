@@ -31,7 +31,7 @@ Doch sobald sich eine Konstellation verändert, beginnt der Kreislauf von neuem.
 
 Wie lange jede einzelne der 4 Phasen andauert, ist ganz unterschiedlich. In einigen Patchworkfamilien werden diese Phasen schnell durchlaufen, manchmal dauert es ein wenig länger oder die Intensität ist anders. Das kommt -wie immer- ganz auf die Familie darauf an.
 
-## PHASE 1- das forming
+## Phase 1 – Das Forming
 
 In der ersten Phase der Patchworkfamilie, dem “Forming”, ist es entscheidend, dass alle Familienmitglieder**ausreichend Zeit**haben, sich kennenzulernen und eine Beziehung aufzubauen. Ich beschreibe es gern als das vorsichtige Herantasten an einender. Man kann die andere Person noch nicht einschätzen und hält sich höflich zurück.
 
@@ -93,4 +93,4 @@ Die Phase des “Performings” ist ein Erfolg für die Patchworkfamilie und zei
 ## Zusammenfassung
 Diese vier Phasen der Patchworkfamilien bilden den Prozess der Entwicklung ab. Jede Phase bringt ihre eigenen Herausforderungen und Chancen mit sich. Und jede Phase baut aufeinander auf – wir müssen sie alle durchlaufen, um das Ziel – einer harmonischen Patchworkfamilie zu erreichen.
 
-Du steckst in einer der Phasen fest und wünschst dir Unterstützung? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!
+

@@ -66,4 +66,4 @@ Die restliche Familie einer Patchworkfamilie ist ein riesengroßer Schatz. Stief
 Herausforderungen wie Vorurteile oder Ablehnung können uns dabei begegnen. Diese zu überwinden, lohnt sich jedoch enorm.
 Mit gemeinsamen Ausflügen, Spielen und bleibenden Erinnerungen kann es gelingen, die restlichen Familienmitglieder mit einzubeziehen.
 
-Du haderst mit der Familie und wünschst dir Unterstützung? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!
+

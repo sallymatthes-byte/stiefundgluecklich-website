@@ -19,7 +19,7 @@ Und gleichzeitig weiß ich, dass man das eine nicht mit dem anderen vergleichen 
 Und auch wenn ich das logisch verstehen kann, so geht das Gefühl doch nicht ganz weg.
 Also, wie kann man damit umgehen?
 
-## Aus dem schatten heraus treten
+## Aus dem Schatten heraus treten
 
 Es ist wichtig, dass du dir bewusst machst, dass dieses Gefühl nicht deine Schuld ist. Es entsteht oft aus den komplexen Dynamiken einer Patchworkfamilie und den unterschiedlichen Rollen, die jeder einnimmt. Doch du kannst aktiv daran arbeiten, deine eigene Priorität zu stärken und dich nicht länger in der zweiten Reihe zu fühlen.
 
@@ -63,4 +63,4 @@ Als Bonusmama in einer Patchworkfamilie kann es eine Herausforderung sein, die e
 Oftmals suchen wir Anerkennung und Wertschätzung von anderen, doch wir sollten uns diese zuerst selbst geben. Indem wir uns selbst wertschätzen, uns Zeit für uns selbst nehmen und uns mitfühlend behandeln, stärken wir unser Selbstwertgefühl als Stiefmutter. Zudem ist es wichtig, ein Netzwerk von Unterstützung aufzubauen, um sich mit anderen Stiefmüttern auszutauschen und gegenseitig zu stärken.
 Indem wir uns selbst Anerkennung und Wertschätzung geben, schaffen wir die Grundlage für ein harmonisches Patchworkfamilienleben. Und dann ist auch das Gefühl in zweiter Reihe zu stehen nicht mehr so groß.
 
-Du möchtest das gern in die Praxis umsetzen? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!
+

@@ -94,4 +94,3 @@ Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, k
 ## Zusammenfassung
 Als Bonusmama bei Veranstaltungen selbstbewusst aufzutreten, kann eine große Herausforderung sein. Unsicherheiten, Selbstzweifel und die Angst vor Ablehnung oder Kritik sind völlig normal. Doch mit der richtigen Vorbereitung, einer positiven inneren Haltung und der Unterstützung deines Partners kannst du lernen, souverän und gelassen zu bleiben. Offene Kommunikation, gemeinsame Strategien und ein liebevolles Miteinander sind der Schlüssel, um schwierige Situationen zu meistern und als Team zu wachsen. Vertraue auf deine Stärken, genieße die schönen Momente und sei stolz auf deine wertvolle Rolle als Bonusmama!
 
-Du wünschst dir Unterstützung bei deinem selbstbewussten Auftreten? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!

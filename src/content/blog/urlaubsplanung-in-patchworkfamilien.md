@@ -80,4 +80,3 @@ Nach der Reise lassen sich die schönen Momente durch Fotoalben, Rituale oder Ge
 
 Mit der richtigen Einstellung, Flexibilität und dem Fokus auf das Verbindende kann der Patchwork-Urlaub gelingen und die Familienbande nachhaltig stärken. Denn trotz aller Herausforderungen ist er eine einmalige Chance, als Familie zusammenzuwachsen und wertvolle Zeit miteinander zu verbringen.
 
-Du haderst damit, deine Bedürfnisse zu kommunizieren und dir Auszeiten zu nehmen? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich dabei unterstützen kann!

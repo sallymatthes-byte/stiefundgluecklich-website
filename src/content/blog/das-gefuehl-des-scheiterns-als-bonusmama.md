@@ -52,7 +52,7 @@ Der ständige Vergleich mit anderen Familien kann für Bonusmamas zu einer Quell
 
 Indem du dich auf deine eigene Familie konzentrierst und diese positiven, praxisnahen Strategien umsetzt, kannst du verhindern, dass Vergleiche dein Herz beschweren.**Deine Familie ist einzigartig**, voller eigener Geschichten und Momente, die es zu feiern gilt. Lass dich nicht von fremden Bildern täuschen – das wahre Glück liegt in den Augenblicken, die nur ihr miteinander teilt.
 
-## WAs tun, wenn es dennoch nicht klappt?
+## Was tun, wenn es dennoch nicht klappt?
 
 
 ![Stimmungsbild zum Artikel](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-3.jpg)
@@ -64,4 +64,4 @@ Indem du diese Strategien anwendest, kannst du die schwierige Phase des Scheiter
 ## Zusammenfassung
 Manchmal haben wir den Eindruck, einfach nicht voranzukommen und zu scheitern. Ursachen dafür gibt es viele: Selbstzweifel, Vergleiche oder komplexe Familiendynamiken sind nur einige davon. Um dem entgegenzuwirken, ist es hilfreich, eigene Familienrituale zu schaffen und kleine Erfolge gemeinsam zu feiern. Wenn eine Patchworkfamilie trotz aller Bemühungen auseinandergeht, ist es wichtig, sich selbst mit Mitgefühl zu begegnen und professionelle Unterstützung in Anspruch zu nehmen. Schaffe dir einen sicheren Raum für deine Gefühle und konzentriere dich auf Selbstfürsorge und persönliche Weiterentwicklung. Auch wenn das Scheitern schmerzhaft ist, bietet jede Trennung die Chance für einen Neuanfang und persönliches Wachstum.
 
-Du wünschst dir Unterstützung beim Umgang mit diesen Gefühlen? Dann schreibe mir eine private Nachricht und lass uns darüber sprechen, wie ich dich und deine Patchworkfamilie dabei unterstützen kann!
+
