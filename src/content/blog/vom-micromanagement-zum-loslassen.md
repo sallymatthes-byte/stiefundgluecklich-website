@@ -23,17 +23,11 @@ Und wenn du lieber etwas auf die Ohren möchtest, dann ist diese [Podcastfolge](
 
 Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwachen und kontrollieren zu wollen – wie ein Puppenspieler, der jede Bewegung seiner Figuren steuern möchte. Vielleicht erkennst du dich in folgenden Situationen wieder:
 
--
+- Du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
 
-Du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
+- Du greifst ein, wenn dein Partner mit den Kindern spielt, weil du denkst, es geht nicht „richtig“.
 
--
-
-Du greifst ein, wenn dein Partner mit den Kindern spielt, weil du denkst, es geht nicht „richtig“.
-
--
-
-Du willst jeden Ausflug oder jedes Familienessen bis ins Detail planen, um Chaos zu vermeiden.
+- Du willst jeden Ausflug oder jedes Familienessen bis ins Detail planen, um Chaos zu vermeiden.
 
 Das Problem? Deine guten Absichten können dazu führen, dass sich dein Umfeld kontrolliert und eingeengt fühlt.
 

@@ -145,4 +145,3 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 - Wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
 
 
-“Ich hatte schon fast aufgegeben. Die ständigen Einmischungen der Ex-Frau haben mich zermürbt und unsere Beziehung belastet. Durch Sallys Coaching habe ich nicht nur gelernt, damit umzugehen – ich bin selbst so viel stärker geworden. Heute führen wir eine glückliche Beziehung, und die Störversuche perlen einfach an mir ab.” – Sarah, 34, Bonusmama von zwei Kindern

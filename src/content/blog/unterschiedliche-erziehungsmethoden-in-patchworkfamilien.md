@@ -51,13 +51,8 @@ Dann lass uns sprechen.
 
 wo genau eure Erziehungskonflikte liegen
 
--
+- wie du deine Position als Bonusmama stärken kannst
 
-wie du deine Position als Bonusmama stärken kannst
-
--
-
-und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
+- und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
 
 
-“Ich dachte wirklich, unsere unterschiedlichen Erziehungsvorstellungen würden unsere Familie zerreißen. Durch Sallys Begleitung haben wir nicht nur gelernt, damit umzugehen, sondern sogar Stärke daraus zu ziehen. Heute sind wir endlich ein echtes Team!” – Jana, 36, Bonusmama von zwei Kindern

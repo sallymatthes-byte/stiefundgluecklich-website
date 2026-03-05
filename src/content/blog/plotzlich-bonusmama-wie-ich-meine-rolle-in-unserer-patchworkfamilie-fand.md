@@ -71,11 +71,6 @@ Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, d
 
 Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen?
 
--
+- Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama authentisch zu gestalten?
 
-Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama authentisch zu gestalten?
-
--
-
-
-Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.
+- Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg.Einen, der nicht durch Funktionieren führt, sondern durch Verbindung.Zu dir. Und zu deiner Familie.

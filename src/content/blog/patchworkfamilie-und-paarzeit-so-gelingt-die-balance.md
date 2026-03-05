@@ -87,6 +87,5 @@ Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zu
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
 
 
-“Durch Sallys Begleitung haben wir nicht nur als Familie, sondern vor allem als Paar wieder zueinander gefunden. Heute wissen wir, wie wir uns trotz vollem Familienkalender Zeit für unsere Liebe nehmen können.” – Lisa, 37, Bonusmama von drei Kindern
 
 

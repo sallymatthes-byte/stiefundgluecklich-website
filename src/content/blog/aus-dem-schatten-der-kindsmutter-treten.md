@@ -50,9 +50,7 @@ Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh
 
 Es ist Zeit, dass du aus dem Schatten der Vergleiche mit der Kindsmutter heraustrittst und deinen eigenen, einzigartigen Platz in der Familie findest und ausfüllst. Denn du bist so viel mehr als eine Kopie der Kindsmutter - du bist eine wundervolle Bonusmama mit ganz besonderen Stärken und Qualitäten.
 
--
-
-Erkenne deine einzigartigen Fähigkeiten
+- Erkenne deine einzigartigen Fähigkeiten
 
 Reflektiere, was dich als Person ausmacht und was du in die Familie einbringst
 
@@ -60,9 +58,7 @@ Reflektiere, was dich als Person ausmacht und was du in die Familie einbringst
 
 - Sei stolz auf das, was du leistest und den Unterschied, den du machst
 
--
-
-Gestalte die Beziehung zum Bonuskind aktiv
+- Gestalte die Beziehung zum Bonuskind aktiv
 
 Finde gemeinsame Interessen und Aktivitäten, die euch verbinden
 
@@ -70,9 +66,7 @@ Finde gemeinsame Interessen und Aktivitäten, die euch verbinden
 
 - Sei eine verlässliche und liebevolle Bezugsperson, ohne die Mama zu ersetzen
 
--
-
-Lass dich als Bonusmama wertschätzen und anerkennen
+- Lass dich als Bonusmama wertschätzen und anerkennen
 
 Nimm Komplimente und Dankbarkeit bewusst an und freue dich darüber
 

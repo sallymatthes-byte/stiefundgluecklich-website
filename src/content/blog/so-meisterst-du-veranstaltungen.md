@@ -61,17 +61,11 @@ Gemeinsam seid ihr stark und könnt lernen, diese Herausforderungen als Chance f
 
 Es gibt ein paar Tricks, die dir helfen können, bei Veranstaltungen selbstbewusst und souverän aufzutreten. Lass uns gemeinsam daran arbeiten, deine innere Stärke nach außen zu tragen!
 
--
+- Alles beginnt mit der Vorbereitung: *Nimm dir Zeit für dich selbst, atme durch und erinnere dich an deine Qualitäten.* Mache dir bewusst, dass du genau die Richtige für diese Aufgabe bist. Eine mentale Einstimmung kann wahre Wunder wirken.
 
-Alles beginnt mit der Vorbereitung: *Nimm dir Zeit für dich selbst, atme durch und erinnere dich an deine Qualitäten.* Mache dir bewusst, dass du genau die Richtige für diese Aufgabe bist. Eine mentale Einstimmung kann wahre Wunder wirken.
+- Achte auch auf deine Körpersprache: *Schultern zurück, Kopf hoch und ein Lächeln auf den Lippen.* Deine Ausstrahlung ist der Spiegel deiner inneren Haltung. Zeige der Welt, dass du mit Freude und Zuversicht dabei bist!
 
--
-
-Achte auch auf deine Körpersprache: *Schultern zurück, Kopf hoch und ein Lächeln auf den Lippen.* Deine Ausstrahlung ist der Spiegel deiner inneren Haltung. Zeige der Welt, dass du mit Freude und Zuversicht dabei bist!
-
--
-
-Klar, Smalltalk kann eine Herausforderung sein. Aber sieh es als Chance, neue Menschen kennenzulernen und Brücken zu bauen. *Sei neugierig, stelle Fragen und höre aufmerksam zu.* So signalisierst du Offenheit und Wertschätzung.
+- Klar, Smalltalk kann eine Herausforderung sein. Aber sieh es als Chance, neue Menschen kennenzulernen und Brücken zu bauen. *Sei neugierig, stelle Fragen und höre aufmerksam zu.* So signalisierst du Offenheit und Wertschätzung.
 
 Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast jedes Recht, mit Freude und Engagement dabei zu sein. Also strahle diese Zuversicht aus und genieße die bereichernden Momente mit deinem Bonuskind.
 Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
