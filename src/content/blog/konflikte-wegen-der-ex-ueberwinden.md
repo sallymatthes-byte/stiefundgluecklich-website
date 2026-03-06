@@ -11,7 +11,7 @@ image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"
 ---
 
-Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um die Erziehung der Kinder geht, um Absprachen oder Grenzen — die Verflossene ist immer präsent und sorgt für Ärger. Du fühlst dich zurückgesetzt, nicht wertgeschätzt und ausgeschlossen. Dabei willst du doch eigentlich nur eines: gemeinsam mit deinem Partner eine harmonische Patchworkfamilie sein.
+Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um die Erziehung der Kinder geht, um Absprachen oder Grenzen — die Verflossene ist immer präsent und sorgt für Ärger. Du fühlst dich zurückgesetzt, nicht wertgeschätzt und [ausgeschlossen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/). Dabei willst du doch eigentlich nur eines: gemeinsam mit deinem Partner eine harmonische Patchworkfamilie sein.
 
 Aber egal was du tust, die Konflikte hören einfach nicht auf. Im Gegenteil: Sie werden immer schlimmer, vergiften nach und nach eure Beziehung. *Du bist kurz davor zu resignieren.* Vielleicht fragst du dich: Ist es das alles wert? Wie lange halte ich das noch aus?
 
@@ -29,7 +29,7 @@ Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erf
 
 Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht davor zurück, immer mehr Nähe einzufordern. Gemeinsame Weihnachtsfeiern, Familienurlaube — Yvonne sollte bei allem dabei sein. Für sie war das jedoch oft zu viel, sie fühlte sich unwohl. **Doch eine Grenze zu ziehen, fiel ihr schwer.** Zu den organisatorischen Schwierigkeiten kamen bald auch Erziehungsfragen hinzu. Während Yvonne klare Regeln für wichtig hielt, herrschte bei der Ex das Laisser-faire. Für die Kinder verwirrend, für Yvonne und ihren Partner ein ständiger Streitpunkt. Erschöpft und mit den Nerven am Ende suchte Yvonne schließlich Rat bei mir.
 
-Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die Beziehung ruinieren zu lassen?
+Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [Konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das so? Und wie schafft man es, sich davon nicht die [Beziehung ruinieren](/blog/bleiben-oder-gehen/) zu lassen?
 
 ![Frau schaut nachdenklich aus dem Fenster in den Wald — Abgrenzung und innere Stärke finden](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
 
@@ -57,12 +57,15 @@ All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einma
 
 Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
-## Zeit für Veränderung
-
-
 ![Paar sitzt zusammen auf einer Bank im Herbstwald — gemeinsam als Team auftreten](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
 
-Durch diesen Perspektivwechsel gelang es Yvonne, mehr Klarheit zu gewinnen. Sie erkannte, dass die Streite oft durch mangelnde Absprachen und unterschiedliche Erwartungen entstanden. Und sie sah, dass es letztlich allen Beteiligten um dasselbe ging: respektiert und wertgeschätzt zu werden. **Schritt 2: Veränderung — alte Muster durchbrechen.** Mit diesen Erkenntnissen im Gepäck ging Yvonne den nächsten Schritt: Sie fing an, ihr eigenes Verhalten zu reflektieren. Statt ihrem Partner Vorwürfe zu machen, übte sie sich in Gelassenheit. *In unseren Sitzungen hinterfragte sie ihre eigenen Ansprüche und versuchte, Verständnis für die Perspektive ihres Partners und der Ex zu entwickeln.*
+## Zeit für Veränderung
+
+**Schritt 1: Reflexion — die Situation verstehen.** Gemeinsam mit mir begann Yvonne, die Konflikte aus einer anderen Perspektive zu betrachten. Statt die Ex als Feindbild zu sehen, lernte sie, die Dynamiken hinter den Streitereien zu verstehen.
+
+Durch diesen Perspektivwechsel gelang es Yvonne, mehr Klarheit zu gewinnen. Sie erkannte, dass die Streite oft durch mangelnde Absprachen und unterschiedliche Erwartungen entstanden. Und sie sah, dass es letztlich allen Beteiligten um dasselbe ging: respektiert und wertgeschätzt zu werden.
+
+**Schritt 2: Veränderung — alte Muster durchbrechen.** Mit diesen Erkenntnissen im Gepäck ging Yvonne den nächsten Schritt: Sie fing an, ihr eigenes Verhalten zu reflektieren. Statt ihrem Partner Vorwürfe zu machen, übte sie sich in Gelassenheit. *In unseren Sitzungen hinterfragte sie ihre eigenen [Glaubenssätze](/blog/glaubenssaetze-als-bonusmama/) und versuchte, Verständnis für die Perspektive ihres Partners und der Ex zu entwickeln.*
 
 Gleichzeitig suchte sie das offene Gespräch mit ihrem Partner. Gemeinsam definierten sie Prioritäten, tauschten sich über Erziehungsvorstellungen aus und vereinbarten, Entscheidungen künftig zusammen zu treffen. So wollten sie der Ex gegenüber als Einheit auftreten.
 
@@ -70,19 +73,21 @@ Gleichzeitig suchte sie das offene Gespräch mit ihrem Partner. Gemeinsam defini
 
 *Statt in alte Muster zu verfallen, setzten sie auf Transparenz und Wertschätzung.* Sie zeigten Verständnis für die Lage der Ex und betonten gleichzeitig ihre Bedürfnisse als Paar.
 
-Mit der Zeit etablierten sie eine neue Gesprächskultur: Probleme klärten sie erst als Paar, dann mit der Ex. Rückschläge entmutigten sie nicht, sondern dienten als Chance, weiter an sich zu arbeiten. So fanden sie zu der liebevollen Beziehung, die Yvonne sich gewünscht hatte. Yvonnes verwandlung
+Mit der Zeit etablierten sie eine neue Gesprächskultur: Probleme klärten sie erst als Paar, dann mit der Ex. Rückschläge entmutigten sie nicht, sondern dienten als Chance, weiter an sich zu arbeiten. So fanden sie zu der liebevollen Beziehung, die Yvonne sich gewünscht hatte.
+
+## Yvonnes Verwandlung
 
 Yvonnes Weg war kein leichter — doch er hat sich gelohnt. Durch die intensive Auseinandersetzung mit sich selbst und den Konflikten in ihrer Patchworkfamilie hat sie nicht nur ihre Beziehung gerettet, sondern auch eine tiefgreifende persönliche Verwandlung erlebt.
 
 Äußerlich zeigt sich das in erster Linie an der neuen Harmonie in ihrer Familie. Die Streits mit ihrem Partner sind immens zurückgegangen, der Umgang mit der Ex ist von Wertschätzung und Respekt geprägt. Gemeinsam ziehen sie an einem Strang, finden Lösungen, die für alle passen. **Dadurch ist endlich Ruhe eingekehrt — und Raum für die schönen Dinge des Lebens.** Doch die wohl größte Veränderung hat sich in Yvonne selbst vollzogen. Vor ihrer Auseinandersetzung mit den Konflikten fühlte sie sich den Umständen oft hilflos ausgeliefert. *Heute hat sie verstanden: Sie selbst hat es in der Hand, die Situation zu gestalten.*
 
-Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich nicht mehr fremdbestimmt, sondern als aktive Gestalterin ihrer Beziehungen.** Statt in Vorwürfen zu verharren, geht sie konstruktiv mit Problemen um. Sie reflektiert ihr eigenes Verhalten, äußert ihre Bedürfnisse klar und respektvoll. Und sie hat erkannt, dass sie für ihr Glück selbst verantwortlich ist.
+Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich nicht mehr fremdbestimmt, sondern als aktive Gestalterin ihrer Beziehungen.** Statt in Vorwürfen zu verharren, geht sie konstruktiv mit Problemen um. Sie reflektiert ihr eigenes Verhalten, äußert ihre Bedürfnisse klar und respektvoll. Sie hat gelernt, [loszulassen](/blog/loslassen-lernen/) und erkannt, dass sie für ihr Glück selbst verantwortlich ist.
 
 Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Situationen, die herausfordernd sind. Doch Yvonne lässt sich davon nicht mehr aus der Bahn werfen. Durch die Arbeit an sich selbst hat sie innere Stärke und Gelassenheit gewonnen. **So ist aus der hilflosen Yvonne eine selbstbewusste Frau geworden, die für sich und ihre Beziehungen einsteht** — eine Frau, die Probleme als Chancen begreift und aktiv an Lösungen arbeitet.
 
 ## Zusammenfassung
 
-**Du musst den Kreislauf aus Konflikten und Erschöpfung nicht alleine durchbrechen.** Mach das [kostenlose Quiz](/quiz) und finde in 2 Minuten heraus, welcher nächste Schritt zu dir passt.
+**Du musst den Kreislauf aus Konflikten und Erschöpfung nicht alleine durchbrechen.** Yvonnes Geschichte zeigt: Wenn du bereit bist, bei dir selbst anzufangen, alte Muster zu hinterfragen und gemeinsam mit deinem Partner als Team aufzutreten, kann sich auch in deiner Patchworkfamilie vieles zum Besseren wenden.
 
 
 
