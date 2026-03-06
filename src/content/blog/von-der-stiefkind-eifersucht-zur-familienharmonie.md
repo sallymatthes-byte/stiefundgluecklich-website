@@ -41,10 +41,6 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 
 ![Frau steht allein am Waldrand und blickt nachdenklich in die Ferne — Eifersucht in der Patchworkfamilie](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
 
-## Der Traum von einer harmonischen Patchworkfamilie
-
-> Eifersucht ist Liebesneid – Wilhelm Busch
-
 ## Die unsichtbaren Mauern der Eifersucht
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
@@ -92,4 +88,4 @@ Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst,
 
 ### Was kann ich gegen Stiefkind-Eifersucht tun?
 Erkenne die Eifersucht als Signal, nicht als Charakterfehler. Frag dich: Was brauche ich gerade wirklich? Meistens geht es um Zeit zu zweit mit deinem Partner, Anerkennung oder das Gefühl, einen festen Platz zu haben. Sprich das offen an — nicht als Vorwurf, sondern als Bedürfnis.
-FAQ_END -->
+<!-- FAQ_END -->

@@ -121,4 +121,4 @@ Hör auf, dich mit ihr zu vergleichen. Eure Beziehungen sind komplett unterschie
 
 ### Ist Eifersucht auf die Ex normal?
 Absolut. Fast jede Bonusmama kennt dieses Gefühl in irgendeiner Form. Es wird erst zum Problem, wenn es dein Denken und Handeln dominiert. Dann lohnt es sich, genauer hinzuschauen — oft stecken eigene [Glaubenssätze](/blog/glaubenssaetze-als-bonusmama/) und alte Verletzungen dahinter.
-FAQ_END -->
+<!-- FAQ_END -->

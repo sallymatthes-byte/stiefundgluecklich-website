@@ -141,4 +141,4 @@ Sprich mit deinem Partner unter vier Augen darüber - nicht vor dem Kind. Erklä
 
 ### Ist Mini-Wife-Verhalten schädlich für das Kind?
 Ja, langfristig kann es das Kind überfordern. Kinder, die in eine Erwachsenenrolle gedrängt werden, tragen Verantwortung, die nicht zu ihrem Alter passt. Das kann zu [Loyalitätskonflikten](/blog/loyalitaetskonflikte-von-bonuskindern/) und emotionaler Überlastung führen.
-FAQ_END -->
+<!-- FAQ_END -->

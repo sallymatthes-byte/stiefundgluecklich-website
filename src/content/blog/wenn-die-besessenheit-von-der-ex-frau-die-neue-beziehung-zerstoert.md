@@ -13,7 +13,7 @@ imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Ver
 
 „Sie macht alles kaputt!" — dieser verzweifelte Gedanke raubt dir nachts den Schlaf. Die Ex-Frau und neue Beziehung scheinen untrennbar miteinander verwoben zu sein, wie ein endloser Albtraum, aus dem du nicht erwachen kannst. Jede Nachricht von ihr lässt dein Herz rasen, jeder „zufällige" Anruf während eures Abendessens vergiftet die Stimmung. Du spürst förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein dunkler Schleier, der sich über eure Liebe legt.
 
-In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel macht über deine Beziehung hat, sondern vor allem, wie du dich aus dieser emotionalen Gefangenschaft befreien kannst. Denn eines ist sicher: Du verdienst es, eine erfüllte Partnerschaft zu leben - ohne ständige Einmischung von außen.
+In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über deine Beziehung hat, sondern vor allem, wie du dich aus dieser emotionalen Gefangenschaft befreien kannst. Denn eines ist sicher: Du verdienst es, eine erfüllte Partnerschaft zu leben - ohne ständige Einmischung von außen.
 
 ---
 
@@ -110,7 +110,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 *Der Unterschied zwischen einer Bonusmama, die unter der Situation leidet, und einer, die ihre Patchworkfamilie glücklich lebt, liegt nicht in den äußeren Umständen*. Er liegt in den Werkzeugen und Strategien, die sie zur Verfügung hat.
 
-**Du willst raus aus dem Kreislauf?** Finde in 2 Minuten heraus, welcher nächste Schritt zu deiner Situation passt — mit dem [kostenlosen Quiz](/quiz).
+**Du willst raus aus dem Kreislauf?** Du verdienst eine Beziehung, in der du dich sicher und geliebt fühlst — ohne den ständigen Schatten der Vergangenheit.
 
 <!-- FAQ_START
 ## Häufige Fragen
@@ -123,4 +123,4 @@ Der erste Schritt ist, die Gedanken nicht zu bekämpfen, sondern zu verstehen, w
 
 ### Kann die Ex-Frau eine neue Beziehung zerstören?
 Die Ex-Frau selbst zerstört selten eine Beziehung. Was Beziehungen gefährdet, ist der Umgang damit: Wenn der Partner keine klaren Grenzen setzt, wenn Konflikte mit der Ex eure Partnerschaft dominieren, oder wenn du dich in Vergleichen verlierst. Die Lösung liegt immer in eurer Beziehung, nicht bei der Ex.
-FAQ_END -->
+<!-- FAQ_END -->

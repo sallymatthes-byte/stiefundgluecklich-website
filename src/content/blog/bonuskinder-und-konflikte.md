@@ -77,4 +77,4 @@ Langsam und ohne Druck. Sei verlässlich, aber erwarte keine sofortige nähe. Fi
 
 ### Was tun, wenn mein Stiefkind die Beziehung zerstört?
 Kein Kind zerstört bewusst eine Beziehung. Wenn es sich so anfühlt, schau genauer hin: Ist das Kind überfordert? Fehlen klare Strukturen? Setzt dein Partner Grenzen? Meistens liegt das Problem nicht beim Kind, sondern im System drumherum.
-FAQ_END -->
+<!-- FAQ_END -->
