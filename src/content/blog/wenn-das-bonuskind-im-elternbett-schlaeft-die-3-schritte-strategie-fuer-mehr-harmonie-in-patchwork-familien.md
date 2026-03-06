@@ -18,7 +18,7 @@ Doch was wäre, wenn es einen Weg gäbe, deine Bedürfnisse zu wahren, ohne Schu
 
 Bevor wir starten, möchte ich eines klarstellen: Es geht in diesem Artikel nicht darum zu bewerten, ob ein Familienbett grundsätzlich richtig oder falsch ist. Jede Familie ist einzigartig. Was ich dir stattdessen anbiete, ist ein Weg, deine aktuelle Situation zu verbessern, wenn du damit unzufrieden bist – ohne dass sich jemand Ausgeschlossen oder Angegriffen fühlt.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Das Bonuskind im Elternbett – Zwischen Verzweiflung und Durchbruch
 

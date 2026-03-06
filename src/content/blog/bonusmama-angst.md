@@ -21,7 +21,7 @@ Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: Sie
 
 In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder sicher und stabil zu fühlen.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Mein Aha-Moment als Bonusmama: Warum Angst so tief sitzt
 

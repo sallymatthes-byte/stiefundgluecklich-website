@@ -18,7 +18,7 @@ Doch dann erinnerst du dich daran, warum du diesen Weg gewählt hast: aus Liebe 
 
 Wir lernten so viel neues übereinander und konnten endlich wieder tiefgehende Gespräche führen. Zu diesem Zeitpunkt waren wir etwa zwei Jahre zusammen und ich stand vor der bisher größten Herausforderung in unserer Beziehung. Wir hatten gerade unsere erste gemeinsame Wohnung bezogen, die Kinder waren regelmäßig bei uns und wir mussten unsere Rolle als Patchworkfamilie erst finden. Es war eine schwierige Zeit, in der ich oft an meine Grenzen stieß. Und ich teile mit dir heute die Fragen, die uns wieder näher zueinander gebracht haben.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) an.
 
 ## Die ersten Monate als Patchworkfamilie
 

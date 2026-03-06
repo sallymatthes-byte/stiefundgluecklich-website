@@ -19,7 +19,7 @@ In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfäh
 
 Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns gemeinsam eintauchen und herausfinden, wie die Transformation von der besten Freundin zur Bonusmama gelingen kann.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-e2qsibq) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-e2qsibq) an.
 
 ## Vom vertrauten Umfeld zur Außenseiterin
 

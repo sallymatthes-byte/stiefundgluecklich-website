@@ -17,7 +17,7 @@ Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die ne
 
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die fallen der Verantwortungsübernahme umschifft.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) an.
 
 ## Mir ging es auch so!
 

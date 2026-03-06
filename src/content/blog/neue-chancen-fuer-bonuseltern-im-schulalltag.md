@@ -18,7 +18,7 @@ Darfst du dein Bonuskind zum Kindergarten bringen? Gehört es sich, dass du mit 
 
 In diesem Artikel teile ich mit dir meine bewährte Bonusmama-Formel, die dir hilft, deine Rolle als Bonuselternteil im Schul- und Kindergartenalltag aktiv und selbstbewusst zu gestalten – auch wenn die Regeln manchmal unklar sind.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Von unsichtbar zu unverzichtbar: Mein Weg als Bonusmama im Schulalltag
 

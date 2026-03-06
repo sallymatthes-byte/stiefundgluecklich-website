@@ -16,7 +16,7 @@ Vielleicht hast du es versucht anzusprechen - und Bekamst die Antwort: "es sind 
 
 Aber was, wenn ich dir sage: Es ist nicht dein Fehler?Das ist kein Bonusmama-Problem - sondern ein Beziehungsproblem. Und genau darum geht es heute: warum passiert das? Warum ist es nicht deine schuld? Und vor allem: wie kannst du das ändern - ohne Vorwürfe, ohne Schuldgefühle?
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 #### Der Moment, in dem mir alles klar wurde
 

@@ -18,7 +18,7 @@ Doch dann kam die Wende. In meiner Coachingausbildung lernte ich Techniken und S
 
 In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchworkfamilie bringen kannst. Ich nehme dich mit auf meine persönliche Reise vom Stiefmutter-Frust zum Patchworkglück und verrate dir, welche drei Schritte mir geholfen haben, meine Rolle als Bonusmama zu finden und ein harmonisches Familienleben zu gestalten.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) an.
 
 ## Verliebt, nicht verlobt, aber Patchwork
 

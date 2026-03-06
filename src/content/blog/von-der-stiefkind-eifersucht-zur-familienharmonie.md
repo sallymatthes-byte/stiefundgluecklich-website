@@ -14,7 +14,7 @@ imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier, das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.
-🎙 wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
+🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 

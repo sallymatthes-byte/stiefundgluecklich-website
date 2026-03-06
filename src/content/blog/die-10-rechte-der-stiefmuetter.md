@@ -15,7 +15,7 @@ Als [Stiefmutter](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) stehst du oft vor
 
 Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu gestalten? Dann lass uns gemeinsam einen Blick auf die einzelnen Punkte werfen!
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
 
 ## Warum die Rechte der Stiefmütter so wichtig sind
 

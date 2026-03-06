@@ -16,7 +16,7 @@ In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Of
 
 Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure [Partnerschaft](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) zu stärken und Harmonie in eure Kommunikation zu bringen.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) an.
 
 ## Ein Satz, vier Bedeutungen
 

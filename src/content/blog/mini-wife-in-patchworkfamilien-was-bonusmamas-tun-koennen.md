@@ -20,7 +20,7 @@ Ein Begriff, der nach Drama klingt – und doch beschreibt er eine stille Dynami
 
 Wenn du dich manchmal wie eine Rivalin fühlst – obwohl du doch eigentlich Partnerin bist –, dann Lies Unbedingt weiter. Dieser Artikel ist für dich.
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Mein Wendepunkt: Zwischen Scham und Erkenntnis
 

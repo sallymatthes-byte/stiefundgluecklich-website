@@ -19,7 +19,7 @@ Ich kann dich beruhigen: Du bist nicht allein! Unzählige Stiefeltern kämpfen t
 
 Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erfährst du in diesem Artikel. Lass uns gemeinsam deine Beziehung stärken und Lösungen finden!
 
-🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
 
 ## Lerne Yvonne kennen
 
