@@ -13,6 +13,12 @@ imageAlt: "Nachdenkliche Frau blickt aus dem Fenster — Eifersucht als Bonusmam
 
 Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die [Ex](/blog/konflikte-wegen-der-ex-ueberwinden/)-Frau als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag — **all das trifft dich wie kleine Nadelstiche direkt ins Herz.** Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: „Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein."
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an — auf [Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) oder überall, wo du Podcasts hörst.
+
+---
+
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
 Du fragst dich:
@@ -81,6 +87,8 @@ Diese drei Schritte bauen aufeinander auf und bilden einen **bewährten Weg aus 
 
 ## Dein Weg zu mehr Selbstsicherheit
 
+Statt den Blick auf die Vergangenheit zu richten, darfst du dich auf das konzentrieren, was eure Beziehung einzigartig macht:
+
 - Die liebevollen Blicke deines Partners
 - Die kleinen Momente der Nähe, die nur euch gehören
 - *Die gemeinsamen Träume und Pläne für die Zukunft*
@@ -89,8 +97,6 @@ Diese drei Schritte bauen aufeinander auf und bilden einen **bewährten Weg aus 
 Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie kann sogar ein Katalysator für persönliches Wachstum sein. **Denn oft zeigt sie uns genau die Bereiche, in denen wir uns selbst noch mehr lieben und akzeptieren dürfen.**
 
 Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist — nicht trotz, sondern gerade wegen ihrer besonderen [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/).*
-
-**Du willst herausfinden, welcher nächste Schritt zu dir passt?**
 
 <!-- FAQ_START -->
 ## Häufige Fragen

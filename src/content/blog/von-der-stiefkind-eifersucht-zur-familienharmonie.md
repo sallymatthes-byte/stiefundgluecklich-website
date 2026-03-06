@@ -8,12 +8,18 @@ metaTitle: "Eifersucht auf Stiefkind: Warum es normal ist + 3 Wege"
 metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gefühl häufiger ist als du denkst — und wie du davon loskommst."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
-imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"
+imageAlt: "Nachdenkliche Frau am Fenster mit Kaffeetasse — Eifersucht auf das Stiefkind überwinden"
 ---
 
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier,** das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
+
+---
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
@@ -70,14 +76,6 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 **Du bist nicht allein mit diesen Gedanken.** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
-
-**Du willst herausfinden, welcher nächste Schritt zu dir passt?** Mach das [kostenlose Quiz](/quiz) und finde es in 2 Minuten heraus.
-
----
-
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
-
----
 
 <!-- FAQ_START -->
 ## Häufige Fragen

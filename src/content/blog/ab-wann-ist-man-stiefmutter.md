@@ -19,6 +19,10 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
+🎙 **Passend dazu:** [„Ab wann bin ich eigentlich Stiefmutter?"](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8)
+
+---
+
 ## Was eine Stiefmutter wirklich ist – mehr als nur ein Märchen
 
 Ja, der Begriff „Stiefmutter" löst auch heute noch oft Unbehagen aus.
@@ -98,12 +102,6 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 
 ## Dein Weg zur harmonischen Patchworkfamilie
 Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
-
----
-
-🎙 **Passend dazu:** [„Ab wann bin ich eigentlich Stiefmutter?"](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8)
-
----
 
 <!-- FAQ_START -->
 ## Häufige Fragen
