@@ -31,8 +31,8 @@ Doch wie können wir ihnen helfen, damit umzugehen?
 
 ## So unterstützt du den Prozess
 
-Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können: **1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.** Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die macht der ich-Botschaften, um Streit zu entschärfen.** Statt “Du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” Diese Formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [Ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**  in denen die Kinder sich näherkommen können.
-Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas Erleben und die Schönen Seiten einer Großen Familie Spüren. “weißt du noch, wie wir Neulich im Wald den Riesigen Baum Entdeckt haben?”, könnte Ben seine Schwester Fragen und schon ist da wieder diese Besondere Erinnerung, die Verbindet.
+Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können: **1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.** Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die macht der ich-Botschaften, um Streit zu entschärfen.** statt “du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” diese formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,**  in denen die Kinder sich näherkommen können.
+Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas Erleben und die schönen seiten einer großen Familie spüren. “weißt du noch, wie wir Neulich im Wald den Riesigen Baum Entdeckt haben?”, könnte Ben seine Schwester Fragen und schon ist da wieder diese besondere Erinnerung, die Verbindet.
 
 > “*Nicht das Kind soll sich der Umgebung anpassen. Sondern wir sollten die Umgebung dem Kind anpassen.*“ – Maria Montessori
 
@@ -42,14 +42,14 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
 ![Konflikte unter Kindern in Patchworkfamilien — Stimmungsbild 2](/images/blog/konflikte-unter-kindern-3.jpg)
 
 Ein Wochenplan kann ein wertvolles Instrument sein, um Geschwisterrivalität in Patchworkfamilien zu entschärfen.
-Setze dich mit allen Familienmitgliedern zusammen und gestaltet gemeinsam einen Plan, der die Bedürfnisse und Wünsche jedes Einzelnen berücksichtigt.
+Setze dich mit allen Familienmitgliedern zusammen und gestaltet gemeinsam einen Plan, der die Bedürfnisse und Wünsche jedes einzelnen berücksichtigt.
 
 Dabei könnt ihr festlegen, wer wann Zeit mit Mama, Papa oder den Bonuseltern verbringt. Vielleicht möchte Emma dienstags mit ihrer Mutter zum Reiten gehen, während Ben donnerstags mit seinem Vater zum Fußballtraining fährt.
 Wichtig ist, dass jedes Kind auch Zeitfenster hat, in denen es die ungeteilte Aufmerksamkeit eines Elternteils genießen kann.*So fühlt sich niemand benachteiligt oder übersehen.*
@@ -69,6 +69,6 @@ So mag Emma mehr Zuwendung und Körperkontakt brauchen, während Ben eher mit Lo
 
 Mia bekommt vielleicht mehr Hilfe bei den Hausaufgaben, weil sie sich damit schwerer tut, während Ben mehr Freiheiten beim spielen mit Freunden genießt. Solange sich alle gesehen und wertgeschätzt fühlen, ist es okay, wenn die Zuwendung mal unterschiedlich ausfällt.
 
-Schaffe Gelegenheiten, bei denen die Kinder erleben, dass sie füreinander da sind – Sei es beim gemeinsamen Aufräumen des Spielzimmers oder beim Trösten, wenn einer Traurig ist. So lernen sie, dass sie als Familie Zusammengehören und dass **die Unterschiede zwischen ihnen Keine Schwäche, sondern eine Stärke sind.** ## Zusammenfassung
+Schaffe Gelegenheiten, bei denen die Kinder erleben, dass sie füreinander da sind – Sei es beim gemeinsamen aufräumen des Spielzimmers oder beim trösten, wenn einer traurig ist. So lernen sie, dass sie als Familie Zusammengehören und dass **die Unterschiede zwischen ihnen keine schwäche, sondern eine stärke sind.** ## Zusammenfassung
 Konflikte unter Kindern in Patchworkfamilien haben vielfältige Ursachen, da unterschiedliche Erfahrungen, Prägungen und Bedürfnisse aufeinandertreffen. Als Bonusmama ist es deine Aufgabe, als Mediatorin zu agieren, indem du jedem Kind das Gefühl gibst, verstanden zu werden und gemeinsam nach Lösungen zu suchen. Regelmäßige Familienkonferenzen, ich-Botschaften und gemeinsame Aktivitäten können dabei helfen, Konflikte konstruktiv anzugehen und Verbundenheit zu schaffen. Ein Wochenplan gibt Struktur und stellt sicher, dass jedes Kind Eins-zu-eins-Zeit mit den Eltern hat. Fairness bedeutet nicht, alle gleich zu behandeln, sondern jedem das zu geben, was er oder sie braucht. Indem du die individuellen Bedürfnisse der Kinder erkennst und wertschätzt, förderst du den Zusammenhalt in der Patchworkfamilie. Gemeinsame Erlebnisse stärken das Gefühl der Zusammengehörigkeit und lassen die Kinder erfahren, dass sie füreinander da sind.
 

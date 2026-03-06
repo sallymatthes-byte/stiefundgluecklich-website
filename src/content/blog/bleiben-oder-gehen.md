@@ -14,7 +14,7 @@ imageAlt: "Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfami
 Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
 
 Und ganz ehrlich? Ich kenne diese Gedanken auch.
-Am Anfang unserer Beziehung überwog das verliebt-Sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
+Am Anfang unserer Beziehung überwog das verliebt-sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
 
 Und immer wieder lese ich in Social Media davon, dass es vielen Stiefmüttern so geht. Irgendwann scheinen die Belastungen zu viel werden und man würde alles am liebsten hinschmeißen. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
 
@@ -30,7 +30,7 @@ Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel
 
 ## Aber dann gibt es ja auch noch diese Momente…
 
-… in denen du an all die guten Seiten deines Partners denkst und die Liebe zwischen euch spürst. Die Momente, in denen ihr als Paar Zeit für euch habt und die Patchworkdynamik für einen Moment in den Hintergrund tritt.
+… in denen du an all die guten seiten deines Partners denkst und die Liebe zwischen euch spürst. Die Momente, in denen ihr als Paar Zeit für euch habt und die Patchworkdynamik für einen Moment in den Hintergrund tritt.
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
 
@@ -69,5 +69,5 @@ Wo stehst du gerade? Schreibe mir gern eine private Nachricht und erzähle mir d
 ## Zusammenfassung
 Viele Bonusmamas stehen manchmal vor dem Punkt, dass sie sich fragen, ob diese Beziehung das alles wert ist.
 Diese ambivalenten Gefühle sind dann sehr belastend und führen zu Rückzug oder Distanz zu den Bonuskindern und dem Partner.
-Du bist nicht allein mit diesen Gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern.
+Du bist nicht allein mit diesen gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern.
 , wenn du dir dabei Hilfe wünschst!

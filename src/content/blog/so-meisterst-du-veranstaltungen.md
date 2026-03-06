@@ -27,9 +27,9 @@ Die Angst, auf Ablehnung zu stoßen oder mit der leiblichen Mutter[verglichen](/
 
 Neugierige Fragen oder Kommentare bringen dich zusätzlich aus dem Konzept. All diese Herausforderungen können dazu führen, dass du dich klein und unzulänglich fühlst und deine Kompetenzen als Bonusmama in Frage stellst.
 
-Doch lass dir eines sagen: *Du bist nicht allein mit diesen Gefühlen!* Es ist völlig normal, dass dich die neue Rolle zunächst überfordert. Viele Bonusmamas kämpfen mit ähnlichen Unsicherheiten und Selbstzweifeln.
+Doch lass dir eines sagen: *Du bist nicht allein mit diesen gefühlen!* es ist völlig normal, dass dich die neue Rolle zunächst überfordert. Viele Bonusmamas kämpfen mit ähnlichen Unsicherheiten und Selbstzweifeln.
 
-Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – All das kann eine Immense Belastung sein.
+Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – all das kann eine Immense Belastung sein.
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
@@ -39,7 +39,7 @@ Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Dein
 
 die Kommunikation mit deinem Partner ist der Schlüssel, um dich bei Veranstaltungen sicherer und selbstbewusster zu fühlen. Aber zugegeben, es ist nicht immer leicht, offen über die eigenen Bedürfnisse und Erwartungen zu sprechen.
 
-Vielleicht hast du Angst, als schwach oder anstrengend zu wirken, wenn du sagst: *“Ich brauche deine Unterstützung”* oder *“Lass uns gemeinsam einen Plan machen”.* Doch glaub mir, ein ehrliches Gespräch kann so befreiend sein und eure Beziehung stärken.
+Vielleicht hast du Angst, als schwach oder anstrengend zu wirken, wenn du sagst: *“Ich brauche deine Unterstützung”* oder *“Lass uns gemeinsam einen Plan machen”.* doch glaub mir, ein ehrliches Gespräch kann so befreiend sein und eure Beziehung stärken.
 
 Nimm dir die Zeit, in dich hineinzuhorchen: *Was brauchst du, um dich bei der nächsten Veranstaltung wohlzufühlen? Welche Rolle möchtest du einnehmen? Welche Ängste und Sorgen begleiten dich?*
 
@@ -59,14 +59,14 @@ Gemeinsam seid ihr stark und könnt lernen, diese Herausforderungen als Chance f
 
 ## Selbstbewusst und strahlend: So meisterst du als Bonusmama jede Veranstaltung
 
-Es gibt ein paar Tricks, die dir helfen können, bei Veranstaltungen selbstbewusst und souverän aufzutreten. Lass uns gemeinsam daran arbeiten, deine innere Stärke nach außen zu tragen!
+Es gibt ein paar Tricks, die dir helfen können, bei Veranstaltungen selbstbewusst und souverän aufzutreten. Lass uns gemeinsam daran arbeiten, deine innere stärke nach außen zu tragen!
 
-- Alles beginnt mit der Vorbereitung: *Nimm dir Zeit für dich selbst, atme durch und erinnere dich an deine Qualitäten.* Mache dir bewusst, dass du genau die Richtige für diese Aufgabe bist. Eine mentale Einstimmung kann wahre Wunder wirken.
-- Achte auch auf deine Körpersprache: *Schultern zurück, Kopf hoch und ein Lächeln auf den Lippen.* Deine Ausstrahlung ist der Spiegel deiner inneren Haltung. Zeige der Welt, dass du mit Freude und Zuversicht dabei bist!
+- alles beginnt mit der Vorbereitung: *Nimm dir Zeit für dich selbst, atme durch und erinnere dich an deine Qualitäten.* Mache dir bewusst, dass du genau die richtige für diese Aufgabe bist. Eine mentale Einstimmung kann wahre Wunder wirken.
+- Achte auch auf deine Körpersprache: *Schultern zurück, Kopf hoch und ein Lächeln auf den Lippen.* deine Ausstrahlung ist der Spiegel deiner inneren Haltung. Zeige der Welt, dass du mit Freude und Zuversicht dabei bist!
 - klar, Smalltalk kann eine Herausforderung sein. Aber sieh es als Chance, neue Menschen kennenzulernen und Brücken zu bauen. *Sei neugierig, stelle Fragen und höre aufmerksam zu.* So signalisierst du Offenheit und Wertschätzung.
 
 Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast jedes Recht, mit Freude und Engagement dabei zu sein. Also strahle diese Zuversicht aus und genieße die bereichernden Momente mit deinem Bonuskind.
-Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
+Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
 
 ![Selbstbewusst als Bonusmama — Stimmungsbild 2](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
 
@@ -76,11 +76,11 @@ Auch wenn du dich gut vorbereitet hast, kann es passieren, dass bei Veranstaltun
 
 - 💎 Sprich vorher mit deinem Partner über deine Sorgen und überlegt gemeinsam, wie ihr euch gegenseitig unterstützen könnt. Ein **geheimer Handschlag**, ein aufmunternder Blick oder ein Codewort können Wunder wirken, wenn die Unsicherheit überhandnimmt.
 - 💎 Tritt Kritik offen und sachlich entgegen. Dein Partner kann dir dabei den Rücken stärken und sich schützend vor dich stellen, wenn die Situation zu eskalieren droht. Gemeinsam könnt ihr freundlich, aber bestimmt eure **Grenzen setzen**.
-- 💎 Fühlt sich eine Situation unangenehm an, zögere nicht, dir **Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur Seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
-- 💎 Nach der Veranstaltung ist es wichtig, dass ihr eure **Erfahrungen und Gefühle** offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
+- 💎 fühlt sich eine Situation unangenehm an, zögere nicht, dir **Hilfe zu holen**. Ein kurzes Zeichen genügt und dein Partner eilt dir zur seite, um dich aus der Situation herauszumanövrieren. Auch eine kleine Auszeit zu zweit kann helfen, durchzuatmen und neue Kraft zu schöpfen.
+- 💎 nach der Veranstaltung ist es wichtig, dass ihr eure **Erfahrungen und Gefühle** offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
 
-Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
+Vertraue darauf, dass dein Partner für dich da ist und an deiner seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 
 ## Zusammenfassung
-Als Bonusmama bei Veranstaltungen selbstbewusst aufzutreten, kann eine große Herausforderung sein. Unsicherheiten, Selbstzweifel und die Angst vor Ablehnung oder Kritik sind völlig normal. Doch mit der richtigen Vorbereitung, einer positiven inneren Haltung und der Unterstützung deines Partners kannst du lernen, souverän und gelassen zu bleiben. Offene Kommunikation, gemeinsame Strategien und ein liebevolles Miteinander sind der Schlüssel, um schwierige Situationen zu meistern und als Team zu wachsen. Vertraue auf deine Stärken, genieße die schönen Momente und sei stolz auf deine wertvolle Rolle als Bonusmama!
+Als Bonusmama bei Veranstaltungen selbstbewusst aufzutreten, kann eine große Herausforderung sein. Unsicherheiten, Selbstzweifel und die Angst vor Ablehnung oder Kritik sind völlig normal. Doch mit der richtigen Vorbereitung, einer positiven inneren Haltung und der Unterstützung deines Partners kannst du lernen, souverän und gelassen zu bleiben. Offene Kommunikation, gemeinsame Strategien und ein liebevolles Miteinander sind der Schlüssel, um schwierige Situationen zu meistern und als Team zu wachsen. Vertraue auf deine stärken, genieße die schönen Momente und sei stolz auf deine wertvolle Rolle als Bonusmama!
 

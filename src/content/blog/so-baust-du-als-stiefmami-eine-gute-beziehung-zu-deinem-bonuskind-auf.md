@@ -11,7 +11,7 @@ image: "/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bon
 imageAlt: "So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf"
 ---
 
-Mal Hand aufs Herz: ich werde die Kinder meines Partners, meine Bonuskinder, nie lieben, als wären es meine eigenen. Doch ich hab sie sehr lieb und mir ist es wichtig eine gute Beziehung zu Ihnen aufzubauen. Ich glaube, dass die Beziehung zwischen [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) und den Bonuskindern von zentraler Bedeutung ist für eine harmonische Patchworkfamilie.
+Mal Hand aufs Herz: ich werde die Kinder meines Partners, meine Bonuskinder, nie lieben, als wären es meine eigenen. Doch ich hab sie sehr lieb und mir ist es wichtig eine gute Beziehung zu ihnen aufzubauen. Ich glaube, dass die Beziehung zwischen [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) und den Bonuskindern von zentraler Bedeutung ist für eine harmonische Patchworkfamilie.
 
 Doch wie kann dieser Beziehungsaufbau gelingen? Lass uns dies mal gemeinsam betrachten.
 
@@ -48,15 +48,15 @@ Der Beziehungsaufbau zu deinem Bonuskind kann mit verschiedenen Stolpersteinen, 
 
 🪨Ein häufiges Problem ist zum Beispiel das Gefühl des Bonuskindes, zwischen den leiblichen Eltern und der Stiefmutter hin- und hergerissen zu sein.
 
-- 💎 Eine mögliche Lösung könnte sein, dem Bonuskind Zeit und Raum zu geben, um sich an die neue Situation zu gewöhnen. Respektiere die bereits bestehende Bindung des Kindes zu seinen leiblichen Eltern und versuche nicht, diese zu ersetzen. Zeige Verständnis für die Loyalitätskonflikte, die das Bonuskind möglicherweise empfindet, und ermutige es, offen über seine Gefühle zu sprechen.
+- 💎 eine mögliche Lösung könnte sein, dem Bonuskind Zeit und Raum zu geben, um sich an die neue Situation zu gewöhnen. Respektiere die bereits bestehende Bindung des Kindes zu seinen leiblichen Eltern und versuche nicht, diese zu ersetzen. Zeige Verständnis für die Loyalitätskonflikte, die das Bonuskind möglicherweise empfindet, und ermutige es, offen über seine Gefühle zu sprechen.
 
 🪨Ein weiteres Problem, dem du als Bonusmama begegnen könntest, ist die Unsicherheit darüber, wie du dich in die bereits bestehende Familie einbringen kannst, ohne dich aufzudrängen oder die Rolle der leiblichen Mutter zu übernehmen.
 
-- 💎 Hier ist es wichtig, dass du dich selbst reflektierst und deine Rolle als Bonusmama akzeptierst. Finde Balance zwischen Fürsorge und Respekt für die leiblichen Eltern und sei ein unterstützendes Mitglied der Patchworkfamilie.
+- 💎 hier ist es wichtig, dass du dich selbst reflektierst und deine Rolle als Bonusmama akzeptierst. Finde Balance zwischen Fürsorge und Respekt für die leiblichen Eltern und sei ein unterstützendes Mitglied der Patchworkfamilie.
 
 🪨Stell dir vor, dein Bonuskind hat Schwierigkeiten, dich als Stiefmutter anzuerkennen und fühlt sich von dir bedrängt. Es widerspricht dir und zeigt dir, dass du ihm/ihr nichts zu sagen hast. Die [Konflikte](/blog/bonuskinder-und-konflikte/) sind alltäglich.
 
-- 💎 Anstatt dich verletzt zurückzuziehen, könntest du versuchen, gemeinsame Aktivitäten zu planen, bei denen das Bonuskind seine Interessen einbringen kann. Sage ihm: “Deine Reaktion verletzt mich. Gleichzeitig mag ich dich sehr gern und möchte Zeit mit dir verbringen. Wie können wir das gestalten?” Zeige Interesse an seinen Hobbys und lade es ein, etwas gemeinsam zu unternehmen. Auf diese Weise kannst du eine Verbindung aufbauen und das Vertrauen des Bonuskindes gewinnen.
+- 💎 anstatt dich verletzt zurückzuziehen, könntest du versuchen, gemeinsame Aktivitäten zu planen, bei denen das Bonuskind seine Interessen einbringen kann. Sage ihm: “Deine Reaktion verletzt mich. Gleichzeitig mag ich dich sehr gern und möchte Zeit mit dir verbringen. Wie können wir das gestalten?” Zeige Interesse an seinen Hobbys und lade es ein, etwas gemeinsam zu unternehmen. Auf diese Weise kannst du eine Verbindung aufbauen und das Vertrauen des Bonuskindes gewinnen.
 
 Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig, doch es gibt immer Wege, diese zu überwinden. Mit Geduld, Einfühlungsvermögen und einer respektvollen Haltung kannst du dazu beitragen, eine liebevolle Beziehung zu deinem Bonuskind aufzubauen.
 
@@ -65,13 +65,13 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
 ![So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf — Stimmungsbild 2](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-3.jpg)
 
-Manchmal ist das Patchworkleben einfach unglaublich anstrengend. Selbstfürsorge und das Setzen von Grenzen sind für Bonusmütter essenziell, um sich selbst treu zu bleiben und dennoch eine enge Bindung zu ihren Stiefkindern aufzubauen.
+Manchmal ist das Patchworkleben einfach unglaublich anstrengend. Selbstfürsorge und das setzen von Grenzen sind für Bonusmütter essenziell, um sich selbst treu zu bleiben und dennoch eine enge Bindung zu ihren Stiefkindern aufzubauen.
 Es ist wichtig, dass du auf*deine eigenen Bedürfnisse* achtest und dir Zeit für dich selbst nimmst. Nur wenn du gut für dich selbst sorgst, kannst du auch für andere da sein.
 
 Eine mögliche Lösung ist es, dir bewusst Auszeiten zu nehmen und Momente der Entspannung und Selbstreflexion zu schaffen. Das kann bedeuten, dass du **regelmäßig**  Zeit für deine eigenen Hobbys und Interessen reservierst oder dich bewusst für kleine Auszeiten im Alltag entscheidest. Indem du dir selbst diese Zeit zugestehst, kannst du dich regenerieren und deine eigene Energiequelle auftanken.
@@ -80,7 +80,7 @@ Gleichzeitig ist es wichtig, dass du deine*eigenen Grenzen* klar kommunizierst u
 
 *Stell dir vor, du merkst, dass du dich zunehmend gestresst fühlst, weil du ständig für alle da sein möchtest und dich selbst vernachlässigst. Anstatt dich weiterhin zu überfordern, könntest du dir bewusst Auszeiten in deinem Alltag schaffen. Das könnte bedeuten, dass du regelmäßig Sport treibst, ein Buch liest oder dich mit Freunden triffst. Indem du dir diese Zeit nimmst, kannst du dich wieder mit dir selbst verbinden und deine eigene Balance finden. Ich plane mir bewusst diese Zeiten ein, wenn die Kinder bei uns sind – weil ich weiß, dass es mir Guttut und mich Erdet.*
 
-Selbstfürsorge und das Setzen von Grenzen sind kein Egoismus, sondern eine Voraussetzung dafür, dass du als Bonusmama eine gesunde und erfüllende Beziehung zu deinen Stiefkindern aufbauen kannst. Indem du auf dich selbst achtest und deine eigenen Bedürfnisse respektierst, kannst du authentisch und liebevoll in der Patchworkfamilie agieren.
+Selbstfürsorge und das setzen von Grenzen sind kein Egoismus, sondern eine Voraussetzung dafür, dass du als Bonusmama eine gesunde und erfüllende Beziehung zu deinen Stiefkindern aufbauen kannst. Indem du auf dich selbst achtest und deine eigenen Bedürfnisse respektierst, kannst du authentisch und liebevoll in der Patchworkfamilie agieren.
 
 
 ## Zusammenfassung

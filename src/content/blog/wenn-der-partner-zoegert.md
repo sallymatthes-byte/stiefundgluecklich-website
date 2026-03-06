@@ -11,15 +11,15 @@ image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 imageAlt: "Zusammenziehen, Heiraten, Kinder"
 ---
 
-Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. "Ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)", "Ich will nicht noch einmal heiraten" oder "Ich will keine Kinder mehr" sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
+Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. "ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)", "ich will nicht noch einmal heiraten" oder "ich will keine Kinder mehr" sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
 
 ## Warum der Partner zögert
 
-Stellt dein Partner dich vor vollendete Tatsachen, indem er kategorisch erklärt: "Ich will nicht noch einmal heiraten!" oder "Kinder kommen für mich nicht mehr infrage!"? Dann bist du als Bonusmama sicherlich erst einmal *schockiert und verletzt*. Doch bevor du vorschnell urteilst, versuche zu verstehen, was hinter seiner Haltung stecken könnte.
+Stellt dein Partner dich vor vollendete Tatsachen, indem er kategorisch erklärt: "ich will nicht noch einmal heiraten!" oder "Kinder kommen für mich nicht mehr infrage!"? Dann bist du als Bonusmama sicherlich erst einmal *schockiert und verletzt*. Doch bevor du vorschnell urteilst, versuche zu verstehen, was hinter seiner Haltung stecken könnte.
 
 Oft sind es **schlechte Erfahrungen aus der Vergangenheit**, die deinen Partner zögern lassen. Vielleicht hat er eine schmerzhafte Scheidung hinter sich und fürchtet, erneut zu scheitern. Oder er hat bereits Kinder und sorgt sich, ob er allen gerecht werden kann.
 
-Auch *Ängste und Unsicherheiten* spielen eine Rolle. Die Vorstellung, wieder in einer festen Partnerschaft zu leben, kann überfordernd sein. Dein Partner fragt sich womöglich: "Schaffe ich es, eine gute Vaterfigur zu sein?" oder "Wird unsere Liebe eine Familiengründung überstehen?".
+Auch *Ängste und Unsicherheiten* spielen eine Rolle. Die Vorstellung, wieder in einer festen Partnerschaft zu leben, kann überfordernd sein. Dein Partner fragt sich womöglich: "Schaffe ich es, eine gute Vaterfigur zu sein?" oder "wird unsere Liebe eine Familiengründung überstehen?".
 
 Nicht zuletzt können **unterschiedliche Bedürfnisse und Lebensvorstellungen** der Grund für sein Zögern sein. Während du dir eine klassische Familienkonstellation wünschst, sehnt er sich vielleicht nach Freiheit und Unabhängigkeit.
 
@@ -29,13 +29,13 @@ All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft 
 
 ## Kommunikation ist der Schlüssel
 
-Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: "Mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte."
+Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: "mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte."
 
 Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: "Was genau sind deine Bedenken?" oder "Wovor hast du Angst?". So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist. **Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden.** Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
 
 - führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
 - Erstellt ein [Visionboard](/blog/visionboard-in-der-patchworkfamilie/)
-- Kauft euch etwas, was euch beiden gehört - einen Neuen Fernseher beispielsweise
+- kauft euch etwas, was euch beiden gehört - einen neuen Fernseher beispielsweise
 
 Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzeptiere, dass Veränderungen Zeit brauchen und dein Partner möglicherweise nicht im selben Tempo voranschreiten möchte wie du. Macht euch bewusst: auch kleine Schritte in die richtige Richtung stärken eure Beziehung und bringen euch einander näher.
 
@@ -47,11 +47,11 @@ Es gibt einen Unterschied zwischen *berechtigter Vorsicht* und dauerhaftem Still
 
 Frag dich ehrlich:
 
-- Gibt es eine Entwicklung — oder stehen wir seit einem Jahr an derselben Stelle?
-- Nimmt mein Partner meine Bedürfnisse ernst, auch wenn er sie nicht sofort erfüllen kann?
+- gibt es eine Entwicklung — oder stehen wir seit einem Jahr an derselben Stelle?
+- nimmt mein Partner meine Bedürfnisse ernst, auch wenn er sie nicht sofort erfüllen kann?
 - Fühle ich mich in dieser Beziehung gesehen und wertgeschätzt?
 
-**Deine Wünsche sind genauso berechtigt wie seine Ängste.** Wenn du dir ein gemeinsames Zuhause, eine Hochzeit oder ein Kind wünschst, dann ist das kein Luxus — das ist dein Lebensentwurf. Und du hast das Recht, ihn zu leben.
+**Deine Wünsche sind genauso berechtigt wie seine Ängste.** wenn du dir ein gemeinsames Zuhause, eine Hochzeit oder ein Kind wünschst, dann ist das kein Luxus — das ist dein Lebensentwurf. Und du hast das Recht, ihn zu leben.
 
 Manchmal braucht es professionelle Unterstützung, um aus der Sackgasse herauszufinden. Eine [Paarberatung](/blog/paartherapie-in-der-patchworkfamilie/) kann ein geschützter Raum sein, in dem ihr beide eure Ängste und Wünsche offen ansprechen könnt — ohne Vorwürfe, mit Struktur.
 

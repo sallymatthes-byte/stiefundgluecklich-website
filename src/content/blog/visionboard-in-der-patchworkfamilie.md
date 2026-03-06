@@ -19,7 +19,7 @@ Lass uns gleich mal einen Blick darauf werfen, welche Vorteile es noch mit sich 
 
 ## So hat das Visionboard unserer Patchworkfamilie geholfen
 
-In unserem Patchworkalltag haben wir oft mit Herausforderungen zu kämpfen, denn Konflikte mit der [Ex-Partnerin](/blog/konflikte-wegen-der-ex-ueberwinden/) und Unstimmigkeiten bei [Erziehung](/blog/unterschiedliche-erziehungsmethoden/)sfragen können überwältigend sein. Es ist leicht, sich in diesen Momenten im Alltagsstress zu verlieren und den Fokus auf das Negative zu legen. Doch gerade deshalb ist es so wichtig, unsere gemeinsame Vision zu entwickeln.
+In unserem Patchworkalltag haben wir oft mit Herausforderungen zu kämpfen, denn Konflikte mit der [Ex-Partnerin](/blog/konflikte-wegen-der-ex-ueberwinden/) und Unstimmigkeiten bei [Erziehung](/blog/unterschiedliche-erziehungsmethoden/)sfragen können überwältigend sein. Es ist leicht, sich in diesen Momenten im Alltagsstress zu verlieren und den Fokus auf das negative zu legen. Doch gerade deshalb ist es so wichtig, unsere gemeinsame Vision zu entwickeln.
 
 Indem wir uns gemeinsam Zeit nehmen, um unsere Vision für unsere Beziehung und Patchworkfamilie zu definieren, schaffen wir eine starke Basis, auf der wir aufbauen können. Denn wenn wir uns vorstellen, wie wir als Familie harmonisch zusammenleben, Konflikte friedlich lösen und unsere Kinder unterstützen, entsteht eine emotionale Verbindung zu unseren Zielen. Diese Verbindung gibt uns die Motivation, an schwierigen Tagen nicht aufzugeben und an unserer Harmonie zu arbeiten.
 

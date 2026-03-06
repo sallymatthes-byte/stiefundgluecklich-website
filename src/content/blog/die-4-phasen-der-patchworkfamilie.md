@@ -34,7 +34,7 @@ Und schließlich, in der vierten Phase, dem “**
 
 Performing**“, arbeitet die Patchworkfamilie effektiv und harmonisch zusammen. Die Rollen und Aufgaben sind klar verteilt und es gibt eine gute Kommunikation und Zusammenarbeit.
 
-Doch sobald sich eine Konstellation verändert, beginnt der Kreislauf von neuem. Veränderungen können ein weiteres Kind sein, ein Umzug, die Änderung des Betreuungsmodells oder ein Verlust. Dann beginnt der Prozess von Neuem und alle Phasen werden erneut durchlaufen.
+Doch sobald sich eine Konstellation verändert, beginnt der Kreislauf von neuem. Veränderungen können ein weiteres Kind sein, ein Umzug, die Änderung des Betreuungsmodells oder ein Verlust. Dann beginnt der Prozess von neuem und alle Phasen werden erneut durchlaufen.
 
 Wie lange jede einzelne der 4 Phasen andauert, ist ganz unterschiedlich. In einigen Patchworkfamilien werden diese Phasen schnell durchlaufen, manchmal dauert es ein wenig länger oder die Intensität ist anders. Das kommt -wie immer- ganz auf die Familie darauf an.
 
@@ -85,7 +85,7 @@ Die Phase des “Normings” ist entscheidend für den **Aufbau einer stabilen u
 
 ## Phase 4 – Das Performing
 
-Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 In dieser Phase haben die Familienmitglieder ihre Rollen gefunden und**arbeiten erfolgreich zusammen, **um gemeinsame Ziele zu erreichen.
+Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 in dieser Phase haben die Familienmitglieder ihre Rollen gefunden und**arbeiten erfolgreich zusammen, **um gemeinsame Ziele zu erreichen.
 
 In dieser Phase können wir als Bonusmama unsere Unterstützung und Wertschätzung für die Leistungen und Bemühungen aller Familienmitglieder zum Ausdruck bringen. Indem wir ihnen zeigen, dass wir ihre Beiträge anerkennen und schätzen, stärken wir den Zusammenhalt und motivieren sie weiterhin, ihr Bestes zu geben.
 
@@ -97,6 +97,6 @@ Die Phase des “Performings” ist ein Erfolg für die Patchworkfamilie und zei
 
 
 ## Zusammenfassung
-Diese vier Phasen der Patchworkfamilien bilden den Prozess der Entwicklung ab. Jede Phase bringt ihre eigenen Herausforderungen und Chancen mit sich. Und jede Phase baut aufeinander auf – wir müssen sie alle Durchlaufen, um das Ziel – einer Harmonischen Patchworkfamilie zu Erreichen.
+Diese vier Phasen der Patchworkfamilien bilden den Prozess der Entwicklung ab. Jede Phase bringt ihre eigenen Herausforderungen und Chancen mit sich. Und jede Phase baut aufeinander auf – wir müssen sie alle Durchlaufen, um das Ziel – einer harmonischen Patchworkfamilie zu erreichen.
 
 

@@ -13,19 +13,19 @@ imageAlt: "Gemeinsame Wohnung gestalten"
 
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
 Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist immer noch da. 😅
-Er ist damals also sofort bei mir eingezogen – in meine 35qm Große Einzimmerwohnung. Die Frage, wer Wann wo bei wem Einzieht, stellte sich für unsere Patchworkfamilie Aufgrund unserer Entfernung daher Erst einmal nicht.
-Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb Also nur die Option, dass er zu mir kommt. Und ob wir Langfristig Zusammenbleiben wollten, mussten wir auch Erst einmal Herausfinden. von Gemeinsamer Wohnung war da Also noch nicht die Rede.
+Er ist damals also sofort bei mir eingezogen – in meine 35qm große Einzimmerwohnung. Die Frage, wer wann wo bei wem Einzieht, stellte sich für unsere Patchworkfamilie aufgrund unserer Entfernung daher erst einmal nicht.
+Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb also nur die Option, dass er zu mir kommt. Und ob wir Langfristig Zusammenbleiben wollten, mussten wir auch erst einmal Herausfinden. Von gemeinsamer Wohnung war da also noch nicht die Rede.
 
 Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.
 
 ## Wann sollte man zusammenziehen?
 
-Du hast dich verliebt und möchtest mit deinem Partner eine gemeinsame Zukunft aufbauen. Doch wie steht es um das Zusammenziehen in einer Patchworkfamilie? Wann ist der richtige Zeitpunkt, um den Schritt des Zusammenwohnens zu wagen? *Es gibt kein allgemeingültiges “Richtig” oder “Falsch”* in dieser Frage, denn jeder Fall ist individuell.
+Du hast dich verliebt und möchtest mit deinem Partner eine gemeinsame Zukunft aufbauen. Doch wie steht es um das Zusammenziehen in einer Patchworkfamilie? Wann ist der richtige Zeitpunkt, um den Schritt des Zusammenwohnens zu wagen? *Es gibt kein allgemeingültiges “richtig” oder “falsch”* in dieser Frage, denn jeder Fall ist individuell.
 Dennoch gibt es einige Faktoren, die eine Rolle spielen können, um eine fundierte Entscheidung zu treffen.
 Es geht darum, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine somit stabile Basis für ein harmonisches Miteinander zu schaffen.
 
-Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem Wir die Pandemie in der Kleinen Wohnung Gut Überstanden hatten, war uns klar: wir können zusammen leben und wir möchten auch seinen Töchtern ein Zu Hause in Deutschland Bieten.
+Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem wir die Pandemie in der kleinen Wohnung gut Überstanden hatten, war uns klar: wir können zusammen leben und wir möchten auch seinen Töchtern ein zu Hause in Deutschland Bieten.
 
 > “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
 
@@ -36,11 +36,11 @@ Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzub
 ![Gemeinsame Wohnung gestalten — Stimmungsbild 1](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
 
 - Was wünscht sich jeder genau von euch?
-- Wie dürfen Rituale aussehen?
-- Wo soll die Wohnung sein?
-- Wie viel Platz sollte zur Verfügung stehen?
+- wie dürfen Rituale aussehen?
+- wo soll die Wohnung sein?
+- wie viel Platz sollte zur Verfügung stehen?
 - brauchen die Bonuskinder jeweils ihr eigenes Kinderzimmer?
-- Wie viel Distanz zum Arbeitsort ist annehmbar?
+- wie viel Distanz zum Arbeitsort ist annehmbar?
 - Was darf auf keinen Fall fehlen?
 
 Letztendlich geht es darum, ein harmonisches Miteinander zu schaffen und allen Familienmitgliedern ein Gefühl von Zugehörigkeit und Sicherheit zu geben.
@@ -57,9 +57,9 @@ Unsere Kinder wollten zum Beispiel Betten, die sie zusammenschieben, aber auch t
 
 Falls einer von euch in die bestehende Wohnung des anderen zieht, solltet ihr euch auch darüber Gedanken machen, wie diese Wohnung gestaltet werden kann, damit sie ein*Wohlfühlort für alle* wird. Möglicherweise möchtest du nicht all deine Möbel aufgeben, eine neue [Wandfarbe](https://zuhausewohnen.de/einrichtungstipps/farben-special/artikel/wohnen-mit-farben-ratgeber-0) bringt deinen Stil mit rein und Bilder von dir und deinen Erinnerungen lassen dich zu Hause fühlen.
 
-Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?! **3. Offene Kommunikation und Ängste ansprechen**  Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
+Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?! **3. Offene Kommunikation und Ängste ansprechen**  eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
 
-Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – Also Besorgten wir Kisten für die Spielsachen und jeden Morgen heißt es bei uns: Gemeinsames Aufräumen!
+Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – also Besorgten wir Kisten für die Spielsachen und jeden morgen heißt es bei uns: Gemeinsames aufräumen!
 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 

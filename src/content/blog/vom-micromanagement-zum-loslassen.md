@@ -14,19 +14,19 @@ imageAlt: "Vom Micromanagement zum Loslassen"
 
 Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen im Klub der Micromanagenden [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s!
 
-Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern die Ganze Familie.
+Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern die ganze Familie.
 
 Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanagement so problematisch ist und wie du lernen kannst, loszulassen.
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Was ist Micromanagement?
 
-Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwachen und kontrollieren zu wollen – wie ein Puppenspieler, der Jede Bewegung seiner Figuren Steuern möchte. Vielleicht Erkennst du dich in Folgenden Situationen wieder:
+Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwachen und kontrollieren zu wollen – wie ein Puppenspieler, der jede Bewegung seiner Figuren Steuern möchte. Vielleicht erkennst du dich in Folgenden Situationen wieder:
 
-- Du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
-- Du greifst ein, wenn dein Partner mit den Kindern spielt, weil du denkst, es geht nicht „richtig“.
-- Du willst jeden Ausflug oder jedes Familienessen bis ins Detail planen, um Chaos zu vermeiden.
+- du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
+- du greifst ein, wenn dein Partner mit den Kindern spielt, weil du denkst, es geht nicht „richtig“.
+- du willst jeden Ausflug oder jedes Familienessen bis ins Detail planen, um Chaos zu vermeiden.
 
 Das Problem? Deine guten Absichten können dazu führen, dass sich dein Umfeld kontrolliert und eingeengt fühlt.
 
@@ -60,7 +60,7 @@ Vielleicht hast du Angst, dass ohne dich alles im Chaos versinkt. Oder du willst
 
 All diese Gründe sind nachvollziehbar. Doch sie führen dazu, dass du dich selbst überforderst und die Beziehungen in deiner Familie belastest.
 
-Mein persönlicher Wendepunkt kam, als meine Stieftochter zu mir sagte: *„Warum lässt du nicht einfach Papa machen?“* Wir saßen gemeinsam im Wohnzimmer, ich hatte gerade wieder eine Diskussion darüber angefangen, wie bestimmte Dinge in unserer Familie laufen sollten. Ich spürte die Spannung in meinem Körper, die ich oft hatte, wenn ich dachte, ich müsste alles in die richtigen Bahnen lenken. Doch dieser eine Satz ließ mich innehalten. In ihrer Stimme lag keine Wut, sondern eine ehrliche, kindliche Verwunderung. Sie wollte mich nicht angreifen, sondern stellte eine Frage, die mich tief traf. Plötzlich sah ich mein Verhalten aus einer anderen Perspektive und mir wurde bewusst, dass mein Kontrollverhalten nicht nur mich selbst unter Druck setzte, sondern auch meine Familie belastete. **Dieser Satz war ein Augenöffner.** Ich erkannte, dass mein Kontrollverhalten nicht nur mir schadete, sondern auch meiner Familie. Das war der Moment, in dem ich begann, etwas zu ändern.
+Mein persönlicher Wendepunkt kam, als meine Stieftochter zu mir sagte: *„warum lässt du nicht einfach Papa machen?“* wir saßen gemeinsam im Wohnzimmer, ich hatte gerade wieder eine Diskussion darüber angefangen, wie bestimmte Dinge in unserer Familie laufen sollten. Ich spürte die Spannung in meinem Körper, die ich oft hatte, wenn ich dachte, ich müsste alles in die richtigen Bahnen lenken. Doch dieser eine Satz ließ mich innehalten. In ihrer Stimme lag keine Wut, sondern eine ehrliche, kindliche Verwunderung. Sie wollte mich nicht angreifen, sondern stellte eine Frage, die mich tief traf. Plötzlich sah ich mein Verhalten aus einer anderen Perspektive und mir wurde bewusst, dass mein Kontrollverhalten nicht nur mich selbst unter Druck setzte, sondern auch meine Familie belastete. **Dieser Satz war ein Augenöffner.** ich erkannte, dass mein Kontrollverhalten nicht nur mir schadete, sondern auch meiner Familie. Das war der Moment, in dem ich begann, etwas zu ändern.
 
 ![Vom Micromanagement zum Loslassen — Stimmungsbild 2](/images/blog/vom-micromanagement-zum-loslassen-3.jpg)
 
@@ -73,11 +73,11 @@ Nimm dir Zeit für eine ehrliche Selbstreflexion. Frag dich: Warum habe ich das 
 
 ### Schritt 2: Veränderung – Lerne loszulassen und zu vertrauen
 
-Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – wichtig ist, dass du Loslässt.
+Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. Einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – wichtig ist, dass du Loslässt.
 
 ### Schritt 3: Kommunikation – Sprich über Vertrauen und Aufgabenteilung
 
-Besprich mit deinem [Partner](/blog/das-vier-ohren-modell/), wie ihr Verantwortung besser aufteilen könnt. Kommuniziere auch mit deinen Stiefkindern, dass du ihnen mehr zutraust. Frag sie: *„Wie würdet ihr das lösen?“* So fühlen sie sich ernst genommen und lernen, eigenständig zu denken.
+Besprich mit deinem [Partner](/blog/das-vier-ohren-modell/), wie ihr Verantwortung besser aufteilen könnt. Kommuniziere auch mit deinen Stiefkindern, dass du ihnen mehr zutraust. Frag sie: *„wie würdet ihr das lösen?“* So fühlen sie sich ernst genommen und lernen, eigenständig zu denken.
 
 ## Die Transformation
 

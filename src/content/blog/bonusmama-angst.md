@@ -13,21 +13,21 @@ imageAlt: "Bonusmama und Angst"
 
 ## “Ich bin hier – Aber Ich Gehöre Nicht Ganz Dazu.”
 
-Hast du diesen Satz schon einmal gedacht? Oder gespürt – ganz leise, irgendwo tief in dir? Als Bonusmama ist das kein seltener Gedanke. Viele Frauen, die sich liebevoll in eine Patchworkfamilie einbringen, erleben ihn – diesen inneren Zwiespalt zwischen Nähe und Fremdheit.
+Hast du diesen Satz schon einmal gedacht? Oder gespürt – ganz leise, irgendwo tief in dir? Als Bonusmama ist das kein seltener Gedanke. Viele Frauen, die sich liebevoll in eine Patchworkfamilie einbringen, erleben ihn – diesen inneren Zwiespalt zwischen nähe und Fremdheit.
 
 Vielleicht ist da diese ständige Anspannung. Kein offener Konflikt, aber auch keine Selbstverständlichkeit. Du willst dazugehören, du gibst dein Bestes – doch gleichzeitig hast du das Gefühl, du „stehst daneben“. Und mit dieser Unsicherheit kommt ein weiteres Gefühl: Angst.
 
 Nicht die laute Angst, wie wir sie aus Gefahrensituationen kennen. Sondern die stille, unterschwellige Angst, die dich begleitet wie ein Schatten. Angst davor, nicht genug zu sein. Angst, irgendwann ausgeschlossen zu werden. Angst, dass all das, was du gibst, doch nicht reicht.
 
-Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: Sie ist kein Zeichen von Schwäche. Sie ist Ausdruck deines Wunsches nach Verbindung – und eines Nervensystems, das versucht, dich zu schützen.
+Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: Sie ist kein Zeichen von schwäche. Sie ist Ausdruck deines Wunsches nach Verbindung – und eines Nervensystems, das versucht, dich zu schützen.
 
 In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder sicher und stabil zu fühlen.
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Mein Aha-Moment als Bonusmama: Warum Angst so tief sitzt
 
-Ich erinnere mich noch gut an den Moment, als ich begann, meine innere Unruhe nicht mehr als persönliche Schwäche zu sehen. Ich hatte mich oft gefragt, warum mich scheinbar kleine Situationen so tief trafen. Warum ich mich an manchen Tagen wie auf rohen Eiern bewegte – wachsam, still, angepasst. Ich dachte, ich sei zu sensibel, zu reflektiert, zu „weich“.
+Ich erinnere mich noch gut an den Moment, als ich begann, meine innere Unruhe nicht mehr als persönliche schwäche zu sehen. Ich hatte mich oft gefragt, warum mich scheinbar kleine Situationen so tief trafen. Warum ich mich an manchen Tagen wie auf rohen Eiern bewegte – wachsam, still, angepasst. Ich dachte, ich sei zu sensibel, zu reflektiert, zu „weich“.
 
 Und dann stieß ich auf diesen Satz: „Being a stepmom is a fundamentally anxiety-provoking proposition.“
 
@@ -37,21 +37,21 @@ In der Evolution bedeutete Zugehörigkeit Sicherheit. Wer zur Gruppe gehörte, w
 
 Und genau das ist in vielen Patchworkkonstellationen der Fall: unausgesprochene Rollen, unklare Grenzen, verschiedene Loyalitäten. Kein Wunder also, dass dein System ständig auf „Scannen“ eingestellt ist. Und kein Wunder, dass du dich dadurch erschöpft, überreizt oder wie auf einem Prüfstand fühlst.
 
-Aber: du bist nicht allein. Und vor allem – du bist nicht falsch. Du bist nicht „zu Sensibel“. Du bist Verbunden mit deinem Tiefen Bedürfnis nach Sicherheit und Beziehung. Und genau da setzen wir an.
+Aber: du bist nicht allein. Und vor allem – du bist nicht falsch. Du bist nicht „zu Sensibel“. Du bist Verbunden mit deinem tiefen Bedürfnis nach Sicherheit und Beziehung. Und genau da setzen wir an.
 
 ## Warum so viele Bonusmamas Angst empfinden – und wie sie sich zeigt
 
 Angst ist kein Fehler in deinem System. Sie ist ein Signal. Und sie wird besonders laut, wenn unsere innere Sicherheit ins Wanken gerät. Patchworkfamilien sind hochkomplexe soziale Konstrukte – mit vielen ungeschriebenen Regeln, alten Wunden und sensiblen Beziehungslinien.
 
-Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/blog/ab-wann-ist-man-stiefmutter/) Bietet. Du sollst „familie“ Mitgestalten, bist aber oft Emotional wie Rechtlich nicht Abgesichert.
+Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/blog/ab-wann-ist-man-stiefmutter/) Bietet. Du sollst „familie“ Mitgestalten, bist aber oft emotional wie Rechtlich nicht Abgesichert.
 
-Genau in diesem Spannungsfeld entsteht Angst – und sie Äußert sich auf sehr Unterschiedliche Weise. Manche Bonusmamas beschreiben eine Dauerhafte Grundanspannung. Andere sagen: „ich Funktioniere – aber ich kann nie ganz Loslassen.“
+Genau in diesem Spannungsfeld entsteht Angst – und sie Äußert sich auf sehr Unterschiedliche Weise. Manche Bonusmamas beschreiben eine Dauerhafte Grundanspannung. Andere sagen: „ich Funktioniere – aber ich kann nie ganz loslassen.“
 
-Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist.** Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
+Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist.** es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
 
-Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durchlässig. Vielleicht hast du schon gemerkt, wie schnell du in die Überforderung rutschst – obwohl du nach Außen „alles Im Griff“ Hast.
+Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durchlässig. Vielleicht hast du schon gemerkt, wie schnell du in die Überforderung rutschst – obwohl du nach außen „alles Im Griff“ hast.
 
-Wichtig zu wissen:**Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** Deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
+Wichtig zu wissen:**Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
 
 ![Bonusmama und Angst — Stimmungsbild 1](/images/blog/bonusmama-angst-2.jpg)
 
@@ -95,16 +95,16 @@ Bevor du etwas verändern kannst, musst du verstehen, was in dir überhaupt pass
 
 Stell dir dabei nicht die Frage, ob deine Reaktion „logisch“ ist – sondern, was sie dir sagen will. Hinter jedem emotionalen Impuls steckt ein Bedürfnis. Und Angst entsteht oft dort, wo ein Grundbedürfnis – wie Sicherheit, Zugehörigkeit oder Selbstwert – bedroht scheint.
 
-> Schreibimpuls: „In welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?“
+> Schreibimpuls: „in welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?“
 
 ### 2. Wandel einleiten – Finde sichere Inseln im Alltag
 
-Sicherheit beginnt nicht im Außen – sondern in deiner Wahrnehmung. Deshalb ist es so wichtig, dass du bewusst nach Momenten suchst, in denen du dich sicher, gehalten oder gesehen fühlst. Das kann ein Gespräch mit einer Freundin sein, ein Spaziergang, eine liebevolle Berührung deines Partners oder ein Moment ganz für dich.
+Sicherheit beginnt nicht im außen – sondern in deiner Wahrnehmung. Deshalb ist es so wichtig, dass du bewusst nach Momenten suchst, in denen du dich sicher, gehalten oder gesehen fühlst. Das kann ein Gespräch mit einer Freundin sein, ein Spaziergang, eine liebevolle Berührung deines Partners oder ein Moment ganz für dich.
 
 
 ![Bonusmama und Angst — Stimmungsbild 2](/images/blog/bonusmama-angst-3.jpg)
 
-Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfter du sie bewusst wahrnimmst, desto mehr baust du eine innere Stabilität auf – auch wenn das Außen chaotisch bleibt.
+Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfter du sie bewusst wahrnimmst, desto mehr baust du eine innere Stabilität auf – auch wenn das außen chaotisch bleibt.
 
 > Frage an dich: „Was kann ich heute tun, damit ich mich innerlich etwas sicherer fühle?“
 
@@ -112,7 +112,7 @@ Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfte
 
 Einer der größten Fehler, den viele Bonusmamas machen: Sie sprechen über die Kinder oder die Ex – aber nicht über sich selbst. Doch gerade in herausfordernden Familiensystemen braucht es den Mut, ehrlich aus dem eigenen Innenleben zu berichten.
 
-Das kann so klingen:💬 „Ich merke, dass ich in bestimmten Momenten innerlich angespannt bin – nicht, weil jemand etwas falsch macht, sondern weil ich mich nicht ganz zugehörig fühle.“
+Das kann so klingen:💬 „ich merke, dass ich in bestimmten Momenten innerlich angespannt bin – nicht, weil jemand etwas falsch macht, sondern weil ich mich nicht ganz zugehörig fühle.“
 
 Solche Sätze schaffen Verbindung statt Abwehr. Dein Partner versteht dich besser – und du verlierst nicht dich selbst in der Rolle der „still Funktionierenden“.
 
@@ -131,8 +131,8 @@ Wenn du spürst, dass diese Themen dich immer wieder beschäftigen – wenn dein
 
 …weil du denkst, du solltest das alleine hinkriegen. Oder weil du dir nicht sicher bist, ob du „wirklich ein Coaching brauchst“. Aber was, wenn genau dieses Gespräch der Anfang von mehr innerer Ruhe ist?
 
-> Mehr Gelassenheit.
-> Mehr Selbstsicherheit.
-> Mehr Verbindung – zu dir, deinem Partner, deiner Familie.
+> mehr Gelassenheit.
+> mehr Selbstsicherheit.
+> mehr Verbindung – zu dir, deinem Partner, deiner Familie.
 
 Du musst nicht warten, bis es „ganz schlimm“ wird. Du darfst jetzt losgehen – für dich.

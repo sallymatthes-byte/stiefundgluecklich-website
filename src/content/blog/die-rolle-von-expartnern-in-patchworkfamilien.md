@@ -19,17 +19,17 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
-- **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
-- Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
-- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
-- Sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
-- Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
-- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
-- Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
-- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
-- Es gilt, neue [Traditionen und Rituale](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) zu entwickeln, die alle einbeziehen.
+- **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+- die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
+- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
+- sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
+- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
+- es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
+- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- es gilt, neue [Traditionen und Rituale](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) zu entwickeln, die alle einbeziehen.
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 - Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil, was berücksichtigt werden muss.
 
@@ -41,19 +41,19 @@ Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
 Wenn die Mutter noch lebt, beeinflusst sie viele Aspekte eures Familienalltags. Bei der Planung von Urlaub und Freizeit ist sie zu berücksichtigen, oft teilt sie sich das Sorgerecht und muss sich mit deinem Partner über Erziehungsfragen abstimmen. Die Kinder wechseln zwischen den Haushalten hin und her und bringen die Stimmungen und Erfahrungen von einem Ort zum anderen mit.
 
-Selbst wenn die Mutter verstorben ist, hat sie oft eine große Präsenz in den Gedanken und Gefühlen der Kinder. Sie bleibt ein wichtiger Teil ihrer Identität und Loyalität. Gerade wenn die Kinder nur wenige Erinnerungen oder Anhaltspunkte haben, kann die Bindung besonders intensiv sein. Sie halten an jedem Schnipsel fest, den sie von ihrer Mutter haben.
+Selbst wenn die Mutter verstorben ist, hat sie oft eine große Präsenz in den Gedanken und gefühlen der Kinder. Sie bleibt ein wichtiger Teil ihrer Identität und Loyalität. Gerade wenn die Kinder nur wenige Erinnerungen oder Anhaltspunkte haben, kann die Bindung besonders intensiv sein. Sie halten an jedem Schnipsel fest, den sie von ihrer Mutter haben.
 
-*Als Bonusmama kannst du leicht das Gefühl bekommen, mit einer unsichtbaren Dritten zu konkurrieren.* Die Erwartung, die Kinder sollten ihre Mutter einfach “vergessen” oder “hinter sich lassen”, ist wenig realistisch und kann zu Spannungen führen. Stattdessen gilt es zu akzeptieren, dass die Beziehung zur Mutter für die Kinder unveränderlich wichtig ist – unabhängig davon, wie du selbst zu dieser Frau stehst.
+*Als Bonusmama kannst du leicht das Gefühl bekommen, mit einer unsichtbaren Dritten zu konkurrieren.* die Erwartung, die Kinder sollten ihre Mutter einfach “vergessen” oder “hinter sich lassen”, ist wenig realistisch und kann zu Spannungen führen. Stattdessen gilt es zu akzeptieren, dass die Beziehung zur Mutter für die Kinder unveränderlich wichtig ist – unabhängig davon, wie du selbst zu dieser Frau stehst.
 
-Das bedeutet nicht, dass du die Vergangenheit beschönigen oder problematisches Verhalten entschuldigen musst. Aber es bedeutet, den Kindern den Raum zu geben, ihre Gefühle für beide Elternteile zu haben und auszudrücken. Es bedeutet, die Mutter als Teil der erweiterten Familienkonstellation zu respektieren – mit allen Herausforderungen, die Das Mit sich bringt.
+Das bedeutet nicht, dass du die Vergangenheit beschönigen oder problematisches Verhalten entschuldigen musst. Aber es bedeutet, den Kindern den Raum zu geben, ihre Gefühle für beide Elternteile zu haben und auszudrücken. Es bedeutet, die Mutter als Teil der erweiterten Familienkonstellation zu respektieren – mit allen Herausforderungen, die das mit sich bringt.
 
-Ja, es ist nicht immer einfach. Aber denk daran: deine Akzeptanz und dein Verständnis sind ein unschätzbares Geschenk für die Kinder – und Letztlich auch für deinen Partner und eure Beziehung. Du musst die Mutter nicht lieben, aber du kannst sie als Unveränderlichen Teil eurer Familiengeschichte Anerkennen. Und das ist ein Wichtiger Schritt in Richtung eines Harmonischen Patchwork-familienlebens.
+Ja, es ist nicht immer einfach. Aber denk daran: deine Akzeptanz und dein Verständnis sind ein unschätzbares Geschenk für die Kinder – und Letztlich auch für deinen Partner und eure Beziehung. Du musst die Mutter nicht lieben, aber du kannst sie als Unveränderlichen Teil eurer Familiengeschichte anerkennen. Und das ist ein wichtiger Schritt in Richtung eines harmonischen Patchwork-familienlebens.
 
 > „Wer Konflikten aus dem weg geht, kommt darin um.“ – Anke Maggauer-kirsche
 
 ## Wie Konflikte den Bonuskindern schaden
 
-*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen.** Selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale Funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- Und Hergerissen zwischen Zwei Menschen, die Sie lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder Reagieren mit Rückzug, Andere mit Aggression oder Psychosomatischen Beschwerden.
+*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen.** selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- und Hergerissen zwischen Zwei Menschen, die sie lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder reagieren mit Rückzug, andere mit Aggression oder Psychosomatischen Beschwerden.
 
 *Je höher das Konfliktlevel, desto gravierender sind die Folgen.* Kinder, die ständigem Streit ausgesetzt sind, haben ein erhöhtes Risiko für Angststörungen, Depressionen, Verhaltensauffälligkeiten und Probleme in sozialen Beziehungen. Die negativen Effekte können bis ins Erwachsenenalter reichen.
 
@@ -66,7 +66,7 @@ Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Ause
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -76,27 +76,27 @@ Lass uns ehrlich sein: Nicht immer ist es möglich, eng und harmonisch mit der E
 
 Beim Parallel Parenting geht es darum:
 
-- Die Elternschaft so zu organisieren, dass beide Seiten ihre Verantwortung wahrnehmen können, ohne ständig miteinander in Kontakt zu sein
+- die Elternschaft so zu organisieren, dass beide seiten ihre Verantwortung wahrnehmen können, ohne ständig miteinander in Kontakt zu sein
 - Klare Regeln und Zuständigkeiten festzulegen, statt gemeinsam Entscheidungen zu treffen
 - sich darauf zu konzentrieren, den eigenen Teil gutzumachen, ohne sich gegenseitig hineinzureden
 
 *Parallel Parenting bedeutet auch:*
 
-- Die Kommunikation auf das Nötigste zu beschränken und schriftlich, sachlich und lösungsorientiert zu gestalten
-- Persönliche Treffen oder Telefonate zu vermeiden, um das Konfliktpotential gering zu halten
+- die Kommunikation auf das nötigste zu beschränken und schriftlich, sachlich und lösungsorientiert zu gestalten
+- Persönliche treffen oder Telefonate zu vermeiden, um das Konfliktpotential gering zu halten
 - Übergaben der Kinder neutral und mit minimalem Kontakt stattfinden zu lassen
 
 *Und hier kommst du als Bonusmama ins Spiel:*
 
-- Indem du deinen Partner dabei unterstützt, seinen Teil der Elternschaft verlässlich und liebevoll auszufüllen, leistest du einen wichtigen Beitrag
-- Du kannst den Kindern Halt geben, ihnen zuhören, auf ihre Bedürfnisse eingehen
-- Du kannst in eurem Haushalt eine Atmosphäre von Wärme und Geborgenheit schaffen
+- indem du deinen Partner dabei unterstützt, seinen Teil der Elternschaft verlässlich und liebevoll auszufüllen, leistest du einen wichtigen Beitrag
+- du kannst den Kindern halt geben, ihnen zuhören, auf ihre Bedürfnisse eingehen
+- du kannst in eurem Haushalt eine Atmosphäre von Wärme und Geborgenheit schaffen
 
 *Parallel Parenting entbindet dich nicht von der Verantwortung:*
 
-- Respektvoll über die Mutter zu sprechen und ihre Rolle zu würdigen
-- Aber es kann den Druck nehmen, eine enge, konfliktfreie Beziehung zu ihr aufbauen zu müssen
-- Es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das ist eine Menge
+- respektvoll über die Mutter zu sprechen und ihre Rolle zu würdigen
+- aber es kann den Druck nehmen, eine enge, konfliktfreie Beziehung zu ihr aufbauen zu müssen
+- es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das ist eine Menge
 
 Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein leben lang dankbar sein werden.
 

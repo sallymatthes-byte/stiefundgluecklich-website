@@ -11,26 +11,26 @@ image: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 imageAlt: "Ein offener Liebesbrief einer Bonusmama"
 ---
 
-Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
+Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner seite richten. Und dir als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
 
 ## Lieber Stéphane,
 
 erinnerst du dich noch an unseren Anfang? Damals, an diesem zauberhaften Strand in Thailand, als ich meinen Tauchschein machen wollte und außerdem die Liebe meines Lebens fand? Als ich dich sah, war es, als würde uns ein Band magisch zueinander hinziehen. Trotz der Sprachbarriere spürte ich sofort eine tiefe Verbindung zu dir.
 
-Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – meinen Tauchlehrer zu mir nach Hause Einzuladen – das konnte doch Keine Zukunft haben?
+Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – meinen Tauchlehrer zu mir nach Hause Einzuladen – das konnte doch keine Zukunft haben?
 
-Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen, die du über alles liebst. Als ausgebildete Pädagogin dachte ich, dass es kein Problem sein sollte, doch schnell merkte ich, dass es anders war als die Arbeit mit Kindern. Weißt du noch, wie ich versuchte, den Mädchen ein leckeres deutsches Essen zu kochen, aber sie es kaum anrührten? Oder wie ich beim ersten gemeinsamen Wochenende völlig überfordert war mit den Streitereien und dem Wechselbad der Gefühle?
+Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen, die du über alles liebst. Als ausgebildete Pädagogin dachte ich, dass es kein Problem sein sollte, doch schnell merkte ich, dass es anders war als die Arbeit mit Kindern. Weißt du noch, wie ich versuchte, den Mädchen ein leckeres deutsches essen zu kochen, aber sie es kaum anrührten? Oder wie ich beim ersten gemeinsamen Wochenende völlig überfordert war mit den Streitereien und dem Wechselbad der Gefühle?
 
-Wir sprachen nicht dieselbe Sprache und [Eifersucht](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) war auf beiden Seiten vorhanden. Ich wollte dich als frisch Verliebte nicht teilen, die Kinder ihren Papa, den sie mittlerweile so selten sahen, auch nicht. Ich erinnere mich noch genau an die Situation, als deine Jüngste immer sofort zwischen uns sprang, wenn wir uns küssten. Ich war wütend und wusste nicht, wie ich damit umgehen sollte, nicht die Nummer eins zu sein.
+Wir sprachen nicht dieselbe Sprache und [Eifersucht](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) war auf beiden seiten vorhanden. Ich wollte dich als frisch Verliebte nicht teilen, die Kinder ihren Papa, den sie mittlerweile so selten sahen, auch nicht. Ich erinnere mich noch genau an die Situation, als deine Jüngste immer sofort zwischen uns sprang, wenn wir uns küssten. Ich war wütend und wusste nicht, wie ich damit umgehen sollte, nicht die Nummer eins zu sein.
 
 
 ![Ein offener Liebesbrief einer Bonusmama — Stimmungsbild 1](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
 
-Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellation zu finden. Wie reagierte die Kindsmutter auf mich? Würde sie mich als Konkurrenz sehen? Wo waren meine Grenzen? Und vor allem: ich wollte doch nie Kinder – und jetzt gab es da plötzlich Zwei in meinem leben, die Nicht meine waren. Wie Passte das Zu meinem Freiheitsliebenden selbst?
+Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellation zu finden. Wie reagierte die Kindsmutter auf mich? Würde sie mich als Konkurrenz sehen? Wo waren meine Grenzen? Und vor allem: ich wollte doch nie Kinder – und jetzt gab es da plötzlich Zwei in meinem leben, die nicht meine waren. Wie passte das zu meinem Freiheitsliebenden selbst?
 
-Kommentare wie “Die Kinder sind doch so süß, wie kann es denn anstrengend sein?” oder “Du als Pädagogin solltest doch damit gut zurechtkommen!” setzten mich zusätzlich unter Druck. Wenn die Mädchen mich ablehnten oder sich mir gegenüber distanziert verhielten, fühlte ich mich hilflos und fragte mich, was ich falsch machte. Ich fühlte mich allein mit all diesen Fragen und schämte mich. Manchmal, wenn die Mädchen bei uns waren und ich erschöpft von den Herausforderungen des Alltags war, sehnte ich mich nach einem ruhigen Abend nur mit dir. Dann plagte mich das schlechte Gewissen.
+Kommentare wie “die Kinder sind doch so süß, wie kann es denn anstrengend sein?” oder “du als Pädagogin solltest doch damit gut zurechtkommen!” setzten mich zusätzlich unter Druck. Wenn die Mädchen mich ablehnten oder sich mir gegenüber distanziert verhielten, fühlte ich mich hilflos und fragte mich, was ich falsch machte. Ich fühlte mich allein mit all diesen Fragen und schämte mich. Manchmal, wenn die Mädchen bei uns waren und ich erschöpft von den Herausforderungen des Alltags war, sehnte ich mich nach einem ruhigen Abend nur mit dir. Dann plagte mich das schlechte gewissen.
 
-Die ersten Jahre waren geprägt von viel Frust, Zweifeln und Tränen. Nicht nur einmal fragten wir uns: “Ist es das wirklich alles wert?”
+Die ersten Jahre waren geprägt von viel Frust, zweifeln und Tränen. Nicht nur einmal fragten wir uns: “Ist es das wirklich alles wert?”
 
 Doch mit der Zeit lernte ich, dass ich für mich selbst sorgen muss, damit es auch unserer Bonusfamilie gut geht. Ich nahm mir Auszeiten, um aufzutanken und zu reflektieren. Ich hinterfragte meine Erwartungen und erkannte, dass ich nicht perfekt sein muss. Ich führte unzählige Gespräche mit dir, um unsere Wünsche, Ängste und Hoffnungen zu teilen. Gemeinsam erschufen wir den Rahmen für unser harmonisches [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)nleben.
 
@@ -43,7 +43,7 @@ Heute funktioniert es (meistens) wunderbar. Wir haben unsere Routinen gefunden, 
 
 Ich bin dankbar für jeden einzelnen Schritt unserer Reise, auch für die Herausforderungen und Schmerzen. Sie haben uns wachsen lassen, uns näher zusammengebracht und unsere Liebe gestärkt. Ich bin stolz auf uns und das, was wir geschaffen haben.
 
-Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe dich von ganzem Herzen und bin unendlich dankbar, dich an meiner Seite zu haben. Lass uns weiterhin mutig und liebevoll voranschreiten, was auch immer die Zukunft bringen mag. Gemeinsam sind wir stark.
+Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe dich von ganzem Herzen und bin unendlich dankbar, dich an meiner seite zu haben. Lass uns weiterhin mutig und liebevoll voranschreiten, was auch immer die Zukunft bringen mag. Gemeinsam sind wir stark.
 
 In tiefer Liebe und Verbundenheit,
 Sally
