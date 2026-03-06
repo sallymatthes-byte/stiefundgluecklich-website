@@ -79,7 +79,7 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – Wenn Bonuskinder Zwischen Den Stühlen Sitzen" An — Auf [spotify](https://open.spotify.com/show/5wnkgzysf6pmxucrmuu5pm) Oder Überall, Wo Du Podcasts Hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – Wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
