@@ -38,9 +38,9 @@ Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in de
 ## Wie geht es den Kindern?
 
 Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise **verunsichert**und **brauchen Zeit** , um sich an die neue Situation zu gewöhnen.
-Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem Leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.
+Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.
 
-Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – es gibt Situationen, in Denen wir Gefragt sind und Verantwortung Übernehmen Sollten. Doch auch in diesen Fällen ist es Wichtig, Offen mit dem Biologischen Elternteil zu Kommunizieren. Gemeinsam kann Entschieden werden, wie wir die Verantwortung Am Besten Aufteilen können.
+Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – es gibt Situationen, in Denen wir Gefragt sind und Verantwortung Übernehmen sollten. Doch auch in diesen Fällen ist es wichtig, offen mit dem Biologischen Elternteil zu Kommunizieren. Gemeinsam kann Entschieden werden, wie wir die Verantwortung Am Besten Aufteilen können.
 
 > “Die größte Führungsaufgabe ist die Verantwortung für die eigene Familie.” – John C. Maxwell
 
@@ -70,7 +70,7 @@ Passend dazu:**Hör dir die Podcastfolge „Balance finden als Bonusmama" an —
 
 ![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
 
-Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
+Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 
 Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig. **Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
 

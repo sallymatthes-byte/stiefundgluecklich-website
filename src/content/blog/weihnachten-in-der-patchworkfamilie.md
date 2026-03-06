@@ -15,7 +15,7 @@ Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm.
 Die Kombination aus verschiedenen Familienmitgliedern, Traditionen und Bedürfnissen kann zu Spannungen führen.
 Genau aus diesem Grund haben wir uns dazu entschlossen Weihnachten getrennt zu verbringen – Stéphane in Frankreich mit seinen Kindern, ich bei meinen Eltern in Deutschland. Zu groß sind uns einfach die Herausforderungen: tausende Kilometern liegen zwischen den Familien, die sprachlichen Barrieren sind oft zu groß und am Ende ist niemand richtig zufrieden.
 
-In diesem Blogartikel werde ich auf die Herausforderungen, die Rolle der Kinder und das Finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc):
+In diesem Blogartikel werde ich auf die Herausforderungen, die Rolle der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc):
 
 ## Wo liegen die Stolpersteine?
 
@@ -57,7 +57,7 @@ Stell dir vor, du bist ein Kind in einer Patchworkfamilie und Weihnachten steht 
 
 *Vielleicht hast du das Glück, dass sich alle Familienmitglieder gut verstehen und harmonisch zusammen feiern. Doch oft gibt es auch Spannungen und Konflikte zwischen den verschiedenen Partner_innen und Ex-Partner_innen. Es kann eine Herausforderung sein, sich in diesem Geflecht von Beziehungen zurechtzufinden und die eigenen Bedürfnisse auszudrücken. Es ist wichtig für dich, dass du dich gehört und verstanden fühlst, dass deine Bedürfnisse und Wünsche ernst genommen werden.*
 
-*Vielleicht fühlst du dich manchmal unsichtbar, wenn die Erwachsenen in der Familie mit ihren eigenen Konflikten beschäftigt sind. Du möchtest einfach nur ein schönes und harmonisches Weihnachten erleben, in dem du dich als Teil einer liebevollen Familie fühlst. Du sehnst dich nach Stabilität und Sicherheit, nach einem Ort, an dem du dich geborgen fühlst, egal ob du bei deinem Vater, deiner Mutter oder deinen Stiefgeschwistern bist. ***Auch nicht einfach, oder?**> Es geht nicht um das, was wir tun oder wie viel wir tun. Sondern darum, wie viel Liebe wir in das Tun legen.”
+*Vielleicht fühlst du dich manchmal unsichtbar, wenn die Erwachsenen in der Familie mit ihren eigenen Konflikten beschäftigt sind. Du möchtest einfach nur ein schönes und harmonisches Weihnachten erleben, in dem du dich als Teil einer liebevollen Familie fühlst. Du sehnst dich nach Stabilität und Sicherheit, nach einem Ort, an dem du dich geborgen fühlst, egal ob du bei deinem Vater, deiner Mutter oder deinen Stiefgeschwistern bist. ***Auch nicht einfach, oder?**> Es geht nicht um das, was wir tun oder wie viel wir tun. Sondern darum, wie viel Liebe wir in das tun legen.”
 Mutter teresa* ***##  Wie kannst du dem Kind helfen?
 
 Als Eltern ist es wichtig, sich dieser Herausforderungen bewusst zu sein und dem Kind in dieser Zeit besonders viel Unterstützung zu bieten. Hier ein paar Tipps, wie du eine harmonische Weihnachtszeit in der Patchworkfamilie gestalten kannst:**1. Kommunikation ist das A und O: **
@@ -103,4 +103,4 @@ Diese Rituale sind nur einige Beispiele dafür, wie ihr als Patchworkfamilie eur
 Weihnachten kann absolut herausfordernd sein: sowohl organisatorisch als auch emotional gesehen. Diese [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) anzuerkennen ist der erste wichtige Schritt in ein harmonisches Weihnachtsfest.
 Das Einnehmen von anderen Blickwinkeln, eine transparente Kommunikation sowie eigene Rituale können das Fest aber zu etwas ganz Besonderem werden lassen.
 
-Ich wünsche dir eine besinnliche Vorweihnachtszeit und ein harmonisches Fest im Kreise deiner Lieben!
+Ich wünsche dir eine besinnliche Vorweihnachtszeit und ein harmonisches Fest im Kreise deiner lieben!

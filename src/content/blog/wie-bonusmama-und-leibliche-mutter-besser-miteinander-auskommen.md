@@ -13,7 +13,7 @@ imageAlt: "Titelbild zum Artikel"
 
 “Das hat sie jetzt nicht wirklich getan!”, rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
 
-Eine Situation, die es so in vielen Patchworkfamilien gibt. Das Leben in einer Patchworkfamilie kann eine bereichernde Erfahrung sein, voller Liebe, Lernen und Wachstum.
+Eine Situation, die es so in vielen Patchworkfamilien gibt. Das leben in einer Patchworkfamilie kann eine bereichernde Erfahrung sein, voller Liebe, lernen und Wachstum.
 Es ist jedoch auch komplex und birgt eigene [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) – Insbesondere, wenn es um das Verhältnis zwischen Bonusmama und Leiblicher Mutter geht.
 Oftmals ist dieses Verhältnis von Missverständnissen, Konflikten und Unsicherheiten geprägt.
 
@@ -25,10 +25,10 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 
 ## Die Herausforderung verstehen
 
-Wenn eine neue Frau in das Leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd. **Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
+Wenn eine neue Frau in das leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd. **Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt**. Diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
 
 Oftmals basieren diese Konflikte auf Ängsten und Unsicherheiten, die in der neuen, ungewohnten Situation entstehen.
-*Die leibliche Mutter könnte Sorgen haben, dass sie durch die neue Frau in ihrem Leben ihrer Kinder ersetzt wird.* Gerade wenn der Mann die Kindsmutter verlassen hat, ist das eine Angst, die häufig mitschwingt.
+*Die leibliche Mutter könnte Sorgen haben, dass sie durch die neue Frau in ihrem leben ihrer Kinder ersetzt wird.* Gerade wenn der Mann die Kindsmutter verlassen hat, ist das eine Angst, die häufig mitschwingt.
 
 Die Bonusmama könnte sich unsicher fühlen, wie sie sich in das bestehende Familiengefüge einfügen soll, ohne Grenzen zu überschreiten.
 
@@ -48,7 +48,7 @@ In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese
 Jeder Mensch hat seine eigene Art, Kinder zu erziehen, und manchmal können diese Stile stark voneinander abweichen. Wenn die Bonusmama und die leibliche Mutter unterschiedliche Ansichten darüber haben, was das Beste für die Kinder ist, kann dies zu Konflikten führen.
 
 2. Eifersucht:
-Die leibliche Mutter kann sich bedroht fühlen, wenn die Kinder eine enge Beziehung zur Bonusmama aufbauen. Sie könnte befürchten, dass sie durch die neue Frau in ihrem Leben ihrer Kinder ersetzt wird. Ebenso könnte die Bonusmama eifersüchtig auf die bestehende Bindung zwischen den Kindern und ihrer leiblichen Mutter sein.
+Die leibliche Mutter kann sich bedroht fühlen, wenn die Kinder eine enge Beziehung zur Bonusmama aufbauen. Sie könnte befürchten, dass sie durch die neue Frau in ihrem leben ihrer Kinder ersetzt wird. Ebenso könnte die Bonusmama eifersüchtig auf die bestehende Bindung zwischen den Kindern und ihrer leiblichen Mutter sein.
 
 3. Kommunikationsprobleme:
 Mangelnde Kommunikation oder Missverständnisse können zu Konflikten führen. Es ist wichtig, dass beide Parteien offen und ehrlich miteinander kommunizieren und ihre Gefühle und Erwartungen klar ausdrücken.
@@ -87,7 +87,7 @@ Hier sind einige Tipps, die helfen können:
 
 Verbesserung der Kommunikation: Offene und ehrliche Kommunikation ist der Schlüssel zur Lösung der meisten Konflikte. Sprecht regelmäßig miteinander und versucht euch gegenseitig zu verstehen. Es kann auch hilfreich sein, einen neutralen Dritten einzubeziehen, wie zum Beispiel einen Mediator oder Therapeuten.
 
-Respekt für die Rolle der jeweils anderen: Erkennt die wichtige Rolle an, die sowohl die leibliche Mutter als auch die Bonusmama in den Leben der Kinder spielen. Jede hat ihre eigene, einzigartige Beziehung zu den Kindern und diese Beziehungen sollten respektiert und geehrt werden.
+Respekt für die Rolle der jeweils anderen: Erkennt die wichtige Rolle an, die sowohl die leibliche Mutter als auch die Bonusmama in den leben der Kinder spielen. Jede hat ihre eigene, einzigartige Beziehung zu den Kindern und diese Beziehungen sollten respektiert und geehrt werden.
 
 Suche nach gemeinsamem Boden: Konzentriert euch auf das, was ihr gemeinsam habt – vor allem die Liebe und Sorge für die Kinder. Es mag Unterschiede in Erziehungsstilen und Ansichten geben, aber Am Ende des Tages wollen alle das Beste für die Kinder.
 

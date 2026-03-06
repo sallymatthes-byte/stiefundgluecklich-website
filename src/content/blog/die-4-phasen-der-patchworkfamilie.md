@@ -42,7 +42,7 @@ Wie lange jede einzelne der 4 Phasen andauert, ist ganz unterschiedlich. In eini
 
 In der ersten Phase der Patchworkfamilie, dem “Forming”, ist es entscheidend, dass alle Familienmitglieder**ausreichend Zeit **haben, sich kennenzulernen und eine Beziehung aufzubauen. Ich beschreibe es gern als das vorsichtige Herantasten an einender. Man kann die andere Person noch nicht einschätzen und hält sich höflich zurück.
 
-Ich erinnere mich noch genau an meine eigene Erfahrung in dieser Phase. Als ich das erste Mal die Rolle der Bonusmama einnahm, war ich aufgeregt und unsicher, wie ich mich in die Familie integrieren konnte. Ich musste mich an die**neuen Dynamiken **gewöhnen und meine eigenen Erwartungen anpassen. Ich wusste nicht, was meine Aufgaben sind und wie die Kinder auf mich reagieren.
+Ich erinnere mich noch genau an meine eigene Erfahrung in dieser Phase. Als ich das erste mal die Rolle der Bonusmama einnahm, war ich aufgeregt und unsicher, wie ich mich in die Familie integrieren konnte. Ich musste mich an die**neuen Dynamiken **gewöhnen und meine eigenen Erwartungen anpassen. Ich wusste nicht, was meine Aufgaben sind und wie die Kinder auf mich reagieren.
 
 Eine Sache, die ich in dieser Phase gelernt habe, ist, dass es wichtig ist, die Bedürfnisse und Gefühle der Kinder zu respektieren. Ich erinnere mich an eine Situation, in der ich versuchte, eine enge Beziehung zu meinen Bonustöchtern aufzubauen. Ich organisierte eine gemeinsame Aktivität, bei der wir Zeit miteinander verbringen konnten. Doch sie waren sehr zurückhaltend und schüchtern. Anstatt entmutigt zu sein, erkannte ich, dass sie möglicherweise noch Zeit brauchten, um sich an die neue Situation anzupassen.
 

@@ -43,21 +43,21 @@ Wenn die Mutter noch lebt, beeinflusst sie viele Aspekte eures Familienalltags. 
 
 Selbst wenn die Mutter verstorben ist, hat sie oft eine große Präsenz in den Gedanken und Gefühlen der Kinder. Sie bleibt ein wichtiger Teil ihrer Identität und Loyalität. Gerade wenn die Kinder nur wenige Erinnerungen oder Anhaltspunkte haben, kann die Bindung besonders intensiv sein. Sie halten an jedem Schnipsel fest, den sie von ihrer Mutter haben.
 
-*Als Bonusmama kannst du leicht das Gefühl bekommen, mit einer unsichtbaren Dritten zu konkurrieren.* Die Erwartung, die Kinder sollten ihre Mutter einfach “vergessen” oder “hinter sich lassen”, ist wenig realistisch und kann zu Spannungen führen. Stattdessen gilt es zu akzeptieren, dass die Beziehung zur Mutter für die Kinder unveränderlich wichtig ist – Unabhängig davon, wie du Selbst zu dieser Frau Stehst.
+*Als Bonusmama kannst du leicht das Gefühl bekommen, mit einer unsichtbaren Dritten zu konkurrieren.* Die Erwartung, die Kinder sollten ihre Mutter einfach “vergessen” oder “hinter sich lassen”, ist wenig realistisch und kann zu Spannungen führen. Stattdessen gilt es zu akzeptieren, dass die Beziehung zur Mutter für die Kinder unveränderlich wichtig ist – unabhängig davon, wie du selbst zu dieser Frau stehst.
 
 Das bedeutet nicht, dass du die Vergangenheit beschönigen oder problematisches Verhalten entschuldigen musst. Aber es bedeutet, den Kindern den Raum zu geben, ihre Gefühle für beide Elternteile zu haben und auszudrücken. Es bedeutet, die Mutter als Teil der erweiterten Familienkonstellation zu respektieren – mit allen Herausforderungen, die Das Mit sich bringt.
 
-Ja, es ist nicht immer einfach. Aber denk daran: Deine Akzeptanz und dein Verständnis sind ein unschätzbares Geschenk für die Kinder – und Letztlich auch für deinen Partner und eure Beziehung. Du Musst die Mutter nicht Lieben, aber du Kannst sie als Unveränderlichen Teil eurer Familiengeschichte Anerkennen. Und das Ist ein Wichtiger Schritt in Richtung eines Harmonischen Patchwork-familienlebens.
+Ja, es ist nicht immer einfach. Aber denk daran: deine Akzeptanz und dein Verständnis sind ein unschätzbares Geschenk für die Kinder – und Letztlich auch für deinen Partner und eure Beziehung. Du musst die Mutter nicht lieben, aber du kannst sie als Unveränderlichen Teil eurer Familiengeschichte Anerkennen. Und das ist ein Wichtiger Schritt in Richtung eines Harmonischen Patchwork-familienlebens.
 
 > „Wer Konflikten aus dem weg geht, kommt darin um.“ – Anke Maggauer-kirsche
 
 ## Wie Konflikte den Bonuskindern schaden
 
-*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen. **Selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale Funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- Und Hergerissen zwischen Zwei Menschen, die Sie Lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder Reagieren mit Rückzug, Andere mit Aggression oder Psychosomatischen Beschwerden.
+*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen. **Selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale Funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- Und Hergerissen zwischen Zwei Menschen, die Sie lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder Reagieren mit Rückzug, Andere mit Aggression oder Psychosomatischen Beschwerden.
 
 *Je höher das Konfliktlevel, desto gravierender sind die Folgen.* Kinder, die ständigem Streit ausgesetzt sind, haben ein erhöhtes Risiko für Angststörungen, Depressionen, Verhaltensauffälligkeiten und Probleme in sozialen Beziehungen. Die negativen Effekte können bis ins Erwachsenenalter reichen.
 
-Natürlich bedeutet das nicht, dass Unstimmigkeiten mit der Mutter komplett vermeidbar sind. Konflikte gehören zum Leben und es ist okay, wenn Kinder erleben, dass Erwachsene unterschiedlicher Meinung sind. Entscheidend ist, wie ihr damit umgeht.
+Natürlich bedeutet das nicht, dass Unstimmigkeiten mit der Mutter komplett vermeidbar sind. Konflikte gehören zum leben und es ist okay, wenn Kinder erleben, dass Erwachsene unterschiedlicher Meinung sind. Entscheidend ist, wie ihr damit umgeht.
 
 Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Auseinandersetzungen herauszuhalten. Vermeidet abfällige Bemerkungen, verhandelt strittige Themen, wenn die Kinder nicht dabei sind, und bemüht euch um einen respektvollen, sachlichen Ton. Je besser euch das gelingt, die eigenen Emotionen zu regulieren und konstruktiv zu kommunizieren, desto mehr Sicherheit und Stabilität könnt den Kindern bieten.
 
@@ -78,7 +78,7 @@ Beim Parallel Parenting geht es darum:
 
 - Die Elternschaft so zu organisieren, dass beide Seiten ihre Verantwortung wahrnehmen können, ohne ständig miteinander in Kontakt zu sein
 - Klare Regeln und Zuständigkeiten festzulegen, statt gemeinsam Entscheidungen zu treffen
-- Sich darauf zu konzentrieren, den eigenen Teil gutzumachen, ohne sich gegenseitig hineinzureden
+- sich darauf zu konzentrieren, den eigenen Teil gutzumachen, ohne sich gegenseitig hineinzureden
 
 *Parallel Parenting bedeutet auch:*
 
@@ -96,9 +96,9 @@ Beim Parallel Parenting geht es darum:
 
 - Respektvoll über die Mutter zu sprechen und ihre Rolle zu würdigen
 - Aber es kann den Druck nehmen, eine enge, konfliktfreie Beziehung zu ihr aufbauen zu müssen
-- Es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das Ist eine Menge
+- Es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das ist eine Menge
 
-Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein Leben lang dankbar sein werden.
+Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein leben lang dankbar sein werden.
 
 ## Zusammenfassung
 In Patchworkfamilien bleiben Expartner ein fester Bestandteil der Familiendynamik und beeinflussen viele Aspekte des Familienalltags. Als Bonusmama gilt es, die Beziehung der Kinder zum anderen Elternteil zu respektieren und Konflikte zu minimieren, da diese schwerwiegende Auswirkungen auf das Wohlergehen der Kinder haben können. Wenn eine enge Kooperation nicht möglich ist, kann Parallel Parenting eine Alternative sein, bei der klare Regeln und Zuständigkeiten festgelegt werden.

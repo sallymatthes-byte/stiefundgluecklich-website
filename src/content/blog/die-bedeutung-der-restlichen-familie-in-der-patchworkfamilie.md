@@ -12,12 +12,12 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
-So sagen meine Bonuskinder, dass sie nun 8 Großeltern haben, anstatt der vorherigen 4. Sie haben mehr Personen in ihrem Leben dazugewonnen, als “nur” die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
+So sagen meine Bonuskinder, dass sie nun 8 Großeltern haben, anstatt der vorherigen 4. Sie haben mehr Personen in ihrem leben dazugewonnen, als “nur” die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
 Doch wie kann die Familienzusammenführung gelingen und wo liegt der Unterschied zwischen blutsverwandten Familienmitgliedern und die der Patchworkfamilie?
 
 ## Gibt es einen Unterschied?
 
-In meinen Augen muss es diesen Unterschied nicht geben. Natürlich greifen auch hier wieder die[4 Phasen](/blog/die-4-phasen-der-patchworkfamilie/) des Zusammenlebens – man lernt sich kennen, Bemerkt Unterschiede, findet Gemeinsame Umgangsnormen und Gewöhnt sich Aneinander.
+In meinen Augen muss es diesen Unterschied nicht geben. Natürlich greifen auch hier wieder die[4 Phasen](/blog/die-4-phasen-der-patchworkfamilie/) des Zusammenlebens – man lernt sich kennen, Bemerkt Unterschiede, findet gemeinsame Umgangsnormen und Gewöhnt sich Aneinander.
 
 Lass mich dir ein Beispiel geben:
 Meine [Eltern](https://www.grosseltern.de/tipps-fuer-stief-grosseltern-gleichbehandlung-der-biologischen-und-nicht-biologischen-enkel/) hatten bereits ein Enkelkind, welches sie abgöttisch lieben. Und plötzlich gab es da zwei weitere Kinder, die nicht dieselbe Sprache sprechen und schon etwas älter sind. Jedes Enkelkind ist für sie dennoch einzigartig und hat seine eigenen Bedürfnisse und Persönlichkeiten.
@@ -60,7 +60,7 @@ Um die restliche Familie in eine Patchworkfamilie zu integrieren und sich besser
 
 Eine tolle Möglichkeit, um Zeit miteinander zu verbringen und sich näher kennenzulernen, ist das gemeinsame Kochen. Jedes Familienmitglied kann ein Lieblingsrezept mitbringen und zusammen könnt ihr ein köstliches Mahl zubereiten. Während des Kochens könnt ihr euch austauschen, über eure Vorlieben und Geschmäcker sprechen und dabei eine Verbindung aufbauen. Meine Bonustöchter lieben es beispielsweise das Dessert für unsere Familientreffen vorzubereiten.**2. Familienausflüge:**
 
-Plant regelmäßig Familienausflüge, bei denen ihr gemeinsam etwas unternehmt und neue Erfahrungen sammelt. Das kann ein Besuch im Museum, ein Tag am See oder ein Ausflug in einen Freizeitpark sein. Während dieser Ausflüge könnt ihr als Familie zusammenwachsen, Erinnerungen schaffen und Spaß haben. Wir waren zum Beispiel schon mehrere Tage gemeinsam in Paris – eine Zeit, die Wir alle nie Vergessen werden.**3. Spiel- Und Filmabende:**organisiert Regelmäßige Spiel- Und Filmabende, bei Denen ihr Gemeinsam Spielt, Lacht und euch Entspannt. Jedes Familienmitglied kann Abwechselnd einen Film Auswählen oder ein Spiel Vorschlagen. Diese Gemütlichen Abende Bieten die Möglichkeit, sich Besser Kennenzulernen und Gemeinsam als Familie Zeit zu Verbringen.**4. Sportliche Aktivitäten:**geht Zusammen Sportlichen Aktivitäten nach, wie zum Beispiel Fahrradfahren, Wandern oder Schwimmen. Durch Bewegung und Gemeinsame Herausforderungen Könnt ihr Als Familie Zusammenwachsen und eine Starke Bindung Aufbauen. Wir waren Beispielsweise schon Gemeinsam Im Kletterpark – eine Tolle Möglichkeit, sich Gegenseitig zu helfen und zu Motivieren!**5. Familienfeste:**  auch die Teilnahme an Familienfesten oder [traditionen](/blog/weihnachten-in-der-patchworkfamilie/) ist Wichtig, um sich Zugehörig zu fühlen. Familienfotos und Gemeinsam Zelebrierte Höhepunkte wie Sommerfeste oder Geburtstage Symbolisieren: “wir Gehören Zusammen!”
+Plant regelmäßig Familienausflüge, bei denen ihr gemeinsam etwas unternehmt und neue Erfahrungen sammelt. Das kann ein Besuch im Museum, ein Tag am See oder ein Ausflug in einen Freizeitpark sein. Während dieser Ausflüge könnt ihr als Familie zusammenwachsen, Erinnerungen schaffen und Spaß haben. Wir waren zum Beispiel schon mehrere Tage gemeinsam in Paris – eine Zeit, die Wir alle nie Vergessen werden.**3. Spiel- Und Filmabende:**organisiert Regelmäßige Spiel- Und Filmabende, bei Denen ihr gemeinsam Spielt, Lacht und euch Entspannt. Jedes Familienmitglied kann Abwechselnd einen Film Auswählen oder ein Spiel Vorschlagen. Diese Gemütlichen Abende Bieten die Möglichkeit, sich besser Kennenzulernen und gemeinsam als Familie Zeit zu Verbringen.**4. Sportliche Aktivitäten:**geht zusammen Sportlichen Aktivitäten nach, wie zum Beispiel Fahrradfahren, Wandern oder Schwimmen. Durch Bewegung und gemeinsame Herausforderungen Könnt ihr Als Familie Zusammenwachsen und eine Starke Bindung Aufbauen. Wir waren Beispielsweise schon gemeinsam Im Kletterpark – eine Tolle Möglichkeit, sich gegenseitig zu helfen und zu Motivieren!**5. Familienfeste:**  auch die Teilnahme an Familienfesten oder [traditionen](/blog/weihnachten-in-der-patchworkfamilie/) ist wichtig, um sich Zugehörig zu fühlen. Familienfotos und gemeinsam Zelebrierte Höhepunkte wie Sommerfeste oder Geburtstage Symbolisieren: “wir Gehören zusammen!”
 
 Indem ihr solche Aktivitäten plant und umsetzt, könnt ihr als restliche Familie enger zusammenwachsen und euch besser kennenlernen. So könnt ihr gemeinsam schöne Erinnerungen schaffen und eine harmonische Beziehung aufbauen.
 
@@ -68,6 +68,6 @@ Indem ihr solche Aktivitäten plant und umsetzt, könnt ihr als restliche Famili
 ## Zusammenfassung
 Die restliche Familie einer Patchworkfamilie ist ein riesengroßer Schatz. Stieftanten, Stiefgroßmütter oder Stiefcousinen erweitern den Horizont der Kinder und können eine Bereicherung sein.
 Herausforderungen wie Vorurteile oder Ablehnung können uns dabei begegnen. Diese zu überwinden, lohnt sich jedoch enorm.
-Mit gemeinsamen Ausflügen, Spielen und bleibenden Erinnerungen kann es gelingen, die restlichen Familienmitglieder mit einzubeziehen.
+Mit gemeinsamen Ausflügen, spielen und bleibenden Erinnerungen kann es gelingen, die restlichen Familienmitglieder mit einzubeziehen.
 
 

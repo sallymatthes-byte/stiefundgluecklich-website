@@ -40,7 +40,7 @@ Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
 Ich möchte dir gern die 13-jährige Emma vorstellen. Ihre Eltern haben sich vor einem Jahr getrennt und jetzt hat ihr Vater eine neue Partnerin, Lisa. Sie mag Lisa eigentlich ganz gern, aber immer, wenn sie sieht, wie vertraut sie und dein Vater miteinander umgehen, fühlt sie einen Stich im Herzen.
 
-Es ist, als würde sie ihren Vater *verlieren* – an diese Andere Frau, die Plötzlich so viel Zeit mit ihm Verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa Einlässt. Sie fühlt sich Hin- Und Hergerissen, **zwischen Zwei Stühlen** .
+Es ist, als würde sie ihren Vater *verlieren* – an diese Andere Frau, die plötzlich so viel Zeit mit ihm Verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa Einlässt. Sie fühlt sich Hin- Und Hergerissen, **zwischen Zwei Stühlen** .
 
 Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust, fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*.
 
@@ -52,15 +52,15 @@ Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit
 
 ## Das Leben in der Schneekugel
 
-Emmas Leben gleicht einem Wirbelsturm der Veränderungen. Erst die Trennung ihrer Eltern, die ihr den Boden unter den Füßen weggerissen hat. Dann der Umzug in eine neue Wohnung, weg von ihrem vertrauten Zuhause, ihren Freunden und Nachbarn. In der Schule ist sie jetzt die Neue, muss sich erst wieder ihren Platz suchen. Und nun auch noch Lisa, die neue Partnerin ihres Vaters, die plötzlich ständig präsent ist.
+Emmas leben gleicht einem Wirbelsturm der Veränderungen. Erst die Trennung ihrer Eltern, die ihr den Boden unter den Füßen weggerissen hat. Dann der Umzug in eine neue Wohnung, weg von ihrem vertrauten Zuhause, ihren Freunden und Nachbarn. In der Schule ist sie jetzt die Neue, muss sich erst wieder ihren Platz suchen. Und nun auch noch Lisa, die neue Partnerin ihres Vaters, die plötzlich ständig präsent ist.
 
-Emma fühlt sich, als hätte jemand ihr Leben in eine Schneekugel gepackt und kräftig geschüttelt. Nichts ist mehr, wie es war. Beim Frühstück gibt es plötzlich Smoothies statt Nutella-Brote, weil Lisa auf gesunde Ernährung achtet. Im Bad stehen fremde Shampoos und Cremes, die nach Vanille und Kokosnuss duften. Und im Wohnzimmer hängen Bilder von Lisas letztem Urlaub, auf denen ihr Vater mit ihr am Strand lacht.
+Emma fühlt sich, als hätte jemand ihr leben in eine Schneekugel gepackt und kräftig geschüttelt. Nichts ist mehr, wie es war. Beim Frühstück gibt es plötzlich Smoothies statt Nutella-Brote, weil Lisa auf gesunde Ernährung achtet. Im Bad stehen fremde Shampoos und Cremes, die nach Vanille und Kokosnuss duften. Und im Wohnzimmer hängen Bilder von Lisas letztem Urlaub, auf denen ihr Vater mit ihr am Strand lacht.
 
 *Für Emma geht das alles viel zu schnell.* Sie hat kaum Zeit, sich an eine Veränderung zu gewöhnen, da steht schon die nächste vor der Tür. Manchmal wünscht sie sich ihre alte Welt zurück, in der alles vertraut und vorhersehbar war. Doch die gibt es nicht mehr. Stattdessen muss sie sich nun in einer neuen Realität zurechtfinden, in der sich alles fremd und chaotisch anfühlt.
 
-Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie er. Dass sie Lisa mit offenen Armen empfängt und dankbar ist für die schöne neue Wohnung und all die Möglichkeiten, die sich daraus ergeben. Doch für Emma ist das nicht so einfach. Sie braucht Zeit, um zu trauern und Abschied zu nehmen von dem, was sie verloren hat. Zeit, um sich an all das Neue zu gewöhnen und es langsam in ihr Leben zu integrieren.
+Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie er. Dass sie Lisa mit offenen Armen empfängt und dankbar ist für die schöne neue Wohnung und all die Möglichkeiten, die sich daraus ergeben. Doch für Emma ist das nicht so einfach. Sie braucht Zeit, um zu trauern und Abschied zu nehmen von dem, was sie verloren hat. Zeit, um sich an all das Neue zu gewöhnen und es langsam in ihr leben zu integrieren.
 
-*Als Eltern und Bonuseltern ist es unsere Aufgabe, Verständnis für diese Überforderung zu haben.* Anstatt Begeisterung und schnelle Anpassung zu erwarten, sollten wir den Kindern den Raum geben, den sie brauchen, um mit den Veränderungen Schritt für Schritt klarzukommen. Nur wenn wir ihr Tempo respektieren und ihre Gefühle ernst nehmen, können sie nach und nach in ihrem neuen Leben ankommen.
+*Als Eltern und Bonuseltern ist es unsere Aufgabe, Verständnis für diese Überforderung zu haben.* Anstatt Begeisterung und schnelle Anpassung zu erwarten, sollten wir den Kindern den Raum geben, den sie brauchen, um mit den Veränderungen Schritt für Schritt klarzukommen. Nur wenn wir ihr Tempo respektieren und ihre Gefühle ernst nehmen, können sie nach und nach in ihrem neuen leben ankommen.
 
 ## Strategien, um das Kind zu unterstützen
 
@@ -93,9 +93,9 @@ Zeigt den Kindern, dass ihr für sie da seid und ein offenes Ohr für ihre Sorge
 
 - **Gestaltet Eins-zu-eins-Zeit:**
 
-Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – Wichtig ist, dass sie Spüren, dass sie nicht um eure Zuwendung Konkurrieren müssen.
+Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – wichtig ist, dass sie Spüren, dass sie nicht um eure Zuwendung Konkurrieren müssen.
 
-- **Erlaubt Ambivalenzen:** Macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
+- **Erlaubt Ambivalenzen:** macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
 
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird – und Begleitet es dabei ohne Druck und Erwartungen.
 

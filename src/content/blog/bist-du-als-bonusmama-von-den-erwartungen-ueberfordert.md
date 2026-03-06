@@ -48,7 +48,7 @@ Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst ste
 
 Aber mal ehrlich: Wer sagt eigentlich, dass wir all das “sollten”? Woher kommen diese ganzen Erwartungen? Und was machen sie mit uns, mit unserer Psyche, unseren Beziehungen und letztlich mit unserer Patchworkfamilie?
 
-Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: ein Leben, in dem man ständig das Gefühl hat, irgendetwas zu “sollen”, ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den “Ich sollte”-Sätzen steckt – und wie du dich davon Frei machen Kannst.
+Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: ein leben, in dem man ständig das Gefühl hat, irgendetwas zu “sollen”, ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den “Ich sollte”-Sätzen steckt – und wie du dich davon Frei machen kannst.
 
 ursachen dieser gedanken
 
@@ -75,16 +75,16 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
 
 - Wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell*überfordert und gestresst*. Wir haben das Gefühl, ständig zu funktionieren und nicht zur Ruhe zu kommen. Das geht auf Kosten unserer psychischen und körperlichen Gesundheit.
-- Auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/blog/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
+- auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/blog/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
 - Die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu*Misstrauen und Distanz* führen.
-- Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung.*Konflikte sind vorprogrammiert.*
+- auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung.*Konflikte sind vorprogrammiert.*
 - Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
 
 ## Entfliehe den Erwartungen
 
-Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
+Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
 - 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst. **Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 - 💎**
@@ -103,11 +103,11 @@ Tausche dich mit anderen Bonusmamas aus. **Teile deine Gedanken und Gefühle. Du
 
 Hole dir Unterstützung, wenn du sie brauchst. **Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
 
-Der Weg zu einem Leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine Ganze Patchworkfamilie.
+Der Weg zu einem leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine Ganze Patchworkfamilie.
 
 Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deinem Weg als Bonusmama bekommen möchtest, kann ein Coaching eine wertvolle Hilfe sein. Hier hast du den geschützten Raum, deine Situation zu reflektieren und ganz konkrete Lösungen für deinen Alltag zu entwickeln.
 
-Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der Richtigen Unterstützung Findest du Genau den Weg, der Zu dir und deiner Familie Passt. Schritt für Schritt. ***von “ich sollte” zu “ich möchte”.***## Zusammenfassung
+Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der Richtigen Unterstützung findest du genau den Weg, der Zu dir und deiner Familie Passt. Schritt für Schritt. ***von “ich sollte” zu “ich möchte”.***## Zusammenfassung
 Viele Bonusmamas plagen sich mit “Ich sollte”-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – von Gesellschaftlichen Erwartungen über Familiäre Prägungen bis Hin zur Angst, nicht zu Genügen. Sich von diesen Gedanken zu Befreien, ist ein Prozess, der Selbstreflexion, Selbstfürsorge und oft auch Unterstützung von Außen Erfordert. Ein Coaching kann dabei helfen, Individuelle Lösungen zu finden und Schritt für Schritt zu einem Erfüllteren leben als Bonusmama zu Gelangen.
 
 

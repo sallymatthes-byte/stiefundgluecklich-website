@@ -23,8 +23,8 @@ Und wenn du dir lieber das Video zu den Herausforderungen als Bonusmama anschaue
 
 
 Jeder Alltag hat eine andere Dynamik. Wenn verschiedene Familien zu einer Einheit verschmelzen, bringt dies zwangsläufig Herausforderungen mit sich. Jeder einzelne bringt seine eigenen Erfahrungen, Gewohnheiten und Bedürfnisse in die neue Familie ein.
-Die Kinder müssen sich jedes Mal an eine neue Dynamik anpassen: andere Essenszeiten, andere Regeln, bei uns sogar eine andere Sprache. Dass dies allein für die Kinder eine enorme Anpassungsfähigkeit erfordert, ist mir als Pädagogin besonders klar und zeigt einfach, wie komplex dieses Thema ist.
-Wir als Erwachsene versuchen währenddessen unseren Job mit den Kindern in Einklang zu bringen und müssen uns jedes Mal wieder auf das Leben mit Kindern einstellen – weniger [paarzeit](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/), der Fokus Verschiebt sich.
+Die Kinder müssen sich jedes mal an eine neue Dynamik anpassen: andere Essenszeiten, andere Regeln, bei uns sogar eine andere Sprache. Dass dies allein für die Kinder eine enorme Anpassungsfähigkeit erfordert, ist mir als Pädagogin besonders klar und zeigt einfach, wie komplex dieses Thema ist.
+Wir als Erwachsene versuchen währenddessen unseren Job mit den Kindern in Einklang zu bringen und müssen uns jedes mal wieder auf das leben mit Kindern einstellen – weniger [paarzeit](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/), der Fokus Verschiebt sich.
 
 Wir dürfen dabei lernen, unsere*Rollen als Eltern und Bonuseltern (neu) zu definieren* und miteinander zu kooperieren.
 Es ist ein Prozess des Anpassens, des Lernens und des Wachsens.
@@ -40,10 +40,10 @@ Dazu gehört es für uns auch, dass wir nicht immer alles sofort lösen können.
 
 Unterschiedliche Ansichten: Ein weiterer Stolperstein in Patchworkfamilien ist die Vereinbarkeit unterschiedlicher Erziehungsmethoden.
 
-Jede Familie hat ihre eigenen Regeln und Routinen, und es kann schwierig sein, diese miteinander in Einklang zu bringen. **Unser größter Konfliktherd hierbei ist der Medienkonsum der Kinder. **Da könnten wir uns regelmäßig darüber in die Haare bekommen. Und dabei ist Kompromissbereitschaft gefragt. Es ist wichtig, dass alle Beteiligten ihre Bedürfnisse und Grenzen respektieren und gemeinsam Regeln und Rituale entwickeln, die für alle akzeptabel sind. Für uns heißt das: begrenzte Zeit vor den Screens – für Ihn zu Wenig, für mich zu viel. Und Gleichzeitig Akzeptabel für uns Beide.
+Jede Familie hat ihre eigenen Regeln und Routinen, und es kann schwierig sein, diese miteinander in Einklang zu bringen. **Unser größter Konfliktherd hierbei ist der Medienkonsum der Kinder. **Da könnten wir uns regelmäßig darüber in die Haare bekommen. Und dabei ist Kompromissbereitschaft gefragt. Es ist wichtig, dass alle Beteiligten ihre Bedürfnisse und Grenzen respektieren und gemeinsam Regeln und Rituale entwickeln, die für alle akzeptabel sind. Für uns heißt das: begrenzte Zeit vor den Screens – für ihn zu wenig, für mich zu viel. Und gleichzeitig Akzeptabel für uns Beide.
 
 Auch die räumliche Distanz zu den Kindern kann eine Herausforderung darstellen. Wenn die Kinder in einer anderen Stadt oder sogar einem anderen Land leben, müssen wir uns organisieren, um regelmäßige Besuche zu ermöglichen.
-Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. Und dabei tauchen immer Zweifel auf: Reicht das? Ist es gut genug? Verpasse ich nicht zu viel? Und das Gefühl von Schuld kriecht hoch. **Wir versuchen dies wettzumachen, indem wir die Zeit, die wir gemeinsam verbringen, möglichst auskosten. **Schöne, bleibende Erinnerungen zu schaffen – das Ist für uns von Unschätzbarem Wert und Stärkt unsere Bindung als Patchworkfamilie.
+Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. Und dabei tauchen immer Zweifel auf: Reicht das? Ist es gut genug? Verpasse ich nicht zu viel? Und das Gefühl von Schuld kriecht hoch. **Wir versuchen dies wettzumachen, indem wir die Zeit, die wir gemeinsam verbringen, möglichst auskosten. **Schöne, bleibende Erinnerungen zu schaffen – das ist für uns von Unschätzbarem Wert und Stärkt unsere Bindung als Patchworkfamilie.
 
 > “Eine Patchwork-Familie ist wie ein bunter Quilt, jeder Stoff einzigartig, aber zusammen perfekt.”
 
@@ -52,7 +52,7 @@ Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. 
 ## Ist es das alles wert?
 
 Trotz all dieser Herausforderungen gibt es auch viele Chancen, die das Patchworkleben mit sich bringt. Es ermöglicht uns, verschiedene Perspektiven kennenzulernen und unsere eigene Sichtweise zu erweitern.
-Wir können von den Erfahrungen und dem Wissen anderer Familienmitglieder profitieren und gemeinsam wachsen. Patchworkfamilien können eine Quelle der Unterstützung und des Zusammenhalts sein, in der sich jeder angenommen und geliebt fühlt.
+Wir können von den Erfahrungen und dem wissen anderer Familienmitglieder profitieren und gemeinsam wachsen. Patchworkfamilien können eine Quelle der Unterstützung und des Zusammenhalts sein, in der sich jeder angenommen und geliebt fühlt.
 
 Mein Ziel dabei als Bonusmama ist es, den Kindern ein weiteres Vorbild zu sein: eine selbstständige Frau, aus einem anderen Land, mit anderen Ansichten und einem anderen Lebensstil. Was sie davon mitnehmen, bleibt ihnen überlassen. Und selbst das klingt einfacher als es tatsächlich ist.
 
@@ -72,7 +72,7 @@ Plane regelmäßige gemeinsame Aktivitäten, um als Familie Zeit miteinander zu 
 
 3. Respekt und Toleranz:
 Jeder bringt seine eigenen Erfahrungen und Persönlichkeiten in die Patchworkfamilie ein. Zeige Respekt und Toleranz für die Unterschiede und akzeptiere, dass nicht jeder gleich tickt. Lerne, Kompromisse einzugehen und gemeinsame Lösungen zu finden.
-Damit einher geht auch, dass du deine Grenzen aufzeigen darfst: deine Ansichten, Meinungen und Gefühle sind unglaublich wichtig und du darfst diese auch benennen. Auch wenn der Weg nicht immer meiner ist (zum Beispiel der Medienkonsum), so entscheide ich mich jedes Mal bewusst dazu, diesen Weg mitzugehen – aus Liebe. Mir Bewusst zu machen, dass ich das Aus Freien Stücken Wähle, macht es Leichter. Und Gleichzeitig Kommuniziere ich, dass mir Mehrere Stunden Bildschirm-zeit zu viel sind und Versuche Kompromisse Einzugehen.
+Damit einher geht auch, dass du deine Grenzen aufzeigen darfst: deine Ansichten, Meinungen und Gefühle sind unglaublich wichtig und du darfst diese auch benennen. Auch wenn der Weg nicht immer meiner ist (zum Beispiel der Medienkonsum), so entscheide ich mich jedes mal bewusst dazu, diesen Weg mitzugehen – aus Liebe. Mir bewusst zu machen, dass ich das Aus Freien Stücken Wähle, macht es Leichter. Und gleichzeitig Kommuniziere ich, dass mir Mehrere Stunden Bildschirm-zeit zu viel sind und Versuche Kompromisse Einzugehen.
 
 4. Klare Regeln und Routinen:
 Schaffe klare Regeln und Routinen, die für alle Familienmitglieder gelten. Dies gibt Sicherheit und Struktur und hilft, Konflikte zu vermeiden. Beteilige alle Familienmitglieder an der Entwicklung dieser Regeln, um sicherzustellen, dass sie von allen akzeptiert werden. So haben sich zum Beispiel unsere Bonuskinder Spieleabende gewünscht, sodass wir nun jeden Abend nach dem Abendessen etwas spielen. Reduziert für mich die Zeit an den Bildschirmen und bringt nebenbei noch wunderbar leichte Momente.
@@ -87,4 +87,4 @@ Jeder in einer Patchworkfamilie hat eine Vergangenheit mit eigenen Erfahrungen u
 Manchmal können professionelle Unterstützung oder Beratung von außen hilfreich sein, um bestimmte Herausforderungen zu meistern. Zögere nicht, Hilfe anzunehmen!
 
 ## Zusammenfassung
-Das Leben in einer Patchworkfamilie ist nicht immer einfach, aber mit Liebe, Geduld und Verständnis ist es möglich, eine harmonische und glückliche Familie zu schaffen. Kompromissbereitschaft, Offenheit und Kommunikation sind für mich der Schlüssel zum Erfolg. Und sei liebevoll und geduldig mit dir – es ist eine Sehr [herausfordernde Situation](https://www.erf.de/lesen/themen/leben/herausforderung-patchworkfamilie/6866-542-6861) und du Darfst immer wieder Innehalten und Dazulernen.
+Das leben in einer Patchworkfamilie ist nicht immer einfach, aber mit Liebe, Geduld und Verständnis ist es möglich, eine harmonische und glückliche Familie zu schaffen. Kompromissbereitschaft, Offenheit und Kommunikation sind für mich der Schlüssel zum Erfolg. Und sei liebevoll und geduldig mit dir – es ist eine sehr [herausfordernde Situation](https://www.erf.de/lesen/themen/leben/herausforderung-patchworkfamilie/6866-542-6861) und du darfst immer wieder Innehalten und Dazulernen.

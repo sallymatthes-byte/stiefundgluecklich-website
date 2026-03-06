@@ -38,7 +38,7 @@ Diese Gefühle sind absolut verständlich und menschlich. **Du bist nicht egoist
 
 Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unterdrücken. Sprich mit deinem Partner darüber, wie es dir geht. Oft hilft es schon, sich einfach mal alles von der Seele zu reden und sich verstanden zu fühlen.
 
-Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas mehr auf unser gemeinsames Konto überweist, wenn die Kinder da sind. So können wir Lebensmittel, Geschenke und Ausflüge gemeinsam bezahlen und müssen nicht alles kleinteilig aufrechnen. Das war für mich schon immer ein No-Go: Ich wollte nie vor den Kindern darüber diskutieren und ihnen das Gefühl geben nicht für sie zahlen zu wollen. Gleichzeitig möchte ich große Investitionen in Zahnspangen etc. nicht mittragen müssen. Ich tue es öfter, dann aber weil ich es möchte und nicht weil es erwartet wird.
+Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas mehr auf unser gemeinsames Konto überweist, wenn die Kinder da sind. So können wir Lebensmittel, Geschenke und Ausflüge gemeinsam bezahlen und müssen nicht alles kleinteilig aufrechnen. Das war für mich schon immer ein No-Go: ich wollte nie vor den Kindern darüber diskutieren und ihnen das Gefühl geben nicht für sie zahlen zu wollen. Gleichzeitig möchte ich große Investitionen in Zahnspangen etc. nicht mittragen müssen. Ich tue es öfter, dann aber weil ich es möchte und nicht weil es erwartet wird.
 
 > „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen.“ – Benjamin Franklin
 
@@ -58,15 +58,15 @@ Gemeinsam könnt ihr Strategien entwickeln, wie ihr die finanzielle Situation me
 
 - Legt ein Budget fest, das die Bedürfnisse aller Familienmitglieder berücksichtigt.
 - Richtet ein gemeinsames Konto ein, auf das jeder einen bestimmten Betrag einzahlt.
-- Findet Lösungen, mit denen ihr beide leben könnt und die sich fair anfühlen.
+- findet Lösungen, mit denen ihr beide leben könnt und die sich fair anfühlen.
 
 Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier könnt ihr immer wieder ausloten:
 
 - Passen die getroffenen Vereinbarungen noch oder müssen sie angepasst werden?
-- Gibt es aktuelle finanzielle Herausforderungen?
-- Stehen größere Ausgaben an, die besprochen werden müssen?
+- gibt es aktuelle finanzielle Herausforderungen?
+- stehen größere Ausgaben an, die besprochen werden müssen?
 
-Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal Schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr Sitzt Im Selben Boot und Wollt Beide das Beste für eure Familie.
+Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr sitzt Im Selben Boot und Wollt Beide das Beste für eure Familie.
 
 ## Wahre deine finanzielle Unabhängigkeit **Als Bonusmama ist es leicht, sich selbst zu vergessen. **Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 
@@ -89,7 +89,7 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 
 Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 
-Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun.  Im Gegenteil: Nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
+Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun.  Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
 
 ## Zusammenfassung
 Als Bonusmama ist die Frage nach der finanziellen Beteiligung an den Kosten für die Bonuskinder oft eine Herausforderung, bei der es keine allgemeingültige Regel gibt.  Gefühle des Verzichts sind dabei normal und sollten ernst genommen werden, während man gleichzeitig für sich selbst sorgt. Eine offene und ehrliche Kommunikation über Geld in der Partnerschaft ist unerlässlich, um gemeinsam Strategien zu entwickeln und faire Lösungen zu finden. Trotz allem ist es wichtig, sich ein Stück finanzielle Unabhängigkeit zu bewahren, um für die eigenen Bedürfnisse sorgen zu können.

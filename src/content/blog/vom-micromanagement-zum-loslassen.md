@@ -12,9 +12,9 @@ imageAlt: "Titelbild zum Artikel"
 
 ## Kennst du das Gefühl, immer alles unter Kontrolle haben zu müssen?
 
-Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir Selbst. Willkommen Im Klub der Micromanagenden Bonusmamas!
+Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen Im Klub der Micromanagenden Bonusmamas!
 
-Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: Ich micromanage. Und das belastet nicht nur mich – Sondern Die Ganze Familie.
+Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern Die Ganze Familie.
 
 Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanagement so problematisch ist und wie du lernen kannst, loszulassen.
 
@@ -30,7 +30,7 @@ Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwache
 
 Das Problem? Deine guten Absichten können dazu führen, dass sich dein Umfeld kontrolliert und eingeengt fühlt.
 
-Stell dir vor: Dein Stiefkind kommt aus der Schule, will sich entspannen, aber du fragst direkt nach den Hausaufgaben. Während es arbeitet, stehst du daneben und korrigierst jeden Fehler. Die Reaktion? Widerstand. Dein Stiefkind blockt ab, dein Partner zieht sich zurück, und das Chaos, das du eigentlich vermeiden wolltest, wird noch wahrscheinlicher.
+Stell dir vor: dein Stiefkind kommt aus der Schule, will sich entspannen, aber du fragst direkt nach den Hausaufgaben. Während es arbeitet, stehst du daneben und korrigierst jeden Fehler. Die Reaktion? Widerstand. Dein Stiefkind blockt ab, dein Partner zieht sich zurück, und das Chaos, das du eigentlich vermeiden wolltest, wird noch wahrscheinlicher.
 
 Micromanagement mag dir das Gefühl geben, alles im Griff zu haben – doch in Wirklichkeit Schadet es euren Beziehungen.
 
@@ -73,7 +73,7 @@ Nimm dir Zeit für eine ehrliche Selbstreflexion. Frag dich: Warum habe ich das 
 
 ### Schritt 2: Veränderung – Lerne loszulassen und zu vertrauen
 
-Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – Wichtig ist, dass du Loslässt.
+Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – wichtig ist, dass du Loslässt.
 
 ### Schritt 3: Kommunikation – Sprich über Vertrauen und Aufgabenteilung
 
@@ -86,4 +86,4 @@ Als ich begann, loszulassen, war die Veränderung verblüffend. Meine Stiefkinde
 Loslassen hat nicht nur meine Familie verändert, sondern auch mich selbst. Ich habe gelernt, dass Vertrauen und Geduld viel mehr bewirken können als Kontrolle.
 
 ## Zusammenfassung
-Micromanaging schadet dir und deiner Familie. Doch mit der Bonusmama-Formel kannst du lernen, loszulassen und Vertrauen aufzubauen. Das wird nicht nur deine Beziehungen stärken, sondern auch dein eigenes Leben leichter machen.
+Micromanaging schadet dir und deiner Familie. Doch mit der Bonusmama-Formel kannst du lernen, loszulassen und Vertrauen aufzubauen. Das wird nicht nur deine Beziehungen stärken, sondern auch dein eigenes leben leichter machen.

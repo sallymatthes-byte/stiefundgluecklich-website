@@ -22,7 +22,7 @@ Du fragst dich:
 - Warum hat er mit ihr ein Haus gebaut, aber mit dir wohnt er lieber zur Miete?
 - Weshalb konnte er sich mit ihr ein gemeinsames Kind vorstellen, aber bei dir ist das Thema tabu?
 - Was bedeuten diese langen Telefonate über die Kinder wirklich?
-- Wird er insgeheim Vergleiche zwischen dir und ihr anstellen?
+- wird er insgeheim Vergleiche zwischen dir und ihr anstellen?
 
 Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten.
 

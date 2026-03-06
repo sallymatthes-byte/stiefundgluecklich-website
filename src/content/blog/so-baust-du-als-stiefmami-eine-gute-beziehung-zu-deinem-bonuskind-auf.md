@@ -35,7 +35,7 @@ Suche nach gemeinsamen Interessen und Hobbys, die dir und deinem Herzenskind Fre
 
 Schaffe einen offenen Raum für Kommunikation, in dem sich dein Stiefkind sicher fühlen kann, seine Gedanken, Gefühle und Anliegen auszudrücken. Höre aktiv zu, zeige Interesse und sei einfühlsam. Signalisiere: “Ich bin für dich da, ich interessiere mich wirklich für dich”. Mehr braucht es am Anfang nicht.**4. Respektiere die Rolle der leiblichen Eltern:**
 
-Achte darauf, dass du die Rolle der leiblichen Eltern respektierst und dich nicht zwischen ihnen und deinem Bonuskind stellst. Zeige Verständnis für die Bindung zwischen deinem Stiefkind und seinen leiblichen Eltern und unterstütze diese Beziehung. Es geht ja gar nicht darum, dass du die komplette [Verantwortung](/blog/balance-in-der-verantwortung/) übernimmst oder jemanden ersetzen musst. Du bist einfach ein weiterer Bezugsmensch im Leben des Kindes.**5. Selbstfürsorge nicht vergessen:**
+Achte darauf, dass du die Rolle der leiblichen Eltern respektierst und dich nicht zwischen ihnen und deinem Bonuskind stellst. Zeige Verständnis für die Bindung zwischen deinem Stiefkind und seinen leiblichen Eltern und unterstütze diese Beziehung. Es geht ja gar nicht darum, dass du die komplette [Verantwortung](/blog/balance-in-der-verantwortung/) übernimmst oder jemanden ersetzen musst. Du bist einfach ein weiterer Bezugsmensch im leben des Kindes.**5. Selbstfürsorge nicht vergessen:**
 
 Vergiss nicht, auch für dich selbst zu sorgen. Nimm dir Zeit für dich, um deine eigenen Bedürfnisse zu erfüllen und dich um dein eigenes Wohlbefinden zu kümmern. Es ist ganz normal, dass wir Auszeiten brauchen und es anstrengend ist. Indem du gut für dich selbst sorgst, kannst du auch besser für dein Bonuskind da sein.
 

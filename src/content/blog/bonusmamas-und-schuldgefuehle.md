@@ -22,14 +22,14 @@ Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und wesha
 
 Lass uns zunächst die Situationen betrachten, in denen sich Bonusmamas häufig schuldig fühlen:
 
-- Weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da**: Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
+- weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da**: Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
 - Wenn sie ** ihre eigenen Kinder bevorzugen**: Stiefmütter sorgen sich oft, dass sie ihre biologischen Kinder besser behandeln als ihre Stiefkinder.
 - Wenn sie ** die Stiefkinder nicht lieben**können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
 - Wenn sie **
 
 Zeit für sich brauchen:**Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
 
-- Weil sie**  den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
+- weil sie**  den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
 - Wenn sie**mit der leiblichen Mutter in Konflikt **geraten: Stiefmütter möchten oft nicht als Störfaktor in der Beziehung zwischen den Kindern und ihrer leiblichen Mutter gesehen werden.
 - Aufgrund**gesellschaftlicher Erwartungen **: Stiefmütter spüren oft den Druck, perfekt zu sein und alles richtig zu machen, was zu Schuldgefühlen führen kann, wenn sie diesen Erwartungen nicht gerecht werden.
 

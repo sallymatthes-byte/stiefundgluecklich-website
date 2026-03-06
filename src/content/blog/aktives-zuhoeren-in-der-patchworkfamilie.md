@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du auch dieses Gefühl, dass man manchmal einfach das Gefühl nicht verstanden worden zu sein?
-In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – nicht nur als [bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das Liegt daran, dass wir Häufig nicht Richtig Zuhören, sondern damit Beschäftigt sind, über unsere Antwort Nachzudenken.
+In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – nicht nur als [bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das liegt daran, dass wir häufig nicht richtig Zuhören, sondern damit Beschäftigt sind, über unsere Antwort Nachzudenken.
 Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden?
 Und wie setzt sich das in der Praxis um?
 
@@ -74,11 +74,11 @@ Diese Familienkonferenz war der erste Schritt zu einem harmonischen Familienlebe
 
 ## 5 Tipps zur Umsetzung
 
-- Zeigt eure Aufmerksamkeit durch Blickkontakt, Nicken und verbale Bestätigungen.
+- zeigt eure Aufmerksamkeit durch Blickkontakt, Nicken und verbale Bestätigungen.
 - Vermeidet Ablenkungen wie Smartphones oder laute Hintergrundgeräusche, um eine ungestörte Kommunikation zu ermöglichen.
-- Stellt offene Fragen, die den anderen dazu ermutigen, mehr über seine Gedanken und Gefühle zu erzählen.
+- stellt offene Fragen, die den anderen dazu ermutigen, mehr über seine Gedanken und Gefühle zu erzählen.
 - Wiederholt und paraphrasiert das, was euer Gegenüber gesagt hat, um sicherzustellen, dass ihr es richtig verstanden habt.
-- Vermeidet das Unterbrechen oder das sofortige Geben von Ratschlägen. Gebt eure eigene Meinung erst dann preis, wenn der andere ausgesprochen hat und danach gefragt hat.
+- Vermeidet das Unterbrechen oder das sofortige geben von Ratschlägen. Gebt eure eigene Meinung erst dann preis, wenn der andere ausgesprochen hat und danach gefragt hat.
 
 
 ## Zusammenfassung

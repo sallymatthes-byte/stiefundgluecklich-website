@@ -24,7 +24,7 @@ Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ord
 - **Im Schulalter**entwickeln Kinder ein starkes Bedürfnis nach Selbstbestimmung und lehnen Regeln oft ab. Sie hinterfragen elterliche Vorgaben und testen Grenzen aus, auch beim Thema Ordnung. Dennoch brauchen sie klare Strukturen und Routinen, um sich sicher und geborgen zu fühlen.
 - **In der Pubertät** wird das eigene Chaos oft als Ausdruck von Individualität und Abgrenzung gesehen. Jugendliche wollen ihr Reich nach eigenen Vorstellungen gestalten, auch wenn diese nicht immer mit der elterlichen Ordnung übereinstimmen. Hier gilt es, Verständnis zu zeigen und gleichzeitig gemeinsam Kompromisse zu finden.
 
-Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen Einfach noch Anstrengender.
+Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen einfach noch Anstrengender.
 
 ![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
 
@@ -47,7 +47,7 @@ Vielleicht hast du selbst andere Ordnungsstandards als die Bonusfamilie. Sei ber
 
 Veränderungen brauchen Zeit und Wiederholung. Bleib freundlich, aber bestimmt und feiere kleine Fortschritte.
 
-Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
+Vergiss nicht: auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
 > „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus.“ – Aus China
 
@@ -110,7 +110,7 @@ Setze dich mit deinem Partner zusammen und legt fest, welche Aufräum-Regeln fü
 
 Jedes Kind braucht einen Platz, an dem es seine Sachen aufbewahren kann. Investiert in praktische Aufbewahrungsboxen, Regale oder Schränke, die das Aufräumen erleichtern.
 
-- **Baut Aufräumen in die Tagesroutine ein:*** Macht das Aufräumen zu einem festen Bestandteil eures Tagesablaufs.* Beispielsweise können die Kinder vor dem Abendessen oder vor dem Schlafengehen ihr Zimmer aufräumen.
+- **Baut Aufräumen in die Tagesroutine ein:*** macht das Aufräumen zu einem festen Bestandteil eures Tagesablaufs.* Beispielsweise können die Kinder vor dem Abendessen oder vor dem Schlafengehen ihr Zimmer aufräumen.
 - **Gebt selbst ein gutes Vorbild ab:** Kinder lernen durch Nachahmung. Wenn sie sehen, dass auch die Erwachsenen regelmäßig aufräumen, werden sie es leichter akzeptieren. *Räumt gemeinsam auf und zeigt, dass Ordnung für alle gilt.*
 - **Lobt Fortschritte und feiert Erfolge:**
 

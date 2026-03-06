@@ -11,10 +11,10 @@ image: "/images/blog/bleiben-oder-gehen-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das Leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
+Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
 
 Und ganz ehrlich? Ich kenne diese Gedanken auch.
-Am Anfang unserer Beziehung überwog das Verliebt-Sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
+Am Anfang unserer Beziehung überwog das verliebt-Sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
 
 Und immer wieder lese ich in Social Media davon, dass es vielen Stiefmüttern so geht. Irgendwann scheinen die Belastungen zu viel werden und man würde alles am liebsten hinschmeißen. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
 

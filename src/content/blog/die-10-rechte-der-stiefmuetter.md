@@ -21,14 +21,14 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 Kennst du das Gefühl, als Stiefmutter immer wieder an deine Grenzen zu stoßen? Du übernimmst Verantwortung für die Kinder deines Partners, gestaltest den Familienalltag mit und investierst viel Zeit und Energie. *Doch oft fühlst du dich dabei unsichtbar, als würden deine eigenen Bedürfnisse und Wünsche keine Rolle spielen.* Vielleicht hast du schon erlebt, wie Entscheidungen über deinen Kopf hinweg getroffen wurden oder du bei Konflikten zwischen den Fronten stehst.
 
-Du sehnst dich danach, respektiert und wertgeschätzt zu werden – Sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest Deine Rolle Aktiv Gestalten, Anstatt dich Ständig Anzupassen und Zurückzustecken.**doch der Weg Dorthin ist nicht immer Einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
+Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest deine Rolle Aktiv Gestalten, anstatt dich ständig Anzupassen und Zurückzustecken.**doch der Weg Dorthin ist nicht immer einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
 
 
 > „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen.” – J.W. von Goethe
 
 ## #1 “Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen.”
 
-In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – hinter den Kindern, der Ex-partnerin oder den Bedürfnissen Anderer.**  doch eine Starke Partnerschaft ist Essenziell, um die Familie zu Stabilisieren.** es geht darum, Klare Grenzen zu setzen, auch Gegenüber der Ex-partnerin, und Bewusst Zeit für die Paarbeziehung Einzuplanen.
+In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – hinter den Kindern, der Ex-partnerin oder den Bedürfnissen Anderer.**  doch eine Starke Partnerschaft ist Essenziell, um die Familie zu Stabilisieren.** es geht darum, Klare Grenzen zu setzen, auch Gegenüber der Ex-partnerin, und bewusst Zeit für die Paarbeziehung Einzuplanen.
 
 Stell dir vor, du hast ein Date mit deinem Partner geplant, aber seine Ex ruft an, weil sie spontan Hilfe braucht. Er sagt sofort zu und lässt dich stehen. Du fühlst dich zurückgesetzt und fragst dich, ob du wirklich an erster Stelle stehst.
 
@@ -38,13 +38,13 @@ Stell dir vor, du hast ein Date mit deinem Partner geplant, aber seine Ex ruft a
 
 Entscheidungen, die die ganze Familie betreffen, sollten nicht über den Kopf der Stiefmutter hinweg getroffen werden. **Als Stiefmutter hast du ein Recht darauf, gehört und einbezogen zu werden. **Stell dir vor, dein Partner und seine Ex entscheiden, dass das Kind täglich 2 Stunden lernen soll, ohne dich vorher zu fragen oder deine Meinung einzuholen. Du erfährst es nur zufällig und fühlst dich übergangen, da du ja diejenige bist, die die Hausaufgabenzeit abdeckt.
 
-Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr Leben und das der Familie betreffen. **Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen. **Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
+Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr leben und das der Familie betreffen. **Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen. **Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
 
 ## #3 “Ex-Partner, Schwiegereltern und erwachsene Kinder dürfen keine Pläne machen, die mein Leben betreffen, ohne meine Zustimmung.”
 
 Als Stiefmutter hast du ein Recht auf Privatsphäre und darauf, dass deine Zeit und deine Ressourcen respektiert werden. **Andere Familienmitglieder sollten keine Pläne schmieden, die dich betreffen, ohne dich einzubeziehen und dein Einverständnis einzuholen. **Nehmen wir an, deine Schwiegermutter plant einen Familienurlaub und setzt einfach voraus, dass du mitkommst und die Kosten trägst. Oder die Ex-Partnerin deines Mannes beschließt spontan, dass die Kinder eine Woche länger bei euch bleiben, ohne zu fragen, ob das für dich in Ordnung ist.
 
-*Als Stiefmutter bist du kein Anhängsel der Familie, sondern ein eigenständiger Mensch mit eigenen Bedürfnissen und Plänen.* Es ist eine Frage des Respekts, dich bei Entscheidungen, die dein Leben betreffen, zu konsultieren und deine Zustimmung einzuholen.
+*Als Stiefmutter bist du kein Anhängsel der Familie, sondern ein eigenständiger Mensch mit eigenen Bedürfnissen und Plänen.* Es ist eine Frage des Respekts, dich bei Entscheidungen, die dein leben betreffen, zu konsultieren und deine Zustimmung einzuholen.
 
 ![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-2.jpg)
 
@@ -58,7 +58,7 @@ Studien (Papernow, 2013) zur Bedeutung der Rechte der Stiefmütter zeigen, dass 
 
 ## #5 “Ich werde bei der Entscheidung konsultiert, welche Kinder bei uns leben, wann sie zu Besuch kommen und wie lange sie bleiben.”
 
-Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – ohne dich Vorher zu Fragen oder deine Meinung Einzuholen. *plötzlich Siehst du dich mit einer Völlig Neuen Situation Konfrontiert, die Deinen Alltag auf den Kopf Stellt.*
+Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – ohne dich Vorher zu Fragen oder deine Meinung Einzuholen. *plötzlich siehst du dich mit einer völlig Neuen Situation Konfrontiert, die deinen Alltag auf den Kopf stellt.*
 
 **Solche Situationen sind zutiefst frustrierend und vermitteln das Gefühl, dass die eigenen Bedürfnisse nicht wichtig sind. **Du hast ein Recht darauf, in diese Prozesse eingebunden zu werden und deine Sichtweise einzubringen.
 
@@ -76,7 +76,7 @@ In einer Patchworkfamilie können Finanzen schnell zu einem heiklen Thema werden
 
 *Es geht nicht darum, dass du als Stiefmutter jede Entscheidung dominierst, sondern dass du zumindest informiert und einbezogen wirst.* Schließlich betreffen die gemeinsamen Ausgaben euch beide.
 
-Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partner. Aber wenn es um größere Entscheidungen geht, die euer gemeinsames Leben betreffen, solltest du auf jeden Fall informiert werden.
+Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partner. Aber wenn es um größere Entscheidungen geht, die euer gemeinsames leben betreffen, solltest du auf jeden Fall informiert werden.
 
 ![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-3.jpg)
 
@@ -84,7 +84,7 @@ Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partn
 
 Wenn Kinder aus einer früheren Beziehung regelmäßig bei euch leben, kann es leicht passieren, dass deine persönlichen Grenzen überschritten werden. **Schließlich hat jeder Mensch das Recht auf einen privaten Rückzugsort und darauf, dass persönliche Dinge respektiert werden. **Psychologen betonen immer wieder, wie wichtig klare persönliche Grenzen in Patchworkfamilien sind. *Natürlich verstehen besonders jüngere Kinder oft nicht von selbst, warum Privatsphäre so wichtig ist.*
 
-Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln Klar zu Kommunizieren und Konsequent Durchzusetzen. Indem ihr Als Team Auftritt, kann dein Zuhause zu einem Ort werden, an dem Sich alle Wohlfühlen.
+Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln klar zu Kommunizieren und Konsequent Durchzusetzen. Indem ihr Als Team Auftritt, kann dein Zuhause zu einem Ort werden, an dem sich alle Wohlfühlen.
 
 ## #9 “Ich werde in meinem eigenen Zuhause nicht als Außenseiterin behandelt.”
 
@@ -116,7 +116,7 @@ Und jetzt? Du hast den Artikel gelesen und denkst: “Ja, genau so fühle ich mi
 
 In einem 30-minütigen Gespräch entwickeln wir gemeinsam:
 
-- Deine Top-3-Schmerzpunkte, die SOFORT angegangen werden müssen
+- deine Top-3-Schmerzpunkte, die SOFORT angegangen werden müssen
 - Eine maßgeschneiderte Strategie für deine spezifische Familiensituation
 
 

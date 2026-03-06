@@ -86,9 +86,9 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 
 - Hört einander zu und versucht, die Perspektive des anderen nachzuvollziehen
-- Zeigt Mitgefühl und Geduld, auch wenn es mal schwierig ist
+- zeigt Mitgefühl und Geduld, auch wenn es mal schwierig ist
 
-> Geht [Konflikte](/blog/bonuskinder-und-konflikte/) konstruktiv an und löst sie - Bleibt bei Meinungsverschiedenheiten sachlich und respektvoll
+> Geht [Konflikte](/blog/bonuskinder-und-konflikte/) konstruktiv an und löst sie - bleibt bei Meinungsverschiedenheiten sachlich und respektvoll
 
 - Sucht gemeinsam nach Kompromissen und Lösungen, die für alle funktionieren
 - Vergebt einander und lernt aus den Erfahrungen für die Zukunft

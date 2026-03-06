@@ -10,7 +10,7 @@ image: "/images/blog/das-vier-ohren-modell-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon Entfacht ein Streit. Plötzlich Wirfst du deinem Partner vor, nicht Genug Im Haushalt zu helfen oder dich zu Vernachlässigen. Dabei Wolltest du eigentlich nur eine Harmlose Bemerkung machen, doch Irgendwie ist alles aus dem Ruder Gelaufen.
+Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon Entfacht ein Streit. Plötzlich Wirfst du deinem Partner vor, nicht genug Im Haushalt zu helfen oder dich zu Vernachlässigen. Dabei Wolltest du eigentlich nur eine Harmlose Bemerkung machen, doch Irgendwie ist alles aus dem Ruder Gelaufen.
 
 In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer Kommunikation. **Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
 
@@ -26,7 +26,7 @@ Die Reaktion meines Partners kam unerwartet: “Was soll ich denn noch alles im 
 
 Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen können. **Ein harmloser Satz hatte ausgereicht, um einen Konflikt auszulösen. **Doch warum? Die Antwort fand ich im 4-Ohren-Modell von Friedemann Schulz von Thun.
 
-Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: Mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
+Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
 ![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
 
@@ -49,7 +49,7 @@ Die Umsetzung des 4-Ohren-Modells in unseren Alltag brachte einige Herausforderu
 
 Ein Beispiel: mein Partner sagte: “der Müll ist voll.” Für ihn war das eine sachliche Feststellung, doch ich hörte den Vorwurf heraus: “Du hast vergessen, den Müll rauszubringen.” Schnell entwickelte sich ein Streit darüber, wer wofür verantwortlich sei und warum der andere sich nicht genug einbringe.
 
-**Um solche Situationen zu entschärfen, probierten wir verschiedene Ansätze aus. **Zunächst einigten wir uns auf Ich-Botschaften, um klarzumachen, was wir meinen, ohne den anderen direkt zu kritisieren. Statt “Du hast schon wieder nicht aufgeräumt” sagten wir: “Ich wünsche mir eine sauberere Küche.”
+**Um solche Situationen zu entschärfen, probierten wir verschiedene Ansätze aus. **Zunächst einigten wir uns auf ich-Botschaften, um klarzumachen, was wir meinen, ohne den anderen direkt zu kritisieren. Statt “Du hast schon wieder nicht aufgeräumt” sagten wir: “Ich wünsche mir eine sauberere Küche.”
 
 Auch versuchten wir, konkrete Bitten zu formulieren, statt unterschwellige Appelle zu senden. “Könntest du bitte den Müll rausbringen?” kam besser an als ein genervtes “Der Müll ist voll”.
 
