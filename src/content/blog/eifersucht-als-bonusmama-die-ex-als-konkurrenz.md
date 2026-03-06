@@ -124,3 +124,13 @@ Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verste
 Kraft und Selbstbewusstsein*** verwandeln kannst
 
 
+## Häufige Fragen
+
+### Warum bin ich als Bonusmama eifersüchtig auf die Ex-Frau?
+Die Eifersucht auf die Ex entsteht, weil sie eine gemeinsame Geschichte mit deinem Partner hat, die du nie haben wirst — gemeinsame Kinder, gemeinsame Erinnerungen, eine Verbindung die nie ganz endet. Das löst Unsicherheit aus: Bin ich genug? Werde ich jemals so wichtig sein?
+
+### Wie gehe ich mit Eifersucht auf die Ex-Partnerin um?
+Hör auf, dich mit ihr zu vergleichen. Eure Beziehungen sind komplett unterschiedlich — sie ist die Vergangenheit, du bist die Gegenwart. Lösch Social-Media-Stalking, sprich ehrlich mit deinem Partner über deine Gefühle, und konzentriere dich auf das, was euch als Paar stark macht.
+
+### Ist Eifersucht auf die Ex normal?
+Absolut. Fast jede Bonusmama kennt dieses Gefühl in irgendeiner Form. Es wird erst zum Problem, wenn es dein Denken und Handeln dominiert. Dann lohnt es sich, genauer hinzuschauen — oft stecken eigene [Glaubenssätze](/blog/glaubenssaetze-als-bonusmama/) und alte Verletzungen dahinter.

@@ -91,3 +91,15 @@ Vielleicht liest du diese Zeilen gerade mit pochendem Herzen, weil du dich in je
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 ***Du bist nicht allein mit diesen Gedanken.*** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
+
+
+## Häufige Fragen
+
+### Ist es normal, auf das Stiefkind eifersüchtig zu sein?
+Ja, absolut. Eifersucht auf das Stiefkind ist eines der häufigsten Gefühle bei Bonusmamas — und gleichzeitig eines der am meisten tabuisierten. Es bedeutet nicht, dass du das Kind nicht magst. Es zeigt, dass du dir mehr Nähe und Sicherheit in deiner Beziehung wünschst.
+
+### Warum bin ich eifersüchtig auf die Beziehung zwischen meinem Partner und seinem Kind?
+Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst, ob du jemals so dazugehören wirst. Die Eifersucht richtet sich nicht wirklich gegen das Kind, sondern gegen das Gefühl, außen vor zu sein. Dieses Gefühl ist in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) besonders häufig.
+
+### Was kann ich gegen Stiefkind-Eifersucht tun?
+Erkenne die Eifersucht als Signal, nicht als Charakterfehler. Frag dich: Was brauche ich gerade wirklich? Meistens geht es um Zeit zu zweit mit deinem Partner, Anerkennung oder das Gefühl, einen festen Platz zu haben. Sprich das offen an — nicht als Vorwurf, sondern als Bedürfnis.

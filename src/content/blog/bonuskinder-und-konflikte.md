@@ -75,3 +75,15 @@ Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvol
 Konflikte mit den Bonuskindern sind nicht immer vermeidbar – wichtig ist jedoch, dass du dich in das Kind Hineinversetzt, ihm Zuhörst und deine Grenzen Kommunizierst. In einer Familie sind sowohl deine Als auch die Grenzen der Kinder Gleich wichtig – wenn diese klar sind, können Konflikte Friedlich Miteinander Gelöst werden.
 
 Wie löst ihr Konflikte mit den Kindern? Schreib mir eine Nachricht und erzähl mir davon!
+
+
+## Häufige Fragen
+
+### Warum lehnt mein Bonuskind mich ab?
+Ablehnung durch das Bonuskind ist selten persönlich gemeint. Meistens steckt dahinter: Angst, die Mama zu verraten; Wut über die Trennung der Eltern; oder Unsicherheit über die neue Familiensituation. Das Kind testet, ob du bleibst — auch wenn es dich wegstößt.
+
+### Wie baue ich eine Beziehung zum Bonuskind auf?
+Langsam und ohne Druck. Sei verlässlich, aber erwarte keine sofortige Nähe. Finde gemeinsame Aktivitäten auf Augenhöhe — nicht als Ersatzmutter, sondern als eigenständige Bezugsperson. Die Beziehung zum Bonuskind braucht oft Jahre, nicht Wochen.
+
+### Was tun, wenn mein Stiefkind die Beziehung zerstört?
+Kein Kind zerstört bewusst eine Beziehung. Wenn es sich so anfühlt, schau genauer hin: Ist das Kind überfordert? Fehlen klare Strukturen? Setzt dein Partner Grenzen? Meistens liegt das Problem nicht beim Kind, sondern im System drumherum.

@@ -133,3 +133,15 @@ Und genau dafür bin ich da.
 …weil du denkst: „Ich will kein Drama machen.“Oder: „Ich will dem Kind nichts wegnehmen.“
 
 Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht – sondern für das ganze System gut ist?
+
+
+## Häufige Fragen
+
+### Was ist das Mini-Wife-Syndrom?
+Das Mini-Wife-Syndrom beschreibt ein Verhalten, bei dem die Tochter die Rolle der Partnerin des Vaters einnimmt — sie entscheidet mit, sitzt auf dem Beifahrersitz, bestimmt den Alltag. Es ist kein bewusstes Verhalten des Kindes, sondern entsteht oft, weil der Vater nach der Trennung unbewusst emotionale Lücken durch die Tochter füllt.
+
+### Wie gehe ich als Bonusmama mit Mini-Wife-Verhalten um?
+Sprich mit deinem Partner unter vier Augen darüber — nicht vor dem Kind. Erkläre, was du beobachtest und wie es sich für dich anfühlt. Es geht nicht darum, dem Kind etwas wegzunehmen, sondern darum, gesunde Rollen wiederherzustellen. Der Vater muss die Veränderung einleiten, nicht du.
+
+### Ist Mini-Wife-Verhalten schädlich für das Kind?
+Ja, langfristig kann es das Kind überfordern. Kinder, die in eine Erwachsenenrolle gedrängt werden, tragen Verantwortung, die nicht zu ihrem Alter passt. Das kann zu [Loyalitätskonflikten](/blog/loyalitaetskonflikte-von-bonuskindern/) und emotionaler Überlastung führen.

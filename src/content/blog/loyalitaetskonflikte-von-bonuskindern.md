@@ -102,3 +102,14 @@ Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren 
 ## Zusammenfassung
 Bonuskinder in Patchworkfamilien sind oft mit schmerzhaften Verlusterfahrungen und belastenden Loyalitätskonflikten konfrontiert. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch lernen, sich in einer neuen Familienkonstellation zurechtzufinden, ohne die leiblichen Eltern zu verletzen. Hinzu kommt die Überforderung durch zu viele und zu schnelle Veränderungen, die die Kinder leicht aus dem Gleichgewicht bringen können.
 
+
+## Häufige Fragen
+
+### Was sind Loyalitätskonflikte bei Kindern in Patchworkfamilien?
+Ein Loyalitätskonflikt entsteht, wenn ein Kind das Gefühl hat, sich zwischen zwei Bezugspersonen entscheiden zu müssen — meistens zwischen der leiblichen Mutter und der Bonusmama. Das Kind fühlt sich schuldig, wenn es die neue Partnerin des Vaters mag, weil es glaubt, damit die Mama zu verraten.
+
+### Woran erkenne ich einen Loyalitätskonflikt beim Bonuskind?
+Typische Zeichen: Das Kind verhält sich bei der Übergabe plötzlich anders, lehnt Nähe ab die es vorher zugelassen hat, sagt Dinge wie „Mama hat gesagt, ich darf dich nicht lieb haben", oder zieht sich emotional zurück. Oft schwankt das Verhalten zwischen zwei Extremen.
+
+### Wie kann ich als Bonusmama mit Loyalitätskonflikten umgehen?
+Dränge dich nicht auf. Gib dem Kind Raum und signalisiere: Du musst dich nicht entscheiden. Ich bin da, ohne dass du dafür deine Mama verraten musst. Sprich nie schlecht über die leibliche Mutter — auch nicht indirekt. Das Kind braucht die Erlaubnis, alle seine Bezugspersonen lieb haben zu dürfen.

@@ -86,3 +86,15 @@ Yvonne war verzweifelt: Ständige Auseinandersetzungen mit ihrem Partner wegen s
 Ich lade dich ein, gemeinsam mit mir diesen Weg zu gehen. Lass uns zusammen deine Herausforderungen analysieren, neue Handlungsoptionen entwickeln und Schritt für Schritt an einer erfüllten Beziehung arbeiten.
 
 Mit meiner Erfahrung und Expertise stehe ich dir dabei als Begleiter zur Seite – damit auch du schon Bald sagen kannst: “ich Habe mich von den Konflikten mit der Ex Befreit – und Bin dadurch zu einem Stärkeren, Glücklicheren Menschen Geworden.” Bist du Bereit für diesen Wandel? Dann Melde dich noch heute bei mir – ich Freue mich darauf, dich auf deinem Weg zu Unterstützen!
+
+
+## Häufige Fragen
+
+### Warum gibt es ständig Streit wegen der Ex-Frau?
+Konflikte mit der Ex entstehen meistens aus ungeklärten Grenzen: Wer entscheidet was? Wer hat welche Rolle? Oft sind die alten Beziehungskonflikte zwischen den leiblichen Eltern nie aufgearbeitet worden — und du als Bonusmama steckst mittendrin.
+
+### Was tun, wenn die Ex-Frau ständig Probleme macht?
+Setze klare Grenzen, was dich betrifft und was nicht. Nicht jeder Konflikt zwischen deinem Partner und seiner Ex ist dein Kampf. Unterstütze deinen Partner, ohne dich selbst aufzureiben. Und: Unterscheide zwischen echtem Problemverhalten und deiner eigenen Interpretation.
+
+### Wie kann ich die Ex-Partnerin meines Partners akzeptieren?
+Akzeptanz bedeutet nicht Sympathie. Es bedeutet anzuerkennen, dass sie Teil des Systems ist und bleiben wird — als Mutter der Kinder. Je weniger Energie du in den Widerstand gegen diese Tatsache steckst, desto freier wirst du für die Dinge, die du tatsächlich beeinflussen kannst.

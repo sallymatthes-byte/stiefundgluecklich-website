@@ -117,3 +117,18 @@ So wie für Christina und Maria:
     <p class="testimonial-author">Maria, 41 · Bonusmama einer Teenagerin</p>
   </div>
 </div>
+
+
+## Häufige Fragen
+
+### Was ist eine Stiefmutter?
+Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann führt, der bereits Kinder aus einer früheren Beziehung hat. Der Begriff stammt aus dem Althochdeutschen und bedeutet ursprünglich „verwaist" — nicht „böse", wie viele denken. Heute verwenden viele Frauen lieber den Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
+
+### Ab wann ist man Stiefmutter?
+Rechtlich gibt es keinen festen Zeitpunkt. In der Praxis wirst du zur Stiefmutter, sobald du eine feste Beziehung mit einem Vater eingehst und regelmäßig Kontakt zu seinen Kindern hast — ob ihr zusammenwohnt oder nicht. Die Rolle entwickelt sich schrittweise.
+
+### Was bedeutet Bonusmama?
+Bonusmama ist eine positive Alternative zum Begriff Stiefmutter. Er betont, dass du ein Bonus für die Familie bist — eine zusätzliche Bezugsperson, kein Ersatz für die leibliche Mutter. Der Begriff hat sich im deutschsprachigen Raum seit etwa 2015 verbreitet.
+
+### Welche Rechte hat eine Stiefmutter?
+Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z.B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.

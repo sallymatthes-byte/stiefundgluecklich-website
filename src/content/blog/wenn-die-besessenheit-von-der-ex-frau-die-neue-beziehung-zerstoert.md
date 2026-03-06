@@ -122,3 +122,13 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 - Wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
 
 
+## Häufige Fragen
+
+### Warum bin ich so besessen von der Ex-Frau meines Partners?
+Die Beschäftigung mit der Ex ist eine natürliche Reaktion auf Unsicherheit. Du vergleichst dich, weil du deinen Platz in der Beziehung noch nicht sicher spürst. Es geht selten wirklich um die Ex — sondern um deine eigenen Ängste, nicht gut genug zu sein oder ersetzt zu werden.
+
+### Wie höre ich auf, an die Ex-Frau zu denken?
+Der erste Schritt ist, die Gedanken nicht zu bekämpfen, sondern zu verstehen, welches Bedürfnis dahintersteckt. Frag dich: Was genau löst die Eifersucht aus? Meistens geht es um Sicherheit und Zugehörigkeit. Sprich mit deinem Partner darüber — nicht über die Ex, sondern über deine Gefühle.
+
+### Kann die Ex-Frau eine neue Beziehung zerstören?
+Die Ex-Frau selbst zerstört selten eine Beziehung. Was Beziehungen gefährdet, ist der Umgang damit: wenn der Partner keine klaren Grenzen setzt, wenn Konflikte mit der Ex eure Partnerschaft dominieren, oder wenn du dich in Vergleichen verlierst. Die Lösung liegt immer in eurer Beziehung, nicht bei der Ex.
