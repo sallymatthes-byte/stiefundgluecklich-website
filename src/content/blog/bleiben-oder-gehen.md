@@ -8,55 +8,72 @@ metaTitle: "Patchworkfamilie: Bleiben oder gehen?"
 metaDescription: "Du fragst dich, ob du in der Patchworkfamilie bleiben oder gehen sollst? Eine ehrliche Reflexion für den schwersten Moment."
 heroImage: "/images/blog/bleiben-oder-gehen-1.jpg"
 image: "/images/blog/bleiben-oder-gehen-1.jpg"
-imageAlt: "Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie"
+imageAlt: "Nachdenkliche Frau am Fenster, die über ihre Zukunft in der Patchworkfamilie nachdenkt"
 ---
 
-Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
+Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das Leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
 
 Und ganz ehrlich? Ich kenne diese Gedanken auch.
-Am Anfang unserer Beziehung überwog das verliebt-sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
+Am Anfang unserer Beziehung überwog das Verliebt-Sein und ich fand es toll und aufregend. Doch mit der Zeit traten Differenzen zutage und ich überlegte ernsthaft, ob es wert ist, diese Beziehung weiterzuführen.
 
-Und immer wieder lese ich in Social Media davon, dass es vielen Stiefmüttern so geht. Irgendwann scheinen die Belastungen zu viel werden und man würde alles am liebsten hinschmeißen. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
+Und immer wieder lese ich in Social Media davon, dass es vielen Stiefmüttern so geht. Irgendwann scheinen die Belastungen zu viel zu werden und man würde alles am liebsten hinschmeißen. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
 
-## Ist das noch "Normal"?
+## Ist das noch „Normal"?
 
 Oder wenn du versuchst, dich in die Erziehung einzubringen, aber immer wieder auf Widerstand stößt. Eigentlich würdest du es ja ganz anders machen, wenn die Kinder deine eigenen wären. Die Frustration und Hilflosigkeit, nicht zu wissen, wie du dich einbringen kannst und gleichzeitig den Frieden bewahrst, sind überwältigend.
 
 Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner und den Kindern hin- und hergerissen fühlst. Die ambivalenten Gefühle von Liebe und Verantwortung, aber auch von Eifersucht und Unsicherheit, lassen dich manchmal verzweifeln. Dass du gefühlt immer hinter den Kindern zurückstecken musst, nagt auch an dir. Und [Zeit füreinander](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) findet ihr schon gar nicht.
 
-Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre.  Kennst du das auch?
+Schließlich fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre. Kennst du das auch?
+
+![Frau sitzt allein auf dem Sofa und blickt nachdenklich aus dem Fenster](/images/blog/bleiben-oder-gehen-2.jpg)
 
 ## Aber dann gibt es ja auch noch diese Momente…
+
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
 
-![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie - Stimmungsbild 1](/images/blog/bleiben-oder-gehen-2.jpg)
-
 ## Wenn nur die Kinder nicht wären
+
 Du bist vielleicht gereizt, wenn die Kinder da sind.
 Oder du ziehst dich mehr zurück, versuchst mehr Zeit außerhalb der Familie zu verbringen.
 Damit distanzierst du dich von den Kindern, ihr seid nicht mehr verbunden, teilt kaum noch schöne Momente. Ihr [streitet](/blog/bonuskinder-und-konflikte/) mehr und irgendwie können es dir die Kinder nicht recht machen.
-Das führt letztendlich dazu, dass du dich in deinem zu Hause nur zu Gast fühlst, wenn die Kinder da sind. Du hast das Gefühl, kein Teil der Familie zu sein.
+Das führt letztendlich dazu, dass du dich in deinem Zuhause nur zu Gast fühlst, wenn die Kinder da sind. Du hast das Gefühl, kein Teil der Familie zu sein.
 
-> *An den Scheidewegen des Lebens stehen keine Wegweiser.* – Charlie Chaplin
-
+> An den Scheidewegen des Lebens stehen keine Wegweiser. – Charlie Chaplin
 
 ## Lösungsversuche
+
 Möglicherweise streitet ihr euch aber auch, weil dein Partner deine Gefühle nicht verstehen kann.
 Und obwohl du so gern eine Lösung finden würdest, hast du den Eindruck, dass es keine gibt.
-Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer diese Distanz in der kinderfreien Zeit zu überwinden.
+Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer, diese Distanz in der kinderfreien Zeit zu überwinden.
 
-
-![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie - Stimmungsbild 2](/images/blog/bleiben-oder-gehen-3.jpg)
+![Paar sitzt auf einer Bank mit Abstand zueinander und schaut in verschiedene Richtungen](/images/blog/bleiben-oder-gehen-3.jpg)
 
 ## Ist es Zeit zu gehen?
 
 Ich habe an diesem Punkt mich aktiv dagegen entschieden und habe mich auf den Weg gemacht, diese Gedanken zu ergründen und für die Beziehung zu kämpfen. Denn für mich war klar, dass dieser Mann es wert ist.
-Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.
+Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): Wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.
 Wo stehst du gerade? Schreibe mir gern eine private Nachricht und erzähle mir davon!
 
-
 ## Zusammenfassung
-Diese ambivalenten Gefühle sind dann sehr belastend und führen zu Rückzug oder Distanz zu den Bonuskindern und dem Partner.
-Du bist nicht allein mit diesen gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern.
-, wenn du dir dabei Hilfe wünschst!
+
+Diese ambivalenten Gefühle sind sehr belastend und führen zu Rückzug oder Distanz zu den Bonuskindern und dem Partner.
+Du bist nicht allein mit diesen Gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern, wenn du dir dabei Hilfe holst.
+
+<!-- FAQ_START
+<details>
+<summary>Ist es normal, als Bonusmama ans Gehen zu denken?</summary>
+Ja, viele Bonusmamas kennen diesen Gedanken. Die Belastungen in einer Patchworkfamilie sind real und es ist kein Zeichen von Schwäche, wenn du dich fragst, ob du bleiben oder gehen sollst.
+</details>
+
+<details>
+<summary>Wann sollte ich als Stiefmutter die Beziehung beenden?</summary>
+Solange du innerlich noch nicht aufgegeben hast, gibt es Möglichkeiten. Erst wenn die innere Kündigung bereits vollzogen ist, wird es schwer, das Ruder herumzureißen. Hol dir vorher Unterstützung.
+</details>
+
+<details>
+<summary>Was kann ich tun, wenn ich mich in der Patchworkfamilie nicht zugehörig fühle?</summary>
+Sprich offen mit deinem Partner über deine Gefühle. Suche dir Unterstützung bei anderen Bonusmamas oder einem Coach. Du musst das nicht allein durchstehen.
+</details>
+FAQ_END -->
