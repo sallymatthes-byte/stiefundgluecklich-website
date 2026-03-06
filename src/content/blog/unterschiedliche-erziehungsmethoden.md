@@ -40,7 +40,7 @@ Lass uns nun direkt mal tiefer in die dritte Herausforderung einsteigen.
 
 Doch so verständlich die Positionen auch sein mögen: Für Kinder sind diese Machtkämpfe fatal. Anstatt Sicherheit und Stabilität zu bekommen, erleben sie die Erwachsenen als zerstritten. Es ist daher immens wichtig, dass Eltern und Bonuseltern in Erziehungsfragen an einem Strang ziehen. Wie das geht, erfährst du im nächsten Abschnitt.
 
-> Erziehung besteht aus zwei Dingen: Beispiel und Liebe.“ – Friedrich Fröbel
+> Erziehung besteht aus zwei Dingen: Beispiel und Liebe. – Friedrich Fröbel
 
 ## Zurückhaltung als Bonuseltern
 

@@ -18,19 +18,19 @@ Am Anfang unserer Beziehung überwog das verliebt-sein und ich fand es toll und 
 
 Und immer wieder lese ich in Social Media davon, dass es vielen Stiefmüttern so geht. Irgendwann scheinen die Belastungen zu viel werden und man würde alles am liebsten hinschmeißen. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
 
-## Ist das noch “Normal”?
+## Ist das noch "Normal"?
 
 Oder wenn du versuchst, dich in die Erziehung einzubringen, aber immer wieder auf Widerstand stößt. Eigentlich würdest du es ja ganz anders machen, wenn die Kinder deine eigenen wären. Die Frustration und Hilflosigkeit, nicht zu wissen, wie du dich einbringen kannst und gleichzeitig den Frieden bewahrst, sind überwältigend.
 
 Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner und den Kindern hin- und hergerissen fühlst. Die ambivalenten Gefühle von Liebe und Verantwortung, aber auch von Eifersucht und Unsicherheit, lassen dich manchmal verzweifeln. Dass du gefühlt immer hinter den Kindern zurückstecken musst, nagt auch an dir. Und [Zeit füreinander](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) findet ihr schon gar nicht.
 
-Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre.  Kennst du das auch?
+Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre.  Kennst du das auch?
 
 ## Aber dann gibt es ja auch noch diese Momente…
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
 
-![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie — Stimmungsbild 1](/images/blog/bleiben-oder-gehen-2.jpg)
+![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie - Stimmungsbild 1](/images/blog/bleiben-oder-gehen-2.jpg)
 
 ## Wenn nur die Kinder nicht wären
 Du bist vielleicht gereizt, wenn die Kinder da sind.
@@ -38,7 +38,7 @@ Oder du ziehst dich mehr zurück, versuchst mehr Zeit außerhalb der Familie zu 
 Damit distanzierst du dich von den Kindern, ihr seid nicht mehr verbunden, teilt kaum noch schöne Momente. Ihr [streitet](/blog/bonuskinder-und-konflikte/) mehr und irgendwie können es dir die Kinder nicht recht machen.
 Das führt letztendlich dazu, dass du dich in deinem zu Hause nur zu Gast fühlst, wenn die Kinder da sind. Du hast das Gefühl, kein Teil der Familie zu sein.
 
-> “*An den Scheidewegen des Lebens stehen keine Wegweiser.*” – Charlie Chaplin
+> *An den Scheidewegen des Lebens stehen keine Wegweiser.* – Charlie Chaplin
 
 
 ## Lösungsversuche
@@ -47,7 +47,7 @@ Und obwohl du so gern eine Lösung finden würdest, hast du den Eindruck, dass e
 Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer diese Distanz in der kinderfreien Zeit zu überwinden.
 
 
-![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie — Stimmungsbild 2](/images/blog/bleiben-oder-gehen-3.jpg)
+![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie - Stimmungsbild 2](/images/blog/bleiben-oder-gehen-3.jpg)
 
 ## Ist es Zeit zu gehen?
 

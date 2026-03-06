@@ -23,7 +23,7 @@ Und wie setzt sich das in der Praxis um?
 Oftmals scheitern Beziehungen daran, dass wir nicht wirklich zuhören, sondern nur darauf warten, selbst gehört zu werden.
 Doch das wahre Geschenk liegt darin, dem anderen unsere volle Aufmerksamkeit zu schenken und mit offenem Herzen zuzuhören.
 
-> “Die meisten Menschen hören nicht zu, um zu verstehen, sondern um zu antworten.” – STEPHEN R. COVEY
+> Die meisten Menschen hören nicht zu, um zu verstehen, sondern um zu antworten. – STEPHEN R. COVEY
 
 
 ![Aktives Zuhören in der Patchworkfamilie — Stimmungsbild 1](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-2.jpg)

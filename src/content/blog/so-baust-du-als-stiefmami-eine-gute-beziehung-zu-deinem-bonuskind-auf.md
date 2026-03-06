@@ -35,7 +35,7 @@ Achte darauf, dass du die Rolle der leiblichen Eltern respektierst und dich nich
 
 Vergiss nicht, auch für dich selbst zu sorgen. Nimm dir Zeit für dich, um deine eigenen Bedürfnisse zu erfüllen und dich um dein eigenes Wohlbefinden zu kümmern. Es ist ganz normal, dass wir Auszeiten brauchen und es anstrengend ist. Indem du gut für dich selbst sorgst, kannst du auch besser für dein Bonuskind da sein.
 
-> “Kinder sind wie Blumen. Man muss sich zu ihnen niederbeugen, wenn man sie erkennen will.” – Friedrich Fröbel
+> Kinder sind wie Blumen. Man muss sich zu ihnen niederbeugen, wenn man sie erkennen will. – Friedrich Fröbel
 
 
 ## Verwandle Stolpersteine in Edelsteine

@@ -45,7 +45,7 @@ Das bedeutet nicht, dass du die Vergangenheit beschönigen oder problematisches 
 
 Ja, es ist nicht immer einfach. Aber denk daran: deine Akzeptanz und dein Verständnis sind ein unschätzbares Geschenk für die Kinder – und Letztlich auch für deinen Partner und eure Beziehung. Du musst die Mutter nicht lieben, aber du kannst sie als Unveränderlichen Teil eurer Familiengeschichte anerkennen. Und das ist ein wichtiger Schritt in Richtung eines harmonischen Patchwork-familienlebens.
 
-> Wer Konflikten aus dem weg geht, kommt darin um.“ – Anke Maggauer-kirsche
+> Wer Konflikten aus dem weg geht, kommt darin um. – Anke Maggauer-kirsche
 
 ## Wie Konflikte den Bonuskindern schaden
 

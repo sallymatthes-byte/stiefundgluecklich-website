@@ -30,7 +30,7 @@ Also, wie kann man damit umgehen?
 *Denke daran, du bist wertvoll und wichtig. Du hast das Recht, dich geliebt und anerkannt zu fühlen.*
 Indem du deine eigene Priorität stärkst, kannst du dazu beitragen, eine harmonische Beziehung in deiner Patchworkfamilie aufzubauen. Wie das gelingt, erfährst du im nächsten Abschnitt.
 
-> “Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren.” – Buddha
+> Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren. – Buddha
 
 ![Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?! — Stimmungsbild 1](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
 

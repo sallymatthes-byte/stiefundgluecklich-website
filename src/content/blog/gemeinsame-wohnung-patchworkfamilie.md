@@ -25,7 +25,7 @@ Es geht darum, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine s
 
 Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem wir die Pandemie in der kleinen Wohnung gut Überstanden hatten, war uns klar: wir können zusammen leben und wir möchten auch seinen Töchtern ein zu Hause in Deutschland Bieten.
 
-> “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
+> Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile. – Deutsches Sprichwort
 
 ## Welche Faktoren gibt es zu berücksichtigen? **1.** Bedürfnisse aller Beteiligten berücksichtigen
 

@@ -25,7 +25,7 @@ Die Akzeptanz für meine Rolle als Bonusmama kam nicht von heute auf morgen, son
 
 Geholfen hat mir dabei, mir bewusst zu machen, dass ich als Bonusmama eine einzigartige Perspektive und Erfahrungen mitbringe. Meine Sichtweise kann wertvoll sein und dazu beitragen, eine harmonische Patchworkfamilie zu gestalten. Ich musste nicht versuchen, eine Ersatzmutter zu sein. Stattdessen war es wichtig, meine eigenen stärken einzubringen. So spiele ich eine positive Rolle im leben der Bonuskinder. Und das, obwohl Kinderlosigkeit meine bewusste Wahl war.
 
-> “Liebe ist das Band, das eine Familie zusammenhält, und Akzeptanz ist der Klebstoff, der die Verbindung stärkt.” – Wilhelm Busch
+> Liebe ist das Band, das eine Familie zusammenhält, und Akzeptanz ist der Klebstoff, der die Verbindung stärkt. – Wilhelm Busch
 
 ![Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie — Stimmungsbild 1](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-2.jpg)
 

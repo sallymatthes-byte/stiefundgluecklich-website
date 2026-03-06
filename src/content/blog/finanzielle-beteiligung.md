@@ -36,7 +36,7 @@ Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unt
 
 Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas mehr auf unser gemeinsames Konto überweist, wenn die Kinder da sind. So können wir Lebensmittel, Geschenke und Ausflüge gemeinsam bezahlen und müssen nicht alles kleinteilig aufrechnen. Das war für mich schon immer ein No-Go: ich wollte nie vor den Kindern darüber diskutieren und ihnen das Gefühl geben nicht für sie zahlen zu wollen. Gleichzeitig möchte ich große Investitionen in Zahnspangen etc. Nicht mittragen müssen. Ich tue es öfter, dann aber weil ich es möchte und nicht weil es erwartet wird.
 
-> Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum sinken bringen.“ – Benjamin Franklin
+> Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum sinken bringen. – Benjamin Franklin
 
 ## Mit dem Partner über Geld sprechen
 

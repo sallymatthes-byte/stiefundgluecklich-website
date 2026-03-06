@@ -44,7 +44,7 @@ Eine Sache, die ich in dieser Phase gelernt habe, ist, dass es wichtig ist, die 
 
 Das erfordert ** Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hilfreich, die Kommunikation mit dem leiblichen Elternteil zu suchen und sich über Erziehungsmethoden und Regeln auszutauschen. Je offener und transparenter die Kommunikation ist, desto leichter wird es sein, eine gemeinsame Basis zu finden und eine harmonische Patchworkfamilie aufzubauen.
 
-> “Man darf nicht verlernen, die Welt mit den Augen eines Kindes zu sehen.” – Henri Matisse
+> Man darf nicht verlernen, die Welt mit den Augen eines Kindes zu sehen. – Henri Matisse
 
 
 ![Die 4 Phasen der Patchworkfamilie — Stimmungsbild 1](/images/blog/die-4-phasen-der-patchworkfamilie-2.jpg)

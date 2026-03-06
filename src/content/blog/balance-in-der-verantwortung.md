@@ -36,7 +36,7 @@ Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den
 
 Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – es gibt Situationen, in denen wir Gefragt sind und Verantwortung übernehmen sollten. Doch auch in diesen Fällen ist es wichtig, offen mit dem Biologischen Elternteil zu kommunizieren. Gemeinsam kann Entschieden werden, wie wir die Verantwortung am Besten aufteilen können.
 
-> “Die größte Führungsaufgabe ist die Verantwortung für die eigene Familie.” – John C. Maxwell
+> Die größte Führungsaufgabe ist die Verantwortung für die eigene Familie. – John C. Maxwell
 
 ## Wie erfolgt die schrittweise Verantwortungsübernahme?
 

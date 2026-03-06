@@ -30,7 +30,7 @@ Auch unser** Verhalten** kann uns Aufschluss darüber geben, welche Überzeugung
 
 Eine weitere hilfreiche Strategie ist es, sich mit seinen** Prägungen** und seiner Vergangenheit auseinanderzusetzen. Welche Botschaften haben wir als Kind von unseren Eltern, Lehrern oder Gleichaltrigen erhalten? Welche Erfahrungen haben uns geprägt und möglicherweise negative Glaubenssätze entstehen lassen? Indem wir uns unserer Geschichte bewusst werden, können wir verstehen, woher unsere Überzeugungen stammen und sie hinterfragen.
 
-> “Wunder beginnen immer dann, wenn wir unseren Träumen mehr Energie geben als unseren Ängsten.” – unbekannt
+> Wunder beginnen immer dann, wenn wir unseren Träumen mehr Energie geben als unseren Ängsten. – unbekannt
 
 
 ## Wie löst man Glaubenssätze auf?

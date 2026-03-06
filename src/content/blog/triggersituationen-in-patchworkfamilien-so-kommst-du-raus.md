@@ -23,7 +23,7 @@ Sie können verschiedene Ursachen haben und werden oft durch bestimmte Auslöser
 Stell dir zum Beispiel vor, du hast das Gefühl, von der [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) nicht ernst genommen zu werden. Jedes mal, wenn sie dich abwertend behandelt oder dir gegenüber respektlos ist, gerätst du in Rage.
 Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen Reaktionen führen. Es ist wichtig, sie zu verstehen und angemessen damit umzugehen.
 
-> “der schmerz ist unvermeidlich, das leiden ist optional.” – Haruki Murakami
+> der schmerz ist unvermeidlich, das leiden ist optional. – Haruki Murakami
 
 ![Triggersituationen in Patchworkfamilien — Stimmungsbild 1](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
 

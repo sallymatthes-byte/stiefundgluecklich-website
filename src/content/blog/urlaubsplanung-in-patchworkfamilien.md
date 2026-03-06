@@ -32,7 +32,7 @@ Am Abend vielleicht ein ** Gesellschaftsspiel** oder eine Runde Werwölfe, bei d
 
 Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspannt – Hauptsache, ihr verbringt qualitativ hochwertige Zeit miteinander und jeder kann sich einbringen. So lernt ihr euch besser kennen, entwickelt Verständnis füreinander und schafft ein Gefühl von Zusammengehörigkeit. Und wer weiß, vielleicht entdeckt ihr dabei sogar neue Hobbys oder Leidenschaften, die euch auch nach dem Urlaub verbinden.
 
-> “Fülle dein leben mit Erfahrungen, nicht mit Dingen. Erzähle Geschichten, nicht Dinge, die du zeigen willst.” – unbekannt
+> Fülle dein leben mit Erfahrungen, nicht mit Dingen. Erzähle Geschichten, nicht Dinge, die du zeigen willst. – unbekannt
 
 
 ## Was, wenn es doch mal zu viel wird?

@@ -33,7 +33,7 @@ Zeit für sich brauchen:** Stiefmütter können sich schuldig fühlen, wenn sie 
 
 Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldgefühlen berichten. Doch wie entsteht eigentlich das Gefühl der schuld?
 
-> “Das Schuldgefühl hindert uns daran, die Dinge klar zu sehen.” – Doris May Lessing
+> Das Schuldgefühl hindert uns daran, die Dinge klar zu sehen. – Doris May Lessing
 
 ![Bonusmamas und Schuldgefühle — Stimmungsbild 1](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
 

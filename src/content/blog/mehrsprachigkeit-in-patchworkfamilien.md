@@ -30,7 +30,7 @@ Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierte
 
 *Ein weiterer Vorteil ist, dass die Kinder durch dich ein breiteres kulturelles Verständnis entwickeln.* Sprache ist immer auch ein Träger von Kultur. Indem du ihnen deutsche Geschichten, Lieder und Traditionen vermittelst, öffnest du ihnen ein Fenster zu einer neuen Welt.
 
->**Freundlichkeit ist eine sprache, die taube hören und blinde sehen können.**– Mark Twain
+> **Freundlichkeit ist eine sprache, die taube hören und blinde sehen können.**– Mark Twain
 
 ## Strategien für eine gelingende Kommunikation in der bilingualen Patchworkfamilie
 

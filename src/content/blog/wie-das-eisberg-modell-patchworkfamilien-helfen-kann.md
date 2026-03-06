@@ -33,7 +33,7 @@ All diese verborgenen Einflüsse können unseren Patchwork-Alltag ganz schön du
 
 Klar, das ist nicht immer einfach. Es braucht Mut, Geduld und Einfühlungsvermögen, um die Eisberge des anderen zu erkunden. Aber glaub mir: es lohnt sich! Denn nur wenn wir verstehen, was unter der Oberfläche liegt, können wir einander wirklich begegnen und gemeinsam Lösungen finden, die für alle passen.
 
->**Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar**– der kleine Prinz
+> **Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar**– der kleine Prinz
 
 ## Das Modell in der Praxis
 

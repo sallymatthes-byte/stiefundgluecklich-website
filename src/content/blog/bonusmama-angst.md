@@ -85,7 +85,7 @@ Bevor du etwas verändern kannst, musst du verstehen, was in dir überhaupt pass
 
 Stell dir dabei nicht die Frage, ob deine Reaktion „logisch“ ist – sondern, was sie dir sagen will. Hinter jedem emotionalen Impuls steckt ein Bedürfnis. Und Angst entsteht oft dort, wo ein Grundbedürfnis – wie Sicherheit, Zugehörigkeit oder Selbstwert – bedroht scheint.
 
-> Schreibimpuls: „in welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?“
+> Schreibimpuls: „in welchen Situationen fühle ich mich am unsichersten – und was glaube ich in dem Moment über mich?
 
 ### 2. Wandel einleiten – Finde sichere Inseln im Alltag
 
@@ -96,7 +96,7 @@ Sicherheit beginnt nicht im außen – sondern in deiner Wahrnehmung. Deshalb is
 
 Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfter du sie bewusst wahrnimmst, desto mehr baust du eine innere Stabilität auf – auch wenn das außen chaotisch bleibt.
 
-> Frage an dich: „Was kann ich heute tun, damit ich mich innerlich etwas sicherer fühle?“
+> Frage an dich: „Was kann ich heute tun, damit ich mich innerlich etwas sicherer fühle?
 
 ### 3. Verbindend kommunizieren – Sprich über dich, nicht über andere
 

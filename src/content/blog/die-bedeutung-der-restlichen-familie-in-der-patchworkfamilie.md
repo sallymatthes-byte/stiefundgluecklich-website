@@ -33,7 +33,7 @@ In meiner eigenen Erfahrung als Bonusmama habe ich gelernt, wie wichtig es ist, 
 
 Abschließend kann gesagt werden, dass alle weiteren Familienmitglieder in einer Patchworkfamilie eine positive Rolle spielen können. Indem sie den Kindern Liebe, Unterstützung und Verständnis entgegenbringen, helfen sie ihnen dabei, sich in ihrer neuen familiären Situation wohl und geborgen zu fühlen.
 
-> “Ein Kind kann einem Erwachsenen immer drei Dinge lehren: grundlos fröhlich zu sein, immer mit irgendetwas beschäftigt zu sein und nachdrücklich das zu fordern, was es will.“ – Paulo Coelho
+> Ein Kind kann einem Erwachsenen immer drei Dinge lehren: grundlos fröhlich zu sein, immer mit irgendetwas beschäftigt zu sein und nachdrücklich das zu fordern, was es will. – Paulo Coelho
 
 
 ## Herausforderungen und Lösungen

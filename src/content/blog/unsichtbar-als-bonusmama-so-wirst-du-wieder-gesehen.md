@@ -68,7 +68,7 @@ Frag dich selbst:
 
 > Tipp: Schreibe dir konkrete Situationen auf, in denen du dich unsichtbar fühlst. So kannst du sie später deinem Partner leichter erklären.
 
-> Beispiel: "ich fühle mich unsichtbar, wenn wir gemeinsam essen und du nur mit den Kindern sprichst. Ich würde mir wünschen, dass wir uns auch als Paar austauschen."
+> Beispiel: "ich fühle mich unsichtbar, wenn wir gemeinsam essen und du nur mit den Kindern sprichst. Ich würde mir wünschen, dass wir uns auch als Paar austauschen.
 
 Erst wenn du diese Klarheit für dich hast, kannst du wirklich etwas verändern.
 
@@ -84,7 +84,7 @@ Sobald du weißt, was dir fehlt, geht es darum, aktiv neue Routinen in eure Bezi
 
 ## 2️⃣ Kleine Rituale in den Alltag einbauen
 
-> Idee: Fangt den Tag mit einer positiven Frage an: "Worauf freust du dich heute?" - das schafft Verbindung, ohne viel Aufwand.
+> Idee: Fangt den Tag mit einer positiven Frage an: "Worauf freust du dich heute? - das schafft Verbindung, ohne viel Aufwand.
 
 ![Unsichtbar als Bonusmama? So wirst du wieder gesehen! — Stimmungsbild 2](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-3.jpg)
 

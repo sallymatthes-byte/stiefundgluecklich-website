@@ -45,7 +45,7 @@ Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen H
 
 Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es ist wichtig zu verstehen, dass deine Rolle am Anfang anders ist als die des leiblichen Elternteils. Du musst dir das Vertrauen der Kinder erst Schritt für Schritt erarbeiten, während dein Partner lernen muss, dich mehr einzubeziehen, ohne seine Kinder zu vernachlässigen.
 
-> Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite.“ – Martin Reisenberg
+> Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite. – Martin Reisenberg
 
 ## Was kannst du dagegen tun?
 

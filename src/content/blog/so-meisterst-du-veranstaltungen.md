@@ -51,7 +51,7 @@ Dein Partner liebt dich und möchte, dass du dich wohlfühlst. Vertraue darauf, 
 
 Gemeinsam seid ihr stark und könnt lernen, diese Herausforderungen als Chance für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
 
->**Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein leben lang begleiten.**– Sarah Weber
+> **Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein leben lang begleiten.**– Sarah Weber
 
 ## Selbstbewusst und strahlend: So meisterst du als Bonusmama jede Veranstaltung
 
