@@ -36,11 +36,11 @@ Doch das wahre Geschenk liegt darin, dem anderen unsere volle Aufmerksamkeit zu 
 
 Carl Rogers, ein bedeutender Psychologe und Begründer der klientenzentrierten Therapie, hat das Konzept des aktiven Zuhörens maßgeblich geprägt. Seine Grundprinzipien des empathischen Zuhörens sind heute noch genauso relevant wie damals. Es basiert auf der Idee, dass wir durch empathisches Zuhören die Gedanken, Gefühle und Bedürfnisse des anderen besser verstehen können.
 
-Das aktive Zuhören zeichnet sich durch mehrere Grundprinzipien aus. **Das erste Prinzip ist die Authentizität. **Es bedeutet, dass wir uns bewusst auf den anderen konzentrieren und ihm unsere volle Aufmerksamkeit schenken. Gleichzeitig verstellen wir uns nicht, unser Interesse ist ehrlich.
+Das aktive Zuhören zeichnet sich durch mehrere Grundprinzipien aus. **Das erste Prinzip ist die Authentizität.** Es bedeutet, dass wir uns bewusst auf den anderen konzentrieren und ihm unsere volle Aufmerksamkeit schenken. Gleichzeitig verstellen wir uns nicht, unser Interesse ist ehrlich.
 
 **
 
-Das zweite Prinzip ist die Akzeptanz. **Es bedeutet, dass wir den anderen so akzeptieren, wie er ist, ohne ihn zu bewerten oder zu kritisieren.
+Das zweite Prinzip ist die Akzeptanz.** Es bedeutet, dass wir den anderen so akzeptieren, wie er ist, ohne ihn zu bewerten oder zu kritisieren.
 
 **
 
@@ -52,7 +52,7 @@ Und wie wird es in der Praxis angewandt?
 
 ## Die 3 Phasen des aktiven Zuhörens
 
-**1. In der ersten Phase, der Aufmerksamkeit, konzentrieren wir uns vollständig auf unseren Gesprächspartner und schenken ihm unsere volle Aufmerksamkeit**. Wir lassen uns nicht ablenken und zeigen durch Blickkontakt und nonverbale Signale, dass wir präsent sind. Worte wie “Mmmh”, “Ach so!” oder zustimmendes Nicken zeigen, dass wir unserem Gegenüber zuhören, ohne ihn zu unterbrechen. **2. In der zweiten Phase, des Verstehens, versetzen wir uns in die Lage des anderen und versuchen, seine Perspektive zu verstehen**. Wir zeigen Verständnis für seine Gefühle und Bedürfnisse und drücken dies durch einfühlsame Reaktionen aus. Wir fragen nach und rückversichern uns: “Habe ich das so richtig verstanden?”oder “Was war noch wichtig?”. **3. In der dritten Phase, der Zusammenfassung, fassen wir das Gesagte unseres Gesprächspartners zusammen und wiederholen es in eigenen Worten. **Dadurch zeigen wir, dass wir aufmerksam zugehört haben und das Gesagte verstanden haben. Sätze wie “Ich habe Folgendes verstanden: … Und ich interpretiere, dass du dich … fühlst. Habe ich das richtig verstanden?” spiegeln unserem gegenüber sein Verhalten und ermöglichen es ihm, dass er noch Dinge hinzufügen kann.
+**1. In der ersten Phase, der Aufmerksamkeit, konzentrieren wir uns vollständig auf unseren Gesprächspartner und schenken ihm unsere volle Aufmerksamkeit**. Wir lassen uns nicht ablenken und zeigen durch Blickkontakt und nonverbale Signale, dass wir präsent sind. Worte wie “Mmmh”, “Ach so!” oder zustimmendes Nicken zeigen, dass wir unserem Gegenüber zuhören, ohne ihn zu unterbrechen.** 2. In der zweiten Phase, des Verstehens, versetzen wir uns in die Lage des anderen und versuchen, seine Perspektive zu verstehen**. Wir zeigen Verständnis für seine Gefühle und Bedürfnisse und drücken dies durch einfühlsame Reaktionen aus. Wir fragen nach und rückversichern uns: “Habe ich das so richtig verstanden?”oder “Was war noch wichtig?”.** 3. In der dritten Phase, der Zusammenfassung, fassen wir das Gesagte unseres Gesprächspartners zusammen und wiederholen es in eigenen Worten. **Dadurch zeigen wir, dass wir aufmerksam zugehört haben und das Gesagte verstanden haben. Sätze wie “Ich habe Folgendes verstanden: … Und ich interpretiere, dass du dich … fühlst. Habe ich das richtig verstanden?” spiegeln unserem gegenüber sein Verhalten und ermöglichen es ihm, dass er noch Dinge hinzufügen kann.
 
 Doch wie nutzte das Mia in ihrer Familie?
 

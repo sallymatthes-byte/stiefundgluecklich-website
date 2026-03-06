@@ -34,7 +34,7 @@ Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dic
 
 Was macht die Situation zwischen Ex-Frau und neue Beziehung so explosiv? Oft liegt es an tieferen Mustern, die wie [unsichtbare Fäden](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) alle Beteiligten miteinander verbinden. *Die Ex-Frau kämpft möglicherweise mit dem Verlust ihrer gewohnten Rolle* – nicht nur als Partnerin, sondern auch als Alleinige “managerin” der Familie. Vielleicht Fürchtet sie, dass die Kinder dich eines Tages mehr lieben Könnten als sie, oder sie Verarbeitet ihre Eigenen Verletzungen durch die Trennung, indem sie Kontrolle Ausübt.
 
-**Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen. **Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – Meist selbst Auferlegt – können Erdrückend sein. Dein Partner Wiederum steht zwischen den Fronten, Zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu Vermeiden.
+**Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – Meist selbst Auferlegt – können Erdrückend sein. Dein Partner Wiederum steht zwischen den Fronten, Zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu Vermeiden.
 
 Diese komplexe Dynamik wird noch verstärkt durch:
 
@@ -104,7 +104,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 Stell dir vor, wie es sich anfühlen würde, wenn die Ex-Frau und neue Beziehung nicht mehr von Spannung und Konflikt geprägt wären. Wenn du morgens aufwachst und dich auf den Tag freust, anstatt zu grübeln, welche “Überraschungen” wohl heute wieder auf dich warten. Wenn du dich stark und sicher in deiner Rolle fühlst, egal was von außen kommt.
 
-**Das ist keine Utopie. **Ich erlebe in meiner Arbeit jeden Tag, wie Bonusmamas genau diese Transformation durchlaufen:
+**Das ist keine Utopie.** Ich erlebe in meiner Arbeit jeden Tag, wie Bonusmamas genau diese Transformation durchlaufen:
 
 - Sie gewinnen ihre emotionale Freiheit zurück
 - ihre Beziehung wird stärker als je zuvor

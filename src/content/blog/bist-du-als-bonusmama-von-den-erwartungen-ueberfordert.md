@@ -86,22 +86,22 @@ Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können 
 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
-- 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst. **Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
+- 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.** Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 - 💎**
 
-Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen. **Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
-
-- 💎**
-
-Übe dich in Selbstmitgefühl. **Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
+Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.** Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
 
 - 💎**
 
-Tausche dich mit anderen Bonusmamas aus. **Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
+Übe dich in Selbstmitgefühl.** Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
 
 - 💎**
 
-Hole dir Unterstützung, wenn du sie brauchst. **Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
+Tausche dich mit anderen Bonusmamas aus.** Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
+
+- 💎**
+
+Hole dir Unterstützung, wenn du sie brauchst.** Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
 
 Der Weg zu einem leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine Ganze Patchworkfamilie.
 

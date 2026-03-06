@@ -15,7 +15,7 @@ Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft a
 
 ## Die versteckte Sehnsucht nach Nähe
 
-Es war ein Donnerstagabend im August, einer dieser endlos erscheinenden Ferientage, als mir die Tränen kamen. Die Kinder waren endlich im Bett, nach einem Tag voller Aktivitäten, Streitschlichten und Programmgestaltung. **Mein Partner und ich saßen nebeneinander auf der Couch, physisch so nah und emotional doch Welten entfernt. **Fünf von acht Wochen Sommerferien waren die Kinder bei uns – eine Zeit, die ich eigentlich liebte, die Aber auch Schonungslos Offenlegte, wie sehr unsere Beziehung unter dem Familienstress Litt.
+Es war ein Donnerstagabend im August, einer dieser endlos erscheinenden Ferientage, als mir die Tränen kamen. Die Kinder waren endlich im Bett, nach einem Tag voller Aktivitäten, Streitschlichten und Programmgestaltung. **Mein Partner und ich saßen nebeneinander auf der Couch, physisch so nah und emotional doch Welten entfernt.** Fünf von acht Wochen Sommerferien waren die Kinder bei uns – eine Zeit, die ich eigentlich liebte, die Aber auch Schonungslos Offenlegte, wie sehr unsere Beziehung unter dem Familienstress Litt.
 
 Ich beobachtete ihn von der Seite, wie er erschöpft auf sein Handy starrte, und spürte diesen schmerzhaften Stich in meinem Herzen. Wann hatten wir uns das letzte mal wirklich gesehen? Nicht als Eltern, die wie ein eingespieltes Team den Familienalltag managten, sondern als Liebespaar? Die Zeit als Paar in unserer Patchworkfamilie schien wie ein kostbares Gut, das uns durch die Finger rann, ohne dass wir es aufhalten konnten.
 
@@ -36,7 +36,7 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 ## Die Suche nach verlorener Nähe
 
 
-Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “Ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen. **Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
+Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “Ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen.** Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
 
 ## Der Wendepunkt: Als ich aufhörte zu warten
 
@@ -51,7 +51,7 @@ Mit dieser neuen Klarheit begann ein innerer** Wandel** in meinem denken. Ich er
 
 Der entscheidende Durchbruch kam mit einer neuen Art der **Kommunikation**. An einem Abend, als die Kinder schliefen, öffnete ich meinem Partner mein Herz. Nicht mit Vorwürfen oder Forderungen, sondern mit ehrlichen Worten über meine Sehnsucht nach mehr Nähe und Verbindung. Seine Reaktion überraschte mich: Er fühlte genau dasselbe, hatte aber Schuldgefühle, Zeit zu zweit einzufordern, wenn die Kinder da waren.
 
-Aus diesem offenen Gespräch entwickelten sich neue Rituale und Gewohnheiten. Wir begannen, bewusst kleine Inseln der Zweisamkeit in unseren Alltag einzubauen. ***
+Aus diesem offenen Gespräch entwickelten sich neue Rituale und Gewohnheiten. Wir begannen, bewusst kleine Inseln der Zweisamkeit in unseren Alltag einzubauen.** *
 
 Manchmal waren es nur fünf Minuten auf dem Balkon, ein längerer Kuss am Morgen oder ein kurzer Spaziergang um den Block, während die Kinder ihre Hausaufgaben machten.*** Diese Momente waren nicht perfekt oder durchgeplant, aber sie waren echt und nur für uns.
 

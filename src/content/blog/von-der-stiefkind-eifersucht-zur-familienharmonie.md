@@ -46,13 +46,13 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 ## Die unsichtbaren Mauern der Eifersucht
 
-Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut. **Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
+Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
 ## Der Weg zur Veränderung
 
-Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich selbst Angst hatte, zu kurz zu kommen, nicht wichtig genug zu sein, ersetzt zu werden. **In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
+Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich selbst Angst hatte, zu kurz zu kommen, nicht wichtig genug zu sein, ersetzt zu werden.** In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
 ![Von der Stiefkind-Eifersucht zur Familienharmonie — Stimmungsbild 2](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
@@ -70,11 +70,11 @@ Nach vielen Versuchen und Rückschlägen entdeckte ich schließlich einen Weg, d
 
 ### 1. Klarheit gewinnen
 
-Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging. Nicht nur an der Oberfläche, sondern in der Tiefe. ***Ich lernte, meine Trigger zu erkennen und zu verstehen, dass die Eifersucht oft mehr mit meinen eigenen unerfüllten Bedürfnissen zu tun hatte als mit der tatsächlichen Situation.*** Durch diese Selbstreflexion wurde mir klar, dass ich nicht gegen die Liebe zwischen Vater und Kind kämpfen musste, sondern gegen meine eigenen Ängste und Unsicherheiten.
+Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging. Nicht nur an der Oberfläche, sondern in der Tiefe.** *Ich lernte, meine Trigger zu erkennen und zu verstehen, dass die Eifersucht oft mehr mit meinen eigenen unerfüllten Bedürfnissen zu tun hatte als mit der tatsächlichen Situation.*** Durch diese Selbstreflexion wurde mir klar, dass ich nicht gegen die Liebe zwischen Vater und Kind kämpfen musste, sondern gegen meine eigenen Ängste und Unsicherheiten.
 
 ### 2. Inneren Wandel einleiten
 
-Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten. **Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln. **Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
+Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten.** Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln. **Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
 
 ### 3. Verbindende Kommunikation aufbauen
 

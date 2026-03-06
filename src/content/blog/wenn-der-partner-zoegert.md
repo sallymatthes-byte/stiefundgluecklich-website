@@ -31,7 +31,7 @@ All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft
 
 Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: “Mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte.”
 
-Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: “Was genau sind deine Bedenken?” oder “Wovor hast du Angst?”. So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist. **Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden. **Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
+Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: “Was genau sind deine Bedenken?” oder “Wovor hast du Angst?”. So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist. **Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden.** Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
 
 - führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
 - Erstellt ein [Visionboard](/blog/visionboard-in-der-patchworkfamilie/)

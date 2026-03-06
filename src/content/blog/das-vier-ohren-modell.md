@@ -12,7 +12,7 @@ imageAlt: "Das 4-Ohren-Modell"
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon Entfacht ein Streit. Plötzlich Wirfst du deinem Partner vor, nicht genug Im Haushalt zu helfen oder dich zu Vernachlässigen. Dabei Wolltest du eigentlich nur eine Harmlose Bemerkung machen, doch Irgendwie ist alles aus dem Ruder Gelaufen.
 
-In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer Kommunikation. **Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
+In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer Kommunikation.** Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
 
 Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine Sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure Partnerschaft zu stärken und Harmonie in eure Kommunikation zu bringen.
 
@@ -24,7 +24,7 @@ Ich erinnere mich noch genau an den Moment, als mir die Bedeutung des 4-Ohren-Mo
 
 Die Reaktion meines Partners kam unerwartet: “Was soll ich denn noch alles im Blick behalten?” Ich war verblüfft. Für mich war es eine simple Information gewesen, doch er fühlte sich offenbar angegriffen. Eine [heftige Diskussion](/blog/unterschiedliche-erziehungsmethoden/) entbrannte darüber, wer für die Haarpflege der Kinder zuständig sei und was wir voneinander erwarten könnten.
 
-Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen können. **Ein harmloser Satz hatte ausgereicht, um einen Konflikt auszulösen. **Doch warum? Die Antwort fand ich im 4-Ohren-Modell von Friedemann Schulz von Thun.
+Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen können. **Ein harmloser Satz hatte ausgereicht, um einen Konflikt auszulösen.** Doch warum? Die Antwort fand ich im 4-Ohren-Modell von Friedemann Schulz von Thun.
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
@@ -34,7 +34,7 @@ Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoff
 
 Als ich erkannte, wie schnell ein simpler Satz zu Konflikten führen kann, wurde mir bewusst, wie wichtig eine klare und achtsame Kommunikation ist. Ich sehnte mich nach einem harmonischen Miteinander, bei dem wir offen und verständnisvoll miteinander reden können, ohne dass einer von uns sich angegriffen fühlt oder in Rechtfertigungsdruck gerät.
 
-Mein Ziel war es, Missverständnisse gar nicht erst aufkommen zu lassen und Lösungen zu finden, statt uns in Vorwürfen zu verlieren. **Ich wünschte mir, dass wir als Team funktionieren und an einem Strang ziehen, gerade wenn es um die Kinder geht. **Schließlich wollte ich meinen Stiefkindern ein harmonisches Familienleben bieten und gemeinsam mit meinem Partner für sie da sein.
+Mein Ziel war es, Missverständnisse gar nicht erst aufkommen zu lassen und Lösungen zu finden, statt uns in Vorwürfen zu verlieren. **Ich wünschte mir, dass wir als Team funktionieren und an einem Strang ziehen, gerade wenn es um die Kinder geht.** Schließlich wollte ich meinen Stiefkindern ein harmonisches Familienleben bieten und gemeinsam mit meinem Partner für sie da sein.
 
 Dafür war es unerlässlich, dass wir lernen, einander zuzuhören und zu verstehen. Wir mussten Wege finden, Botschaften so zu senden, dass sie auch so ankommen, wie sie gemeint sind. Und wir mussten üben, Nachrichten nicht vorschnell negativ zu interpretieren, sondern zunächst zu hinterfragen, was der andere wirklich sagen wollte.
 
@@ -49,7 +49,7 @@ Die Umsetzung des 4-Ohren-Modells in unseren Alltag brachte einige Herausforderu
 
 Ein Beispiel: mein Partner sagte: “der Müll ist voll.” Für ihn war das eine sachliche Feststellung, doch ich hörte den Vorwurf heraus: “Du hast vergessen, den Müll rauszubringen.” Schnell entwickelte sich ein Streit darüber, wer wofür verantwortlich sei und warum der andere sich nicht genug einbringe.
 
-**Um solche Situationen zu entschärfen, probierten wir verschiedene Ansätze aus. **Zunächst einigten wir uns auf ich-Botschaften, um klarzumachen, was wir meinen, ohne den anderen direkt zu kritisieren. Statt “Du hast schon wieder nicht aufgeräumt” sagten wir: “Ich wünsche mir eine sauberere Küche.”
+**Um solche Situationen zu entschärfen, probierten wir verschiedene Ansätze aus.** Zunächst einigten wir uns auf ich-Botschaften, um klarzumachen, was wir meinen, ohne den anderen direkt zu kritisieren. Statt “Du hast schon wieder nicht aufgeräumt” sagten wir: “Ich wünsche mir eine sauberere Küche.”
 
 Auch versuchten wir, konkrete Bitten zu formulieren, statt unterschwellige Appelle zu senden. “Könntest du bitte den Müll rausbringen?” kam besser an als ein genervtes “Der Müll ist voll”.
 
@@ -80,7 +80,7 @@ So haben wir gelernt, Konflikte konstruktiv anzugehen und füreinander da zu sei
 
 So hat das 4-Ohren-Modell unsere Beziehung verändert
 
-Das 4-Ohren-Modell hat unsere Art zu kommunizieren von Grund auf verändert. Indem wir lernten, Botschaften auf allen vier Ebenen wahrzunehmen und zu senden, konnten wir **Missverständnisse und Konflikte deutlich reduzieren. **Statt aneinander vorbeizureden, hören wir einander nun aufmerksam zu und versuchen zu verstehen, was der andere wirklich sagen möchte.
+Das 4-Ohren-Modell hat unsere Art zu kommunizieren von Grund auf verändert. Indem wir lernten, Botschaften auf allen vier Ebenen wahrzunehmen und zu senden, konnten wir **Missverständnisse und Konflikte deutlich reduzieren.** Statt aneinander vorbeizureden, hören wir einander nun aufmerksam zu und versuchen zu verstehen, was der andere wirklich sagen möchte.
 
 Unsere Gespräche sind**  achtsamer und wertschätzender ** geworden. Wir nehmen uns Zeit, auch über unsere Gefühle und Bedürfnisse zu sprechen, statt nur Sachinformationen auszutauschen. Dadurch fühlen wir uns emotional stärker verbunden und können besser füreinander da sein.
 
