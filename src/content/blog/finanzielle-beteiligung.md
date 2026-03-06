@@ -7,7 +7,7 @@ metaTitle: "Finanzen als Bonusmama: So sicherst du deine Unabhängigkeit"
 metaDescription: "Sollst du für die Bonuskinder mitbezahlen? Wie du als Bonusmama finanziell unabhängig bleibst — ohne schlechtes Gewissen."
 heroImage: "/images/blog/finanzielle-beteiligung-1.jpg"
 image: "/images/blog/finanzielle-beteiligung-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Finanzielle Beteiligung als Bonusmama"
 ---
 
 Als Bonusmama ist man oft mit der Frage konfrontiert, wie man mit den Finanzen in der Patchworkfamilie umgehen soll. Soll man sich zur Hälfte an allen Kosten beteiligen? Wie geht man damit um, wenn das Gefühl des Verzichtens zugunsten der Bonuskinder überhandnimmt? Und wie kann man über dieses heikle Thema mit dem Partner sprechen?
@@ -28,7 +28,7 @@ Es ist ein emotionales Thema. Für manche Bonusmamas ist es ein Weg, ihre Liebe 
 
 Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligung von Bonusmamas.
 
-![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-2.jpg)
+![Finanzielle Beteiligung als Bonusmama — Stimmungsbild 1](/images/blog/finanzielle-beteiligung-2.jpg)
 
 ## Was, wenn du das Gefühl hast verzichten zu müssen?
 
@@ -77,7 +77,7 @@ Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wen
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/finanzielle-beteiligung-3.jpg)
+![Finanzielle Beteiligung als Bonusmama — Stimmungsbild 2](/images/blog/finanzielle-beteiligung-3.jpg)
 
 Auch wenn ihr als Paar oder Familie gemeinsam wirtschaftet, solltest du nicht dein gesamtes eigenes Einkommen in den Familientopf geben.*Behalte einen Teil für dich selbst, über den du frei verfügen kannst.*
 

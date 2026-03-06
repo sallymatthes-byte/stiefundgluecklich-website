@@ -7,7 +7,7 @@ metaTitle: "Bonuskind klebt nur am Papa? Was dahintersteckt (+ was"
 metaDescription: "Dein Bonuskind will nur den Papa und ignoriert dich? Warum das passiert und wie du trotzdem eine Verbindung aufbaust."
 heroImage: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 image: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Wenn das Bonuskind nur am Papa klebt"
 ---
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
@@ -24,7 +24,7 @@ Ich fragte mich, ob es überhaupt möglich sein würde, eine Beziehung zu den Ki
 
 Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog ich mich immer weiter zurück. Ich gab dem Gefühl des Ausgeschlossenseins nach und verlor mich in Selbstzweifeln. Es war ein Teufelskreis, den ich durchbrechen musste, um eine Veränderung herbeizuführen.
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
+![Wenn das Bonuskind nur am Papa klebt — Stimmungsbild 1](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
 
 ## Eigentlich wollte ich nur dazugehören
 
@@ -57,7 +57,7 @@ Mir wurde klar, dass ich etwas ändern musste, wenn ich ein harmonisches Familie
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)
+![Wenn das Bonuskind nur am Papa klebt — Stimmungsbild 2](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)
 
 Nachdem ich erkannt hatte, dass mein bisheriger Weg nicht funktionierte, beschloss ich, einen neuen Ansatz zu wählen. Anstatt mich zurückzuziehen, wenn die Kinder am Papa klebten, entschied ich mich bewusst dafür, auf sie zuzugehen und mich in die Situation einzubringen. **Dieser Prozess bestand aus drei wichtigen Schritten: Analyse, Veränderungen und Kommunikation. **Zunächst analysierte ich die Situation genauer. Ich versuchte zu verstehen, warum die Kinder so sehr am Papa hingen.*Mir wurde klar, dass es für sie völlig normal war, sich nach der Trennung der Eltern an den vertrauten Elternteil zu klammern.* Sie suchten Sicherheit und Geborgenheit in einer Zeit der Veränderung. Dieses Verständnis half mir, ihre Bedürfnisse besser nachzuvollziehen und mit mehr Mitgefühl zu reagieren.
 

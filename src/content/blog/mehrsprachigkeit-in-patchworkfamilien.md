@@ -8,7 +8,7 @@ metaTitle: "Mehrsprachigkeit in der Patchworkfamilie"
 metaDescription: "Verschiedene Sprachen in der Patchworkfamilie? Wie ihr Mehrsprachigkeit als Chance nutzt statt als Barriere."
 heroImage: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
 image: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Wenn Sprache Grenzen überwindet"
 ---
 
 Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsprache ist Deutsch und mein Partner und ich sprechen Miteinander Englisch. Das ist Wirklich nicht immer einfach und hat vor allem Am Anfang zu Vielen Missverständnissen Geführt. Darüber Habe ich in der
@@ -22,7 +22,7 @@ Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühst�
 
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
-![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-2.jpg)
+![Wenn Sprache Grenzen überwindet — Stimmungsbild 1](/images/blog/mehrsprachigkeit-in-patchworkfamilien-2.jpg)
 
 ## Bedeutung der Bonusmutter für die Sprachentwicklung
 
@@ -48,7 +48,7 @@ In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/bl
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 
-![Stimmungsbild zum Artikel](/images/blog/mehrsprachigkeit-in-patchworkfamilien-3.jpg)
+![Wenn Sprache Grenzen überwindet — Stimmungsbild 2](/images/blog/mehrsprachigkeit-in-patchworkfamilien-3.jpg)
 
 ## Umgang mit interkulturellen Herausforderungen
 

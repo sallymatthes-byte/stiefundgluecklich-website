@@ -8,7 +8,7 @@ metaTitle: "Veranstaltungen als Bonusmama: Selbstbewusst auftreten"
 metaDescription: "Schulfeste, Geburtstage, Familienfeiern — überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
 heroImage: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 image: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Selbstbewusst als Bonusmama"
 ---
 
 Neulich erzählte mir eine Bonusmama, dass sie eine von den hoch begehrten Eintrittskarten für den Schulanfang ihres Bonuskindes erhalten hat. Sie freute sich wahnsinnig darüber, gleichzeitig fragte sie sich: “Wie werden wir dort auftreten? Ich neben der Ex? Oder ich vielleicht irgendwo allein?”
@@ -33,7 +33,7 @@ Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzuf�
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
-![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-2.jpg)
+![Selbstbewusst als Bonusmama — Stimmungsbild 1](/images/blog/so-meisterst-du-veranstaltungen-2.jpg)
 
 ## So holst du deinen Partner ins Boot
 
@@ -68,7 +68,7 @@ Es gibt ein paar Tricks, die dir helfen können, bei Veranstaltungen selbstbewus
 Denk immer daran: Du bist ein wertvoller Teil der Patchwork-Familie und hast jedes Recht, mit Freude und Engagement dabei zu sein. Also strahle diese Zuversicht aus und genieße die bereichernden Momente mit deinem Bonuskind.
 Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausfüllen. Ich bin mir sicher, dass du schon bald als selbstbewusste und liebevolle Bonusmama alle beeindrucken wirst!
 
-![Stimmungsbild zum Artikel](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
+![Selbstbewusst als Bonusmama — Stimmungsbild 2](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
 
 ## Hand in Hand durch herausfordernde Situationen
 

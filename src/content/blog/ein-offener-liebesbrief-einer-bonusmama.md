@@ -8,7 +8,7 @@ metaTitle: "Ein Liebesbrief an alle Bonusmamas: Du machst das großartig"
 metaDescription: "An alle Bonusmamas, die gerade zweifeln: Dieser offene Brief ist für dich. Du bist genug — genau so wie du bist."
 heroImage: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 image: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Ein offener Liebesbrief einer Bonusmama"
 ---
 
 Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als Bonusmama die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
@@ -24,7 +24,7 @@ Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen
 Wir sprachen nicht dieselbe Sprache und Eifersucht war auf beiden Seiten vorhanden. Ich wollte dich als frisch Verliebte nicht teilen, die Kinder ihren Papa, den sie mittlerweile so selten sahen, auch nicht. Ich erinnere mich noch genau an die Situation, als deine Jüngste immer sofort zwischen uns sprang, wenn wir uns küssten. Ich war wütend und wusste nicht, wie ich damit umgehen sollte, nicht die Nummer eins zu sein.
 
 
-![Stimmungsbild zum Artikel](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
+![Ein offener Liebesbrief einer Bonusmama — Stimmungsbild 1](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
 
 Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellation zu finden. Wie reagierte die Kindsmutter auf mich? Würde sie mich als Konkurrenz sehen? Wo waren meine Grenzen? Und vor allem: ich wollte doch nie Kinder – und jetzt gab es da plötzlich Zwei in meinem leben, die Nicht meine waren. Wie Passte das Zu meinem Freiheitsliebenden selbst?
 
@@ -39,7 +39,7 @@ Weißt du noch, wie wir anfingen, eigene Rituale mit den Mädchen zu entwickeln?
 Heute funktioniert es (meistens) wunderbar. Wir haben unsere Routinen gefunden, unseren eigenen kleinen Familienalltag etabliert. Die Kommunikation mit der Kindsmutter ist hervorragend und ich bin unglaublich froh, den Mädchen eine verlässliche Bezugsperson zu sein, an der sie sich orientieren können, wenn sie möchten. Aber nichts muss mehr sein. Ich muss keine Ersatz-Mama sein, keine Freundin, einfach nur Sally. Und damit geht es mir total gut.
 
 
-![Stimmungsbild zum Artikel](/images/blog/ein-offener-liebesbrief-einer-bonusmama-3.jpg)
+![Ein offener Liebesbrief einer Bonusmama — Stimmungsbild 2](/images/blog/ein-offener-liebesbrief-einer-bonusmama-3.jpg)
 
 Ich bin dankbar für jeden einzelnen Schritt unserer Reise, auch für die Herausforderungen und Schmerzen. Sie haben uns wachsen lassen, uns näher zusammengebracht und unsere Liebe gestärkt. Ich bin stolz auf uns und das, was wir geschaffen haben.
 

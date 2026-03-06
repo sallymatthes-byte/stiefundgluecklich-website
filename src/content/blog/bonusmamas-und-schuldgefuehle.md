@@ -8,7 +8,7 @@ metaTitle: "Schuldgefühle als Bonusmama: 7 typische Fallen (+ Auswege)"
 metaDescription: "Du fühlst dich schuldig — für Gefühle, Grenzen oder Wünsche? 7 typische Schuldfallen für Bonusmamas und wie du rauskommst."
 heroImage: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 image: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Bonusmamas und Schuldgefühle"
 ---
 
 Ich wünsche mir manchmal, dass es die Kinder nicht gäbe.”
@@ -37,7 +37,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 > “Das Schuldgefühl hindert uns daran, die Dinge klar zu sehen.” – Doris May Lessing
 
-![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
+![Bonusmamas und Schuldgefühle — Stimmungsbild 1](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
 
 ## Die Entstehung von Schuldgefühlen
 
@@ -48,7 +48,7 @@ Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.ps
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
-![Stimmungsbild zum Artikel](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
+![Bonusmamas und Schuldgefühle — Stimmungsbild 2](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
 
 ## Der Umgang mit der Schuld
 

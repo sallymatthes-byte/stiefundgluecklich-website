@@ -8,7 +8,7 @@ metaTitle: "Die Rolle des Ex-Partners: So gehst du damit um"
 metaDescription: "Der Ex ist Teil des Pakets — ob du willst oder nicht. Wie du als Bonusmama einen gesunden Umgang findest."
 heroImage: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 image: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die Rolle von Expartnern in Patchworkfamilien"
 ---
 
 Wir alle kennen es: es gibt in Patchworkfamilien nicht nur uns und unseren Partner und die Kinder. Es gibt auch immer noch einen Elternteil (egal ob tot oder lebendig), der ein Teil dieser Konstellation ist und eine Rolle spielt. Ob uns das nun gefällt oder nicht.
@@ -35,7 +35,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
-![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
+![Die Rolle von Expartnern in Patchworkfamilien — Stimmungsbild 1](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
 
 ## Die Bedeutung von Expartnerinnen
 
@@ -70,7 +70,7 @@ Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Ause
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-3.jpg)
+![Die Rolle von Expartnern in Patchworkfamilien — Stimmungsbild 2](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-3.jpg)
 
 Lass uns ehrlich sein: Nicht immer ist es möglich, eng und harmonisch mit der Expartnerin zusammenzuarbeiten. Wenn eine echte Kooperation nicht funktioniert, gibt es eine Alternative: das sogenannte “Parallel Parenting”.
 

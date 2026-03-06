@@ -8,7 +8,7 @@ metaTitle: "Paarzeit in der Patchworkfamilie: So gelingt die Balance"
 metaDescription: "Keine Paarzeit in der Patchworkfamilie? Wie du trotz Bonuskinder, Ex und Alltag eure Beziehung lebendig hältst."
 heroImage: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 image: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Zeit als Paar in der Patchworkfamilie"
 ---
 
 Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte mal wirklich wahrgenommen hast – nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der Patchworkfamilie Scheint wie Sand zwischen den Fingern zu Zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit Verschluckt.
@@ -31,7 +31,7 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 
 *Die Zeit als Paar in unserer Patchworkfamilie schien wie ein Luxusgut geworden zu sein.* Wenn ich abends im Bett lag, häuften sich die Fragen in meinem Kopf: Würden wir irgendwann nur noch Eltern sein und das Paar-Sein vergessen? War es egoistisch, sich nach mehr Zweisamkeit zu sehnen, wenn die Kinder so selten bei uns waren? Diese Gedanken nagten an mir, während ich spürte, wie unsere Verbindung als Liebespaar immer dünner wurde.
 
-![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
+![Zeit als Paar in der Patchworkfamilie — Stimmungsbild 1](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
 
 ## Die Suche nach verlorener Nähe
 
@@ -73,7 +73,7 @@ Mit diesem neuen Bewusstsein begann ich, meine Rolle anders zu sehen. Nicht als 
 
 Der wichtigste Schritt war, diese Gefühle und Bedürfnisse mit meinem Partner zu teilen – nicht als Vorwurf, sondern als Einladung zur gemeinsamen Entwicklung.
 
-![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
+![Zeit als Paar in der Patchworkfamilie — Stimmungsbild 2](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
 
 ## Dein Weg zu mehr Nähe und Verbundenheit
 

@@ -8,7 +8,7 @@ metaTitle: "Glaubenssätze als Bonusmama erkennen und auflösen"
 metaDescription: "Ich bin nicht genug. Ich darf nicht... Welche Glaubenssätze dich als Bonusmama ausbremsen — und wie du sie überschreibst."
 heroImage: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 image: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Glaubenssätze als Bonusmama überwinden"
 ---
 
 In Coachingsitzungen tauchen bei vielen [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)Glaubenssätze auf. Da fallen Sätze wie “Ich bin nicht gut genug”, “Ich kann das nicht.” oder “Das tut man doch nicht.” [Auch ich kenne sie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und hatte Glaubenssätze wie “Ich darf nicht schwach sein” oder “Ich muss für die Kinder zurückstecken.” Solche Sätze hindern uns jedoch daran, glücklich und frei zu leben.
@@ -22,7 +22,7 @@ Als Bonusmama in einer Patchworkfamilie bist du mit vielen Herausforderungen kon
 
 Doch so mächtig Glaubenssätze auch sein mögen, sie sind nicht in Stein gemeißelt. Wir haben die macht, sie zu hinterfragen, zu verändern und durch neue, positive Überzeugungen zu ersetzen. Doch wie kommen wir diesen auf die Spur?
 
-![Stimmungsbild zum Artikel](/images/blog/glaubenssaetze-als-bonusmama-2.jpg)
+![Glaubenssätze als Bonusmama überwinden — Stimmungsbild 1](/images/blog/glaubenssaetze-als-bonusmama-2.jpg)
 
 ## Wie erkennen wir Glaubenssätze?
 
@@ -43,7 +43,7 @@ Wenn du deine Glaubenssätze erkannt hast, ist es an der Zeit, sie aufzulösen u
 
 Ein weiterer wichtiger Aspekt ist, sich von der Vergangenheit zu lösen. Deine Prägungen und Erfahrungen haben dich zu der Person gemacht, die du heute bist. Doch sie müssen nicht deine Zukunft bestimmen. **Erlaube dir, neue, positive Glaubenssätze zu entwickeln, die dich unterstützen und stärken. **Sprich zu dir selbst mit liebevollen, ermutigenden Worten, so wie du es auch bei einem guten Freund tun würdest.**Visualisierung kann ein machtvolles Werkzeug sein, um Glaubenssätze aufzulösen. **Stell dir vor, wie dein leben aussehen würde, wenn du frei von limitierenden Überzeugungen wärst. Male dir aus, wie du selbstbewusst und gelassen auf Herausforderungen in deiner Patchworkfamilie reagierst. Je öfter du diese positiven Bilder in deinem Geist entstehen lässt, desto mehr werden sie zu deiner Realität.
 
-![Stimmungsbild zum Artikel](/images/blog/glaubenssaetze-als-bonusmama-3.jpg)
+![Glaubenssätze als Bonusmama überwinden — Stimmungsbild 2](/images/blog/glaubenssaetze-als-bonusmama-3.jpg)
 
 ## Was wird dadurch möglich?
 

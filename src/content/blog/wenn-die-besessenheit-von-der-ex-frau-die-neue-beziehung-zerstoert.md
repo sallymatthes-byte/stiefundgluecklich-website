@@ -8,7 +8,7 @@ metaTitle: "Besessen von der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ständig an die Ex-Frau deines Partners denken? Warum diese Besessenheit entsteht und wie du sie endlich loslässt."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Ex-Frau und neue Beziehung – So befreist du dich vom Schatten der Vergangenheit"
 ---
 
 “Sie macht alles kaputt!” – dieser Verzweifelte Gedanke Raubt dir Nachts den Schlaf. Die Ex-frau und Neue Beziehung Scheinen Untrennbar Miteinander Verwoben zu sein, Wie ein Endloser Albtraum, aus dem Du nicht Erwachen kannst. Jede Nachricht von ihr lässt dein Herz Rasen, jeder “zufällige” Anruf während eures Abendessens Vergiftet die Stimmung. Du Spürst Förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein Dunkler Schleier, der sich über eure Liebe Legt.
@@ -48,7 +48,7 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 – Deepak chopra
 
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-2.jpg)
+![Ex-Frau und neue Beziehung – So befreist du dich vom Schatten der Vergangenheit — Stimmungsbild 1](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-2.jpg)
 
 ## Der erste Schritt zur Veränderung
 
@@ -98,7 +98,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 - Strategien entwickeln für den Umgang mit Störversuchen
 - Eine neue Familiendynamik etablieren
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-3.jpg)
+![Ex-Frau und neue Beziehung – So befreist du dich vom Schatten der Vergangenheit — Stimmungsbild 2](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-3.jpg)
 
 ## Dein Weg zur harmonischen Patchworkfamilie
 

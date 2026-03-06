@@ -8,7 +8,7 @@ metaTitle: "Zusammenziehen als Patchworkfamilie"
 metaDescription: "Eine gemeinsame Wohnung für die Patchworkfamilie? Worauf es ankommt, damit sich alle — auch du — wirklich zu Hause fühlen."
 heroImage: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
 image: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Gemeinsame Wohnung gestalten"
 ---
 
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
@@ -33,7 +33,7 @@ Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem 
 Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
 
 
-![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
+![Gemeinsame Wohnung gestalten — Stimmungsbild 1](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
 
 - Was wünscht sich jeder genau von euch?
 - Wie dürfen Rituale aussehen?
@@ -63,7 +63,7 @@ Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn 
 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 
-![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-3.jpg)
+![Gemeinsame Wohnung gestalten — Stimmungsbild 2](/images/blog/gemeinsame-wohnung-patchworkfamilie-3.jpg)
 
 ## Ängste in der Patchworkfamilie ansprechen
 

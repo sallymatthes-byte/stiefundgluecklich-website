@@ -7,7 +7,7 @@ metaTitle: "Loyalitätskonflikte bei Kindern in Patchworkfamilien"
 metaDescription: "Dein Bonuskind steckt zwischen den Fronten? Was hinter Loyalitätskonflikten steckt und wie du als Bonusmama helfen kannst."
 heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die unsichtbare Last"
 ---
 
 Neulich erzählte mir eine Klientin, dass sie gehört hatte, wie ihr Bonuskind am Telefon zur Mutter sagte “Ja, mir geht es auch nicht gut. Ich vermisse dich auch.” Und das, obwohl das Kind den ganzen Tag unbeschwert gespielt hatte.
@@ -34,7 +34,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
-![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
+![Die unsichtbare Last — Stimmungsbild 1](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
 
 ## Zwischen den Stühlen
 
@@ -71,7 +71,7 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
+![Die unsichtbare Last — Stimmungsbild 2](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
 
 Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Loyalitätskonflikten und Überforderung kämpfen, fühlen wir uns oft hilflos. Doch es gibt Wege, wie wir sie in dieser herausfordernden Situation unterstützen können:
 

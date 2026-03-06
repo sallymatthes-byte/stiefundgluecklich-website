@@ -8,7 +8,7 @@ metaTitle: "Aufräumen mit Bonuskindern: So motivierst du altersgerecht"
 metaDescription: "Aufräumen als Dauerthema? Wie du als Bonusmama Kinder altersgerecht motivierst — ohne Machtkampf und schlechtes Gewissen."
 heroImage: "/images/blog/aufraeumen-mit-spass-und-verstaendnis-1.jpg"
 image: "/images/blog/aufraeumen-mit-spass-und-verstaendnis-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Aufräumen mit Spaß und Verständnis"
 ---
 
 Immer wenn unsere Bonuskinder bei uns sind, bricht für mich gefühlt das Chaos aus. Und mein Partner sagt dann immer: “Ist doch nicht so schlimm, so sieht man doch nur, dass hier gelebt wird!”
@@ -26,7 +26,7 @@ Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ord
 
 Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen einfach noch Anstrengender.
 
-![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
+![Aufräumen mit Spaß und Verständnis — Stimmungsbild 1](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
 
 ## Die Rolle der Bonusmama
 
@@ -96,7 +96,7 @@ Gemeinsames Aufräumen:*** Mache das Aufräumen zu einer gemeinsamen Aktivität.
 
 *Wichtig ist, dass du die Methoden an die individuellen Vorlieben und Fähigkeiten deiner Bonuskinder anpasst.* Experimentiere mit verschiedenen Ansätzen und finde heraus, was für eure Familie am besten funktioniert. Mit Spaß und Fantasie wird das Aufräumen zu einer positiven Erfahrung für alle Beteiligten.
 
-![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-3.jpg)
+![Aufräumen mit Spaß und Verständnis — Stimmungsbild 2](/images/blog/aufraeumen-mit-spass-und-verstaendnis-3.jpg)
 
 ## Tipps für eine aufgeräumte Patchwork-Wohnung
 

@@ -8,7 +8,7 @@ metaTitle: "Aktives Zuhören: Der Schlüssel für deine Patchworkfamilie"
 metaDescription: "Warum aktives Zuhören in Patchworkfamilien so entscheidend ist — und wie du es im Alltag mit Bonuskindern und Partner umsetzt."
 heroImage: "/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Aktives Zuhören in der Patchworkfamilie"
 ---
 
 Kennst du auch dieses Gefühl, dass man manchmal einfach das Gefühl nicht verstanden worden zu sein?
@@ -30,7 +30,7 @@ Doch das wahre Geschenk liegt darin, dem anderen unsere volle Aufmerksamkeit zu 
 > “Die meisten Menschen hören nicht zu, um zu verstehen, sondern um zu antworten.” – STEPHEN R. COVEY
 
 
-![Stimmungsbild zum Artikel](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-2.jpg)
+![Aktives Zuhören in der Patchworkfamilie — Stimmungsbild 1](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-2.jpg)
 
 ## Aktives Zuhören nach Carl Rogers
 
@@ -56,7 +56,7 @@ Und wie wird es in der Praxis angewandt?
 
 Doch wie nutzte das Mia in ihrer Familie?
 
-![Stimmungsbild zum Artikel](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-3.jpg)
+![Aktives Zuhören in der Patchworkfamilie — Stimmungsbild 2](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-3.jpg)
 
 ## Praktische Umsetzung
 

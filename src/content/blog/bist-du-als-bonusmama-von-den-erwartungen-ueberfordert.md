@@ -8,7 +8,7 @@ metaTitle: "Überfordert als Bonusmama? Wenn die Erwartungen dich"
 metaDescription: "Alle erwarten alles — und du funktionierst nur noch? Warum Bonusmamas besonders unter Erwartungsdruck stehen und was hilft."
 heroImage: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 image: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Bist du als Bonusmama von den Erwartungen überfordert?"
 ---
 
 Kennst du diese Gedanken von “Ich sollte”?
@@ -68,7 +68,7 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 
 > „Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben.“ – Katharine Hepburn
 
-![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
+![Bist du als Bonusmama von den Erwartungen überfordert? — Stimmungsbild 1](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
 
 ## Auswirkungen der “ich sollte”- gedanken
 
@@ -80,7 +80,7 @@ Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können 
 - auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung.*Konflikte sind vorprogrammiert.*
 - Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
-![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
+![Bist du als Bonusmama von den Erwartungen überfordert? — Stimmungsbild 2](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
 
 ## Entfliehe den Erwartungen
 

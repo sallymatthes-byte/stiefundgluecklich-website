@@ -8,7 +8,7 @@ metaTitle: "Unterschiedliche Erziehung in der Patchworkfamilie: Was tun?"
 metaDescription: "Dein Partner erzieht anders als du? Warum unterschiedliche Erziehungsmethoden in Patchworkfamilien normal sind — und wie ihr einen Weg findet."
 heroImage: "/images/blog/unterschiedliche-erziehungsmethoden-1.jpg"
 image: "/images/blog/unterschiedliche-erziehungsmethoden-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Patchworkfamilien"
 ---
 
 Vielleicht kennst du es ja auch: dein Bonuskind räumt mal wieder sein Zimmer nicht auf oder beklagt sich darüber, dass es den Tisch abwischen soll. Du als Bonusmama wünschst dir mehr Regeln, mehr Struktur, doch dein Partner sieht das ziemlich gelassen. Das ist zumindest bei uns häufig an der Tagesordnung.
@@ -36,7 +36,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die dritte Herausforderung einsteigen.
 
-![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-2.jpg)
+![Patchworkfamilien — Stimmungsbild 1](/images/blog/unterschiedliche-erziehungsmethoden-2.jpg)
 
 ## Wenn die Erziehung zum Minenfeld wird
 
@@ -67,7 +67,7 @@ Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sag
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-3.jpg)
+![Patchworkfamilien — Stimmungsbild 2](/images/blog/unterschiedliche-erziehungsmethoden-3.jpg)
 
 Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der Patchworkfamilie mitzugestalten. Doch anstatt dich in Machtkämpfe zu verlieren, solltest du lernen, deinen Partner zu unterstützen und gemeinsam an einem Strang zu ziehen. Hier sind einige Tipps, wie dir das gelingen kann:
 

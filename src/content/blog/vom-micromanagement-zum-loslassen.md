@@ -7,7 +7,7 @@ metaTitle: "Vom Micromanagement zum Loslassen als Bonusmama"
 metaDescription: "Du kontrollierst alles in der Patchworkfamilie? Warum Micromanagement dich auffrisst und wie du lernst, loszulassen."
 heroImage: "/images/blog/vom-micromanagement-zum-loslassen-1.jpg"
 image: "/images/blog/vom-micromanagement-zum-loslassen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Vom Micromanagement zum Loslassen"
 ---
 
 ## Kennst du das Gefühl, immer alles unter Kontrolle haben zu müssen?
@@ -34,7 +34,7 @@ Stell dir vor: dein Stiefkind kommt aus der Schule, will sich entspannen, aber d
 
 Micromanagement mag dir das Gefühl geben, alles im Griff zu haben – doch in Wirklichkeit Schadet es euren Beziehungen.
 
-![Stimmungsbild zum Artikel](/images/blog/vom-micromanagement-zum-loslassen-2.jpg)
+![Vom Micromanagement zum Loslassen — Stimmungsbild 1](/images/blog/vom-micromanagement-zum-loslassen-2.jpg)
 
 ## Warum ist Micromanaging problematisch?
 
@@ -62,7 +62,7 @@ All diese Gründe sind nachvollziehbar. Doch sie führen dazu, dass du dich selb
 
 Mein persönlicher Wendepunkt kam, als meine Stieftochter zu mir sagte: *„Warum lässt du nicht einfach Papa machen?“* Wir saßen gemeinsam im Wohnzimmer, ich hatte gerade wieder eine Diskussion darüber angefangen, wie bestimmte Dinge in unserer Familie laufen sollten. Ich spürte die Spannung in meinem Körper, die ich oft hatte, wenn ich dachte, ich müsste alles in die richtigen Bahnen lenken. Doch dieser eine Satz ließ mich innehalten. In ihrer Stimme lag keine Wut, sondern eine ehrliche, kindliche Verwunderung. Sie wollte mich nicht angreifen, sondern stellte eine Frage, die mich tief traf. Plötzlich sah ich mein Verhalten aus einer anderen Perspektive und mir wurde bewusst, dass mein Kontrollverhalten nicht nur mich selbst unter Druck setzte, sondern auch meine Familie belastete. **Dieser Satz war ein Augenöffner. **Ich erkannte, dass mein Kontrollverhalten nicht nur mir schadete, sondern auch meiner Familie. Das war der Moment, in dem ich begann, etwas zu ändern.
 
-![Stimmungsbild zum Artikel](/images/blog/vom-micromanagement-zum-loslassen-3.jpg)
+![Vom Micromanagement zum Loslassen — Stimmungsbild 2](/images/blog/vom-micromanagement-zum-loslassen-3.jpg)
 
 ## Die Bonusmama-Formel: In 3 Schritten raus aus dem Mikromanagement
 

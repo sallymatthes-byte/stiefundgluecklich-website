@@ -8,7 +8,7 @@ metaTitle: "Stiefmutter oder Bonusmama? Der Unterschied (+ warum er"
 metaDescription: "Stiefmutter, Bonusmama oder doch was anderes? Warum die Bezeichnung mehr als Wortklauberei ist — und was sie über deine Rolle verrät."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Stiefmutter, Bonusmama – Oder Wie Jetzt?"
 ---
 
 Immer mehr Familien in Deutschland leben in Patchworkfamilien. Teilweise wird diese Form der Familie in Medien auch als **die**  Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
@@ -29,7 +29,7 @@ Das Wort “Stief” stammt aus dem Germanischen und bedeutet so viel wie “ber
 > “Optimal für die Kinder ist es, wenn die leiblichen Eltern anständig miteinander umgehen und der neue Partner nicht die Erzieherrolle übernimmt, sondern dem Kind ein guter Erwachsenenfreund wird”.
 Jesper Juul
 
-![Stimmungsbild zum Artikel](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
+![Stiefmutter, Bonusmama – Oder Wie Jetzt? — Stimmungsbild 1](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
 
 ## Der Blick in die Gegenwart
 
@@ -45,7 +45,7 @@ Und diese Vielfältigkeit demonstriert der Begriff der Patchworkfamilie. Was nac
 
 Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elternteil*, welcher maßgeblich an der Zeugung des Kindes beteiligt war. Es gibt den*rechtlichen Elternteil*, welcher das Sorgerecht innehat (oder diese Rechte durch eine Adoption erworben hat). Und es gibt den*sozialen Elternteil*, der ohne gesetzliche Rechtsansprüche für das Kind eine wichtige Bezugsperson darstellt. Leider ist das aber gesetzlich so nicht verankert – wie soll man da den Überblick Behalten?
 
-![Stimmungsbild zum Artikel](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
+![Stiefmutter, Bonusmama – Oder Wie Jetzt? — Stimmungsbild 2](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
 
 ## Meine Begriffsklärung
 

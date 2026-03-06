@@ -8,7 +8,7 @@ metaTitle: "Scheitern als Bonusmama? So findest du zurück"
 metaDescription: "Du hast das Gefühl, als Bonusmama zu versagen? Warum dieses Scheitern keine Niederlage ist — sondern ein Wendepunkt."
 heroImage: "/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-1.jpg"
 image: "/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Das Gefühl des Scheiterns als Bonusmama"
 ---
 
 Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit ihrer Patchworkfamilie getrennt. Natürlich ist das nicht das Ergebnis, welches wir angestrebt haben, aber es gehört eben auch zum leben dazu. Manchmal ist es sinnvoller, sich zu trennen, anstatt unglücklich zu bleiben.
@@ -44,7 +44,7 @@ Indem du diese Strategien anwendest, kannst du lernen, deine Selbstzweifel zu ma
 
 > „Das Vergleichen ist das Ende des Glücks und der Anfang der Unzufriedenheit." – Søren Kierkegaard
 
-![Stimmungsbild zum Artikel](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-2.jpg)
+![Das Gefühl des Scheiterns als Bonusmama — Stimmungsbild 1](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-2.jpg)
 
 ## Der Vergleich mit anderen Familien
 
@@ -54,7 +54,7 @@ Kontakt zu Anderen Bonusmamas**, die Ähnliche Erfahrungen machen. Der Austausch
 
 Indem du dich auf deine eigene Familie konzentrierst und diese positiven, praxisnahen Strategien umsetzt, kannst du verhindern, dass Vergleiche dein Herz beschweren. **Deine Familie ist einzigartig**, voller eigener Geschichten und Momente, die es zu feiern gilt. Lass dich nicht von fremden Bildern täuschen – das Wahre Glück liegt in den Augenblicken, die nur ihr Miteinander Teilt.
 
-![Stimmungsbild zum Artikel](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-3.jpg)
+![Das Gefühl des Scheiterns als Bonusmama — Stimmungsbild 2](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-3.jpg)
 
 ## Was tun, wenn es dennoch nicht klappt?
 

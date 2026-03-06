@@ -8,7 +8,7 @@ metaTitle: "Warum sich Kindsmütter bedroht fühlen"
 metaDescription: "Die leibliche Mutter reagiert feindselig? Warum sie sich bedroht fühlt und wie du als Bonusmama damit umgehen kannst."
 heroImage: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
 image: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Warum Kindsmütter sich bedroht fühlen können – Und Was Bonusmamas Tun Können"
 ---
 
 In den letzten Wochen hat mich das Thema “Konkurrenz zwischen Kindsmutter und Bonusmama” sehr beschäftigt.
@@ -34,7 +34,7 @@ Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht 
 
 > „Run your own race." – Tom Tellez
 
-![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
+![Warum Kindsmütter sich bedroht fühlen können – Und Was Bonusmamas Tun Können — Stimmungsbild 1](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
 
 ## Die Perspektive der Bonusmama
 
@@ -50,7 +50,7 @@ In manchen Momenten überkommt dich vielleicht sogar der *Impuls, aufzugeben un
 
 Es ist wichtig, dass du dir inmitten dieser emotionalen Achterbahnfahrt Raum für deine eigenen Gefühle gibst. Erlaube dir, die Verletzungen wahrzunehmen und auszudrücken, sei es durch Gespräche mit deinem Partner, einer Freundin oder einem Therapeuten. Pflege auch einen liebevollen Umgang mit dir selbst und gönne dir Momente der Selbstfürsorge.
 
-![Stimmungsbild zum Artikel](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-3.jpg)
+![Warum Kindsmütter sich bedroht fühlen können – Und Was Bonusmamas Tun Können — Stimmungsbild 2](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-3.jpg)
 
 ## Gemeinsames Brückenbauen
 

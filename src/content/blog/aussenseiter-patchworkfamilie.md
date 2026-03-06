@@ -7,7 +7,7 @@ metaTitle: "Außenseiter in der eigenen Familie? Das steckt dahinter"
 metaDescription: "Du fühlst dich als Außenseiter in deiner Patchworkfamilie? Warum dieses Gefühl entsteht und was dir jetzt hilft."
 heroImage: "/images/blog/aussenseiter-patchworkfamilie-1.jpg"
 image: "/images/blog/aussenseiter-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Als Bonusmama bist du die Außenseiterin in eurer Patchworkfamilie!"
 ---
 
 Neulich begegnete mir das Konzept von Dr. Patricia Papernow - eine renommierte Psychologin und Expertin im Bereich der Patchworkfamilien.
@@ -37,7 +37,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
-![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-2.jpg)
+![Als Bonusmama bist du die Außenseiterin in eurer Patchworkfamilie! — Stimmungsbild 1](/images/blog/aussenseiter-patchworkfamilie-2.jpg)
 
 ## Die Position des Außenseiters
 
@@ -81,7 +81,7 @@ Passend dazu:** Hör dir die Podcastfolge "Ausgeschlossen in der eigenen Familie
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/aussenseiter-patchworkfamilie-3.jpg)
+![Als Bonusmama bist du die Außenseiterin in eurer Patchworkfamilie! — Stimmungsbild 2](/images/blog/aussenseiter-patchworkfamilie-3.jpg)
 
 Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche Verhaltensweisen die Insider-Outsider-Dynamik verschärfen können:
 

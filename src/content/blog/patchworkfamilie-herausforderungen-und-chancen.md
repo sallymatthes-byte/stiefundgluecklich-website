@@ -8,7 +8,7 @@ metaTitle: "Patchworkfamilie: Herausforderungen & Chancen"
 metaDescription: "Das komplexe Leben einer Patchworkfamilie — warum es unglaublich bereichernd ist und welche Stolpersteine auf dem Weg laufen."
 heroImage: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie"
 ---
 
 Als Teil einer Patchworkfamilie kenne ich die *Stolpersteine* nur allzu gut. Mein Partner hat zwei wundervolle Mädchen, die in Frankreich leben und bei uns in den Schulferien leben. Diese Konstellation bringt viele schöne und einzigartige Momente mit sich, aber auch einige Hürden, die es zu überwinden gilt.
@@ -47,7 +47,7 @@ Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. 
 
 > “Eine Patchwork-Familie ist wie ein bunter Quilt, jeder Stoff einzigartig, aber zusammen perfekt.”
 
-![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-2.jpg)
+![Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie — Stimmungsbild 1](/images/blog/patchworkfamilie-herausforderungen-und-chancen-2.jpg)
 
 ## Ist es das alles wert?
 
@@ -58,7 +58,7 @@ Mein Ziel dabei als Bonusmama ist es, den Kindern ein weiteres Vorbild zu sein: 
 
 Im nächsten Abschnitt werde ich dir meine Tipps geben, wie du ein harmonisches Patchworkleben gestalten kannst und was uns hilft. Ich werde dir zeigen, wie du die Herausforderungen meistern und die Chancen nutzen kannst, um eine starke und liebevolle Patchworkfamilie aufzubauen.
 
-![Stimmungsbild zum Artikel](/images/blog/patchworkfamilie-herausforderungen-und-chancen-3.jpg)
+![Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie — Stimmungsbild 2](/images/blog/patchworkfamilie-herausforderungen-und-chancen-3.jpg)
 
 ## Tipps für ein harmonisches Patchworkleben
 

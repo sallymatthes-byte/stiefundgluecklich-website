@@ -8,7 +8,7 @@ metaTitle: "Inneres Kind heilen: Was Bonuskinder uns lehren"
 metaDescription: "Bonuskinder triggern oft tiefe Wunden aus der Kindheit. Wie du dein inneres Kind heilst und dadurch eine bessere Bonusmama wirst."
 heroImage: "/images/blog/innere-kind-heilung-1.jpg"
 image: "/images/blog/innere-kind-heilung-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Was uns Bonuskinder über uns selbst lehren"
 ---
 
 Neulich wollten wir mit meinen Bonuskindern spazieren gehen. Und da kam dieses vorpubertäre Verhalten der Großen durch: Sie stapfte wütend vornweg, hatte überhaupt keine Lust und eigentlich war sie dafür viel zu cool. Und ich habe in dem Moment nicht sie gesehen, sondern mich als 14-jährige. Ich spürte unglaublich viel Wut und Scham. Mich hatte damals niemals begleitet und so kämpfte ich mich allein durch diesen Gefühlsdschungel.
@@ -24,7 +24,7 @@ Innere Verletzungen entstehen durch schmerzhafte Erfahrungen, die wir als Kind g
 
 Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durch einen Elternteil oder die Verweigerung von Zuneigung weckt schmerzhafte Erinnerungen an emotionale Vernachlässigung. In diesen Triggerpunkten liegt jedoch auch eine große Chance zur Heilung und zum persönlichen Wachstum. Doch was ist der erste Schritt, dies anzunehmen?
 
-![Stimmungsbild zum Artikel](/images/blog/innere-kind-heilung-2.jpg)
+![Was uns Bonuskinder über uns selbst lehren — Stimmungsbild 1](/images/blog/innere-kind-heilung-2.jpg)
 
 ## Unsere Gefühle annehmen: Der Schlüssel zur inneren Balance
 
@@ -64,7 +64,7 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/innere-kind-heilung-3.jpg)
+![Was uns Bonuskinder über uns selbst lehren — Stimmungsbild 2](/images/blog/innere-kind-heilung-3.jpg)
 
 Auch wenn es manchmal schmerzhaft sein kann, von den eigenen Bonuskindern getriggert zu werden, liegt darin auch eine immense Chance für persönliches Wachstum und Transformation. Unsere Bonuskinder sind wie weise Lehrer, die uns immer wieder an unsere Grenzen bringen und uns dadurch helfen, über uns hinauszuwachsen. Jede Herausforderung birgt die Möglichkeit, *Geduld*, *Empathie* und *bedingungslose Liebe* zu entwickeln – Qualitäten, die nicht nur unseren Bonuskindern zugutekommen, sondern auch uns selbst bereichern.
 

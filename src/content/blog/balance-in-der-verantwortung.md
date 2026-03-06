@@ -8,7 +8,7 @@ metaTitle: "Verantwortung als Bonusmama: Wie viel ist zu viel?"
 metaDescription: "Wo hört Hilfe auf und wo fängt Aufopferung an? Finde die richtige Balance bei der Verantwortung für deine Bonuskinder."
 heroImage: "/images/blog/balance-in-der-verantwortung-1.jpg"
 image: "/images/blog/balance-in-der-verantwortung-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die richtige Balance"
 ---
 
 Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-All Ansatz!
@@ -33,7 +33,7 @@ Die Rolle des biologischen Elternteils in Bezug auf Verantwortung ist ein sensib
 
 Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in der der biologische Elternteil bereits eine Verbindung zu den Kindern aufgebaut hat. Es ist wichtig, diese Bindung zu respektieren und Raum für die Entwicklung der Beziehung zwischen dem biologischen Elternteil und den Bonuskindern zu lassen. Indem wir die Verantwortung zu Beginn in den Händen des biologischen Elternteils belassen, signalisieren wir, dass wir seine/ihre Rolle wertschätzen und unterstützen.
 
-![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-2.jpg)
+![Die richtige Balance — Stimmungsbild 1](/images/blog/balance-in-der-verantwortung-2.jpg)
 
 ## Wie geht es den Kindern?
 
@@ -68,7 +68,7 @@ Passend dazu:**Hör dir die Podcastfolge „Balance finden als Bonusmama" an —
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
+![Die richtige Balance — Stimmungsbild 2](/images/blog/balance-in-der-verantwortung-3.jpg)
 
 Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 

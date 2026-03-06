@@ -8,7 +8,7 @@ metaTitle: "Zwischen Partnerin und Bonusmama: So findest du die Balance"
 metaDescription: "Partnerin ODER Bonusmama? Warum du beides sein darfst — und wie du die Balance zwischen Beziehung und Bonusmama-Rolle findest."
 heroImage: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 image: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Zwischen Partnerschaft und Bonusmama-Sein"
 ---
 
 Kennst du das Gefühl, als Bonusmama immer mehr in die Rolle der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
@@ -31,7 +31,7 @@ An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die V
 
 Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschrauben, ohne die Kinder zu vernachlässigen? Und wie sollte ich meinem Partner beibringen, dass ich mehr Unterstützung brauchte, ohne ihn zu überfordern? Ich wusste, dass es nicht einfach werden würde, aber ich war entschlossen, einen Weg zu finden.
 
-![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
+![Zwischen Partnerschaft und Bonusmama-Sein — Stimmungsbild 1](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
 
 ## Mein Wunsch nach Veränderung
 
@@ -68,7 +68,7 @@ Ein wichtiger Schritt war es auch, offen mit meinem Partner über meine Gefühle
 
 Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
-![Stimmungsbild zum Artikel](/images/blog/zwischen-partnerschaft-und-bonusmama-3.jpg)
+![Zwischen Partnerschaft und Bonusmama-Sein — Stimmungsbild 2](/images/blog/zwischen-partnerschaft-und-bonusmama-3.jpg)
 
 ## Der Weg zur Balance
 

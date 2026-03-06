@@ -8,7 +8,7 @@ metaTitle: "Trigger in der Patchworkfamilie: So kommst du raus"
 metaDescription: "Bestimmte Situationen triggern dich als Bonusmama jedes Mal? Wie du Triggersituationen erkennst und endlich durchbrichst."
 heroImage: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
 image: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Triggersituationen in Patchworkfamilien"
 ---
 
 Meine älteste Bonustochter kommt gerade in die Pubertät – und Viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) mich gerade mehr als Sonst. Das Heißt, dass diese Situationen eine Reaktion in mir Auslösen, die ich Sonst nicht Kenne.
@@ -27,7 +27,7 @@ Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen 
 
 > “der schmerz ist unvermeidlich, das leiden ist optional.” – Haruki Murakami
 
-![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
+![Triggersituationen in Patchworkfamilien — Stimmungsbild 1](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
 
 ## Warum triggern uns bestimmte Situationen?
 
@@ -44,7 +44,7 @@ Achte auch auf **körperliche Reaktionen**  wie Anspannung, Herzrasen oder Bauch
 Schreibe auf, wann und warum du dich getriggert fühlst. Welche Gedanken und Gefühle tauchen in diesen Momenten auf? Durch das Festhalten dieser Informationen kannst du Muster erkennen und Zusammenhänge besser verstehen. Es ist auch hilfreich, sich mit anderen Bonusmamas auszutauschen.
 Du wirst feststellen, dass du nicht allein mit diesen Triggersituationen bist und dass andere ähnliche Erfahrungen gemacht haben. Das kann dir helfen, deine eigenen Trigger besser zu erkennen und zu verstehen.
 
-![Stimmungsbild zum Artikel](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-3.jpg)
+![Triggersituationen in Patchworkfamilien — Stimmungsbild 2](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-3.jpg)
 
 ## Wie kann ich reagieren?
 

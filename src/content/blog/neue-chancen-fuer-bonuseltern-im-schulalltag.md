@@ -7,7 +7,7 @@ metaTitle: "Schulalltag als Bonusmama: So findest du deine Rolle"
 metaDescription: "Elternabend, Hausaufgaben, Schulfeste — wo ist dein Platz als Bonusmama? Neue Chancen für mehr Teilhabe."
 heroImage: "/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-1.jpg"
 image: "/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Neue Chancen für Bonuseltern im Schulalltag"
 ---
 
 “Und sie sind… die Mama?” als die Lehrerin mich das fragte, wusste ich nicht, was ich antworten sollte. Oder dieser Moment, als ich so gerne zum Elternabend gehen wollte, aber nicht eingeladen war. Ich wollte helfen, mich einbringen und einfach dazugehören – aber ich wusste nicht, was meine Rolle als Bonuseltern Im Schulalltag überhaupt sein durfte.
@@ -34,7 +34,7 @@ Diese Geschichte zeigt den entscheidenden Durchbruch, den viele Bonuseltern im S
 
 Genau wie Anna habe ich gelernt, dass es Wege gibt, sich zu beteiligen, auch wenn sie manchmal anders aussehen als gedacht. Diese Erkenntnis hat für mich alles verändert – und kann es auch für dich tun.
 
-![Stimmungsbild zum Artikel](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-2.jpg)
+![Neue Chancen für Bonuseltern im Schulalltag — Stimmungsbild 1](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-2.jpg)
 
 ## Die besonderen Herausforderungen für Bonuseltern im Schulalltag
 
@@ -54,7 +54,7 @@ Diese fehlende Anerkennung führt zu einem weiteren Problem: dem mangelnden Mits
 
 Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen – Wege, die ich selbst gegangen bin und die ich nun mit dir teilen möchte.
 
-![Stimmungsbild zum Artikel](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-3.jpg)
+![Neue Chancen für Bonuseltern im Schulalltag — Stimmungsbild 2](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-3.jpg)
 
 ## Wie du als Bonuseltern im Schulalltag trotzdem wirksam sein kannst
 

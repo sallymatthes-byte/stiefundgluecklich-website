@@ -8,7 +8,7 @@ metaTitle: "Das Eisberg-Modell in der Patchworkfamilie"
 metaDescription: "Warum Konflikte in Patchworkfamilien tiefer liegen als du denkst. Das Eisberg-Modell zeigt dir, was wirklich los ist."
 heroImage: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 image: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Wie das Eisberg-Modell Patchworkfamilien helfen kann"
 ---
 
 Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das oft verwendet wird, um zu veranschaulichen, dass viele unserer Verhaltensweisen, Reaktionen und Entscheidungen von unbewussten Gedanken, Gefühlen und Motivationen beeinflusst werden, die unter der Oberfläche liegen. Und wir schauen uns heute mal an, wie das Eisberg-Modell einer Patchworkfamilie helfen kann.
@@ -23,7 +23,7 @@ Die Spitze des Eisbergs, die aus dem Wasser ragt, repräsentiert unser bewusstes
 
 Genau hier liegt die Bedeutung des Eisberg-Modells: Es lädt uns ein, unter die Oberfläche zu blicken und die verborgenen Einflüsse auf unser Verhalten zu ergründen. Indem wir erkennen, was uns unbewusst antreibt, können wir anfangen, bewusster zu kommunizieren und einfühlsamer miteinander umzugehen. Diese Fähigkeit ist gerade in Patchworkfamilien von unschätzbarem Wert, wie wir gleich sehen werden
 
-![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-2.jpg)
+![Wie das Eisberg-Modell Patchworkfamilien helfen kann — Stimmungsbild 1](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-2.jpg)
 
 ## Was bedeutet das für Patchworkfamilien?
 
@@ -64,7 +64,7 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-3.jpg)
+![Wie das Eisberg-Modell Patchworkfamilien helfen kann — Stimmungsbild 2](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-3.jpg)
 
 Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es Im Turbulenten Familienleben um? Hier kommen ein Paar Praktische Tipps und Fragen, die dir helfen können, den Eisberg-blick zu Schärfen:
 

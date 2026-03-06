@@ -8,7 +8,7 @@ metaTitle: "Konflikte wegen der Ex: So überwindest du den Dauerstreit"
 metaDescription: "Ständig Streit wegen der Ex-Frau? Wie du als Bonusmama Konflikte löst und endlich Frieden in eure Beziehung bringst."
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"
 ---
 
 Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um die Erziehung der Kinder geht, um Absprachen oder Grenzen – die Verflossene ist immer Präsent und Sorgt für Ärger. Du fühlst dich Zurückgesetzt, nicht Wertgeschätzt und Ausgeschlossen. Dabei willst du doch eigentlich nur eines: gemeinsam mit deinem Partner eine Harmonische Patchwork-familie sein.
@@ -29,7 +29,7 @@ Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht da
 
 Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das So? Und wie schafft man es, sich davon nicht die Beziehung Ruinieren zu lassen?
 
-![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
+![Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama — Stimmungsbild 1](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
 
 ## Yvonne träumte davon…
 
@@ -60,7 +60,7 @@ Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 Schritt 1: Analyse – Die Situation mit Abstand betrachten** Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
 
 
-![Stimmungsbild zum Artikel](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
+![Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama — Stimmungsbild 2](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
 
 Durch diesen Perspektivwechsel gelang es Yvonne, mehr Klarheit zu gewinnen. Sie erkannte, dass die Streite oft durch mangelnde Absprachen und unterschiedliche Erwartungen entstanden. Und sie sah, dass es letztlich allen Beteiligten um dasselbe ging: respektiert und wertgeschätzt zu werden. **Schritt 2: Veränderung – Alte Muster durchbrechen** Mit diesen Erkenntnissen im Gepäck ging Yvonne den nächsten Schritt: Sie fing an, ihr eigenes Verhalten zu reflektieren. Statt ihrem Partner Vorwürfe zu machen, übte sie sich in Gelassenheit.*In unseren Sitzungen hinterfragte sie ihre eigenen Ansprüche und versuchte, Verständnis für die Perspektive ihres Partners und der Ex zu entwickeln.*
 

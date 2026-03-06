@@ -8,7 +8,7 @@ metaTitle: "Gemeinsame Familienkultur in der Patchworkfamilie aufbauen"
 metaDescription: "Wie ihr als Patchworkfamilie eigene Traditionen, Rituale und eine Kultur schafft, in der sich alle zugehörig fühlen."
 heroImage: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
 image: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "So gelingt der Weg zur gemeinsamen Familienkultur in einer Patchworkfamilie"
 ---
 
 Diese Woche hatte mein Partner Geburtstag und das ist immer einer Herausforderung für uns. Ich möchte bereits beim Aufstehen Geschenke auspacken, Konfetti regnen lassen und Kuchen essen. Er möchte davon gar nichts wissen, sondern in Ruhe Kaffee trinken – der Geburtstagskuchen wird in seiner Familie nach dem Abendessen Angeschnitten.
@@ -36,7 +36,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 Lass uns nun direkt mal tiefer in die vierte Herausforderung einsteigen.
 
-![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-2.jpg)
+![So gelingt der Weg zur gemeinsamen Familienkultur in einer Patchworkfamilie — Stimmungsbild 1](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-2.jpg)
 
 ## Warum ist dies so eine Herausforderung?
 
@@ -77,7 +77,7 @@ Ein respektvoller Umgang miteinander bedeutet auch, Unterschiede auszuhalten und
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-3.jpg)
+![So gelingt der Weg zur gemeinsamen Familienkultur in einer Patchworkfamilie — Stimmungsbild 2](/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-3.jpg)
 
 Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstellungen von Familienalltag und -kultur mit. Papernow empfiehlt, sich darauf einzustellen und Veränderungen langsam anzugehen. Hier sind zwei konkrete Beispiele, wie das gelingen kann:
 

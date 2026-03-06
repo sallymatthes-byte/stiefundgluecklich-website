@@ -8,7 +8,7 @@ metaTitle: "Die 4 Phasen der Patchworkfamilie: In welcher steckst du?"
 metaDescription: "Jede Patchworkfamilie durchläuft 4 Phasen — von der Euphorie bis zur echten Verbundenheit. Finde heraus, wo ihr steht."
 heroImage: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die 4 Phasen der Patchworkfamilie"
 ---
 
 In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
@@ -53,7 +53,7 @@ Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hilfreich, die Kom
 > “Man darf nicht verlernen, die Welt mit den Augen eines Kindes zu sehen.” – Henri Matisse
 
 
-![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-2.jpg)
+![Die 4 Phasen der Patchworkfamilie — Stimmungsbild 1](/images/blog/die-4-phasen-der-patchworkfamilie-2.jpg)
 
 ## Phase 2 – Das Storming
 
@@ -91,7 +91,7 @@ Die Phase des “Normings” ist entscheidend für den**
 
 Aufbau einer stabilen und harmonischen Patchworkfamilie**. Durch die gemeinsame Entwicklung von Regeln, die Akzeptanz und Respekt fördern, sowie durch unsere Unterstützung und Vermittlung können wir als Bonusmama aktiv zur Stabilität und zum Zusammenhalt der Familie beitragen.
 
-![Stimmungsbild zum Artikel](/images/blog/die-4-phasen-der-patchworkfamilie-3.jpg)
+![Die 4 Phasen der Patchworkfamilie — Stimmungsbild 2](/images/blog/die-4-phasen-der-patchworkfamilie-3.jpg)
 
 ## Phase 4 – Das Performing
 

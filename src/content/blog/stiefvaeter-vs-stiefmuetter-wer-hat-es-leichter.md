@@ -8,7 +8,7 @@ metaTitle: "Stiefväter vs. Stiefmütter: Wer hat es wirklich leichter?"
 metaDescription: "Haben es Stiefväter leichter als Stiefmütter? Ein ehrlicher Vergleich — und warum die Antwort dich überraschen wird."
 heroImage: "/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-1.jpg"
 image: "/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Stiefväter vs. Stiefmütter"
 ---
 
 Immer wieder werde ich gefragt, weshalb ich mein Angebot nicht auch für Stiefväter ausweite.
@@ -27,7 +27,7 @@ Diese unterschiedlichen Erwartungen können Stiefmütter unter Druck setzen und 
 
 Auch in meiner Patchworkfamilie habe ich das so erlebt: Wenn die Kinder Zeit mit dem Papa verbrachten, war es überhaupt nicht schlimm, wenn es nur Pommes und TV gab. War ich dabei, wurde gesundes Essen und pädagogische Aktivitäten erwartet. Zumindest in meiner Vorstellung und laut meinen Erfahrungen.
 
-![Stimmungsbild zum Artikel](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-2.jpg)
+![Stiefväter vs. Stiefmütter — Stimmungsbild 1](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-2.jpg)
 
 ## StiefPapas als Spielgefährten, Stiefmamas als Erzieher_innen?
 
@@ -51,7 +51,7 @@ Gleichzeitig gibt es zahlreiche Stiefväter, die sich intensiv um ihre Stiefkind
 Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannungen führen kann.
 *Letztlich zeigt sich, dass sowohl Stiefmütter als auch Stiefväter mit Vorurteilen und überhöhten Erwartungen zu kämpfen haben, die ihrer individuellen Situation und ihren Bemühungen nicht immer gerecht werden.*
 
-![Stimmungsbild zum Artikel](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-3.jpg)
+![Stiefväter vs. Stiefmütter — Stimmungsbild 2](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-3.jpg)
 
 ## Warum sich meine Angebote an Bonusmamas richten
 

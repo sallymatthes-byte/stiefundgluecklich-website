@@ -8,7 +8,7 @@ metaTitle: "Urlaub als Patchworkfamilie: Planung ohne Drama"
 metaDescription: "Urlaubsplanung in der Patchworkfamilie — zwischen Umgangsregelung und echtem Erholungswunsch. So klappt es ohne Drama."
 heroImage: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 image: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Urlaubsplanung in Patchworkfamilien"
 ---
 
 Wir sitzen gerade wieder an der Urlaubsplanung. Wann verreisen wir wohin mit den Kindern? Was wollen wir erleben? Welche Bedürfnisse müssen dabei erfüllt werden? Und wie kann ich mir dabei als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)Auszeiten nehmen? Und muss ich überhaupt mit allen gemeinsam fahren?
@@ -24,7 +24,7 @@ Ein harmonischer Patchwork-Urlaub beginnt damit, dass du die individuellen Bedü
 
 Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse aller kann der Patchwork-Urlaub für jeden zu einer wertvollen Auszeit werden. Eine Zeit, in der jeder auftanken und schöne Erinnerungen sammeln kann. So stärkt ihr eure Familienbande und schafft Momente, die euch verbinden – auch wenn nicht immer alle gemeinsam Verreisen.
 
-![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-2.jpg)
+![Urlaubsplanung in Patchworkfamilien — Stimmungsbild 1](/images/blog/urlaubsplanung-in-patchworkfamilien-2.jpg)
 
 ## Ideen für unvergessliche Momente
 
@@ -64,7 +64,7 @@ Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patc
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/urlaubsplanung-in-patchworkfamilien-3.jpg)
+![Urlaubsplanung in Patchworkfamilien — Stimmungsbild 2](/images/blog/urlaubsplanung-in-patchworkfamilien-3.jpg)
 
 Auch wenn der Koffer wieder ausgepackt und die Wäsche gewaschen ist, muss der Urlaub nicht vorbei sein.
 Nutze die Zeit danach, um gemeinsam mit deiner Familie in Erinnerungen zu schwelgen und die schönen Momente aufleben zu lassen.*Wie wäre es mit einem gemütlichen Abend, an dem ihr eure Fotos anschaut und euch eure Lieblingsmomente erzählt?* Jeder kann berichten, was ihm besonders gut gefallen hat und was er aus dem Urlaub mitnimmt.

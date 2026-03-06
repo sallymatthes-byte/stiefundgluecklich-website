@@ -7,7 +7,7 @@ metaTitle: "Unterhalt in Patchworkfamilien: Das musst du wissen"
 metaDescription: "Unterhalt, Kindergeld, Steuern — wie Finanzen deine Patchworkfamilie beeinflussen. Deutschland, Österreich, Schweiz im Vergleich."
 heroImage: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
 image: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Unterhalt in Patchworkfamilien"
 ---
 
 ### Warum bleibt bei euch als Paar so wenig übrig – Obwohl Dein Partner So Viel Zahlt?
@@ -34,7 +34,7 @@ Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebs
 
 Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und der Schweiz werfen.
 
-![Stimmungsbild zum Artikel](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
+![Unterhalt in Patchworkfamilien — Stimmungsbild 1](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
 
 ## Deutschland, Österreich, Schweiz – Wer bekommt was?
 
@@ -88,7 +88,7 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 - Unverheiratete Patchwork-Familien haben oft steuerliche Nachteile gegenüber traditionellen Familien.
 
-![Stimmungsbild zum Artikel](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
+![Unterhalt in Patchworkfamilien — Stimmungsbild 2](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
 
 ## Warum du dich finanziell oft benachteiligt fühlst – Die Größten Herausforderungen
 

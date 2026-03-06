@@ -8,7 +8,7 @@ metaTitle: "Bonusmama & leibliche Mutter: Besser miteinander"
 metaDescription: "Ständig Konflikte mit der leiblichen Mutter? 5 Wege, wie Bonusmama und Kindsmutter besser miteinander auskommen."
 heroImage: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
 image: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Konflikte mit der leiblichen Mutter"
 ---
 
 “Das hat sie jetzt nicht wirklich getan!”, rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
@@ -36,7 +36,7 @@ Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusma
 Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters schlecht redet. Daher ist es wichtig, diese Herausforderungen anzugehen und Wege zu finden, um ein harmonisches Miteinander zu fördern.
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
-![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
+![Konflikte mit der leiblichen Mutter — Stimmungsbild 1](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
 
 ## Ursachen für Konflikte
 
@@ -79,7 +79,7 @@ Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte ents
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
+![Konflikte mit der leiblichen Mutter — Stimmungsbild 2](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
 
 Wenn wir die zugrundeliegenden Ursachen für Konflikte zwischen Bonusmama und leiblicher Mutter verstehen, können wir effektivere Strategien zur Lösung dieser Konflikte entwickeln.
 

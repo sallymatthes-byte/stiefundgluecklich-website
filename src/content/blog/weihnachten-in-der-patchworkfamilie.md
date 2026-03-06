@@ -8,7 +8,7 @@ metaTitle: "Weihnachten in der Patchworkfamilie: Harmonie statt Stress"
 metaDescription: "Weihnachten als Patchworkfamilie ist eine Herausforderung. So schaffst du Harmonie — ohne dich selbst zu verlieren."
 heroImage: "/images/blog/weihnachten-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/weihnachten-in-der-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Weihnachten in der Patchworkfamilie"
 ---
 
 Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm.
@@ -45,7 +45,7 @@ Geschenken:** Wer beschenkt wen? Wie viel geben wir aus? Werden alle Kinder glei
 So viele Stolpersteine, die uns in der (Vor-) Weihnachtszeit erwarten.
 Und dabei wollen wir doch alle nur eins: harmonische Feiertage, ohne Streit und Konflikte.
 
-![Stimmungsbild zum Artikel](/images/blog/weihnachten-in-der-patchworkfamilie-2.jpg)
+![Weihnachten in der Patchworkfamilie — Stimmungsbild 1](/images/blog/weihnachten-in-der-patchworkfamilie-2.jpg)
 
 ## Und wie fühlt es sich für die Kinder an?
 
@@ -81,7 +81,7 @@ Gebt dem Kind die Möglichkeit, selbst mitzubestimmen, wie es das Weihnachtsfest
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/weihnachten-in-der-patchworkfamilie-3.jpg)
+![Weihnachten in der Patchworkfamilie — Stimmungsbild 2](/images/blog/weihnachten-in-der-patchworkfamilie-3.jpg)
 
 In einer Patchworkfamilie kommen bekanntlich Menschen mit unterschiedlichen Hintergründen, Traditionen und Vorlieben zusammen. Dass sich alle Mitglieder der Familie gleichermaßen wertgeschätzt und eingebunden fühlen, trägt maßgeblich zum Weihnachtsfrieden bei. Deshalb möchte ich dir heute ein paar kreative Ideen für Weihnachtsrituale in Patchworkfamilien vorstellen, die diese Vielfalt berücksichtigen.
 

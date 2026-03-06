@@ -8,7 +8,7 @@ metaTitle: "Erziehungskonflikte in Patchworkfamilien"
 metaDescription: "Dein Partner erzieht völlig anders? Warum Erziehungskonflikte in Patchworkfamilien besonders heftig sind — und was hilft."
 heroImage: "/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-1.jpg"
 image: "/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Unterschiedliche Erziehung in der Patchworkfamilie"
 ---
 
 Es war wieder einer dieser Momente am Abendbrottisch, die mir das Herz schwer machten. Mein Partner hatte seiner Tochter gerade zum dritten mal erlaubt, das Gemüse links liegen zu lassen und stattdessen nur Nudeln zu essen. Ich spürte, wie sich alles in mir zusammenzog, während ich beobachtete, wie die gesunde Mahlzeit, die ich mit Liebe zubereitet hatte, unangerührt blieb. Als ausgebildete Pädagogin wusste ich, wie wichtig ausgewogene Ernährung für Kinder ist – aber noch Wichtiger war die Frage, die mich in Solchen Momenten Quälte: **war es überhaupt meine Rolle, hier Einzugreifen?** die Unterschiedliche Erziehung in unserer Patchworkfamilie wurde immer mehr zu einer Emotionalen Zerreißprobe.
@@ -21,13 +21,13 @@ Die Herausforderung der unterschiedlichen [Erziehungsansätze](https://www.kita.
 
 An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leben. **Wenn ich versuchte, Grenzen zu setzen, untergrub er sie oft unbeabsichtigt. **Wenn er den Kindern mehr Freiheiten ließ, kämpfte ich mit dem Impuls, korrigierend einzugreifen. Diese ständige Diskrepanz in unseren Erziehungsvorstellungen schuf eine unterschwellige Spannung, die sich wie ein feiner Nebel über unser Familienleben legte.
 
-![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
+![Unterschiedliche Erziehung in der Patchworkfamilie — Stimmungsbild 1](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
 
 ## Die Suche nach Antworten
 
 “Redet doch einfach miteinander” oder “Findet einen Kompromiss” – diese Gut Gemeinten Ratschläge von Freunden und Familie Klangen in meinen Ohren wie Hohn. Sie Verstanden nicht, dass jedes Gespräch über Erziehung zu einem Emotionalen Minenfeld wurde. Wir Versuchten es. Immer wieder. Doch Meist Endeten unsere Gespräche in einer Von Zwei Richtungen:**  entweder Zog sich einer Von uns Verletzt Zurück, oder wir Verhärteten unsere Positionen noch mehr. **Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder begannen, unsere unterschiedlichen Ansätze für sich zu nutzen. “Aber Papa hat gesagt…” oder “Bei Mama darf ich das aber…” wurden zu Standardsätzen, die jede Diskussion noch schwieriger machten. Ich beobachtete, wie sie zwischen unseren verschiedenen Erziehungsstilen hin und her lavierten, mal bei ihm Zuflucht suchten, wenn ich ihnen Grenzen setzte, mal bei mir, wenn seine Flexibilität sie überforderte.
 
-![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
+![Unterschiedliche Erziehung in der Patchworkfamilie — Stimmungsbild 2](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
 
 ## Weg von der unterschiedlichen Erziehung
 

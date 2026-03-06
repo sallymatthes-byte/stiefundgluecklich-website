@@ -8,7 +8,7 @@ metaTitle: "Großeltern & Co: Die Rolle der Familie in Patchworkfamilien"
 metaDescription: "Wie Großeltern, Onkel und Tanten die Patchworkfamilie beeinflussen — und wie du als Bonusmama damit umgehst."
 heroImage: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die Bedeutung der restlichen Familie in der Patchworkfamilie"
 ---
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
@@ -23,7 +23,7 @@ Lass mich dir ein Beispiel geben:
 Meine [Eltern](https://www.grosseltern.de/tipps-fuer-stief-grosseltern-gleichbehandlung-der-biologischen-und-nicht-biologischen-enkel/) hatten bereits ein Enkelkind, welches sie abgöttisch lieben. Und plötzlich gab es da zwei weitere Kinder, die nicht dieselbe Sprache sprechen und schon etwas älter sind. Jedes Enkelkind ist für sie dennoch einzigartig und hat seine eigenen Bedürfnisse und Persönlichkeiten.
 Bei leiblichen Enkelkindern besteht oft eine biologische Verbindung, die von Natur aus eine gewisse Nähe und Verbundenheit schafft. Doch das bedeutet nicht, dass die Bindung zu den Enkelkindern aus einer Patchworkfamilie weniger stark sein muss. Im Gegenteil, sie kann sogar noch intensiver und wertvoller sein, da sie auf gegenseitigem Vertrauen und Liebe aufbaut.
 
-![Stimmungsbild zum Artikel](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-2.jpg)
+![Die Bedeutung der restlichen Familie in der Patchworkfamilie — Stimmungsbild 1](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-2.jpg)
 
 ## Wie die restliche Familie eine Rolle spielt
 
@@ -52,7 +52,7 @@ Unsicherheit oder Abneigung**einiger Familienmitglieder gegenüber der Patchwork
 
 Eine weitere Herausforderung kann darin bestehen, dass die Kinder möglicherweise Schwierigkeiten haben, sich in die restliche Familie zu integrieren. Sie können sich unsicher fühlen oder befürchten, dass sie nicht akzeptiert werden. Hier ist es wichtig, den Kindern die Zeit und den Raum zu geben, sich anzupassen und Vertrauen aufzubauen. Es kann hilfreich sein, ihnen Aufgaben und Verantwortlichkeiten zu übertragen, um sie in die Familie einzubeziehen und ihnen das Gefühl zu geben, dass sie einen wichtigen Beitrag leisten.
 
-![Stimmungsbild zum Artikel](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-3.jpg)
+![Die Bedeutung der restlichen Familie in der Patchworkfamilie — Stimmungsbild 2](/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-3.jpg)
 
 ## Gemeinsame Aktivitäten
 

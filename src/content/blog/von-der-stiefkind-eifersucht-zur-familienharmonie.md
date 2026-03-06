@@ -8,7 +8,7 @@ metaTitle: "Stiefkind-Eifersucht überwinden: Von Neid zu echter Harmonie"
 metaDescription: "Eifersucht auf das Stiefkind? Warum das Gefühl normal ist und wie du den Weg zu echter Familienharmonie findest."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"
 ---
 
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer Patchworkfamilie. Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
@@ -36,7 +36,7 @@ Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine Rolle zu finden. *I
 
 Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war als die Eifersucht: meine tiefe Sehnsucht nach einer harmonischen Patchworkfamilie. Eine Sehnsucht, die mich nicht losließ, auch wenn die Eifersucht manchmal übermächtig erschien.
 
-![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
+![Von der Stiefkind-Eifersucht zur Familienharmonie — Stimmungsbild 1](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
 
 ## Der Traum von einer harmonischen Patchworkfamilie
 
@@ -54,7 +54,7 @@ Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollt
 
 Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich selbst Angst hatte, zu kurz zu kommen, nicht wichtig genug zu sein, ersetzt zu werden. **In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
-![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
+![Von der Stiefkind-Eifersucht zur Familienharmonie — Stimmungsbild 2](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
 ## Der Wendepunkt: Als ich aufhörte zu kämpfen
 

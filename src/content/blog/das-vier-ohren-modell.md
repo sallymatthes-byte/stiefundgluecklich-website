@@ -7,7 +7,7 @@ metaTitle: "Das 4-Ohren-Modell in der Patchworkfamilie"
 metaDescription: "Missverständnisse mit Partner, Ex oder Bonuskindern? Das 4-Ohren-Modell zeigt dir, warum — und wie du besser kommunizierst."
 heroImage: "/images/blog/das-vier-ohren-modell-1.jpg"
 image: "/images/blog/das-vier-ohren-modell-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Das 4-Ohren-Modell"
 ---
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon Entfacht ein Streit. Plötzlich Wirfst du deinem Partner vor, nicht genug Im Haushalt zu helfen oder dich zu Vernachlässigen. Dabei Wolltest du eigentlich nur eine Harmlose Bemerkung machen, doch Irgendwie ist alles aus dem Ruder Gelaufen.
@@ -28,7 +28,7 @@ Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen kö
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
-![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-2.jpg)
+![Das 4-Ohren-Modell — Stimmungsbild 1](/images/blog/das-vier-ohren-modell-2.jpg)
 
 ## Der Wunsch nach einem Miteinander ohne Vorwürfe
 
@@ -57,7 +57,7 @@ Doch immer wieder fielen wir in alte Muster zurück und interpretierten Aussagen
 
 Erst mit der Zeit lernten wir, bewusster zu kommunizieren und auch mal innezuhalten, wenn wir merkten, dass wir auf unterschiedlichen Ebenen hörten. Das 4-Ohren-Modell gab uns ein Werkzeug an die Hand, um Missverständnisse schneller zu erkennen und aus der Welt zu schaffen.
 
-![Stimmungsbild zum Artikel](/images/blog/das-vier-ohren-modell-3.jpg)
+![Das 4-Ohren-Modell — Stimmungsbild 2](/images/blog/das-vier-ohren-modell-3.jpg)
 
 ## So gelingt die Kommunikation mit dem 4-Ohren-Modell
 

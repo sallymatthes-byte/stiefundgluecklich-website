@@ -7,11 +7,11 @@ metaTitle: "Die 5 Archetypen einer Bonusmama: Welche bist du?"
 metaDescription: "Jede Bonusmama tickt anders. Finde heraus, welcher der 5 Archetypen du bist — und was das für deinen Patchwork-Alltag bedeutet."
 heroImage: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 image: "/images/blog/archetypen-einer-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Welcher Bonusmama-Typ bist du? Die 4 Archetypen"
 ---
 
 
-![Stimmungsbild zum Artikel](/images/blog/archetypen-einer-bonusmama-2.jpg)
+![Welcher Bonusmama-Typ bist du? Die 4 Archetypen — Stimmungsbild 1](/images/blog/archetypen-einer-bonusmama-2.jpg)
 
 
-![Stimmungsbild zum Artikel](/images/blog/archetypen-einer-bonusmama-3.jpg)
+![Welcher Bonusmama-Typ bist du? Die 4 Archetypen — Stimmungsbild 2](/images/blog/archetypen-einer-bonusmama-3.jpg)

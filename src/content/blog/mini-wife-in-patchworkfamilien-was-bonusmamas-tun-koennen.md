@@ -7,7 +7,7 @@ metaTitle: "Mini-Wife-Syndrom: Was Bonusmamas tun können"
 metaDescription: "Seine Tochter verhält sich wie die Partnerin? Was hinter dem Mini-Wife-Syndrom steckt und was du als Bonusmama tun kannst."
 heroImage: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Mini-Wife in Patchworkfamilien"
 ---
 
 ### Plötzlich sitzt da jemand auf „deinem“ Platz. Und es fühlt sich nicht wie Zufall an.
@@ -40,7 +40,7 @@ Sie war ein Kind – in einer Rolle, die Sie nie hätte Übernehmen dürfen. Und
 
 Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde – aber weil ich endlich verstand, dass es nicht um Schuld ging. Sondern um Klarheit, Verantwortung und Neue Strukturen.
 
-![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
+![Mini-Wife in Patchworkfamilien — Stimmungsbild 1](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
 
 ## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
 
@@ -63,7 +63,7 @@ Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 Das Kind ist nicht schuld.Es ist Aufgabe des Vaters – und auch der Erwachsenen Im System –, für eine Klare, Sichere Rollenverteilung zu Sorgen.
 
-![Stimmungsbild zum Artikel](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
+![Mini-Wife in Patchworkfamilien — Stimmungsbild 2](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
 
 ## Was mich so lange davon abgehalten hat, etwas zu sagen
 

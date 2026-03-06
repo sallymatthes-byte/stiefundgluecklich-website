@@ -8,7 +8,7 @@ metaTitle: "Angst als Bonusmama: Warum Unsicherheit so normal ist"
 metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder alles falsch zu machen — warum sie als Bonusmama so häufig ist."
 heroImage: "/images/blog/bonusmama-angst-1.jpg"
 image: "/images/blog/bonusmama-angst-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Bonusmama und Angst"
 ---
 
 ## “Ich bin hier – Aber Ich Gehöre Nicht Ganz Dazu.”
@@ -53,7 +53,7 @@ Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durc
 
 Wichtig zu wissen:** Diese Angst kann sich unterschiedlich zeigen – Je nach Persönlichkeit, Beziehungserfahrungen und Inneren Mustern.** deshalb Lohnt sich ein Blick auf die Typischen Angst-typen von Bonusmamas.
 
-![Stimmungsbild zum Artikel](/images/blog/bonusmama-angst-2.jpg)
+![Bonusmama und Angst — Stimmungsbild 1](/images/blog/bonusmama-angst-2.jpg)
 
 #### Bonusmama-Angsttypen: Welcher Archetyp zeigt sich bei dir?
 
@@ -102,7 +102,7 @@ Stell dir dabei nicht die Frage, ob deine Reaktion „logisch“ ist – sondern
 Sicherheit beginnt nicht im Außen – sondern in deiner Wahrnehmung. Deshalb ist es so wichtig, dass du bewusst nach Momenten Suchst, in Denen du dich Sicher, Gehalten oder gesehen Fühlst. Das kann ein Gespräch mit einer Freundin sein, Ein Spaziergang, eine Liebevolle Berührung deines Partners oder ein Moment ganz für dich.
 
 
-![Stimmungsbild zum Artikel](/images/blog/bonusmama-angst-3.jpg)
+![Bonusmama und Angst — Stimmungsbild 2](/images/blog/bonusmama-angst-3.jpg)
 
 Diese Momente sind kein Luxus. Sie sind Medizin für dein Nervensystem. Je öfter du sie bewusst wahrnimmst, desto mehr baust du eine innere Stabilität auf – auch wenn das Außen Chaotisch bleibt.
 

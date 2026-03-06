@@ -8,7 +8,7 @@ metaTitle: "Patchworkfamilie: Bleiben oder gehen?"
 metaDescription: "Du fragst dich, ob du in der Patchworkfamilie bleiben oder gehen sollst? Eine ehrliche Reflexion für den schwersten Moment."
 heroImage: "/images/blog/bleiben-oder-gehen-1.jpg"
 image: "/images/blog/bleiben-oder-gehen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie"
 ---
 
 Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
@@ -34,7 +34,7 @@ Schließlich dann fragst du dich, ob es nicht mit einem Partner ohne Kinder viel
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
 
-![Stimmungsbild zum Artikel](/images/blog/bleiben-oder-gehen-2.jpg)
+![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie — Stimmungsbild 1](/images/blog/bleiben-oder-gehen-2.jpg)
 
 ## Wenn nur die Kinder nicht wären
 
@@ -55,7 +55,7 @@ Und obwohl du so gern eine Lösung finden würdest, hast du den Eindruck, dass e
 Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer diese Distanz in der kinderfreien Zeit zu überwinden.
 
 
-![Stimmungsbild zum Artikel](/images/blog/bleiben-oder-gehen-3.jpg)
+![Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie — Stimmungsbild 2](/images/blog/bleiben-oder-gehen-3.jpg)
 
 ## Ist es Zeit zu gehen?
 

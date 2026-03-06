@@ -8,7 +8,7 @@ metaTitle: "Beziehung zum Bonuskind aufbauen: So gelingt es"
 metaDescription: "Eine Beziehung zum Bonuskind aufbauen braucht Zeit und Geduld. 5 Schritte, die dir als Bonusmama wirklich helfen."
 heroImage: "/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-1.jpg"
 image: "/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf"
 ---
 
 Mal Hand aufs Herz: ich werde die Kinder meines Partners, meine Bonuskinder, nie lieben, als wären es meine eigenen. Doch ich hab sie sehr lieb und mir ist es wichtig eine gute Beziehung zu Ihnen aufzubauen. Ich glaube, dass die Beziehung zwischen [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) und den Bonuskindern von zentraler Bedeutung ist für eine harmonische Patchworkfamilie.
@@ -22,7 +22,7 @@ Eine positive Verbindung zwischen euch beiden schafft *Vertrauen, Zugehörigkeit
 
 Wenn Bonusmutter und Bonuskind eine liebevolle und respektvolle Bindung zueinander haben, wird dies nicht nur das Wohlbefinden des Kindes maßgeblich beeinflussen, sondern auch das gesamte Familiensystem stärken. Denn letztendlich geht es darum, dass sich alle Familienmitglieder respektiert, geliebt und wertgeschätzt fühlen. Das ist der Schlüssel zu einem harmonischen Patchworkfamilienleben.
 
-![Stimmungsbild zum Artikel](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-2.jpg)
+![So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf — Stimmungsbild 1](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-2.jpg)
 
 ## Wie machst du den Anfang?
 
@@ -69,7 +69,7 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-3.jpg)
+![So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf — Stimmungsbild 2](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-3.jpg)
 
 Manchmal ist das Patchworkleben einfach unglaublich anstrengend. Selbstfürsorge und das Setzen von Grenzen sind für Bonusmütter essenziell, um sich selbst treu zu bleiben und dennoch eine enge Bindung zu ihren Stiefkindern aufzubauen.
 Es ist wichtig, dass du auf*deine eigenen Bedürfnisse* achtest und dir Zeit für dich selbst nimmst. Nur wenn du gut für dich selbst sorgst, kannst du auch für andere da sein.

@@ -8,7 +8,7 @@ metaTitle: "Als Bonusmama immer zweite Reihe? So wirst du endlich"
 metaDescription: "Du stehst als Bonusmama immer hinter dem Bonuskind? Warum du dich unsichtbar fühlst und was du dagegen tun kannst."
 heroImage: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-1.jpg"
 image: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?!"
 ---
 
 Es gibt Momente, da habe ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) das Gefühl immer in zweiter Reihe zu stehen. Die oberste Priorität meines Partners werden immer seine Kinder sein.
@@ -34,7 +34,7 @@ Indem du deine eigene Priorität stärkst, kannst du dazu beitragen, eine harmon
 
 > “Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren.” – Buddha
 
-![Stimmungsbild zum Artikel](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
+![Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?! — Stimmungsbild 1](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
 
 ## Mach dich selbst zur Priorität
 
@@ -44,7 +44,7 @@ Indem wir uns selbst lieben und uns selbst wichtig nehmen, schaffen wir die Grun
 Also fang an, dir selbst diese [Wertschätzung](https://gedankenwelt.de/zehn-schritte-um-dir-selbst-die-prioritaet-zu-geben/) zu geben, die du verdienst, und beobachte, wie sich deine Beziehungen zu anderen Menschen, einschließlich deiner Patchworkfamilie, positiv verändern.
 
 
-![Stimmungsbild zum Artikel](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-3.jpg)
+![Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?! — Stimmungsbild 2](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-3.jpg)
 
 ## Du bist wichtig!
 

@@ -8,7 +8,7 @@ metaTitle: "Plötzlich Bonusmama: So findest du deine Rolle"
 metaDescription: "Von heute auf morgen Bonusmama? Wie du deine neue Rolle findest, ohne dich selbst zu verlieren — meine ehrliche Geschichte."
 heroImage: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
 image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die Rolle als Bonusmama"
 ---
 
 Es begann wie ein modernes Märchen: ich lernte meinen Partner beim Tauchen in Thailand kennen. Die Sprachbarriere – er sprach nur Französisch, ich hatte mein Eingestaubtes Schulfranzösisch – hielt uns nicht davon Ab, uns Ineinander zu Verlieben. Zwei Monate später Zog er zu mir nach München. Was ich da noch nicht Ahnte: **diese Entscheidung würde nicht nur mein Liebesleben, sondern meine Gesamte Identität auf den Kopf stellen. **Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das So Leicht Klingt und doch eine völlig Neue Welt Bedeutete. Die Sprachliche Barriere war dabei noch die Kleinste Herausforderung. Viel Schwieriger waren die Fragen, die sich in meinem Kopf Überschlugen: wer war ich für diese Kinder? Welche Rolle sollte ich Einnehmen? Wie Nah durfte ich ihnen kommen?
@@ -31,7 +31,7 @@ Jeder Tag brachte neue Herausforderungen:
 
 Besonders schmerzhaft waren die Momente, in denen meine hohen Erwartungen an mich selbst auf die Realität trafen. Als Pädagogin wollte ich alles richtig machen, die perfekte Bonusmama sein. Doch je mehr ich mich unter Druck setzte, desto mehr schien mir diese Rolle zu entgleiten.
 
-![Stimmungsbild zum Artikel](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-2.jpg)
+![Die Rolle als Bonusmama — Stimmungsbild 1](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-2.jpg)
 
 ## Die inneren Konflikte einer Bonusmama
 
@@ -51,7 +51,7 @@ Der dritte Schritt ist die Entwicklung einer neuen Art der**
 
 Kommunikation** – eine, Die Von Innen nach Außen Wirkt. Wenn du klar mit dir selbst Bist und deine Rolle Annimmst, Verändert sich auch die Art, wie du mit deinem Partner und den Kindern Kommunizierst. *nicht mehr aus Unsicherheit oder dem Bedürfnis nach Anerkennung Heraus, sondern aus einer Position der Stärke und des Verständnisses.* diese Neue Form des Austauschs schafft eine Basis für Echte Bindungen und Gegenseitigen Respekt in der Patchworkfamilie.
 
-![Stimmungsbild zum Artikel](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-3.jpg)
+![Die Rolle als Bonusmama — Stimmungsbild 2](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-3.jpg)
 
 ## Deine Chance, in die Rolle als Bonusmama hineinzuwachsen
 

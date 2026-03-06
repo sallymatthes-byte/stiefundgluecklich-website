@@ -8,7 +8,7 @@ metaTitle: "Loslassen lernen als Bonusmama: Familienideale verabschieden"
 metaDescription: "Die perfekte Familie gibt es nicht — schon gar nicht als Bonusmama. Wie du das Ideal loslässt und deine eigene Version findest."
 heroImage: "/images/blog/loslassen-lernen-1.jpg"
 image: "/images/blog/loslassen-lernen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Loslassen lernen"
 ---
 
 Als man mich als 3-Jährige fragte, was ich werden möchte, sagte ich: “Hausfrau und Braut!”. Schon von klein auf wünschte ich mir eine Familie und zeitweise malte ich mir aus, wie es wäre vier eigene Kinder zu haben. Irgendwann wurde der Wunsch nach eigenen Kindern kleiner, der Wunsch nach einer intakten Familie aber blieb.
@@ -26,7 +26,7 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 
 *Doch die Realität sieht oft anders aus, gerade in Patchwork-Familien.* Und so stehen wir vor der Herausforderung, unsere Ideale und Erwartungen mit der Wirklichkeit in Einklang zu bringen. Der erste Schritt dabei ist, sich der eigenen Prägungen bewusst zu werden und zu verstehen, woher sie kommen.
 
-![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-2.jpg)
+![Loslassen lernen — Stimmungsbild 1](/images/blog/loslassen-lernen-2.jpg)
 
 ## Warum es in der Patchworkfamilie nicht so einfach ist
 
@@ -54,7 +54,7 @@ Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für d
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
-![Stimmungsbild zum Artikel](/images/blog/loslassen-lernen-3.jpg)
+![Loslassen lernen — Stimmungsbild 2](/images/blog/loslassen-lernen-3.jpg)
 
 ## Inneren Frieden finden
 

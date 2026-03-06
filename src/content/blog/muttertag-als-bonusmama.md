@@ -8,7 +8,7 @@ metaTitle: "Muttertag als Bonusmama: Zwischen Feiern und Schmerz"
 metaDescription: "Muttertag als Bonusmama ist kompliziert. Für dich und dein Gefühl. So gestaltest du den Tag, der sich richtig für dich anfühlt."
 heroImage: "/images/blog/muttertag-als-bonusmama-1.jpg"
 image: "/images/blog/muttertag-als-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Den Muttertag als Bonusmama erleben"
 ---
 
 Nächste Woche ist Muttertag.
@@ -25,7 +25,7 @@ Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder
 Wir wünschen uns Anerkennung für unseren Beitrag in der Familie, wollen aber gleichzeitig nicht die Rolle der leiblichen Mutter einnehmen.
 Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – und der Muttertag macht diese Herausforderung besonders Deutlich.
 
-![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-2.jpg)
+![Den Muttertag als Bonusmama erleben — Stimmungsbild 1](/images/blog/muttertag-als-bonusmama-2.jpg)
 
 ## Erwartungen und Enttäuschungen
 
@@ -51,7 +51,7 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-3.jpg)
+![Den Muttertag als Bonusmama erleben — Stimmungsbild 2](/images/blog/muttertag-als-bonusmama-3.jpg)
 
 Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre Leibliche Mama und ihre Bonusmama. Doch an diesem Besonderen Tag fühlen sie sich**  hin- Und Hergerissen. **sie wollen Keine Der Beiden Frauen Enttäuschen oder Verletzen und Geraten dadurch in einen Inneren Konflikt. Vielleicht Verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu Feiern.
 Dabei spüren sie die** Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.

@@ -8,7 +8,7 @@ metaTitle: "Unverstandene Bonusmama: So überwindest du die Selbstzweifel"
 metaDescription: "Niemand versteht, was du als Bonusmama durchmachst? Warum du dich unverstanden fühlst und wie du die Zweifel überwindest."
 heroImage: "/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-1.jpg"
 image: "/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Unverstandene Bonusmamas"
 ---
 
 Fühlst du dich manchmal unverstanden in deiner Rolle und zweifelst an dir selbst? Dieses Gefühl ist für viele Bonusmamas nur allzu vertraut. Wieder einmal fühlst du dich ausgeschlossen oder eifersüchtig und bist unendlich traurig. Doch dein Partner kann überhaupt nicht nachvollziehen, wo das Problem gerade liegt. Das Unverständnis des Partners oder anderer Familienmitglieder kann an dir nagen und dich verunsichern. Vielleicht fragst du dich: “Bin ich überhaupt gut genug? Mache ich irgendetwas falsch?” Doch wie entsteht überhaupt das Gefühl des Nicht-verstanden-werdens?
@@ -23,7 +23,7 @@ Auch *eigene Ansprüche* können eine Rolle spielen. Vielleicht möchtest du d
 
 Lass uns diese Ursachen im Hinterkopf behalten, während wir uns auf deine Reise zu mehr Selbstsicherheit und innerer Stärke begeben. In den nächsten Abschnitten gehen wir gemeinsam durch, was du tun kannst, um trotz Selbstzweifeln und Unverstandensein zu wachsen.
 
-![Stimmungsbild zum Artikel](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-2.jpg)
+![Unverstandene Bonusmamas — Stimmungsbild 1](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-2.jpg)
 
 ## Umgang mit Unverständnis des Umfelds
 
@@ -53,7 +53,7 @@ Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in dei
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
-![Stimmungsbild zum Artikel](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-3.jpg)
+![Unverstandene Bonusmamas — Stimmungsbild 2](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-3.jpg)
 
 ## Bedeutung von Selbstfürsorge und Auszeiten für Bonusmamas
 

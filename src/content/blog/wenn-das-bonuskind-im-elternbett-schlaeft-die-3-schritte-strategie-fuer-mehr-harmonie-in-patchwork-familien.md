@@ -7,7 +7,7 @@ metaTitle: "Bonuskind im Elternbett: Die 3-Schritte-Strategie"
 metaDescription: "Dein Bonuskind schläft im Elternbett und du liegst daneben? 3 Schritte, die euch als Paar und Familie weiterbringen."
 heroImage: "/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-1.jpg"
 image: "/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Wenn das Bonuskind im Elternbett schläft"
 ---
 
 Kennst du diesen Moment? Es ist spät, du hast dich endlich ins Bett gekuschelt und freust dich auf eine entspannte Nacht mit deinem Partner. Doch plötzlich öffnet sich leise die Tür, und da steht es – Ein Kleines, Schlaftrunkenes **bonuskind Im Elternbett**. In deinem Kopf Überschlagen sich sofort die Gedanken: wie Reagiere ich jetzt richtig? Darf ich Grenzen setzen oder Bin ich dann die “böse Stiefmutter”? Vielleicht Fragst du dich auch, ob du Egoistisch bist, wenn du deinen Schlaf und deine Intimität Einforderst.
@@ -36,7 +36,7 @@ Der Durchbruch kam, als Mara eine entscheidende Erkenntnis hatte: Es ging nicht 
 
 Diese Erkenntnis veränderte alles – nicht nur für Mara, sondern für Viele Bonusmamas, mit Denen ich Seither Gearbeitet Habe. Und genau diese Verwandelnde Perspektive möchte ich jetzt mit dir Teilen.
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-2.jpg)
+![Wenn das Bonuskind im Elternbett schläft — Stimmungsbild 1](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-2.jpg)
 
 ## Die besonderen Herausforderungen, wenn ein Bonuskind im Elternbett schläft
 
@@ -50,7 +50,7 @@ Wenn du deinen Partner dann doch auf das Thema ansprichst, fühlt er sich mögli
 
 Der erste Schritt zur Veränderung ist, diese Herausforderungen anzuerkennen. Deine Gefühle sind berechtigt. Dein Wunsch nach erholsamem Schlaf und Nähe zu deinem Partner ist kein Egoismus – es ist ein Grundbedürfnis, das Du ohne Schuldgefühle haben darfst.
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-3.jpg)
+![Wenn das Bonuskind im Elternbett schläft — Stimmungsbild 2](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-3.jpg)
 
 ## Warum Veränderung möglich ist – Auch Wenn Das Bonuskind Im Elternbett Zur Gewohnheit Wurde
 

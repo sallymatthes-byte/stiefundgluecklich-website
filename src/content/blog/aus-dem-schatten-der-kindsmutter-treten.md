@@ -8,7 +8,7 @@ metaTitle: "Raus aus dem Schatten der Kindsmutter"
 metaDescription: "Immer im Vergleich mit der leiblichen Mutter? So hörst du auf, dich zu messen - und findest deine eigene Stärke als Bonusmama."
 heroImage: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
 image: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Aus dem Schatten der Kindsmutter treten"
 ---
 
 Vielleicht kennst du es ja: den Satz "Bei Andrea hätte es das aber nicht gegeben!" - gern wahlweise aus dem Mund der Schwiegereltern, der Bonuskinder oder sogar des eigenen Partners. Und da ist es: das Gefühl nicht genug zu sein, mit der Kindsmutter in Konkurrenz zu treten oder die Traurigkeit darüber, dass man selbst immer noch nicht vollständig akzeptiert wurde. Solche Vergleiche können äußerst schmerzhaft sein. Wie du als Bonusmama aus dem Schatten der Kindsmutter trittst, erfährst du hier. Doch lass uns mal noch einen Schritt zurücktreten - wieso entstehen solche Vergleiche eigentlich?
@@ -23,7 +23,7 @@ Und dann sind da noch die**  gesellschaftlichen Erwartungen und Vorurteile **geg
 
 All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen nichts über deinen Wert als Bonusmama aus. Und dennoch tut es weh - wie kannst du diese Gefühle also annehmen?
 
-![Stimmungsbild zum Artikel](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
+![Aus dem Schatten der Kindsmutter treten — Stimmungsbild 1](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
 
 ## Deine Gefühle wahrnehmen und annehmen
 
@@ -43,7 +43,7 @@ Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh
 
 > „Ein gefällter Baum wirft keinen Schatten.“ – Unbekannt
 
-![Stimmungsbild zum Artikel](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
+![Aus dem Schatten der Kindsmutter treten — Stimmungsbild 2](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
 
 ## Deinen eigenen Platz finden
 

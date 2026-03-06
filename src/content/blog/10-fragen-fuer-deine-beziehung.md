@@ -7,7 +7,7 @@ metaTitle: "10 Fragen für deine Beziehung in der Patchworkfamilie"
 metaDescription: "10 ehrliche Fragen, die zeigen wie es wirklich um eure Patchwork-Beziehung steht - und was ihr verändern könnt."
 heroImage: "/images/blog/10-fragen-fuer-deine-beziehung-1.jpg"
 image: "/images/blog/10-fragen-fuer-deine-beziehung-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "10 Fragen, die deine Beziehung als Bonusmama auf ein neues Level heben"
 ---
 
 Als Bonusmama in einer Patchworkfamilie stehst du vor vielen Herausforderungen. Du jonglierst zwischen den Bedürfnissen der Kinder, deiner Rolle als Partnerin und dem Wunsch nach einem harmonischen Familienleben. *Oft fühlst du dich überfordert, bist kurz davor, alles hinzuwerfen.*
@@ -26,7 +26,7 @@ In unserer [ersten gemeinsamen Wohnung](/blog/gemeinsame-wohnung-patchworkfamili
 
 Dieses Hin und Her war nicht nur für mich, sondern auch für die Kinder unglaublich schwierig. Ich war nicht verlässlich und mein Verhalten war unberechenbar. Das führte natürlich auch zu Spannungen in meiner Partnerschaft. Wir stritten uns häufig und standen immer wieder vor der Frage, ob das alles überhaupt Sinn macht. **Es war eine Zerreißprobe für unsere Beziehung. **In dieser Zeit wurde mir bewusst, wie sehr wir uns im Alltag verausgaben. Wenn wir über unsere Probleme sprachen, ging es oft darum, wer Recht hat und wer nicht. Selten schafften wir es, offen und verständnisvoll miteinander umzugehen. Ich hatte Angst davor, was passieren würde, wenn wir uns nicht einigen konnten oder mein Partner eine Antwort von mir nicht akzeptieren würde. Doch dann kam der Wendepunkt.
 
-![Stimmungsbild zum Artikel](/images/blog/10-fragen-fuer-deine-beziehung-2.jpg)
+![10 Fragen, die deine Beziehung als Bonusmama auf ein neues Level heben — Stimmungsbild 1](/images/blog/10-fragen-fuer-deine-beziehung-2.jpg)
 
 ## Tiefe Verbundenheit und Klarheit
 
@@ -50,7 +50,7 @@ All diese Herausforderungen erforderten ein hohes Maß an Reflexion, Empathie un
 
 Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
-![Stimmungsbild zum Artikel](/images/blog/10-fragen-fuer-deine-beziehung-3.jpg)
+![10 Fragen, die deine Beziehung als Bonusmama auf ein neues Level heben — Stimmungsbild 2](/images/blog/10-fragen-fuer-deine-beziehung-3.jpg)
 
 ## Die 10 Fragen, die alles verändern
 

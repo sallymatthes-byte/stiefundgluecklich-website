@@ -8,7 +8,7 @@ metaTitle: "Die 10 Rechte der Stiefmütter: Was du einfordern darfst"
 metaDescription: "Als Stiefmutter hast du Rechte — und zwar nicht nur auf dem Papier. Diese 10 Rechte stehen dir als Bonusmama zu."
 heroImage: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
 image: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Die 10 Rechte der Stiefmütter"
 ---
 
 Als Stiefmutter stehst du oft vor Herausforderungen, doch kennst du die Rechte der Stiefmütter? In diesem Artikel erfährst du, welche Rechte einer Stiefmutter zustehen und wie du sie selbstbewusst in der Patchworkfamilie einbringst. **Denn nur wenn du deine Bedürfnisse klar kommunizierst und für deine Rechte einstehst, kannst du eine erfüllende Rolle in der Familie einnehmen. **Wir betrachten die “[10 Rechte einer Stiefmutter](https://wednesdaymartin.com/blog/a-stepmothers-bill-of-rights/)” nach Wednesday Martin und geben dir praktische Tipps, wie du sie im Alltag umsetzt. Dabei geht es nicht darum, Konflikte zu schüren, sondern respektvoll und lösungsorientiert zu kommunizieren.
@@ -46,7 +46,7 @@ Als Stiefmutter hast du ein Recht auf Privatsphäre und darauf, dass deine Zeit 
 
 *Als Stiefmutter bist du kein Anhängsel der Familie, sondern ein eigenständiger Mensch mit eigenen Bedürfnissen und Plänen.* Es ist eine Frage des Respekts, dich bei Entscheidungen, die dein leben betreffen, zu konsultieren und deine Zustimmung einzuholen.
 
-![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-2.jpg)
+![Die 10 Rechte der Stiefmütter — Stimmungsbild 1](/images/blog/die-10-rechte-der-stiefmuetter-2.jpg)
 
 ## #4 “Ich bin nicht verantwortlich für die Kinder, über die ich keine Grenzen setzen darf.”
 
@@ -78,7 +78,7 @@ In einer Patchworkfamilie können Finanzen schnell zu einem heiklen Thema werden
 
 Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partner. Aber wenn es um größere Entscheidungen geht, die euer gemeinsames leben betreffen, solltest du auf jeden Fall informiert werden.
 
-![Stimmungsbild zum Artikel](/images/blog/die-10-rechte-der-stiefmuetter-3.jpg)
+![Die 10 Rechte der Stiefmütter — Stimmungsbild 2](/images/blog/die-10-rechte-der-stiefmuetter-3.jpg)
 
 ## #8 “Mein privater Raum und meine Besitztümer werden respektiert.”
 

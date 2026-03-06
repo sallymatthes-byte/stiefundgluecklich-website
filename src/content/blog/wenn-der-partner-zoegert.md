@@ -8,7 +8,7 @@ metaTitle: "Wenn der Partner zögert: Zusammenziehen, Heiraten, Kinder"
 metaDescription: "Dein Partner will nicht zusammenziehen, heiraten oder ein gemeinsames Kind? Was dahintersteckt und wie du damit umgehst."
 heroImage: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Zusammenziehen, Heiraten, Kinder"
 ---
 
 Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. “Ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)“, “Ich will nicht noch einmal heiraten” oder “Ich will keine Kinder mehr” sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
@@ -25,7 +25,7 @@ Nicht zuletzt können **unterschiedliche Bedürfnisse und Lebensvorstellungen** 
 
 All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft wenig mit dir als Person zu tun, sondern entspringen den prägenden Erlebnissen deines Partners. Wenn du versuchst, sein Verhalten zu verstehen, anstatt es als persönliche Ablehnung zu sehen, kannst du leichter Mitgefühl und Geduld entwickeln. Das ist der erste Schritt zu einer liebevollen Lösung für euch beide.
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-der-partner-zoegert-2.jpg)
+![Zusammenziehen, Heiraten, Kinder — Stimmungsbild 1](/images/blog/wenn-der-partner-zoegert-2.jpg)
 
 ## Kommunikation ist der Schlüssel
 
@@ -56,7 +56,7 @@ Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine R
 
 Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* erfordert. Sei sanft und nachsichtig mit dir selbst, auch wenn du manchmal in alte Muster zurückfällst. Jeder Moment der Achtsamkeit und Selbstreflexion trägt zu deinem Wachstum bei und bringt dich näher zu deinem wahren, friedvollen selbst. Vertraue darauf, dass du mit jedem Tag mehr innere Klarheit und Stärke gewinnst.
 
-![Stimmungsbild zum Artikel](/images/blog/wenn-der-partner-zoegert-3.jpg)
+![Zusammenziehen, Heiraten, Kinder — Stimmungsbild 2](/images/blog/wenn-der-partner-zoegert-3.jpg)
 
 ## Wachstum durch Herausforderungen
 

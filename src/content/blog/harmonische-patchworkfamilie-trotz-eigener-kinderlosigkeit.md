@@ -8,7 +8,7 @@ metaTitle: "Bonusmama ohne eigene Kinder: Deinen Platz finden"
 metaDescription: "Bonusmama sein ohne eigene Kinder? Warum du trotzdem dazugehörst und wie du deinen Platz in der Familie findest."
 heroImage: "/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-1.jpg"
 image: "/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie"
 ---
 
 Heute möchte ich mit euch über ein Thema sprechen, das mir persönlich sehr am Herzen liegt und das sicherlich auch für einige von euch relevant ist: Wie geht man damit um, wenn man selbst nie Kinder wollte und plötzlich Bonuskinder hat?  Lass mich dir erzählen, wie ich gelernt habe, meine eigene [gewollte Kinderlosigkeit](https://www.zeit.de/zeit-magazin/leben/2023-04/gewollte-kinderlosigkeit-frauen-studien) zu akzeptieren und dennoch eine glückliche Bonusmama zu sein.
@@ -29,7 +29,7 @@ Geholfen hat mir dabei, mir bewusst zu machen, dass ich als Bonusmama eine einzi
 
 > “Liebe ist das Band, das eine Familie zusammenhält, und Akzeptanz ist der Klebstoff, der die Verbindung stärkt.” – Wilhelm Busch
 
-![Stimmungsbild zum Artikel](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-2.jpg)
+![Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie — Stimmungsbild 1](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-2.jpg)
 
 ## Wie kommunizieren wir das?
 
@@ -47,7 +47,7 @@ Der erste Schritt ist, sich bewusst zu machen, dass es in Ordnung ist, unterschi
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-3.jpg)
+![Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie — Stimmungsbild 2](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-3.jpg)
 
 Als Bonusmama war es für mich ein wichtiger Schritt, mich den Kindern gegenüber zu öffnen und sie als einen*Bestandteil meines Lebens anzunehmen*. Anfangs war es nicht immer leicht, da ich nie eigene Kinder wollte und sich dadurch eine gewisse Distanz aufbaute. Doch mit der Zeit habe ich erkannt, dass eine liebevolle Beziehung zu den Kindern nicht bedeutet, meine eigenen Wünsche aufzugeben. Es bedeutet, sie als Teil meines Lebens zu akzeptieren und ihnen mit Offenheit und Respekt zu begegnen.
 

@@ -7,7 +7,7 @@ metaTitle: "Unsichtbar als Bonusmama? So wirst du endlich gesehen"
 metaDescription: "Du fühlst dich unsichtbar als Bonusmama? Warum das Gefühl real ist - und 5 Wege, wie du wieder gesehen wirst."
 heroImage: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 image: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Unsichtbar als Bonusmama? So wirst du wieder gesehen!"
 ---
 
 Kennst du das Gefühl, dass du auf einmal nur noch Zuschauerin bist?Eben noch warst du die geliebte Partnerin - Begehrt, wichtig, voller Bedeutung für deinen Partner. Doch sobald die Kinder da sind, Verändert sich alles. Plötzlich Drehen sich die Gespräche nur noch um sie. Dein Partner ist Im "elternmodus", du sitzt daneben - und Fragst dich: Bin ich hier eigentlich noch wichtig?
@@ -82,7 +82,7 @@ Familienzeit ist nicht gleich Paarzeit! Plant bewusst Zeit nur für euch - ohne 
 
 > Praxis-Tipp: Setzt euch eine "Paarzeit-Challenge": 10 Minuten pro Tag nur für euch - ohne Handys, ohne Kinder, ohne Ablenkung.
 
-![Stimmungsbild zum Artikel](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-2.jpg)
+![Unsichtbar als Bonusmama? So wirst du wieder gesehen! — Stimmungsbild 1](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-2.jpg)
 
 ## 2️⃣ Kleine Rituale in den Alltag einbauen
 
@@ -90,7 +90,7 @@ Manchmal sind es die kleinen Dinge, die den größten Unterschied machen. Eine b
 
 > Idee: Fangt den Tag mit einer positiven Frage an: "Worauf freust du dich heute?" - das schafft Verbindung, ohne viel Aufwand.
 
-![Stimmungsbild zum Artikel](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-3.jpg)
+![Unsichtbar als Bonusmama? So wirst du wieder gesehen! — Stimmungsbild 2](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-3.jpg)
 
 ## 3️⃣ Gemeinsame Momente auch MIT den Kindern anders gestalten
 

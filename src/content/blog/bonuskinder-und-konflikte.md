@@ -8,7 +8,7 @@ metaTitle: "Konflikte mit Bonuskindern: So baust du Brücken statt Mauern"
 metaDescription: "Streit, Ablehnung, Trotz — Konflikte mit Bonuskindern tun besonders weh. Was dahintersteckt und wie du damit umgehst."
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Bonuskinder und Konflikte"
 ---
 
 Meine ältere Bonustochter zeigt bereits erste vorpubertäre Anzeichen. Und ich kann mich noch gut an meine Pubertät erinnern und möchte nur so viel sagen: ich ziehe den Hut vor meinen Eltern, dass sie das so unbeschadet gemeistert haben.
@@ -34,7 +34,7 @@ Darüber hinaus ist es mir als Pädagogin auch immer eine Herzensangelegenheit, 
 
 Im nächsten Abschnitt werden wir uns mit einem weiteren wichtigen Punkt beschäftigen: dem Setzen und Respektieren von Grenzen. Denn klare und angemessene Grenzen sind entscheidend für eine gesunde und respektvolle Beziehung zu den Bonuskindern.
 
-![Stimmungsbild zum Artikel](/images/blog/bonuskinder-und-konflikte-2.jpg)
+![Bonuskinder und Konflikte — Stimmungsbild 1](/images/blog/bonuskinder-und-konflikte-2.jpg)
 
 ## Wie setze ich Grenzen?
 
@@ -65,7 +65,7 @@ Passend dazu:**Hör dir die Podcastfolge „Wenn die Stimmung kippt – Konflikt
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/bonuskinder-und-konflikte-3.jpg)
+![Bonuskinder und Konflikte — Stimmungsbild 2](/images/blog/bonuskinder-und-konflikte-3.jpg)
 
 Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – Atme tief durch und Verlasse Ggf. Die Situation, bevor es Eskaliert. Hier sind Drei Tipps, die dir in Solchen Situationen helfen können:** 1. Aktive Zuhörtechnik: **nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und Höre Aktiv zu, ohne zu Unterbrechen. Wiederhole ihre Aussagen, um Sicherzustellen, dass du sie richtig Verstanden hast. Zum Beispiel kannst du sagen: “ich Höre, dass du Frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu Bekommen. Ist das richtig?” durch diese Technik Zeigst du den Kindern, dass du sie Ernst nimmst und ihre Gefühle Wahrnimmst.**2. Ich-botschaften:**verwende ich-botschaften, um deine Eigenen Gefühle und Bedürfnisse Auszudrücken, ohne die Kinder zu Beschuldigen. Zum Beispiel Könntest du sagen: “ich Fühle mich Überfordert, wenn das Zimmer Unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen Ordentlichen und Harmonischen Raum haben.” dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und Mitzudenken, anstatt sich Angegriffen zu fühlen.**3. Gemeinsame Lösungen finden:**  statt den Streit zu Eskalieren, Arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem Gelöst werden könnte. Zum Beispiel Könntest du sagen: “wie Könnten wir gemeinsam dafür Sorgen, dass das Zimmer Aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser Organisieren können?” indem du die Kinder in den Lösungsprozess Einbeziehst, Ermöglichst du ihnen, Verantwortung zu Übernehmen und ihre Fähigkeiten zur Problemlösung zu Entwickeln.
 

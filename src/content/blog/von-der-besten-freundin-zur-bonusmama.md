@@ -8,7 +8,7 @@ metaTitle: "Von der besten Freundin zur Bonusmama"
 metaDescription: "Vom Kumpel-Status zur Erziehungsrolle — wie sich die Beziehung zu den Kindern verändert, wenn du die Partnerin wirst."
 heroImage: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
 image: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Von der besten Freundin zur Bonusmama – Wie du Gerüchte und Herausforderungen meisterst"
 ---
 
 Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich die Bonusmama in der Patchwork-Familie. *Ein Rollenwechsel, der nicht nur für dich, sondern auch für das gesamte Umfeld eine große Herausforderung darstellt.* Auf einmal bist du mit Gerüchten konfrontiert, fühlst dich angegriffen und zweifelst daran, ob du wirklich das Richtige tust.
@@ -31,7 +31,7 @@ Marions Partner stand zwischen den Stühlen – Hin- Und Hergerissen zwischen se
 
 Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getroffen hatte. War sie wirklich bereit für diese Herausforderung? Konnte sie den Kindern gerecht werden und eine gute Bonusmutter sein? Diese Fragen beschäftigten sie sehr und sie spürte, dass sich etwas ändern musste.
 
-![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-2.jpg)
+![Von der besten Freundin zur Bonusmama – Wie du Gerüchte und Herausforderungen meisterst — Stimmungsbild 1](/images/blog/von-der-besten-freundin-zur-bonusmama-2.jpg)
 
 ## Marion wünschte sich…
 
@@ -63,7 +63,7 @@ Dafür brauchte Marion einen neuen Ansatz, eine Strategie, die ihr helfen würde
 
 Und was dieser Schlüssel war, erfährst du im nächsten Abschnitt.
 
-![Stimmungsbild zum Artikel](/images/blog/von-der-besten-freundin-zur-bonusmama-3.jpg)
+![Von der besten Freundin zur Bonusmama – Wie du Gerüchte und Herausforderungen meisterst — Stimmungsbild 2](/images/blog/von-der-besten-freundin-zur-bonusmama-3.jpg)
 
 ## Der Schlüssel zum Glück
 

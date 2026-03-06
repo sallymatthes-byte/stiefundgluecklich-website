@@ -8,7 +8,7 @@ metaTitle: "Visionboard als Patchworkfamilie: Gemeinsam Ziele setzen"
 metaDescription: "Ein Visionboard in der Patchworkfamilie? Warum gemeinsames Träumen so wichtig ist und wie ihr es als Ritual einführt."
 heroImage: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Gemeinsam träumen"
 ---
 
 Seit einigen Monaten treibt uns immer wieder der Gedanke um, nach Frankreich zu ziehen, um den Kindern näher zu sein.
@@ -31,7 +31,7 @@ Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfa
 
 > "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
-![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
+![Gemeinsam träumen — Stimmungsbild 1](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
 
 ## So erstellt ihr ein Visionboard für die Patchworkfamilie
 
@@ -47,7 +47,7 @@ Hier sind einige Fragen, die euch helfen können, euer Visionboard zu gestalten:
 6. Wie soll euer gemeinsames Zuhause aussehen? Welche Gestaltungsideen habt ihr für euren Wohnraum, um eine harmonische Atmosphäre zu schaffen?
 7. Welche Pläne habt ihr bezüglich weiterer Kinder oder der Integration der vorhandenen Kinder in eure Patchworkfamilie? Wie könnt ihr eine liebevolle und unterstützende Umgebung für alle schaffen?
 
-![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-3.jpg)
+![Gemeinsam träumen — Stimmungsbild 2](/images/blog/visionboard-in-der-patchworkfamilie-3.jpg)
 
 8. Wie könnt ihr gemeinsam an eurer körperlichen und emotionalen Gesundheit arbeiten? Welche Aktivitäten und Routinen könnt ihr in euren Alltag integrieren, um euch gut zu fühlen?
 9. Welche gemeinsamen Hobbys oder Interessen könnt ihr entwickeln, um eure Freizeit miteinander zu genießen und eure Bindung zu stärken?

@@ -8,7 +8,7 @@ metaTitle: "Eifersucht als Bonusmama: Wenn die Ex zur Konkurrenz wird"
 metaDescription: "Eifersucht auf die Ex-Frau deines Partners? Warum sie entsteht, wann sie gefährlich wird - und 5 Wege raus."
 heroImage: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Eifersucht als Bonusmama"
 ---
 
 Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die Ex-Frauals [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag - **all das trifft dich wie kleine Nadelstiche direkt ins Herz. **Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: "Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein."
@@ -26,7 +26,7 @@ Du fragst dich:
 
 Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten.
 
-![Stimmungsbild zum Artikel](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
+![Eifersucht als Bonusmama — Stimmungsbild 1](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
 
 ## Die tieferen Ursachen der Eifersucht verstehen
 
@@ -42,7 +42,7 @@ Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und u
 
 "Eifersucht ist wie ein Kompass - sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen."
 
-![Stimmungsbild zum Artikel](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
+![Eifersucht als Bonusmama — Stimmungsbild 2](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
 
 ## Den Weg aus der Eifersucht finden
 

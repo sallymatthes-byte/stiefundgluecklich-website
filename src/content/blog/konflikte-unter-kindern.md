@@ -8,7 +8,7 @@ metaTitle: "Konflikte unter Kindern in der Patchworkfamilie"
 metaDescription: "Streit zwischen Geschwistern und Bonuskindern? Warum Konflikte in Patchworkfamilien anders sind — und was wirklich hilft."
 heroImage: "/images/blog/konflikte-unter-kindern-1.jpg"
 image: "/images/blog/konflikte-unter-kindern-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Konflikte unter Kindern in Patchworkfamilien"
 ---
 
 Konflikte unter Kindern in der Patchworkfamilie können wirklich nervenaufreibend sein.
@@ -27,7 +27,7 @@ Ben möchte mit seinem Vater alleine Zeit verbringen, doch der nimmt inzwischen 
 Kleine Nadelstiche im Alltag führen zu Frust und Streit, denn für die Kinder ist die neue Situation ungewohnt und herausfordernd.
 Doch wie können wir ihnen helfen, damit umzugehen?
 
-![Stimmungsbild zum Artikel](/images/blog/konflikte-unter-kindern-2.jpg)
+![Konflikte unter Kindern in Patchworkfamilien — Stimmungsbild 1](/images/blog/konflikte-unter-kindern-2.jpg)
 
 ## So unterstützt du den Prozess
 
@@ -46,7 +46,7 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 
 ---
 
-![Stimmungsbild zum Artikel](/images/blog/konflikte-unter-kindern-3.jpg)
+![Konflikte unter Kindern in Patchworkfamilien — Stimmungsbild 2](/images/blog/konflikte-unter-kindern-3.jpg)
 
 Ein Wochenplan kann ein wertvolles Instrument sein, um Geschwisterrivalität in Patchworkfamilien zu entschärfen.
 Setze dich mit allen Familienmitgliedern zusammen und gestaltet gemeinsam einen Plan, der die Bedürfnisse und Wünsche jedes Einzelnen berücksichtigt.

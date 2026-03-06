@@ -7,7 +7,7 @@ metaTitle: "Das 3-Schritte-Framework, das mein Patchworkleben veränderte"
 metaDescription: "Ein einfaches Framework hat mir als Bonusmama geholfen, Konflikte zu lösen, Grenzen zu setzen und endlich bei mir selbst anzukommen."
 heroImage: "/images/blog/das-3-schritte-framework-1.jpg"
 image: "/images/blog/das-3-schritte-framework-1.jpg"
-imageAlt: "Titelbild zum Artikel"
+imageAlt: "Das 3-Schritte-Framework, das mein Patchworkleben veränderte"
 ---
 
 Kennst du das Gefühl, als Stiefmutter nicht richtig dazuzugehören? Die Herausforderungen einer Patchworkfamilie können einen schnell überfordern und frustrieren. Genau so erging es mir vor einigen Jahren. Ich war mit einem geschiedenen Mann und Vater zweier Mädchen liiert und stolperte völlig unvorbereitet in die Rolle der Stiefmutter. Anfangs war ich motiviert und voller Tatendrang, doch schon bald merkte ich, dass es nicht so einfach war, wie ich es mir vorgestellt hatte.
@@ -34,7 +34,7 @@ Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragt
 
 *All diese Herausforderungen führten dazu, dass ich mich immer mehr zurückzog und mich auf mich selbst konzentrierte.* Ich suchte nach Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional von meinem Partner und den Kindern distanzierte. Wir führten viele Gespräche darüber, ob unsere Beziehung diese Belastungsprobe aushalten würde und ob wir wirklich gemeinsam eine Zukunft gestalten konnten.
 
-![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-2.jpg)
+![Das 3-Schritte-Framework, das mein Patchworkleben veränderte — Stimmungsbild 1](/images/blog/das-3-schritte-framework-2.jpg)
 
 ## Dabei wollte ich nur Harmonie
 
@@ -61,7 +61,7 @@ In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung.
 
 Und was das genau war, erfährst du im nächsten Abschnitt.
 
-![Stimmungsbild zum Artikel](/images/blog/das-3-schritte-framework-3.jpg)
+![Das 3-Schritte-Framework, das mein Patchworkleben veränderte — Stimmungsbild 2](/images/blog/das-3-schritte-framework-3.jpg)
 
 ## Der neue Weg
 
