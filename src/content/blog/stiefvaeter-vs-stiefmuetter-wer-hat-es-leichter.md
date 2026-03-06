@@ -16,8 +16,7 @@ Wenn wir in die Literatur schauen, gibt es jetzt schon mehr Ratgeber für [Bonus
 Genauso wenig wie die Aussage etwas “stiefväterlich” zu behandeln. Stiefmütterlich ist jedoch eine weit verbreite Beschreibung, wenn es darum geht, etwas zu vernachlässigen.
 Komisch und das, obwohl in [47 % der Patchworkfamilien Stiefväter leben, aber nur 27 % Stiefmütter](https://www.tagesspiegel.de/berlin/bei-stiefvatern-reicht-es-schon-dass-sie-die-kinder-nicht-auffressen-wie-ein-lowe-4202164.html). (das liegt einfach daran, dass in den meisten Familien das Kind weiterhin bei der Mutter lebt.)
 Zurück zur Frage, weshalb meine Angebote für Bonusmamas sind.
-Nun, zum einen bin ich selbst eine Frau und glaube mich besser mit Frauen verbinden zu können. Und zum anderen glaube ich, dass es Stiefväter generell etwas leichter haben.
-
+Nun, zum einen bin ich selbst eine Frau und glaube mich besser mit Frauen verbinden zu können. Und zum anderen glaube ich, dass es Stiefväter generell etwas leichter haben. Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA) anhören.
 
 
 ## Unterschiedliche Rollenbilder
