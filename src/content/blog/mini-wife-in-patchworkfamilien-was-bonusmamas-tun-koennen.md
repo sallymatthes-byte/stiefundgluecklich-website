@@ -22,7 +22,7 @@ Wenn du dich manchmal wie eine Rivalin fühlst – obwohl du doch eigentlich Par
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Was ich als Stiefmutter nie wieder tun würde“ an – auf [Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Was ich als Stiefmutter nie wieder tun würde“ an – auf [Spotify](https://open.spotify.com/episode/e2t3ahe) oder überall, wo du Podcasts hörst.
 
 ---
 

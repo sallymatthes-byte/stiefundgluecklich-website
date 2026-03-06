@@ -15,7 +15,7 @@ Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Pro
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an — auf [Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an — auf [Spotify](https://open.spotify.com/episode/e2qsibq) oder überall, wo du Podcasts hörst.
 
 ---
 
