@@ -1,6 +1,6 @@
 ---
 title: "Unterhalt in Patchworkfamilien: So sicherst du dich ab!"
-description: "Finanzen und Unterhalt in Patchworkfamilien: Erfahre, wie du dich finanziell absicherst, ohne dich ausgenutzt zu fühlen – Egal, wo du Lebst!"
+description: "Finanzen und Unterhalt in Patchworkfamilien: Erfahre, wie du dich finanziell absicherst, ohne dich ausgenutzt zu fühlen – egal, wo du lebst!"
 category: "rolle-identitaet"
 date: 2025-04-18
 metaTitle: "Unterhalt in Patchworkfamilien: Das musst du wissen"
@@ -10,83 +10,79 @@ image: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg
 imageAlt: "Unterhalt in Patchworkfamilien"
 ---
 
-### Warum bleibt bei euch als Paar so wenig übrig – Obwohl Dein Partner So Viel Zahlt?
+Warum bleibt bei euch als Paar so wenig übrig – obwohl dein Partner so viel zahlt?
 
 Kennst du das? Monat für Monat überweist dein Partner Unterhalt, das Kindergeld fließt zur Ex, und irgendwie bleibt für euch als Paar immer zu wenig übrig. Während andere Patchwork-Familien scheinbar finanziell gut zurechtkommen, fühlt es sich für euch an, als würdet ihr kaum vorankommen.
 
-Du fragst dich:💰 warum bleibt trotz unseres Einkommens so wenig für uns übrig?💰 wie ist das in anderen Ländern geregelt – und was können wir daraus lernen?💰 wie kann ich mich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) Finanziell Absichern, ohne mich Ausgenutzt zu fühlen?
-
-Genau darum geht es in diesem Artikel. Ich zeige dir, wie Unterhalt, Kindergeld und Steuern in Deutschland, Österreich und der Schweiz geregelt sind, warum die finanzielle Situation deines Partners auch dich betrifft – und wie du mehr Klarheit über eure Finanzen Bekommst, um dich nicht Ohnmächtig zu fühlen.
-
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-nie-wieder-tun-wrde-e2t3ahe) an.
+---
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Unterhalt in Patchworkfamilien" an — auf [Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) oder überall, wo du Podcasts hörst.
+---
 
 ## Das betrifft mich doch nicht!?
 
-Bis dahin dachte ich: „er zahlt eben Unterhalt – das ist seine Sache, nicht meine.“
+Bis dahin dachte ich: „Er zahlt eben Unterhalt – das ist seine Sache, nicht meine."
 
-Doch dann wurde mir bewusst:❌ es ging nicht nur um Unterhalt.❌ es ging nicht nur um Kindergeld.❌ es ging um unseren gesamten finanziellen Spielraum als Paar.
+Doch dann wurde mir bewusst:
 
-Denn das Land, in dem wir lebten, hatte einen riesigen Einfluss darauf, wie viel finanzielle Verantwortung mein Partner übernehmen musste – und damit auch darauf, wie viel für unser gemeinsames leben Übrig blieb.
+- Es ging nicht nur um Unterhalt.
+- Es ging nicht nur um Kindergeld.
+- Es ging um unseren gesamten finanziellen Spielraum als Paar.
 
-Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebst, deine finanzielle Situation als Bonusmama beeinflusst?
+Denn das Land, in dem wir lebten, hatte einen riesigen Einfluss darauf, wie viel finanzielle Verantwortung mein Partner übernehmen musste – und damit auch darauf, wie viel für unser gemeinsames Leben übrig blieb.
+
+Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebst, deine finanzielle Situation als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) beeinflusst?
 
 Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und der Schweiz werfen.
 
-![Unterhalt in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n — Stimmungsbild 1](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
+![Unterhalt in Patchworkfamilien — Stimmungsbild](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
 
-## Deutschland, Österreich, Schweiz – Wer bekommt was?
+## Deutschland, Österreich, Schweiz – wer bekommt was?
 
-> Kindesunterhalt: - wird nach der Düsseldorfer Tabelle berechnet (abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom alter des Kindes).
+> Kindesunterhalt:
+> - Wird nach der Düsseldorfer Tabelle berechnet (abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom Alter des Kindes).
+> - Seit Januar 2025 wurde der Unterhalt um 2 bis 8 € pro Monat erhöht.
 
-- seit Januar 2025 wurde der Unterhalt um 2 bis 8 € pro Monat erhöht.
+> Kindergeld:
+> - Einheitlich 250 € pro Monat und Kind – unabhängig vom Einkommen.
+> - Ein Tipp: Das Kindergeld auf ein separates Konto einzahlen lassen, auf das beide Elternteile Zugriff haben – das erleichtert die faire Kostenverteilung.
 
-> Kindergeld: - Einheitlich 250 € pro Monat und Kind – unabhängig Vom Einkommen.
+> Steuerliche Aspekte:
+> - Unterhaltszahlungen an Ex-Partner können als Sonderausgaben abgesetzt werden.
+> - Unterhaltspflicht hat Vorrang vor neuen Partnerschaften! Dein Partner muss also erst seine Verpflichtungen erfüllen, bevor er euer gemeinsames Leben finanziell mittragen kann.
 
-- ein Tipp: Das Kindergeld auf ein separates Konto einzahlen lassen, auf das beide Elternteile Zugriff haben – das Erleichtert die Faire Kostenverteilung.
-
-> Steuerliche Aspekte: - Unterhaltszahlungen an Ex-Partner können als Sonderausgaben abgesetzt werden.
-
-- Unterhaltspflicht hat Vorrang vor neuen Partnerschaften! Dein Partner muss also erst seine Verpflichtungen erfüllen, bevor er euer gemeinsames leben finanziell mittragen kann.
-
-Österreich: Familienbeihilfe und individuelle Unterhaltsverhandlungen
+### Österreich: Familienbeihilfe und individuelle Unterhaltsverhandlungen
 
 > Familienbeihilfe (statt Kindergeld):
+> - 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren.
+> - Geschwisterstaffelung: Mehr Kinder = höherer Betrag pro Kind.
 
-- 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren.
-- Geschwisterstaffelung: mehr Kinder = höherer Betrag pro Kind.
+> Kindesunterhalt:
+> - Kein festes System wie in Deutschland.
+> - Richtwerte: 16 % des Nettoeinkommens für Kinder bis 6 Jahre.
+> - 22 % für Kinder ab 15 Jahren.
+> - „Luxusgrenze": Maximal zweieinhalbfacher Regelbedarf, um extrem hohe Unterhaltszahlungen zu begrenzen.
 
-> Kindesunterhalt: - kein festes System wie in Deutschland.
+> Steuerliche Aspekte:
+> - Familienbonus Plus: Bis zu 1.500 € Steuerentlastung pro Jahr und Kind.
+> - Bonuseltern profitieren kaum steuerlich – die Vorteile gelten hauptsächlich für leibliche Eltern.
 
-- Richtwerte:
+### Schweiz: Hohe Unterhaltszahlungen, aber auch mehr Rechte für Väter
 
-16 % des Nettoeinkommens für Kinder bis 6 Jahre.
+> Kinderzulagen statt Kindergeld:
+> - Je nach Kanton zwischen 200 und 300 CHF pro Monat.
 
-- 22 % für Kinder ab 15 Jahren.
-- „Luxusgrenze“: Maximal zweieinhalbfacher Regelbedarf, um extrem hohe Unterhaltszahlungen zu begrenzen.
+> Unterhalt:
+> - Höher als in Deutschland oder Österreich, weil Lebenshaltungskosten berücksichtigt werden.
+> - Co-Parenting-Modell: Beide Elternteile teilen sich die Betreuung gleichberechtigt.
+> - Dadurch mehr Rechte für Väter, aber oft auch höhere finanzielle Verpflichtungen.
 
-> Steuerliche Aspekte: - Familienbonus Plus: Bis zu 1.500 € Steuerentlastung pro Jahr und Kind.
+> Steuerliche Aspekte:
+> - Ehepaare werden gemeinsam besteuert, was oft zu einer höheren Steuerlast führt.
+> - Unverheiratete Patchwork-Familien haben oft steuerliche Nachteile gegenüber traditionellen Familien.
 
-- Bonuseltern profitieren kaum steuerlich – die Vorteile gelten Hauptsächlich für Leibliche Eltern.
+![Unterhalt in Patchworkfamilien — Stimmungsbild](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
 
-Schweiz: Hohe Unterhaltszahlungen, aber auch mehr Rechte für Väter
-
-> Kinderzulagen statt Kindergeld: - Je nach Kanton zwischen 200 und 300 CHF pro Monat.
-
-> Unterhalt: - Höher als in Deutschland oder Österreich, weil Lebenshaltungskosten berücksichtigt werden.
-
-- Co-Parenting-Modell:
-
-Beide Elternteile teilen sich die Betreuung gleichberechtigt.
-
-- dadurch mehr Rechte für Väter, aber oft auch höhere finanzielle Verpflichtungen.
-
-> Steuerliche Aspekte: - Ehepaare werden gemeinsam besteuert, was oft zu einer höheren Steuerlast führt.
-
-- Unverheiratete Patchwork-Familien haben oft steuerliche Nachteile gegenüber traditionellen Familien.
-
-![Unterhalt in Patchworkfamilien — Stimmungsbild 2](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
-
-## Warum du dich finanziell oft benachteiligt fühlst – Die Größten Herausforderungen
+## Warum du dich finanziell oft benachteiligt fühlst – die größten Herausforderungen
 
 > Fehlender finanzieller Spielraum – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
 
@@ -94,25 +90,22 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 > Angst vor Konflikten – Viele Bonuseltern vermeiden Finanzgespräche, weil sie befürchten, es könnte Streit geben. Doch genau dieses Schweigen führt oft zu Missverständnissen und Frust.
 
-> das Gefühl, zurückzustecken – vielleicht hast du das Gefühl, dass dein leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hinten Anstehen.
+> Das Gefühl, zurückzustecken – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hintenanstehen.
 
-Aber: Du hast das Recht, deine finanzielle Situation aktiv mitzugestalten!
+Aber: Du hast das Recht, deine [finanzielle Situation](/blog/finanzielle-beteiligung/) aktiv mitzugestalten!
 
 ## Wie du als Bonusmama finanzielle Sicherheit gewinnst
 
-Der erste und wichtigste Schritt ist, Klarheit über die aktuelle [finanzielle Situation](/blog/finanzielle-beteiligung/) zu bekommen. Es reicht nicht aus zu wissen, dass dein Partner Unterhalt zahlt – du musst verstehen, wie diese Zahlungen eure gemeinsamen Finanzen Beeinflussen. Setzt euch zusammen und macht eine ehrliche Bestandsaufnahme: wie hoch sind die monatlichen Fixkosten? Welche Summen gehen für Unterhalt und andere Verpflichtungen Weg? Wie wird das Verbleibende Einkommen zwischen euch Aufgeteilt? Viele Patchworkpaare haben hier keine klare Übersicht und leben von Monat zu Monat, ohne zu wissen, wo das Geld eigentlich bleibt. Doch ohne eine Solide Grundlage lassen sich keine Fairen Lösungen finden.
+Der erste und wichtigste Schritt ist, Klarheit über die aktuelle finanzielle Situation zu bekommen. Es reicht nicht aus zu wissen, dass dein Partner Unterhalt zahlt – du musst verstehen, wie diese Zahlungen eure gemeinsamen Finanzen beeinflussen. Setzt euch zusammen und macht eine ehrliche Bestandsaufnahme: Wie hoch sind die monatlichen Fixkosten? Welche Summen gehen für Unterhalt und andere Verpflichtungen weg? Wie wird das verbleibende Einkommen zwischen euch aufgeteilt? Viele Patchworkpaare haben hier keine klare Übersicht und leben von Monat zu Monat, ohne zu wissen, wo das Geld eigentlich bleibt. Doch ohne eine solide Grundlage lassen sich keine fairen Lösungen finden.
 
-Sobald ihr diese Klarheit geschaffen habt, geht es darum, neue Lösungen zu entwickeln, die für euch beide funktionieren. Viele Paare machen den Fehler, einfach alles „halbe-halbe“ zu teilen – doch wenn einer von euch Hohe Unterhaltsverpflichtungen hat, kann das schnell Unfair werden. Vielleicht verdient dein Partner mehr als du, hat aber durch den Unterhalt kaum Spielraum. Vielleicht bist du es, die die Alltäglichen Kosten für essen, Freizeitaktivitäten oder kleinere Anschaffungen Deckt, während sein Gehalt zum großen Teil direkt Weitergeleitet wird. Um eine Faire Balance zu finden, solltet ihr eine Individuelle Aufteilung Wählen, die euer Einkommen, eure Ausgaben und eure Jeweiligen Finanziellen Verpflichtungen Berücksichtigt. Vielleicht macht ein gemeinsames Haushaltskonto Sinn, auf das ihr beide Anteilig Einzahlt. Vielleicht braucht ihr eine neue Regelung, wer welche Kosten übernimmt, damit ihr beide Finanziell Atmen könnt.
+Sobald ihr diese Klarheit geschaffen habt, geht es darum, neue Lösungen zu entwickeln, die für euch beide funktionieren. Viele Paare machen den Fehler, einfach alles „halbe-halbe" zu teilen – doch wenn einer von euch hohe Unterhaltsverpflichtungen hat, kann das schnell unfair werden. Vielleicht verdient dein Partner mehr als du, hat aber durch den Unterhalt kaum Spielraum. Vielleicht bist du es, die die alltäglichen Kosten für Essen, Freizeitaktivitäten oder kleinere Anschaffungen deckt, während sein Gehalt zum großen Teil direkt weitergeleitet wird. Um eine faire Balance zu finden, solltet ihr eine individuelle Aufteilung wählen, die euer Einkommen, eure Ausgaben und eure jeweiligen finanziellen Verpflichtungen berücksichtigt. Vielleicht macht ein gemeinsames Haushaltskonto Sinn, auf das ihr beide anteilig einzahlt. Vielleicht braucht ihr eine neue Regelung, wer welche Kosten übernimmt, damit ihr beide finanziell atmen könnt.
 
-Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend miteinander kommuniziert. Geld ist ein hoch emotionales Thema – vor allem in Patchwork-familien, wo oft noch Ex-partner:innen und Kinder Involviert sind. Vielleicht hast du Angst, als „fordernd“ zu wirken, wenn du das Thema Ansprichst. Vielleicht fürchtet dein Partner, dass du seine Verantwortung gegenüber seinen Kindern nicht akzeptierst. Doch Je Länger ihr vermeidet, darüber zu sprechen, Desto größer wird der Frust. Es geht nicht darum, Vorwürfe zu machen, sondern gemeinsame Lösungen zu finden. Sag deinem Partner nicht: „du Zahlst so viel Unterhalt, dass für uns nichts Übrig bleibt.“ Sag stattdessen: „ich Wünsche mir, dass wir gemeinsam Überlegen, wie wir trotz der Verpflichtungen auch unser eigenes leben gut Finanzieren können.“
+Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend miteinander kommuniziert. Geld ist ein hoch emotionales Thema – vor allem in Patchworkfamilien, wo oft noch Ex-Partner:innen und Kinder involviert sind. Vielleicht hast du Angst, als „fordernd" zu wirken, wenn du das Thema ansprichst. Vielleicht fürchtet dein Partner, dass du seine Verantwortung gegenüber seinen Kindern nicht akzeptierst. Doch je länger ihr vermeidet, darüber zu sprechen, desto größer wird der Frust. Es geht nicht darum, Vorwürfe zu machen, sondern gemeinsame Lösungen zu finden. Sag deinem Partner nicht: „Du zahlst so viel Unterhalt, dass für uns nichts übrig bleibt." Sag stattdessen: „Ich wünsche mir, dass wir gemeinsam überlegen, wie wir trotz der Verpflichtungen auch unser eigenes Leben gut finanzieren können."
 
-**Der Schlüssel zu finanzieller Sicherheit in der Patchwork-Familie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und Je offener ihr darüber sprecht, Desto weniger Konflikte und Unsicherheiten wird es geben. Sichere deine finalzielle zukunft als bonusmama!
+**Der Schlüssel zu finanzieller Sicherheit in der Patchworkfamilie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
 
-Wenn du jetzt denkst: „das klingt gut, aber wie setze ich das in meiner speziellen Situation um?“ – dann bist du nicht allein. Jede Patchworkfamilie hat ihre eigenen Finanziellen Herausforderungen.
+Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) hat ihre eigenen finanziellen Herausforderungen.
 
-Vielleicht fragst du dich:
+## Zusammenfassung
 
-💰 wie kann ich mich in finanziellen Entscheidungen einbringen, ohne Konflikte auszulösen?💰 wie kann ich sicherstellen, dass ich finanziell nicht benachteiligt werde?💰 wie spreche ich mit meinem Partner über Geld, ohne dass es Streit gibt?
-
-
-Doch stell dir vor, wie es sich anfühlen würde, finanzielle Sicherheit zu haben, ohne dass du dich benachteiligt fühlst. Stell dir vor, du wüsstest genau, wo du stehst – und wie du deinen Platz in der Patchwork-familie Gestaltest, ohne dabei auf eigene Finanzielle Unabhängigkeit zu Verzichten.
+Unterhalt, Kindergeld und Steuern sind in Deutschland, Österreich und der Schweiz sehr unterschiedlich geregelt – und diese Unterschiede beeinflussen direkt, wie viel für euch als Paar übrig bleibt. Als Bonusmama hast du das Recht, eure finanzielle Situation aktiv mitzugestalten. Der wichtigste Schritt ist eine ehrliche Bestandsaufnahme eurer Finanzen, eine faire Kostenverteilung und offene Kommunikation mit deinem Partner. Finanzielle Sicherheit in der Patchworkfamilie entsteht nicht durch Verzicht, sondern durch bewusste gemeinsame Entscheidungen.
