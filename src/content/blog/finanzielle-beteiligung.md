@@ -66,7 +66,7 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 - gibt es aktuelle finanzielle Herausforderungen?
 - stehen größere Ausgaben an, die besprochen werden müssen?
 
-Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr sitzt Im Selben Boot und Wollt Beide das Beste für eure Familie.
+Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr sitzt im Selben Boot und Wollt Beide das Beste für eure Familie.
 
 ## Wahre deine finanzielle Unabhängigkeit **Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 

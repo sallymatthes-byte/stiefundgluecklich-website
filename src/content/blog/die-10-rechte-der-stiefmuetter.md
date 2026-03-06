@@ -21,7 +21,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 Kennst du das Gefühl, als Stiefmutter immer wieder an deine Grenzen zu stoßen? Du übernimmst Verantwortung für die Kinder deines Partners, gestaltest den Familienalltag mit und investierst viel Zeit und Energie. *Doch oft fühlst du dich dabei unsichtbar, als würden deine eigenen Bedürfnisse und Wünsche keine Rolle spielen.* Vielleicht hast du schon erlebt, wie Entscheidungen über deinen Kopf hinweg getroffen wurden oder du bei Konflikten zwischen den Fronten stehst.
 
-Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest deine Rolle Aktiv Gestalten, anstatt dich ständig Anzupassen und Zurückzustecken.**doch der Weg Dorthin ist nicht immer einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
+Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest deine Rolle aktiv gestalten, anstatt dich ständig Anzupassen und Zurückzustecken.** doch der Weg Dorthin ist nicht immer einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
 
 
 > „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen.” – J.W. von Goethe
@@ -58,7 +58,7 @@ Studien (Papernow, 2013) zur Bedeutung der Rechte der Stiefmütter zeigen, dass 
 
 ## #5 “Ich werde bei der Entscheidung konsultiert, welche Kinder bei uns leben, wann sie zu Besuch kommen und wie lange sie bleiben.”
 
-Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – ohne dich Vorher zu Fragen oder deine Meinung Einzuholen. *plötzlich siehst du dich mit einer völlig Neuen Situation Konfrontiert, die deinen Alltag auf den Kopf stellt.*
+Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – ohne dich Vorher zu Fragen oder deine Meinung Einzuholen. *plötzlich siehst du dich mit einer völlig Neuen Situation konfrontiert, die deinen Alltag auf den Kopf stellt.*
 
 **Solche Situationen sind zutiefst frustrierend und vermitteln das Gefühl, dass die eigenen Bedürfnisse nicht wichtig sind.** Du hast ein Recht darauf, in diese Prozesse eingebunden zu werden und deine Sichtweise einzubringen.
 
@@ -84,7 +84,7 @@ Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partn
 
 Wenn Kinder aus einer früheren Beziehung regelmäßig bei euch leben, kann es leicht passieren, dass deine persönlichen Grenzen überschritten werden. **Schließlich hat jeder Mensch das Recht auf einen privaten Rückzugsort und darauf, dass persönliche Dinge respektiert werden.** Psychologen betonen immer wieder, wie wichtig klare persönliche Grenzen in Patchworkfamilien sind. *Natürlich verstehen besonders jüngere Kinder oft nicht von selbst, warum Privatsphäre so wichtig ist.*
 
-Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln klar zu Kommunizieren und Konsequent Durchzusetzen. Indem ihr Als Team Auftritt, kann dein Zuhause zu einem Ort werden, an dem sich alle Wohlfühlen.
+Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln klar zu Kommunizieren und Konsequent Durchzusetzen. Indem ihr als Team Auftritt, kann dein Zuhause zu einem Ort werden, an dem sich alle Wohlfühlen.
 
 ## #9 “Ich werde in meinem eigenen Zuhause nicht als Außenseiterin behandelt.”
 

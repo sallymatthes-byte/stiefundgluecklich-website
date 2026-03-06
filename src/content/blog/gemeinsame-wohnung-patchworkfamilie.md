@@ -14,7 +14,7 @@ imageAlt: "Gemeinsame Wohnung gestalten"
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
 Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist immer noch da. 😅
 Er ist damals also sofort bei mir eingezogen – in meine 35qm Große Einzimmerwohnung. Die Frage, wer Wann wo bei wem Einzieht, stellte sich für unsere Patchworkfamilie Aufgrund unserer Entfernung daher Erst einmal nicht.
-Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb Also nur die Option, dass er zu mir kommt. Und ob wir Langfristig Zusammenbleiben wollten, mussten wir auch Erst einmal Herausfinden. Von Gemeinsamer Wohnung war da Also noch nicht die Rede.
+Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb Also nur die Option, dass er zu mir kommt. Und ob wir Langfristig Zusammenbleiben wollten, mussten wir auch Erst einmal Herausfinden. von Gemeinsamer Wohnung war da Also noch nicht die Rede.
 
 Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.

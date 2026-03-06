@@ -30,7 +30,7 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 
 *Studien zeigen, dass Kinder in mehrsprachigen Familien ein stärkeres Sprachbewusstsein entwickeln.* Sie lernen früh, zwischen verschiedenen sprachlichen Systemen zu wechseln und diese zu vergleichen. Diese metalinguistischen Fähigkeiten können sich positiv auf das allgemeine Lernvermögen auswirken.
 
-*Deine Aufgabe als Bonusmama ist es, den Spracherwerb spielerisch in den Alltag zu integrieren.* Vorlesen, Singen, Rollenspiele – All das sind Wertvolle Werkzeuge, um den Kindern die Neue Sprache Näherzubringen. Wichtig ist dabei, dass du selbst Freude daran hast. Denn Kinder Spüren die Emotionale Verbindung und lernen besonders Gut, wenn sie sich Wohlfühlen.
+*Deine Aufgabe als Bonusmama ist es, den Spracherwerb spielerisch in den Alltag zu integrieren.* Vorlesen, Singen, Rollenspiele – All das sind Wertvolle Werkzeuge, um den Kindern die Neue Sprache Näherzubringen. Wichtig ist dabei, dass du selbst Freude daran hast. denn Kinder Spüren die Emotionale Verbindung und lernen besonders Gut, wenn sie sich Wohlfühlen.
 
 *Ein weiterer Vorteil ist, dass die Kinder durch dich ein breiteres kulturelles Verständnis entwickeln.* Sprache ist immer auch ein Träger von Kultur. Indem du ihnen deutsche Geschichten, Lieder und Traditionen vermittelst, öffnest du ihnen ein Fenster zu einer neuen Welt.
 
@@ -52,7 +52,7 @@ Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal hol
 
 ## Umgang mit interkulturellen Herausforderungen
 
-Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in Mehrsprachigen Patchworkfamilien Stecken in Scheinbar Banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei Verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der Richtigen Haltung und ein Paar Ungewöhnlichen Strategien lassen sich Brücken Bauen:
+Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in Mehrsprachigen Patchworkfamilien Stecken in scheinbar Banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei Verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der Richtigen Haltung und ein Paar Ungewöhnlichen Strategien lassen sich Brücken Bauen:
 
 - macht einen Perspektivwechsel zum Spiel. Schlüpft mal in die Rolle des anderen und betrachtet eine Situation mit seinen Augen. Was denkt und fühlt die Partnerin oder das Stiefkind gerade? So übt ihr Empathie und Verständnis.
 - führt ein “Faux-Pas-Tagebuch”. Notiert Missverständnisse und Fettnäpfchen, in die ihr wegen kultureller Unterschiede getappt seid. Beim gemeinsamen Schmökern können alle herzhaft darüber lachen. Das entspannt ungemein.

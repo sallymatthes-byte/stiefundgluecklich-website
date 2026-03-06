@@ -35,7 +35,7 @@ Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspekti
 
 - führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
 - Erstellt ein [Visionboard](/blog/visionboard-in-der-patchworkfamilie/)
-- Kauft euch etwas, was euch beiden gehört – Einen Neuen Fernseher Beispielsweise
+- Kauft euch etwas, was euch beiden gehört – einen Neuen Fernseher beispielsweise
 
 Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzeptiere, dass Veränderungen Zeit brauchen und dein Partner möglicherweise nicht im selben Tempo voranschreiten möchte wie du. Macht euch bewusst: auch kleine Schritte in die richtige Richtung stärken eure Beziehung und bringen euch einander näher.
 

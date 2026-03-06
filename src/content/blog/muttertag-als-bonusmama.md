@@ -18,7 +18,7 @@ Lass uns dies heute mal genauer betrachten.
 
 ## Ein herausfordernder Tag
 
-Muttertag – Ein Tag voller Blumen, Frühstück ans Bett und Selbstgebastelter Geschenke. Für Viele Mütter ist es ein **tag der Wertschätzung und Dankbarkeit,**an dem Sie von ihren Kindern und Partner_innen Gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine Echte Herausforderung sein.
+Muttertag – Ein Tag voller Blumen, Frühstück ans Bett und Selbstgebastelter Geschenke. für Viele Mütter ist es ein **tag der Wertschätzung und Dankbarkeit,**an dem Sie von ihren Kindern und Partner_innen Gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine Echte Herausforderung sein.
 Denn oft fühlen wir uns hin- und hergerissen zwischen unserer Rolle als Partnerin und der Rolle als “Bonusmama”.
 
 Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder Unterstützerin der Kinder. Und genau das kann am Muttertag zu** inneren Konflikten ** führen.
@@ -53,7 +53,7 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 ![Den Muttertag als Bonusmama erleben — Stimmungsbild 2](/images/blog/muttertag-als-bonusmama-3.jpg)
 
-Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre Leibliche Mama und ihre Bonusmama. Doch an diesem Besonderen Tag fühlen sie sich**  hin- Und Hergerissen.** sie wollen Keine Der Beiden Frauen Enttäuschen oder Verletzen und Geraten dadurch in einen Inneren Konflikt. Vielleicht Verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu Feiern.
+Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre Leibliche Mama und ihre Bonusmama. Doch an diesem Besonderen Tag fühlen sie sich**  hin- Und Hergerissen.** sie wollen keine der beiden Frauen Enttäuschen oder Verletzen und Geraten dadurch in einen Inneren Konflikt. Vielleicht Verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu Feiern.
 Dabei spüren sie die** Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.
 
 Gleichzeitig wünschen sie sich ein** harmonisches Miteinander **ihrer Eltern und eine entspannte Atmosphäre. Doch oft spüren sie die unausgesprochenen Konflikte und fühlen sich dafür verantwortlich.

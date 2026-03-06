@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import StructuredData from '../../components/StructuredData.astro';
 import FAQSchema from '../../components/FAQSchema.astro';
+import FAQAccordion from '../../components/FAQAccordion.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -139,6 +140,8 @@ const relatedPosts = allPosts
             Finde deinen nächsten Schritt →
           </a>
         </div>
+
+        {faqs.length > 0 && <FAQAccordion faqs={faqs} />}
       </div>
     </div>
   </article>

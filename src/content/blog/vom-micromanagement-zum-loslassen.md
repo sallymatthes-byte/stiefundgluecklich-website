@@ -12,9 +12,9 @@ imageAlt: "Vom Micromanagement zum Loslassen"
 
 ## Kennst du das Gefühl, immer alles unter Kontrolle haben zu müssen?
 
-Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen Im Klub der Micromanagenden [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s!
+Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen im Klub der Micromanagenden [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s!
 
-Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern Die Ganze Familie.
+Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern die Ganze Familie.
 
 Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanagement so problematisch ist und wie du lernen kannst, loszulassen.
 

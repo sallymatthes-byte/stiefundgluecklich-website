@@ -35,7 +35,7 @@ Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getr
 
 ## Marion wünschte sich…
 
-Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie. **Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.** ihr Größtes Ziel war es, eine Starke und Liebevolle Patchworkfamilie Aufzubauen, in der Jeder seinen Platz hat und Respektiert wird. Sie wollte für die Kinder da sein, Eine Vertrauensvolle Beziehung zu ihnen Aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern Wählen müssen, sondern von allen Geliebt werden.
+Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie. **Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.** ihr Größtes Ziel war es, eine Starke und Liebevolle Patchworkfamilie aufzubauen, in der Jeder seinen Platz hat und Respektiert wird. Sie wollte für die Kinder da sein, eine Vertrauensvolle Beziehung zu ihnen Aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern Wählen müssen, sondern von allen Geliebt werden.
 
 Auch für ihre Partnerschaft hatte Marion klare Vorstellungen. Sie sehnte sich danach, mit ihrem Partner ein unzertrennliches Team zu bilden, das gemeinsam durch dick und dünn geht. Marion wünschte sich mehr Rückhalt und Verständnis von ihm, gerade wenn es um Entscheidungen ging, die die ganze Familie betrafen.
 
@@ -73,7 +73,7 @@ Unser ganzheitlicher Ansatz, der Analyse, Veränderungen und Kommunikation mitei
 
 marions transformation
 
-Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – Vollzog Marion eine Beeindruckende Verwandlung, sowohl in ihrem Auftreten nach Außen als auch in ihrer Inneren Haltung.**  war sie Anfangs noch Unsicher und von Zweifeln Geplagt, Strahlte Marion Nun eine Neue Zuversicht und Selbstsicherheit aus.**sie hatte Gelernt, zu sich und ihren Bedürfnissen zu stehen und sich nicht mehr von Negativen Einflüssen Verunsichern zu lassen. Ihr Auftreten war von einer Ruhigen Gelassenheit Geprägt, die auch auf ihr Umfeld Ausstrahlte.
+Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – Vollzog Marion eine Beeindruckende Verwandlung, sowohl in ihrem Auftreten nach Außen als auch in ihrer Inneren Haltung.**  war sie Anfangs noch Unsicher und von Zweifeln Geplagt, Strahlte Marion nun eine Neue Zuversicht und Selbstsicherheit aus.** sie hatte Gelernt, zu sich und ihren Bedürfnissen zu stehen und sich nicht mehr von Negativen Einflüssen Verunsichern zu lassen. Ihr Auftreten war von einer Ruhigen Gelassenheit Geprägt, die auch auf ihr Umfeld Ausstrahlte.
 
 In Gesprächen mit der Kindsmutter oder anderen Kritikern blieb Marion freundlich, aber bestimmt. Sie ließ sich nicht mehr in Machtkämpfe verwickeln, sondern fokussierte sich darauf, Lösungen zu finden und respektvoll miteinander umzugehen. Durch ihre klare Kommunikation gelang es ihr, viele Konflikte schon im Keim zu ersticken.
 

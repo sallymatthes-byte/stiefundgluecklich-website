@@ -8,7 +8,7 @@ metaTitle: "Warum sich Kindsmütter bedroht fühlen"
 metaDescription: "Die leibliche Mutter reagiert feindselig? Warum sie sich bedroht fühlt und wie du als Bonusmama damit umgehen kannst."
 heroImage: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
 image: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
-imageAlt: "Warum Kindsmütter sich bedroht fühlen können – Und Was Bonusmamas Tun Können"
+imageAlt: "Warum Kindsmütter sich bedroht fühlen können – und was Bonusmamas tun können"
 ---
 
 In den letzten Wochen hat mich das Thema “Konkurrenz zwischen Kindsmutter und Bonusmama” sehr beschäftigt.
@@ -70,5 +70,5 @@ Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen 
 
 ## Zusammenfassung
 Oft entsteht in der Beziehung zwischen Kindsmutter und Bonusmama das Gefühl, einander Konkurrenz zu sein. Doch das ist ehrlich gesagt totaler Quatsch.
-Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist eine Wichtige Person für das Kind und soll es auch bleiben. Es darf jedoch mehr Verständnis für Beide Seiten Einziehen. Denn Dies ist der Erste Wichtige Schritt Dahingehend eine Positive Beziehung Aufzubauen und dem Kind ein Liebevolles Umfeld zu Ermöglichen.
+Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist eine Wichtige Person für das Kind und soll es auch bleiben. Es darf jedoch mehr Verständnis für beide Seiten Einziehen. Denn Dies ist der Erste Wichtige Schritt Dahingehend eine Positive Beziehung aufzubauen und dem Kind ein Liebevolles Umfeld zu Ermöglichen.
 

@@ -30,13 +30,13 @@ Doch je länger ich diese Gefühle unterdrückte, desto mehr zog ich mich innerl
 
 Ich fühlte mich wie in einem seltsamen Dreieck: ich wollte keine Konkurrentin sein. Ich wollte Nähe. Aber alles, was ich spürte, war Distanz. Und irgendwann fragte ich mich: „Was stimmt denn mit mir nicht, dass ich mich von einem Kind bedroht fühle?“
 
-Der Wendepunkt kam in einer Einheit meiner systemischen Coachingausbildung. Thema: Parentifizierung – Also die Rollenumkehr zwischen Eltern und Kindern. Kinder, die Zu Emotionalen Partner:innen werden, Verantwortung Übernehmen, die Sie Überfordert.
+Der Wendepunkt kam in einer Einheit meiner systemischen Coachingausbildung. Thema: Parentifizierung – Also die Rollenumkehr zwischen Eltern und Kindern. Kinder, die zu Emotionalen Partner:innen werden, Verantwortung Übernehmen, die Sie Überfordert.
 
 Und plötzlich fiel der Groschen.
 
 Sie war nicht gegen mich.Sie kämpfte nicht um macht.Sie kämpfte um Halt.
 
-Sie war ein Kind – in einer Rolle, die Sie nie hätte Übernehmen dürfen. Und während ich mich Klein und Fehl Am Platz fühlte, Versuchte sie, das Zu Retten, was für sie von „familie“ noch Übrig war.
+Sie war ein Kind – in einer Rolle, die Sie nie hätte Übernehmen dürfen. Und während ich mich Klein und fehl am platz fühlte, Versuchte sie, das Zu Retten, was für sie von „familie“ noch Übrig war.
 
 Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde – aber weil ich endlich verstand, dass es nicht um Schuld ging. Sondern um Klarheit, Verantwortung und Neue Strukturen.
 
@@ -61,7 +61,7 @@ Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 ❗Wichtig zu verstehen:
 
-Das Kind ist nicht schuld.Es ist Aufgabe des Vaters – und auch der Erwachsenen Im System –, für eine Klare, Sichere Rollenverteilung zu Sorgen.
+Das Kind ist nicht schuld.Es ist Aufgabe des Vaters – und auch der Erwachsenen im System –, für eine Klare, Sichere Rollenverteilung zu Sorgen.
 
 ![Mini-Wife in Patchworkfamilien — Stimmungsbild 2](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
 
@@ -71,7 +71,7 @@ Heute sehe ich klar, was damals so verschwommen war. Aber bis zu diesem Punkt la
 
 Da war zum Beispiel diese leise Stimme in mir, die sagte: „Du willst dich doch nicht mit einem Kind vergleichen, oder?“Ich schämte mich für meine Gedanken. Für das Gefühl, dass ich mich in meiner eigenen Beziehung wie eine Außenseiterin fühlte – und dass ich Ausgerechnet sie, die Tochter, als Grund dafür empfand.
 
-Ich dachte, wenn ich das anspreche, wirke ich[eifersüchtig](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/). Kleinlich. Unreif. Ich hatte Angst, dass mein Partner mich nicht versteht. Dass er sagt: „Sie ist mein Kind – Was Erwartest Du?“
+Ich dachte, wenn ich das anspreche, wirke ich[eifersüchtig](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/). Kleinlich. Unreif. Ich hatte Angst, dass mein Partner mich nicht versteht. Dass er sagt: „Sie ist mein Kind – was Erwartest du?“
 
 Und dann war da auch der Druck, die „Gute“ zu sein. Die verständnisvolle Bonusmama. Die empathisch ist, die nichts eskaliert. Ich hatte das Gefühl, ich müsste das aushalten – aus Liebe, aus Rücksicht, aus Pflichtgefühl.
 
@@ -134,7 +134,7 @@ Und genau dafür bin ich da.
 
 Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht – sondern für das ganze System gut ist?
 
-
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist das Mini-Wife-Syndrom?
@@ -145,3 +145,4 @@ Sprich mit deinem Partner unter vier Augen darüber — nicht vor dem Kind. Erkl
 
 ### Ist Mini-Wife-Verhalten schädlich für das Kind?
 Ja, langfristig kann es das Kind überfordern. Kinder, die in eine Erwachsenenrolle gedrängt werden, tragen Verantwortung, die nicht zu ihrem Alter passt. Das kann zu [Loyalitätskonflikten](/blog/loyalitaetskonflikte-von-bonuskindern/) und emotionaler Überlastung führen.
+FAQ_END -->

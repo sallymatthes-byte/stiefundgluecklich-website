@@ -29,7 +29,7 @@ Ich erinnere mich noch genau an den Moment, an dem ich mich das erste Mal so vor
 
 Doch was bedeutet es wirklich?
 
-Es bedeutet, jeden Tag aufs Neue Grenzen zu erkunden – Zwischen Nähe Und Distanz, Zwischen Autorität Und Freundschaft, Zwischen Deinen Eigenen Bedürfnissen Und Denen Der Familie. Es Bedeutet, Dein Herz Zu Öffnen Für Kinder, Die Bereits Eine Mutter Haben, Und Trotzdem Deinen Eigenen, Einzigartigen Platz In Ihrem Leben Zu Finden.
+Es bedeutet, jeden Tag aufs Neue Grenzen zu erkunden – zwischen Nähe und Distanz, zwischen Autorität und Freundschaft, zwischen deinen eigenen Bedürfnissen und denen der Familie. Es Bedeutet, dein Herz zu Öffnen für Kinder, die bereits eine Mutter haben, und trotzdem deinen eigenen, einzigartigen platz in ihrem Leben zu Finden.
 
 ---
 
@@ -41,7 +41,7 @@ Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzäh
 
 Nach drei Monaten Beziehung war es dann soweit: Das erste Treffen stand an. Ich hatte die ganze Nacht kaum geschlafen, mir tausend Szenarien ausgemalt und sogar einen kleinen Notfallplan in meiner Handtasche.
 
-Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich richtig "Hallo" sagen konnte, hatte die Große schon meine Hand gepackt und zog mich in Richtung Ausgang. Die Jüngere folgte uns mit kritischem Blick – eine Eigenschaft, die ich Später noch sehr zu Schätzen lernen würde.**  doch schon Bald Merkte ich: die Rolle als Stiefmutter ist etwas völlig Anderes als die Einer Erzieherin oder Tante.**der Erste Realitätscheck kam Am Dritten Wochenende. Eines Der Mädchen Weigerte sich, das Gemüse zu Essen, das ich Liebevoll Zubereitet hatte. "bei Mama muss ich das Nicht Essen!", Verkündete sie Triumphierend.
+Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich richtig "Hallo" sagen konnte, hatte die Große schon meine Hand gepackt und zog mich in Richtung Ausgang. Die Jüngere folgte uns mit kritischem Blick – eine Eigenschaft, die ich Später noch sehr zu Schätzen lernen würde.**  doch schon Bald Merkte ich: die Rolle als Stiefmutter ist etwas völlig Anderes als die Einer Erzieherin oder Tante.** der Erste Realitätscheck kam am Dritten Wochenende. Eines der Mädchen Weigerte sich, das Gemüse zu Essen, das ich Liebevoll Zubereitet hatte. "bei Mama muss ich das Nicht Essen!", Verkündete sie Triumphierend.
 
 In diesem Moment wurde mir klar: ich betrat hier Neuland, und meine bisherigen Erfahrungen würden mir nur bedingt helfen.
 
@@ -88,10 +88,10 @@ Anfangs war es holprig. Die Kleine saß mit verschränkten Armen da, die Große 
 
 Unsere Kommunikationsregeln entwickelten sich organisch:
 
-- Ehrliche Gespräche über Gefühle und Bedürfnisse – Auch Wenn Es Manchmal Wehtut
+- Ehrliche Gespräche über Gefühle und Bedürfnisse – auch wenn es manchmal Wehtut
 - Klare Absprachen über Regeln und Grenzen, die für alle gelten
 - Regelmäßiger Austausch, nicht nur wenn es Probleme gibt
-- Raum für alle Emotionen – Auch Die Schwierigen
+- Raum für alle Emotionen – auch die Schwierigen
 
 ---
 
@@ -114,7 +114,7 @@ So wie für Christina und Maria:
   </div>
 </div>
 
-
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist eine Stiefmutter?
@@ -128,3 +128,4 @@ Bonusmama ist eine positive Alternative zum Begriff Stiefmutter. Er betont, dass
 
 ### Welche Rechte hat eine Stiefmutter?
 Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z.B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.
+FAQ_END -->

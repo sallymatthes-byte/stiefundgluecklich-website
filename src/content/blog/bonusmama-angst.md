@@ -45,7 +45,7 @@ Angst ist kein Fehler in deinem System. Sie ist ein Signal. Und sie wird besonde
 
 Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/blog/ab-wann-ist-man-stiefmutter/) Bietet. Du sollst „familie“ Mitgestalten, bist aber oft Emotional wie Rechtlich nicht Abgesichert.
 
-Genau in diesem Spannungsfeld entsteht Angst – und sie Äußert sich auf sehr Unterschiedliche Weise. Manche Bonusmamas Beschreiben Eine Dauerhafte Grundanspannung. Andere sagen: „ich Funktioniere – aber ich kann nie ganz Loslassen.“
+Genau in diesem Spannungsfeld entsteht Angst – und sie Äußert sich auf sehr Unterschiedliche Weise. Manche Bonusmamas beschreiben eine Dauerhafte Grundanspannung. Andere sagen: „ich Funktioniere – aber ich kann nie ganz Loslassen.“
 
 Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist.** Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
 

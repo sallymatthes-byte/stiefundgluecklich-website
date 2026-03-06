@@ -46,7 +46,7 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 ## Die unsichtbaren Mauern der Eifersucht
 
-Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
+**Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
@@ -92,7 +92,7 @@ Vielleicht liest du diese Zeilen gerade mit pochendem Herzen, weil du dich in je
 
 ***Du bist nicht allein mit diesen Gedanken.*** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
 
-
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Ist es normal, auf das Stiefkind eifersüchtig zu sein?
@@ -103,3 +103,4 @@ Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst,
 
 ### Was kann ich gegen Stiefkind-Eifersucht tun?
 Erkenne die Eifersucht als Signal, nicht als Charakterfehler. Frag dich: Was brauche ich gerade wirklich? Meistens geht es um Zeit zu zweit mit deinem Partner, Anerkennung oder das Gefühl, einen festen Platz zu haben. Sprich das offen an — nicht als Vorwurf, sondern als Bedürfnis.
+FAQ_END -->

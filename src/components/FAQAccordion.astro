@@ -1,0 +1,35 @@
+---
+interface FAQ {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  faqs: FAQ[];
+}
+
+const { faqs } = Astro.props;
+---
+
+{faqs.length > 0 && (
+  <div class="mt-12 max-w-[700px] mx-auto px-5 md:px-6">
+    <h2 class="font-serif text-xl md:text-2xl lg:text-3xl text-foreground mb-6">
+      Häufige Fragen
+    </h2>
+    <div class="space-y-3">
+      {faqs.map((faq) => (
+        <details class="group border border-border bg-background">
+          <summary class="flex items-center justify-between cursor-pointer px-5 py-4 text-foreground font-medium hover:bg-secondary/50 transition-colors list-none">
+            <span class="pr-4">{faq.question}</span>
+            <svg class="h-5 w-5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <div class="px-5 pb-5 text-muted-foreground leading-relaxed border-t border-border pt-4">
+            <p>{faq.answer}</p>
+          </div>
+        </details>
+      ))}
+    </div>
+  </div>
+)}

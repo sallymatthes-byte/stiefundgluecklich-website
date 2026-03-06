@@ -11,9 +11,9 @@ image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-ze
 imageAlt: "Ex-Frau und neue Beziehung – So befreist du dich vom Schatten der Vergangenheit"
 ---
 
-“Sie macht alles kaputt!” – dieser Verzweifelte Gedanke Raubt dir Nachts den Schlaf. Die Ex-frau und Neue Beziehung Scheinen Untrennbar Miteinander Verwoben zu sein, Wie ein Endloser Albtraum, aus dem Du nicht Erwachen kannst. Jede Nachricht von ihr lässt dein Herz Rasen, jeder “zufällige” Anruf während eures Abendessens Vergiftet die Stimmung. Du Spürst Förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein Dunkler Schleier, der sich über eure Liebe Legt.
+“Sie macht alles kaputt!” – dieser Verzweifelte Gedanke Raubt dir Nachts den Schlaf. Die Ex-frau und Neue Beziehung Scheinen Untrennbar miteinander Verwoben zu sein, Wie ein Endloser Albtraum, aus dem Du nicht Erwachen kannst. Jede Nachricht von ihr lässt dein Herz Rasen, jeder “zufällige” Anruf während eures Abendessens Vergiftet die Stimmung. du Spürst Förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein Dunkler Schleier, der sich über eure Liebe Legt.
 
-In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel macht über deine Beziehung hat, sondern vor allem, wie du dich aus dieser emotionalen Gefangenschaft befreien kannst. Denn eines ist sicher: Du verdienst es, eine erfüllte Partnerschaft zu leben – Ohne Ständige Einmischung Von Außen.
+In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel macht über deine Beziehung hat, sondern vor allem, wie du dich aus dieser emotionalen Gefangenschaft befreien kannst. Denn eines ist sicher: Du verdienst es, eine erfüllte Partnerschaft zu leben – ohne Ständige Einmischung von Außen.
 
 Über [diesen Link](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) gelangst du zum Podcast und kannst dir dort nochmal tiefere Einblicke in dieses Thema holen:
 
@@ -34,7 +34,7 @@ Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dic
 
 Was macht die Situation zwischen Ex-Frau und neue Beziehung so explosiv? Oft liegt es an tieferen Mustern, die wie [unsichtbare Fäden](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) alle Beteiligten miteinander verbinden. *Die Ex-Frau kämpft möglicherweise mit dem Verlust ihrer gewohnten Rolle* – nicht nur als Partnerin, sondern auch als Alleinige “managerin” der Familie. Vielleicht Fürchtet sie, dass die Kinder dich eines Tages mehr lieben Könnten als sie, oder sie Verarbeitet ihre Eigenen Verletzungen durch die Trennung, indem sie Kontrolle Ausübt.
 
-**Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – Meist selbst Auferlegt – können Erdrückend sein. Dein Partner Wiederum steht zwischen den Fronten, Zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu Vermeiden.
+**Gleichzeitig spürst du den enormen Druck, alles richtig machen zu müssen.** Du versuchst, die perfekte Partnerin zu sein, eine liebevolle Bonusmama, und dabei auch noch gelassen mit den ständigen Störfeuern umzugehen. Diese Erwartungen – Meist selbst Auferlegt – können Erdrückend sein. dein Partner Wiederum steht zwischen den Fronten, Zerrissen zwischen der Verantwortung für seine Kinder, der Loyalität zu dir und dem Wunsch, Konflikte zu Vermeiden.
 
 Diese komplexe Dynamik wird noch verstärkt durch:
 
@@ -121,7 +121,7 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 
 - Wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
 
-
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Warum bin ich so besessen von der Ex-Frau meines Partners?
@@ -132,3 +132,4 @@ Der erste Schritt ist, die Gedanken nicht zu bekämpfen, sondern zu verstehen, w
 
 ### Kann die Ex-Frau eine neue Beziehung zerstören?
 Die Ex-Frau selbst zerstört selten eine Beziehung. Was Beziehungen gefährdet, ist der Umgang damit: wenn der Partner keine klaren Grenzen setzt, wenn Konflikte mit der Ex eure Partnerschaft dominieren, oder wenn du dich in Vergleichen verlierst. Die Lösung liegt immer in eurer Beziehung, nicht bei der Ex.
+FAQ_END -->

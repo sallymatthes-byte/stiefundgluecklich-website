@@ -30,7 +30,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 - **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 - Es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.**die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 - Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil, was berücksichtigt werden muss.
 

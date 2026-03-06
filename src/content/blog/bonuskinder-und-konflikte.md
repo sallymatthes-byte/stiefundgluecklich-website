@@ -48,7 +48,7 @@ Auch in Bezug auf die*Beziehungsdynamik* ist es wichtig, Grenzen zu setzen. Als 
 
 ## Wie kommuniziere ich diese?
 
-*Klare Kommunikation* über persönliche Grenzen und Bedürfnisse ist essenziell. Wenn uns bestimmte Verhaltensweisen der Bonuskinder stören oder wir uns in einer Situation unwohl fühlen, sollten wir dies **offen und respektvoll ansprechen**. Dabei ist es wichtig, auf eine wertschätzende Art und Weise zu kommunizieren und Lösungen gemeinsam zu finden. Meine Bonuskinder haben zum Beispiel anfangs meine Haarbürste benutzt – was mich Total Gestört hat. Also Habe ich ihnen Eigene Bürsten Besorgt und ihnen Gesagt, dass ich es nicht möchte, dass sie meine Benutzen – ohne Streit und Konflikte.
+*Klare Kommunikation* über persönliche Grenzen und Bedürfnisse ist essenziell. Wenn uns bestimmte Verhaltensweisen der Bonuskinder stören oder wir uns in einer Situation unwohl fühlen, sollten wir dies **offen und respektvoll ansprechen**. Dabei ist es wichtig, auf eine wertschätzende Art und Weise zu kommunizieren und Lösungen gemeinsam zu finden. Meine Bonuskinder haben zum Beispiel anfangs meine Haarbürste benutzt – was mich Total Gestört hat. Also Habe ich ihnen eigene Bürsten Besorgt und ihnen Gesagt, dass ich es nicht möchte, dass sie meine Benutzen – ohne Streit und Konflikte.
 
 Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosphäre des Respekts und der gegenseitigen Achtung. Die Kinder lernen, was angemessenes Verhalten ist und wie sie ihre eigenen Grenzen wahren können. Gleichzeitig stärken wir unsere Rolle als Bonusmama und haben eine gesunde Basis für eine liebevolle und harmonische Beziehung zu den Kindern.
 
@@ -67,16 +67,16 @@ Passend dazu:**Hör dir die Podcastfolge „Wenn die Stimmung kippt – Konflikt
 
 ![Bonuskinder und Konflikte — Stimmungsbild 2](/images/blog/bonuskinder-und-konflikte-3.jpg)
 
-Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – Atme tief durch und Verlasse Ggf. Die Situation, bevor es Eskaliert. Hier sind Drei Tipps, die dir in Solchen Situationen helfen können:** 1. Aktive Zuhörtechnik: **nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und Höre Aktiv zu, ohne zu Unterbrechen. Wiederhole ihre Aussagen, um Sicherzustellen, dass du sie richtig Verstanden hast. Zum Beispiel kannst du sagen: “ich Höre, dass du Frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu Bekommen. Ist das richtig?” durch diese Technik Zeigst du den Kindern, dass du sie Ernst nimmst und ihre Gefühle Wahrnimmst.**2. Ich-botschaften:**verwende ich-botschaften, um deine Eigenen Gefühle und Bedürfnisse Auszudrücken, ohne die Kinder zu Beschuldigen. Zum Beispiel Könntest du sagen: “ich Fühle mich Überfordert, wenn das Zimmer Unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen Ordentlichen und Harmonischen Raum haben.” dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und Mitzudenken, anstatt sich Angegriffen zu fühlen.**3. Gemeinsame Lösungen finden:**  statt den Streit zu Eskalieren, Arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem Gelöst werden könnte. Zum Beispiel Könntest du sagen: “wie Könnten wir gemeinsam dafür Sorgen, dass das Zimmer Aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser Organisieren können?” indem du die Kinder in den Lösungsprozess Einbeziehst, Ermöglichst du ihnen, Verantwortung zu Übernehmen und ihre Fähigkeiten zur Problemlösung zu Entwickeln.
+Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühlen Kopf zu bewahren. Du bist die erwachsene Person – Atme tief durch und Verlasse Ggf. Die Situation, bevor es Eskaliert. Hier sind Drei Tipps, die dir in Solchen Situationen helfen können:** 1. Aktive Zuhörtechnik: **nimm dir Zeit, um den Standpunkt der Kinder zu verstehen. Setze dich auf Augenhöhe mit ihnen und Höre Aktiv zu, ohne zu Unterbrechen. Wiederhole ihre Aussagen, um Sicherzustellen, dass du sie richtig Verstanden hast. Zum Beispiel kannst du sagen: “ich Höre, dass du Frustriert bist, weil du das Gefühl hast, nicht genug Aufmerksamkeit zu Bekommen. Ist das richtig?” durch diese Technik Zeigst du den Kindern, dass du sie Ernst nimmst und ihre Gefühle Wahrnimmst.**2. Ich-botschaften:**verwende ich-botschaften, um deine Eigenen Gefühle und Bedürfnisse Auszudrücken, ohne die Kinder zu Beschuldigen. zum Beispiel Könntest du sagen: “ich Fühle mich Überfordert, wenn das Zimmer Unaufgeräumt ist, weil es für mich wichtig ist, dass wir einen Ordentlichen und Harmonischen Raum haben.” dadurch gibst du den Kindern die Möglichkeit, deine Perspektive zu verstehen und Mitzudenken, anstatt sich Angegriffen zu fühlen.**3. Gemeinsame Lösungen finden:**  statt den Streit zu Eskalieren, Arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem Gelöst werden könnte. zum Beispiel Könntest du sagen: “wie Könnten wir gemeinsam dafür Sorgen, dass das Zimmer Aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser Organisieren können?” indem du die Kinder in den Lösungsprozess Einbeziehst, Ermöglichst du ihnen, Verantwortung zu Übernehmen und ihre Fähigkeiten zur Problemlösung zu Entwickeln.
 
 Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvolle und pädagogisch wertvolle Weise anzugehen.
 
 ## Zusammenfassung
-Konflikte mit den Bonuskindern sind nicht immer vermeidbar – wichtig ist jedoch, dass du dich in das Kind Hineinversetzt, ihm Zuhörst und deine Grenzen Kommunizierst. In einer Familie sind sowohl deine Als auch die Grenzen der Kinder Gleich wichtig – wenn diese klar sind, können Konflikte Friedlich Miteinander Gelöst werden.
+Konflikte mit den Bonuskindern sind nicht immer vermeidbar – wichtig ist jedoch, dass du dich in das Kind Hineinversetzt, ihm Zuhörst und deine Grenzen Kommunizierst. In einer Familie sind sowohl deine Als auch die Grenzen der Kinder Gleich wichtig – wenn diese klar sind, können Konflikte friedlich miteinander Gelöst werden.
 
 Wie löst ihr Konflikte mit den Kindern? Schreib mir eine Nachricht und erzähl mir davon!
 
-
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Warum lehnt mein Bonuskind mich ab?
@@ -87,3 +87,4 @@ Langsam und ohne Druck. Sei verlässlich, aber erwarte keine sofortige Nähe. Fi
 
 ### Was tun, wenn mein Stiefkind die Beziehung zerstört?
 Kein Kind zerstört bewusst eine Beziehung. Wenn es sich so anfühlt, schau genauer hin: Ist das Kind überfordert? Fehlen klare Strukturen? Setzt dein Partner Grenzen? Meistens liegt das Problem nicht beim Kind, sondern im System drumherum.
+FAQ_END -->

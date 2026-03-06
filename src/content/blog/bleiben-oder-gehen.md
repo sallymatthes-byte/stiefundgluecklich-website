@@ -70,4 +70,4 @@ Wo stehst du gerade? Schreibe mir gern eine private Nachricht und erzähle mir d
 Viele Bonusmamas stehen manchmal vor dem Punkt, dass sie sich fragen, ob diese Beziehung das alles wert ist.
 Diese ambivalenten Gefühle sind dann sehr belastend und führen zu Rückzug oder Distanz zu den Bonuskindern und dem Partner.
 Du bist nicht allein mit diesen Gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern.
-Melde dich gern bei mir, wenn du dir dabei Hilfe wünschst!
+, wenn du dir dabei Hilfe wünschst!

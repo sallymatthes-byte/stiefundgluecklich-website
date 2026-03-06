@@ -41,7 +41,7 @@ Klar, das ist nicht immer einfach. Es braucht Mut, Geduld und Einfühlungsvermö
 
 ## Das Modell in der Praxis
 
-Genug der Theorie – Lass uns das Eisberg-modell mal in Aktion Erleben! Stell dir vor, du bist seit einem Jahr mit Tom zusammen, der Zwei Kinder mit in eure Beziehung bringt: Laura (8) und Ben (5). Eigentlich Läuft es ganz Gut zwischen euch, aber manchmal gibt es eben diese Momente, in Denen die [stimmung Kippt](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und alle Genervt sind. Zum Beispiel Neulich, als ihr Einen Ausflug machen Wolltet:
+Genug der Theorie – Lass uns das Eisberg-modell mal in Aktion Erleben! Stell dir vor, du bist seit einem Jahr mit Tom zusammen, der Zwei Kinder mit in eure Beziehung bringt: Laura (8) und Ben (5). Eigentlich Läuft es ganz Gut zwischen euch, aber manchmal gibt es eben diese Momente, in Denen die [stimmung Kippt](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und alle Genervt sind. zum Beispiel Neulich, als ihr Einen Ausflug machen Wolltet:
 
 *Tom hatte vorgeschlagen, in den Zoo zu fahren, aber Laura schmollte nur und maulte: “Nee, keinen Bock. Ich will lieber zu Mama!”. Du warst irritiert – wollte Laura nicht Letzte Woche noch Unbedingt die Eisbären sehen? Und überhaupt, warum will sie auf einmal zu ihrer Mutter, wo sie doch das Ganze Wochenende mit euch Verbringen sollte?*
 
@@ -66,7 +66,7 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 
 ![Wie das Eisberg-Modell Patchworkfamilien helfen kann — Stimmungsbild 2](/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-3.jpg)
 
-Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es Im Turbulenten Familienleben um? Hier kommen ein Paar Praktische Tipps und Fragen, die dir helfen können, den Eisberg-blick zu Schärfen:
+Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es im Turbulenten Familienleben um? Hier kommen ein Paar Praktische Tipps und Fragen, die dir helfen können, den Eisberg-blick zu Schärfen:
 
 - *** Mach regelmäßig einen “Eisberg-Check”*: **Nimm dir Zeit, in dich hineinzuspüren und zu fragen: “Was beschäftigt mich gerade unter der Oberfläche? Welche unerfüllten Bedürfnisse oder alten Verletzungen schwingen in meinen Reaktionen mit?” Je besser du deine eigenen Eisberge kennst, desto leichter fällt es dir, auch die deiner lieben zu erkunden.
 - **Stell neugierige Fragen:**

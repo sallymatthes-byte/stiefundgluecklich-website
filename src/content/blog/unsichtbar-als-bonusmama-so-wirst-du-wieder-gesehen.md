@@ -34,7 +34,7 @@ Denn genau das ist der Knackpunkt: In vielen Patchwork-Familien wird die Paarbez
 
 Es gibt drei unbewusste Dynamiken, die dazu führen, dass du dich in deiner Beziehung unsichtbar fühlst:
 
-1️⃣ Der "Elternmodus" übernimmt allesSobald die Kinder da sind, schaltet dein Partner um: sein Fokus liegt automatisch auf ihnen - er Merkt oft nicht einmal, dass er dich Ausblendet. Das Passiert nicht aus Böser Absicht, sondern weil sein Kopf auf "elternaufgaben" Programmiert ist.
+1️⃣ Der "Elternmodus" übernimmt allesSobald die Kinder da sind, schaltet dein Partner um: sein Fokus liegt automatisch auf ihnen - er merkt oft nicht einmal, dass er dich ausblendet. Das passiert nicht aus böser Absicht, sondern weil sein Kopf auf "Elternaufgaben" programmiert ist.
 
 2️⃣ Alte Muster aus der Ex-Beziehung leben weiterViele Eltern rutschen automatisch in Verhaltensweisen aus ihrer vorherigen Familie. Dein Partner übernimmt genau die Rolle, die er schon früher hatte - Egal, ob das Bedeutet, dass er alles Alleine Regelt oder dich plötzlich in eine "ersatz-mutter"-position Drängt.
 
@@ -48,7 +48,7 @@ Ein Grund ist, dass du dich vielleicht fragst, ob du überhaupt das [Recht](/blo
 
 Dazu kommt oft eine tiefe Unsicherheit: Was, wenn mein Partner mich nicht versteht? Was, wenn er meine Gefühle abtut und sagt: "Aber es sind doch meine Kinder, das musst du akzeptieren." Diese Angst vor Ablehnung oder Unverständnis hält viele Bonusmamas davon ab, ihr Bedürfnis nach Zweisamkeit offen zu kommunizieren.
 
-Hinzu kommt, dass die Dynamik oft unbewusst festgefahren ist. Dein Partner ist sich möglicherweise nicht einmal bewusst, dass du dich zurückgesetzt fühlst - denn für ihn Läuft alles "ganz Normal". Das Bedeutet, dass du nicht nur deine Eigenen Zweifel Überwinden musst, sondern auch eine Ungesunde Beziehungsroutine Durchbrechen darfst.
+Hinzu kommt, dass die Dynamik oft unbewusst festgefahren ist. Dein Partner ist sich möglicherweise nicht einmal bewusst, dass du dich zurückgesetzt fühlst - denn für ihn Läuft alles "ganz Normal". Das Bedeutet, dass du nicht nur deine eigenen Zweifel Überwinden musst, sondern auch eine Ungesunde Beziehungsroutine Durchbrechen darfst.
 
 Doch genau hier liegt deine Chance: Du kannst diese Dynamik verändern - ohne Schuldgefühle, ohne Konflikte, sondern mit Klarheit und Strategie.
 
@@ -98,7 +98,7 @@ Wenn du dich ausgeschlossen fühlst, weil dein Partner nur auf die Kinder fokuss
 
 > Beispiel: statt nur daneben zu sitzen, wenn dein Partner mit den Kindern spielt, frag aktiv nach, wie du einbezogen werden kannst. Manchmal hilft es schon, bewusst mitzulachen oder sich an einem gemeinsamen Spiel zu beteiligen.
 
-Wichtig: Der Wandel beginnt mit kleinen Schritten. Erwarte keine sofortige Veränderung - Aber Bleib Dran!
+Wichtig: Der Wandel beginnt mit kleinen Schritten. Erwarte keine sofortige Veränderung - aber Bleib Dran!
 
 ### Schritt 3: Verbindende Kommunikation - Ohne Vorwürfe zur Lösung
 

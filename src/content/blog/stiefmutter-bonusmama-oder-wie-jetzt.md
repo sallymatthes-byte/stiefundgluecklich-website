@@ -8,7 +8,7 @@ metaTitle: "Stiefmutter, Bonusmama, Stiefmama: Was ist der Unterschied?"
 metaDescription: "Stiefmutter oder Bonusmama — was ist der Unterschied? Was bedeutet Stepmom, Bonusmutter, Bonustochter? Alle Begriffe erklärt."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
-imageAlt: "Stiefmutter, Bonusmama – Oder Wie Jetzt?"
+imageAlt: "Stiefmutter, Bonusmama – oder wie jetzt?"
 ---
 
 Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die**  Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
