@@ -83,4 +83,6 @@ Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zu
 - Tieferer emotionaler Verbindung trotz Familienalltag?
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
 
+Dann fang mit einem kleinen Schritt an: Plant euch diese Woche einen Abend nur für euch zwei. Kein Familienprogramm, keine To-Do-Liste – nur ihr.
+
 

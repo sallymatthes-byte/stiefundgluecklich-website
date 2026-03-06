@@ -61,4 +61,4 @@ Denkt daran, dass ein Visionboard nicht statisch ist. Es kann sich im Laufe der 
 Durch das Erstellen eines Visionboards können Ziele und Träume visualisiert und in den Alltag integriert werden. Konkrete Fragen helfen bei der Gestaltung des Visionboards. Ein Visionboard ist nicht statisch und darf regelmäßig überprüft und angepasst werden.
 Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die gemeinsame Vision zu manifestieren und Hindernisse zu überwinden. Das Visionboard dient somit als Begleiter auf dem Weg zu einer harmonischen und liebevollen Beziehung und Patchworkfamilie.
 
-Habt ihr ein gemeinsames Visionboard?
+Probiert es aus – ihr braucht nicht mehr als einen freien Nachmittag, ein paar Zeitschriften und die Bereitschaft, gemeinsam zu träumen.

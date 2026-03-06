@@ -88,4 +88,4 @@ Es geht darum, sich aktiv einzubringen und Verantwortung zu übernehmen, währen
 Die Kommunikation und das gemeinsame Treffen von Entscheidungen sind dabei von großer Bedeutung. Es ist wichtig, den Prozess behutsam anzugehen und sich Zeit für die Entwicklung einer starken Bindung zu nehmen.
 Grenzen setzen und die Balance zwischen biologischem Elternteil und Bonuseltern zu finden, kann eine Herausforderung sein. Mit offener Kommunikation und gegenseitiger Unterstützung ist es möglich, eine harmonische Patchworkfamilie aufzubauen. Es gibt Höhen und Tiefen, aber letztendlich geht es darum, den Bonuskindern ein liebevolles und stabiles Umfeld zu bieten und gemeinsam zu wachsen.
 
-Wie viel Verantwortung liegt bei dir?
+Erlaube dir, die Verantwortung zu teilen – du musst das nicht alleine tragen.

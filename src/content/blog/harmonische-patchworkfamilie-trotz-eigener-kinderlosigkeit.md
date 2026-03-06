@@ -62,4 +62,4 @@ Wenn man selbst nie eigene Kinder wollte und plötzlich Bonuskinder da sind, fü
 Und dies zu akzeptieren, bedarf viel*Geduld und Zeit*.
 Zusammenfassend geht es darum, sich selbst zu reflektieren, offen mit dem Partner zu kommunizieren und die Kinder als Teil unseres Lebens zu akzeptieren. Indem wir diese Schritte gehen, können wir eine harmonische Beziehung in der Patchworkfamilie aufbauen und ein erfülltes und liebevolles Miteinander erreichen.
 
-Wie geht es dir mit deinem eigenen Kinderwunsch und den Bonuskindern?
+Du darfst beides fühlen – die Freude über die Bonuskinder und die Trauer um den eigenen Kinderwunsch. Beides ist erlaubt.

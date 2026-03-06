@@ -132,4 +132,4 @@ Und genau dafür bin ich da.
 
 …weil du denkst: „Ich will kein Drama machen.“Oder: „Ich will dem Kind nichts wegnehmen.“
 
-Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen?was, wenn dein Platz nicht auf Kosten Anderer Entsteht – sondern für das Ganze System Gut ist?
+Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht – sondern für das ganze System gut ist?
