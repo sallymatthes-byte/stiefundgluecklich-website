@@ -66,7 +66,7 @@ Mein persönlicher Wendepunkt kam, als meine Stieftochter zu mir sagte: *„Waru
 
 ## Die Bonusmama-Formel: In 3 Schritten raus aus dem Mikromanagement
 
-Du willst dein Kontrollverhalten ändern? Hier ist meine einfache Formel:** Verständnis, Veränderung, Kommunikation.**
+Du willst dein Kontrollverhalten ändern? Hier ist meine einfache Formel:** Verständnis, Veränderung, Kommunikation.
 ### Schritt 1: Verständnis – Erkenne, was hinter deinem Kontrollzwang steckt
 
 Nimm dir Zeit für eine ehrliche Selbstreflexion. Frag dich: Warum habe ich das Bedürfnis, alles zu managen? Schreibe deine Gedanken auf und werde dir bewusst, welche Ängste oder Erwartungen dahinterstecken.

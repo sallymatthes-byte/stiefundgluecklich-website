@@ -11,8 +11,7 @@ image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchwor
 imageAlt: "Die Rolle als Bonusmama"
 ---
 
-Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in Thailand kennen. Die Sprachbarriere – er sprach nur Französisch, ich hatte mein eingestaubtes Schulfranzösisch – hielt uns nicht davon ab, uns ineinander zu verlieben. Zwei Monate später zog er zu mir nach München. Was ich da noch nicht ahnte: **Diese Entscheidung würde nicht nur mein Liebesleben, sondern meine gesamte Identität auf den Kopf stellen.**
-
+Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in Thailand kennen. Die Sprachbarriere – er sprach nur Französisch, ich hatte mein eingestaubtes Schulfranzösisch – hielt uns nicht davon ab, uns ineinander zu verlieben. Zwei Monate später zog er zu mir nach München. Was ich da noch nicht ahnte: **Diese Entscheidung würde nicht nur mein Liebesleben, sondern meine gesamte Identität auf den Kopf stellen.
 Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das so leicht klingt und doch eine völlig neue Welt bedeutete. Die sprachliche Barriere war dabei noch die kleinste Herausforderung. Viel schwieriger waren die Fragen, die sich in meinem Kopf überschlugen: Wer war ich für diese Kinder? Welche Rolle sollte ich einnehmen? Wie nah durfte ich ihnen kommen?
 
 ## Die ersten Schritte in der [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/)
@@ -39,8 +38,7 @@ Besonders schmerzhaft waren die Momente, in denen meine hohen Erwartungen an mic
 
 Besonders deutlich wurde dies bei den Übergaben der Kinder. Wenn sie von ihrer Mama kamen, sprudelten die Geschichten nur so aus ihnen heraus – von den tollen Ausflügen, den gemeinsamen Erlebnissen, der schönen Zeit. In solchen Momenten kämpfte ich mit widersprüchlichen Gefühlen: Einerseits freute ich mich für die Kinder, dass sie eine so liebevolle Beziehung zu ihrer Mutter hatten. Andererseits nagte die Unsicherheit an mir: Würde ich jemals einen ähnlich wichtigen Platz in ihrem Leben einnehmen können? Oder würde ich immer nur die "Neue" bleiben?
 
-Die Angst, Fehler zu machen, wurde zu meinem ständigen Begleiter. Jede Entscheidung, jeder Kommentar, jede Geste schien mit einem unsichtbaren Gewicht beladen. War ich zu streng? Oder nicht konsequent genug? Setzte ich zu viele Grenzen? Oder zu wenige? Das ständige Abwägen zwischen verschiedenen Rollen – Freundin, Autoritätsperson, Vertrauensperson – zehrte an meinen Kräften.** Manchmal wünschte ich mir nichts sehnlicher, als einen klaren Leitfaden zu haben, eine Art Gebrauchsanweisung für die perfekte Bonusmama.**
-
+Die Angst, Fehler zu machen, wurde zu meinem ständigen Begleiter. Jede Entscheidung, jeder Kommentar, jede Geste schien mit einem unsichtbaren Gewicht beladen. War ich zu streng? Oder nicht konsequent genug? Setzte ich zu viele Grenzen? Oder zu wenige? Das ständige Abwägen zwischen verschiedenen Rollen – Freundin, Autoritätsperson, Vertrauensperson – zehrte an meinen Kräften.** Manchmal wünschte ich mir nichts sehnlicher, als einen klaren Leitfaden zu haben, eine Art Gebrauchsanweisung für die perfekte Bonusmama.
 ## Der Wendepunkt: Deine Rolle als Bonusmama neu definieren
 
 Nach vielen Tränen und schlaflosen Nächten begann ich zu verstehen: Ich brauchte mehr als nur gute Vorsätze und pädagogisches Wissen. Was ich brauchte, war ein völlig neues Verständnis meiner Rolle – eines, das mit mir wachsen und sich entwickeln durfte.** *Die Erkenntnis traf mich wie ein Blitz: Ich hatte die ganze Zeit versucht, eine perfekte Version von etwas zu sein, das ich selbst noch gar nicht verstanden hatte.***
@@ -63,6 +61,5 @@ Kennst du diese Momente auch? Du liegst nachts wach und fragst dich:
 - "Mache ich alles falsch? Bin ich zu streng, zu locker, zu präsent, zu distanziert?"
 - "Wie schaffe ich es, allen gerecht zu werden – den Kindern, meinem Partner, mir selbst?"
 
-Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können.**
-
+Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können.
 Wenn du dich gerade zerrissen fühlst – verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle – dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg. Einen, der nicht durch Funktionieren führt, sondern durch Verbindung. Zu dir. Und zu deiner Familie.

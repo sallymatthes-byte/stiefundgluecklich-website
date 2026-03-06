@@ -32,16 +32,10 @@ Ganz schön viele Bedürfnisse, die es zu vereinen gilt.
 Es ist in solchen Momenten wichtig, diese Herausforderungen anzuerkennen und offen darüber zu kommunizieren. Denn nur so könnt ihr als Patchworkfamilie eine gemeinsame Basis finden und Weihnachten zu einem harmonischen Fest machen.
 Sprecht offen miteinander und findet Kompromisse, um allen Familienmitgliedern gerecht zu werden. Denn letztendlich geht es darum, eine gemeinsame Basis zu finden und eine harmonische Atmosphäre zu schaffen, in der sich jeder geliebt und wertgeschätzt fühlt.
 
-Eine weitere Herausforderung für Patchworkfamilien zu Weihnachten ist die**
+Eine weitere Herausforderung für Patchworkfamilien zu Weihnachten ist die **Integration** der verschiedenen Familienmitglieder. Vielleicht hast du Kinder aus einer früheren Beziehung und dein Partner hat ebenfalls Kinder mitgebracht. Es kann schwierig sein, eine Balance zu finden und jedem Kind das Gefühl zu geben, dazuzugehören und geliebt zu werden.
+Möglicherweise gibt es auch **Konflikte** zwischen den Kindern, die ihre eigene Dynamik mitbringen.
 
-Integration** der verschiedenen Familienmitglieder. Vielleicht hast du Kinder aus einer früheren Beziehung und dein Partner hat ebenfalls Kinder mitgebracht. Es kann schwierig sein, eine Balance zu finden und jedem Kind das Gefühl zu geben, dazuzugehören und geliebt zu werden.
-Möglicherweise gibt es auch**
-
-Konflikte** zwischen den Kindern, die ihre eigene Dynamik mitbringen.
-
-Und nicht zuletzt bleibt die Frage nach den**
-
-Geschenken:** Wer beschenkt wen? Wie viel geben wir aus? Werden alle Kinder gleich behandelt? Und wer beteiligt sich an welchen Kosten?
+Und nicht zuletzt bleibt die Frage nach den **Geschenken:** Wer beschenkt wen? Wie viel geben wir aus? Werden alle Kinder gleich behandelt? Und wer beteiligt sich an welchen Kosten?
 So viele Stolpersteine, die uns in der (Vor-) Weihnachtszeit erwarten.
 Und dabei wollen wir doch alle nur eins: harmonische Feiertage, ohne Streit und Konflikte.
 

@@ -63,8 +63,7 @@ Indem wir ihnen den Rücken stärken und offen über unsere eigenen Gefühle spr
 
 Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonischen und entspannten Tag für alle machen? Hier sind ein paar Tipps, wie du dich auf diesen besonderen Tag vorbereiten und Enttäuschungen vermeiden kannst:
 
-- **[Kommuniziere](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) offen mit deinem Partner und den Kindern über deine Wünsche und Erwartungen.** 
-
+- **[Kommuniziere](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) offen mit deinem Partner und den Kindern über deine Wünsche und Erwartungen.
 Mach deutlich, dass du den Tag gemeinsam verbringen möchtest, aber auch Verständnis dafür hast, wenn die Kinder Zeit mit ihrer leiblichen Mutter verbringen wollen.
 
 - **Plane gemeinsame Aktivitäten, die allen Spaß machen und euch als Familie verbinden.** Ein Picknick im Grünen, ein Ausflug in ein Museum oder ein Spielenachmittag zu Hause – Hauptsache, ihr verbringt Zeit miteinander und schafft schöne Erinnerungen.

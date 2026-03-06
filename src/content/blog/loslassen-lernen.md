@@ -62,9 +62,7 @@ auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inn
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 
-Pflege auch die**
-
-Dankbarkeit für das Gute in deinem leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
+Pflege auch die **Dankbarkeit für das Gute in deinem leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
 
 Nicht zuletzt geht es darum,**
 

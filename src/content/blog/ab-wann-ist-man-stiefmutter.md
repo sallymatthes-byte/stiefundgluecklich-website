@@ -97,9 +97,8 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 
 ## Dein Weg zur harmonischen Patchworkfamilie
 
-Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es sich an!" Oder du stehst am Anfang deiner Reise als Bonusmama und fragst dich bangend: "Wie soll ich das alles schaffen?"**
-
-Lass mich dir eines sagen: Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem Du ganz du selbst sein kannst.
+Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es sich an!" Oder du stehst am Anfang deiner Reise als Bonusmama und fragst dich bangend: "Wie soll ich das alles schaffen?"
+Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
 So wie für Christina und Maria:
 

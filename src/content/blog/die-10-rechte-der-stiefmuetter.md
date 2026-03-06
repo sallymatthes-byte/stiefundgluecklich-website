@@ -66,10 +66,10 @@ Natürlich geht es nicht darum, den Kindern deines Partners den Kontakt zu verwe
 
 ## #6 “Ich bin nicht allein für den Haushalt verantwortlich; die Aufgaben werden fair verteilt.”
 
-Stiefmütter übernehmen oft mehr Hausarbeit als nötig, besonders wenn sie versuchen, sich in die Familie einzubringen und ihre Rolle zu finden. **Doch schnell kann daraus eine ungesunde Dynamik entstehen.**
+Stiefmütter übernehmen oft mehr Hausarbeit als nötig, besonders wenn sie versuchen, sich in die Familie einzubringen und ihre Rolle zu finden. **Doch schnell kann daraus eine ungesunde Dynamik entstehen.
 *Deshalb ist es so wichtig, von Anfang an klare Absprachen über die Verteilung der Hausarbeit zu treffen.* Jedes Familienmitglied sollte entsprechend seinem Alter und seinen Fähigkeiten eingebunden werden.
 
-Es geht nicht darum, penibel jede Minute aufzurechnen, sondern Hand in Hand zu arbeiten und sich gegenseitig zu unterstützen. **Wenn die Aufgaben gerecht verteilt sind, bleibt dir auch genug Zeit und Energie, um dich selbst und deine Partnerschaft zu pflegen.**
+Es geht nicht darum, penibel jede Minute aufzurechnen, sondern Hand in Hand zu arbeiten und sich gegenseitig zu unterstützen. **Wenn die Aufgaben gerecht verteilt sind, bleibt dir auch genug Zeit und Energie, um dich selbst und deine Partnerschaft zu pflegen.
 ****## #7 “Ich werde in alle finanziellen Angelegenheiten der Familie einbezogen.”
 
 In einer Patchworkfamilie können Finanzen schnell zu einem heiklen Thema werden.** Studien zeigen, dass Uneinigkeit über Finanzen eine der Hauptursachen für Konflikte in Patchworkfamilien ist** (Ganong & Coleman, 2017).

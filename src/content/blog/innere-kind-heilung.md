@@ -36,16 +36,11 @@ Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die
 
 Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du einen sicheren Raum für deine innere Heilung. Du gibst deinem verletzten inneren Kind die Erlaubnis, gesehen und gehört zu werden – vielleicht zum Ersten mal. Dieser Prozess der **selbstannahme**ist nicht immer einfach, aber er ist Unglaublich wichtig für dein Seelisches Gleichgewicht. Erinnere dich daran, dass jede Emotion ihre Berechtigung hat und dass du Stark genug Bist, sie zu fühlen und zu Transformieren. Mit jedem mal, wenn du deine Triggerpunkte bewusst Wahrnimmst und deine Gefühle Annimmst, kommst du deiner Inneren Balance ein Stückchen Näher.
 
->**
-
-Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist**.
-– Carl Rogers
+> „Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist." – Carl Rogers
 
 ## Den Weg zu innerem Frieden finden
 
-Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste**
-
-Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu verändern. Stelle dir Fragen wie:
+Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch **bewusste Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
 - Welche Glaubenssätze oder Überzeugungen stecken hinter meinen Reaktionen?

@@ -30,8 +30,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 
 ## Die tieferen Ursachen der Eifersucht verstehen
 
-Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. **
-
+Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat.
 Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.** Vielleicht spürst du:
 
 - Die Angst, nie ganz "dazuzugehören" in dieser Familie, die schon vor dir existierte

@@ -85,14 +85,9 @@ Lass die Kinder in die Rolle von Aufräum-Robotern schlüpfen. Sie dürfen pieps
 
 Ältere Kinder und Jugendliche (11+ Jahre):
 
-- *** Aufgabenliste*: **Erstelle gemeinsam mit den Kindern eine Aufgabenliste für die Woche. Sie können abhaken, was sie erledigt haben und kleine Belohnungen verdienen.
-- ***
-
-Aufräum-Challenge:***Starte eine Challenge, bei der die Kinder jeden Tag eine bestimmte Anzahl von Dingen aufräumen müssen. Wer durchhält, bekommt eine Belohnung.
-
-- ***
-
-Gemeinsames Aufräumen:*** Mache das Aufräumen zu einer gemeinsamen Aktivität. Legt einen Aufräum-Tag fest, an dem ihr zusammen die Wohnung auf Vordermann bringt und danach etwas Schönes unternehmt.
+- **Aufgabenliste:** Erstelle gemeinsam mit den Kindern eine Aufgabenliste für die Woche. Sie können abhaken, was sie erledigt haben und kleine Belohnungen verdienen.
+- **Aufräum-Challenge:** Starte eine Challenge, bei der die Kinder jeden Tag eine bestimmte Anzahl von Dingen aufräumen müssen. Wer durchhält, bekommt eine Belohnung.
+- **Gemeinsames Aufräumen:** Mache das Aufräumen zu einer gemeinsamen Aktivität. Legt einen Aufräum-Tag fest, an dem ihr zusammen die Wohnung auf Vordermann bringt und danach etwas Schönes unternehmt.
 
 *Wichtig ist, dass du die Methoden an die individuellen Vorlieben und Fähigkeiten deiner Bonuskinder anpasst.* Experimentiere mit verschiedenen Ansätzen und finde heraus, was für eure Familie am besten funktioniert. Mit Spaß und Fantasie wird das Aufräumen zu einer positiven Erfahrung für alle Beteiligten.
 
