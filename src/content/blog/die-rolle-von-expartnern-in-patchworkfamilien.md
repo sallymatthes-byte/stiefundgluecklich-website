@@ -15,6 +15,12 @@ Wir alle kennen es: es gibt in Patchworkfamilien nicht nur uns und unseren Partn
 
 Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ## Die 5 Herausforderungen im Überblick
 
 **1. Insider und Outsider:** Die Positionen im Paar sind oft festgefahren und intensiv. Der neue Partner fühlt sich oft [ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden. Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
@@ -82,12 +88,6 @@ Beim Parallel Parenting geht es darum:
 - Es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das ist eine Menge
 
 Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein Leben lang dankbar sein werden.
-
----
-
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ## Zusammenfassung
 
