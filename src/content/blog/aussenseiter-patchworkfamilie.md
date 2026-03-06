@@ -45,7 +45,7 @@ Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen H
 
 Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es ist wichtig zu verstehen, dass deine Rolle am Anfang anders ist als die des leiblichen Elternteils. Du musst dir das Vertrauen der Kinder erst Schritt für Schritt erarbeiten, während dein Partner lernen muss, dich mehr einzubeziehen, ohne seine Kinder zu vernachlässigen.
 
-> „Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite.“ – Martin Reisenberg
+> Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite.“ – Martin Reisenberg
 
 ## Was kannst du dagegen tun?
 
@@ -60,7 +60,7 @@ Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es
 
 So fühlt sich jeder gesehen und wertgeschätzt.
 
-- **Gut kommunizieren:** Starke Paare schaffen es, offen und konstruktiv über ihre Gefühle zu sprechen, anstatt sich gegenseitig Vorwürfe zu machen oder sich zurückzuziehen. Wenn Sabine sagt: "wenn deine Kinder da sind, fühle ich mich unsichtbar", könnte Kevin *tief durchatmen, sie in den Arm nehmen und sagen: "das ist nicht leicht zu hören, aber ich verstehe, dass es schwierig für dich ist. Erzähl mir mehr."* So signalisiert er Verständnis und Interesse, anstatt in die Defensive zu gehen.
+- **Gut kommunizieren:** Starke Paare schaffen es, offen und konstruktiv über ihre Gefühle zu sprechen, anstatt sich gegenseitig Vorwürfe zu machen oder sich zurückzuziehen. Wenn Sabine sagt: wenn deine Kinder da sind, fühle ich mich unsichtbar", könnte Kevin *tief durchatmen, sie in den Arm nehmen und sagen: "das ist nicht leicht zu hören, aber ich verstehe, dass es schwierig für dich ist. Erzähl mir mehr."* So signalisiert er Verständnis und Interesse, anstatt in die Defensive zu gehen.
 
 Mit **Einfühlungsvermögen, Geduld und dem Willen, aufeinander zuzugehen**, können Kevin und Sabine die Herausforderung meistern.
 

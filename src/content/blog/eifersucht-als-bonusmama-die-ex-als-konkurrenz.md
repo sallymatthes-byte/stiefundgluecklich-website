@@ -34,7 +34,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 - Die Sehnsucht nach einer eigenen, unbelasteten Geschichte mit deinem Partner
 - Die Unsicherheit, ob deine Liebe „ausreicht", um die Schatten der Vergangenheit zu überstrahlen
 
-> „Eifersucht ist wie ein Kompass — sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen."
+> Eifersucht ist wie ein Kompass — sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen.
 
 ![Sonnenlicht durchbricht Bäume auf einem Waldweg — Hoffnung und Veränderung](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
 

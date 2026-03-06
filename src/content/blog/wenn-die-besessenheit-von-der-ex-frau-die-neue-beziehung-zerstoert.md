@@ -46,7 +46,7 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 - Unterschiedliche Vorstellungen von Familienleben und Erziehung
 
 
-> „Leid ist Schmerz, an dem wir festhalten." – Deepak Chopra
+> Leid ist Schmerz, an dem wir festhalten. – Deepak Chopra
 
 
 ![Frau sitzt nachdenklich am Fenster und blickt in den Wald — innerer Konflikt durch die Ex-Partnerin](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-2.jpg)
@@ -63,7 +63,7 @@ Der [erste und wichtigste Schritt](/blog/das-3-schritte-framework/) ist, dir üb
 Diese Fragen können wehtun, denn sie zwingen uns, genau hinzuschauen. Aber sie sind der Schlüssel zur Veränderung. Denn nur wenn du weißt, wo du stehst und was du willst, kannst du die nächsten Schritte gehen.
 
 
-> „Klarheit ist der erste Schritt zur Veränderung. Erst wenn wir verstehen, wo wir stehen, können wir entscheiden, wohin wir gehen wollen."
+> Klarheit ist der erste Schritt zur Veränderung. Erst wenn wir verstehen, wo wir stehen, können wir entscheiden, wohin wir gehen wollen.
 
 ## Die 3 Schlüssel zur Transformation
 

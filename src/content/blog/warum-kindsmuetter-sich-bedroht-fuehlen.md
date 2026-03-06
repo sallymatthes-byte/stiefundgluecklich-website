@@ -30,7 +30,7 @@ Indem du dir die Zeit nimmst, die Perspektive der Kindsmutter einzunehmen und ih
 
 Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht darum, gemeinsam eine liebevolle Umgebung für das Kind zu schaffen, in der es sich frei entfalten kann.
 
-> „Run your own race." – Tom Tellez
+> Run your own race. – Tom Tellez
 
 ![Warum Kindsmütter sich bedroht fühlen können – Und Was Bonusmamas Tun Können — Stimmungsbild 1](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
 

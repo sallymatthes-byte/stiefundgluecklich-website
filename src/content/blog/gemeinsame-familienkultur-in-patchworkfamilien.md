@@ -48,7 +48,7 @@ Hinzu kommt: In einer Kernfamilie haben Eltern die Autorität, Regeln aufzustell
 
 *All diese Faktoren machen es für Patchworkfamilien schwieriger, eine gemeinsame Kultur zu entwickeln.* Umso wichtiger ist es, sich dieser Herausforderung bewusst zu stellen und sie als Chance zu begreifen. Denn wenn es gelingt, die Unterschiede zu respektieren und Gemeinsamkeiten zu finden, kann etwas völlig neues und Bereicherndes entstehen.
 
-> „Kultur war immer etwas, das nur wenige Leute verstanden.“ – Vivienne Westwood
+> Kultur war immer etwas, das nur wenige Leute verstanden.“ – Vivienne Westwood
 
 ## Respektvoller Umgang statt Rechthaberei
 
@@ -82,7 +82,7 @@ Kevin und seine Kinder lieben es zu campen und bei Autofahrten 90er-Jahre-Hits z
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 
 ---

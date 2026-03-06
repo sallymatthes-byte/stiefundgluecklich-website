@@ -44,7 +44,7 @@ Der **Loyalitätskonflikt**– das Gefühl, Mama oder Papa zu verraten, wenn man
 
 Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit, um sich an die neue Situation anzupassen. *Gerade Teenager wie Emma, Kinder mit tieferen Loyalitätskonflikten und Kinder, die bereits andere Verluste erlebt haben, benötigen ein langsameres Tempo, viel Eins-zu-eins-Zeit mit Mama oder Papa und weniger Aktivitäten mit der ganzen Patchworkfamilie.*
 
-> „Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter.“ — Unbekannt
+> Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter.“ — Unbekannt
 
 ## Das Leben in der Schneekugel
 
@@ -82,7 +82,7 @@ Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren 
 
 ---
 
-🎙 **Passend dazu:**Hör dir die Podcastfolge „Loyalitätskonflikte — wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:**Hör dir die Podcastfolge „Loyalitätskonflikte — wenn Bonuskinder zwischen den Stühlen sitzen an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 
 ---

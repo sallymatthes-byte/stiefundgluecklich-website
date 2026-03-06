@@ -32,7 +32,7 @@ Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durc
 
 Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du einen sicheren Raum für deine innere Heilung. Du gibst deinem verletzten inneren Kind die Erlaubnis, gesehen und gehört zu werden – vielleicht zum ersten mal. Dieser Prozess der **selbstannahme** ist nicht immer einfach, aber er ist unglaublich wichtig für dein Seelisches Gleichgewicht. Erinnere dich daran, dass jede Emotion ihre Berechtigung hat und dass du stark genug bist, sie zu fühlen und zu transformieren. Mit jedem mal, wenn du deine Triggerpunkte bewusst Wahrnimmst und deine Gefühle Annimmst, kommst du deiner Inneren Balance ein Stückchen näher.
 
-> „Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist." – Carl Rogers
+> Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist. – Carl Rogers
 
 ## Den Weg zu innerem Frieden finden
 

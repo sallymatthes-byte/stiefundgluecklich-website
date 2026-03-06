@@ -13,7 +13,7 @@ podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein — jenseits von Definitionen und Märchen."
 ---
 
-> „Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) wagte.
+> Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) wagte.
 
 Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Partner in Tränen ausbrach. Die Angst, nicht gut genug zu sein, die Sorge, von den Kindern abgelehnt zu werden, und die Unsicherheit über meine neue Rolle — all das überwältigte mich in diesem Moment. **Heute weiß ich: Eine Stiefmutter zu sein bedeutet so viel mehr als nur die neue Partnerin des Vaters zu sein.** Es ist eine Reise zu dir selbst, eine Herausforderung, die dich wachsen lässt, und eine Chance, Teil von etwas ganz Besonderem zu werden.
 
@@ -21,7 +21,7 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ## Was eine Stiefmutter wirklich ist — mehr als nur ein Märchen
 
-Ja, der Begriff „Stiefmutter" löst auch heute noch oft Unbehagen aus.
+Ja, der Begriff „Stiefmutter löst auch heute noch oft Unbehagen aus.
 
 Ich erinnere mich noch genau an den Moment, an dem ich mich das erste Mal so vorstellte. Es wurde kurz still im Raum. Eine andere Mutter flüsterte ihrer Nachbarin etwas zu, und ich spürte sofort diese unsichtbare Mauer, die sich aufbaute. **Der Begriff „Stiefmutter" trägt eine schwere Last aus Jahrhunderten von Märchen und gesellschaftlichen Vorurteilen.** Dabei sagt die offizielle Definition nur nüchtern: Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann eingeht, der bereits Kinder aus einer früheren Beziehung hat.
 
@@ -43,7 +43,7 @@ Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich 
 
 In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen Erfahrungen würden mir nur bedingt helfen.
 
-> „Nur wer sein Ziel kennt, findet den Weg.“ – Laozi
+> Nur wer sein Ziel kennt, findet den Weg.“ – Laozi
 
 ---
 
@@ -63,7 +63,7 @@ Diese Klarheit war der erste wichtige Schritt.
 
 Der Alltag als Bonusmama brachte seine ganz eigenen Herausforderungen mit sich. Oft fühlte es sich an, als würde ich in ein Minenfeld aus Emotionen und unausgesprochenen Erwartungen treten.
 
-Da war zum Beispiel dieser Abend, als die Kleine beim Essen plötzlich verkündete: „Aber Mama macht das anders!" Ich hatte gerade stolz meine Version von Spaghetti Bolognese serviert. In diesem Moment fühlte ich mich, als hätte mir jemand den Boden unter den Füßen weggezogen. **Diese Momente taten weh. Aber sie wurden zu den wertvollsten Lernchancen auf meinem Weg:**
+Da war zum Beispiel dieser Abend, als die Kleine beim Essen plötzlich verkündete: „Aber Mama macht das anders! Ich hatte gerade stolz meine Version von Spaghetti Bolognese serviert. In diesem Moment fühlte ich mich, als hätte mir jemand den Boden unter den Füßen weggezogen. **Diese Momente taten weh. Aber sie wurden zu den wertvollsten Lernchancen auf meinem Weg:**
 
 **Aus Eifersucht wurde Verbundenheit.** Statt mich zurückzuziehen, fing ich an, interessiert nachzufragen: „Oh, wie macht Mama das denn? Das klingt spannend!" Und plötzlich öffneten sich Türen für echte Gespräche. Die Kinder merkten: Bei mir müssen sie ihre Mama nicht verleugnen.
 
@@ -81,7 +81,7 @@ Die wichtigste Erkenntnis auf meinem Weg war: **Offene Kommunikation ist nicht n
 
 Anfangs war es holprig. Die Kleine saß mit verschränkten Armen da, die Große spielte lieber mit den Legosteinen. Aber mit der Zeit merkten alle: Hier werden wir ernst genommen, hier dürfen wir sein, wie wir sind.
 
-> „Sally, ich mag dich. Nicht wie Mama, aber anders.“ – Dieser Satz meiner Bonustochter bedeutete mir mehr als jedes „Ich hab dich lieb“. Er zeigte: Wir hatten einen Weg gefunden, authentisch miteinander umzugehen.
+> Sally, ich mag dich. Nicht wie Mama, aber anders.“ – Dieser Satz meiner Bonustochter bedeutete mir mehr als jedes „Ich hab dich lieb“. Er zeigte: Wir hatten einen Weg gefunden, authentisch miteinander umzugehen.
 
 Unsere Kommunikationsregeln entwickelten sich organisch:
 
@@ -101,7 +101,7 @@ Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat
 ## Häufige Fragen
 
 ### Was ist eine Stiefmutter?
-Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann führt, der bereits Kinder aus einer früheren Beziehung hat. Der Begriff stammt aus dem Althochdeutschen und bedeutet ursprünglich „verwaist" — nicht „böse", wie viele denken. Heute verwenden viele Frauen lieber den Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
+Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann führt, der bereits Kinder aus einer früheren Beziehung hat. Der Begriff stammt aus dem Althochdeutschen und bedeutet ursprünglich „verwaist — nicht „böse", wie viele denken. Heute verwenden viele Frauen lieber den Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
 
 ### Ab wann ist man Stiefmutter?
 Rechtlich gibt es keinen festen Zeitpunkt. In der Praxis wirst du zur Stiefmutter, sobald du eine feste Beziehung mit einem Vater eingehst und regelmäßig Kontakt zu seinen Kindern hast — ob ihr zusammenwohnt oder nicht. Die Rolle entwickelt sich schrittweise.

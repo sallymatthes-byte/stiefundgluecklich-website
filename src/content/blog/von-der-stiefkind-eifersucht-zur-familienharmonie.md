@@ -43,7 +43,7 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 
 ## Der Traum von einer harmonischen Patchworkfamilie
 
-> „Eifersucht ist Liebesneid" – Wilhelm Busch
+> Eifersucht ist Liebesneid – Wilhelm Busch
 
 ## Die unsichtbaren Mauern der Eifersucht
 

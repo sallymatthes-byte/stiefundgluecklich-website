@@ -37,7 +37,7 @@ Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und
 
 Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, gehört zu werden.* Je klarer und selbstbewusster du kommunizierst, desto leichter fällt es den anderen, dich als eigenständige und wertvolle Bonusmama wahrzunehmen. Du musst dich nicht kleinmachen oder verstecken - trete mit stolz und Klarheit für dich ein!
 
-> „Ein gefällter Baum wirft keinen Schatten.“ – Unbekannt
+> Ein gefällter Baum wirft keinen Schatten.“ – Unbekannt
 
 ![Aus dem Schatten der Kindsmutter treten — Stimmungsbild 2](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
 
@@ -74,7 +74,7 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge "So überwindest du den Ex-Frau-Konflikt als Bonusmama" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge So überwindest du den Ex-Frau-Konflikt als Bonusmama" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
