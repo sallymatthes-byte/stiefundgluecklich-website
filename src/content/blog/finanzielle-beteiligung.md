@@ -14,7 +14,11 @@ Als Bonusmama ist man oft mit der Frage konfrontiert, wie man mit den Finanzen i
 
 All dies betrachten wir heute einmal genauer und ich teile mit dir meine Erfahrungen.
 
-![Patchworkfamilie bespricht gemeinsam die Finanzen am Esstisch](/images/blog/finanzielle-beteiligung-1.jpg)
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
 
 ## Finanzielle Beteiligung als Bonusmama
 
@@ -83,12 +87,6 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 Auch für die [Beziehung](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 
 Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun. Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
-
----
-
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ## Zusammenfassung
 
