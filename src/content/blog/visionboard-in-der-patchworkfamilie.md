@@ -23,13 +23,13 @@ Indem wir uns gemeinsam Zeit nehmen, um unsere Vision für unsere Beziehung und 
 
 Ein Beispiel dafür ist das Bild auf unserem Visionboard, welches eine Familie bei einem Barbecue im Sonnenuntergang zeigt. Dies symbolisiert für uns Freiheit, Harmonie, Freude und Leichtigkeit. Es ist unser Ziel, einen Ort zu schaffen, an dem sich unsere Kinder wohlfühlen, Freund_innen gerne zu Besuch kommen und unsere Familie sich zu Hause fühlt.
 
-Auch haben wir über unsere Finanzen gesprochen und uns überlegt, was wir uns in einigen Jahren leisten möchten. Dies gibt uns Kraft und Zuversicht und hilft uns, den Fokus auf unsere Sparziele zu halten und darauf hinzuarbeiten.
+Auch haben wir über unsere [Finanzen](/blog/finanzielle-beteiligung/) gesprochen und uns überlegt, was wir uns in einigen Jahren leisten möchten. Dies gibt uns Kraft und Zuversicht und hilft uns, den Fokus auf unsere Sparziele zu halten und darauf hinzuarbeiten.
 
-Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und unsere Beziehung auf ein neues Level gehoben. Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
+Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und [unsere Beziehung auf ein neues Level gehoben](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/). Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
 
-> The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt
+> „The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
 
-![Gemeinsam träumen — Stimmungsbild 1](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
+![Familie beim Brainstorming mit Visionboard](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
 
 ## So erstellt ihr ein Visionboard für die Patchworkfamilie
 
@@ -43,7 +43,7 @@ Hier sind einige Fragen, die euch helfen können, euer Visionboard zu gestalten:
 6. Wie soll euer gemeinsames Zuhause aussehen? Welche Gestaltungsideen habt ihr für euren Wohnraum, um eine harmonische Atmosphäre zu schaffen?
 7. Welche Pläne habt ihr bezüglich weiterer Kinder oder der Integration der vorhandenen Kinder in eure Patchworkfamilie? Wie könnt ihr eine liebevolle und unterstützende Umgebung für alle schaffen?
 
-![Gemeinsam träumen — Stimmungsbild 2](/images/blog/visionboard-in-der-patchworkfamilie-3.jpg)
+![Gemeinsames Gestalten eines Visionboards mit Zeitschriften und Bildern](/images/blog/visionboard-in-der-patchworkfamilie-3.jpg)
 
 8. Wie könnt ihr gemeinsam an eurer körperlichen und emotionalen Gesundheit arbeiten? Welche Aktivitäten und Routinen könnt ihr in euren Alltag integrieren, um euch gut zu fühlen?
 9. Welche gemeinsamen Hobbys oder Interessen könnt ihr entwickeln, um eure Freizeit miteinander zu genießen und eure Bindung zu stärken?
@@ -54,6 +54,6 @@ Indem ihr euch diese Fragen stellt und eure Antworten auf eurem Visionboard fest
 Denkt daran, dass ein Visionboard nicht statisch ist. Es kann sich im Laufe der Zeit verändern und entwickeln, ebenso wie eure Beziehung und eure Patchworkfamilie. Nehmt euch daher regelmäßig Zeit, um euer Visionboard zu überprüfen und anzupassen.
 
 ## Zusammenfassung
-Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die gemeinsame Vision zu manifestieren und Hindernisse zu überwinden. Das Visionboard dient somit als Begleiter auf dem Weg zu einer harmonischen und liebevollen Beziehung und Patchworkfamilie.
+Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die [gemeinsame Vision](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) zu manifestieren und Hindernisse zu überwinden. Durch gezielte Fragen zu Werten, Finanzen und Alltagsritualen entsteht ein greifbares Bild eurer Zukunft. Das Visionboard dient als täglicher Begleiter auf dem Weg zu einer harmonischen und liebevollen Patchworkfamilie. Es stärkt die Bindung als Paar und gibt euch in schwierigen Momenten Orientierung.
 
 Probiert es aus – ihr braucht nicht mehr als einen freien Nachmittag, ein paar Zeitschriften und die Bereitschaft, gemeinsam zu träumen.
