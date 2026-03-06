@@ -103,7 +103,7 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 ## Dein Weg zur harmonischen Patchworkfamilie
 Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist eine Stiefmutter?

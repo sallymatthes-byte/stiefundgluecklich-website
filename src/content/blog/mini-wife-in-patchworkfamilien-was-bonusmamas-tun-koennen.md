@@ -130,7 +130,7 @@ Du denkst vielleicht: „Ich will kein Drama machen.„ Oder: „Ich will dem Ki
 
 **Mach das [kostenlose Quiz](/quiz) und finde in 2 Minuten heraus, welcher nächste Schritt zu dir passt.**
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist das Mini-Wife-Syndrom?

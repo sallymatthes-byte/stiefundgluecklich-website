@@ -86,7 +86,7 @@ Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Si
 
 
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Warum gibt es in Patchworkfamilien so oft Konflikte wegen der Ex?

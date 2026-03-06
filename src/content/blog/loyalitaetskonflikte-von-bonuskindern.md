@@ -89,7 +89,7 @@ Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren 
 
 ## Zusammenfassung
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist ein Loyalitätskonflikt bei Bonuskindern?
