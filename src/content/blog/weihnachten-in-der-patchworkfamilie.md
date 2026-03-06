@@ -15,7 +15,7 @@ Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm.
 Die Kombination aus verschiedenen Familienmitgliedern, Traditionen und Bedürfnissen kann zu Spannungen führen.
 Genau aus diesem Grund haben wir uns dazu entschlossen Weihnachten getrennt zu verbringen – Stéphane in Frankreich mit seinen Kindern, ich bei meinen Eltern in Deutschland. Zu groß sind uns einfach die Herausforderungen: tausende Kilometern liegen zwischen den Familien, die sprachlichen Barrieren sind oft zu groß und am Ende ist niemand richtig zufrieden.
 
-In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc).
+In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel.
 
 
 ## Wo liegen die Stolpersteine?

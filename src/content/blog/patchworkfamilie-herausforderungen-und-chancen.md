@@ -17,7 +17,7 @@ Das Patchworkleben ist wie ein komplexes Puzzlespiel, bei dem wir verschiedene T
 
 In diesem Artikel möchte ich mit dir über die*Herausforderungen* einer Patchworkfamilie sprechen. Ich möchte dir*Tipps *geben, wie du ein harmonisches Patchworkleben gestalten kannst und wie du die Situation für dich selbst verbessern kannst. Denn letztendlich geht es darum, eine liebevolle und unterstützende Familie zu schaffen, in der sich alle Mitglieder wohlfühlen und gemeinsam wachsen können. Auch du als [Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/) (oder für mich der passendere Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)).
 
-Und wenn du dir lieber das Video zu den Herausforderungen als Bonusmama anschauen möchtest, dann klick einfach auf das Video.
+
 
 ## Herausforderungen einer Patchworkfamilie
 Die Kinder müssen sich jedes mal an eine neue Dynamik anpassen: andere Essenszeiten, andere Regeln, bei uns sogar eine andere Sprache. Dass dies allein für die Kinder eine enorme Anpassungsfähigkeit erfordert, ist mir als Pädagogin besonders klar und zeigt einfach, wie komplex dieses Thema ist.

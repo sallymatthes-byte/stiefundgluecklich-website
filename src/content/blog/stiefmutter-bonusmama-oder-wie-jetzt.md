@@ -12,7 +12,7 @@ imageAlt: "Frau denkt nachdenklich nach - Stiefmutter oder Bonusmama, welcher Be
 ---
 
 Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die** Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
-Und wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video:](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
+
 
 ## Die Entstehung des Begriffs
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab - Verhütung war damals bekanntermaßen noch etwas schwierig.
