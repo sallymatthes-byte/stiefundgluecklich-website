@@ -47,5 +47,5 @@ Frag dich ehrlich:
 
 **Deine Wünsche sind genauso berechtigt wie seine Ängste.** Wenn du dir ein gemeinsames Zuhause, eine Hochzeit oder ein Kind wünschst, dann ist das kein Luxus — das ist dein Lebensentwurf. Und du hast das Recht, ihn zu leben.
 
-Manchmal braucht es professionelle Unterstützung, um aus der Sackgasse herauszufinden. Eine [Paarberatung](/blog/paartherapie-in-der-patchworkfamilie/) kann ein geschützter Raum sein, in dem ihr beide eure Ängste und Wünsche offen ansprechen könnt — ohne Vorwürfe, mit Struktur.
+Manchmal braucht es professionelle Unterstützung, um aus der Sackgasse herauszufinden. Eine Paarberatung kann ein geschützter Raum sein, in dem ihr beide eure Ängste und Wünsche offen ansprechen könnt — ohne Vorwürfe, mit Struktur.
 
