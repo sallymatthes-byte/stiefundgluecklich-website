@@ -31,8 +31,6 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 
 *Die Zeit als Paar in unserer Patchworkfamilie schien wie ein Luxusgut geworden zu sein.* Wenn ich abends im Bett lag, häuften sich die Fragen in meinem Kopf: Würden wir irgendwann nur noch Eltern sein und das Paarsein vergessen? War es egoistisch, sich nach mehr Zweisamkeit zu sehnen, wenn die Kinder so selten bei uns waren? Diese Gedanken nagten an mir, während ich spürte, wie unsere Verbindung als Liebespaar immer dünner wurde.
 
-![Hoffnung und Verbundenheit in der Patchworkfamilie — Paar findet zueinander](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
-
 ## Der Wendepunkt: Als ich aufhörte zu warten
 
 Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche **Klarheit** zu gewinnen — nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was genau vermisste ich? Waren es wirklich die großen, romantischen Gesten, oder sehnte ich mich einfach nach diesen kleinen, intimen Momenten der Verbundenheit?
@@ -52,6 +50,8 @@ Der Weg dahin führte über drei entscheidende Schritte:
 - **Klarheit gewinnen** — Erst als ich wirklich verstand, was in mir vorging — die Sehnsucht nach Nähe, die Angst vor Entfremdung, das Bedürfnis nach exklusiver Aufmerksamkeit — konnte ich beginnen, aktiv an unserer Beziehung zu arbeiten.
 - **Inneren Wandel zulassen** — Mit diesem neuen Bewusstsein begann ich, meine Rolle anders zu sehen. Nicht als Entweder-oder (Partnerin oder Bonusmama), sondern als ein Sowohl-als-auch.
 - **Neue Kommunikationswege finden** — Der wichtigste Schritt war, diese Gefühle und Bedürfnisse mit meinem Partner zu teilen — nicht als Vorwurf, sondern als Einladung zur gemeinsamen Entwicklung.
+
+![Hoffnung und Verbundenheit in der Patchworkfamilie — Paar findet zueinander](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
 
 ## Dein Weg zu mehr Nähe und Verbundenheit
 
