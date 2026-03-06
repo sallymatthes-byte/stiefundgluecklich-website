@@ -9,7 +9,6 @@ metaDescription: "Ich bin nicht genug. Ich darf nicht... Welche Glaubenssätze d
 heroImage: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 image: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 imageAlt: "Glaubenssätze als Bonusmama überwinden"
-summary: "Glaubenssätze wie „ich bin nicht gut genug" begleiten viele Bonusmamas — oft ohne dass sie es merken. In diesem Artikel erfährst du, wie solche tief verankerten Überzeugungen entstehen und wie sie dein Leben in der Patchworkfamilie beeinflussen. Du bekommst konkrete Strategien, um limitierende Glaubenssätze zu erkennen, zu hinterfragen und durch stärkende Überzeugungen zu ersetzen."
 ---
 
 In Coachingsitzungen tauchen bei vielen [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) Glaubenssätze auf. Da fallen Sätze wie „ich bin nicht gut genug", „ich kann das nicht" oder „das tut man doch nicht." [Auch ich kenne sie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und hatte Glaubenssätze wie „ich darf nicht schwach sein" oder „ich muss für die Kinder zurückstecken." Solche Sätze hindern uns jedoch daran, glücklich und frei zu leben.
