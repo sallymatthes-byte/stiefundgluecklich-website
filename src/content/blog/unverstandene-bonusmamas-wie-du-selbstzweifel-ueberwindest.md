@@ -29,7 +29,7 @@ Lass uns diese Ursachen im Hinterkopf behalten, während wir uns auf deine Reise
 - 💎 noch etwas ist wichtig: *Hole dir die Unterstützung, die du brauchst*. Suche den Austausch mit anderen Bonusmamas, die deine Erfahrungen teilen. In Foren, Gruppen oder bei treffen findest du Verständnis und wertvolle Tipps. Nutze auch professionelle Hilfe, wenn du sie benötigst. Ein Coaching oder eine Beratung können dir helfen, konstruktive Wege im Umgang mit Unverständnis zu finden.
 - 💎 und nicht zuletzt: *Sei deine eigene Verbündete*. Hinterfrage kritisch, wenn andere deine [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) abwerten. Erinnere dich stattdessen daran, was du täglich leistest und wie wertvoll dein Beitrag ist. Je stabiler dein Selbstbild ist, desto weniger können dich unverständige Bemerkungen erschüttern.
 
-> „Kritisiere nicht was du nicht verstehen kannst.“ – Bob Dylan
+> Kritisiere nicht was du nicht verstehen kannst. – Bob Dylan
 
 ## Stärkung der inneren Resilienz und des Selbstbewusstseins
 

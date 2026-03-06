@@ -34,7 +34,7 @@ Das bedeutet auch, dass du deine *Erwartungen an dich selbst als Bonusmama* hi
 
 Indem du verstehst, warum traditionelle Familienvorstellungen in Patchwork-Konstellationen oft an ihre Grenzen stoßen, kannst du beginnen loszulassen. Du machst Raum für neue, passendere ideale, die eurer einzigartigen Familie gerecht werden.
 
-> „Das loslassen ist der Schlüssel zum Glück.“ – Unbekannt
+> Das loslassen ist der Schlüssel zum Glück. – Unbekannt
 
 ## Loslassen lernen
 

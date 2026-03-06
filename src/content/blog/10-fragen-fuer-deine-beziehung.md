@@ -34,7 +34,7 @@ Mir wurde klar, dass wir gemeinsame Visionen und Ziele brauchten, um als Patchwo
 
 Sie halfen uns, eine ehrliche Bestandsaufnahme zu machen, Veränderungen anzustoßen und besser miteinander zu kommunizieren. Doch der Weg dahin war nicht immer einfach. Es gab Herausforderungen, die wir überwinden mussten, um wirklich zueinander zu finden.
 
-> „Ein klarer Gedanke erspart tausend verworrene.“ – Andreas Tenzer
+> Ein klarer Gedanke erspart tausend verworrene. – Andreas Tenzer
 
 ## Nicht immer eitel Sonnenschein
 

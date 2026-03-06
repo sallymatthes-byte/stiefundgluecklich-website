@@ -35,7 +35,7 @@ Wie kannst du damit umgehen?
 Indem du diese Strategien anwendest, kannst du lernen, deine Selbstzweifel zu managen und dein Selbstwertgefühl zu stärken. ** Es ist ein fortlaufender Prozess**, aber mit Geduld und Selbstfürsorge wirst du feststellen, dass du weit mehr bewirken kannst, als du dir selbst zutraust.
 
 
-> "das Vergleichen ist das Ende des Glücks und der Anfang der Unzufriedenheit." - Søren Kierkegaard
+> das Vergleichen ist das Ende des Glücks und der Anfang der Unzufriedenheit. - Søren Kierkegaard
 
 ![Das Gefühl des Scheiterns als Bonusmama - Stimmungsbild 1](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-2.jpg)
 

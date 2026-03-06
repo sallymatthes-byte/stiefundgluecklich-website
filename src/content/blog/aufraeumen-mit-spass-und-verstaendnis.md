@@ -45,7 +45,7 @@ Veränderungen brauchen Zeit und Wiederholung. Bleib freundlich, aber bestimmt u
 
 Vergiss nicht: auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
-> „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus.“ – Aus China
+> Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus. – Aus China
 
 ## Kreative Methoden zum Aufräumen
 

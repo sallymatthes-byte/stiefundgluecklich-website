@@ -42,7 +42,7 @@ Jede Familie hat ihre eigenen Regeln und Routinen, und es kann schwierig sein, d
 Auch die räumliche Distanz zu den Kindern kann eine Herausforderung darstellen. Wenn die Kinder in einer anderen Stadt oder sogar einem anderen Land leben, müssen wir uns organisieren, um regelmäßige Besuche zu ermöglichen.
 Es erfordert Planung, Flexibilität und manchmal auch finanzielle Aufwendungen. Und dabei tauchen immer Zweifel auf: Reicht das? Ist es gut genug? Verpasse ich nicht zu viel? Und das Gefühl von schuld kriecht hoch. ** Wir versuchen dies wettzumachen, indem wir die Zeit, die wir gemeinsam verbringen, möglichst auskosten.** Schöne, bleibende Erinnerungen zu schaffen – das ist für uns von Unschätzbarem wert und stärkt unsere Bindung als Patchworkfamilie.
 
-> “Eine Patchwork-Familie ist wie ein bunter Quilt, jeder Stoff einzigartig, aber zusammen perfekt.”
+> Eine Patchwork-Familie ist wie ein bunter Quilt, jeder Stoff einzigartig, aber zusammen perfekt.
 
 ![Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie — Stimmungsbild 1](/images/blog/patchworkfamilie-herausforderungen-und-chancen-2.jpg)
 

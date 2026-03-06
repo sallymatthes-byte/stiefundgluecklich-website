@@ -27,7 +27,7 @@ Auch haben wir über unsere Finanzen gesprochen und uns überlegt, was wir uns i
 
 Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und unsere Beziehung auf ein neues Level gehoben. Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
 
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt
 
 ![Gemeinsam träumen — Stimmungsbild 1](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
 

@@ -46,7 +46,7 @@ Mein Ziel war es, eine gesunde Balance zwischen meiner Rolle als Bonusmama und m
 Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen zu setzen und offen zu kommunizieren. Ich wusste, dass es Herausforderungen geben würde, aber ich war bereit, mich ihnen zu stellen. Und welche das waren, erfährst du im nächgsten Abschnitt.
 
 
-> „Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas schönes bauen.” – Erich Kästner
+> Auch aus Steinen, die dir in den Weg gelegt werden, kannst du etwas schönes bauen. – Erich Kästner
 
 ## Grenzen setzen und Verantwortung abgeben
 

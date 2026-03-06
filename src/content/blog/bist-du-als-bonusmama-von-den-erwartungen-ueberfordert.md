@@ -62,7 +62,7 @@ Nicht zuletzt spielt die** Angst, zu versagen oder nicht zu genügen**, eine Rol
 
 All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles "sollten". Doch damit tun wir uns keinen gefallen, denn die "ich sollte"-Sätze führen oft zu Überforderung und Schuldgefühlen.
 
-> "Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben." - Katharine Hepburn
+> Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben. - Katharine Hepburn
 
 ![Bist du als Bonusmama von den Erwartungen überfordert? - Stimmungsbild 1](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
 

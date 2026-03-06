@@ -49,8 +49,6 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
-## Der Weg zur Veränderung
-
 ![Warmes Licht fällt durch Bäume auf einen Waldweg — der Weg zur Veränderung beginnt](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
 ## Der Wendepunkt: Als ich aufhörte zu kämpfen

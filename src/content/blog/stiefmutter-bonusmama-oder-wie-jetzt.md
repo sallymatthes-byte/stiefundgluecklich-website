@@ -24,7 +24,7 @@ Früher war also klar: Kinder einer Familie hatten einen Vater und eine Mutter. 
 
 Das Wort "Stief" stammt aus dem Germanischen und bedeutet so viel wie "beraubt". Und daraus resultierte diese negative Besetzung: Die Kinder wurden einem Elternteil beraubt und bekamen einen neuen dazu. Der Stiefelternteil war dann Ersatz und das führte oft zu Konflikten und schlussendlich zum Bild der "bösen Stiefmutter", welches durch Märchen und andere Geschichten noch verstärkt wurde.
 
-> "Optimal für die Kinder ist es, wenn die leiblichen Eltern anständig miteinander umgehen und der neue Partner nicht die Erzieherrolle übernimmt, sondern dem Kind ein guter Erwachsenenfreund wird." - Jesper Juul
+> Optimal für die Kinder ist es, wenn die leiblichen Eltern anständig miteinander umgehen und der neue Partner nicht die Erzieherrolle übernimmt, sondern dem Kind ein guter Erwachsenenfreund wird. - Jesper Juul
 
 ![Zwei Frauen sitzen zusammen und reden - verschiedene Rollen in der Patchworkfamilie](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
 

@@ -26,7 +26,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 Du sehnst dich danach, respektiert und wertgeschätzt zu werden - sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen - sei es durch festgefahrene Rollenbilder, Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
 
 
-> "Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen." - J. W. von Goethe
+> Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen. - J. W. von Goethe
 
 ## #1 "Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen."
 
