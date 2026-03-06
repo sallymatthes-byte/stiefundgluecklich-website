@@ -37,7 +37,7 @@ Stiefväter sieht man oft als*Spielgefährten und Kumpel* ihrer Stiefkinder. Sie
 Stiefmütter hingegen drängt man häufiger in die Rolle der Erzieherin. Sie kümmern sich um Schularbeiten, strukturieren den Tagesablauf und sorgen für ein harmonisches Familienleben.
 
 *Diese Rollenzuschreibungen können dazu führen, dass Stiefmütter weniger Freiräume haben, ihre eigene Beziehung zu den Stiefkindern zu gestalten und sich stärker an den Bedürfnissen der Familie orientieren müssen.*
-Gleichzeitig wird ihre Arbeit oft als selbstverständlich betrachtet und selten wertgeschätzt, was zu Frustrationen und Konflikten führen kann. Auch Susanne Kunze (2015) bestätigte in ihrer [Studie](https://www.pairfam.de/fileadmin/user_upload/uploads/tx_sibibtex/workingpaper_02.pdf), dass es in Familien mit einer Stiefmutter zu vermehrt Konflikten kommt – Im Gegensatz Zu Familien Mit Einem Stiefvater.
+Gleichzeitig wird ihre Arbeit oft als selbstverständlich betrachtet und selten wertgeschätzt, was zu Frustrationen und Konflikten führen kann. Auch Susanne Kunze (2015) bestätigte in ihrer [Studie](https://www.pairfam.de/fileadmin/user_upload/uploads/tx_sibibtex/workingpaper_02.pdf), dass es in Familien mit einer Stiefmutter zu vermehrt Konflikten kommt – Im Gegensatz zu Familien mit einem Stiefvater.
 
 > “Die Familie ist die Heimat des Herzens.“ – Giuseppe Mazzini
 

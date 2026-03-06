@@ -17,7 +17,7 @@ Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser S
 
 erinnerst du dich noch an unseren Anfang? Damals, an diesem zauberhaften Strand in Thailand, als ich meinen Tauchschein machen wollte und außerdem die Liebe meines Lebens fand? Als ich dich sah, war es, als würde uns ein Band magisch zueinander hinziehen. Trotz der Sprachbarriere spürte ich sofort eine tiefe Verbindung zu dir.
 
-Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – Meinen Tauchlehrer Zu Mir Nach Hause Einzuladen – Das Konnte Doch Keine Zukunft Haben?
+Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – meinen Tauchlehrer zu mir nach Hause Einzuladen – das Konnte doch Keine Zukunft haben?
 
 Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen, die du über alles liebst. Als ausgebildete Pädagogin dachte ich, dass es kein Problem sein sollte, doch schnell merkte ich, dass es anders war als die Arbeit mit Kindern. Weißt du noch, wie ich versuchte, den Mädchen ein leckeres deutsches Essen zu kochen, aber sie es kaum anrührten? Oder wie ich beim ersten gemeinsamen Wochenende völlig überfordert war mit den Streitereien und dem Wechselbad der Gefühle?
 
@@ -26,7 +26,7 @@ Wir sprachen nicht dieselbe Sprache und Eifersucht war auf beiden Seiten vorhand
 
 ![Stimmungsbild zum Artikel](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
 
-Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellation zu finden. Wie reagierte die Kindsmutter auf mich? Würde sie mich als Konkurrenz sehen? Wo waren meine Grenzen? Und vor allem: Ich wollte doch nie Kinder – Und Jetzt Gab Es Da Plötzlich Zwei In Meinem Leben, Die Nicht Meine Waren. Wie Passte Das Zu Meinem Freiheitsliebenden Selbst?
+Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellation zu finden. Wie reagierte die Kindsmutter auf mich? Würde sie mich als Konkurrenz sehen? Wo waren meine Grenzen? Und vor allem: Ich wollte doch nie Kinder – und jetzt gab es da Plötzlich Zwei in meinem Leben, die Nicht meine Waren. Wie Passte das Zu meinem Freiheitsliebenden Selbst?
 
 Kommentare wie “Die Kinder sind doch so süß, wie kann es denn anstrengend sein?” oder “Du als Pädagogin solltest doch damit gut zurechtkommen!” setzten mich zusätzlich unter Druck. Wenn die Mädchen mich ablehnten oder sich mir gegenüber distanziert verhielten, fühlte ich mich hilflos und fragte mich, was ich falsch machte. Ich fühlte mich allein mit all diesen Fragen und schämte mich. Manchmal, wenn die Mädchen bei uns waren und ich erschöpft von den Herausforderungen des Alltags war, sehnte ich mich nach einem ruhigen Abend nur mit dir. Dann plagte mich das schlechte Gewissen.
 

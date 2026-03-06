@@ -89,6 +89,6 @@ Die Phase des “Performings” ist ein Erfolg für die Patchworkfamilie und zei
 
 
 ## Zusammenfassung
-Diese vier Phasen der Patchworkfamilien bilden den Prozess der Entwicklung ab. Jede Phase bringt ihre eigenen Herausforderungen und Chancen mit sich. Und jede Phase baut aufeinander auf – Wir Müssen Sie Alle Durchlaufen, Um Das Ziel – Einer Harmonischen Patchworkfamilie Zu Erreichen.
+Diese vier Phasen der Patchworkfamilien bilden den Prozess der Entwicklung ab. Jede Phase bringt ihre eigenen Herausforderungen und Chancen mit sich. Und jede Phase baut aufeinander auf – wir müssen sie alle Durchlaufen, um das Ziel – einer Harmonischen Patchworkfamilie zu Erreichen.
 
 

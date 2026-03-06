@@ -66,9 +66,9 @@ Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du
 
 Eine gute Beziehung zwischen dir als Bonusmama und der Kindsmutter ist ein *unschätzbares Geschenk für das Kind*. Es erlebt, dass seine wichtigsten Bezugspersonen an einem Strang ziehen und ihm ein Umfeld voller Liebe und Geborgenheit schaffen. Und sich nicht in [Konflikten](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) miteinander verlieren. Diese Erfahrung kann prägend für seine emotionale und soziale Entwicklung sein.
 
-Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen Bonusmama und Kindsmutter braucht Zeit, um zu wachsen. Feiere die kleinen Fortschritte und lass dich von Rückschlägen nicht entmutigen. Mit jeder wertschätzenden Geste, jedem ehrlichen Gespräch und jedem gemeinsamen Lachen leistest du einen Beitrag zu einer starken Patchwork-Familie, die füreinander einsteht und in der jeder seinen Platz hat – Das Kind, Die Kindsmutter Und Du Als Bonusmama.
+Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen Bonusmama und Kindsmutter braucht Zeit, um zu wachsen. Feiere die kleinen Fortschritte und lass dich von Rückschlägen nicht entmutigen. Mit jeder wertschätzenden Geste, jedem ehrlichen Gespräch und jedem gemeinsamen Lachen leistest du einen Beitrag zu einer starken Patchwork-Familie, die füreinander einsteht und in der jeder seinen Platz hat – das Kind, die Kindsmutter und du als Bonusmama.
 
 ## Zusammenfassung
 Oft entsteht in der Beziehung zwischen Kindsmutter und Bonusmama das Gefühl, einander Konkurrenz zu sein. Doch das ist ehrlich gesagt totaler Quatsch.
-Es geht nicht darum, als Bonusmama jemanden zu ersetzen – Die Kindsmutter Ist Eine Wichtige Person Für Das Kind Und Soll Es Auch Bleiben. Es Darf Jedoch Mehr Verständnis Für Beide Seiten Einziehen. Denn Dies Ist Der Erste Wichtige Schritt Dahingehend Eine Positive Beziehung Aufzubauen Und Dem Kind Ein Liebevolles Umfeld Zu Ermöglichen.
+Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist eine Wichtige Person für das Kind und soll es auch bleiben. Es darf jedoch mehr Verständnis für Beide Seiten Einziehen. Denn Dies ist der Erste Wichtige Schritt Dahingehend eine Positive Beziehung Aufzubauen und dem Kind ein Liebevolles Umfeld zu Ermöglichen.
 

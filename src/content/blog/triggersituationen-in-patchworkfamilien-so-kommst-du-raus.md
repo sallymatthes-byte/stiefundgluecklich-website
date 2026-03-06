@@ -11,7 +11,7 @@ image: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Meine älteste Bonustochter kommt gerade in die Pubertät – Und Viele Situationen Mit Ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) Mich Gerade Mehr Als Sonst. Das Heißt, Dass Diese Situationen Eine Reaktion In Mir Auslösen, Die Ich Sonst Nicht Kenne.
+Meine älteste Bonustochter kommt gerade in die Pubertät – und Viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) mich gerade mehr als Sonst. Das Heißt, dass diese Situationen eine Reaktion in mir Auslösen, die Ich Sonst nicht Kenne.
 Ein Beispiel: Sie kommentiert gerade vieles mit “Das ist ja langweilig!”. In mir wird dann sofort die 14-jährige Sally aktiviert, die damals genau so war. Ich werde sauer und ziehe mich dann zurück.
 Solche oder ähnliche Situationen kennen viele [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Nicht selten kommt es dann zu heftigen Auseinandersetzungen in der Patchworkfamilie.
 Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem Schmerz? Und wie kommt man da wieder raus?
@@ -55,6 +55,6 @@ Wenn du dich in einer Triggersituation befindest und merkst, dass du gerade getr
 Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung für den Umgang mit Triggersituationen gibt. Finde heraus, welche Handlungsweisen für dich persönlich am besten funktionieren und passe sie entsprechend an. Sei geduldig mit dir selbst und erlaube dir, Fehler zu machen und aus ihnen zu lernen.
 
 ## Zusammenfassung
-Es gibt bestimmte Situationen, in denen wir heftige Reaktionen in uns selbst wahrnehmen. Wir sprechen dann von “Triggern” – Diese Erinnern Uns An Schmerzliche Erfahrungen In Unserem Leben Und Sind Ein Indiz Dafür, Dass Diese Noch Nicht Geheilt Sind.
+Es gibt bestimmte Situationen, in denen wir heftige Reaktionen in uns selbst wahrnehmen. Wir sprechen dann von “Triggern” – diese Erinnern uns an Schmerzliche Erfahrungen in unserem Leben und sind ein Indiz dafür, dass diese Noch nicht Geheilt sind.
 Damit diese nicht in heftige [Konflikte](/blog/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess.
 

@@ -44,7 +44,7 @@ Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas meh
 
 ## Mit dem Partner über Geld sprechen
 
-Geld ist in vielen Beziehungen ein heikles Thema – Und In Patchworkfamilien Kann Es Noch Komplizierter Sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse Und Verpflichtungen Prallen Aufeinander. Da Ist Es Ganz Normal, Wenn Es Auch Mal Kracht. Umso Wichtiger Ist Eine Offene Und Ehrliche Kommunikation Über Die Finanzen.
+Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien kann es noch Komplizierter sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse und Verpflichtungen Prallen Aufeinander. Da ist es ganz Normal, wenn es auch mal Kracht. Umso Wichtiger ist eine Offene und Ehrliche Kommunikation über die Finanzen.
 
 *Scheue dich nicht davor, das Thema anzusprechen.*  Je früher ihr euch austauscht, desto besser. Setz dich mit deinem Partner zusammen und sprecht offen über eure finanzielle Situation:
 
@@ -72,7 +72,7 @@ Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier kö
 
 - Stehen größere Ausgaben an, die besprochen werden müssen?
 
-Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – Auch Wenn Es Mal Schwierig Wird. Mit Verständnis, Geduld Und Kompromissbereitschaft Auf Beiden Seiten Lässt Sich Ein Weg Finden. Denk Immer Daran: Ihr Sitzt Im Selben Boot Und Wollt Beide Das Beste Für Eure Familie.
+Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal Schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr Sitzt Im Selben Boot und Wollt Beide das Beste für eure Familie.
 
 ## Wahre deine finanzielle Unabhängigkeit **Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst.  Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
 

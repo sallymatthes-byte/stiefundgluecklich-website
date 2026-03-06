@@ -29,7 +29,7 @@ Neugierige Fragen oder Kommentare bringen dich zusätzlich aus dem Konzept. All 
 
 Doch lass dir eines sagen: *Du bist nicht allein mit diesen Gefühlen!* Es ist völlig normal, dass dich die neue Rolle zunächst überfordert. Viele Bonusmamas kämpfen mit ähnlichen Unsicherheiten und Selbstzweifeln.
 
-Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – All Das Kann Eine Immense Belastung Sein.
+Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – All das Kann eine Immense Belastung sein.
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 

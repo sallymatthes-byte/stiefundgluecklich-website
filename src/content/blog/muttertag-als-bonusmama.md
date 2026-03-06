@@ -14,16 +14,16 @@ imageAlt: "Titelbild zum Artikel"
 Nächste Woche ist Muttertag.
 Und vielleicht hast du ja selbst eigene Kinder und freust dich auf eine kleine Überraschung von ihnen, mit denen sie ihre Wertschätzung ausdrücken. Doch wie verhält sich dieser Tag mit den Bonuskindern? Wie kannst du mit der Zerrissenheit der Bonuskinder umgehen, die an diesem Tag vielleicht auch gerade bei euch sind? Und wie kannst du Enttäuschungen vermeiden?
 Lass uns dies heute mal genauer betrachten.
-*Und kleiner Spoiler vorweg: ich habe noch nie einen Muttertag mit meinen Bonuskindern verbracht und bekomme an diesem Tag auch keine Geschenke – Weil Wir Dies So Abgesprochen Haben, Damit Niemand Enttäuscht Ist. *
+*Und kleiner Spoiler vorweg: ich habe noch nie einen Muttertag mit meinen Bonuskindern verbracht und bekomme an diesem Tag auch keine Geschenke – weil wir Dies so Abgesprochen haben, damit niemand Enttäuscht ist. *
 
 ## Ein herausfordernder Tag
 
-Muttertag – Ein Tag Voller Blumen, Frühstück Ans Bett Und Selbstgebastelter Geschenke. Für Viele Mütter Ist Es Ein **tag Der Wertschätzung Und Dankbarkeit,**an Dem Sie Von Ihren Kindern Und Partner_innen Gefeiert Werden. Doch Für Uns Bonusmamas Kann Der Muttertag Eine Echte Herausforderung Sein.
+Muttertag – Ein Tag Voller Blumen, Frühstück ans Bett und Selbstgebastelter Geschenke. Für Viele Mütter ist es ein **tag der Wertschätzung und Dankbarkeit,**an dem Sie von ihren Kindern und Partner_innen Gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine Echte Herausforderung sein.
 Denn oft fühlen wir uns hin- und hergerissen zwischen unserer Rolle als Partnerin und der Rolle als “Bonusmama”.
 
 Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder Unterstützerin der Kinder. Und genau das kann am Muttertag zu **inneren Konflikten **führen.
 Wir wünschen uns Anerkennung für unseren Beitrag in der Familie, wollen aber gleichzeitig nicht die Rolle der leiblichen Mutter einnehmen.
-Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – Und Der Muttertag Macht Diese Herausforderung Besonders Deutlich.
+Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – und der Muttertag macht diese Herausforderung Besonders Deutlich.
 
 ![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-2.jpg)
 
@@ -35,7 +35,7 @@ Oder stell dir vor, die Kinder kommen später zu dir und berichten dir von dem s
 
 Solche Momente können unglaublich schmerzhaft sein und uns als Bonusmamas an unserer Rolle zweifeln lassen.*Wir fragen uns, ob wir gut genug sind, ob wir überhaupt eine Rolle in der Familie spielen und ob unsere Liebe und Fürsorge gesehen werden*. Es ist wichtig, diese Gefühle zuzulassen und ernst zu nehmen. Gleichzeitig dürfen wir uns von ihnen nicht überwältigen lassen.
 
-Erinnern wir uns daran, dass wir Teil einer wunderbaren Familie sind – Auch Wenn Es Manchmal Herausforderungen Gibt.
+Erinnern wir uns daran, dass wir Teil einer wunderbaren Familie sind – auch wenn es Manchmal Herausforderungen gibt.
 Sprechen wir mit unserem Partner über unsere Gefühle und suchen gemeinsam nach Wegen, wie wir uns gegenseitig noch besser unterstützen und wertschätzen können.
 Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art und Weise auszudrücken. Auch wenn es nicht am Muttertag ist.
 
@@ -53,7 +53,7 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 ![Stimmungsbild zum Artikel](/images/blog/muttertag-als-bonusmama-3.jpg)
 
-Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – Ihre Leibliche Mama Und Ihre Bonusmama. Doch An Diesem Besonderen Tag Fühlen Sie Sich **hin- Und Hergerissen. ** Sie Wollen Keine Der Beiden Frauen Enttäuschen Oder Verletzen Und Geraten Dadurch In Einen Inneren Konflikt. Vielleicht Verbringen Sie Den Vormittag Bei Ihrer Mama Und Kommen Dann Zu Dir, Um Auch Mit Dir Zu Feiern.
+Für die Kinder in einer Patchworkfamilie kann der Muttertag ebenfalls eine echte Zerreißprobe sein. Sie [lieben oft beide Frauen in ihrem Leben](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) – ihre Leibliche Mama und ihre Bonusmama. Doch an diesem Besonderen Tag fühlen sie sich **hin- Und Hergerissen. ** sie wollen Keine Der Beiden Frauen Enttäuschen oder Verletzen und Geraten dadurch in einen Inneren Konflikt. Vielleicht Verbringen sie den Vormittag bei ihrer Mama und kommen dann zu dir, um auch mit dir zu Feiern.
 Dabei spüren sie die **Anspannung**zwischen den Erwachsenen und fühlen sich schuldig, weil sie ihre Liebe und Aufmerksamkeit teilen müssen. Sie möchten an diesem Tag einfach nur Kind sein, ohne Erwartungen und ohne das Gefühl, sich entscheiden zu müssen.
 
 Gleichzeitig wünschen sie sich ein **harmonisches Miteinander **ihrer Eltern und eine entspannte Atmosphäre. Doch oft spüren sie die unausgesprochenen Konflikte und fühlen sich dafür verantwortlich.
@@ -71,7 +71,7 @@ Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonis
 
 - **Fokussiere dich auf die schönen Momente und die Liebe, die ihr als Familie teilt.** Lass dich nicht von Erwartungen oder Vergleichen mit anderen Familien verunsichern. Jede Patchworkfamilie ist einzigartig und hat ihre eigene Art, Feste zu feiern.
 
-- **Schaffe Rituale, die euch als Familie verbinden und stärken.** Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – So Zeigst Du, Dass Du Für Alle Da Bist Und Sie Wertschätzt.
+- **Schaffe Rituale, die euch als Familie verbinden und stärken.** Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – so Zeigst du, dass du für alle da Bist und sie Wertschätzt.
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
 

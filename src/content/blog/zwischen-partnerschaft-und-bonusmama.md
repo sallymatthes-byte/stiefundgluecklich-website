@@ -58,7 +58,7 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 ## Grenzen setzen und Verantwortung abgeben
 
-Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – Zwei Dinge, Die Mir Alles Andere Als Leicht Fielen.
+Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – Zwei Dinge, die Mir alles Andere als Leicht Fielen.
 
 Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war.**Auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.**Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte.**Ein Schlüsselmoment war, als ich eines Abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.**Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus.** Mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
 
@@ -76,7 +76,7 @@ Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
 Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte. **Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.**
 
-Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – Eine Zeit, In Der Ich Durch Ähnliches Verhalten Einen Burnout Erlitten Hatte.* Mir Wurde Schlagartig Bewusst, Dass Ich Kurz Davor Stand, Erneut In Diese Erschöpfungsspirale Zu Geraten, Wenn Ich Nicht Schnell Etwas Änderte.*
+Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – eine Zeit, in der Ich durch Ähnliches Verhalten einen Burnout Erlitten hatte.* mir wurde Schlagartig Bewusst, dass ich Kurz davor stand, Erneut in diese Erschöpfungsspirale zu Geraten, wenn ich nicht Schnell etwas Änderte.*
 
 Mit dieser Erkenntnis im Hinterkopf ging ich den zweiten Schritt an: die konkreten Veränderungen. I*ch begann, feste Zeiten für Selbstfürsorge einzuplanen und verordnete mir täglich kleine Auszeiten.* Auch für unsere Partnerschaft reservierten wir bewusst Quality Time, um wieder mehr Nähe aufzubauen. **Um die Verantwortung besser zu verteilen, führten wir einen Familienkalender ein und teilten uns die Aufgaben gerecht auf.** Ich lernte, meine eigenen Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.
 
@@ -92,7 +92,7 @@ Die Veränderungen, die ich in Gang gesetzt hatte, zeigten schon bald ihre posit
 
 Unsere Partnerschaft hat durch die bewusst geplante Quality Time einen neuen Aufschwung erlebt. **Wir haben wieder mehr Raum für Gespräche, Zärtlichkeit und gemeinsame Unternehmungen, was uns als Paar sehr gut tut.** Ich spüre, dass wir uns wieder nähergekommen sind und mehr Verständnis füreinander aufbringen.
 
-Auch die Kinder profitieren von der neuen Balance. *Dadurch, dass ich nicht mehr ständig alles für sie erledige, lernen sie, selbstständiger zu werden und Verantwortung zu übernehmen.* Sie wissen, dass sie sich auf mich verlassen können, wenn sie mich brauchen, aber sie trauen sich auch mehr zu, Dinge alleine anzupacken. Unsere Beziehung hat sich dadurch positiv verändert – Ich Bin Nicht Mehr Die Ständig Gestresste Bonusmama, Sondern Haben Mehr Raum Für Gemeinsame Späße Und Unternehmungen.
+Auch die Kinder profitieren von der neuen Balance. *Dadurch, dass ich nicht mehr ständig alles für sie erledige, lernen sie, selbstständiger zu werden und Verantwortung zu übernehmen.* Sie wissen, dass sie sich auf mich verlassen können, wenn sie mich brauchen, aber sie trauen sich auch mehr zu, Dinge alleine anzupacken. Unsere Beziehung hat sich dadurch positiv verändert – ich Bin nicht mehr die Ständig Gestresste Bonusmama, sondern haben mehr Raum für Gemeinsame Späße und Unternehmungen.
 
 Selbst in stressigen Phasen, wenn der Alltag uns voll im Griff hat, gelingt es mir nun besser, gelassen zu bleiben. **Ich habe gelernt, meine Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.** Statt mich zu verausgaben, gönne ich mir kleine Auszeiten und tanke so neue Kraft. Dadurch bin ich insgesamt ausgeglichener und kann den Herausforderungen des Patchworklebens besser begegnen.
 

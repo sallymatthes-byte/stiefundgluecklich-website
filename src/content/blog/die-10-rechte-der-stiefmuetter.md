@@ -23,14 +23,14 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 Kennst du das Gefühl, als Stiefmutter immer wieder an deine Grenzen zu stoßen? Du übernimmst Verantwortung für die Kinder deines Partners, gestaltest den Familienalltag mit und investierst viel Zeit und Energie. *Doch oft fühlst du dich dabei unsichtbar, als würden deine eigenen Bedürfnisse und Wünsche keine Rolle spielen.* Vielleicht hast du schon erlebt, wie Entscheidungen über deinen Kopf hinweg getroffen wurden oder du bei Konflikten zwischen den Fronten stehst.
 
-Du sehnst dich danach, respektiert und wertgeschätzt zu werden – Sowohl Von Deinem Partner Als Auch Von Den Kindern Und Anderen Familienmitgliedern. **du Möchtest Deine Rolle Aktiv Gestalten, Anstatt Dich Ständig Anzupassen Und Zurückzustecken.** Doch Der Weg Dorthin Ist Nicht Immer Einfach. Manchmal Scheint Es, Als Würdest Du Gegen Unsichtbare Widerstände Ankämpfen – Sei Es Durch Festgefahrene Rollenbilder, Konflikte Mit Der Ex-partnerin Oder Mangelnde Unterstützung Von Außen.
+Du sehnst dich danach, respektiert und wertgeschätzt zu werden – Sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest Deine Rolle Aktiv Gestalten, Anstatt dich Ständig Anzupassen und Zurückzustecken.** doch der Weg Dorthin ist nicht immer Einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
 
 
 > „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen.” – J.W. von Goethe
 
 ## #1 “Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen.”
 
-In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – Hinter Den Kindern, Der Ex-partnerin Oder Den Bedürfnissen Anderer. **doch Eine Starke Partnerschaft Ist Essenziell, Um Die Familie Zu Stabilisieren.** Es Geht Darum, Klare Grenzen Zu Setzen, Auch Gegenüber Der Ex-partnerin, Und Bewusst Zeit Für Die Paarbeziehung Einzuplanen.
+In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – hinter den Kindern, der Ex-partnerin oder den Bedürfnissen Anderer. **doch eine Starke Partnerschaft ist Essenziell, um die Familie zu Stabilisieren.** es geht darum, Klare Grenzen zu setzen, auch Gegenüber der Ex-partnerin, und Bewusst Zeit für die Paarbeziehung Einzuplanen.
 
 Stell dir vor, du hast ein Date mit deinem Partner geplant, aber seine Ex ruft an, weil sie spontan Hilfe braucht. Er sagt sofort zu und lässt dich stehen. Du fühlst dich zurückgesetzt und fragst dich, ob du wirklich an erster Stelle stehst.
 
@@ -64,7 +64,7 @@ Studien (Papernow, 2013) zur Bedeutung der Rechte der Stiefmütter zeigen, dass 
 
 ## #5 “Ich werde bei der Entscheidung konsultiert, welche Kinder bei uns leben, wann sie zu Besuch kommen und wie lange sie bleiben.”
 
-Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – Ohne Dich Vorher Zu Fragen Oder Deine Meinung Einzuholen. *plötzlich Siehst Du Dich Mit Einer Völlig Neuen Situation Konfrontiert, Die Deinen Alltag Auf Den Kopf Stellt.*
+Stell dir vor, dein Partner entscheidet eigenmächtig, dass sein Teenager-Sohn ab sofort dauerhaft bei euch einzieht – ohne dich Vorher zu Fragen oder deine Meinung Einzuholen. *plötzlich Siehst du dich mit einer Völlig Neuen Situation Konfrontiert, die Deinen Alltag auf den Kopf Stellt.*
 
 **Solche Situationen sind zutiefst frustrierend und vermitteln das Gefühl, dass die eigenen Bedürfnisse nicht wichtig sind.** Du hast ein Recht darauf, in diese Prozesse eingebunden zu werden und deine Sichtweise einzubringen.
 
@@ -96,7 +96,7 @@ Wenn Kinder aus einer früheren Beziehung regelmäßig bei euch leben, kann es l
 
 Psychologen betonen immer wieder, wie wichtig klare persönliche Grenzen in Patchworkfamilien sind. *Natürlich verstehen besonders jüngere Kinder oft nicht von selbst, warum Privatsphäre so wichtig ist.*
 
-Hier liegt es an den Eltern – Und Vor Allem An Deinem Partner –, Die Regeln Klar Zu Kommunizieren Und Konsequent Durchzusetzen. Indem Ihr Als Team Auftritt, Kann Dein Zuhause Zu Einem Ort Werden, An Dem Sich Alle Wohlfühlen.
+Hier liegt es an den Eltern – und vor allem an deinem Partner –, die Regeln Klar zu Kommunizieren und Konsequent Durchzusetzen. Indem ihr Als Team Auftritt, kann dein Zuhause zu einem Ort werden, an dem Sich alle Wohlfühlen.
 
 ## #9 “Ich werde in meinem eigenen Zuhause nicht als Außenseiterin behandelt.”
 

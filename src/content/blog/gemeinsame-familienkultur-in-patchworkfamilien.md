@@ -11,7 +11,7 @@ image: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Diese Woche hatte mein Partner Geburtstag und das ist immer einer Herausforderung für uns. Ich möchte bereits beim Aufstehen Geschenke auspacken, Konfetti regnen lassen und Kuchen essen. Er möchte davon gar nichts wissen, sondern in Ruhe Kaffee trinken – Der Geburtstagskuchen Wird In Seiner Familie Nach Dem Abendessen Angeschnitten.
+Diese Woche hatte mein Partner Geburtstag und das ist immer einer Herausforderung für uns. Ich möchte bereits beim Aufstehen Geschenke auspacken, Konfetti regnen lassen und Kuchen essen. Er möchte davon gar nichts wissen, sondern in Ruhe Kaffee trinken – der Geburtstagskuchen wird in seiner Familie nach dem Abendessen Angeschnitten.
 Dies zeigt, wie unterschiedlich unsere Familienkulturen sind. Und im Gegensatz zu Kernfamilien ist es häufig etwas holpriger, diese zusammenzubringen.
 
 Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
@@ -40,7 +40,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – Ob Lebend Oder Verstorben – Außerhalb Der Kernfamilie, Der Untrennbar Mit Der Familie Verbunden Ist.** Die Beziehung Zum Ex-partner Beeinflusst Die Dynamik In Der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 

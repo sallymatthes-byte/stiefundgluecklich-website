@@ -11,14 +11,14 @@ image: "/images/blog/mehrsprachigkeit-in-patchworkfamilien-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Wir leben multilingual – Meine Bonuskinder Sprechen Französisch, Meine Erstsprache Ist Deutsch Und Mein Partner Und Ich Sprechen Miteinander Englisch. Das Ist Wirklich Nicht Immer Einfach Und Hat Vor Allem Am Anfang Zu Vielen Missverständnissen Geführt. Darüber Habe Ich In Der
+Wir leben multilingual – meine Bonuskinder sprechen Französisch, meine Erstsprache ist Deutsch und mein Partner und ich sprechen Miteinander Englisch. Das Ist Wirklich nicht immer Einfach und hat vor allem Am Anfang zu Vielen Missverständnissen Geführt. Darüber Habe ich in der
 
  bei EchteMamas schon einmal darüber gesprochen.
 Lass uns nun mal einen Blick darauf werfen, wie man mit diesen sprachlichen Barrieren umgehen kann und wie wir es geschafft haben. Kleiner Spoiler vorweg: Das braucht wirklich Zeit!
 
 ## Chancen und Herausforderungen
 
-Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” Sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – Und Ich Liebe Es! **klar, Manchmal Fragen Wir Uns, Ob Unsere Kids Durch Die Vielen Sprachen Nicht Durcheinander Kommen.**Aber Dann Sehe Ich, Wie Selbstverständlich Sie Zwischen Den Sprachen Wechseln Und Wie Sehr Sie Kognitiv Davon Profitieren. Sie Lernen, Sich Flexibel Auf Unterschiedliche Gesprächspartner (auch In Bezug Auf Meine [familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) Und Situationen Einzustellen – Eine Superkraft Fürs Leben! Und Ganz Nebenbei Eröffnen Ihnen Die Sprachen Türen Zu Anderen Kulturen. Was Für Ein Geschenk!**natürlich Läuft Nicht Immer Alles Rund.** Manchmal Mischen Die Kinder Die Sprachen Wild Durcheinander Oder Brauchen In Einer Sprache Etwas Länger Als Andere Kinder. Aber Hey, Das Ist Völlig Okay Und Gehört Zur Mehrsprachigen Entwicklung Dazu. Da Heißt Es: Entspannt Bleiben Und Dem Sprachenwirrwarr Mit Humor Begegnen.
+Als ich heute Morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” Sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – und ich Liebe es! **klar, Manchmal Fragen wir uns, ob unsere Kids durch die Vielen Sprachen nicht Durcheinander Kommen.**Aber dann Sehe ich, wie Selbstverständlich sie zwischen den Sprachen Wechseln und wie sehr sie Kognitiv davon Profitieren. Sie lernen, sich Flexibel auf Unterschiedliche Gesprächspartner (auch in Bezug auf meine [familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) Und Situationen Einzustellen – eine Superkraft fürs Leben! Und ganz Nebenbei Eröffnen ihnen die Sprachen Türen zu Anderen Kulturen. Was für ein Geschenk!**natürlich Läuft nicht immer alles Rund.** Manchmal Mischen die Kinder die Sprachen Wild Durcheinander oder brauchen in einer Sprache etwas Länger als Andere Kinder. Aber Hey, das Ist Völlig Okay und Gehört zur Mehrsprachigen Entwicklung dazu. Da heißt es: Entspannt bleiben und dem Sprachenwirrwarr mit Humor Begegnen.
 
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: Ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
@@ -30,7 +30,7 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 
 *Studien zeigen, dass Kinder in mehrsprachigen Familien ein stärkeres Sprachbewusstsein entwickeln.* Sie lernen früh, zwischen verschiedenen sprachlichen Systemen zu wechseln und diese zu vergleichen. Diese metalinguistischen Fähigkeiten können sich positiv auf das allgemeine Lernvermögen auswirken.
 
-*Deine Aufgabe als Bonusmama ist es, den Spracherwerb spielerisch in den Alltag zu integrieren.* Vorlesen, Singen, Rollenspiele – All Das Sind Wertvolle Werkzeuge, Um Den Kindern Die Neue Sprache Näherzubringen. Wichtig Ist Dabei, Dass Du Selbst Freude Daran Hast. Denn Kinder Spüren Die Emotionale Verbindung Und Lernen Besonders Gut, Wenn Sie Sich Wohlfühlen.
+*Deine Aufgabe als Bonusmama ist es, den Spracherwerb spielerisch in den Alltag zu integrieren.* Vorlesen, Singen, Rollenspiele – All das Sind Wertvolle Werkzeuge, um den Kindern die Neue Sprache Näherzubringen. Wichtig ist dabei, dass du Selbst Freude daran Hast. Denn Kinder Spüren die Emotionale Verbindung und lernen Besonders Gut, wenn sie sich Wohlfühlen.
 
 *Ein weiterer Vorteil ist, dass die Kinder durch dich ein breiteres kulturelles Verständnis entwickeln.* Sprache ist immer auch ein Träger von Kultur. Indem du ihnen deutsche Geschichten, Lieder und Traditionen vermittelst, öffnest du ihnen ein Fenster zu einer neuen Welt.
 
@@ -56,7 +56,7 @@ Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal hol
 
 ## Umgang mit interkulturellen Herausforderungen
 
-Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – Von Allen Beteiligten. Gerade In Mehrsprachigen Patchworkfamilien Stecken In Scheinbar Banalen Alltagssituationen Oft Stolpersteine, So Zum Beispiel Auch Bei Verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber Mit Der Richtigen Haltung Und Ein Paar Ungewöhnlichen Strategien Lassen Sich Brücken Bauen:
+Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in Mehrsprachigen Patchworkfamilien Stecken in Scheinbar Banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei Verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der Richtigen Haltung und ein Paar Ungewöhnlichen Strategien lassen sich Brücken Bauen:
 
 - Macht einen Perspektivwechsel zum Spiel. Schlüpft mal in die Rolle des anderen und betrachtet eine Situation mit seinen Augen. Was denkt und fühlt die Partnerin oder das Stiefkind gerade? So übt ihr Empathie und Verständnis.
 
@@ -66,8 +66,8 @@ Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie
 
 - Nutzt eure Mehrsprachigkeit kreativ. Erfindet “Familiensprachen-Songs”, in denen alle eure Sprachen vorkommen. Oder macht ein Foto-Projekt zu Begriffen, die sich nicht übersetzen lassen. Oder gestaltet ein Memory, um spielerisch die Wörter zu lernen. So feiert ihr eure Einzigartigkeit.
 
-Vergesst nicht: Eure Liebe zueinander ist der Kit, der euch verbindet – Egal, Aus Welcher Kultur Ihr Kommt. Mit Achtsamkeit, Kreativität Und Gelassenheit Könnt Ihr Eure Interkulturellen Stolpersteine In Meilensteine Verwandeln.
+Vergesst nicht: Eure Liebe zueinander ist der Kit, der euch verbindet – Egal, aus welcher Kultur ihr Kommt. Mit Achtsamkeit, Kreativität und Gelassenheit Könnt ihr Eure Interkulturellen Stolpersteine in Meilensteine Verwandeln.
 
 ## Zusammenfassung
-Das Leben in einer multilingualen Patchworkfamilie hat definitiv seine Herausforderungen – Doch Auch So Viele Vorteile. Mit Zeit, Humor Und Viel Verständnis Lässt Sich Diese Hürde Überwinden. Und Es Ist Ein Unglaubliches Geschenk, Miteinander Und Voneinander Zu Lernen.
+Das Leben in einer multilingualen Patchworkfamilie hat definitiv seine Herausforderungen – doch auch so Viele Vorteile. Mit Zeit, Humor und viel Verständnis lässt sich diese Hürde Überwinden. Und es ist ein Unglaubliches Geschenk, Miteinander und Voneinander zu lernen.
 

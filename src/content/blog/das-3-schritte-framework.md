@@ -22,7 +22,7 @@ In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchwork
 
 ## Verliebt, nicht verlobt, aber Patchwork
 
-Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, eine Auszeit zu nehmen und für drei Monate mit meinem Rucksack durch Südostasien zu reisen. Ich war glücklich, frei und hatte gerade erst wieder zu mir selbst gefunden. Das Letzte, wonach ich suchte, war eine neue Beziehung – Doch Dann Kam Alles Anders. In Thailand Lernte Ich Meinen Jetzigen Partner Kennen Und Verliebte Mich Hals Über Kopf.
+Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, eine Auszeit zu nehmen und für drei Monate mit meinem Rucksack durch Südostasien zu reisen. Ich war glücklich, frei und hatte gerade erst wieder zu mir selbst gefunden. Das Letzte, wonach ich suchte, war eine neue Beziehung – doch dann kam alles Anders. In Thailand lernte ich meinen Jetzigen Partner kennen und Verliebte mich Hals über Kopf.
 
 Wir führten zunächst eine Fernbeziehung, doch schon bald beschlossen wir, unsere Zukunft gemeinsam zu gestalten. Dass mein Partner zwei Kinder aus einer früheren Beziehung hatte, die in Frankreich lebten, war für mich kein Problem. Ich war es gewohnt, mit Kindern zu arbeiten und dachte, ich würde mit der Situation leicht zurechtkommen. Doch ich hatte keine Ahnung, was es wirklich bedeutete, eine Stiefmutter zu sein.
 
@@ -85,7 +85,7 @@ Natürlich gab und gibt es immer wieder Herausforderungen in unserer Patchworkfa
 
 Mein Partner und ich sind uns einig, dass die Entscheidung für ein gemeinsames Leben als Patchworkfamilie die richtige war. Wir haben an unserer Beziehung gearbeitet und sind dadurch noch enger zusammengewachsen. Die Kinder haben in uns beide Bezugspersonen gefunden, die sie lieben und unterstützen.
 
-Unser Weg als Patchworkfamilie ist sicherlich noch nicht zu Ende. Es werden immer wieder neue Herausforderungen auf uns zukommen. Doch ich bin zuversichtlich, dass wir diese gemeinsam meistern werden. Mit Liebe, Verständnis und dem Willen, füreinander da zu sein, können wir alles schaffen. *Unsere Patchworkfamilie ist zu einem Ort der Geborgenheit geworden – Einem Zuhause, In Dem Jeder So Sein Darf, Wie Er Ist, Und Bedingungslos Geliebt Wird.*
+Unser Weg als Patchworkfamilie ist sicherlich noch nicht zu Ende. Es werden immer wieder neue Herausforderungen auf uns zukommen. Doch ich bin zuversichtlich, dass wir diese gemeinsam meistern werden. Mit Liebe, Verständnis und dem Willen, füreinander da zu sein, können wir alles schaffen. *Unsere Patchworkfamilie ist zu einem Ort der Geborgenheit geworden – einem Zuhause, in dem Jeder So sein Darf, wie er ist, und Bedingungslos Geliebt wird.*
 
 ## Zusammenfassung
 Als Stiefmutter in einer Patchworkfamilie sehnte ich mich nach Harmonie und einem liebevollen Miteinander, doch der Weg dorthin war von Herausforderungen geprägt. Durch eine Coachingausbildung gewann ich neue Perspektiven und entwickelte ein 3-Schritte-Framework, das auf Analyse, Veränderungen initiieren und Kommunikation basiert. Mit diesem Leitfaden gelang es mir, unsere Familiendynamik Schritt für Schritt zu verbessern und ein Zuhause voller Geborgenheit und bedingungsloser Liebe zu schaffen.

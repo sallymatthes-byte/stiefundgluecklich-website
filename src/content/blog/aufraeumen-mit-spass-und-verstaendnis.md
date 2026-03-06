@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Immer wenn unsere Bonuskinder bei uns sind, bricht für mich gefühlt das Chaos aus. Und mein Partner sagt dann immer: “Ist doch nicht so schlimm, so sieht man doch nur, dass hier gelebt wird!”
-Stimmt. Und gleichzeitig bringt es mich auf die Palme, wenn überall die Spielsachen rumliegen und die Kinder nicht ihre Sachen aufräumen. Schließlich ist es doch unser aller zu Hause und da sind meine Bedürfnisse ja auch wichtig – Das Bedürfnis Nach Sauberkeit Und Ordnung.
+Stimmt. Und gleichzeitig bringt es mich auf die Palme, wenn überall die Spielsachen rumliegen und die Kinder nicht ihre Sachen aufräumen. Schließlich ist es doch unser aller zu Hause und da sind meine Bedürfnisse ja auch wichtig – das Bedürfnis nach Sauberkeit und Ordnung.
 Doch, was können wir eigentlich von den Kindern verlangen?
 
 ## Ordnung und Chaos in verschiedenen Phasen
@@ -27,7 +27,7 @@ Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ord
 
 - **In der Pubertät**wird das eigene Chaos oft als Ausdruck von Individualität und Abgrenzung gesehen. Jugendliche wollen ihr Reich nach eigenen Vorstellungen gestalten, auch wenn diese nicht immer mit der elterlichen Ordnung übereinstimmen. Hier gilt es, Verständnis zu zeigen und gleichzeitig gemeinsam Kompromisse zu finden.
 
-Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – Und Dann Wird Aufräumen Einfach Noch Anstrengender.
+Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen Einfach noch Anstrengender.
 
 ![Stimmungsbild zum Artikel](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
 

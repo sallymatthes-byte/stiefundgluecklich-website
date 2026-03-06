@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Kennst du auch dieses Gefühl, dass man manchmal einfach das Gefühl nicht verstanden worden zu sein?
-In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – Nicht Nur Als [bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das Liegt Daran, Dass Wir Häufig Nicht Richtig Zuhören, Sondern Damit Beschäftigt Sind, Über Unsere Antwort Nachzudenken.
+In unseren zwischenmenschlichen Beziehungen, kommt es häufig zu Missverständnissen – nicht nur als [bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das Liegt daran, dass wir Häufig nicht Richtig Zuhören, sondern damit Beschäftigt sind, über unsere Antwort Nachzudenken.
 Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden?
 Und wie setzt sich das in der Praxis um?
 

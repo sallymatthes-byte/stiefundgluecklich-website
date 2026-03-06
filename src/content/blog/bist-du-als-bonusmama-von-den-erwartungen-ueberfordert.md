@@ -48,7 +48,7 @@ Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst ste
 
 Aber mal ehrlich: Wer sagt eigentlich, dass wir all das “sollten”? Woher kommen diese ganzen Erwartungen? Und was machen sie mit uns, mit unserer Psyche, unseren Beziehungen und letztlich mit unserer Patchworkfamilie?
 
-Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: Ein Leben, in dem man ständig das Gefühl hat, irgendetwas zu “sollen”, ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den “Ich sollte”-Sätzen steckt – Und Wie Du Dich Davon Frei Machen Kannst.
+Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: ein Leben, in dem man ständig das Gefühl hat, irgendetwas zu “sollen”, ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den “Ich sollte”-Sätzen steckt – und wie du dich davon Frei machen Kannst.
 
 ursachen dieser gedanken
 
@@ -98,11 +98,11 @@ Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedank
 
 - 💎**Hole dir Unterstützung, wenn du sie brauchst.** Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
 
-Der Weg zu einem Leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – Für Dich Und Für Deine Ganze Patchworkfamilie.
+Der Weg zu einem Leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine Ganze Patchworkfamilie.
 
 Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deinem Weg als Bonusmama bekommen möchtest, kann ein Coaching eine wertvolle Hilfe sein. Hier hast du den geschützten Raum, deine Situation zu reflektieren und ganz konkrete Lösungen für deinen Alltag zu entwickeln.
 
-Denn du bist einzigartig – Und So Ist Auch Dein Weg Als Bonusmama. Mit Der Richtigen Unterstützung Findest Du Genau Den Weg, Der Zu Dir Und Deiner Familie Passt. Schritt Für Schritt. ***von “ich Sollte” Zu “ich Möchte”.***## Zusammenfassung
-Viele Bonusmamas plagen sich mit “Ich sollte”-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – Von Gesellschaftlichen Erwartungen Über Familiäre Prägungen Bis Hin Zur Angst, Nicht Zu Genügen. Sich Von Diesen Gedanken Zu Befreien, Ist Ein Prozess, Der Selbstreflexion, Selbstfürsorge Und Oft Auch Unterstützung Von Außen Erfordert. Ein Coaching Kann Dabei Helfen, Individuelle Lösungen Zu Finden Und Schritt Für Schritt Zu Einem Erfüllteren Leben Als Bonusmama Zu Gelangen.
+Denn du bist einzigartig – und so ist auch dein Weg als Bonusmama. Mit der Richtigen Unterstützung Findest du Genau den Weg, der Zu dir und deiner Familie Passt. Schritt für Schritt. ***von “ich sollte” zu “ich möchte”.***## Zusammenfassung
+Viele Bonusmamas plagen sich mit “Ich sollte”-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – von Gesellschaftlichen Erwartungen über Familiäre Prägungen bis Hin zur Angst, nicht zu Genügen. Sich von diesen Gedanken zu Befreien, ist ein Prozess, der Selbstreflexion, Selbstfürsorge und oft auch Unterstützung von Außen Erfordert. Ein Coaching kann dabei helfen, Individuelle Lösungen zu finden und Schritt für Schritt zu einem Erfüllteren leben als Bonusmama zu Gelangen.
 
 

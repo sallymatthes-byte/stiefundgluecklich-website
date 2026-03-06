@@ -46,7 +46,7 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 - Dankbarkeit praktizieren: Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen Lieben. Je mehr du das Positive in den Vordergrund rückst, desto stärker fühlst du dich.
 
-- **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle Deinen Tank Regelmäßig Auf. Eine Gestärkte, Zufriedene Bonusmama Kann Viel Besser Für Andere Da Sein.
+- **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
 
 - **Grenzen setzen:** Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
 
@@ -62,7 +62,7 @@ auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inn
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 
-Pflege auch die **Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – In Dir, In Deiner Patchworkfamilie, In Jedem Einzelnen Tag. Mache Es Dir Zur Gewohnheit, Deine Aufmerksamkeit Darauf Zu Richten Und Es Wertzuschätzen.
+Pflege auch die **Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
 
 Nicht zuletzt geht es darum, **Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
 
@@ -78,7 +78,7 @@ Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 
 - 💎 Vertraue auf deine innere Stimme und Intuition
 
-*Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* Sie erwachsen aus der liebevollen Annahme dessen, was ist – Inklusive Deiner Selbst. Sie Sind Das Fundament, Auf Dem Du Deine Patchworkfamilie Aufbauen Und Gestalten Kannst. Und Sie Strahlen Aus Auf Alle Beteiligten Und Schenken Euch Verbundenheit, Freude Und Liebe.
+*Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* Sie erwachsen aus der liebevollen Annahme dessen, was ist – Inklusive deiner Selbst. Sie sind das Fundament, auf dem Du deine Patchworkfamilie Aufbauen und Gestalten Kannst. Und sie Strahlen aus auf alle Beteiligten und Schenken euch Verbundenheit, Freude und Liebe.
 
 ## Zusammenfassung
 Als Bonusmama ist es wichtig, sich der eigenen Familienideale bewusst zu werden, die oft durch Herkunft und Gesellschaft geprägt sind, und zu verstehen, warum diese in der Realität einer Patchworkfamilie meist nicht funktionieren. Es gilt, Abschied zu nehmen von alten Vorstellungen und offen zu sein für neue, unkonventionelle Wege des Zusammenlebens. Dabei ist es hilfreich, die Chancen und das Potenzial zu erkennen, die diese Familienform bietet, wie etwa die Vielfalt an Beziehungen und die Möglichkeit zur persönlichen Weiterentwicklung. Auf dem Weg zu innerem Frieden und Erfüllung sind Selbstliebe, Dankbarkeit für das Jetzt und Vertrauen in die eigene Kraft von zentraler Bedeutung. Es ist ein Prozess des Loslassens und der liebevollen Annahme dessen, was ist, der letztlich zu mehr Verbundenheit, Freude und Liebe in der Patchworkfamilie führt.

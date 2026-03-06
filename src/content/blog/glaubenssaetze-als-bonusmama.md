@@ -28,7 +28,7 @@ Doch so mächtig Glaubenssätze auch sein mögen, sie sind nicht in Stein gemei�
 
 Stell dir vor, du stehst vor einem Spiegel. Zunächst siehst du nur dein Spiegelbild, doch wenn du genauer hinschaust, erkennst du die feinen Risse und Schrammen auf der Oberfläche. So ähnlich ist es mit unseren Glaubenssätzen.*Sie sind so sehr ein Teil von uns, dass wir sie oft gar nicht wahrnehmen.* Doch wenn wir innehalten und bewusst hinschauen, können wir sie erkennen.
 
-Eine Möglichkeit, Glaubenssätze aufzuspüren, ist, auf unsere **Gedanken und Gefühle**zu achten. Welche Situationen lösen wiederkehrende negative Emotionen aus? Welche Sätze tauchen immer wieder in unserem inneren Dialog auf? “Ich bin nicht gut genug”, “Ich schaffe das nie” oder “Ich passe nicht in diese Familie” – Solche Gedanken Können Hinweise Auf Tiefliegende Glaubenssätze Sein.
+Eine Möglichkeit, Glaubenssätze aufzuspüren, ist, auf unsere **Gedanken und Gefühle**zu achten. Welche Situationen lösen wiederkehrende negative Emotionen aus? Welche Sätze tauchen immer wieder in unserem inneren Dialog auf? “Ich bin nicht gut genug”, “Ich schaffe das nie” oder “Ich passe nicht in diese Familie” – Solche Gedanken können Hinweise auf Tiefliegende Glaubenssätze sein.
 
 Auch unser **Verhalten**kann uns Aufschluss darüber geben, welche Überzeugungen uns leiten. Vermeiden wir bestimmte [Situationen](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) oder Herausforderungen? Reagieren wir auf Konflikte immer auf die gleiche Art und Weise? Wenn wir uns dabei ertappen, dass wir uns selbst sabotieren oder in alte Muster verfallen, lohnt es sich, den zugrunde liegenden Glaubenssätzen auf die Spur zu kommen.
 

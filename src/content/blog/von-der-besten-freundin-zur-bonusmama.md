@@ -27,7 +27,7 @@ Marion war eine der besten Freundinnen der Kindsmutter und kannte somit auch die
 
 In dem kleinen Dorf, in dem sie lebte, machten schnell Gerüchte die Runde. Marion wurde beschuldigt, die Ehe ihrer Freundin zerstört zu haben und die Schuld an der Trennung der Eltern zu tragen. Sie war verletzt und fühlte sich ungerecht behandelt. Die Kinder, die sie eigentlich schon kannte, waren nun auch verunsichert und wussten nicht, wie sie mit der neuen Situation umgehen sollten.
 
-Marions Partner stand zwischen den Stühlen – Hin- Und Hergerissen Zwischen Seiner Neuen Partnerin, Den Kindern Und Dem Alten Freundeskreis. Er Wollte Für Alle Beteiligten Da Sein, Was Die Situation Nicht Einfacher Machte. Marion Fühlte Sich Oft Allein Und Sehnte Sich Nach Mehr Rückhalt Von Ihrem Partner.
+Marions Partner stand zwischen den Stühlen – Hin- Und Hergerissen zwischen seiner Neuen Partnerin, den Kindern und dem Alten Freundeskreis. Er wollte für alle Beteiligten da sein, Was die Situation nicht Einfacher machte. Marion fühlte sich oft Allein und Sehnte sich nach mehr Rückhalt von ihrem Partner.
 
 Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getroffen hatte. War sie wirklich bereit für diese Herausforderung? Konnte sie den Kindern gerecht werden und eine gute Bonusmutter sein? Diese Fragen beschäftigten sie sehr und sie spürte, dass sich etwas ändern musste.
 
@@ -35,7 +35,7 @@ Gleichzeitig kamen bei Marion Zweifel auf, ob sie die richtige Entscheidung getr
 
 ## Marion wünschte sich…
 
-Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie. **Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – Nicht Nur Von Ihrem Umfeld, Sondern Auch Von Den Kindern.** Ihr Größtes Ziel War Es, Eine Starke Und Liebevolle Patchworkfamilie Aufzubauen, In Der Jeder Seinen Platz Hat Und Respektiert Wird. Sie Wollte Für Die Kinder Da Sein, Eine Vertrauensvolle Beziehung Zu Ihnen Aufbauen Und Ihnen Zeigen, Dass Sie Nicht Zwischen Den Eltern Wählen Müssen, Sondern Von Allen Geliebt Werden.
+Inmitten des Chaos aus Gerüchten, Anfeindungen und Zweifeln sehnte sich Marion nach nichts mehr als nach Frieden und Harmonie. **Sie wünschte sich, dass die Gerüchte verstummen und sie endlich akzeptiert werden würde – nicht nur von ihrem Umfeld, sondern auch von den Kindern.** ihr Größtes Ziel war es, eine Starke und Liebevolle Patchworkfamilie Aufzubauen, in der Jeder Seinen Platz hat und Respektiert wird. Sie wollte für die Kinder da sein, Eine Vertrauensvolle Beziehung zu ihnen Aufbauen und ihnen zeigen, dass sie nicht zwischen den Eltern Wählen müssen, sondern von allen Geliebt werden.
 
 Auch für ihre Partnerschaft hatte Marion klare Vorstellungen. Sie sehnte sich danach, mit ihrem Partner ein unzertrennliches Team zu bilden, das gemeinsam durch dick und dünn geht. Marion wünschte sich mehr Rückhalt und Verständnis von ihm, gerade wenn es um Entscheidungen ging, die die ganze Familie betrafen.
 
@@ -73,7 +73,7 @@ Unser ganzheitlicher Ansatz, der Analyse, Veränderungen und Kommunikation mitei
 
 marions transformation
 
-Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – Vollzog Marion Eine Beeindruckende Verwandlung, Sowohl In Ihrem Auftreten Nach Außen Als Auch In Ihrer Inneren Haltung. **war Sie Anfangs Noch Unsicher Und Von Zweifeln Geplagt, Strahlte Marion Nun Eine Neue Zuversicht Und Selbstsicherheit Aus.** Sie Hatte Gelernt, Zu Sich Und Ihren Bedürfnissen Zu Stehen Und Sich Nicht Mehr Von Negativen Einflüssen Verunsichern Zu Lassen. Ihr Auftreten War Von Einer Ruhigen Gelassenheit Geprägt, Die Auch Auf Ihr Umfeld Ausstrahlte.
+Durch die intensive Arbeit an sich selbst und die konsequente Umsetzung der drei Schritte – Analyse, Veränderungen und Kommunikation – Vollzog Marion eine Beeindruckende Verwandlung, Sowohl in ihrem Auftreten nach Außen als auch in ihrer Inneren Haltung. **war sie Anfangs noch Unsicher und von Zweifeln Geplagt, Strahlte Marion Nun eine Neue Zuversicht und Selbstsicherheit aus.** sie hatte Gelernt, zu sich und ihren Bedürfnissen zu stehen und sich nicht mehr von Negativen Einflüssen Verunsichern zu lassen. Ihr Auftreten war von einer Ruhigen Gelassenheit Geprägt, die Auch auf ihr Umfeld Ausstrahlte.
 
 In Gesprächen mit der Kindsmutter oder anderen Kritikern blieb Marion freundlich, aber bestimmt. Sie ließ sich nicht mehr in Machtkämpfe verwickeln, sondern fokussierte sich darauf, Lösungen zu finden und respektvoll miteinander umzugehen. Durch ihre klare Kommunikation gelang es ihr, viele Konflikte schon im Keim zu ersticken.
 

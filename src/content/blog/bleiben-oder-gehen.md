@@ -59,7 +59,7 @@ Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner 
 
 ## Ist es Zeit zu gehen?
 
-Immer wieder schwirrt dir die Frage “Gehen oder Bleiben?” durch den Kopf. Und das ist unglaublich belastend.
+Immer wieder schwirrt dir die Frage “gehen oder bleiben?” durch den Kopf. Und das ist unglaublich belastend.
 
 Ich habe an diesem Punkt mich aktiv dagegen entschieden und habe mich auf den Weg gemacht, diese Gedanken zu ergründen und für die Beziehung zu kämpfen. Denn für mich war klar, dass dieser Mann es wert ist.
 Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.

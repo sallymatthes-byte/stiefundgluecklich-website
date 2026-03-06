@@ -12,9 +12,9 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Stéphane und ich haben uns in Thailand kennengelernt. Damals lebte er noch in Frankreich und ich in Deutschland.
-Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – Er Ist Immer Noch Da. 😅
-Er ist damals also sofort bei mir eingezogen – In Meine 35qm Große Einzimmerwohnung. Die Frage, Wer Wann Wo Bei Wem Einzieht, Stellte Sich Für Unsere Patchworkfamilie Aufgrund Unserer Entfernung Daher Erst Einmal Nicht.
-Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – Es Blieb Also Nur Die Option, Dass Er Zu Mir Kommt. Und Ob Wir Langfristig Zusammenbleiben Wollten, Mussten Wir Auch Erst Einmal Herausfinden. Von Gemeinsamer Wohnung War Da Also Noch Nicht Die Rede.
+Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist immer noch da. 😅
+Er ist damals also sofort bei mir eingezogen – in meine 35qm Große Einzimmerwohnung. Die Frage, wer Wann wo bei wem Einzieht, Stellte sich für unsere Patchworkfamilie Aufgrund unserer Entfernung daher Erst einmal nicht.
+Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb Also nur die Option, dass er zu mir kommt. Und ob wir Langfristig Zusammenbleiben Wollten, Mussten wir auch Erst einmal Herausfinden. Von Gemeinsamer Wohnung war da Also noch nicht die Rede.
 
 Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.
@@ -25,7 +25,7 @@ Du hast dich verliebt und möchtest mit deinem Partner eine gemeinsame Zukunft a
 Dennoch gibt es einige Faktoren, die eine Rolle spielen können, um eine fundierte Entscheidung zu treffen.
 Es geht darum, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine somit stabile Basis für ein harmonisches Miteinander zu schaffen.
 
-Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – Nach Dem Wir Die Pandemie In Der Kleinen Wohnung Gut Überstanden Hatten, War Uns Klar: Wir Können Zusammen Leben Und Wir Möchten Auch Seinen Töchtern Ein Zu Hause In Deutschland Bieten.
+Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem Wir die Pandemie in der Kleinen Wohnung Gut Überstanden Hatten, war uns Klar: wir können Zusammen leben und wir Möchten auch seinen Töchtern ein Zu Hause in Deutschland Bieten.
 
 > “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
 
@@ -65,7 +65,7 @@ Falls einer von euch in die bestehende Wohnung des anderen zieht, solltet ihr eu
 
 Auch deine Wünsche und Vorstellungen bezüglich eines eigenen Raums sollten in die Planung einfließen. Ein separater Raum, den du nach deinen Vorstellungen gestalten kannst, kann dir als Rückzugsort dienen und dir das Gefühl von Wohlgefühl und Geborgenheit geben. Vielleicht kann dort auch ein Bett drin stehen, wenn du nicht mit im Familienbett schlafen möchtest?! **3. Offene Kommunikation und Ängste ansprechen ** Eine offene Kommunikation ist der Schlüssel, um mögliche Ängste und Bedenken anzusprechen. Teile deine Gefühle und Unsicherheiten mit deinem Partner und sucht gemeinsam nach Lösungen.
 
-Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – Also Besorgten Wir Kisten Für Die Spielsachen Und Jeden Morgen Heißt Es Bei Uns: Gemeinsames Aufräumen!
+Einer meiner Ängste war es, die Verantwortung für den Haushalt zu haben, wenn die Kinder da sind. Oder dass es immer unordentlich ist – Also Besorgten wir Kisten für die Spielsachen und jeden Morgen heißt es bei uns: Gemeinsames Aufräumen!
 
 Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehen könnte, wenn du in die Patchworkfamilie einziehst. Denn schließlich gibt es dadurch nochmal ganz andere Konfliktherde, das Leben wird sich für euch dadurch ausschlaggebend verändern. Dass damit Ängste einhergehen, ist total verständlich.
 

@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 
 ## Kennst du das Gefühl, immer alles unter Kontrolle haben zu müssen?
 
-Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – Von Den Kindern, Deinem Partner Und Vielleicht Sogar Dir Selbst. Willkommen Im Klub Der Micromanagenden Bonusmamas!
+Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir Selbst. Willkommen Im Klub der Micromanagenden Bonusmamas!
 
 Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: Ich micromanage. Und das belastet nicht nur mich – Sondern Die Ganze Familie.
 
@@ -22,7 +22,7 @@ Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanageme
 
 ## Was ist Micromanagement?
 
-Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwachen und kontrollieren zu wollen – Wie Ein Puppenspieler, Der Jede Bewegung Seiner Figuren Steuern Möchte. Vielleicht Erkennst Du Dich In Folgenden Situationen Wieder:
+Micromanagement bedeutet, jede Kleinigkeit in deiner Patchworkfamilie überwachen und kontrollieren zu wollen – wie ein Puppenspieler, der Jede Bewegung seiner Figuren Steuern möchte. Vielleicht Erkennst du dich in Folgenden Situationen wieder:
 
 - Du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
 
@@ -34,7 +34,7 @@ Das Problem? Deine guten Absichten können dazu führen, dass sich dein Umfeld k
 
 Stell dir vor: Dein Stiefkind kommt aus der Schule, will sich entspannen, aber du fragst direkt nach den Hausaufgaben. Während es arbeitet, stehst du daneben und korrigierst jeden Fehler. Die Reaktion? Widerstand. Dein Stiefkind blockt ab, dein Partner zieht sich zurück, und das Chaos, das du eigentlich vermeiden wolltest, wird noch wahrscheinlicher.
 
-Micromanagement mag dir das Gefühl geben, alles im Griff zu haben – Doch In Wirklichkeit Schadet Es Euren Beziehungen.
+Micromanagement mag dir das Gefühl geben, alles im Griff zu haben – doch in Wirklichkeit Schadet es euren Beziehungen.
 
 ![Stimmungsbild zum Artikel](/images/blog/vom-micromanagement-zum-loslassen-2.jpg)
 
@@ -52,7 +52,7 @@ Deine Stiefkinder spüren ständig deinen kontrollierenden Blick. Sie haben das 
 
 Dein Partner fühlt sich entmachtet, wenn du dich in seine Vaterrolle einmischt. Mit der Zeit kann das an seinem Selbstwertgefühl nagen und eure Beziehung belasten.
 
-Kurz gesagt: Micromanagement ist wie ein schleichendes Gift, das die Harmonie in eurer Familie zersetzt. Aber keine Sorge – Es Gibt Einen Ausweg.
+Kurz gesagt: Micromanagement ist wie ein schleichendes Gift, das die Harmonie in eurer Familie zersetzt. Aber keine Sorge – es gibt einen Ausweg.
 
 ## Warum neigen Bonusmamas zum Micromanagement?
 
@@ -76,7 +76,7 @@ Nimm dir Zeit für eine ehrliche Selbstreflexion. Frag dich: Warum habe ich das 
 
 ### Schritt 2: Veränderung – Lerne loszulassen und zu vertrauen
 
-Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – Wichtig Ist, Dass Du Loslässt.
+Du bist nicht für alles verantwortlich. Beginne Schritt für Schritt, Aufgaben abzugeben und anderen zu vertrauen. Lass deinen Partner z. B. einen Ausflug planen oder lass das Kinderzimmer so, wie die Kids es aufgeräumt haben. Es muss nicht perfekt sein – Wichtig ist, dass du Loslässt.
 
 ### Schritt 3: Kommunikation – Sprich über Vertrauen und Aufgabenteilung
 

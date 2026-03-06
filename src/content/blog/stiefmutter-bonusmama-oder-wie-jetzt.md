@@ -20,9 +20,9 @@ Lass uns dafür mal einen Blick in die [Vergangenheit](https://www.planet-wissen
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab – Verhütung war damals bekanntermaßen noch etwas schwierig.
 In dieser Zeit war auch der Tod eines Elternteils nicht selten: Väter starben in Kriegen, die Mütter bei einer der zahlreichen Geburten; oft kamen auch Krankheiten dazu.
 
-Und dann war es üblich, neu zu heiraten und den verstorbenen Elternteil zu ersetzen. Zumindest passierte das oft, wenn die Männer sich andere Frauen suchten – Verwitwete Frauen Hingegen Blieben Oft Mit Der Kinderschar Allein. Doch Das Ist Ein Ganz Anderes Thema.
+Und dann war es üblich, neu zu heiraten und den verstorbenen Elternteil zu ersetzen. Zumindest passierte das oft, wenn die Männer sich andere Frauen suchten – Verwitwete Frauen Hingegen Blieben oft mit der Kinderschar Allein. Doch das Ist ein Ganz Anderes Thema.
 
-Früher war also klar: Kinder einer Familie hatten einen Vater und eine Mutter. Starb ein Elternteil, heiratete der andere in der Regel schnell wieder, um die Kinder versorgt zu wissen. So entstand der Begriff “Stiefmutter” oder “Stiefvater” – Er Bezog Sich Auf Die Lücke, Die Durch Den Tod Des Leiblichen Elternteils Entstanden War.
+Früher war also klar: Kinder einer Familie hatten einen Vater und eine Mutter. Starb ein Elternteil, heiratete der andere in der Regel schnell wieder, um die Kinder versorgt zu wissen. So entstand der Begriff “Stiefmutter” oder “Stiefvater” – er Bezog sich auf die Lücke, die Durch den Tod des Leiblichen Elternteils Entstanden war.
 
 Das Wort “Stief” stammt aus dem Germanischen und bedeutet so viel wie “beraubt”. Und daraus resultierte diese negative Besetzung: Die Kinder wurden einem Elternteil beraubt und bekamen einen neuen dazu. Der Stiefelternteil war dann Ersatz und das führte oft zu Konflikten und schlussendlich zum Bild der “bösen Stiefmutter”, welches durch Märchen und andere Geschichten noch verstärkt wurde.
 
@@ -43,7 +43,7 @@ Oder man zieht zu der bestehenden Familie und fragt sich: “Wo ist mein Platz i
 In vielen Fällen kommen auch die eigenen Kinder mit dazu und dann gilt es nicht nur sich selbst in die neue Aufstellung einzufinden, sondern auch die Kinder miteinander zu verknüpfen. Und auch die gemeinsam verbrachte Zeit gestaltet sich unterschiedlich: je nach Aufteilung des Sorgerechts und der Wohnorte. (Bei uns beispielsweise kommt erschwerend hinzu, dass die Kinder in Frankreich leben und eine andere Sprache sprechen)
 Und diese Vielfältigkeit demonstriert der Begriff der Patchworkfamilie. Was nach einem lustigen, vielfältigen Fleckenteppich klingt, ist in der Realität oft anders und mit vielen Stolpersteinen verbunden. Auch wenn Beispiele wie dieses [hier](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index.html) beweisen, wie schön das Zusammenleben sein kann.
 
-Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elternteil*, welcher maßgeblich an der Zeugung des Kindes beteiligt war. Es gibt den*rechtlichen Elternteil*, welcher das Sorgerecht innehat (oder diese Rechte durch eine Adoption erworben hat). Und es gibt den*sozialen Elternteil*, der ohne gesetzliche Rechtsansprüche für das Kind eine wichtige Bezugsperson darstellt. Leider ist das aber gesetzlich so nicht verankert – Wie Soll Man Da Den Überblick Behalten?
+Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elternteil*, welcher maßgeblich an der Zeugung des Kindes beteiligt war. Es gibt den*rechtlichen Elternteil*, welcher das Sorgerecht innehat (oder diese Rechte durch eine Adoption erworben hat). Und es gibt den*sozialen Elternteil*, der ohne gesetzliche Rechtsansprüche für das Kind eine wichtige Bezugsperson darstellt. Leider ist das aber gesetzlich so nicht verankert – wie soll man da den Überblick Behalten?
 
 ![Stimmungsbild zum Artikel](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
 
@@ -63,5 +63,5 @@ Denn als Sally müssen sie mich nicht mögen oder gar lieben. Aber ich bin Besta
 Immer mehr Kinder wachsen heutzutage in Patchworkfamilien auf.
 Doch welche Rolle nimmt man als Stiefmutter ein? Der Begriff “Stiefmutter” ist historisch negativ behaftet. Heute gibt es alternative Bezeichnungen wie “Bonusmutter”. Persönlich finde ich diese aber auch nicht optimal.
 
-Am liebsten bin ich einfach Sally – Ich Selbst. Für Die Kinder Meines Partners Möchte Ich Eine Erwachsene Bezugsperson Sein, An Der Sie Sich Orientieren Können. Wie Wir Das Rollenverhältnis Nennen, Ist Zweitrangig.
+Am liebsten bin ich einfach Sally – ich Selbst. Für die Kinder meines Partners möchte ich eine Erwachsene Bezugsperson sein, An der Sie sich Orientieren können. Wie wir das Rollenverhältnis Nennen, ist Zweitrangig.
 Wichtig sind Offenheit und klare Absprachen. Jeder muss seinen Platz in der Patchworkfamilie finden. Geduld und Liebe zum Kind sind der Schlüssel zu einer gelingenden Beziehung. Welchen Begriff findest du angemessen? Lass uns gern darüber in den Austausch gehen, ich freue mich darauf!

@@ -14,7 +14,7 @@ podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeu
 
 > „Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue Rolle als Bonusmama wagte.
 
-Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Partner in Tränen ausbrach. Die Angst, nicht gut genug zu sein, die Sorge, von den Kindern abgelehnt zu werden, und die Unsicherheit über meine neue Rolle – All Das Überwältigte Mich In Diesem Moment. **heute Weiß Ich: Eine Stiefmutter Zu Sein Bedeutet So Viel Mehr Als Nur Die Neue Partnerin Des Vaters Zu Sein.** Es Ist Eine Reise Zu Dir Selbst, Eine Herausforderung, Die Dich Wachsen Lässt, Und Eine Chance, Teil Von Etwas Ganz Besonderem Zu Werden.
+Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Partner in Tränen ausbrach. Die Angst, nicht gut genug zu sein, die Sorge, von den Kindern abgelehnt zu werden, und die Unsicherheit über meine neue Rolle – All das Überwältigte mich in diesem Moment. **heute weiß ich: eine Stiefmutter zu sein Bedeutet so viel mehr als nur die Neue Partnerin des Vaters zu sein.** Es ist eine Reise zu dir Selbst, eine Herausforderung, die Dich Wachsen lässt, und eine Chance, Teil von etwas ganz Besonderem zu werden.
 
 ---
 
@@ -40,7 +40,7 @@ Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzäh
 
 Nach drei Monaten Beziehung war es dann soweit: Das erste Treffen stand an. Ich hatte die ganze Nacht kaum geschlafen, mir tausend Szenarien ausgemalt und sogar einen kleinen Notfallplan in meiner Handtasche.
 
-Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich richtig "Hallo" sagen konnte, hatte die Große schon meine Hand gepackt und zog mich in Richtung Ausgang. Die Jüngere folgte uns mit kritischem Blick – Eine Eigenschaft, Die Ich Später Noch Sehr Zu Schätzen Lernen Würde. **doch Schon Bald Merkte Ich: Die Rolle Als Stiefmutter Ist Etwas Völlig Anderes Als Die Einer Erzieherin Oder Tante.** Der Erste Realitätscheck Kam Am Dritten Wochenende. Eines Der Mädchen Weigerte Sich, Das Gemüse Zu Essen, Das Ich Liebevoll Zubereitet Hatte. "bei Mama Muss Ich Das Nicht Essen!", Verkündete Sie Triumphierend.
+Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich richtig "Hallo" sagen konnte, hatte die Große schon meine Hand gepackt und zog mich in Richtung Ausgang. Die Jüngere folgte uns mit kritischem Blick – eine Eigenschaft, die Ich Später noch sehr zu Schätzen lernen würde. **doch schon Bald Merkte ich: die Rolle als Stiefmutter ist etwas Völlig Anderes als die Einer Erzieherin oder Tante.** der Erste Realitätscheck kam Am Dritten Wochenende. Eines Der Mädchen Weigerte sich, das Gemüse zu Essen, das Ich Liebevoll Zubereitet hatte. "bei Mama muss ich das Nicht Essen!", Verkündete sie Triumphierend.
 
 In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen Erfahrungen würden mir nur bedingt helfen.
 
@@ -93,7 +93,7 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 
 ## Dein Weg zur harmonischen Patchworkfamilie
 
-Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es sich an!" Oder du stehst am Anfang deiner Reise als Bonusmama und fragst dich bangend: "Wie soll ich das alles schaffen?"**Lass mich dir eines sagen: Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – Einen Weg, Bei Dem Du Ganz Du Selbst Sein Kannst.
+Vielleicht sitzt du gerade da, nickst beim Lesen und denkst: "Genau so fühlt es sich an!" Oder du stehst am Anfang deiner Reise als Bonusmama und fragst dich bangend: "Wie soll ich das alles schaffen?"**Lass mich dir eines sagen: Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem Du ganz du Selbst sein Kannst.
 
 So wie für Christina und Maria:
 

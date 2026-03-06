@@ -13,7 +13,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-All Ansatz!
 
-Jede Beziehung ist einzigartig und erfordert *individuelle Lösungen*. In unserem Fall lag die Verantwortung zu Beginn komplett bei meinem Partner – Eine Entscheidung, Die Nicht Immer Auf Verständnis Stößt, Aber Uns Geholfen Hat, Eine Solide Basis Für Unsere Beziehung Zu Schaffen.
+Jede Beziehung ist einzigartig und erfordert *individuelle Lösungen*. In unserem Fall lag die Verantwortung zu Beginn komplett bei meinem Partner – eine Entscheidung, die Nicht immer auf Verständnis Stößt, aber uns Geholfen hat, eine Solide Basis für unsere Beziehung zu schaffen.
 Weshalb und wie wir das geschafft haben, erfährst du im Artikel.
 
 ## Was bedeutet diese Verantwortung eigentlich?
@@ -40,7 +40,7 @@ Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in de
 Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise **verunsichert **und **brauchen Zeit **, um sich an die neue Situation zu gewöhnen.
 Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem Leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.
 
-Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – Es Gibt Situationen, In Denen Wir Gefragt Sind Und Verantwortung Übernehmen Sollten. Doch Auch In Diesen Fällen Ist Es Wichtig, Offen Mit Dem Biologischen Elternteil Zu Kommunizieren. Gemeinsam Kann Entschieden Werden, Wie Wir Die Verantwortung Am Besten Aufteilen Können.
+Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – es gibt Situationen, in Denen wir Gefragt sind und Verantwortung Übernehmen Sollten. Doch auch in diesen Fällen ist es Wichtig, Offen mit dem Biologischen Elternteil zu Kommunizieren. Gemeinsam kann Entschieden werden, wie wir die Verantwortung Am Besten Aufteilen können.
 
 > “Die größte Führungsaufgabe ist die Verantwortung für die eigene Familie.” – John C. Maxwell
 

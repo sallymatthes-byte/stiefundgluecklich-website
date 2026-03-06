@@ -11,7 +11,7 @@ imageAlt: "Titelbild zum Artikel"
 ---
 
 Neulich erzählte mir eine Klientin, dass sie gehört hatte, wie ihr Bonuskind am Telefon zur Mutter sagte “Ja, mir geht es auch nicht gut. Ich vermisse dich auch.” Und das, obwohl das Kind den ganzen Tag unbeschwert gespielt hatte.
-Später erzählte das Kind, dass es das gesagt hatte, weil die Mutter dem Kind gesagt hatte, dass sie es schrecklich vermisst – Das Kind Wollte Somit Die Bindung Zur Mutter Aufrechterhalten – Ein Klassischer Loyalitätskonflikt.
+Später erzählte das Kind, dass es das gesagt hatte, weil die Mutter dem Kind gesagt hatte, dass sie es schrecklich vermisst – das Kind wollte Somit die Bindung zur Mutter Aufrechterhalten – ein Klassischer Loyalitätskonflikt.
 Dies ist eine der 5 Herausforderungen, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
 
 ## Die 5 Herausforderungen im Überblick
@@ -38,7 +38,7 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – Ob Lebend Oder Verstorben – Außerhalb Der Kernfamilie, Der Untrennbar Mit Der Familie Verbunden Ist.** Die Beziehung Zum Ex-partner Beeinflusst Die Dynamik In Der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 
@@ -52,11 +52,11 @@ Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
 Ich möchte dir gern die 13-jährige Emma vorstellen. Ihre Eltern haben sich vor einem Jahr getrennt und jetzt hat ihr Vater eine neue Partnerin, Lisa. Sie mag Lisa eigentlich ganz gern, aber immer, wenn sie sieht, wie vertraut sie und dein Vater miteinander umgehen, fühlt sie einen Stich im Herzen.
 
-Es ist, als würde sie ihren Vater *verlieren* – An Diese Andere Frau, Die Plötzlich So Viel Zeit Mit Ihm Verbringt. Gleichzeitig Hat Sie Das Gefühl, Ihre Mutter Zu *verraten*, Wenn Sie Sich Zu Sehr Auf Lisa Einlässt. Sie Fühlt Sich Hin- Und Hergerissen, **zwischen Zwei Stühlen **.
+Es ist, als würde sie ihren Vater *verlieren* – an diese Andere Frau, die Plötzlich so viel Zeit mit ihm Verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa Einlässt. Sie fühlt sich Hin- Und Hergerissen, **zwischen Zwei Stühlen **.
 
 Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust, fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*.
 
-Der **Loyalitätskonflikt**– Das Gefühl, Mama Oder Papa Zu Verraten, Wenn Man Die Bonuseltern Mag – Kann Quälend Sein. Selbst Bei Einvernehmlichen Trennungen Ist Diese Zerrissenheit Für Kinder Eine Große Belastung. Kommt Es Zwischen Den Leiblichen Eltern Zum Streit, Wird Sie Sogar *unerträglich*.
+Der **Loyalitätskonflikt**– das Gefühl, Mama oder Papa zu Verraten, wenn man die Bonuseltern mag – kann Quälend sein. Selbst bei Einvernehmlichen Trennungen ist diese Zerrissenheit für Kinder eine Große Belastung. Kommt es zwischen den Leiblichen Eltern zum Streit, wird sie sogar *unerträglich*.
 
 Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit, um sich an die neue Situation anzupassen. *Gerade Teenager wie Emma, Kinder mit tieferen Loyalitätskonflikten und Kinder, die bereits andere Verluste erlebt haben, benötigen ein langsameres Tempo, viel Eins-zu-eins-Zeit mit Mama oder Papa und weniger Aktivitäten mit der ganzen Patchworkfamilie.*
 
@@ -95,11 +95,11 @@ Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Lo
 
 - **Bietet Gesprächsangebote:** Zeigt den Kindern, dass ihr für sie da seid und ein offenes Ohr für ihre Sorgen habt. Fragt sie nach ihren Gefühlen und Gedanken, ohne sie zu drängen. Manchmal hilft es schon, wenn sie wissen, dass sie mit euch über alles reden können.
 
-- **Gestaltet Eins-zu-eins-Zeit:** Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – Wichtig Ist, Dass Sie Spüren, Dass Sie Nicht Um Eure Zuwendung Konkurrieren Müssen.
+- **Gestaltet Eins-zu-eins-Zeit:** Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmerksamkeit schenkt. Ob ihr mit ihnen spazieren geht, Gesellschaftsspiele spielt oder einfach nur kuschelt – Wichtig ist, dass sie Spüren, dass sie nicht um eure Zuwendung Konkurrieren müssen.
 
 - **Erlaubt Ambivalenzen:** Macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
 
-Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird – Und Begleitet Es Dabei Ohne Druck Und Erwartungen.
+Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird – und Begleitet es dabei ohne Druck und Erwartungen.
 
 ## Zusammenfassung
 Bonuskinder in Patchworkfamilien sind oft mit schmerzhaften Verlusterfahrungen und belastenden Loyalitätskonflikten konfrontiert. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch lernen, sich in einer neuen Familienkonstellation zurechtzufinden, ohne die leiblichen Eltern zu verletzen. Hinzu kommt die Überforderung durch zu viele und zu schnelle Veränderungen, die die Kinder leicht aus dem Gleichgewicht bringen können.
