@@ -14,10 +14,6 @@ Warum bleibt bei euch als Paar so wenig übrig – obwohl dein Partner so viel z
 
 Kennst du das? Monat für Monat überweist dein Partner Unterhalt, das Kindergeld fließt zur Ex, und irgendwie bleibt für euch als Paar immer zu wenig übrig. Während andere Patchwork-Familien scheinbar finanziell gut zurechtkommen, fühlt es sich für euch an, als würdet ihr kaum vorankommen.
 
----
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Unterhalt in Patchworkfamilien" an — auf [Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) oder überall, wo du Podcasts hörst.
----
-
 ## Das betrifft mich doch nicht!?
 
 Bis dahin dachte ich: „Er zahlt eben Unterhalt – das ist seine Sache, nicht meine."
@@ -38,59 +34,38 @@ Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und 
 
 ## Deutschland, Österreich, Schweiz – wer bekommt was?
 
-> Kindesunterhalt:
-> - Wird nach der Düsseldorfer Tabelle berechnet (abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom Alter des Kindes).
-> - Seit Januar 2025 wurde der Unterhalt um 2 bis 8 € pro Monat erhöht.
+### Deutschland: Düsseldorfer Tabelle und einheitliches Kindergeld
 
-> Kindergeld:
-> - Einheitlich 250 € pro Monat und Kind – unabhängig vom Einkommen.
-> - Ein Tipp: Das Kindergeld auf ein separates Konto einzahlen lassen, auf das beide Elternteile Zugriff haben – das erleichtert die faire Kostenverteilung.
+**Kindesunterhalt:** Wird nach der Düsseldorfer Tabelle berechnet, abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom Alter des Kindes. Seit Januar 2025 wurde der Unterhalt um 2 bis 8 € pro Monat erhöht.
 
-> Steuerliche Aspekte:
-> - Unterhaltszahlungen an Ex-Partner können als Sonderausgaben abgesetzt werden.
-> - Unterhaltspflicht hat Vorrang vor neuen Partnerschaften! Dein Partner muss also erst seine Verpflichtungen erfüllen, bevor er euer gemeinsames Leben finanziell mittragen kann.
+**Kindergeld:** Einheitlich 250 € pro Monat und Kind – unabhängig vom Einkommen. Ein Tipp: Das Kindergeld auf ein separates Konto einzahlen lassen, auf das beide Elternteile Zugriff haben – das erleichtert die faire Kostenverteilung.
+
+**Steuerliche Aspekte:** Unterhaltszahlungen an Ex-Partner können als Sonderausgaben abgesetzt werden. Wichtig zu wissen: Unterhaltspflicht hat Vorrang vor neuen Partnerschaften! Dein Partner muss also erst seine Verpflichtungen erfüllen, bevor er euer gemeinsames Leben finanziell mittragen kann.
 
 ### Österreich: Familienbeihilfe und individuelle Unterhaltsverhandlungen
 
-> Familienbeihilfe (statt Kindergeld):
-> - 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren.
-> - Geschwisterstaffelung: Mehr Kinder = höherer Betrag pro Kind.
+**Familienbeihilfe** (statt Kindergeld): 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren. Geschwisterstaffelung bedeutet: mehr Kinder = höherer Betrag pro Kind.
 
-> Kindesunterhalt:
-> - Kein festes System wie in Deutschland.
-> - Richtwerte: 16 % des Nettoeinkommens für Kinder bis 6 Jahre.
-> - 22 % für Kinder ab 15 Jahren.
-> - „Luxusgrenze": Maximal zweieinhalbfacher Regelbedarf, um extrem hohe Unterhaltszahlungen zu begrenzen.
+**Kindesunterhalt:** Kein festes System wie in Deutschland. Die Richtwerte liegen bei 16 % des Nettoeinkommens für Kinder bis 6 Jahre und 22 % für Kinder ab 15 Jahren. Die sogenannte „Luxusgrenze" begrenzt den Unterhalt auf maximal das Zweieinhalbfache des Regelbedarfs.
 
-> Steuerliche Aspekte:
-> - Familienbonus Plus: Bis zu 1.500 € Steuerentlastung pro Jahr und Kind.
-> - Bonuseltern profitieren kaum steuerlich – die Vorteile gelten hauptsächlich für leibliche Eltern.
+**Steuerliche Aspekte:** Der Familienbonus Plus bringt bis zu 1.500 € Steuerentlastung pro Jahr und Kind. Bonuseltern profitieren allerdings kaum steuerlich – die Vorteile gelten hauptsächlich für leibliche Eltern.
 
 ### Schweiz: Hohe Unterhaltszahlungen, aber auch mehr Rechte für Väter
 
-> Kinderzulagen statt Kindergeld:
-> - Je nach Kanton zwischen 200 und 300 CHF pro Monat.
+**Kinderzulagen** (statt Kindergeld): Je nach Kanton zwischen 200 und 300 CHF pro Monat.
 
-> Unterhalt:
-> - Höher als in Deutschland oder Österreich, weil Lebenshaltungskosten berücksichtigt werden.
-> - Co-Parenting-Modell: Beide Elternteile teilen sich die Betreuung gleichberechtigt.
-> - Dadurch mehr Rechte für Väter, aber oft auch höhere finanzielle Verpflichtungen.
+**Unterhalt:** Höher als in Deutschland oder Österreich, weil die Lebenshaltungskosten berücksichtigt werden. Das Co-Parenting-Modell sorgt dafür, dass sich beide Elternteile die Betreuung gleichberechtigt teilen – dadurch mehr Rechte für Väter, aber oft auch höhere finanzielle Verpflichtungen.
 
-> Steuerliche Aspekte:
-> - Ehepaare werden gemeinsam besteuert, was oft zu einer höheren Steuerlast führt.
-> - Unverheiratete Patchwork-Familien haben oft steuerliche Nachteile gegenüber traditionellen Familien.
+**Steuerliche Aspekte:** Ehepaare werden gemeinsam besteuert, was oft zu einer höheren Steuerlast führt. Unverheiratete Patchworkfamilien haben häufig steuerliche Nachteile gegenüber traditionellen Familien.
 
 ![Unterhalt in Patchworkfamilien — Stimmungsbild](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
 
-## Warum du dich finanziell oft benachteiligt fühlst – die größten Herausforderungen
+## Warum du dich finanziell oft benachteiligt fühlst
 
-> Fehlender finanzieller Spielraum – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
-
-> Unklare Kostenverteilung – Wer zahlt eigentlich was? Manche Bonusmamas fühlen sich unfair belastet, weil sie sich an Haushaltskosten beteiligen, während ihr Partner noch hohe Unterhaltszahlungen leistet.
-
-> Angst vor Konflikten – Viele Bonuseltern vermeiden Finanzgespräche, weil sie befürchten, es könnte Streit geben. Doch genau dieses Schweigen führt oft zu Missverständnissen und Frust.
-
-> Das Gefühl, zurückzustecken – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hintenanstehen.
+- **Fehlender finanzieller Spielraum** – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
+- **Unklare Kostenverteilung** – Wer zahlt eigentlich was? Manche Bonusmamas fühlen sich unfair belastet, weil sie sich an Haushaltskosten beteiligen, während ihr Partner noch hohe Unterhaltszahlungen leistet.
+- **Angst vor Konflikten** – Viele Bonuseltern vermeiden Finanzgespräche, weil sie befürchten, es könnte Streit geben. Doch genau dieses Schweigen führt oft zu Missverständnissen und Frust.
+- **Das Gefühl, zurückzustecken** – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hintenanstehen.
 
 Aber: Du hast das Recht, deine [finanzielle Situation](/blog/finanzielle-beteiligung/) aktiv mitzugestalten!
 
