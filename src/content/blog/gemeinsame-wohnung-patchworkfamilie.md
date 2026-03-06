@@ -29,7 +29,7 @@ Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem 
 
 > “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
 
-## Welche Faktoren gibt es zu berücksichtigen? **1.**  Bedürfnisse aller Beteiligten berücksichtigen
+## Welche Faktoren gibt es zu berücksichtigen? **1. **Bedürfnisse aller Beteiligten berücksichtigen
 Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
 
 

@@ -15,7 +15,7 @@ Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft a
 
 ## Die versteckte Sehnsucht nach Nähe
 
-Es war ein Donnerstagabend im August, einer dieser endlos erscheinenden Ferientage, als mir die Tränen kamen. Die Kinder waren endlich im Bett, nach einem Tag voller Aktivitäten, Streitschlichten und Programmgestaltung. **Mein Partner und ich saßen nebeneinander auf der Couch, physisch so nah und emotional doch Welten entfernt.** Fünf von acht Wochen Sommerferien waren die Kinder bei uns – eine Zeit, die Ich eigentlich Liebte, die Aber auch Schonungslos Offenlegte, wie sehr unsere Beziehung unter dem Familienstress Litt.
+Es war ein Donnerstagabend im August, einer dieser endlos erscheinenden Ferientage, als mir die Tränen kamen. Die Kinder waren endlich im Bett, nach einem Tag voller Aktivitäten, Streitschlichten und Programmgestaltung. **Mein Partner und ich saßen nebeneinander auf der Couch, physisch so nah und emotional doch Welten entfernt. **Fünf von acht Wochen Sommerferien waren die Kinder bei uns – eine Zeit, die Ich eigentlich Liebte, die Aber auch Schonungslos Offenlegte, wie sehr unsere Beziehung unter dem Familienstress Litt.
 
 Ich beobachtete ihn von der Seite, wie er erschöpft auf sein Handy starrte, und spürte diesen schmerzhaften Stich in meinem Herzen. Wann hatten wir uns das letzte Mal wirklich gesehen? Nicht als Eltern, die wie ein eingespieltes Team den Familienalltag managten, sondern als Liebespaar? Die Zeit als Paar in unserer Patchworkfamilie schien wie ein kostbares Gut, das uns durch die Finger rann, ohne dass wir es aufhalten konnten.
 
@@ -36,7 +36,7 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 ## Die Suche nach verlorener Nähe
 
 
-Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “Ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen.** Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
+Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “Ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen. **Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
 
 ## Der Wendepunkt: Als ich aufhörte zu warten
 

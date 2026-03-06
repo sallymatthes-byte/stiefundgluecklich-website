@@ -48,11 +48,11 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
 
-- ** Grenzen setzen:**
+- **Grenzen setzen:**
 
 Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
 
-- ** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+- **Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 

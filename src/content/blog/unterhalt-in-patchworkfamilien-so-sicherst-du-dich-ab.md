@@ -116,7 +116,7 @@ Sobald ihr diese Klarheit geschaffen habt, geht es darum, neue Lösungen zu entw
 
 Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend miteinander kommuniziert. Geld ist ein hoch emotionales Thema – vor allem in Patchwork-familien, wo oft noch Ex-partner:innen und Kinder Involviert sind. Vielleicht Hast du Angst, als „fordernd“ zu Wirken, wenn du das Thema Ansprichst. Vielleicht Fürchtet dein Partner, dass du seine Verantwortung Gegenüber seinen Kindern nicht Akzeptierst. Doch Je Länger ihr Vermeidet, darüber zu sprechen, Desto Größer wird der Frust. Es geht nicht darum, Vorwürfe zu machen, sondern Gemeinsame Lösungen zu finden. Sag deinem Partner nicht: „du Zahlst so viel Unterhalt, dass für uns nichts Übrig bleibt.“ Sag Stattdessen: „ich Wünsche mir, dass wir Gemeinsam Überlegen, wie wir trotz der Verpflichtungen auch unser Eigenes leben Gut Finanzieren können.“
 
-**Der Schlüssel zu finanzieller Sicherheit in der Patchwork-Familie ist nicht, sich anzupassen oder zu verzichten – sondern Bewusst zu Entscheiden, wie ihr Eure Finanzen Gemeinsam Gestalten Wollt.** Je Klarer ihr Euch über eure Situation Seid und Je Offener ihr Darüber Sprecht, Desto weniger Konflikte und Unsicherheiten wird es geben.
+**Der Schlüssel zu finanzieller Sicherheit in der Patchwork-Familie ist nicht, sich anzupassen oder zu verzichten – sondern Bewusst zu Entscheiden, wie ihr Eure Finanzen Gemeinsam Gestalten Wollt. **Je Klarer ihr Euch über eure Situation Seid und Je Offener ihr Darüber Sprecht, Desto weniger Konflikte und Unsicherheiten wird es geben.
 
 sichere deine finalzielle zukunft als bonusmama!
 

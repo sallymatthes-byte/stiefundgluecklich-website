@@ -72,7 +72,7 @@ Passend dazu:**Hör dir die Podcastfolge „Balance finden als Bonusmama" an —
 
 Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 
-Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig.** Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
+Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig. **Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
 
 ## Wo finden wir Unterstützung?
 

@@ -12,7 +12,7 @@ imageAlt: "Titelbild zum Artikel"
 
 “Und sie sind… die Mama?” als die Lehrerin mich das fragte, wusste ich nicht, was ich antworten sollte. Oder dieser Moment, als ich so gerne zum Elternabend gehen wollte, aber nicht eingeladen war. Ich wollte helfen, mich einbringen und einfach dazugehören – aber ich wusste nicht, was meine Rolle als Bonuseltern Im Schulalltag überhaupt sein Durfte.
 
-Vielleicht kennst du dieses Gefühl. **Als ich in meine Patchworkfamilie kam, dachte ich, Schule und Kindergarten würden mich nur am Rande betreffen.** Doch mit der Zeit wurde mir klar: Es sind genau diese alltäglichen Situationen, die das Leben als Bonuseltern im Schulalltag so herausfordernd und gleichzeitig so besonders machen.
+Vielleicht kennst du dieses Gefühl. **Als ich in meine Patchworkfamilie kam, dachte ich, Schule und Kindergarten würden mich nur am Rande betreffen. **Doch mit der Zeit wurde mir klar: Es sind genau diese alltäglichen Situationen, die das Leben als Bonuseltern im Schulalltag so herausfordernd und gleichzeitig so besonders machen.
 
 Darfst du dein Bonuskind zum Kindergarten bringen? Gehört es sich, dass du mit den Lehrkräften sprichst? Was ist mit der Einschulung – Bist du dabei oder nicht? Diese Fragen Beschäftigen Viele Bonuseltern, ob in Deutschland oder Österreich.
 
@@ -22,7 +22,7 @@ In diesem Artikel teile ich mit dir meine bewährte Bonusmama-Formel, die dir hi
 
 ## Von unsichtbar zu unverzichtbar: Mein Weg als Bonusmama im Schulalltag
 
-Als ich das erste Mal vor der Klassenlehrerin stand und sie mich fragte: “Und Sie sind… die Mama?”, blieb ich sprachlos. Diese eine Frage löste einen Sturm von Gefühlen in mir aus.** War ich “nur” die Bonusmama?** Hatte ich überhaupt das Recht, hier zu sein?
+Als ich das erste Mal vor der Klassenlehrerin stand und sie mich fragte: “Und Sie sind… die Mama?”, blieb ich sprachlos. Diese eine Frage löste einen Sturm von Gefühlen in mir aus. **War ich “nur” die Bonusmama? **Hatte ich überhaupt das Recht, hier zu sein?
 
 Ich hatte mich monatelang darauf gefreut, am Schulleben meines Bonuskindes teilzunehmen. Ich wollte Hausaufgaben betreuen, bei Projekten helfen, vielleicht sogar beim Schulfest mitarbeiten. Doch plötzlich fühlte ich mich wie eine Außenseiterin – Jemand, Der Keinen [offiziellen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) Im System Hatte.
 
@@ -46,11 +46,11 @@ Eine der größten Hürden ist die unklare Rollenverteilung**. Anders als leibli
 
 **
 
-Diese fehlende Anerkennung führt zu einem weiteren Problem: dem mangelnden Mitspracherecht.** Du möchtest vielleicht am Elternabend teilnehmen, bei Schulentscheidungen mitreden oder einfach nur über den Lernfortschritt deines Bonuskindes informiert werden. Doch formal hast du oft keinen Anspruch darauf.**Ein besonders schmerzhafter Punkt ist die Ausgrenzung bei wichtigen Ereignissen.** Vielleicht möchtest du bei der Einschulung dabei sein, die Schultüte mitgestalten oder beim ersten Schultag fotografieren. Doch wenn die leibliche Mutter andere Vorstellungen hat, stehst du plötzlich außen vor – obwohl du dich Emotional Genauso Verbunden Fühlst.
+Diese fehlende Anerkennung führt zu einem weiteren Problem: dem mangelnden Mitspracherecht. **Du möchtest vielleicht am Elternabend teilnehmen, bei Schulentscheidungen mitreden oder einfach nur über den Lernfortschritt deines Bonuskindes informiert werden. Doch formal hast du oft keinen Anspruch darauf.**Ein besonders schmerzhafter Punkt ist die Ausgrenzung bei wichtigen Ereignissen. **Vielleicht möchtest du bei der Einschulung dabei sein, die Schultüte mitgestalten oder beim ersten Schultag fotografieren. Doch wenn die leibliche Mutter andere Vorstellungen hat, stehst du plötzlich außen vor – obwohl du dich Emotional Genauso Verbunden Fühlst.
 
 *Auch die unterschiedlichen Systeme in Deutschland und Österreich schaffen Verwirrung.* In Österreich gibt es ein verpflichtendes letztes Kindergartenjahr, während der Besuch in Deutschland oft freiwillig ist. Die Elternbeteiligung ist in Österreich durch Elternvereine stärker institutionalisiert, während sie in Deutschland je nach Einrichtung stark variieren kann.
 
-**Die vielleicht schwierigste Herausforderung liegt jedoch in der Kommunikation mit der leiblichen Mutter.** Ihre Zustimmung ist oft entscheidend dafür, wie stark du dich als Bonuselternteil im Schulalltag einbringen kannst. Doch diese Gespräche sind emotional aufgeladen und können schnell zu [Konflikten](/blog/konflikte-wegen-der-ex-ueberwinden/) führen, wenn die Mutter dein Engagement als Konkurrenz oder Einmischung empfindet.
+**Die vielleicht schwierigste Herausforderung liegt jedoch in der Kommunikation mit der leiblichen Mutter. **Ihre Zustimmung ist oft entscheidend dafür, wie stark du dich als Bonuselternteil im Schulalltag einbringen kannst. Doch diese Gespräche sind emotional aufgeladen und können schnell zu [Konflikten](/blog/konflikte-wegen-der-ex-ueberwinden/) führen, wenn die Mutter dein Engagement als Konkurrenz oder Einmischung empfindet.
 
 Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen – Wege, die ich selbst gegangen bin und die ich nun mit dir teilen möchte.
 
@@ -58,15 +58,13 @@ Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen –
 
 ## Wie du als Bonuseltern im Schulalltag trotzdem wirksam sein kannst
 
-Nach meiner eigenen Wendepunkt-Erkenntnis und denen vieler Klientinnen kann ich dir versichern:** Es ist absolut möglich, diese Herausforderungen zu überwinden und deinen Platz als Bonuselternteil im Schul- und Kindergartenalltag zu finden.** Eine meiner Klientinnen sorgte sich vor der Schuleinführung ihres Bonuskindes. Sie wollte so gern die Brotdose vorbereiten, die Schultüte gestalten und am ersten Schultag dabei sein. Doch die leibliche Mutter hatte andere Vorstellungen – für sie waren das Ihre Ureigenen Aufgaben als Mama.
+Nach meiner eigenen Wendepunkt-Erkenntnis und denen vieler Klientinnen kann ich dir versichern:** Es ist absolut möglich, diese Herausforderungen zu überwinden und deinen Platz als Bonuselternteil im Schul- und Kindergartenalltag zu finden. **Eine meiner Klientinnen sorgte sich vor der Schuleinführung ihres Bonuskindes. Sie wollte so gern die Brotdose vorbereiten, die Schultüte gestalten und am ersten Schultag dabei sein. Doch die leibliche Mutter hatte andere Vorstellungen – für sie waren das Ihre Ureigenen Aufgaben als Mama.
 
 Der Durchbruch kam, als meine Klientin ihren Blickwinkel änderte. Statt sich auf das zu konzentrieren, was ihr “weggenommen” wurde, fragte sie sich: “Wie kann ich auf meine eigene Weise zum ersten Schultag beitragen? Wie kann ich Teil dieses besonderen Moments sein, ohne mit der Mutter zu konkurrieren?”
 
 Sie führte offene Gespräche mit ihrem Partner, der vermittelnd mit der Mutter sprach. Gemeinsam fanden sie Aufgaben, die meine Klientin übernehmen konnte, ohne der Mutter etwas “wegzunehmen”. Sie organisierte eine kleine Überraschungsfeier für nach der offiziellen Einschulung, half beim Vorbereiten des Schreibtisches zu Hause und machte besondere Fotos vom fertigen Kinderzimmer.
 
-Diese Erfahrung zeigt den entscheidenden Perspektivwechsel, den erfolgreiche Bonuseltern im Schulalltag vollziehen: Es geht nicht darum, offiziell “dabei” zu sein oder formelle Rechte einzufordern.** Es geht darum, deine Rolle aktiv zu gestalten und kreative Wege zu finden, wie du dich einbringen kannst.**
-
-Auch bei Anna, der Bonusmama aus Österreich, war diese Veränderung deutlich zu spüren. Nachdem sie sich beim Elternabend zunächst ausgeschlossen gefühlt hatte, entschied sie sich für einen proaktiven Ansatz. Sie brachte sich ein, wo sie konnte – beim Buffet, bei Gesprächen, beim Aufräumen. Durch ihre Kontinuierliche, Freundliche Präsenz wurde sie nach und nach als Selbstverständlicher Teil der Schulgemeinschaft Akzeptiert.
+Diese Erfahrung zeigt den entscheidenden Perspektivwechsel, den erfolgreiche Bonuseltern im Schulalltag vollziehen: Es geht nicht darum, offiziell “dabei” zu sein oder formelle Rechte einzufordern. **Es geht darum, deine Rolle aktiv zu gestalten und kreative Wege zu finden, wie du dich einbringen kannst. **Auch bei Anna, der Bonusmama aus Österreich, war diese Veränderung deutlich zu spüren. Nachdem sie sich beim Elternabend zunächst ausgeschlossen gefühlt hatte, entschied sie sich für einen proaktiven Ansatz. Sie brachte sich ein, wo sie konnte – beim Buffet, bei Gesprächen, beim Aufräumen. Durch ihre Kontinuierliche, Freundliche Präsenz wurde sie nach und nach als Selbstverständlicher Teil der Schulgemeinschaft Akzeptiert.
 
 Diese Transformation beginnt immer mit der Erkenntnis: Du musst nicht auf Erlaubnis oder offizielle Anerkennung warten, um als Bonuseltern im Schulalltag wirksam zu sein. *Du kannst selbst entscheiden, wie du dich einbringen möchtest – und oft Öffnen sich dadurch Türen, die Vorher Verschlossen Schienen.*
 
@@ -136,7 +134,7 @@ Alternative Beteiligungsmöglichkeiten finden:**Auch wenn dir formelle Strukture
 
 **
 
-Denke immer daran: Es geht um Präsenz, nicht um Formalitäten.** Du kannst auf vielfältige Weise als Bonuseltern im Schulalltag wirken – Auch Ohne Offizielle Rolle.
+Denke immer daran: Es geht um Präsenz, nicht um Formalitäten. **Du kannst auf vielfältige Weise als Bonuseltern im Schulalltag wirken – Auch Ohne Offizielle Rolle.
 
 ### Schritt 3: Verbindend kommunizieren
 

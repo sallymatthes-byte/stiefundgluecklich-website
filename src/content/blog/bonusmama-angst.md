@@ -47,7 +47,7 @@ Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der ein
 
 Genau in diesem Spannungsfeld entsteht Angst – und sie Äußert sich auf sehr Unterschiedliche Weise. Manche Bonusmamas Beschreiben Eine Dauerhafte Grundanspannung. Andere sagen: „ich Funktioniere – aber ich kann nie ganz Loslassen.“
 
-Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist.** Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
+Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nervensystem wachsam ist. **Es scannt, ob du dazugehört wirst. Ob du sicher bist. Ob dein Platz stabil ist. Und solange diese Fragen nicht klar beantwortet sind, bleibt dein System in Alarmbereitschaft.
 
 Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durchlässig. Vielleicht hast du schon gemerkt, wie schnell du in die Überforderung rutschst – obwohl du nach Außen „alles Im Griff“ Hast.
 

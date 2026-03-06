@@ -13,7 +13,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Kennst du das Gefühl, als Bonusmama immer mehr in die Rolle der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
 
-Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist.** Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
+Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist. **Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
 
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die Fallen der Verantwortungsübernahme umschifft.
 
@@ -21,9 +21,7 @@ In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und
 
 ## Mir ging es auch so!
 
-Als ich vor einigen Jahren meinen Partner kennenlernte, war ich von Anfang an von seinen Kindern begeistert. Ich wollte Teil dieser Familie sein und sah es als meine Aufgabe an, sie zu unterstützen und für einen reibungslosen Ablauf zu sorgen.** Mit Freude übernahm ich die Organisation von Terminen, Geschenken und allem, was sonst noch anfiel.**
-
-Anfangs fühlte ich mich dadurch wertgeschätzt und gebraucht. Es erfüllte mich mit Stolz, dass ich meinem Partner den Rücken freihalten und für die Kinder da sein konnte. Doch mit der Zeit merkte ich, dass ich immer mehr in die Mutterrolle schlüpfte und meine eigenen Bedürfnisse hinten anstellte.
+Als ich vor einigen Jahren meinen Partner kennenlernte, war ich von Anfang an von seinen Kindern begeistert. Ich wollte Teil dieser Familie sein und sah es als meine Aufgabe an, sie zu unterstützen und für einen reibungslosen Ablauf zu sorgen. **Mit Freude übernahm ich die Organisation von Terminen, Geschenken und allem, was sonst noch anfiel. **Anfangs fühlte ich mich dadurch wertgeschätzt und gebraucht. Es erfüllte mich mit Stolz, dass ich meinem Partner den Rücken freihalten und für die Kinder da sein konnte. Doch mit der Zeit merkte ich, dass ich immer mehr in die Mutterrolle schlüpfte und meine eigenen Bedürfnisse hinten anstellte.
 
 Unsere Partnerschaft litt darunter, dass ich ständig mit den Gedanken bei den Kindern war und kaum noch Zeit für uns als Paar hatte. *Ich war erschöpft, fühlte mich alleine gelassen und sehnte mich nach der Leichtigkeit und Romantik, die unsere Beziehung früher ausgemacht hatte.*
 
@@ -41,7 +39,7 @@ Je länger ich in der Rolle der Bonusmama aufging, desto stärker wurde mein Ver
 
 **
 
-Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
+Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen. **Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
 
 Auch die Romantik sollte zurück in unsere Beziehung finden. Ich sehnte mich nach Momenten zu zweit, in denen wir uns ganz auf uns konzentrieren konnten, ohne ständig an die Kinder zu denken.
 
@@ -60,7 +58,7 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – Zwei Dinge, die Mir alles Andere als Leicht Fielen.
 
-Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war.** Auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.**Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte.** Ein Schlüsselmoment war, als ich eines Abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.**Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus.** Mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
+Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war. **Auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.**Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte. **Ein Schlüsselmoment war, als ich eines Abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.**Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus. **Mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
 
 Von da an begann ich, kleine Schritte in Richtung Veränderung zu gehen. Ich fing an, auch mal “Nein” zu sagen, wenn ich merkte, dass es zu viel wurde. Anfangs fühlte ich mich schuldig dabei, aber mit der Zeit erkannte ich, dass es notwendig war, um nicht auszubrennen.
 
@@ -74,11 +72,9 @@ Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
 ## Der Weg zur Balance
 
-Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte.** Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.**
+Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte. **Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation. **Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – eine Zeit, in der Ich durch Ähnliches Verhalten einen Burnout Erlitten hatte.* mir wurde Schlagartig Bewusst, dass ich Kurz davor stand, Erneut in diese Erschöpfungsspirale zu Geraten, wenn ich nicht Schnell etwas Änderte.*
 
-Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – eine Zeit, in der Ich durch Ähnliches Verhalten einen Burnout Erlitten hatte.* mir wurde Schlagartig Bewusst, dass ich Kurz davor stand, Erneut in diese Erschöpfungsspirale zu Geraten, wenn ich nicht Schnell etwas Änderte.*
-
-Mit dieser Erkenntnis im Hinterkopf ging ich den zweiten Schritt an: die konkreten Veränderungen. I*ch begann, feste Zeiten für Selbstfürsorge einzuplanen und verordnete mir täglich kleine Auszeiten.* Auch für unsere Partnerschaft reservierten wir bewusst Quality Time, um wieder mehr Nähe aufzubauen. **Um die Verantwortung besser zu verteilen, führten wir einen Familienkalender ein und teilten uns die Aufgaben gerecht auf.** Ich lernte, meine eigenen Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.
+Mit dieser Erkenntnis im Hinterkopf ging ich den zweiten Schritt an: die konkreten Veränderungen. I*ch begann, feste Zeiten für Selbstfürsorge einzuplanen und verordnete mir täglich kleine Auszeiten.* Auch für unsere Partnerschaft reservierten wir bewusst Quality Time, um wieder mehr Nähe aufzubauen. **Um die Verantwortung besser zu verteilen, führten wir einen Familienkalender ein und teilten uns die Aufgaben gerecht auf. **Ich lernte, meine eigenen Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.
 
 Der dritte und vielleicht wichtigste Schritt war die Kommunikation. Ich suchte das offene Gespräch mit meinem Partner und erklärte ihm, wie überfordert ich mich fühlte. *Gemeinsam suchten wir nach Lösungen und passten unsere Aufgabenverteilung an.* Auch mit den Kindern sprach ich altersgerecht darüber, dass ich nicht immer alles für sie erledigen konnte und dass es wichtig war, dass auch sie Verantwortung übernahmen.
 
@@ -90,15 +86,15 @@ mehr balance, mehr zufriedenheit
 
 Die Veränderungen, die ich in Gang gesetzt hatte, zeigten schon bald ihre positiven Auswirkungen auf unseren Alltag als Patchworkfamilie. Indem ich lernte, besser für mich selbst zu sorgen und Verantwortung abzugeben, konnte ich viel entspannter und gelassener mit den Herausforderungen umgehen.
 
-Unsere Partnerschaft hat durch die bewusst geplante Quality Time einen neuen Aufschwung erlebt. **Wir haben wieder mehr Raum für Gespräche, Zärtlichkeit und gemeinsame Unternehmungen, was uns als Paar sehr gut tut.** Ich spüre, dass wir uns wieder nähergekommen sind und mehr Verständnis füreinander aufbringen.
+Unsere Partnerschaft hat durch die bewusst geplante Quality Time einen neuen Aufschwung erlebt. **Wir haben wieder mehr Raum für Gespräche, Zärtlichkeit und gemeinsame Unternehmungen, was uns als Paar sehr gut tut. **Ich spüre, dass wir uns wieder nähergekommen sind und mehr Verständnis füreinander aufbringen.
 
 Auch die Kinder profitieren von der neuen Balance. *Dadurch, dass ich nicht mehr ständig alles für sie erledige, lernen sie, selbstständiger zu werden und Verantwortung zu übernehmen.* Sie wissen, dass sie sich auf mich verlassen können, wenn sie mich brauchen, aber sie trauen sich auch mehr zu, Dinge alleine anzupacken. Unsere Beziehung hat sich dadurch positiv verändert – ich Bin nicht mehr die Ständig Gestresste Bonusmama, sondern haben mehr Raum für Gemeinsame Späße und Unternehmungen.
 
-Selbst in stressigen Phasen, wenn der Alltag uns voll im Griff hat, gelingt es mir nun besser, gelassen zu bleiben. **Ich habe gelernt, meine Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.** Statt mich zu verausgaben, gönne ich mir kleine Auszeiten und tanke so neue Kraft. Dadurch bin ich insgesamt ausgeglichener und kann den Herausforderungen des Patchworklebens besser begegnen.
+Selbst in stressigen Phasen, wenn der Alltag uns voll im Griff hat, gelingt es mir nun besser, gelassen zu bleiben. **Ich habe gelernt, meine Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen. **Statt mich zu verausgaben, gönne ich mir kleine Auszeiten und tanke so neue Kraft. Dadurch bin ich insgesamt ausgeglichener und kann den Herausforderungen des Patchworklebens besser begegnen.
 
 Natürlich ist nicht plötzlich alles perfekt und es gibt immer noch Tage, an denen ich an meine Grenzen stoße. Aber durch die Veränderungen hat sich insgesamt eine neue Balance eingestellt, die sich positiv auf die ganze Familie auswirkt. Wir sind mehr im Fluss, gehen respektvoller miteinander um und haben wieder mehr Freude am gemeinsamen Alltag.
 
-Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt:** Ich fühle mich befreiter und selbstbestimmter.** Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
+Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt:** Ich fühle mich befreiter und selbstbestimmter. **Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
 
 ## Zusammenfassung
 Als Bonusmama in einer Patchworkfamilie ist es eine große Herausforderung, die Balance zwischen der Mutterrolle und der Partnerschaft zu finden. Oft neigen wir dazu, uns vollkommen auf die Bedürfnisse der Kinder zu fokussieren und dabei unsere Rolle als Partnerin zu vernachlässigen.

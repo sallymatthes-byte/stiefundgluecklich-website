@@ -21,27 +21,27 @@ Doch lass mich dir erst einmal einen Gesamtüberblick über ihr Konzept geben
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
-- **Die Positionen von "Insidern" und "Outsidern" im Paar sind oft festgefahren und intensiv.** Der neue Partner fühlt sich oft ausgeschlossen und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+- **Die Positionen von "Insidern" und "Outsidern" im Paar sind oft festgefahren und intensiv. **Der neue Partner fühlt sich oft ausgeschlossen und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 
-- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit. **Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 
 - Sie fühlen sich hin- und hergerissen zwischen dem biologischen Elternteil und dem neuen Partner.
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
-- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
+- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt. **Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 
-- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren. **Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 
 - Es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
-- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner - ob lebend oder verstorben - außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist.** Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner - ob lebend oder verstorben - außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist. **Die Beziehung zum Ex-Partner beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 
@@ -53,11 +53,11 @@ Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
 ## Die Position des Außenseiters
 
-Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer "First-time Family", also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält. **In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht.** Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes Mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum "Insider", der neue Partner zum "Outsider".*
+Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer "First-time Family", also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält. **In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht. **Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes Mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum "Insider", der neue Partner zum "Outsider".*
 
 Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes Mal, wenn eins der Kinder den Raum betritt, entsteht automatisch eine Insider-Outsider-Dynamik: Kevin und das Kind teilen einen exklusiven Moment, während du dich schnell [ausgeschlossen](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) fühlst. Kevin wiederum fühlt sich hin- und hergerissen zwischen dir und seinen Kindern.
 
-Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen Herausforderungen für Patchworkfamilien ist. Anders als in einer Kernfamilie, wo die Kinder von Anfang an mit beiden Eltern vertraut sind, gibt es in Stieffamilien **zunächst keine gemeinsame Basis.** Die Insider-Outsider-Positionen sind festgefahren und es braucht Zeit und Geduld, sie aufzulockern.
+Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen Herausforderungen für Patchworkfamilien ist. Anders als in einer Kernfamilie, wo die Kinder von Anfang an mit beiden Eltern vertraut sind, gibt es in Stieffamilien **zunächst keine gemeinsame Basis. **Die Insider-Outsider-Positionen sind festgefahren und es braucht Zeit und Geduld, sie aufzulockern.
 
 Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es ist wichtig zu verstehen, dass deine Rolle am Anfang anders ist als die des leiblichen Elternteils. Du musst dir das Vertrauen der Kinder erst Schritt für Schritt erarbeiten, während dein Partner lernen muss, dich mehr einzubeziehen, ohne seine Kinder zu vernachlässigen.
 
@@ -67,11 +67,9 @@ Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es
 
 Um die festgefahrenen Insider-Outsider-Positionen in Patchworkfamilien aufzulockern, gibt es einige hilfreiche Strategien:
 
-- **
+- **Normalisieren und Verständnis zeigen:**Allein zu wissen, dass diese Dynamik zum Territorium einer Stieffamilie gehört und die damit verbundenen Gefühle normal sind, kann schon entlastend wirken. Wenn Kevin und Sabine verstehen, dass es ganz natürlich ist, dass Sabine sich jedes Mal ausgeschlossen fühlt, wenn eins der Kinder den Raum betritt, während Kevin automatisch zum Insider wird, kann das helfen, die Scham zu lindern und mehr Mitgefühl füreinander zu entwickeln.
 
-Normalisieren und Verständnis zeigen:**Allein zu wissen, dass diese Dynamik zum Territorium einer Stieffamilie gehört und die damit verbundenen Gefühle normal sind, kann schon entlastend wirken. Wenn Kevin und Sabine verstehen, dass es ganz natürlich ist, dass Sabine sich jedes Mal ausgeschlossen fühlt, wenn eins der Kinder den Raum betritt, während Kevin automatisch zum Insider wird, kann das helfen, die Scham zu lindern und mehr Mitgefühl füreinander zu entwickeln.
-
-- ** Bewusst Zeit zu zweit verbringen:** Entgegen der Vorstellung, dass man möglichst viel gemeinsam als ganze Familie unternehmen sollte, sind die Insider-Outsider-Positionen in diesen Situationen oft besonders ausgeprägt. Stattdessen ist es förderlich, wenn:
+- **Bewusst Zeit zu zweit verbringen:** Entgegen der Vorstellung, dass man möglichst viel gemeinsam als ganze Familie unternehmen sollte, sind die Insider-Outsider-Positionen in diesen Situationen oft besonders ausgeprägt. Stattdessen ist es förderlich, wenn:
 
 *Sabine und Kevin ihre Paarbeziehung pflegen*
 
@@ -100,13 +98,9 @@ Passend dazu:** Hör dir die Podcastfolge "Ausgeschlossen in der eigenen Familie
 
 Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche Verhaltensweisen die Insider-Outsider-Dynamik verschärfen können:
 
-- **
+- **Druck aufbauen, sofort eine "Bilderbuchfamilie" zu sein:** Erwarte nicht von dir selbst oder deinem Partner, dass ihr von Anfang an eine perfekt harmonische Familie seid. Akzeptiere, dass die Integration Zeit braucht und mit Herausforderungen verbunden ist. Druck oder überhöhte Erwartungen führen nur zu Frust und Enttäuschung.
 
-Druck aufbauen, sofort eine "Bilderbuchfamilie" zu sein:** Erwarte nicht von dir selbst oder deinem Partner, dass ihr von Anfang an eine perfekt harmonische Familie seid. Akzeptiere, dass die Integration Zeit braucht und mit Herausforderungen verbunden ist. Druck oder überhöhte Erwartungen führen nur zu Frust und Enttäuschung.
-
-- **
-
-Die Gefühle des anderen nicht ernst nehmen:** Wenn dein Partner dir von seinen Schwierigkeiten mit der Outsider-Position erzählt, vermeide es, diese abzutun oder herunterzuspielen. Sätze wie *"Stell dich nicht so an"* oder *"Das bildest du dir nur ein"* sind verletzend und kontraproduktiv. Nehmt die Gefühle des anderen ernst und zeigt Verständnis.
+- **Die Gefühle des anderen nicht ernst nehmen:** Wenn dein Partner dir von seinen Schwierigkeiten mit der Outsider-Position erzählt, vermeide es, diese abzutun oder herunterzuspielen. Sätze wie *"Stell dich nicht so an"* oder *"Das bildest du dir nur ein"* sind verletzend und kontraproduktiv. Nehmt die Gefühle des anderen ernst und zeigt Verständnis.
 
 - **In Machtkämpfe und Schuldzuweisungen verfallen:** Es ist leicht, dem anderen vorzuwerfen, nicht genug zu tun oder sich falsch zu verhalten. *"Du beziehst mich nie ein!"* oder *"Du lässt den Kindern alles durchgehen!"* - solche Vorwürfe führen schnell zu einer Negativspirale. Stattdessen solltet ihr euch als Team sehen und gemeinsam nach Lösungen suchen.
 

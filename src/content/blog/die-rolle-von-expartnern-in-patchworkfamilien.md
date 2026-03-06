@@ -19,27 +19,27 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
-- **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
+- **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv. **Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 
-- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit. **Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 
 - Sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
 
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
 
-- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
+- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt. **Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
 
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
 
-- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren. **Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 
 - Es gilt, neue [Traditionen und Rituale](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) zu entwickeln, die alle einbeziehen.
 
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
 
-- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
+- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 
@@ -65,7 +65,7 @@ Ja, es ist nicht immer einfach. Aber denk daran: Deine Akzeptanz und dein Verst�
 
 ## Wie Konflikte den Bonuskindern schaden
 
-*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen.** Selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale Funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- Und Hergerissen zwischen Zwei Menschen, die Sie Lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder Reagieren mit Rückzug, Andere mit Aggression oder Psychosomatischen Beschwerden.
+*Die Forschung ist eindeutig: Nicht die Trennung an sich ist es, die Kindern am meisten schadet, sondern die Konflikte zwischen den Erwachsenen.* Wenn sich die Elternteile streiten, wenn böse Worte fallen oder eisiges Schweigen herrscht, bekommen die Kinder das hautnah mit. **Und es belastet sie – mehr, als wir oft Wahrhaben wollen. **Selbst Moderate Spannungen können die Aufmerksamkeit, das Immunsystem und das Soziale Funktionieren eines Kindes Beeinträchtigen. Sie fühlen sich Hin- Und Hergerissen zwischen Zwei Menschen, die Sie Lieben. Sie machen sich Sorgen, Geraten in Loyalitätskonflikte, fühlen sich Ohnmächtig und Schuldig. Manche Kinder Reagieren mit Rückzug, Andere mit Aggression oder Psychosomatischen Beschwerden.
 
 *Je höher das Konfliktlevel, desto gravierender sind die Folgen.* Kinder, die ständigem Streit ausgesetzt sind, haben ein erhöhtes Risiko für Angststörungen, Depressionen, Verhaltensauffälligkeiten und Probleme in sozialen Beziehungen. Die negativen Effekte können bis ins Erwachsenenalter reichen.
 

@@ -14,7 +14,6 @@ imageAlt: "Titelbild zum Artikel"
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer Patchworkfamilie. Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier, das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.**
-
 🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
@@ -55,7 +54,7 @@ Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollt
 
 ## Der Weg zur Veränderung
 
-Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich selbst Angst hatte, zu kurz zu kommen, nicht wichtig genug zu sein, ersetzt zu werden.** In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
+Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich selbst Angst hatte, zu kurz zu kommen, nicht wichtig genug zu sein, ersetzt zu werden. **In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
@@ -77,7 +76,7 @@ Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging.
 
 ### 2. Inneren Wandel einleiten
 
-Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten. **Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln.** Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
+Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten. **Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln. **Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
 
 ### 3. Verbindende Kommunikation aufbauen
 

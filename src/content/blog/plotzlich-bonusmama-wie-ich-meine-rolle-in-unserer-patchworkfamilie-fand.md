@@ -11,9 +11,7 @@ image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchwor
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in Thailand kennen. Die Sprachbarriere – er sprach nur Französisch, ich hatte mein Eingestaubtes Schulfranzösisch – hielt uns nicht davon Ab, uns Ineinander zu Verlieben. Zwei Monate Später Zog er zu mir nach München. Was ich da noch nicht Ahnte: **diese Entscheidung würde nicht nur mein Liebesleben, sondern meine Gesamte Identität auf den Kopf Stellen.**
-
-Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das So Leicht Klingt und doch eine Völlig Neue Welt Bedeutete. Die Sprachliche Barriere war dabei noch die Kleinste Herausforderung. Viel Schwieriger waren die Fragen, die Sich in meinem Kopf Überschlugen: wer war ich für diese Kinder? Welche Rolle sollte ich Einnehmen? Wie Nah durfte ich ihnen kommen?
+Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in Thailand kennen. Die Sprachbarriere – er sprach nur Französisch, ich hatte mein Eingestaubtes Schulfranzösisch – hielt uns nicht davon Ab, uns Ineinander zu Verlieben. Zwei Monate Später Zog er zu mir nach München. Was ich da noch nicht Ahnte: **diese Entscheidung würde nicht nur mein Liebesleben, sondern meine Gesamte Identität auf den Kopf Stellen. **Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das So Leicht Klingt und doch eine Völlig Neue Welt Bedeutete. Die Sprachliche Barriere war dabei noch die Kleinste Herausforderung. Viel Schwieriger waren die Fragen, die Sich in meinem Kopf Überschlugen: wer war ich für diese Kinder? Welche Rolle sollte ich Einnehmen? Wie Nah durfte ich ihnen kommen?
 
 ## Die ersten Schritte in der Rolle als Bonusmama
 
@@ -67,10 +65,7 @@ Kennst du diese Momente auch? Du liegst nachts wach und fragst dicht:
 
 - “Wie schaffe ich es, allen gerecht zu werden – den Kindern, meinem Partner, mir Selbst?”
 
-Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können.**
-
-
-Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen?
+Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können. **Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen?
 
 - Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama authentisch zu gestalten?
 
