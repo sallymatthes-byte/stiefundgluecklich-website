@@ -46,7 +46,9 @@ Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzep
 
 ## Den Weg zu innerem Frieden finden
 
-Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste**Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu Verändern. Stelle dir Fragen wie:
+Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch bewusste**
+
+Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu Verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
 

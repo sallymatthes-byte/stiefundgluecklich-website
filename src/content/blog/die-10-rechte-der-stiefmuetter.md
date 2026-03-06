@@ -23,7 +23,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 Kennst du das Gefühl, als Stiefmutter immer wieder an deine Grenzen zu stoßen? Du übernimmst Verantwortung für die Kinder deines Partners, gestaltest den Familienalltag mit und investierst viel Zeit und Energie. *Doch oft fühlst du dich dabei unsichtbar, als würden deine eigenen Bedürfnisse und Wünsche keine Rolle spielen.* Vielleicht hast du schon erlebt, wie Entscheidungen über deinen Kopf hinweg getroffen wurden oder du bei Konflikten zwischen den Fronten stehst.
 
-Du sehnst dich danach, respektiert und wertgeschätzt zu werden – Sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest Deine Rolle Aktiv Gestalten, Anstatt dich Ständig Anzupassen und Zurückzustecken.** doch der Weg Dorthin ist nicht immer Einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
+Du sehnst dich danach, respektiert und wertgeschätzt zu werden – Sowohl von deinem Partner als auch von den Kindern und Anderen Familienmitgliedern. **du Möchtest Deine Rolle Aktiv Gestalten, Anstatt dich Ständig Anzupassen und Zurückzustecken.**doch der Weg Dorthin ist nicht immer Einfach. Manchmal Scheint es, als Würdest du gegen Unsichtbare Widerstände Ankämpfen – Sei es durch Festgefahrene Rollenbilder, Konflikte mit der Ex-partnerin oder Mangelnde Unterstützung von Außen.
 
 
 > „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen.” – J.W. von Goethe
@@ -38,9 +38,7 @@ Stell dir vor, du hast ein Date mit deinem Partner geplant, aber seine Ex ruft a
 
 ## #2 “Ich werde immer in den Entscheidungsprozess meiner Ehe und Familie einbezogen.”
 
-Entscheidungen, die die ganze Familie betreffen, sollten nicht über den Kopf der Stiefmutter hinweg getroffen werden. **Als Stiefmutter hast du ein Recht darauf, gehört und einbezogen zu werden.**
-
-Stell dir vor, dein Partner und seine Ex entscheiden, dass das Kind täglich 2 Stunden lernen soll, ohne dich vorher zu fragen oder deine Meinung einzuholen. Du erfährst es nur zufällig und fühlst dich übergangen, da du ja diejenige bist, die die Hausaufgabenzeit abdeckt.
+Entscheidungen, die die ganze Familie betreffen, sollten nicht über den Kopf der Stiefmutter hinweg getroffen werden. **Als Stiefmutter hast du ein Recht darauf, gehört und einbezogen zu werden.** Stell dir vor, dein Partner und seine Ex entscheiden, dass das Kind täglich 2 Stunden lernen soll, ohne dich vorher zu fragen oder deine Meinung einzuholen. Du erfährst es nur zufällig und fühlst dich übergangen, da du ja diejenige bist, die die Hausaufgabenzeit abdeckt.
 
 Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr Leben und das der Familie betreffen.** Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen.** Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
 
@@ -77,10 +75,7 @@ Stiefmütter übernehmen oft mehr Hausarbeit als nötig, besonders wenn sie vers
 *Deshalb ist es so wichtig, von Anfang an klare Absprachen über die Verteilung der Hausarbeit zu treffen.* Jedes Familienmitglied sollte entsprechend seinem Alter und seinen Fähigkeiten eingebunden werden.
 
 Es geht nicht darum, penibel jede Minute aufzurechnen, sondern Hand in Hand zu arbeiten und sich gegenseitig zu unterstützen. **Wenn die Aufgaben gerecht verteilt sind, bleibt dir auch genug Zeit und Energie, um dich selbst und deine Partnerschaft zu pflegen.**
-
-****
-
-## #7 “Ich werde in alle finanziellen Angelegenheiten der Familie einbezogen.”
+****## #7 “Ich werde in alle finanziellen Angelegenheiten der Familie einbezogen.”
 
 In einer Patchworkfamilie können Finanzen schnell zu einem heiklen Thema werden.** Studien zeigen, dass Uneinigkeit über Finanzen eine der Hauptursachen für Konflikte in Patchworkfamilien ist** (Ganong & Coleman, 2017).
 

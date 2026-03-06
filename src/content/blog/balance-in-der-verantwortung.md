@@ -37,7 +37,7 @@ Als Bonusmama betreten wir eine*bereits bestehende Familienkonstellation*, in de
 
 ## Wie geht es den Kindern?
 
-Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise **verunsichert**  und **brauchen Zeit** , um sich an die neue Situation zu gewöhnen.
+Es kann auch sein, dass die Bonuskinder anfangs Schwierigkeiten haben, uns als neue Bezugsperson anzunehmen. Sie sind möglicherweise **verunsichert**und **brauchen Zeit** , um sich an die neue Situation zu gewöhnen.
 Indem wir die Verantwortung beim biologischen Elternteil belassen, geben wir den Kindern die Sicherheit, dass sich in ihrem Leben trotz der neuen Beziehung nichts drastisch verändern wird. Wir sind da, um sie zu unterstützen und ihnen zur Seite zu stehen. Gleichzeitig nehmen wir uns bewusst zurück, um ihnen den Raum zu geben, den sie benötigen.
 
 Natürlich gibt es*Ausnahmefälle*, in denen wir als Bonuseltern die Verantwortung übernehmen müssen. Ob es um die Betreuung in Abwesenheit des biologischen Elternteils geht oder um organisatorische Angelegenheiten wie Arzttermine oder Schulveranstaltungen – es gibt Situationen, in Denen wir Gefragt sind und Verantwortung Übernehmen Sollten. Doch auch in diesen Fällen ist es Wichtig, Offen mit dem Biologischen Elternteil zu Kommunizieren. Gemeinsam kann Entschieden werden, wie wir die Verantwortung Am Besten Aufteilen können.
@@ -50,9 +50,9 @@ Die schrittweise Aufteilung der Verantwortung in einer neuen Beziehung ist ein e
 
 Der Schlüssel liegt in der Kommunikation und dem gegenseitigen Verständnis. Es ist wichtig, offen über unsere Wünsche, Bedenken und Erwartungen zu sprechen. Dabei ist es hilfreich, den*Fokus auf die Bedürfnisse der Bonuskinder* zu legen. Gemeinsam können wir als Patchworkfamilie ihr Wohlergehen und ihre Entwicklung bestmöglich unterstützen.
 
-Ein möglicher erster Schritt könnte sein, dass wir uns um **bestimmte Alltagsangelegenheiten**  kümmern, wie beispielsweise das Zubereiten von Mahlzeiten, die Organisation von Freizeitaktivitäten oder das Begleiten zu Terminen. Indem wir uns aktiv einbringen, zeigen wir den Bonuskindern, dass wir für sie da sind und sie unterstützen möchten.
+Ein möglicher erster Schritt könnte sein, dass wir uns um **bestimmte Alltagsangelegenheiten**kümmern, wie beispielsweise das Zubereiten von Mahlzeiten, die Organisation von Freizeitaktivitäten oder das Begleiten zu Terminen. Indem wir uns aktiv einbringen, zeigen wir den Bonuskindern, dass wir für sie da sind und sie unterstützen möchten.
 
-Ein weiterer wichtiger Aspekt ist die **gemeinsame Entscheidungsfindung**  in Erziehungsfragen. Es ist hilfreich, dass wir als Bonuseltern und biologische Eltern eine gemeinsame Basis finden und unsere Vorstellungen und Werte miteinander abgleichen. Dabei ist es wichtig, Kompromisse einzugehen und uns aufeinander zuzubewegen. Denn nur wenn wir als Team agieren und an einem Strang ziehen, können wir den Bonuskindern ein stabiles und liebevolles Umfeld bieten.
+Ein weiterer wichtiger Aspekt ist die **gemeinsame Entscheidungsfindung**in Erziehungsfragen. Es ist hilfreich, dass wir als Bonuseltern und biologische Eltern eine gemeinsame Basis finden und unsere Vorstellungen und Werte miteinander abgleichen. Dabei ist es wichtig, Kompromisse einzugehen und uns aufeinander zuzubewegen. Denn nur wenn wir als Team agieren und an einem Strang ziehen, können wir den Bonuskindern ein stabiles und liebevolles Umfeld bieten.
 
 Es ist jedoch auch wichtig anzuerkennen, dass die schrittweise Aufteilung der Verantwortung Zeit braucht und nicht von heute auf morgen geschehen kann. Jeder Schritt sollte behutsam und mit Rücksicht auf die Bedürfnisse aller Beteiligten erfolgen.
 Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln kommen kann. Doch gerade in diesen Momenten ist es wichtig, am Ball zu bleiben, offen zu kommunizieren und sich gegenseitig zu unterstützen.
@@ -62,13 +62,15 @@ Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **
+
+Passend dazu:**Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
 ![Stimmungsbild zum Artikel](/images/blog/balance-in-der-verantwortung-3.jpg)
 
-Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione** n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
+Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine** Achterbahnfahrt der Emotione**n. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 
 Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig.** Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen**. Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
 

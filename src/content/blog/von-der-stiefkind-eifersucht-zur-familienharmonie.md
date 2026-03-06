@@ -13,13 +13,11 @@ imageAlt: "Titelbild zum Artikel"
 
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer Patchworkfamilie. Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das Ich so Gerne Verdrängt hätte, das Sich aber immer wieder seinen Weg in mein Herz Bahnte.
 
-Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – All das Löste in mir einen Sturm Widersprüchlicher Gefühle aus. Einerseits wusste ich, wie Wichtig und Wertvoll diese Beziehung war. **andererseits Nagte die Eifersucht an mir wie ein Hungriges Tier, das Sich von meinen Tiefsten Ängsten und Unsicherheiten Nährte.**
-
-🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
+Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – All das Löste in mir einen Sturm Widersprüchlicher Gefühle aus. Einerseits wusste ich, wie Wichtig und Wertvoll diese Beziehung war. **andererseits Nagte die Eifersucht an mir wie ein Hungriges Tier, das Sich von meinen Tiefsten Ängsten und Unsicherheiten Nährte.**🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
-In solchen Momenten überkamen mich Gedanken, für die ich mich gleichzeitig schämte:** “Das Kind nimmt mir meinen Partner weg”** oder**“Ich werde nie einen so wichtigen Platz in seinem Leben einnehmen”**. Diese Gedanken schlichen sich ein wie ungebetene Gäste, machten sich in meinem Kopf breit und vergifteten langsam aber sicher die Atmosphäre in unserer Familie.
+In solchen Momenten überkamen mich Gedanken, für die ich mich gleichzeitig schämte:** “Das Kind nimmt mir meinen Partner weg”**oder**“Ich werde nie einen so wichtigen Platz in seinem Leben einnehmen”**. Diese Gedanken schlichen sich ein wie ungebetene Gäste, machten sich in meinem Kopf breit und vergifteten langsam aber sicher die Atmosphäre in unserer Familie.
 
 Besonders schmerzhaft waren die kleinen, alltäglichen Situationen: Wenn sie in Erinnerungen schwelgten an Zeiten, die vor mir lagen. Wenn mein Partner alles stehen und liegen ließ, sobald sein Kind ihn brauchte. Wenn ich spürte, wie diese bedingungslose Liebe zwischen ihnen floss – eine Liebe, die Ich Niemals in Frage Stellen wollte und die Mich doch so Unsagbar Eifersüchtig machte.
 
@@ -43,7 +41,7 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 
 ## Der Traum von einer harmonischen Patchworkfamilie
 
-In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus seltsam leer wirkte, wurde mir meine tiefste Sehnsucht bewusst. Ich träumte davon, wie wir entspannt am Frühstückstisch sitzen würden, ohne diese nagenden Gefühle in meiner Brust. Wie das Lachen der Kinder einfach nur Freude bedeuten würde, ohne den bitteren Beigeschmack der Eifersucht. ***Dieser Traum von einer harmonischen Patchworkfamilie war mehr als eine naive Hoffnung – er war der Antrieb, der Mich Weitermachen ließ.*** ich wollte die Beziehung zwischen meinem Partner und seinen Kindern nicht mehr als Bedrohung Empfinden müssen, sondern als das, Was sie eigentlich war: ein Wertvoller Teil unseres Familienlebens.
+In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus seltsam leer wirkte, wurde mir meine tiefste Sehnsucht bewusst. Ich träumte davon, wie wir entspannt am Frühstückstisch sitzen würden, ohne diese nagenden Gefühle in meiner Brust. Wie das Lachen der Kinder einfach nur Freude bedeuten würde, ohne den bitteren Beigeschmack der Eifersucht. ***Dieser Traum von einer harmonischen Patchworkfamilie war mehr als eine naive Hoffnung – er war der Antrieb, der Mich Weitermachen ließ.***ich wollte die Beziehung zwischen meinem Partner und seinen Kindern nicht mehr als Bedrohung Empfinden müssen, sondern als das, Was sie eigentlich war: ein Wertvoller Teil unseres Familienlebens.
 
 
 > „Eifersucht ist Liebesneid“ – Wilhelm Busch
@@ -56,9 +54,7 @@ Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollt
 
 ## Der Weg zur Veränderung
 
-Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich Selbst Angst hatte, zu Kurz zu kommen, nicht Wichtig Genug zu sein, Ersetzt zu werden.**
-
-In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
+Die Erkenntnis, dass diese Eifersucht auf das Stiefkind mehr über mich selbst als über die tatsächliche Situation aussagte, war der erste Schritt zur Besserung. Ich begann zu verstehen, dass meine Gefühle wie ein Spiegel waren, der mir meine eigenen unerfüllten Bedürfnisse und alten Verletzungen zeigte. **Es ging nicht wirklich darum, dass mein Partner sein Kind zu sehr liebte – es ging darum, dass ich Selbst Angst hatte, zu Kurz zu kommen, nicht Wichtig Genug zu sein, Ersetzt zu werden.** In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gefühlen umzugehen. Statt die Eifersucht zu bekämpfen, begann ich, sie als Wegweiser zu verstehen. Sie zeigte mir, wo ich selbst noch heilen musste, wo alte Ängste darauf warteten, gesehen und transformiert zu werden. Mit jedem Tag, an dem ich mich diesen unbequemen Gefühlen stellte, wurde ich ein Stück freier von ihnen.
 
 ![Stimmungsbild zum Artikel](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
@@ -66,7 +62,9 @@ In kleinen, manchmal kaum spürbaren Schritten lernte ich, anders mit diesen Gef
 
 Ausgerechnet an einem dieser schweren Tage, als die Eifersucht auf das Stiefkind besonders stark war, kam der entscheidende Moment der Erkenntnis. Ich beobachtete, wie mein Partner seinem Kind half, die Schuhe zu binden – eine Alltägliche Szene, die Mich Sonst immer Eifersüchtig Gemacht hatte. Seine Bewegungen waren Voller Geduld, sein Blick Strahlte diese Bedingungslose Liebe aus, die Ich Bisher als Bedrohung Wahrgenommen hatte. Das Kind Schaute zu ihm auf, Voller Vertrauen und Zuneigung, und zum Ersten mal sah ich diese Verbindung mit Anderen Augen.
 
-In diesem unscheinbaren Moment verstand ich etwas Grundlegendes: ***Diese Fähigkeit zu lieben, die ich hier sah, war genau das, was mich damals zu ihm hingezogen hatte.*** Seine Art, wie er sich seinem Kind zuwandte, mit dieser Mischung aus Fürsorge und absoluter Präsenz – das War der Mann, in den Ich mich Verliebt hatte. Seine Liebe zu seinen Kindern machte Ihn nicht zu einem Schlechteren Partner, sie zeigte mir die Tiefe seines Herzens. Diese Erkenntnis Veränderte alles. All die Zeit hatte ich diese Liebe als Konkurrenz Gesehen, als etwas, das Mir etwas Wegnahm. Dabei war sie ein Wesentlicher Teil des Menschen, den Ich Liebte.
+In diesem unscheinbaren Moment verstand ich etwas Grundlegendes: ***
+
+Diese Fähigkeit zu lieben, die ich hier sah, war genau das, was mich damals zu ihm hingezogen hatte.***Seine Art, wie er sich seinem Kind zuwandte, mit dieser Mischung aus Fürsorge und absoluter Präsenz – das War der Mann, in den Ich mich Verliebt hatte. Seine Liebe zu seinen Kindern machte Ihn nicht zu einem Schlechteren Partner, sie zeigte mir die Tiefe seines Herzens. Diese Erkenntnis Veränderte alles. All die Zeit hatte ich diese Liebe als Konkurrenz Gesehen, als etwas, das Mir etwas Wegnahm. Dabei war sie ein Wesentlicher Teil des Menschen, den Ich Liebte.
 
 Es war der Moment, in dem ich aufhörte zu kämpfen – gegen die Liebe zwischen Vater und Kind, gegen meine Eigenen Gefühle, gegen die Realität unserer Patchworkfamilie. Dieser Neue Blickwinkel Öffnete mir die Augen dafür, dass es in der Liebe nicht um Konkurrenz ging, nicht um ein “entweder-oder”, sondern um ein “sowohl-als-auch”.
 
@@ -76,7 +74,9 @@ Nach vielen Versuchen und Rückschlägen entdeckte ich schließlich einen Weg, d
 
 ### 1. Klarheit gewinnen
 
-Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging. Nicht nur an der Oberfläche, sondern in der Tiefe. ***Ich lernte, meine Trigger zu erkennen und zu verstehen, dass die Eifersucht oft mehr mit meinen eigenen unerfüllten Bedürfnissen zu tun hatte als mit der tatsächlichen Situation.*** Durch diese Selbstreflexion wurde mir klar, dass ich nicht gegen die Liebe zwischen Vater und Kind kämpfen musste, sondern gegen meine eigenen Ängste und Unsicherheiten.
+Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging. Nicht nur an der Oberfläche, sondern in der Tiefe. ***
+
+Ich lernte, meine Trigger zu erkennen und zu verstehen, dass die Eifersucht oft mehr mit meinen eigenen unerfüllten Bedürfnissen zu tun hatte als mit der tatsächlichen Situation.***Durch diese Selbstreflexion wurde mir klar, dass ich nicht gegen die Liebe zwischen Vater und Kind kämpfen musste, sondern gegen meine eigenen Ängste und Unsicherheiten.
 
 ### 2. Inneren Wandel einleiten
 

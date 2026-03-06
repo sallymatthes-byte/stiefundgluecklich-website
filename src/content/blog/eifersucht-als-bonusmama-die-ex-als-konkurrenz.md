@@ -11,9 +11,7 @@ image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die Ex-Frauals [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag - **all das trifft dich wie kleine Nadelstiche direkt ins Herz.** 
-
-Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: "Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein."
+Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die Ex-Frauals [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag - **all das trifft dich wie kleine Nadelstiche direkt ins Herz.** Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: "Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein."
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
@@ -35,9 +33,9 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 
 ## Die tieferen Ursachen der Eifersucht verstehen
 
-Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. **Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.**
+Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die Erste" war oder mehr "erste Male" mit deinem Partner erlebt hat. **
 
-Vielleicht spürst du:
+Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.** Vielleicht spürst du:
 
 - Die Angst, nie ganz "dazuzugehören" in dieser Familie, die schon vor dir existierte
 
@@ -140,8 +138,10 @@ Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie
 
 Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist - nicht trotz, sondern gerade wegen ihrer besonderen Rolle als Bonusmama.*
 
-- Wie deine ***individuellen Eifersuchtsmuster*** aussehen
+- Wie deine ***individuellen Eifersuchtsmuster***aussehen
 
-- Wie du diese Gefühle in ***Kraft und Selbstbewusstsein*** verwandeln kannst
+- Wie du diese Gefühle in ***
+
+Kraft und Selbstbewusstsein*** verwandeln kannst
 
 

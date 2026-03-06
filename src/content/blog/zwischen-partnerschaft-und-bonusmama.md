@@ -13,9 +13,7 @@ imageAlt: "Titelbild zum Artikel"
 
 Kennst du das Gefühl, als Bonusmama immer mehr in die Rolle der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
 
-Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist.**
-
-Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
+Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist.** Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
 
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die Fallen der Verantwortungsübernahme umschifft.
 
@@ -41,7 +39,9 @@ Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschraube
 
 Je länger ich in der Rolle der Bonusmama aufging, desto stärker wurde mein Verlangen nach Veränderung. Ich sehnte mich danach, wieder mehr Partnerin zu sein und die Leichtigkeit in unserer Beziehung zurückzugewinnen.
 
-**Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
+**
+
+Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
 
 Auch die Romantik sollte zurück in unsere Beziehung finden. Ich sehnte mich nach Momenten zu zweit, in denen wir uns ganz auf uns konzentrieren konnten, ohne ständig an die Kinder zu denken.
 
@@ -60,7 +60,7 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – Zwei Dinge, die Mir alles Andere als Leicht Fielen.
 
-Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war.**Auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.**Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte.**Ein Schlüsselmoment war, als ich eines Abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.**Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus.** Mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
+Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war.** Auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.**Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte.** Ein Schlüsselmoment war, als ich eines Abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.**Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus.** Mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
 
 Von da an begann ich, kleine Schritte in Richtung Veränderung zu gehen. Ich fing an, auch mal “Nein” zu sagen, wenn ich merkte, dass es zu viel wurde. Anfangs fühlte ich mich schuldig dabei, aber mit der Zeit erkannte ich, dass es notwendig war, um nicht auszubrennen.
 

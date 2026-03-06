@@ -48,9 +48,11 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
 
--** Grenzen setzen:** Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
+- ** Grenzen setzen:**
 
--** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
+
+- ** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
@@ -62,9 +64,13 @@ auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inn
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 
-Pflege auch die** Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
+Pflege auch die**
 
-Nicht zuletzt geht es darum,** Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
+Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
+
+Nicht zuletzt geht es darum,**
+
+Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
 
 Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 

@@ -49,7 +49,7 @@ Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elterntei
 
 ## Meine Begriffsklärung
 
-Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer. **Stiefmutter** ist für mich zu negativ besetzt,** Bonusmama** finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
+Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer. **Stiefmutter**ist für mich zu negativ besetzt,** Bonusmama**finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.
 Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich “**belle-mere** “, was übersetzt die “schöne Mutter” bedeutet.
 Klingt wundervoll, allerdings finde ich die leibliche Mutter der Kinder auch schön und ich will weder auf mein Äußeres beschränkt werden, noch eine Mutter sein. Was außer Bonus bin ich denn dann?

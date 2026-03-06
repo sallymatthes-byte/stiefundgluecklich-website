@@ -66,12 +66,14 @@ Die Herausforderungen in unserer Kommunikation waren vielfältig: Missverständn
 Es war ein Prozess, der Geduld und Übung erforderte. Schritt für Schritt lernten wir, bewusster miteinander zu reden und die Botschaften des anderen auf allen vier Ebenen wahrzunehmen. Dabei halfen uns drei einfache, aber wirkungsvolle Strategien:
 
 - **Analyse: Erkenne, auf welchem Ohr du hörst**
+
 Bevor wir vorschnell reagieren, halten wir nun inne und fragen uns: Wie interpretiere ich das gerade? Höre ich nur den Sachinhalt oder fühle ich mich persönlich angegriffen? Diese kurze Reflektion hilft uns, Missverständnisse frühzeitig zu erkennen und gelassener zu bleiben.
 
--** Veränderung: Lerne, bewusst auf allen vier Ebenen zu kommunizieren**
+- ** Veränderung: Lerne, bewusst auf allen vier Ebenen zu kommunizieren**
+
 Gleichzeitig üben wir uns darin, unsere eigenen Botschaften klarer zu formulieren. Wir achten darauf, nicht nur Informationen weiterzugeben, sondern auch unsere Gefühle, Bedürfnisse und Wünsche auszudrücken. So geben wir dem anderen die Chance, uns wirklich zu verstehen.
 
--** Kommunikation: Wende das 4-Ohren-Modell gemeinsam mit deinem Partner an**
+- ** Kommunikation: Wende das 4-Ohren-Modell gemeinsam mit deinem Partner an**
 Das Wichtigste aber ist, dass wir das 4-Ohren-Modell gemeinsam anwenden. Wir ermutigen einander, nachzufragen und zuzuhören. Wenn einer von uns merkt, dass wir aneinander vorbeireden, sagt er einfach: “Moment, lass uns kurz schauen, auf welcher Ebene wir gerade kommunizieren.” Dieser kleine Satz wirkt oft schon Wunder.
 
 So haben wir gelernt, Konflikte konstruktiv anzugehen und füreinander da zu sein, auch wenn es mal schwierig wird. *Das 4-Ohren-Modell ist für uns zu einem wertvollen Werkzeug geworden, um unsere Beziehung zu stärken.*

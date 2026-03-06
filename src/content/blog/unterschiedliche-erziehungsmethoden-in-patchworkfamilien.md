@@ -25,9 +25,7 @@ An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leb
 
 ## Die Suche nach Antworten
 
-“Redet doch einfach miteinander” oder “Findet einen Kompromiss” – diese Gut Gemeinten Ratschläge von Freunden und Familie Klangen in meinen Ohren wie Hohn. Sie Verstanden nicht, dass jedes Gespräch über Erziehung zu einem Emotionalen Minenfeld wurde. Wir Versuchten es. Immer wieder. Doch Meist Endeten unsere Gespräche in einer Von Zwei Richtungen:**  entweder Zog sich einer Von uns Verletzt Zurück, oder wir Verhärteten unsere Positionen noch mehr.**
-
-Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder begannen, unsere unterschiedlichen Ansätze für sich zu nutzen. “Aber Papa hat gesagt…” oder “Bei Mama darf ich das aber…” wurden zu Standardsätzen, die jede Diskussion noch schwieriger machten. Ich beobachtete, wie sie zwischen unseren verschiedenen Erziehungsstilen hin und her lavierten, mal bei ihm Zuflucht suchten, wenn ich ihnen Grenzen setzte, mal bei mir, wenn seine Flexibilität sie überforderte.
+“Redet doch einfach miteinander” oder “Findet einen Kompromiss” – diese Gut Gemeinten Ratschläge von Freunden und Familie Klangen in meinen Ohren wie Hohn. Sie Verstanden nicht, dass jedes Gespräch über Erziehung zu einem Emotionalen Minenfeld wurde. Wir Versuchten es. Immer wieder. Doch Meist Endeten unsere Gespräche in einer Von Zwei Richtungen:**  entweder Zog sich einer Von uns Verletzt Zurück, oder wir Verhärteten unsere Positionen noch mehr.** Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder begannen, unsere unterschiedlichen Ansätze für sich zu nutzen. “Aber Papa hat gesagt…” oder “Bei Mama darf ich das aber…” wurden zu Standardsätzen, die jede Diskussion noch schwieriger machten. Ich beobachtete, wie sie zwischen unseren verschiedenen Erziehungsstilen hin und her lavierten, mal bei ihm Zuflucht suchten, wenn ich ihnen Grenzen setzte, mal bei mir, wenn seine Flexibilität sie überforderte.
 
 ![Stimmungsbild zum Artikel](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
 
@@ -35,9 +33,9 @@ Die Auswirkungen dieser Situation zeigten sich immer deutlicher. Die Kinder bega
 
 Nach monatelangem Ringen wurde mir klar: Wir brauchten mehr als nur oberflächliche Kompromisse oder den Versuch, unsere unterschiedlichen Methoden irgendwie unter einen Hut zu bringen. Was wir brauchten, war ein völlig neuer Ansatz – einen Weg, der Bei uns Selbst beginnt.
 
-Ich erkannte, dass der erste Schritt darin bestand, wirkliche** Klarheit** zu gewinnen. Klarheit darüber, warum mein Partner und ich so unterschiedlich an die Erziehung herangingen. Warum triggerten mich bestimmte Situationen so stark? Weshalb war es für ihn so schwer, Grenzen zu setzen? Erst wenn wir die tieferen Beweggründe verstehen würden, könnten wir beginnen, etwas zu verändern.
+Ich erkannte, dass der erste Schritt darin bestand, wirkliche** Klarheit**zu gewinnen. Klarheit darüber, warum mein Partner und ich so unterschiedlich an die Erziehung herangingen. Warum triggerten mich bestimmte Situationen so stark? Weshalb war es für ihn so schwer, Grenzen zu setzen? Erst wenn wir die tieferen Beweggründe verstehen würden, könnten wir beginnen, etwas zu verändern.
 
-Aus dieser Klarheit heraus würde sich der zweite Schritt ergeben: ein innerer** Wandel** in unserem Denken und Fühlen. Weg von der Vorstellung, dass einer von uns Recht haben musste, hin zu dem Verständnis, dass verschiedene Ansätze auch verschiedene Stärken haben können. Dieser Wandel würde Zeit brauchen und Mut erfordern – Den Mut, Alte Muster Loszulassen und Neue Wege zu gehen.
+Aus dieser Klarheit heraus würde sich der zweite Schritt ergeben: ein innerer** Wandel**in unserem Denken und Fühlen. Weg von der Vorstellung, dass einer von uns Recht haben musste, hin zu dem Verständnis, dass verschiedene Ansätze auch verschiedene Stärken haben können. Dieser Wandel würde Zeit brauchen und Mut erfordern – Den Mut, Alte Muster Loszulassen und Neue Wege zu gehen.
 
 Der dritte und vielleicht wichtigste Schritt wäre dann eine neue Art der** Kommunikation**. Eine, die nicht von Vorwürfen und Rechtfertigungen geprägt ist, sondern von gegenseitigem Verständnis und dem Willen, wirklich gemeinsam eine Lösung zu finden. Doch wie genau sollte das in der Praxis aussehen? An diesem Punkt spürte ich: Wir würden Unterstützung brauchen, um diesen Weg erfolgreich gehen zu können.
 

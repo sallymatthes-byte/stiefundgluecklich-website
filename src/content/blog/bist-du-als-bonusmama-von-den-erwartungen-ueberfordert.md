@@ -54,11 +54,13 @@ ursachen dieser gedanken
 
 Aber woher kommen all diese “Ich sollte”-Gedanken eigentlich? Warum tragen wir Bonusmamas so viele Erwartungen an uns selbst heran? Die Ursachen dafür sind vielfältig.
 
-Zum einen spielen **gesellschaftliche Vorstellungen und Normen**  eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
+Zum einen spielen **gesellschaftliche Vorstellungen und Normen**eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
-Auch **familiäre Prägungen und eigene Kindheitserfahrungen**  tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
+Auch **familiäre Prägungen und eigene Kindheitserfahrungen**tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
 
-Der **Wunsch nach Kontrolle und Perfektion** ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
+Der **
+
+Wunsch nach Kontrolle und Perfektion**ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
 
 Nicht zuletzt spielt die** Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
 
@@ -90,13 +92,21 @@ Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedank
 
 - 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.** Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 
-- 💎**Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.** Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
+- 💎**
 
-- 💎**Übe dich in Selbstmitgefühl.** Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
+Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen.** Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.
 
-- 💎**Tausche dich mit anderen Bonusmamas aus.** Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
+- 💎**
 
-- 💎**Hole dir Unterstützung, wenn du sie brauchst.** Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
+Übe dich in Selbstmitgefühl.** Sprich mit dir selbst, wie mit einer guten Freundin. Sei nachsichtig und verständnisvoll mit dir. Akzeptiere, dass du nicht perfekt sein musst und auch Fehler machen darfst.
+
+- 💎**
+
+Tausche dich mit anderen Bonusmamas aus.** Teile deine Gedanken und Gefühle. Du wirst merken, dass du mit deinen Herausforderungen nicht allein bist. Gemeinsam lässt sich oft leichter ein Weg finden.
+
+- 💎**
+
+Hole dir Unterstützung, wenn du sie brauchst.** Das können Freunde, Familie oder auch professionelle Hilfe sein. Ein Coaching oder eine Beratung kann dir helfen, deine Rolle als Bonusmama zu reflektieren und neue Perspektiven zu gewinnen.
 
 Der Weg zu einem Leben frei von “Ich sollte” ist ein Prozess. Er braucht Zeit, Geduld und liebevolle Zuwendung zu dir selbst. Aber jeder Schritt, den du gehst, lohnt sich – für dich und für deine Ganze Patchworkfamilie.
 
