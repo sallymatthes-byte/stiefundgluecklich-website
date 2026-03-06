@@ -56,7 +56,7 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 *Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. **Ein weiterer hilfreicher Schritt ist die Selbstreflexion. **Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
-*Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder [Coaching](/blog/formular/), kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden.
+*Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder [Coaching](/warteliste/), kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden.
 
 ## Zusammenfassung
 Schuldgefühle gehören für viele Stiefmütter zum Alltag. Sie sind bis zu einem gewissen Grad normal und erfüllen wichtige Funktionen. Doch wenn sie zu einer dauerhaften Belastung werden, ist es wichtig, aktiv gegenzusteuern. Mit Selbstreflexion, Kommunikation, Abgrenzung und der Unterstützung anderer können Stiefmütter lernen, besser mit ihren Schuldgefühlen umzugehen und trotz der Herausforderungen eine erfüllende Rolle in ihrer Patchworkfamilie zu finden.
