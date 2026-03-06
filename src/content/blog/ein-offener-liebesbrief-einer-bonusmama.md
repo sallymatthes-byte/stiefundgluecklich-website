@@ -15,8 +15,6 @@ Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser S
 
 ## Lieber Stéphane,
 
-erinnerst du dich noch an unseren Anfang? Damals, an diesem zauberhaften Strand in Thailand, als ich meinen Tauchschein machen wollte und außerdem die Liebe meines Lebens fand? Als ich dich sah, war es, als würde uns ein Band magisch zueinander hinziehen. Trotz der Sprachbarriere spürte ich sofort eine tiefe Verbindung zu dir.
-
 Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – meinen Tauchlehrer zu mir nach Hause Einzuladen – das konnte doch keine Zukunft haben?
 
 Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen, die du über alles liebst. Als ausgebildete Pädagogin dachte ich, dass es kein Problem sein sollte, doch schnell merkte ich, dass es anders war als die Arbeit mit Kindern. Weißt du noch, wie ich versuchte, den Mädchen ein leckeres deutsches essen zu kochen, aber sie es kaum anrührten? Oder wie ich beim ersten gemeinsamen Wochenende völlig überfordert war mit den Streitereien und dem Wechselbad der Gefühle?

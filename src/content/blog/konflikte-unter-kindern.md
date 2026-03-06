@@ -16,8 +16,6 @@ Was tun, wenn es zu Rivalitäten und Streitigkeiten kommt? Die Kinder sich unter
 Lass uns gleich mal mit den Ursachen anfangen.
 
 ## Weshalb streiten sich die Kinder?
-
-Nicht nur für uns Erwachsene ist die Situation herausfordernd, sondern auch für Kinder.
 In Patchworkfamilien treffen Kinder mit *unterschiedlichen Erfahrungen, Prägungen und Bedürfnissen* aufeinander. Da ist zum einen Emma, die bisher als Einzelkind aufgewachsen ist und nun plötzlich teilen muss. Oder Ben, der sich nach der Trennung seiner Eltern zurückgesetzt fühlt und um Aufmerksamkeit kämpft. Jedes Kind bringt seine eigene Geschichte mit, seinen eigenen Platz in der Ursprungsfamilie.
 
 Jetzt heißt es, sich in einer neuen Konstellation zurechtzufinden. Und das ist wie Puzzleteile zusammenzufügen, die nicht passen wollen.
@@ -30,8 +28,6 @@ Doch wie können wir ihnen helfen, damit umzugehen?
 ![Konflikte unter Kindern in Patchworkfamilien — Stimmungsbild 1](/images/blog/konflikte-unter-kindern-2.jpg)
 
 ## So unterstützt du den Prozess
-
-Als Bonusmama bist du mittendrin in diesem Gefühlschaos und fühlst dich oft hilflos. Doch genau hier liegt der Schlüssel, denn du hast die Chance, als Mediatorin zu agieren. Hier sind drei konkrete Tipps, die dir dabei helfen können: **1. Führe regelmäßige Familienkonferenzen ein, bei denen jeder zu Wort kommt.** Lasse die Kinder reihum erzählen, was sie beschäftigt und achte darauf, dass jeder ausreden darf. Ermuntere sie, selbst Lösungsvorschläge zu machen und notiere diese für alle sichtbar. Gemeinsam könnt ihr abstimmen, welche Ideen ausprobiert werden. So lernen die Kinder, Konflikte konstruktiv anzugehen und fühlen sich ernst genommen.**2. Nutze die macht der ich-Botschaften, um Streit zu entschärfen.** statt “du bist immer so gemein zu mir!”, könnte Emma sagen: “Ich bin traurig, wenn du mein Kuscheltier versteckst, weil es mir so wichtig ist.” diese formulierung klingt weniger anklagend und öffnet die Tür für Verständnis. Übe die [ich-Botschaften](https://www.tollabea.de/ich-botschaften-kinder-kommunikation/) mit den Kindern, denn sie sind ein wertvolles Werkzeug für respektvolle Kommunikation.**3. Schaffe bewusst Momente der Verbundenheit,** in denen die Kinder sich näherkommen können.
 Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist, dass alle zusammen etwas Erleben und die schönen seiten einer großen Familie spüren. “weißt du noch, wie wir Neulich im Wald den Riesigen Baum Entdeckt haben?”, könnte Ben seine Schwester Fragen und schon ist da wieder diese besondere Erinnerung, die Verbindet.
 
 > “*Nicht das Kind soll sich der Umgebung anpassen. Sondern wir sollten die Umgebung dem Kind anpassen.*“ – Maria Montessori
@@ -42,9 +38,6 @@ Ob gemeinsames Kochen, Spieleabende oder Ausflüge in die Natur – wichtig ist,
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Konflikte unter Kindern in Patchworkfamilien — Stimmungsbild 2](/images/blog/konflikte-unter-kindern-3.jpg)
 
@@ -60,9 +53,14 @@ Doch auch [Zeit für dich selbst](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-
 
 Hängt den Wochenplan für alle sichtbar auf und achtet darauf, dass er eingehalten wird. So haben die Kinder eine klare Struktur und wissen, wann sie mit wem Zeit verbringen können. Das schafft Sicherheit und mindert Konflikte um Aufmerksamkeit und Zuwendung.
 
-## Musst du alle gleich behandeln?
+---
 
-Fairness und Zusammenhalt sind das A und O für ein harmonisches Miteinander in der Patchworkfamilie.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
+## Musst du alle gleich behandeln?
 *Dabei ist es jedoch wichtig zu verstehen, dass Gerechtigkeit nicht bedeutet, alle gleichzubehandeln, sondern jedem das zu geben, was er oder sie braucht.*
 
 So mag Emma mehr Zuwendung und Körperkontakt brauchen, während Ben eher mit Lob und Anerkennung aufblüht. Hier ist es deine Aufgabe als Bonusmama, die individuellen Bedürfnisse der Kinder zu erkennen und darauf einzugehen. Erkläre den Kindern, dass Gerechtigkeit nicht immer Gleichheit bedeutet und dass jeder von ihnen einzigartig ist.

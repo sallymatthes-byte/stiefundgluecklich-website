@@ -16,8 +16,6 @@ All dies betrachten wir heute einmal genauer und ich teile mit dir meine Erfahru
 
 ## Finanzielle Beteiligung als Bonusmama
 
-Als Bonusmama stellst du dir sicher oft die Frage, wie sehr du dich an den Kosten für deine Bonuskinder beteiligen sollst. 💸 es ist ein Thema, das viele Emotionen wecken kann und bei dem es keine einfachen Antworten gibt. Einerseits möchtest du zeigen, dass dir die Kinder am Herzen liegen und du bereit bist, Verantwortung zu übernehmen. Andererseits willst du dich nicht ausgenutzt fühlen oder deine eigenen finanziellen Bedürfnisse vernachlässigen.
-
 Eine hälftige Beteiligung an allen Ausgaben mag auf den ersten Blick fair erscheinen, besonders wenn beide Partner ähnlich viel verdienen und die Kinder viel Zeit in eurem gemeinsamen Haushalt verbringen. Doch es gibt viele Faktoren, die bei dieser Entscheidung eine Rolle spielen. 🤔
 
 Da sind zum einen die Einkommensverhältnisse. Verdient dein Partner deutlich mehr als du, kann eine hälftige Aufteilung eine große Belastung für dich darstellen. Auch die Anzahl der Bonuskinder und die Häufigkeit ihrer Besuche sind relevant. Verbringen sie nur jedes zweite Wochenende bei euch, ist das eine ganz andere Situation, als wenn sie die Hälfte der Zeit in eurem Haushalt leben.
@@ -32,8 +30,6 @@ Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligun
 
 ## Was, wenn du das Gefühl hast verzichten zu müssen?
 
-Als Bonusmama ist es ganz normal, wenn du manchmal das Gefühl hast, zugunsten deiner Bonuskinder auf etwas verzichten zu müssen. 😔 Vielleicht musstest du den lang ersehnten Urlaub verschieben, weil das Geld für die neuen Schulsachen draufging. Oder du konntest dir die gute Creme nicht leisten, weil gerade ein Kindergeburtstag anstand. Es sind diese Momente, in denen du dich [zurückgesetzt](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) fühlst und fragst, ob das alles so sein muss.
-
 Diese Gefühle sind absolut verständlich und menschlich. **Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.** es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind. 💔
 
 Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unterdrücken. Sprich mit deinem Partner darüber, wie es dir geht. Oft hilft es schon, sich einfach mal alles von der Seele zu reden und sich verstanden zu fühlen.
@@ -43,8 +39,6 @@ Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas meh
 > „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum sinken bringen.“ – Benjamin Franklin
 
 ## Mit dem Partner über Geld sprechen
-
-Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien kann es noch Komplizierter sein. 💸 Unterschiedliche Einstellungen, Bedürfnisse und Verpflichtungen Prallen Aufeinander. Da ist es ganz normal, wenn es auch mal Kracht. Umso wichtiger ist eine offene und ehrliche Kommunikation über die Finanzen.
 
 *Scheue dich nicht davor, das Thema anzusprechen.*  Je früher ihr euch austauscht, desto besser. Setz dich mit deinem Partner zusammen und sprecht offen über eure finanzielle Situation:
 
@@ -73,9 +67,6 @@ Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wen
 
 ---
 
-🎙** Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Finanzielle Beteiligung als Bonusmama — Stimmungsbild 2](/images/blog/finanzielle-beteiligung-3.jpg)
 
@@ -91,6 +82,12 @@ Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam
 
 Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun.  Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Als Bonusmama ist die Frage nach der finanziellen Beteiligung an den Kosten für die Bonuskinder oft eine Herausforderung, bei der es keine allgemeingültige Regel gibt.  Gefühle des Verzichts sind dabei normal und sollten ernst genommen werden, während man gleichzeitig für sich selbst sorgt. Eine offene und ehrliche Kommunikation über Geld in der Partnerschaft ist unerlässlich, um gemeinsam Strategien zu entwickeln und faire Lösungen zu finden. Trotz allem ist es wichtig, sich ein Stück finanzielle Unabhängigkeit zu bewahren, um für die eigenen Bedürfnisse sorgen zu können.
 

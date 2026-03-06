@@ -21,8 +21,6 @@ In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und
 
 ## Mir ging es auch so!
 
-Als ich vor einigen Jahren meinen Partner kennenlernte, war ich von Anfang an von seinen Kindern begeistert. Ich wollte Teil dieser Familie sein und sah es als meine Aufgabe an, sie zu unterstützen und für einen reibungslosen Ablauf zu sorgen. ** Mit Freude übernahm ich die Organisation von Terminen, Geschenken und allem, was sonst noch anfiel.** Anfangs fühlte ich mich dadurch wertgeschätzt und gebraucht. Es erfüllte mich mit stolz, dass ich meinem Partner den Rücken freihalten und für die Kinder da sein konnte. Doch mit der Zeit merkte ich, dass ich immer mehr in die Mutterrolle schlüpfte und meine eigenen Bedürfnisse hinten anstellte.
-
 Unsere Partnerschaft litt darunter, dass ich ständig mit den Gedanken bei den Kindern war und kaum noch Zeit für uns als Paar hatte. *Ich war erschöpft, fühlte mich alleine gelassen und sehnte mich nach der Leichtigkeit und Romantik, die unsere Beziehung früher ausgemacht hatte.*
 
 Gleichzeitig plagte mich ein schlechtes gewissen, wenn ich an mich selbst dachte. Ich wollte für die Kinder da sein und sie nicht enttäuschen. Doch tief in meinem Inneren wusste ich, dass ich so nicht weitermachen konnte. Ich wollte nicht länger die Rolle der aufopfernden Mutter einnehmen, sondern wieder mehr Partnerin sein.
@@ -34,8 +32,6 @@ Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschraube
 ![Zwischen Partnerschaft und Bonusmama-Sein — Stimmungsbild 1](/images/blog/zwischen-partnerschaft-und-bonusmama-2.jpg)
 
 ## Mein Wunsch nach Veränderung
-
-Je länger ich in der Rolle der Bonusmama aufging, desto stärker wurde mein Verlangen nach Veränderung. Ich sehnte mich danach, wieder mehr Partnerin zu sein und die Leichtigkeit in unserer Beziehung zurückzugewinnen.
 
 ** Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
 
@@ -54,8 +50,6 @@ Doch der Weg dahin war nicht einfach. Es galt, alte Muster aufzubrechen, Grenzen
 
 ## Grenzen setzen und Verantwortung abgeben
 
-Als ich begann, an der Veränderung zu arbeiten, wurde mir schnell klar, dass es kein leichter Weg werden würde. Ich musste lernen, Grenzen zu setzen und Verantwortung abzugeben – Zwei Dinge, die mir alles andere als leicht Fielen.
-
 Eine der größten Herausforderungen war es, “Nein” zu sagen, wenn ich um Hilfe gebeten wurde. Wenn die Kinder mich fragten, ob ich mit ihnen basteln oder bei Hausaufgaben helfen konnte, fiel es mir schwer, abzulehnen. **Ich hatte das Gefühl, sie im Stich zu lassen, wenn ich nicht ständig für sie da war.** auch meinem Partner gegenüber fiel es mir nicht leicht, Grenzen zu setzen. Wenn er mich bat, Termine für die Kinder zu organisieren oder Besorgungen zu erledigen, sagte ich oft zu, obwohl ich eigentlich schon ausgelastet war.** Ich wollte ihn nicht enttäuschen und hatte Angst, dass er mich nicht mehr brauchte, wenn ich nicht alles erledigte.** ein Schlüsselmoment war, als ich eines abends völlig erschöpft zusammenbrach, weil ich versucht hatte, es allen recht zu machen. Ich hatte den ganzen Tag gearbeitet, die Kinder bespaßt und nebenbei noch den Haushalt geschmissen.** Als mein Partner abends auch noch mit allen ein Brettspiel spielen wollte, brach ich in Tränen aus.** mir wurde schmerzhaft bewusst, dass ich so nicht weitermachen konnte.
 
 Von da an begann ich, kleine Schritte in Richtung Veränderung zu gehen. Ich fing an, auch mal “Nein” zu sagen, wenn ich merkte, dass es zu viel wurde. Anfangs fühlte ich mich schuldig dabei, aber mit der Zeit erkannte ich, dass es notwendig war, um nicht auszubrennen.
@@ -69,8 +63,6 @@ Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 ![Zwischen Partnerschaft und Bonusmama-Sein — Stimmungsbild 2](/images/blog/zwischen-partnerschaft-und-bonusmama-3.jpg)
 
 ## Der Weg zur Balance
-
-Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte. ** Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.** Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – eine Zeit, in der ich durch ähnliches Verhalten einen Burnout Erlitten hatte.* mir wurde Schlagartig bewusst, dass ich Kurz davor stand, Erneut in diese Erschöpfungsspirale zu Geraten, wenn ich nicht schnell etwas Änderte.*
 
 Mit dieser Erkenntnis im Hinterkopf ging ich den zweiten Schritt an: die konkreten Veränderungen. I*ch begann, feste Zeiten für Selbstfürsorge einzuplanen und verordnete mir täglich kleine Auszeiten.* auch für unsere Partnerschaft reservierten wir bewusst Quality Time, um wieder mehr nähe aufzubauen. **Um die Verantwortung besser zu verteilen, führten wir einen Familienkalender ein und teilten uns die Aufgaben gerecht auf.** ich lernte, meine eigenen Ansprüche zurückzuschrauben und auch mal Fünfe gerade sein zu lassen.
 
@@ -93,7 +85,6 @@ Natürlich ist nicht plötzlich alles perfekt und es gibt immer noch Tage, an de
 Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt:** ich fühle mich befreiter und selbstbestimmter.** ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
 
 ## Zusammenfassung
-Als Bonusmama in einer Patchworkfamilie ist es eine große Herausforderung, die Balance zwischen der Mutterrolle und der Partnerschaft zu finden. Oft neigen wir dazu, uns vollkommen auf die Bedürfnisse der Kinder zu fokussieren und dabei unsere Rolle als Partnerin zu vernachlässigen.
 
 Doch durch konkrete Veränderungen wie bewusste Quality Time für die Beziehung, eine gerechte Aufgabenverteilung und offene Kommunikation mit dem Partner lässt sich Schritt für Schritt eine neue Balance erreichen.
 Indem wir lernen, unsere Partnerschaft zu priorisieren und gleichzeitig die Kinder altersgerecht in die Verantwortung zu nehmen, können wir wieder mehr Erfüllung und nähe in unserer Beziehung finden und trotzdem für die Kinder da sein.

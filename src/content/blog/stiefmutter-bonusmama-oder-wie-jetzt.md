@@ -15,8 +15,6 @@ Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfa
 Und wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video:](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
 
 ## Die Entstehung des Begriffs
-
-Lass uns dafür mal einen Blick in die [Vergangenheit](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index. html) werfen: in die Zeit, in der eine Kernfamilie aus Vater-Mutter-Kind(er) bestand.
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab – Verhütung war damals bekanntermaßen noch etwas schwierig.
 In dieser Zeit war auch der Tod eines Elternteils nicht selten: Väter starben in Kriegen, die Mütter bei einer der zahlreichen Geburten; oft kamen auch Krankheiten dazu.
 
@@ -32,8 +30,6 @@ Jesper Juul
 ![Stiefmutter, Bonusmama – Oder Wie Jetzt? — Stimmungsbild 1](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
 
 ## Der Blick in die Gegenwart
-
-Heute gibt es viele Gründe, warum sich Familien verändern: Trennung, Scheidung, Wiederheirat.
 Wenn ein neuer Partner hinzukommt, ist die Situation eine andere als früher. Trotzdem haftet dem Wort “Stiefmutter” oft noch etwas negatives an, durch Märchen wie Schneewittchen oder Aschenputtel.
 Wir müssen mittlerweile niemanden ersetzen und dieser Anspruch besteht in den meisten Fällen auch nicht.
 
@@ -48,8 +44,6 @@ Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elterntei
 ![Stiefmutter, Bonusmama – Oder Wie Jetzt? — Stimmungsbild 2](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
 
 ## Meine Begriffsklärung
-
-Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer. **Stiefmutter** ist für mich zu negativ besetzt,** Bonusmama** finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.
 Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich “** belle-mere** “, was übersetzt die “schöne Mutter” bedeutet.
 Klingt wundervoll, allerdings finde ich die leibliche Mutter der Kinder auch schön und ich will weder auf mein Äußeres beschränkt werden, noch eine Mutter sein. Was außer Bonus bin ich denn dann?
@@ -60,7 +54,6 @@ Das nimmt Druck raus, auf meiner seite. Doch mit Sicherheit auch aufseiten der M
 Denn als Sally müssen sie mich nicht mögen oder gar lieben. Aber ich bin Bestandteil ihrer Lebenswelt und darum geht es doch: den Weg miteinander zu finden. Zu einem zu Hause, in der sich alle wohlfühlen und sein können. Ganz unabhängig davon, wie wir das Konstrukt nennen.
 
 ## Zusammenfassung
-Immer mehr Kinder wachsen heutzutage in Patchworkfamilien auf.
 Doch welche Rolle nimmt man als Stiefmutter ein? Der Begriff “Stiefmutter” ist historisch negativ behaftet. Heute gibt es alternative Bezeichnungen wie “Bonusmutter”. Persönlich finde ich diese aber auch nicht optimal.
 
 Am liebsten bin ich einfach Sally – ich selbst. Für die Kinder meines Partners möchte ich eine Erwachsene Bezugsperson sein, an der sie sich Orientieren können. Wie wir das Rollenverhältnis nennen, ist Zweitrangig.

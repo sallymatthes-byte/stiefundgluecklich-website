@@ -15,8 +15,6 @@ Vielleicht kennst du es ja: den Satz "bei Andrea hätte es das aber nicht gegebe
 
 ## Die Gründe verstehen: Warum Vergleiche entstehen
 
-Es ist verletzend und frustrierend, immer wieder mit der Kindsmutter verglichen zu werden. Aber lass uns gemeinsam ergründen, woher diese Vergleiche kommen, denn oft stecken dahinter tiefere Unsicherheiten und Ängste aller Beteiligten. **Die Kinder befinden sich in einem Loyalitätskonflikt:**
-
 Sie lieben ihre Mama und haben Angst, sie zu verraten, wenn sie eine enge Beziehung zu dir aufbauen. Gleichzeitig möchten sie dich als neue Bezugsperson in ihr Herz schließen. Dieser innere Zwiespalt kann sich in abwertenden Vergleichen äußern.** auch die Schwiegereltern und dein Partner sind verunsichert. ** Sie wollen dem Kind gerecht werden und fürchten, dass es die Mama vermisst. In dem [Versuch](/blog/die-4-phasen-der-patchworkfamilie/), die erste nicht zu vergessen, greifen sie unbewusst zu Vergleichen.
 
 Und dann sind da noch die** gesellschaftlichen Erwartungen und Vorurteile ** gegenüber Stiefmüttern. Das Bild der "bösen Stiefmutter" ist tief verankert und schürt die Angst, dir nicht zu genügen oder eine intakte Familie zu gefährden.
@@ -26,8 +24,6 @@ All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen ni
 ![Aus dem Schatten der Kindsmutter treten — Stimmungsbild 1](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
 
 ## Deine Gefühle wahrnehmen und annehmen
-
-wenn die Vergleiche kommen, trifft es dich wie ein Stich ins Herz. Da ist *Wut, Traurigkeit, Enttäuschung und die nagende Frage: "Bin ich gut genug?"* es ist so wichtig, dass du diese schmerzhaften Emotionen zulässt und ihnen Raum gibst.
 
 - **Erlaube dir, verletzt zu sein.** es ist völlig normal, dass dich die Vergleiche treffen und verunsichern. Versuche nicht, die Gefühle zu unterdrücken, sondern nimm sie bewusst wahr.
 - ** Sprich über deine Emotionen.** Teile deine Gedanken und Sorgen mit deinem Partner, einer guten Freundin oder einem Coach. Das hilft, den Schmerz zu verarbeiten und neue Perspektiven zu gewinnen.
@@ -46,8 +42,6 @@ Denke daran: *Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh
 ![Aus dem Schatten der Kindsmutter treten — Stimmungsbild 2](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
 
 ## Deinen eigenen Platz finden
-
-Es ist Zeit, dass du aus dem Schatten der Vergleiche mit der Kindsmutter heraustrittst und deinen eigenen, einzigartigen Platz in der Familie findest und ausfüllst. Denn du bist so viel mehr als eine Kopie der Kindsmutter - du bist eine wundervolle Bonusmama mit ganz besonderen stärken und Qualitäten.
 
 - Erkenne deine einzigartigen Fähigkeiten
 

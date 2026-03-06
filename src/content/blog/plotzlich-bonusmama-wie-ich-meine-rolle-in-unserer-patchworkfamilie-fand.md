@@ -16,13 +16,9 @@ Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen b
 
 ## Die ersten Schritte in der [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/)
 
-Als Erziehungswissenschaftlerin und langjährige Kita-Mitarbeiterin dachte ich, ich wäre gut vorbereitet. Doch nichts in meiner Ausbildung hatte mich auf diese emotionale Achterbahn vorbereitet. Zum ersten mal sah ich meinen Partner in seiner Rolle als Papa – liebevoll, fürsorglich und manchmal auch nachgiebig. Ich musste lernen, ihn zu "teilen", nicht nur mit seinen Kindern, sondern auch mit einer Vergangenheit, zu der ich keinen Zugang hatte.
-
 Die Realität als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde. *Zwischen meinem theoretischen wissen über Kindererziehung und der emotionalen Realität einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) lag ein Ozean, den ich erst noch überbrücken musste.*
 
 ## Die verborgenen Herausforderungen in der Rolle als Bonusmama
-
-In Büchern und Ratgebern las ich, dass eine Bonusmama eine "wertvolle Ergänzung" sein soll, eine zusätzliche Bezugsperson, die Liebe und Stabilität bietet, ohne die biologische Mutter zu ersetzen. ***Was sich auf dem Papier so einfach anhörte, stellte sich im Alltag als emotionales Minenfeld heraus.***
 
 Jeder Tag brachte neue Herausforderungen:
 
@@ -36,12 +32,8 @@ Besonders schmerzhaft waren die Momente, in denen meine hohen Erwartungen an mic
 
 ## Die inneren Konflikte einer Bonusmama
 
-Besonders deutlich wurde dies bei den Übergaben der Kinder. Wenn sie von ihrer Mama kamen, sprudelten die Geschichten nur so aus ihnen heraus – von den tollen Ausflügen, den gemeinsamen Erlebnissen, der schönen Zeit. In solchen Momenten kämpfte ich mit widersprüchlichen gefühlen: Einerseits freute ich mich für die Kinder, dass sie eine so liebevolle Beziehung zu ihrer Mutter hatten. Andererseits nagte die Unsicherheit an mir: Würde ich jemals einen ähnlich wichtigen Platz in ihrem leben einnehmen können? Oder würde ich immer nur die "Neue" bleiben?
-
 Die Angst, Fehler zu machen, wurde zu meinem ständigen Begleiter. Jede Entscheidung, jeder Kommentar, jede Geste schien mit einem unsichtbaren Gewicht beladen. War ich zu streng? Oder nicht konsequent genug? Setzte ich zu viele Grenzen? Oder zu wenige? Das ständige Abwägen zwischen verschiedenen Rollen – Freundin, Autoritätsperson, Vertrauensperson – zehrte an meinen Kräften.** manchmal wünschte ich mir nichts sehnlicher, als einen klaren Leitfaden zu haben, eine Art Gebrauchsanweisung für die perfekte Bonusmama.
 ## Der Wendepunkt: Deine Rolle als Bonusmama neu definieren
-
-Nach vielen Tränen und schlaflosen Nächten begann ich zu verstehen: Ich brauchte mehr als nur gute Vorsätze und pädagogisches wissen. Was ich brauchte, war ein völlig neues Verständnis meiner Rolle – eines, das mit mir wachsen und sich entwickeln durfte.** *Die Erkenntnis traf mich wie ein Blitz: Ich hatte die ganze Zeit versucht, eine perfekte Version von etwas zu sein, das ich selbst noch gar nicht verstanden hatte.***
 
 Heute weiß ich: Der Weg zur selbstbewussten Bonusmama führt über drei entscheidende Schritte.
 
@@ -54,8 +46,6 @@ Der dritte Schritt ist die Entwicklung einer neuen Art der ** Kommunikation** �
 ![Die Rolle als Bonusmama — Stimmungsbild 2](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-3.jpg)
 
 ## Deine Chance, in die Rolle als Bonusmama hineinzuwachsen
-
-Kennst du diese Momente auch? Du liegst nachts wach und fragst dich:
 
 - "Werde ich jemals wirklich zur Familie gehören, oder bleibe ich für immer die Außenseiterin?"
 - "Mache ich alles falsch? Bin ich zu streng, zu locker, zu präsent, zu distanziert?"

@@ -78,23 +78,17 @@ Sobald du weißt, was dir fehlt, geht es darum, aktiv neue Routinen in eure Bezi
 
 ## 1️⃣ Fixe Paarzeiten einführen
 
-Familienzeit ist nicht gleich Paarzeit! Plant bewusst Zeit nur für euch - ohne Ablenkung durch Kinder oder Haushalt. Das kann ein Fester Abend in der Woche sein oder ein Kurzer Spaziergang zu Zweit.
-
 > Praxis-Tipp: Setzt euch eine "Paarzeit-Challenge": 10 Minuten pro Tag nur für euch - ohne Handys, ohne Kinder, ohne Ablenkung.
 
 ![Unsichtbar als Bonusmama? So wirst du wieder gesehen! — Stimmungsbild 1](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-2.jpg)
 
 ## 2️⃣ Kleine Rituale in den Alltag einbauen
 
-Manchmal sind es die kleinen Dinge, die den größten Unterschied machen. Eine bewusste Umarmung am morgen, ein liebevoller Blick oder eine kurze Sprachnachricht zwischendurch können Wunder wirken.
-
 > Idee: Fangt den Tag mit einer positiven Frage an: "Worauf freust du dich heute?" - das schafft Verbindung, ohne viel Aufwand.
 
 ![Unsichtbar als Bonusmama? So wirst du wieder gesehen! — Stimmungsbild 2](/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-3.jpg)
 
 ## 3️⃣ Gemeinsame Momente auch MIT den Kindern anders gestalten
-
-Wenn du dich ausgeschlossen fühlst, weil dein Partner nur auf die Kinder fokussiert ist, dann versuche, bewusst Teil dieser Momente zu werden.
 
 > Beispiel: statt nur daneben zu sitzen, wenn dein Partner mit den Kindern spielt, frag aktiv nach, wie du einbezogen werden kannst. Manchmal hilft es schon, bewusst mitzulachen oder sich an einem gemeinsamen Spiel zu beteiligen.
 
@@ -105,8 +99,6 @@ Wichtig: Der Wandel beginnt mit kleinen Schritten. Erwarte keine sofortige Verä
 Jetzt kommt der wichtigste Teil: das Gespräch mit deinem Partner. Und hier liegt die größte Herausforderung - denn wenn du einfach sagst: "ich Fühle mich Unsichtbar", wird dein Partner das Möglicherweise nicht verstehen.
 
 ## So formulierst du deine Wünsche richtig:
-
-> Falsche Strategie:❌ "du beachtest mich nie, wenn die Kinder da sind."❌ "ich bin dir gar nicht mehr wichtig."
 
 ✅ Bessere Strategie:✔ "ich merke, dass mir unsere gemeinsame Zeit fehlt. Ich wünsche mir, dass wir bewusst mehr Momente zu zweit einplanen."✔ "mir ist unsere Beziehung sehr wichtig. Wie können wir beide es schaffen, trotz des Familienalltags unsere Verbindung zu stärken?"
 

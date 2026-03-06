@@ -17,8 +17,6 @@ Doch, was können wir eigentlich von den Kindern verlangen?
 
 ## Ordnung und Chaos in verschiedenen Phasen
 
-Kinder durchlaufen verschiedene Entwicklungsphasen, die ihr Verständnis von Ordnung und Chaos prägen. In jeder Phase haben sie unterschiedliche Bedürfnisse und Fähigkeiten, die sich auch auf das aufräumen auswirken.
-
 - **Kleinkinder bis etwa drei Jahre** erleben die Welt als chaotisch und unstrukturiert. Sie erforschen ihre Umgebung mit allen Sinnen und haben noch kein Konzept von Ordnung. Aufräumen bedeutet für sie, Dinge willkürlich von einem Ort zum anderen zu räumen. In dieser Phase geht es vor allem darum, die Neugierde der Kinder zu unterstützen und für Sicherheit zu sorgen.
 - ** Mit etwa vier bis sieben Jahren** beginnen Kinder, Ordnungsstrukturen zu erkennen und zu verstehen. Sie sortieren Spielsachen nach Farben oder Formen und freuen sich über wiederkehrende Abläufe. Gleichzeitig wollen sie aber auch ihre wachsende Autonomie ausleben und selbst entscheiden, wann und wie sie aufräumen.
 - ** Im Schulalter** entwickeln Kinder ein starkes Bedürfnis nach Selbstbestimmung und lehnen Regeln oft ab. Sie hinterfragen elterliche Vorgaben und testen Grenzen aus, auch beim Thema Ordnung. Dennoch brauchen sie klare Strukturen und Routinen, um sich sicher und geborgen zu fühlen.
@@ -29,8 +27,6 @@ Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu hab
 ![Aufräumen mit Spaß und Verständnis — Stimmungsbild 1](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
 
 ## Die Rolle der Bonusmama
-
-Als Bonusmama bist du gefordert, eine Balance zwischen *Verständnis* und *Konsequenz* zu finden. Einerseits ist es wichtig, die entwicklungspsychologischen Hintergründe im Blick zu haben und mit Geduld und Einfühlungsvermögen auf die Bonuskinder einzugehen. Andererseits brauchen Kinder klare Regeln und Grenzen, um sich sicher und geborgen zu fühlen.
 
 Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
@@ -52,8 +48,6 @@ Vergiss nicht: auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-hera
 > „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus.“ – Aus China
 
 ## Kreative Methoden zum Aufräumen
-
-Mit ein wenig Kreativität und Einfallsreichtum kannst du das aufräumen für deine Bonuskinder spannend und interessant gestalten. Hier sind einige Ideen für verschiedene Altersgruppen:
 
 Kleinkinder (2-4 Jahre):
 
@@ -95,8 +89,6 @@ Lass die Kinder in die Rolle von Aufräum-Robotern schlüpfen. Sie dürfen pieps
 
 ## Tipps für eine aufgeräumte Patchwork-Wohnung
 
-Um Ordnung in einer Patchwork-Wohnung zu schaffen, sind klare Regeln und gemeinsame Routinen unverzichtbar. Hier sind einige Tipps, die dir helfen können:
-
 - **Vereinbart altersangemessene Regeln:**
 
 Setze dich mit deinem Partner zusammen und legt fest, welche Aufräum-Regeln für eure Familie gelten sollen. Achtet darauf, dass sie klar, verständlich und dem alter der Kinder angemessen sind.
@@ -117,6 +109,5 @@ Motivation ist der Schlüssel zum Erfolg. Lobt die Kinder, wenn sie sich bemühe
 Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als Familie zusammenzuwachsen und ein gemütliches Zuhause für alle zu schaffen.* mit Geduld, Humor und klaren Regeln wird auch das aufräumen zu einem positiven Teil eures Familienlebens.
 
 ## Zusammenfassung
-Aufräumen mit Bonuskindern kann eine Herausforderung sein, doch mit Verständnis für die entwicklungspsychologischen Hintergründe und kreativen, altersgerechten Methoden lässt sich Ordnung spielerisch und mit Freude schaffen. Als Bonusmama ist es wichtig, eine Balance zwischen Einfühlungsvermögen und klaren Regeln zu finden und gemeinsam mit dem leiblichen Elternteil an einem Strang zu ziehen. Mit fantasievollen Aufräum-Ideen, wie Farbsortierung, Schatzsuche oder Aufräum-Robotern, kann man Kinder in verschiedenen Altersgruppen motivieren und das aufräumen in die Tagesroutine integrieren. Klare Regeln, genügend Stauraum, ein gutes Vorbild und positive Verstärkung durch Lob und Belohnungen sind zusätzliche Bausteine für eine aufgeräumte Patchwork-Wohnung. Mit Geduld, Konsequenz und einer Portion Gelassenheit wird das aufräumen zu einem selbstverständlichen und sogar freudvollen Teil des Familienlebens.
 
 

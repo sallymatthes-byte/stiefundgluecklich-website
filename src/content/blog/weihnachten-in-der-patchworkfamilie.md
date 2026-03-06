@@ -19,8 +19,6 @@ In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plo
 
 
 ## Wo liegen die Stolpersteine?
-
-Vielleicht ist es ja das erste Weihnachten, dass ihr gemeinsam verbringt.
 Und alle haben **unterschiedliche Vorstellungen** davon, wie das Fest gefeiert werden soll. Die einen möchten unbedingt den Weihnachtsbaum schmücken, während die anderen lieber tagelang Weihnachtsfilme schauen würden.
 Du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) möchtest vielleicht gern in die Kirche gehen, während dein Partner am Vorweihnachtsabend nochmal grillen möchte.
 
@@ -43,8 +41,6 @@ Und dabei wollen wir doch alle nur eins: harmonische Feiertage, ohne Streit und 
 ![Weihnachten in der Patchworkfamilie — Stimmungsbild 1](/images/blog/weihnachten-in-der-patchworkfamilie-2.jpg)
 
 ## Und wie fühlt es sich für die Kinder an?
-
-Stell dir vor, du bist ein Kind in einer Patchworkfamilie und Weihnachten steht vor der Tür.
 
 *Es ist eine Zeit voller Vorfreude und Erwartungen, aber auch voller Unsicherheit und gemischter Gefühle. Du liebst Weihnachten und möchtest es genauso erleben wie früher, als deine Eltern noch zusammen waren. Die Erinnerungen an gemeinsame Traditionen, wie das gemeinsame Schmücken des Weihnachtsbaums oder das gemeinsame Singen von Weihnachtsliedern, sind tief in dir verwurzelt. Doch jetzt ist alles anders.*
 
@@ -72,9 +68,6 @@ Gebt dem Kind die Möglichkeit, selbst mitzubestimmen, wie es das Weihnachtsfest
 
 ---
 
-🎙 ** Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Weihnachten in der Patchworkfamilie — Stimmungsbild 2](/images/blog/weihnachten-in-der-patchworkfamilie-3.jpg)
 
@@ -94,8 +87,14 @@ Eine weitere schöne Idee ist es, sich gemeinsam Geschichten zu erzählen. Jedes
 
 Diese Rituale sind nur einige Beispiele dafür, wie ihr als Patchworkfamilie eure eigenen, kreativen und harmonischen Weihnachtstraditionen etablieren könnt. Wichtig ist, dass sich alle Familienmitglieder gehört und eingebunden fühlen. Indem ihr die vielfältigen Hintergründe und [Traditionen](https://www.paarzeit.de/3-mikroabenteuer-fuer-paare-im-alltag/) jedes einzelnen wertschätzt und in euer gemeinsames Fest integriert, schafft ihr eine harmonische Atmosphäre voller Liebe und Zusammenhalt.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Weihnachten kann absolut herausfordernd sein: sowohl organisatorisch als auch emotional gesehen. Diese [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) anzuerkennen ist der erste wichtige Schritt in ein harmonisches Weihnachtsfest.
 Das Einnehmen von anderen Blickwinkeln, eine transparente Kommunikation sowie eigene Rituale können das Fest aber zu etwas ganz besonderem werden lassen.
 
 Ich wünsche dir eine besinnliche Vorweihnachtszeit und ein harmonisches Fest im Kreise deiner lieben!

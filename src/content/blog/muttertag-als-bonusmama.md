@@ -17,8 +17,6 @@ Lass uns dies heute mal genauer betrachten.
 *Und kleiner Spoiler vorweg: ich habe noch nie einen Muttertag mit meinen Bonuskindern verbracht und bekomme an diesem Tag auch keine Geschenke – weil wir dies so Abgesprochen haben, damit niemand Enttäuscht ist. *
 
 ## Ein herausfordernder Tag
-
-Muttertag – ein Tag voller Blumen, Frühstück ans Bett und Selbstgebastelter Geschenke. Für Viele Mütter ist es ein **tag der Wertschätzung und Dankbarkeit,** an dem sie von ihren Kindern und Partner_innen Gefeiert werden. Doch für uns Bonusmamas kann der Muttertag eine Echte Herausforderung sein.
 Denn oft fühlen wir uns hin- und hergerissen zwischen unserer Rolle als Partnerin und der Rolle als “Bonusmama”.
 
 Viele von uns sehen sich selbst nicht als Mutter, sondern eher als Freundin oder Unterstützerin der Kinder. Und genau das kann am Muttertag zu** inneren Konflikten ** führen.
@@ -28,8 +26,6 @@ Es ist ein schmaler Grat, auf dem wir Bonusmamas wandeln – und der Muttertag m
 ![Den Muttertag als Bonusmama erleben — Stimmungsbild 1](/images/blog/muttertag-als-bonusmama-2.jpg)
 
 ## Erwartungen und Enttäuschungen
-
-Stellen wir uns folgende Situation vor: Es ist Muttertag und du hast dir fest vorgenommen, diesen Tag mit deiner Patchworkfamilie zu verbringen. Du hast ein leckeres Frühstück vorbereitet, den Tisch liebevoll gedeckt und freust dich auf einen harmonischen Start in den Tag. Doch dann kommt dein Partner verschlafen aus dem Schlafzimmer und murmelt nur ein kurzes “morgen”, bevor er sich seinem Handy widmet. Die Kinder sind noch bei ihrer leiblichen Mutter und du sitzt alleine am Frühstückstisch.*In diesem Moment fühlst du dich unsichtbar und fragst dich, ob deine Bemühungen überhaupt gesehen und geschätzt werden.*
 
 Oder stell dir vor, die Kinder kommen später zu dir und berichten dir von dem selbstgebastelten [Geschenk](https://www.etsy.com/de-en/listing/1684843793/custom-bonus-mama-mug-personalized?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bonus+mama+geschenk&ref=sc_gallery-1-4&pro=1&sts=1&plkey=728f051bf05f0f407bdf3a36cd67ce2b5e5464c5%3A1684843793), welches sie ihrer Mutter überreicht haben. Du freust dich für sie, aber gleichzeitig spürst du einen [Stich im Herzen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/). Denn für dich haben sie nichts vorbereitet.*In diesem Augenblick fühlst du dich ausgeschlossen und zweifelst an deiner Bedeutung in der Familie.*
 
@@ -47,9 +43,6 @@ Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Muttertag als Bonusmama: Das solltest du wissen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Den Muttertag als Bonusmama erleben — Stimmungsbild 2](/images/blog/muttertag-als-bonusmama-3.jpg)
 
@@ -73,7 +66,13 @@ Mach deutlich, dass du den Tag gemeinsam verbringen möchtest, aber auch Verstä
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Muttertag als Bonusmama: Das solltest du wissen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Der Muttertag kann für Bonusmamas eine emotionale Herausforderung sein, da sie sich oft zwischen ihrer Rolle als Partnerin und der Rolle als “Ersatzmama” hin- und hergerissen fühlen. Auch für die Kinder ist dieser Tag nicht einfach, da sie beide Frauen lieben und keine enttäuschen möchten.
 Um Harmonie am Muttertag zu schaffen, ist es wichtig, offen zu kommunizieren, gemeinsame Aktivitäten zu planen und Rituale zu etablieren, die die Familie verbinden. Als Bonusmama kannst du dazu beitragen, indem du deine Wünsche und Erwartungen klar äußerst, dir aber auch Momente für dich selbst nimmst und dich auf die schönen Momente fokussierst. Mit einer offenen und entspannten Haltung kannst du den Muttertag zu einem unvergesslichen Erlebnis für deine Patchworkfamilie machen.
 

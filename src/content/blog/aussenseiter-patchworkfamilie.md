@@ -19,8 +19,6 @@ Doch lass mich dir erst einmal einen Gesamtüberblick über ihr Konzept geben
 
 ## Die 5 Herausforderungen im Überblick
 
-Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
-
 - **Die Positionen von "Insidern" und "Outsidern" im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft ausgeschlossen und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 - die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 - ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
@@ -41,8 +39,6 @@ Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 
 ## Die Position des Außenseiters
 
-Die Insider-Outsider-Dynamik in Patchworkfamilien, wie sie Patricia Papernow beschreibt, unterscheidet sich grundlegend von der Situation in einer Kernfamilie. In einer "First-time Family", also einer Familie mit zwei leiblichen Elternteilen, wachsen die Kinder von Anfang an mit einer sicheren Bindung zu beiden Eltern auf. Auch wenn sie mal den einen Elternteil bevorzugen oder den anderen ablehnen, gibt es doch ein*stabiles Fundament gemeinsamer Erfahrungen und vertrauter Routinen,* das die Familie zusammenhält. **In einer Patchworkfamilie hingegen gibt es diese gemeinsame Basis zunächst nicht.** Stattdessen gibt es ein bestehendes Subsystem aus einem Elternteil und seinen Kindern. Jedes mal, wenn das Kind den Raum betritt oder an einer Unterhaltung teilnimmt,*wird der leibliche Elternteil automatisch zum "Insider", der neue Partner zum "Outsider".*
-
 Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes mal, wenn eins der Kinder den Raum betritt, entsteht automatisch eine Insider-Outsider-Dynamik: Kevin und das Kind teilen einen exklusiven Moment, während du dich schnell [ausgeschlossen](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) fühlst. Kevin wiederum fühlt sich hin- und hergerissen zwischen dir und seinen Kindern.
 
 Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen Herausforderungen für Patchworkfamilien ist. Anders als in einer Kernfamilie, wo die Kinder von Anfang an mit beiden Eltern vertraut sind, gibt es in Stieffamilien **zunächst keine gemeinsame Basis.** die Insider-Outsider-Positionen sind festgefahren und es braucht Zeit und Geduld, sie aufzulockern.
@@ -52,8 +48,6 @@ Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es
 > „Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite.“ – Martin Reisenberg
 
 ## Was kannst du dagegen tun?
-
-Um die festgefahrenen Insider-Outsider-Positionen in Patchworkfamilien aufzulockern, gibt es einige hilfreiche Strategien:
 
 - ** Normalisieren und Verständnis zeigen:** Allein zu wissen, dass diese Dynamik zum Territorium einer Stieffamilie gehört und die damit verbundenen Gefühle normal sind, kann schon entlastend wirken. Wenn Kevin und Sabine verstehen, dass es ganz natürlich ist, dass Sabine sich jedes mal ausgeschlossen fühlt, wenn eins der Kinder den Raum betritt, während Kevin automatisch zum Insider wird, kann das helfen, die Scham zu lindern und mehr Mitgefühl füreinander zu entwickeln.
 - ** Bewusst Zeit zu zweit verbringen:** Entgegen der Vorstellung, dass man möglichst viel gemeinsam als ganze Familie unternehmen sollte, sind die Insider-Outsider-Positionen in diesen Situationen oft besonders ausgeprägt. Stattdessen ist es förderlich, wenn:
@@ -75,11 +69,6 @@ Mit **Einfühlungsvermögen, Geduld und dem Willen, aufeinander zuzugehen**, kö
 
 ---
 
-🎙**
-
-Passend dazu:** Hör dir die Podcastfolge "Ausgeschlossen in der eigenen Familie" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Als Bonusmama bist du die Außenseiterin in eurer Patchworkfamilie! — Stimmungsbild 2](/images/blog/aussenseiter-patchworkfamilie-3.jpg)
 
@@ -92,7 +81,13 @@ Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche V
 
 Indem ihr diese Fallstricke vermeidet und euch stattdessen auf die positiven Strategien konzentriert, könnt ihr als Paar einen Weg finden, mit den Insider-Outsider-Positionen umzugehen und langfristig enger zusammenzuwachsen. Habt Geduld mit euch und dem Prozess.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge "Ausgeschlossen in der eigenen Familie" an - auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Die Insider-Outsider-Dynamik ist eine der größten Herausforderungen für Patchworkfamilien. Sie entsteht, weil der leibliche Elternteil und die Kinder eine gemeinsame Geschichte und enge Bindung haben, während der neue Partner zunächst außen vor bleibt. Um diese festgefahrenen Positionen aufzulockern, ist es wichtig, die Situation zu normalisieren, Verständnis zu zeigen und bewusst Zeit in den verschiedenen Subsystemen zu verbringen. Eine offene, wertschätzende Kommunikation und der Verzicht auf Druck, Schuldzuweisungen und unrealistische Erwartungen sind ebenfalls zentral. Mit Geduld, Einfühlungsvermögen und dem Willen, aufeinander zuzugehen, können Paare lernen, die Insider-Outsider-Dynamik zu meistern.
 
 

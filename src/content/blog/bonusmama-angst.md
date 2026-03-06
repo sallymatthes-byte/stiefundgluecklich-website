@@ -13,8 +13,6 @@ imageAlt: "Bonusmama und Angst"
 
 ## “Ich bin hier – Aber Ich Gehöre Nicht Ganz Dazu.”
 
-Hast du diesen Satz schon einmal gedacht? Oder gespürt – ganz leise, irgendwo tief in dir? Als Bonusmama ist das kein seltener Gedanke. Viele Frauen, die sich liebevoll in eine Patchworkfamilie einbringen, erleben ihn – diesen inneren Zwiespalt zwischen nähe und Fremdheit.
-
 Vielleicht ist da diese ständige Anspannung. Kein offener Konflikt, aber auch keine Selbstverständlichkeit. Du willst dazugehören, du gibst dein Bestes – doch gleichzeitig hast du das Gefühl, du „stehst daneben“. Und mit dieser Unsicherheit kommt ein weiteres Gefühl: Angst.
 
 Nicht die laute Angst, wie wir sie aus Gefahrensituationen kennen. Sondern die stille, unterschwellige Angst, die dich begleitet wie ein Schatten. Angst davor, nicht genug zu sein. Angst, irgendwann ausgeschlossen zu werden. Angst, dass all das, was du gibst, doch nicht reicht.
@@ -27,8 +25,6 @@ In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist
 
 ## Mein Aha-Moment als Bonusmama: Warum Angst so tief sitzt
 
-Ich erinnere mich noch gut an den Moment, als ich begann, meine innere Unruhe nicht mehr als persönliche schwäche zu sehen. Ich hatte mich oft gefragt, warum mich scheinbar kleine Situationen so tief trafen. Warum ich mich an manchen Tagen wie auf rohen Eiern bewegte – wachsam, still, angepasst. Ich dachte, ich sei zu sensibel, zu reflektiert, zu „weich“.
-
 Und dann stieß ich auf diesen Satz: „Being a stepmom is a fundamentally anxiety-provoking proposition.“
 
 In diesem Moment machte plötzlich alles Sinn. Als Bonusmama bist du Teil eines Systems, das biologisch gesehen keine gewachsene Gruppe ist. Dein Nervensystem erkennt: Hier ist keine Selbstverständlichkeit. Hier ist Bewegung. Hier ist Unsicherheit. Und darauf reagiert es mit erhöhter Alarmbereitschaft.
@@ -40,8 +36,6 @@ Und genau das ist in vielen Patchworkkonstellationen der Fall: unausgesprochene 
 Aber: du bist nicht allein. Und vor allem – du bist nicht falsch. Du bist nicht „zu Sensibel“. Du bist Verbunden mit deinem tiefen Bedürfnis nach Sicherheit und Beziehung. Und genau da setzen wir an.
 
 ## Warum so viele Bonusmamas Angst empfinden – und wie sie sich zeigt
-
-Angst ist kein Fehler in deinem System. Sie ist ein Signal. Und sie wird besonders laut, wenn unsere innere Sicherheit ins Wanken gerät. Patchworkfamilien sind hochkomplexe soziale Konstrukte – mit vielen ungeschriebenen Regeln, alten Wunden und sensiblen Beziehungslinien.
 
 Was das für dich als Bonusmama bedeutet? Du bewegst dich in einem Raum, der einerseits Intimität verlangt – und andererseits wenig [Klarheit](/blog/ab-wann-ist-man-stiefmutter/) Bietet. Du sollst „familie“ Mitgestalten, bist aber oft emotional wie Rechtlich nicht Abgesichert.
 
@@ -56,8 +50,6 @@ Wichtig zu wissen:** Diese Angst kann sich unterschiedlich zeigen – je nach Pe
 ![Bonusmama und Angst — Stimmungsbild 1](/images/blog/bonusmama-angst-2.jpg)
 
 ## Bonusmama-Angsttypen: Welcher Archetyp zeigt sich bei dir?
-
-Angst hat viele Gesichter – und in Patchworkfamilien zeigt sie sich oft in Vier [typischen Rollen](/blog/archetypen-einer-bonusmama/), die Bonusmamas unbewusst einnehmen.
 
 ### Die Perfektionistin
 
@@ -86,8 +78,6 @@ Sie will beweisen, dass Patchwork mit ihr klappt. Sie gibt Vollgas – organisie
 In welchem Muster erkennst du dich am stärksten? Und welches Bedürfnis steckt dahinter? 
 
 ## Die Bonusmama-Formel gegen Angst: Wie du innere Sicherheit aufbaust
-
-Wenn Angst dein ständiger Begleiter ist, brauchst du keine weiteren Strategien zur Selbstoptimierung – sondern eine Rückverbindung zu dir selbst. Genau hier setzt meine Bonusmama-formel an. Sie besteht aus drei Schritten, die dich weg von innerer Unsicherheit und hin zu emotionaler Stabilität führen: Klarheit, Wandel und verbindende Kommunikation.
 
 ### 1. Klarheit schaffen – Erkenne deine Trigger und Bedürfnisse
 

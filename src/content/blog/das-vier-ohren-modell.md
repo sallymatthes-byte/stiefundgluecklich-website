@@ -20,8 +20,6 @@ Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikatio
 
 ## Ein Satz, vier Bedeutungen
 
-Ich erinnere mich noch genau an den Moment, als mir die Bedeutung des 4-Ohren-Modells klar wurde. Mein Partner und ich waren mitten im Alltag mit seinen zwei Töchtern. Während wir uns ums Frühstück und die Hausaufgaben kümmerten, sagte ich beiläufig: “Die Kinder müssen heute noch ihre Haare waschen.”
-
 Die Reaktion meines Partners kam unerwartet: “Was soll ich denn noch alles im Blick behalten?” ich war verblüfft. Für mich war es eine simple Information gewesen, doch er fühlte sich offenbar angegriffen. Eine [heftige Diskussion](/blog/unterschiedliche-erziehungsmethoden/) entbrannte darüber, wer für die Haarpflege der Kinder zuständig sei und was wir voneinander erwarten könnten.
 
 Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen können. ** Ein harmloser Satz hatte ausgereicht, um einen Konflikt auszulösen.** doch warum? Die Antwort fand ich im 4-Ohren-Modell von Friedemann Schulz von Thun.
@@ -31,8 +29,6 @@ Dieses Modell besagt, dass jede Nachricht vier ebenen hat: Sachinhalt, Selbstoff
 ![Das 4-Ohren-Modell — Stimmungsbild 1](/images/blog/das-vier-ohren-modell-2.jpg)
 
 ## Der Wunsch nach einem Miteinander ohne Vorwürfe
-
-Als ich erkannte, wie schnell ein simpler Satz zu Konflikten führen kann, wurde mir bewusst, wie wichtig eine klare und achtsame Kommunikation ist. Ich sehnte mich nach einem harmonischen Miteinander, bei dem wir offen und verständnisvoll miteinander reden können, ohne dass einer von uns sich angegriffen fühlt oder in Rechtfertigungsdruck gerät.
 
 Mein Ziel war es, Missverständnisse gar nicht erst aufkommen zu lassen und Lösungen zu finden, statt uns in Vorwürfen zu verlieren. ** Ich wünschte mir, dass wir als Team funktionieren und an einem Strang ziehen, gerade wenn es um die Kinder geht.** Schließlich wollte ich meinen Stiefkindern ein harmonisches Familienleben bieten und gemeinsam mit meinem Partner für sie da sein.
 
@@ -44,8 +40,6 @@ Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen.
 > „Wer sich selbst versteht, kommuniziert besser.” – Friedemann Schulz von Thun
 
 ## Aneinander vorbeireden – Wenn unterschiedliche Ebenen aufeinanderprallen
-
-Die Umsetzung des 4-Ohren-Modells in unseren Alltag brachte einige [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) mit sich. Oft ertappte ich mich dabei, wie ich aus Gewohnheit auf die Appell-ebene hörte und mich angegriffen fühlte, obwohl mein Partner eigentlich nur Informationen weitergeben wollte.
 
 Ein Beispiel: mein Partner sagte: “der Müll ist voll.” für ihn war das eine sachliche Feststellung, doch ich hörte den Vorwurf heraus: “Du hast vergessen, den Müll rauszubringen.” schnell entwickelte sich ein Streit darüber, wer wofür verantwortlich sei und warum der andere sich nicht genug einbringe.
 
@@ -60,8 +54,6 @@ Erst mit der Zeit lernten wir, bewusster zu kommunizieren und auch mal innezuhal
 ![Das 4-Ohren-Modell — Stimmungsbild 2](/images/blog/das-vier-ohren-modell-3.jpg)
 
 ## So gelingt die Kommunikation mit dem 4-Ohren-Modell
-
-Die Herausforderungen in unserer Kommunikation waren vielfältig: Missverständnisse, verletzende Worte, das Gefühl, nicht gehört zu werden. Doch mit dem 4-Ohren-Modell fanden wir einen Weg, diese Hürden zu überwinden und einander besser zu verstehen.
 
 Es war ein Prozess, der Geduld und Übung erforderte. Schritt für Schritt lernten wir, bewusster miteinander zu reden und die Botschaften des anderen auf allen vier ebenen wahrzunehmen. Dabei halfen uns drei einfache, aber wirkungsvolle Strategien:
 
@@ -87,4 +79,3 @@ Unsere Gespräche sind** achtsamer und wertschätzender ** geworden. Wir nehmen 
 Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedlicher Meinung sind. Doch dank des 4-Ohren-Modells gelingt es uns meist, schnell wieder zueinander zu finden und gemeinsam nach Lösungen zu suchen. Unsere Beziehung ist dadurch stabiler und erfüllender geworden – nicht nur für uns, sondern auch für meine Stiefkinder, die Nun in einem harmonischeren Umfeld aufwachsen können.
 
 ## Zusammenfassung
-Das 4-Ohren-Modell ist ein wertvolles Werkzeug, um Missverständnisse in der Kommunikation zu vermeiden und Beziehungen zu stärken. Indem wir lernen, Botschaften auf vier ebenen wahrzunehmen und zu senden – *Sachinhalt, Selbstoffenbarung, Beziehung und Appell* – können wir klarer und Achtsamer miteinander kommunizieren. Durch Selbstreflexion, bewusstes formulieren und gemeinsames anwenden des Modells lassen sich Konflikte Entschärfen und eine tiefere Verbindung zueinander aufbauen. Auch wenn es Übung Erfordert, lohnt sich der Einsatz des 4-ohren-modells, um mehr Harmonie und Verständnis in Partnerschaften zu bringen.

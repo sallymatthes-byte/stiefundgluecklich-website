@@ -16,8 +16,6 @@ Dies ist eine der 5 Herausforderungen, die die amerikanische Psychologin Patrici
 
 ## Die 5 Herausforderungen im Überblick
 
-Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
-
 - **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 - die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 - ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
@@ -38,8 +36,6 @@ Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.
 
 ## Zwischen den Stühlen
 
-Ich möchte dir gern die 13-jährige Emma vorstellen. Ihre Eltern haben sich vor einem Jahr getrennt und jetzt hat ihr Vater eine neue Partnerin, Lisa. Sie mag Lisa eigentlich ganz gern, aber immer, wenn sie sieht, wie vertraut sie und dein Vater miteinander umgehen, fühlt sie einen Stich im Herzen.
-
 Es ist, als würde sie ihren Vater *verlieren* – an diese andere Frau, die plötzlich so viel Zeit mit ihm Verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa Einlässt. Sie fühlt sich Hin- und Hergerissen, **zwischen Zwei Stühlen**.
 
 Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust, fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*.
@@ -51,8 +47,6 @@ Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit
 > „Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter.“ – Unbekannt
 
 ## Das Leben in der Schneekugel
-
-Emmas leben gleicht einem Wirbelsturm der Veränderungen. Erst die Trennung ihrer Eltern, die ihr den Boden unter den Füßen weggerissen hat. Dann der Umzug in eine neue Wohnung, weg von ihrem vertrauten Zuhause, ihren Freunden und Nachbarn. In der Schule ist sie jetzt die neue, muss sich erst wieder ihren Platz suchen. Und nun auch noch Lisa, die neue Partnerin ihres Vaters, die plötzlich ständig präsent ist.
 
 Emma fühlt sich, als hätte jemand ihr leben in eine Schneekugel gepackt und kräftig geschüttelt. Nichts ist mehr, wie es war. Beim Frühstück gibt es plötzlich Smoothies statt Nutella-Brote, weil Lisa auf gesunde Ernährung achtet. Im Bad stehen fremde Shampoos und Cremes, die nach Vanille und Kokosnuss duften. Und im Wohnzimmer hängen Bilder von Lisas letztem Urlaub, auf denen ihr Vater mit ihr am Strand lacht.
 
@@ -67,9 +61,6 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Die unsichtbare Last — Stimmungsbild 2](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
 
@@ -99,13 +90,17 @@ Plant bewusst Zeitfenster ein, in denen ihr euren Kindern eure ungeteilte Aufmer
 
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird – und Begleitet es dabei ohne Druck und Erwartungen.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte – wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Bonuskinder in Patchworkfamilien sind oft mit schmerzhaften Verlusterfahrungen und belastenden Loyalitätskonflikten konfrontiert. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch lernen, sich in einer neuen Familienkonstellation zurechtzufinden, ohne die leiblichen Eltern zu verletzen. Hinzu kommt die Überforderung durch zu viele und zu schnelle Veränderungen, die die Kinder leicht aus dem Gleichgewicht bringen können.
 
 <!-- FAQ_START
 ## Häufige Fragen
-
-### Was sind Loyalitätskonflikte bei Kindern in Patchworkfamilien?
 Ein Loyalitätskonflikt entsteht, wenn ein Kind das Gefühl hat, sich zwischen zwei Bezugspersonen entscheiden zu müssen — meistens zwischen der leiblichen Mutter und der Bonusmama. Das Kind fühlt sich schuldig, wenn es die neue Partnerin des Vaters mag, weil es glaubt, damit die Mama zu verraten.
 
 ### Woran erkenne ich einen Loyalitätskonflikt beim Bonuskind?

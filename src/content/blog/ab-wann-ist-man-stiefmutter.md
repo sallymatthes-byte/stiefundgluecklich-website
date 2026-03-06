@@ -21,8 +21,6 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ## Was eine Stiefmutter wirklich ist – Mehr Als Nur Ein Märchen
 
-Kennst du diesen Moment? Du sitzt beim Elternabend in der Schule, und als du dich vorstellst als "die Stiefmutter von…", merkst du sofort diese subtilen Reaktionen um dich herum. Ein kurzes Zucken hier, ein mitfühlendes Lächeln dort, vielleicht sogar ein skeptischer Blick aus der hinteren Reihe.
-
 Ja, der Begriff "Stiefmutter" löst auch heute noch oft Unbehagen aus.
 
 Ich erinnere mich noch genau an den Moment, an dem ich mich das erste mal so vorstellte. Es wurde kurz still im Raum. Eine andere Mutter flüsterte ihrer Nachbarin etwas zu, und ich spürte sofort diese unsichtbare Mauer, die sich aufbaute. ** Der Begriff "Stiefmutter" trägt eine schwere Last aus Jahrhunderten von Märchen und gesellschaftlichen Vorurteilen.** dabei sagt die offizielle Definition nur nüchtern: Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann eingeht, der bereits Kinder aus einer früheren Beziehung hat.
@@ -34,8 +32,6 @@ Es bedeutet, jeden Tag aufs neue Grenzen zu erkunden – zwischen nähe und Dist
 ---
 
 ## Der Start in meine Rolle als Bonusmama
-
-Als ich Stéphane kennenlernte, war ich 30 und dachte, ich hätte schon alles im Griff, was Kinder angeht. Immerhin arbeitete ich seit Jahren als Kita-Pädagogin und war die liebende Tante einer vierjährigen nichte.
 
 Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzählte. Wir saßen in einem kleinen Café, und seine Augen leuchteten, als er von den Mädchen sprach.** in diesem Moment spürte ich eine Mischung aus Vorfreude und Unsicherheit in meinem Bauch.**![Zwei Hände, die sich auf einem Holztisch berühren — warm, verbunden](/images/blog/stiefmutter-haende. jpg)
 
@@ -50,8 +46,6 @@ In diesem Moment wurde mir klar: ich betrat hier Neuland, und meine bisherigen E
 ---
 
 ## Der Weg zur Bonusmama: Die 3-Schritte-Formel
-
-### 1. Klarheit gewinnen: Wer will ich als Bonusmama sein?
 
 Die erste große Erkenntnis kam nach einer besonders herausfordernden Woche. Die Kinder waren gerade zu ihrer Mama zurückgekehrt, und ich saß erschöpft auf der Couch. In diesem Moment der stille wurde mir klar:** ich musste aufhören, die perfekte Stiefmutter sein zu wollen, und stattdessen die Bonusmama werden, die ICH sein wollte.** ich nahm mir einen ganzen Nachmittag Zeit, setzte mich in mein Lieblingscafé und schrieb auf, was mir wirklich wichtig war:
 
@@ -96,8 +90,6 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 ---
 
 ## Dein Weg zur harmonischen Patchworkfamilie
-
-Vielleicht sitzt du gerade da, nickst beim lesen und denkst: "Genau so fühlt es sich an!" oder du stehst am Anfang deiner Reise als Bonusmama und fragst dich bangend: "wie soll ich das alles schaffen?"
 Lass mich dir eines sagen: ** Du bist nicht allein.** jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
 So wie für Christina und Maria:
@@ -115,8 +107,6 @@ So wie für Christina und Maria:
 
 <!-- FAQ_START
 ## Häufige Fragen
-
-### Was ist eine Stiefmutter?
 Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann führt, der bereits Kinder aus einer früheren Beziehung hat. Der Begriff stammt aus dem Althochdeutschen und bedeutet ursprünglich „verwaist" — nicht „böse", wie viele denken. Heute verwenden viele Frauen lieber den Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
 
 ### Ab wann ist man Stiefmutter?

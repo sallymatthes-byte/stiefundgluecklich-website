@@ -22,8 +22,6 @@ Also, wie kann man damit umgehen?
 
 ## Aus dem Schatten heraus treten
 
-Es ist wichtig, dass du dir bewusst machst, dass dieses Gefühl nicht deine schuld ist. Es entsteht oft aus den komplexen Dynamiken einer Patchworkfamilie und den unterschiedlichen Rollen, die jeder einnimmt. Doch du kannst aktiv daran arbeiten, deine eigene Priorität zu stärken und dich nicht länger in der zweiten Reihe zu fühlen.
-
 - **Ein erster Schritt ist, mit deinem Partner über deine Gefühle und Bedürfnisse zu sprechen.** Offene Kommunikation ist der Schlüssel zu einer starken Beziehung. Teile ihm mit, wie du dich fühlst und was du dir wünschst. Oft hilft es schon darüber zu sprechen und das Gefühl einfach nur anzunehmen und ihm Raum zu geben.
 - ** Aber auch Selbstfürsorge ist von großer Bedeutung.** Nimm dir Zeit für dich selbst und pflege deine eigenen Interessen und Hobbys. Sorge dafür, dass du dich gut fühlst und dir selbst genug Aufmerksamkeit schenkst. Denn nur wenn du für dich selbst sorgst, kannst du auch für andere da sein.
 - ** Eine weitere Möglichkeit, deine eigene Priorität zu stärken, ist es, dich bewusst mit dem Kind deines Partners zu verbinden.** Finde gemeinsame Aktivitäten, die euch verbinden und eure Beziehung stärken. Sei interessiert an seinem leben und zeige ihm, dass er für dich wichtig ist. Indem du eine starke Verbindung zu seinem Kind aufbaust, wirst du nicht nur als Bonusmama, sondern auch als eine wichtige Person in seinem leben wahrgenommen.
@@ -37,8 +35,6 @@ Indem du deine eigene Priorität stärkst, kannst du dazu beitragen, eine harmon
 ![Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?! — Stimmungsbild 1](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
 
 ## Mach dich selbst zur Priorität
-
-Oftmals neigen wir dazu, unsere Anerkennung und Wertschätzung von anderen Menschen zu erwarten.
 Wir suchen nach Bestätigung von unserem Partner, den Kindern oder sogar der Ex-Frau. **Doch die Wahrheit ist, dass wir uns diese Anerkennung zuerst selbst geben können und müssen.** es beginnt damit, dass wir uns selbst wertschätzen und anerkennen, wer wir sind und welchen wert wir in die Patchworkfamilie bringen.
 Indem wir uns selbst lieben und uns selbst wichtig nehmen, schaffen wir die Grundlage für eine gesunde Beziehung zu anderen. Denn nur wenn wir uns selbst anerkennen und wertschätzen, können wir auch von anderen Menschen in unserer Umgebung Anerkennung und Wertschätzung erhalten.
 Also fang an, dir selbst diese [Wertschätzung](https://gedankenwelt.de/zehn-schritte-um-dir-selbst-die-prioritaet-zu-geben/) zu geben, die du verdienst, und beobachte, wie sich deine Beziehungen zu anderen Menschen, einschließlich deiner Patchworkfamilie, positiv verändern.
@@ -48,13 +44,10 @@ Also fang an, dir selbst diese [Wertschätzung](https://gedankenwelt.de/zehn-sch
 
 ## Du bist wichtig!
 
-Als Stiefmami kann es eine besondere Herausforderung sein, sich selbst Anerkennung und Wertschätzung zu geben.*Oftmals wird von uns erwartet, uns um die [Bedürfnisse und Anliegen](/blog/balance-in-der-verantwortung/) anderer zu kümmern, während unsere eigenen Bedürfnisse in den Hintergrund treten.* doch es ist wichtig, dass wir uns bewusst machen, dass wir genauso wichtig sind und verdient haben, uns selbst zu würdigen. **Ein wichtiger Schritt ist es, sich selbst zu akzeptieren und anzuerkennen, dass man als Stiefmutter eine wertvolle Rolle in der Patchworkfamilie spielt**. Du trägst dazu bei, dass die Familie harmonisch und liebevoll zusammenleben kann.** es kann auch hilfreich sein, sich regelmäßig Zeit für sich selbst zu nehmen. ** Finde heraus, was dich glücklich macht und was dir Energie gibt. Ob es nun ein Hobby, ein Spaziergang in der Natur oder einfach nur Zeit für dich alleine ist – solche Aktivitäten stärken nicht nur dein Selbstwertgefühl, sondern helfen dir auch dabei, deine eigenen Bedürfnisse nicht zu Vernachlässigen.** zudem ist es wichtig, dass du dir selbst gegenüber Mitfühlend bist.** manchmal sind wir zu hart mit uns selbst und setzen uns unter Druck, perfekt zu sein. Doch das ist nicht realistisch. Erlaube dir, Fehler zu machen und aus ihnen zu lernen. Behandle dich selbst mit der gleichen Güte und Fürsorge, die du auch anderen Entgegenbringst.** nicht Zuletzt ist es auch wichtig, ein Netzwerk von Unterstützung Aufzubauen.** Suche nach anderen Bonusmüttern, mit denen du dich Austauschen und gegenseitig unterstützen kannst. Es ist hilfreich zu wissen, dass du nicht Alleine bist und dass andere ähnliche Herausforderungen durchleben. Gemeinsam könnt ihr euch gegenseitig Ermutigen und stärken.
-
 Indem du dir selbst Anerkennung und Wertschätzung gibst, stärkst du dein Selbstwertgefühl und deine innere stärke als Stiefmutter. Du wirst feststellen, dass du in der Lage bist, eine erfüllende Beziehung zur Patchworkfamilie aufzubauen, ohne dich selbst dabei zu vernachlässigen. Und dass das Gefühl, in zweiter Reihe zu stehen, in den Hintergrund rückt.
 
 
 ## Zusammenfassung
-Als Bonusmama in einer Patchworkfamilie kann es eine Herausforderung sein, die eigene Priorität nicht zu vernachlässigen und als gleichwertiges Familienmitglied sichtbar zu bleiben.
 Oftmals suchen wir Anerkennung und Wertschätzung von anderen, doch wir sollten uns diese zuerst selbst geben. Indem wir uns selbst wertschätzen, uns Zeit für uns selbst nehmen und uns mitfühlend behandeln, stärken wir unser Selbstwertgefühl als Stiefmutter. Zudem ist es wichtig, ein Netzwerk von Unterstützung aufzubauen, um sich mit anderen Stiefmüttern auszutauschen und gegenseitig zu stärken.
 Indem wir uns selbst Anerkennung und Wertschätzung geben, schaffen wir die Grundlage für ein harmonisches Patchworkfamilienleben. Und dann ist auch das Gefühl in zweiter Reihe zu stehen nicht mehr so groß.
 

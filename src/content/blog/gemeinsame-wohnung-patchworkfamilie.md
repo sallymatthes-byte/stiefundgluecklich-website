@@ -20,8 +20,6 @@ Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie
 Lass uns mal einen Blick auf diese Fragen werfen.
 
 ## Wann sollte man zusammenziehen?
-
-Du hast dich verliebt und möchtest mit deinem Partner eine gemeinsame Zukunft aufbauen. Doch wie steht es um das Zusammenziehen in einer Patchworkfamilie? Wann ist der richtige Zeitpunkt, um den Schritt des Zusammenwohnens zu wagen? *Es gibt kein allgemeingültiges “richtig” oder “falsch”* in dieser Frage, denn jeder Fall ist individuell.
 Dennoch gibt es einige Faktoren, die eine Rolle spielen können, um eine fundierte Entscheidung zu treffen.
 Es geht darum, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine somit stabile Basis für ein harmonisches Miteinander zu schaffen.
 
@@ -30,7 +28,6 @@ Unsere erste gemeinsame Wohnung bezogen wir nach anderthalb Jahren – nach dem 
 > “Was ich noch mehr liebe als mein Zuhause, sind die Menschen, mit denen ich es teile.” – Deutsches Sprichwort
 
 ## Welche Faktoren gibt es zu berücksichtigen? **1.** Bedürfnisse aller Beteiligten berücksichtigen
-Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzubeziehen. Sowohl dein Partner als auch die Kinder aus früheren Beziehungen sollten Raum haben, um ihre Wünsche und Erwartungen zu äußern. Stellt euch daher vorab unter anderem folgende Fragen:
 
 
 ![Gemeinsame Wohnung gestalten — Stimmungsbild 1](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
@@ -67,12 +64,9 @@ Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehe
 
 ## Ängste in der Patchworkfamilie ansprechen
 
-Das Zusammenziehen in einer Patchworkfamilie kann eine [Herausforderung](/blog/patchworkfamilie-herausforderungen-und-chancen/) sein, aber auch eine Chance für persönliches Wachstum und eine stärkere Bindung. Indem wir die Bedürfnisse aller Beteiligten berücksichtigen, eine offene und ehrliche Kommunikation pflegen und Raum für individuelle Bedürfnisse schaffen, können wir ein harmonisches Miteinander erreichen.
-
 Du darfst deine eigenen Gefühle und Bedenken ansprechen und dich aktiv in die Gestaltung der gemeinsamen Wohnung und des Familienlebens einzubringen. Denn letztendlich geht es darum, eine sichere Bindung in der Patchworkfamilie aufzubauen und ein harmonisches Patchworkfamilienleben zu führen, in dem du dich als Bonusmama wohlfühlst und deine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) mit Freude und Selbstvertrauen ausfüllen kannst.
 
 ## Zusammenfassung
-Beim Zusammenziehen ist es wichtig, die Bedürfnisse aller Beteiligten zu berücksichtigen und eine offene Kommunikation zu pflegen. Eine sorgfältige Planung und Vorbereitung sind von großer Bedeutung, um den Übergang reibungslos zu gestalten.
 
 Ängste und Bedenken, die du als Bonusmama hast, sind völlig normal und du solltest sie ansprechen. So vermeidest du Konflikte und fühlst dich ebenso wohl, wie der Rest deiner Patchworkfamilie.
 

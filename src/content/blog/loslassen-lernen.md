@@ -16,8 +16,6 @@ Dies musste ich zu einem gewissen Stück in unserer Patchworkfamilie loslassen, 
 
 ## Die eigenen Familienideale erkennen
 
-Oft tragen wir unbewusst ideale und Sehnsüchte in uns, die tief in unserer Herkunft und den gesellschaftlichen Normen verwurzelt sind.
-
 Vielleicht bist du in einer traditionellen Kernfamilie aufgewachsen, in der Mutter, Vater und Kind unter einem Dach lebten. Dieses Modell wurde dir als *Inbegriff von Familie* vorgelebt und du hast verinnerlicht, dass es so sein sollte. Oder du hast selbst erlebt, wie schmerzlich eine Trennung sein kann und sehnst dich nun nach Harmonie und Beständigkeit.
 
 Auch die Gesellschaft prägt unsere [Vorstellungen](/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann/) von Familie. In Filmen, Werbung und Sozialen Medien wird oft das Bild der “perfekten” Familie gezeichnet: **glücklich, konfliktfrei und immer füreinander da**. Als (Bonus-)Mutter sollen wir liebevoll, geduldig und aufopfernd sein – Erwartungen, die schwer zu erfüllen sind.
@@ -30,8 +28,6 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 
 ## Warum es in der Patchworkfamilie nicht so einfach ist
 
-In einer Patchworkfamilie kommen *unterschiedliche Erfahrungen, [Erwartungen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und Emotionen* zusammen. Da sind die Kinder, die den Verlust einer vertrauten Familiensituation verarbeiten und sich an neue Bezugspersonen gewöhnen müssen. Da sind [Ex-Partner_innen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/), die weiterhin als Eltern präsent sind und mit denen es gilt, eine respektvolle ebene zu finden. Und da bist du als Bonusmama, die ihren Platz in diesem komplexen Gefüge finden muss.
-
 Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die “perfekte” Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens. **Flexibilität und Anpassungsfähigkeit** sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
 
 Das bedeutet auch, dass du deine *Erwartungen an dich selbst als Bonusmama* hinterfragen und anpassen darfst. Du musst nicht die perfekte Mutterrolle sein, um deinen Platz in der Familie zu finden. Erlaube dir, deine eigene Rolle zu definieren und auszufüllen, fernab von gesellschaftlichen idealen.
@@ -41,8 +37,6 @@ Indem du verstehst, warum traditionelle Familienvorstellungen in Patchwork-Konst
 > „Das loslassen ist der Schlüssel zum Glück.“ – Unbekannt
 
 ## Loslassen lernen
-
-In diesen Phasen ist es nicht leicht, den glauben an sich selbst zu bewahren. Umso wichtiger ist es, dass du aktiv an deiner inneren Widerstandskraft und deinem Selbstbewusstsein arbeitest. Hier sind einige kraftvolle Strategien für dich:
 
 - Dankbarkeit praktizieren: Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen lieben. Je mehr du das positive in den Vordergrund rückst, desto stärker fühlst du dich.
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank regelmäßig auf. Eine Gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
@@ -57,8 +51,6 @@ Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du 
 ![Loslassen lernen — Stimmungsbild 2](/images/blog/loslassen-lernen-3.jpg)
 
 ## Inneren Frieden finden
-
-auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inneren Frieden und Erfüllung zu finden*. Denn nur wenn du im Einklang mit dir selbst bist, kannst du auch für andere da sein und die Schönheit des Augenblicks genießen.
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und stärken an und feiere deine Fortschritte.
 
@@ -79,5 +71,4 @@ Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 *Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* sie erwachsen aus der liebevollen Annahme dessen, was ist – Inklusive deiner selbst. Sie sind das Fundament, auf dem du deine Patchworkfamilie aufbauen und gestalten kannst. Und sie Strahlen aus auf alle Beteiligten und Schenken euch Verbundenheit, Freude und Liebe.
 
 ## Zusammenfassung
-Als Bonusmama ist es wichtig, sich der eigenen Familienideale bewusst zu werden, die oft durch Herkunft und Gesellschaft geprägt sind, und zu verstehen, warum diese in der Realität einer Patchworkfamilie meist nicht funktionieren. Es gilt, Abschied zu nehmen von alten Vorstellungen und offen zu sein für neue, unkonventionelle Wege des Zusammenlebens. Dabei ist es hilfreich, die Chancen und das Potenzial zu erkennen, die diese Familienform bietet, wie etwa die Vielfalt an Beziehungen und die Möglichkeit zur persönlichen Weiterentwicklung. Auf dem Weg zu innerem Frieden und Erfüllung sind Selbstliebe, Dankbarkeit für das jetzt und Vertrauen in die eigene Kraft von zentraler Bedeutung. Es ist ein Prozess des Loslassens und der liebevollen Annahme dessen, was ist, der letztlich zu mehr Verbundenheit, Freude und Liebe in der Patchworkfamilie führt.
 

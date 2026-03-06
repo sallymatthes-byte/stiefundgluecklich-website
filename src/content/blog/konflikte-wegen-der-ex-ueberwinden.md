@@ -23,8 +23,6 @@ Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erf
 
 ## Lerne Yvonne kennen
 
-Yvonne kam völlig verzweifelt zu mir in die Beratung. Der Grund: die Ex-Frau ihres Partners. Egal was Yvonne tat, sie fühlte sich ständig ausgebootet, nicht ernst genommen, an den Rand gedrängt.*Besonders schwer zu schaffen machte ihr, dass es ständig kurzfristige Änderungen bei Absprachen gab – natürlich immer Zugunsten der Ex.* und Yvonnes Partner? Der Stimmte einfach zu, ohne Yvonne zu Fragen.
-
 Um den Kindern ein harmonisches Familienleben zu bieten, scheute die Ex nicht davor zurück, immer mehr nähe einzufordern. Gemeinsame Weihnachtsfeiern, Familienurlaube – Yvonne sollte bei allem dabei sein. Für sie war das jedoch oft zu viel, sie fühlte sich unwohl. **Doch eine Grenze zu ziehen, fiel ihr schwer.** zu den organisatorischen Schwierigkeiten kamen bald auch Erziehungsfragen hinzu. Während Yvonne klare Regeln für wichtig hielt, herrschte bei der Ex das Laisser-faire. Für die Kinder verwirrend, für Yvonne und ihren Partner ein ständiger Streitpunkt. Erschöpft und mit den Nerven am Ende suchte Yvonne schließlich Rat bei mir.
 
 Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, organisatorische Fragen oder persönliche Differenzen – in Patchworkfamilien sind [konflikte mit der Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) an der Tagesordnung. Doch warum ist das So? Und wie schafft man es, sich davon nicht die Beziehung Ruinieren zu lassen?
@@ -32,8 +30,6 @@ Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, o
 ![Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama — Stimmungsbild 1](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
 
 ## Yvonne träumte davon…
-
-Yvonne hatte einen sehnlichen Wunsch:** sie wollte endlich zur Ruhe kommen und eine stabile, liebevolle Beziehung zu ihrem Partner aufbauen.** die ständigen Streitereien mit seiner Ex zerrten nicht nur an ihren Nerven, sondern drohten auch ihre [Partnerschaft zu zerstören](/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert/).
 
 Ihr Verlangen war klar: Sie wollte als Teil der Familie anerkannt werden – mit allen Rechten und Pflichten, die Dazugehören. Doch immer wieder sah sie sich mit Kurzfristigen Änderungen konfrontiert, fühlte sich Ausgebootet, wenn ihr Partner Entscheidungen Traf, ohne sie Einzubeziehen. Gleichzeitig wollte sie nicht ständig Nachgeben müssen, sondern als Gleichwertige Partnerin mit ihren eigenen Vorstellungen Ernst Genommen werden – auch und gerade von der Ex.
 
@@ -45,8 +41,6 @@ Yvonne aber wollte sich damit nicht abfinden. Sie war entschlossen, die Situatio
 
 ## Doch das erschien schwerer als angenommen
 
-Yvonne war klar: Wenn sie die Konflikte mit der Ex ihres Partners entschärfen wollte, musste sie aktiv werden. Doch auf dem Weg zu ihrem Ziel sah sie sich mit verschiedenen Herausforderungen konfrontiert.
-
 Eine davon war ihre eigene Emotionalität. ** Durch die ständigen Streitereien fühlte sie sich angegriffen, war verletzt und wütend.** in diesem Zustand fiel es ihr schwer, gelassen zu bleiben und konstruktive Lösungen zu finden. Stattdessen reagierte sie oft impulsiv, was die Situation noch verschärfte.** Hinzu kamen festgefahrene Kommunikationsmuster.** Yvonne und die Ex hatten sich über die Jahre hinweg an einen aggressiven Umgangston gewöhnt. Vorwürfe und Schuldzuweisungen bestimmten ihre Gespräche. Aus dieser Negativspirale auszubrechen, schien fast unmöglich.** Auch unterschiedliche Vorstellungen von Familie und Erziehung erschwerten die Situation.** während für Yvonne klar war, dass sie und ihr Partner die Hauptbezugspersonen sein sollten, pochte die Ex auf ihre Rechte als Mutter. Kompromisse zu finden, ohne das wohl der Kinder aus den Augen zu verlieren, war eine Gratwanderung.** Erschwerend kam hinzu, dass Yvonnes Partner oft eine passive Rolle einnahm.** um den Konflikt nicht weiter anzuheizen, bezog er selten klar Stellung. Für Yvonne ein Akt der Untreue, durch den sie sich alleingelassen fühlte.
 
 All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einmal ein ernstes Wort mit der Ex zu sprechen. Wenn sie wirklich etwas verändern wollte, musste sie bei sich selbst anfangen – und Schritt für Schritt an einer neuen Gesprächskultur arbeiten.
@@ -54,8 +48,6 @@ All diese Herausforderungen zeigten Yvonne, dass es nicht damit getan war, einma
 Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
 ## Zeit für Veränderung
-
-** Schritt 1: Analyse – die Situation mit Abstand betrachten** Yvonne erkannte: Um die Streitereien mit ihrem Partner wegen seiner Ex zu entschärfen, musste sie zunächst die Dynamik zwischen allen Beteiligten verstehen. Gemeinsam begannen wir in unserer Zusammenarbeit, die Situationen, in denen es Konflikte gab, genau zu analysieren. Dabei stellte sie sich Fragen wie:*Was löst die Diskussionen aus? Welche Bedürfnisse haben mein Partner und ich? Wie fühlt sich die Ex in dieser Konstellation?*
 
 
 ![Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama — Stimmungsbild 2](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
@@ -77,7 +69,6 @@ Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich n
 Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Situationen, die herausfordernd sind. Doch Yvonne lässt sich davon nicht mehr aus der Bahn werfen. Durch die Arbeit an sich selbst hat sie innere stärke und Gelassenheit gewonnen. Sie weiß: Was auch passiert, sie findet einen Weg. ** So ist aus der hilflosen, fremdgesteuerten Yvonne eine selbstbewusste Frau geworden, die für sich und ihre Beziehungen einsteht.** eine Frau, die Probleme als Chancen begreift und aktiv an Lösungen arbeitet. Dieser Wandel in ihrer Identität ist vielleicht das größte Geschenk, das Yvonne sich selbst gemacht hat – und die Beste Basis für eine Erfüllte Partnerschaft.
 
 ## Zusammenfassung
-Yvonne war verzweifelt: Ständige Auseinandersetzungen mit ihrem Partner wegen seiner Ex vergifteten ihre Beziehung. Doch statt zu resignieren, beschloss sie, aktiv zu werden. In einem dreistufigen Prozess analysierte sie die Situation, veränderte alte Verhaltensmuster und etablierte eine neue Kommunikationskultur. Durch diese Arbeit gelang es ihr nicht nur, die Konflikte zu lösen, sondern auch eine tiefgreifende persönliche Transformation zu vollziehen:*Vom hilflosen Opfer wurde sie zur selbstbewussten Gestalterin ihrer Partnerschaft – und damit zu einem Vorbild für Viele Stiefeltern. ***geht es dir ähnlich wie Yvonne?** Fühlst auch du dich den Konflikten mit der Ex hilflos Ausgeliefert, wünschst dir nichts Sehnlicher, als endlich eine harmonische Beziehung zu führen? Dann Lass dir gesagt sein: Du musst das nicht Länger Hinnehmen! Du hast es selbst in der Hand, deine Situation zu verändern – und dadurch nicht nur deine Partnerschaft zu Retten, sondern auch persönlich zu wachsen.
 
 Ich lade dich ein, gemeinsam mit mir diesen Weg zu gehen. Lass uns zusammen deine Herausforderungen analysieren, neue Handlungsoptionen entwickeln und Schritt für Schritt an einer erfüllten Beziehung arbeiten.
 
@@ -85,8 +76,6 @@ Ich lade dich ein, gemeinsam mit mir diesen Weg zu gehen. Lass uns zusammen dein
 
 <!-- FAQ_START
 ## Häufige Fragen
-
-### Warum gibt es ständig Streit wegen der Ex-Frau?
 Konflikte mit der Ex entstehen meistens aus ungeklärten Grenzen: Wer entscheidet was? Wer hat welche Rolle? Oft sind die alten Beziehungskonflikte zwischen den leiblichen Eltern nie aufgearbeitet worden — und du als Bonusmama steckst mittendrin.
 
 ### Was tun, wenn die Ex-Frau ständig Probleme macht?

@@ -15,8 +15,6 @@ Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchwo
 
 ## Warum der Partner zögert
 
-Stellt dein Partner dich vor vollendete Tatsachen, indem er kategorisch erklärt: "ich will nicht noch einmal heiraten!" oder "Kinder kommen für mich nicht mehr infrage!"? Dann bist du als Bonusmama sicherlich erst einmal *schockiert und verletzt*. Doch bevor du vorschnell urteilst, versuche zu verstehen, was hinter seiner Haltung stecken könnte.
-
 Oft sind es **schlechte Erfahrungen aus der Vergangenheit**, die deinen Partner zögern lassen. Vielleicht hat er eine schmerzhafte Scheidung hinter sich und fürchtet, erneut zu scheitern. Oder er hat bereits Kinder und sorgt sich, ob er allen gerecht werden kann.
 
 Auch *Ängste und Unsicherheiten* spielen eine Rolle. Die Vorstellung, wieder in einer festen Partnerschaft zu leben, kann überfordernd sein. Dein Partner fragt sich womöglich: "Schaffe ich es, eine gute Vaterfigur zu sein?" oder "wird unsere Liebe eine Familiengründung überstehen?".
@@ -28,8 +26,6 @@ All diese Gründe sind *zutiefst menschlich und nachvollziehbar*. Sie haben oft 
 ![Zusammenziehen, Heiraten, Kinder - Stimmungsbild 1](/images/blog/wenn-der-partner-zoegert-2.jpg)
 
 ## Kommunikation ist der Schlüssel
-
-Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Auch wenn es schwerfällt: *Sprich offen und ehrlich mit deinem Partner über deine Gedanken und Gefühle.* Vermeide Vorwürfe oder Schuldzuweisungen und konzentriere dich stattdessen darauf, deine eigenen Bedürfnisse klar zu äußern. Sag zum Beispiel: "mir ist eine gemeinsame Zukunft mit dir wichtig. Lass uns überlegen, wie diese aussehen könnte."
 
 Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: "Was genau sind deine Bedenken?" oder "Wovor hast du Angst?". So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist. **Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden.** Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
 
@@ -43,8 +39,6 @@ Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzepti
 
 ## Wenn das Zögern zur Dauerbremse wird
 
-Es gibt einen Unterschied zwischen *berechtigter Vorsicht* und dauerhaftem Stillstand. Wenn dein Partner seit Monaten oder gar Jahren jedes Gespräch über gemeinsame Zukunft abblockt, darfst du dir erlauben, genauer hinzuschauen.
-
 Frag dich ehrlich:
 
 - gibt es eine Entwicklung — oder stehen wir seit einem Jahr an derselben Stelle?
@@ -56,6 +50,4 @@ Frag dich ehrlich:
 Manchmal braucht es professionelle Unterstützung, um aus der Sackgasse herauszufinden. Eine [Paarberatung](/blog/paartherapie-in-der-patchworkfamilie/) kann ein geschützter Raum sein, in dem ihr beide eure Ängste und Wünsche offen ansprechen könnt — ohne Vorwürfe, mit Struktur.
 
 ## Zusammenfassung
-
-Wenn dein Partner beim Zusammenziehen, Heiraten oder Kinderkriegen zögert, stecken fast immer *alte Erfahrungen und Ängste* dahinter — selten eine Ablehnung von dir als Person. Der Schlüssel liegt in offener Kommunikation, gegenseitigem Verständnis und der Bereitschaft, gemeinsam kleine Schritte zu gehen. Gleichzeitig darfst du deine eigenen Bedürfnisse ernst nehmen und klar benennen, was du brauchst.
 

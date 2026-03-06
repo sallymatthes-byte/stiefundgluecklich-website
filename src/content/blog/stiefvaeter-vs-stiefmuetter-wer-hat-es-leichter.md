@@ -21,8 +21,6 @@ Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA)
 
 
 ## Unterschiedliche Rollenbilder
-
-Stiefväter und Stiefmütter sehen sich oft mit unterschiedlichen gesellschaftlichen Erwartungen konfrontiert.
 Von Stiefmüttern wird häufig erwartet, dass sie die Kinder annehmen und sich um sie kümmern. Stiefväter genießen hingegen oft mehr Freiheiten. **Traditionelle Geschlechterrollen spielen hierbei eine große Rolle:** Frauen wird in unserer Gesellschaft nach wie vor die Hauptverantwortung für die Erziehung und den Haushalt zugeschrieben, während Männer mehr Spielraum haben, ihre Vaterrolle individuell zu gestalten.
 Diese unterschiedlichen Erwartungen können Stiefmütter unter Druck setzen und Frustrationen hervorrufen. Sie sollen eine liebevolle Beziehung zu den Stiefkindern aufbauen, den Haushalt managen und die Erziehung übernehmen.  Eine Aufgabe, die oft unterschätzt wird und wenig Anerkennung erfährt.
 
@@ -31,8 +29,6 @@ Auch in meiner Patchworkfamilie habe ich das so erlebt: Wenn die Kinder Zeit mit
 ![Stiefväter vs. Stiefmütter — Stimmungsbild 1](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-2.jpg)
 
 ## StiefPapas als Spielgefährten, Stiefmamas als Erzieher_innen?
-
-Die unterschiedlichen gesellschaftlichen Erwartungen spiegeln sich auch in der Wahrnehmung und Ausübung der Rollen von Stiefvätern und Stiefmüttern wider.
 
 Stiefväter sieht man oft als*Spielgefährten und Kumpel* ihrer Stiefkinder. Sie treiben Sport mit ihnen, unternehmen Ausflüge und erleben spannende Abenteuer. Sie können sich darauf konzentrieren, eine freundschaftliche Beziehung zu den Kindern aufzubauen. Die Verantwortung für Erziehung und Disziplin müssen sie nicht sofort übernehmen.
 Stiefmütter hingegen drängt man häufiger in die Rolle der Erzieherin. Sie kümmern sich um Schularbeiten, strukturieren den Tagesablauf und sorgen für ein harmonisches Familienleben.
@@ -44,8 +40,6 @@ Gleichzeitig wird ihre Arbeit oft als selbstverständlich betrachtet und selten 
 
 
 ## Mit Vorurteilen haben beide zu kämpfen
-
-Ich glaube, dies ändert sich immer mehr.
 Stiefmütter und Stiefväter kämpfen gleichermaßen mit Vorurteilen, auch wenn diese unterschiedlich ausgeprägt sind.
 Stiefmütter werden oft mit dem Klischee der “bösen Stiefmutter” konfrontiert. Sie sei nur auf ihren eigenen Vorteil bedacht und behandle die Kinder schlecht. Stiefväter hingegen sieht man häufig als den “coolen Stiefpapa”. Er soll mit Geschenken und Aktivitäten die Zuneigung der Kinder gewinnen. **Doch diese Klischees werden der Realität vieler Patchworkfamilien nicht gerecht.** Viele Stiefmütter bemühen sich nach Kräften, eine liebevolle Beziehung zu ihren Stiefkindern aufzubauen und sie bestmöglich zu unterstützen, auch wenn dies nicht immer einfach ist.
 Gleichzeitig gibt es zahlreiche Stiefväter, die sich intensiv um ihre Stiefkinder kümmern, Zeit mit ihnen verbringen und eine wichtige Bezugsperson für sie sind. Auch sie machen sich oft selbst Druck, alles richtigzumachen und den Erwartungen gerecht zu werden.
@@ -55,13 +49,10 @@ Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannu
 ![Stiefväter vs. Stiefmütter — Stimmungsbild 2](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-3.jpg)
 
 ## Warum sich meine Angebote an Bonusmamas richten
-
-Obwohl sowohl Stiefmütter als auch Stiefväter mit Herausforderungen und Vorurteilen konfrontiert sind, richten sich meine Angebote vorrangig an Stiefmamas.
 *Der Grund dafür liegt in den unterschiedlichen gesellschaftlichen Erwartungen und dem daraus resultierenden Druck, dem sich viele Stiefmütter ausgesetzt sehen.* wie bereits erwähnt, wird von Frauen oft erwartet, dass sie die Rolle der “perfekten Mutter” übernehmen und nahtlos in die Fußstapfen der leiblichen Mutter treten. Diese Erwartungshaltung führt dazu, dass sich viele Stiefmütter selbst enorm **unter Druck** setzen, alles richtig zu machen und von den Kindern geliebt zu werden.
 Sie investieren viel **
 
 Zeit und Energie in die Beziehung zu ihren Stiefkindern, oft unter Vernachlässigung der eigenen Bedürfnisse. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung von den Kindern, was zu Frustration und Selbstzweifeln führen kann. Daher ist es mir ein besonderes Anliegen, Stiefmütter mit maßgeschneiderten Angeboten zu unterstützen und ihnen Wege aufzuzeigen, wie sie trotz der hohen Erwartungen und des Drucks eine erfüllende Rolle in ihrer Patchworkfamilie finden können**.
 
 ## Zusammenfassung
-Stiefmütter und Stiefväter sind in Patchworkfamilien mit unterschiedlichen gesellschaftlichen Erwartungen und Vorurteilen konfrontiert. Von Stiefmüttern wird oft erwartet, die Rolle der “Ersatzmutter” zu übernehmen, während Stiefväter mehr Freiräume haben. Dies führt dazu, dass sich viele Stiefmütter einem hohen Druck ausgesetzt sehen, alles perfekt zu machen und von den Kindern geliebt zu werden. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung. Um Stiefmütter bei diesen Herausforderungen zu unterstützen, richten sich meine Angebote vorrangig an sie, mit dem Ziel, ihnen Wege aufzuzeigen, wie sie eine erfüllende Rolle in ihrer Patchworkfamilie finden und gleichzeitig ihre eigenen Bedürfnisse nicht vernachlässigen können.
 

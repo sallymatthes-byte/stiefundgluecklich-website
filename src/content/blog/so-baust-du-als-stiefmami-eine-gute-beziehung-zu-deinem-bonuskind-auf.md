@@ -16,8 +16,6 @@ Mal Hand aufs Herz: ich werde die Kinder meines Partners, meine Bonuskinder, nie
 Doch wie kann dieser Beziehungsaufbau gelingen? Lass uns dies mal gemeinsam betrachten.
 
 ## Warum ist eine positive Beziehung so wichtig?
-
-Die Beziehung zwischen dir als Stiefmutter und deinem Stiefkind ist von großer Bedeutung für das harmonische Zusammenleben in eurer Patchworkfamilie.
 Eine positive Verbindung zwischen euch beiden schafft *Vertrauen, Zugehörigkeit und Sicherheit*. Sie ist das Fundament, auf dem eure Beziehung aufbauen kann.
 
 Wenn Bonusmutter und Bonuskind eine liebevolle und respektvolle Bindung zueinander haben, wird dies nicht nur das Wohlbefinden des Kindes maßgeblich beeinflussen, sondern auch das gesamte Familiensystem stärken. Denn letztendlich geht es darum, dass sich alle Familienmitglieder respektiert, geliebt und wertgeschätzt fühlen. Das ist der Schlüssel zu einem harmonischen Patchworkfamilienleben.
@@ -25,8 +23,6 @@ Wenn Bonusmutter und Bonuskind eine liebevolle und respektvolle Bindung zueinand
 ![So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf — Stimmungsbild 1](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-2.jpg)
 
 ## Wie machst du den Anfang?
-
-Jetzt möchte ich dir einige Tipps und Strategien an die Hand geben, die dir helfen können, eine gute Beziehung zu deinem Stiefkind aufzubauen. Dabei ist es wichtig, den richtigen Zeitpunkt für das Kennenlernen zu wählen. Das sollte nicht zu früh geschehen. Wenn die Trennung der Eltern noch nicht lange her ist, sollte sich das Kind vor allem erst einmal an diesen Zustand gewöhnen dürfen.
 
 1. Geduld und Zeit:
 Der Aufbau einer Beziehung braucht Zeit und Geduld. Lass deinem Bonuskind genügend Raum, um dich kennenzulernen und Vertrauen aufzubauen. Wie gesagt, vielleicht kämpft es noch mit den neuen Rahmenbedingungen oder wünscht sich, dass die Eltern wieder zusammen kommen. Dieser Prozess braucht vor allem eins: Zeit. Erzwinge nichts und respektiere die individuellen Bedürfnisse und das Tempo deines Stiefkindes. **2. Gemeinsame Interessen entdecken:**
@@ -43,8 +39,6 @@ Vergiss nicht, auch für dich selbst zu sorgen. Nimm dir Zeit für dich, um dein
 
 
 ## Verwandle Stolpersteine in Edelsteine
-
-Der Beziehungsaufbau zu deinem Bonuskind kann mit verschiedenen Stolpersteinen, also Herausforderungen, verbunden sein. Es ist wichtig, sich dieser Herausforderungen bewusst zu sein und nach Lösungen zu suchen, um eine harmonische Beziehung aufzubauen. Und somit Edelsteine daraus zu machen.
 
 🪨Ein häufiges Problem ist zum Beispiel das Gefühl des Bonuskindes, zwischen den leiblichen Eltern und der Stiefmutter hin- und hergerissen zu sein.
 
@@ -65,9 +59,6 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 
 ---
 
-🎙 ** Passend dazu:** Hör dir die Podcastfolge „wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf — Stimmungsbild 2](/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-3.jpg)
 
@@ -82,8 +73,13 @@ Gleichzeitig ist es wichtig, dass du deine*eigenen Grenzen* klar kommunizierst u
 
 Selbstfürsorge und das setzen von Grenzen sind kein Egoismus, sondern eine Voraussetzung dafür, dass du als Bonusmama eine gesunde und erfüllende Beziehung zu deinen Stiefkindern aufbauen kannst. Indem du auf dich selbst achtest und deine eigenen Bedürfnisse respektierst, kannst du authentisch und liebevoll in der Patchworkfamilie agieren.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
 
 ## Zusammenfassung
-Der Beziehungsaufbau zu dem Kind deines Partners, deinem Bonuskind, ist ein wichtiges Fundament im Patchworkfamilienalltag. Viel Zeit und Geduld, wahres Interesse und eine offene Kommunikation sind dafür unverzichtbar.
 Dennoch kann es zu Konflikten und Herausforderungen kommen, denen du dann mit viel Verständnis und Selbstfürsorge entgegentreten kannst.
 

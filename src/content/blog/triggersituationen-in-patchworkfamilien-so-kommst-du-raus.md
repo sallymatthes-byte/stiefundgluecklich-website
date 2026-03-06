@@ -17,8 +17,6 @@ Solche oder ähnliche Situationen kennen viele [Bonusmamas](/blog/stiefmutter-bo
 Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem Schmerz? Und wie kommt man da wieder raus?
 
 ## Was verstehen wir unter einem Trigger?
-
-Kennst du das auch?
 Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/blog/patchworkfamilie-herausforderungen-und-chancen/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.
 *Diese Momente, in denen dich etwas aus dem Gleichgewicht bringt, nennen wir Triggersituationen.*
 Sie können verschiedene Ursachen haben und werden oft durch bestimmte Auslöser hervorgerufen.
@@ -30,8 +28,6 @@ Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen 
 ![Triggersituationen in Patchworkfamilien — Stimmungsbild 1](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
 
 ## Warum triggern uns bestimmte Situationen?
-
-Es liegt oft daran, dass bestimmte Situationen oder Verhaltensweisen **alte Wunden** in uns berühren. Diese Wunden können aus unserer eigenen Vergangenheit stammen oder aus vergangenen Beziehungen. Vielleicht erinnert dich das Verhalten der Ex-Frau an einen früheren Konflikt mit einem Familienmitglied oder an eine schmerzhafte Erfahrung in deiner Kindheit.
 Diese alten Verletzungen liegen wie ein sensibler Nerv in uns und werden durch ähnliche Situationen wieder aktiviert.
 
 Aber wie erkennst du deine Trigger?*Ein erster Schritt ist die bewusste Selbstreflexion.*
@@ -48,8 +44,6 @@ Du wirst feststellen, dass du nicht allein mit diesen Triggersituationen bist un
 
 ## Wie kann ich reagieren?
 
-Wenn du dich in einer Triggersituation befindest und merkst, dass du gerade getriggert wurdest, ist es wichtig, angemessen zu reagieren.
-
 1. Pause machen: Wenn du merkst, dass du getriggert wurdest, nimm dir einen Moment, um durchzuatmen und dich zu beruhigen. Atme tief ein und aus, um deine Emotionen zu regulieren. Dadurch schaffst du Raum für eine bewusste Reaktion und verhinderst impulsive Handlungen. **2. Selbstreflexion:** Nutze die Zeit nach der Trigger-Situation, um in dich zu gehen und dich selbst zu reflektieren. Frage dich, warum dich diese Situation so stark beeinflusst hat und welche alten Wunden sie berührt hat. Dadurch kannst du besser verstehen, warum du so reagiert hast und kannst an der Heilung dieser Wunden arbeiten. Gehe danach in das Gespräch, dies kannst du zum Beispiel folgendermaßen beginnen:*“Ich habe bemerkt, dass ich in letzter Zeit öfter gereizt reagiere und möchte verstehen, warum das so ist. Können wir darüber sprechen und gemeinsam nach Lösungen suchen?”***3. Kommunikation:** wenn es möglich ist, sprich mit den beteiligten Personen über das, was dich getriggert hat. Teile ihnen mit, wie du dich gefühlt hast und versuche, gemeinsam eine Lösung zu finden. Offene und ehrliche Kommunikation kann dazu beitragen, Missverständnisse aufzuklären und Konflikte zu lösen. Verwende ich-Botschaften wie in folgendem Beispiel:*“Ich fühle mich verletzt, wenn du mich vor den Kindern kritisierst. Könnten wir in Zukunft diese Gespräche privat führen, um die Kinder nicht zu involvieren?”***4. Grenzen setzen:**
 
 Manchmal ist es notwendig, klare Grenzen zu setzen, um sich selbst zu schützen. Wenn du merkst, dass eine bestimmte Situation oder Verhaltensweise dich immer wieder triggert, ist es wichtig, deine eigenen Grenzen zu erkennen und diese zu kommunizieren. Du hast das Recht, dich selbst zu schützen und deine eigenen Bedürfnisse zu respektieren.**5. Selbstfürsorge:** Vergiss nicht, gut für dich selbst zu sorgen. Triggersituationen können emotional und körperlich belastend sein. Nimm dir Zeit, um dich zu erholen und dich selbst zu verwöhnen. Das kann bedeuten, dass du dir einen Abend nur für dich nimmst, eine entspannende Massage buchst oder dich mit deinen Lieblingsaktivitäten verwöhnst. Indem du gut auf dich selbst achtest, stärkst du deine Resilienz und kommst gestärkt aus den Triggersituationen heraus.
@@ -57,6 +51,5 @@ Manchmal ist es notwendig, klare Grenzen zu setzen, um sich selbst zu schützen.
 Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung für den Umgang mit Triggersituationen gibt. Finde heraus, welche Handlungsweisen für dich persönlich am besten funktionieren und passe sie entsprechend an. Sei geduldig mit dir selbst und erlaube dir, Fehler zu machen und aus ihnen zu lernen.
 
 ## Zusammenfassung
-Es gibt bestimmte Situationen, in denen wir heftige Reaktionen in uns selbst wahrnehmen. Wir sprechen dann von “triggern” – diese erinnern uns an Schmerzliche Erfahrungen in unserem leben und sind ein Indiz dafür, dass diese noch nicht geheilt sind.
 Damit diese nicht in heftige [Konflikte](/blog/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess.
 

@@ -24,8 +24,6 @@ Wenn du dich manchmal wie eine Rivalin fühlst – obwohl du doch eigentlich Par
 
 ## Mein Wendepunkt: Zwischen Scham und Erkenntnis
 
-Lange dachte ich: „ich bilde mir das ein. Ich bin überempfindlich.“Ich redete mir ein, dass es doch normal sei, wenn Kinder an ihren Eltern hängen. Dass ich einfach lockerer werden müsste. Dass ich als Erwachsene doch souveräner damit umgehen sollte.
-
 Doch je länger ich diese Gefühle unterdrückte, desto mehr zog ich mich innerlich zurück. Ich mied bestimmte Situationen, sagte absichtlich treffen ab, wenn sie da war – die Tochter meines Partners. Und ich merkte: ich Verlor meinen Platz. Nicht, weil jemand ihn mir aktiv wegnahm. Sondern weil ich aus lauter Unsicherheit begann, ihn gar nicht mehr zu Beanspruchen.
 
 Ich fühlte mich wie in einem seltsamen Dreieck: ich wollte keine Konkurrentin sein. Ich wollte nähe. Aber alles, was ich spürte, war Distanz. Und irgendwann fragte ich mich: „Was stimmt denn mit mir nicht, dass ich mich von einem Kind bedroht fühle?“
@@ -43,8 +41,6 @@ Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde
 ![Mini-Wife in Patchworkfamilien — Stimmungsbild 1](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
 
 ## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
-
-Das sogenannte „Mini-Wife“-Phänomen beschreibt eine Dynamik, bei der eine Tochter unbewusst in die emotionale Partnerrolle des Vaters rutscht. Sie übernimmt Verantwortung, sucht nähe, kontrolliert unbewusst das Beziehungsfeld – weil klare Grenzen fehlen.
 
 Diese Dynamik entsteht nicht, weil das Kind „falsch“ ist. Sondern weil es versucht, Orientierung zu finden.
 
@@ -67,8 +63,6 @@ Das Kind ist nicht schuld. Es ist Aufgabe des Vaters – und auch der Erwachsene
 
 ## Was mich so lange davon abgehalten hat, etwas zu sagen
 
-Heute sehe ich klar, was damals so verschwommen war. Aber bis zu diesem Punkt lagen viele innere Hürden. Vielleicht kennst du einige davon auch.
-
 Da war zum Beispiel diese leise Stimme in mir, die sagte: „du willst dich doch nicht mit einem Kind vergleichen, oder?“Ich schämte mich für meine Gedanken. Für das Gefühl, dass ich mich in meiner eigenen Beziehung wie eine Außenseiterin fühlte – und dass ich Ausgerechnet sie, die Tochter, als Grund dafür empfand.
 
 Ich dachte, wenn ich das anspreche, wirke ich[eifersüchtig](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/). Kleinlich. Unreif. Ich hatte Angst, dass mein Partner mich nicht versteht. Dass er sagt: „sie ist mein Kind – was Erwartest du?“
@@ -84,8 +78,6 @@ Erst als ich verstand, dass es nicht um schuld oder Rechtfertigung geht, sondern
 Und du darfst das auch. Du darfst sagen: „So wie es ist, fühlt es sich nicht gut an.“ ohne Drama. Aber mit Klarheit.
 
 ## Die Bonusmama-Formel: Was du konkret tun kannst
-
-### 1. Klarheit schaffen – Werde dir deines eigenen Platzes bewusst
 
 Deine Wahrnehmung zählt. Du bildest dir nichts ein. Beobachte bewusst: In welchen Situationen kippt die Stimmung? Wann fühlst du dich klein, überflüssig oder wie ein Eindringling?
 
@@ -136,8 +128,6 @@ Aber was, wenn es nicht um Wegnehmen geht – sondern ums Ergänzen? Was, wenn d
 
 <!-- FAQ_START
 ## Häufige Fragen
-
-### Was ist das Mini-Wife-Syndrom?
 Das Mini-Wife-Syndrom beschreibt ein Verhalten, bei dem die Tochter die Rolle der Partnerin des Vaters einnimmt — sie entscheidet mit, sitzt auf dem Beifahrersitz, bestimmt den Alltag. Es ist kein bewusstes Verhalten des Kindes, sondern entsteht oft, weil der Vater nach der Trennung unbewusst emotionale Lücken durch die Tochter füllt.
 
 ### Wie gehe ich als Bonusmama mit Mini-Wife-Verhalten um?

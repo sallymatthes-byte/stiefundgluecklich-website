@@ -22,8 +22,6 @@ In diesem Artikel teile ich mit dir meine bewährte Bonusmama-Formel, die dir hi
 
 ## Von unsichtbar zu unverzichtbar: Mein Weg als Bonusmama im Schulalltag
 
-Als ich das erste mal vor der Klassenlehrerin stand und sie mich fragte: “Und sie sind… die Mama?”, blieb ich sprachlos. Diese eine Frage löste einen Sturm von gefühlen in mir aus. ** War ich “nur” die Bonusmama?** hatte ich überhaupt das Recht, hier zu sein?
-
 Ich hatte mich monatelang darauf gefreut, am Schulleben meines Bonuskindes teilzunehmen. Ich wollte Hausaufgaben betreuen, bei Projekten helfen, vielleicht sogar beim Schulfest mitarbeiten. Doch plötzlich fühlte ich mich wie eine Außenseiterin – Jemand, der keinen [offiziellen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) Im System hatte.
 
 Diese Unsicherheit spürte ich auch bei meiner Klientin Anna, einer Bonusmama aus Österreich. Sie erzählte mir, wie sie sich beim Elternabend fehl am Platz fühlte. Die anderen Eltern beäugten sie skeptisch, als gehöre sie nicht dazu. Sie fragte sich: “Darf ich überhaupt hier sein? Was werden die anderen denken?”
@@ -37,8 +35,6 @@ Genau wie Anna habe ich gelernt, dass es Wege gibt, sich zu beteiligen, auch wen
 ![Neue Chancen für Bonuseltern im Schulalltag — Stimmungsbild 1](/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-2.jpg)
 
 ## Die besonderen Herausforderungen für Bonuseltern im Schulalltag
-
-Die Situation von Anna ist kein Einzelfall. Viele Bonuseltern im Schulalltag stehen vor ähnlichen Herausforderungen, die ich sowohl aus eigener Erfahrung als auch durch meine Arbeit mit zahlreichen Klientinnen kenne.
 
 ** Eine der größten Hürden ist die unklare Rollenverteilung**. Anders als leibliche Eltern haben Bonuseltern keinen klar definierten Platz im Bildungssystem. Während in Österreich manche Schulen und Kindergärten Bonuseltern direkt in Abholformularen berücksichtigen, fehlt diese Option in vielen deutschen Einrichtungen völlig. Dort findet man Platz für Tanten, Onkel oder Großeltern – aber die Bonuseltern bleiben Unerwähnt, als existierten sie nicht.
 
@@ -54,8 +50,6 @@ Die gute Nachricht ist: Es gibt Wege, mit diesen Herausforderungen umzugehen –
 
 ## Wie du als Bonuseltern im Schulalltag trotzdem wirksam sein kannst
 
-Nach meiner eigenen Wendepunkt-Erkenntnis und denen vieler Klientinnen kann ich dir versichern:** es ist absolut möglich, diese Herausforderungen zu überwinden und deinen Platz als Bonuselternteil im Schul- und Kindergartenalltag zu finden.** eine meiner Klientinnen sorgte sich vor der Schuleinführung ihres Bonuskindes. Sie wollte so gern die Brotdose vorbereiten, die Schultüte gestalten und am ersten Schultag dabei sein. Doch die leibliche Mutter hatte andere Vorstellungen – für sie waren das ihre Ureigenen Aufgaben als Mama.
-
 Der Durchbruch kam, als meine Klientin ihren Blickwinkel änderte. Statt sich auf das zu konzentrieren, was ihr “weggenommen” wurde, fragte sie sich: “Wie kann ich auf meine eigene Weise zum ersten Schultag beitragen? Wie kann ich Teil dieses besonderen Moments sein, ohne mit der Mutter zu konkurrieren?”
 
 Sie führte offene Gespräche mit ihrem Partner, der vermittelnd mit der Mutter sprach. Gemeinsam fanden sie Aufgaben, die meine Klientin übernehmen konnte, ohne der Mutter etwas “wegzunehmen”. Sie organisierte eine kleine Überraschungsfeier für nach der offiziellen Einschulung, half beim vorbereiten des Schreibtisches zu Hause und machte besondere Fotos vom fertigen Kinderzimmer.
@@ -67,8 +61,6 @@ Diese Transformation beginnt immer mit der Erkenntnis: Du musst nicht auf Erlaub
 Der Schlüssel liegt in einer Kombination aus Respekt vor den bestehenden Strukturen und dem Selbstbewusstsein, deinen eigenen Platz zu finden. Diese Balance zu halten, ist nicht immer leicht – aber mit der richtigen Strategie absolut Machbar.
 
 ## Die Bonusmama-Formel für Bonuseltern im Schulalltag
-
-Nach jahrelanger Erfahrung als Coach für Patchworkfamilien und als Bonusmama habe ich eine bewährte Methode entwickelt, die auch dir helfen wird, deinen Platz als Bonuselternteil im Schul- und Kindergartenalltag zu finden. Diese Strategie basiert auf meiner Bonusmama-Formel: Klarheit schaffen, Wandel einleiten und verbindend kommunizieren.
 
 ### Schritt 1: Klarheit schaffen
 

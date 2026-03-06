@@ -15,8 +15,6 @@ Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Pro
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
-Es sind oft die kleinen Momente im Alltag, die die Eifersucht auf die Ex-Frau plötzlich auflodern lassen. Vielleicht ist es der Moment, wenn dein Partner beim Abendbrot von einer lustigen Anekdote aus seiner früheren ehe erzählt und die Kinder begeistert einsteigen. Oder wenn die Schwiegermutter wieder einmal erwähnt, was für eine tolle Köchin die Ex doch war. Manchmal reicht schon ein Blick auf die Familienfotos an der Wand bei den Schwiegereltern, um diese Welle von Unsicherheit und Schmerz auszulösen.
-
 Du fragst dich:
 
 - warum hat er mit ihr ein Haus gebaut, aber mit dir wohnt er lieber zur Miete?
@@ -29,8 +27,6 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 ![Eifersucht als Bonusmama — Stimmungsbild 1](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
 
 ## Die tieferen Ursachen der Eifersucht verstehen
-
-Was sich zunächst wie eine simple Eifersucht auf die Vergangenheit anfühlt, hat oft viel tiefere Wurzeln. Es geht nicht nur darum, dass sie "die erste" war oder mehr "erste male" mit deinem Partner erlebt hat.
 Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.** Vielleicht spürst du:
 
 - die Angst, nie ganz "dazuzugehören" in dieser Familie, die schon vor dir existierte
@@ -44,8 +40,6 @@ Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und u
 ![Eifersucht als Bonusmama — Stimmungsbild 2](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
 
 ## Den Weg aus der Eifersucht finden
-
-Vielleicht hast du schon oft gehört: "Sei doch nicht eifersüchtig, die Beziehung ist doch vorbei!" aber so einfach ist es nicht, oder? Die Eifersucht auf die Ex-Frau sitzt tiefer, sie nährt sich von deinen ***innersten Ängsten und Unsicherheiten***. Um diese komplexen Gefühle zu transformieren, braucht es mehr als gut gemeinte Ratschläge. Es braucht einen systematischen Ansatz, der dir hilft, aus diesem Gefühlschaos herauszufinden.
 
 ### 1. Klarheit und Verständnis schaffen
 
@@ -106,8 +100,6 @@ Diese drei Schritte bauen aufeinander auf und bilden einen ***bewährten Weg aus
 
 ## Dein Weg zu mehr Selbstsicherheit
 
-Stell dir vor, du stehst auf einem Berg und blickst auf deine Situation herab. Was siehst du? Vermutlich nicht nur die Ex-Frau und die Vergangenheit, sondern auch:
-
 - die liebevollen Blicke deines Partners
 - die kleinen Momente der nähe, die nur euch gehören
 - *Die gemeinsamen Träume und Pläne für die Zukunft*
@@ -124,8 +116,6 @@ Kraft und Selbstbewusstsein*** verwandeln kannst
 
 <!-- FAQ_START
 ## Häufige Fragen
-
-### Warum bin ich als Bonusmama eifersüchtig auf die Ex-Frau?
 Die Eifersucht auf die Ex entsteht, weil sie eine gemeinsame Geschichte mit deinem Partner hat, die du nie haben wirst — gemeinsame Kinder, gemeinsame Erinnerungen, eine Verbindung die nie ganz endet. Das löst Unsicherheit aus: Bin ich genug? Werde ich jemals so wichtig sein?
 
 ### Wie gehe ich mit Eifersucht auf die Ex-Partnerin um?

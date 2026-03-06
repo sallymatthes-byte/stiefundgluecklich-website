@@ -18,8 +18,6 @@ Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfinde
 
 ## 1. Die Unsichtbare
 
-Du bist feinfühlig, empathisch und willst es allen recht machen. Das Problem: Dabei gehst du selbst unter. Du stellst deine eigenen Bedürfnisse hinten an, vermeidest Konflikte und hoffst, dass dein Einsatz irgendwann gesehen wird. Meistens wird er das nicht — zumindest nicht von alleine.
-
 **Typische Gedanken:**
 - „ich fühle mich nicht als gleichwertiger Teil der Familie."
 - „ich nehme mich oft zurück, und das ist inzwischen ein Streitthema zwischen uns."
@@ -33,8 +31,6 @@ Du bist feinfühlig, empathisch und willst es allen recht machen. Das Problem: D
 
 ## 2. Die Kämpferin
 
-Du bist energisch, eigenständig und lässt dir nichts gefallen. Wahrscheinlich warst du lange Single und hast dir dein leben selbst aufgebaut. Jetzt fühlst du dich eingeschränkt — durch die Ex, durch Absprachen, die du nicht beeinflussen kannst, durch ein System, das schon vor dir existiert hat.
-
 ** Typische Gedanken:**
 - „die Ex macht, was sie will, und die Kinder sind manipuliert."
 - „ich als Bonusmama werde immer an den Pranger gestellt."
@@ -46,8 +42,6 @@ Du bist energisch, eigenständig und lässt dir nichts gefallen. Wahrscheinlich 
 
 ## 3. Die Verunsicherte
 
-Du bist emotional und sensibel — und genau das macht dich zu einer großartigen Bonusmama. Aber es bedeutet auch, dass du dich ständig hinterfragst. Bin ich genug? Mache ich das richtig? Warum bin ich eifersüchtig auf ein Kind? Diese Gefühle schämen dich, und das macht alles noch schwerer.
-
 ** Typische Gedanken:**
 - „ich bin oft eifersüchtig auf seine Kinder, besonders auf die kleine."
 - „mein Partner und meine Tochter können keine Verbindung aufbauen, und ich hänge zwischen den Stühlen."
@@ -58,8 +52,6 @@ Du bist emotional und sensibel — und genau das macht dich zu einer großartige
 ** Was dir helfen kann:** deine Unsicherheit ist kein Zeichen von schwäche. Sie zeigt, dass dir etwas wichtig ist. Aber du brauchst einen Rahmen, in dem du diese Gefühle sortieren kannst, statt in ihnen zu versinken.
 
 ## 4. Die Erschöpfte
-
-Du trägst alles. Den Haushalt, die Organisation, die emotionale Arbeit — und bekommst dafür wenig Anerkennung. Vielleicht hast du irgendwann aufgehört zu zählen, wie oft du „funktionierst", ohne dass es jemand bemerkt. Du bist nicht wütend — du bist einfach leer.
 
 ** Typische Gedanken:**
 - „ich bekomme sehr viel Verantwortung übertragen, und das alles ist völlig selbstverständlich."
@@ -74,8 +66,6 @@ Du trägst alles. Den Haushalt, die Organisation, die emotionale Arbeit — und 
 
 ## 5. Die Optimistin auf Probe
 
-Du bist grundsätzlich positiv eingestellt und magst Kinder. Vielleicht bist du noch relativ frisch in der Rolle und dachtest: „das wird schon." und vieles klappt auch gut. Aber dann gibt es diese Momente, in denen du spürst, dass die tiefen Emotionen fehlen — oder dass die Realität komplizierter ist als gedacht.
-
 ** Typische Gedanken:**
 - „ich bin überrascht, dass ich manchmal unsicher bin, ob ich das aushalten kann."
 - „ich verstehe mich gut mit den Kindern, aber die tiefen Emotionen fehlen irgendwie."
@@ -86,8 +76,6 @@ Du bist grundsätzlich positiv eingestellt und magst Kinder. Vielleicht bist du 
 ** Was dir helfen kann:** dass du jetzt schon hinschaust, ist deine Superkraft. Die meisten Bonusmamas suchen sich erst Unterstützung, wenn es kracht. Du hast die Chance, Muster zu erkennen, bevor sie sich verfestigen.
 
 ## Du bist mehr als ein Typ
-
-Die meisten Bonusmamas sind eine Mischung aus mehreren Archetypen. Vielleicht bist du unter der Woche die Erschöpfte und am Wochenende die Kämpferin. Vielleicht warst du anfangs die Optimistin und bist mittlerweile bei der Verunsicherten gelandet. Das ist normal — und es ist kein Rückschritt.
 
 Wichtig ist, dass du erkennst, wo du gerade stehst. Denn erst wenn du weißt, welche Muster dich steuern, kannst du bewusst entscheiden, wie du damit umgehen willst.
 

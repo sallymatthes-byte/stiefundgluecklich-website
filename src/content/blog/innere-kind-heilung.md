@@ -15,8 +15,6 @@ Neulich wollten wir mit meinen Bonuskindern spazieren gehen. Und da kam dieses v
 Dies ist einer der Momente gewesen, in denen ich meine innere Verletzung heilen konnte. Doch lass uns mal von vorn beginnen. Was meine ich, wenn ich von inneren Verletzungen spreche?
 
 ## Wenn Bonuskinder unser inneres Kind wecken
-
-Kennst du das Gefühl, wenn dein Bonuskind etwas sagt oder tut und plötzlich eine Welle der Wut oder Frustration in dir aufsteigt?
 In solchen Momenten werden oft **unbewusst alte Wunden** berührt – Innere Verletzungen, die ihren Ursprung in unserer eigenen Kindheit haben.
 
 Innere Verletzungen entstehen durch schmerzhafte Erfahrungen, die wir als Kind gemacht haben, wie zum Beispiel*Zurückweisung, Kritik oder emotionale Vernachlässigung.
@@ -28,8 +26,6 @@ Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durc
 
 ## Unsere Gefühle annehmen: Der Schlüssel zur inneren Balance
 
-Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die dadurch ausgelösten Emotionen *bewusst wahrzunehmen und anzunehmen*. Versuche nicht, deine Gefühle zu unterdrücken oder zu bewerten – sie sind ein wertvoller Wegweiser zu deinen tiefsten Bedürfnissen. Erlaube dir selbst, die Wut, den Schmerz oder die Enttäuschung zu spüren, ohne dich dafür zu Verurteilen. Entwickle stattdessen **selbstmitgefühl** und Verständnis für deine eigenen Reaktionen. Frage dich:
-
 - welche Situation in meiner Kindheit könnte diese Emotion ausgelöst haben?
 - Was brauche ich gerade, um mich sicher und geliebt zu fühlen?
 - wie kann ich mein inneres Kind in diesem Moment trösten und unterstützen?
@@ -39,8 +35,6 @@ Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du ein
 > „Die Heilung beginnt, wenn du dir selbst erlaubst zu sein, wer du wirklich bist." – Carl Rogers
 
 ## Den Weg zu innerem Frieden finden
-
-Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundenen Gefühle anzunehmen, kannst du den Prozess der Heilung durch ** bewusste Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu bewerten oder zu versuchen, sie zu verändern. Stelle dir Fragen wie:
 
 - in welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
 - welche Glaubenssätze oder Überzeugungen stecken hinter meinen Reaktionen?
@@ -55,9 +49,6 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „wie das innere Kind deine Rolle als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Was uns Bonuskinder über uns selbst lehren — Stimmungsbild 2](/images/blog/innere-kind-heilung-3.jpg)
 
@@ -69,6 +60,12 @@ Die Auseinandersetzung mit unseren Triggerpunkten eröffnet uns zudem die Mögli
 
 Betrachte die Herausforderungen mit deinen Bonuskindern als eine Einladung zu *innerem Wachstum* und Entfaltung. Vertraue darauf, dass jede schwierige Situation dich letztendlich stärker, weiser und liebevoller macht. Erlaube dir, an den Triggerpunkten zu wachsen und zu reifen – und Wisse, dass du durch diesen Prozess nicht nur dir selbst, sondern auch deinen Bonuskindern ein wertvolles Geschenk machst.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Bonuskinder können unbewusst innere Verletzungen aus unserer eigenen Kindheit triggern und intensive Emotionen auslösen. Indem wir lernen, diese Triggerpunkte bewusst wahrzunehmen, unsere Gefühle anzunehmen und durch Selbstreflexion zu verarbeiten, eröffnen wir den Weg zu innerer Heilung und Wachstum. Selbstfürsorge, Achtsamkeit und Techniken zur Selbstberuhigung unterstützen uns dabei, mit herausfordernden Situationen gelassener umzugehen. Die Auseinandersetzung mit unseren Triggerpunkten birgt die Chance, alte Wunden zu heilen, emotionale Intelligenz zu entwickeln und neue, gesündere Beziehungsmuster zu etablieren. Letztendlich sind die Herausforderungen mit unseren Bonuskindern eine Einladung zu persönlicher Entfaltung und innerem Frieden.
 

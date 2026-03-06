@@ -22,8 +22,6 @@ Bevor wir starten, möchte ich eines klarstellen: Es geht in diesem Artikel nich
 
 ## Das Bonuskind im Elternbett – Zwischen Verzweiflung und Durchbruch
 
-Vor einigen Monaten kam eine Klientin zu mir – nennen wir sie Mara. Mit Tränen in den Augen erzählte sie mir von der nacht, die für sie zum Wendepunkt wurde. Es war nach Mitternacht, als das Bonuskind im Elternbett Auftauchte, wie so oft. Der Fünfjährige lag zwischen ihr und ihrem Partner, der ihm liebevoll Zugewandt Einschlief – und ihr damit den Rücken Zukehrte.
-
 “In diesem Moment fühlte ich mich zum ersten mal, als wäre ich das fünfte Rad am Wagen,” gestand Mara.**“Ich lag wach, starrte an die Decke und dachte: vielleicht wäre alles einfacher, wenn ich keine Bonusmama wäre.”**
 
 Diese Gedanken quälten sie zunehmend: war sie [egoistisch](/blog/von-der-stiefkind-eifersucht-zur-familienharmonie/), weil sie ihre Bedürfnisse nach Ruhe und Intimität einfordern wollte? Oder verriet sie sich selbst, wenn sie immer nachgab? Hatte sie überhaupt ein Recht, mitzuentscheiden, wenn das Bonuskind im Elternbett schlafen wollte?
@@ -40,8 +38,6 @@ Diese Erkenntnis veränderte alles – nicht nur für Mara, sondern für Viele B
 
 ## Die besonderen Herausforderungen, wenn ein Bonuskind im Elternbett schläft
 
-Vielleicht erkennst du dich in Maras Geschichte wieder. Die Herausforderungen, die entstehen, wenn ein Bonuskind im Elternbett schläft, sind vielfältig und betreffen viele Patchwork-Familien. Lass uns einen ehrlichen Blick auf die häufigsten Probleme werfen, damit du weißt: Du bist mit deinen gefühlen nicht allein.
-
 **Eines der größten Probleme ist das Gefühl des Ausgeschlossenseins.** wenn das Bonuskind im Elternbett zwischen dir und deinem Partner liegt, fehlt die körperliche nähe, die für eure Beziehung so wichtig ist. Besonders schmerzhaft wird es, wenn dein Partner dem Kind den Rücken zuwendet – und dir damit auch. Du fühlst dich wie eine Außenseiterin in eurem gemeinsamen Schlafzimmer.** Dazu kommen die unterschiedlichen Schlafgewohnheiten.** Vielleicht hat dein Partner jahrelang als Alleinerziehender mit seinem Kind in einem Bett geschlafen. Diese eingespielte Routine zu ändern, ist nicht leicht – für Niemanden. Das Bonuskind im Elternbett war vor dir da, und jetzt kommst du als “störfaktor” Hinzu.** Auch die Einschlafrituale können zu Konflikten führen.** wenn dein Partner jeden Abend eine Stunde neben dem Kind liegt, bis es einschläft, bleibt wenig gemeinsame Paarzeit übrig. Du sitzt allein im Wohnzimmer und fühlst dich erneut ausgeschlossen.
 
 Das schwierigste an der ganzen Situation ist jedoch** die Angst, als “böse Stiefmutter” dazustehen, ** wenn du mehr Zeit für euch als Paar einfordest oder weniger Bonuskind im Elternbett wünschst. Diese Angst führt dazu, dass viele Bonusmamas schweigen, ihre eigenen Bedürfnisse unterdrücken und innerlich immer unzufriedener werden.
@@ -53,8 +49,6 @@ Der erste Schritt zur Veränderung ist, diese Herausforderungen anzuerkennen. De
 ![Wenn das Bonuskind im Elternbett schläft — Stimmungsbild 2](/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-3.jpg)
 
 ## Warum Veränderung möglich ist – Auch Wenn Das Bonuskind Im Elternbett Zur Gewohnheit Wurde
-
-Nach Maras Durchbruch stellte sich natürlich die Frage: *Wie geht es jetzt weiter?* wie konnte sie die Situation mit dem Bonuskind im Elternbett so verändern, dass alle Beteiligten sich wohlfühlten?
 
 Aus meiner Erfahrung mit vielen Patchworkfamilien kann ich dir eines versichern: **Veränderung ist möglich – auch wenn die Aktuelle Situation Festgefahren scheint.** der Schlüssel liegt darin, den Fokus zu Verschieben und einen neuen Ansatz zu Wählen.
 
@@ -71,8 +65,6 @@ Mit dieser Erkenntnis entwickelten sie eine neue Abendroutine. Das Kind bekam me
 Diese Veränderung brauchte Zeit – und sie war nur möglich, weil alle Beteiligten sich gehört und Verstanden fühlten. **mara lernte Zudem, dass ihre Selbstfürsorge keine Selbstsucht war, sondern die Grundlage dafür, eine liebevolle Bonusmama sein zu können.** ihre Geschichte zeigt: Mit dem richtigen Ansatz kann jede Patchwork-Familie eine Lösung finden, die für alle funktioniert – auch wenn es um ein so emotionales Thema wie das Bonuskind im Elternbett geht.
 
 ## Die Bonusmama-Formel: So löst du das Problem “Bonuskind im Elternbett” harmonisch
-
-Nach jahrelanger Erfahrung als Coach für Patchworkfamilien habe ich eine Methode entwickelt, die ich die “Bonusmama-Formel” nenne. Sie besteht aus drei bewährten Schritten, die dir helfen, eine harmonische Lösung zu finden – nicht nur für die Situation mit dem Bonuskind im Elternbett, sondern für Viele Herausforderungen in deiner Patchwork-familie.
 
 ### Schritt 1: Klarheit schaffen
 

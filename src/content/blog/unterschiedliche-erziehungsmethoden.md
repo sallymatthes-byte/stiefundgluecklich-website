@@ -18,8 +18,6 @@ Diese unterschiedlichen Erziehungsmethoden ist eine der 5 Herausforderungen, die
 
 ## Die 5 Herausforderungen im Überblick
 
-Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
-
 - **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 - die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
 - ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
@@ -40,15 +38,11 @@ Lass uns nun direkt mal tiefer in die dritte Herausforderung einsteigen.
 
 ## Wenn die Erziehung zum Minenfeld wird
 
-Erziehungsmethoden in Patchworkfamilien werden oft zum Zankapfel zwischen leiblichen Eltern und Bonuseltern. Wie ein unsichtbarer Magnet zieht die Familienkonstellation die Erwachsenen in entgegengesetzte Richtungen:** während Bonuseltern häufig mehr Struktur und Disziplin einfordern, wünschen sich leibliche Eltern meist mehr Verständnis und Nachsicht für ihre Kinder.** schnell verhärten sich die Fronten: Die genervte Bonusmama beschwert sich, dass die Kinder verwöhnt und undiszipliniert seien. Der Vater verteidigt seinen Nachwuchs und wirft seiner Partnerin vor, zu streng zu sein. Je länger die Diskussion dauert, desto weiter entfernen sich die Positionen voneinander.*Am Ende stehen sich zwei frustrierte Erwachsene gegenüber, die sich im Erziehungsalltag gegenseitig blockieren. ***Diese Konstellation ist kein Zufall, sondern ein typisches Muster.** Bonuseltern haben oftmals das Gefühl, nicht genug Mitspracherecht zu haben und wünschen sich mehr Einfluss. Leibliche Eltern hingegen wollen ihre Kinder schützen und fürchten, dass der neue Partner zu hohe Anforderungen stellt.*Unterschiedliche emotionale Bindungen zu den Kindern verkomplizieren die Situation zusätzlich.*
-
 Doch so verständlich die Positionen auch sein mögen: Für Kinder sind diese Machtkämpfe fatal. Anstatt Sicherheit und Stabilität zu bekommen, erleben sie die Erwachsenen als zerstritten. Es ist daher immens wichtig, dass Eltern und Bonuseltern in Erziehungsfragen an einem Strang ziehen. Wie das geht, erfährst du im nächsten Abschnitt.
 
 > „Erziehung besteht aus zwei Dingen: Beispiel und Liebe.“ – Friedrich Fröbel
 
 ## Zurückhaltung als Bonuseltern
-
-Viele Bonuseltern wünschen sich mehr Einfluss auf die Erziehungsmethoden in Patchworkfamilien. Doch Studien zeigen eindeutig: **Kinder profitieren am meisten davon, wenn die Disziplin in den Händen des leiblichen Elternteils bleibt**– zumindest so Lange, bis der Bonuselternteil eine liebevolle, Vertrauensvolle Beziehung zum Kind Aufgebaut hat.
 
 *Warum ist das so wichtig?* Kinder brauchen Zeit, um sich an die neue Familiensituation zu gewöhnen und den Bonuselternteil ins Herz zu schließen. Übernimmt dieser zu früh eine disziplinarische Rolle,*fühlen sich Kinder schnell überrumpelt und unter Druck gesetzt.* sie haben das Gefühl, dass ihnen eine fremde Person Vorschriften macht und wehren sich dagegen – oft zum Leidwesen der Eltern-bonuseltern-beziehung.
 
@@ -63,9 +57,6 @@ Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sag
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Erfolgreiche Erziehung in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Patchworkfamilien — Stimmungsbild 2](/images/blog/unterschiedliche-erziehungsmethoden-3.jpg)
 
@@ -79,6 +70,12 @@ Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der 
 
 *Der Schlüssel zum Erfolg liegt in der konstruktiven Kommunikation.* indem du und dein Partner wertschätzend und lösungsorientiert miteinander sprecht, könnt ihr eine tragfähige Erziehungspartnerschaft entwickeln. Eine Partnerschaft, in der nicht Machtkämpfe, sondern das wohl des Kindes an erster Stelle stehen.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Erfolgreiche Erziehung in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Als Bonusmama stehst du vor der Herausforderung, gemeinsam mit deinem Partner die Erziehung der Kinder zu gestalten. Dabei ist es typisch, dass Bonuseltern tendenziell mehr Regeln und Disziplin einfordern, während leibliche Eltern sich oft mehr Verständnis für ihre Kinder wünschen. Wichtig ist, dass du die Entscheidungshoheit deines Partners als leiblicher Elternteil respektierst und dich zunächst auf den Beziehungsaufbau zum Kind konzentrierst. Gleichzeitig solltet ihr euch regelmäßig austauschen, gemeinsame Regeln entwickeln und konstruktiv nach Lösungen suchen, wenn es zu Konflikten kommt. Der Schlüssel zum Erfolg liegt in der wertschätzenden Kommunikation und der gegenseitigen Unterstützung im Alltag – so könnt ihr als starkes Erziehungs-team Zusammenwachsen und dem Kind die Bestmögliche Entwicklung ermöglichen.
 

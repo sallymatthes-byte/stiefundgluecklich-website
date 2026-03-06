@@ -15,8 +15,6 @@ Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft a
 
 ## Die versteckte Sehnsucht nach Nähe
 
-Es war ein Donnerstagabend im August, einer dieser endlos erscheinenden Ferientage, als mir die Tränen kamen. Die Kinder waren endlich im Bett, nach einem Tag voller Aktivitäten, Streitschlichten und Programmgestaltung. **Mein Partner und ich saßen nebeneinander auf der Couch, physisch so nah und emotional doch Welten entfernt.** Fünf von acht Wochen Sommerferien waren die Kinder bei uns – eine Zeit, die ich eigentlich liebte, die aber auch schonungslos offenlegte, wie sehr unsere Beziehung unter dem Familienstress litt.
-
 Ich beobachtete ihn von der seite, wie er erschöpft auf sein Handy starrte, und spürte diesen schmerzhaften Stich in meinem Herzen. Wann hatten wir uns das letzte mal wirklich gesehen? Nicht als Eltern, die wie ein eingespieltes Team den Familienalltag managten, sondern als Liebespaar? Die Zeit als Paar in unserer Patchworkfamilie schien wie ein kostbares gut, das uns durch die Finger rann, ohne dass wir es aufhalten konnten.
 
 Natürlich verbrachten wir viel Zeit im selben Raum – beim Frühstück, wo zwischen Broten Schmieren und Termine Checken kaum Zeit für einen guten-morgen-kuss blieb. Bei Familienausflügen, wo wir mehr damit Beschäftigt waren, die Kinder zu Koordinieren als uns in die Augen zu Schauen. Beim Abendlichen Zusammensein, wenn die Erschöpfung jedes tiefere Gespräch im Keim Erstickte. ***diese gemeinsamen Stunden als Familie waren wertvoll, aber sie Füllten nicht diese Wachsende Lücke in unserer Beziehung.***
@@ -35,13 +33,7 @@ An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwische
 
 ## Die Suche nach verlorener Nähe
 
-
-Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick über den Frühstückstisch, wenn die Kinder in ihre Cornflakes vertieft waren. Die kurze, aber innige Umarmung zwischen Wäsche aufhängen und Abendessen kochen. Die spontanen “ich liebe dich”-Nachrichten während des Arbeitstages. **All diese kleinen Gesten der Zuneigung waren im Familientrubel untergegangen.** besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spürten, aber zu erschöpft oder zu beschäftigt waren, um aktiv gegenzusteuern. Nach einem langen Tag voller Kinderbetreuung, Hausaufgaben und Familienlogistik fehlte oft einfach die Energie für ein tiefgehendes Gespräch oder einen romantischen Moment. Stattdessen fielen wir abends erschöpft ins Bett, mit dem vagen Versprechen, “bald” wieder mehr Zeit füreinander zu finden.
-
 ## Der Wendepunkt: Als ich aufhörte zu warten
-
-
-Es war ein regnerischer Sonntagmorgen, als ich aufwachte und diese erdrückende Sehnsucht nach nähe nicht mehr ignorieren konnte. Die Kinder schauten ihre Lieblingsserie, mein Partner war in der Küche beschäftigt, und ich lag im Bett, gefangen in diesem Gefühl der Einsamkeit inmitten unserer Familie. In diesem Moment wurde mir klar: Die Zeit als Paar in unserer Patchworkfamilie würde sich nicht von alleine finden. Wir mussten aktiv etwas verändern.
 
 Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche** Klarheit** zu gewinnen – nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was genau Vermisste ich? Waren es wirklich die großen, Romantischen Gesten, oder Sehnte ich mich einfach nach diesen kleinen, Intimen Momenten der Verbundenheit?
 
@@ -76,8 +68,6 @@ Der wichtigste Schritt war, diese Gefühle und Bedürfnisse mit meinem Partner z
 ![Zeit als Paar in der Patchworkfamilie — Stimmungsbild 2](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
 
 ## Dein Weg zu mehr Nähe und Verbundenheit
-
-Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zusammen seid? Sehnst du dich nach:
 
 - Echten Momenten der Zweisamkeit?
 - Tieferer emotionaler Verbindung trotz Familienalltag?

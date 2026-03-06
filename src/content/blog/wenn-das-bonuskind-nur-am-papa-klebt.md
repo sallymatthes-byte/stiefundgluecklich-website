@@ -16,8 +16,6 @@ Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts n
 
 ## Von der Außenseiterin zur Bezugsperson
 
-Als ich meinen Partner kennenlernte, war ich voller Vorfreude, Teil einer Patchworkfamilie zu werden. Ich malte mir aus, wie wir gemeinsam Zeit verbringen, Ausflüge unternehmen und eine enge Bindung zueinander aufbauen würden. Doch schnell merkte ich, dass die Realität anders aussah als erwartet. ** Die Kinder klebten förmlich am Papa und ich fühlte mich oft ausgeschlossen.** selbst bei gemeinsamen Unternehmungen wie Kinobesuchen saßen die Kinder links und rechts von ihm, während für mich kein Platz zu sein schien. Sie wollten seine Hand halten, seine nähe spüren und seine ungeteilte Aufmerksamkeit genießen.
-
 In solchen Momenten zog ich mich zurück, baute eine unsichtbare Mauer um mich herum auf und versuchte, mich anderweitig zu beschäftigen. Ich griff zu einem Buch oder vertiefte mich in meine Gedanken, um den Schmerz des Ausgeschlossenseins nicht spüren zu müssen. Doch innerlich nagte das Gefühl, nicht dazuzugehören, an mir.
 
 Ich fragte mich, ob es überhaupt möglich sein würde, eine Beziehung zu den Kindern aufzubauen und irgendwann als gleichwertige Bezugsperson wahrgenommen zu werden. Der Weg dorthin erschien mir steinig und ungewiss.
@@ -28,16 +26,12 @@ Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog
 
 ## Eigentlich wollte ich nur dazugehören
 
-In meinem tiefsten Inneren sehnte ich mich danach, von meinen Bonuskindern als wichtige Bezugsperson anerkannt zu werden. Ich wünschte mir, dass sie mich nicht nur als die Partnerin ihres Vaters sahen, sondern als ein vollwertiges Familienmitglied, dem sie vertrauen und zu dem sie eine enge Bindung aufbauen konnten.
-
 Ich stellte mir vor, wie wir gemeinsam lachen, spielen und Erinnerungen schaffen würden. Ich sehnte mich nach den kleinen Gesten der Zuneigung, wie einer Umarmung oder einem “ich hab dich lieb” von den Kindern. ** Mein Herz verlangte danach, bedingungslos geliebt und akzeptiert zu werden, so wie ich war.** Gleichzeitig wünschte ich mir auch, von meinem Partner in meiner Rolle als Bonusmama unterstützt und wertgeschätzt zu werden. Ich hoffte, dass er mir den Rücken stärken und den Kindern vermitteln würde, dass ich ein ebenso wichtiger Teil der Familie bin wie er.
 
 Ich träumte von einer Patchworkfamilie, in der jeder seinen Platz hatte und sich geborgen fühlte. Eine Familie, in der wir füreinander einstehen, uns gegenseitig unterstützen und gemeinsam durch dick und dünn gehen würden. Ich sehnte mich nach einem Zuhause voller Liebe, Verständnis und Zusammenhalt.
 
 
 ## Rückzug und Distanz – Direkt In Die Sackgasse
-
-Anfangs versuchte ich, mit meinen gefühlen des Ausgeschlossenseins umzugehen, indem ich mich zurückzog und Distanz schaffte. Wenn die Kinder am Papa klebten, sagte ich mir: “Wisst ihr was? Ich habe keine Lust dazu. Macht ihr mal eure Zeit zusammen, ich lese solange ein Buch.”**
 
 Doch diese Strategie führte nur dazu, dass ich noch mehr von der Familie abgekapselt wurde.** ich baute eine Mauer um mich herum auf und konnte in diesen Momenten keine Verbindung zu meinen lieben aufrechterhalten. Stattdessen gab ich mich meinen negativen Gedanken hin und malte mir aus, wie schrecklich es war, nicht dazuzugehören.*Ich fühlte mich einsam und unverstanden.*
 
@@ -53,9 +47,6 @@ Mir wurde klar, dass ich etwas ändern musste, wenn ich ein harmonisches Familie
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „warum es normal ist, wenn das Bonuskind nur Papa will" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Wenn das Bonuskind nur am Papa klebt — Stimmungsbild 2](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-3.jpg)
 
@@ -72,5 +63,12 @@ Durch die bewusste Entscheidung, auf meine Bonuskinder zuzugehen und an unserer 
 Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen die Kinder bevorzugt zum Papa gehen. Doch anstatt mich dadurch verletzt zu fühlen, kann ich dies nun mit Verständnis und Gelassenheit annehmen. Ich weiß, dass es nicht bedeutet, dass sie mich weniger lieben oder wertschätzen. ** Unsere Patchworkfamilie ist zu einem Ort geworden, an dem Liebe, Vertrauen und Zusammenhalt an erster Stelle stehen.** wir haben gelernt, einander zu akzeptieren, zu unterstützen und füreinander da zu sein – in guten wie in schlechten Zeiten. Und auch wenn unsere Familie vielleicht nicht dem Traditionellen Bild Entspricht, so ist sie doch genau das, Was wir uns immer gewünscht haben: ein Zuhause voller Wärme und Geborgenheit.
 
 Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen – als Familie.
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Warum es normal ist, wenn das Bonuskind nur Papa will" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
 
 ## Zusammenfassung

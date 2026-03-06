@@ -18,8 +18,6 @@ Doch das leben hat seine eigenen Pläne und so kam es, dass ich plötzlich Bonus
 
 ## Wie akzeptiere ich die Veränderung?
 
-Es war für mich eine große Veränderung und ging mit *vielen gemischten gefühlen* einher. Ich habe mich zunächst gefragt, ob ich dieser neuen Aufgabe gewachsen bin und ob ich überhaupt in der Lage bin, eine gute [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) zu sein.
-
 Für mich war es wichtig, mich mit meinen eigenen wünschen und Bedürfnissen auseinanderzusetzen und zu erkennen, dass es okay ist, keine eigenen Kinder zu wollen. Ich habe gelernt, meine Entscheidung zu akzeptieren und mich nicht dafür zu verurteilen.
 Und das hieß eben auch, mich für einen Mann entschieden zu haben, der Kinder mitbrachte, auch wenn ich keine eigenen wollte. Dass beides existieren konnte, war für mich unglaublich hilfreich –**es musste nicht entweder oder sein**.
 
@@ -32,8 +30,6 @@ Geholfen hat mir dabei, mir bewusst zu machen, dass ich als Bonusmama eine einzi
 ![Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie — Stimmungsbild 1](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-2.jpg)
 
 ## Wie kommunizieren wir das?
-
-Es ist völlig normal, dass mein Partner seine Kinder über alles liebt und bereit ist, alles für sie aufzugeben. Doch für mich, als Bonusmama, gestaltet sich die Situation manchmal schwierig, weil es nicht meine eigenen Kinder sind und ich nie mein leben für Kinder aufgeben wollte.
 Es ist wichtig, dass wir als Paar offen miteinander über unsere unterschiedlichen Voraussetzungen und Bedürfnisse sprechen, um eine harmonische Beziehung zu schaffen.
 Der erste Schritt ist, sich bewusst zu machen, dass es in Ordnung ist, unterschiedliche Einstellungen und Prioritäten zu haben**. Dadurch, dass wir unterschiedliche Prioritäten haben, entsteht die Notwendigkeit, Kompromisse zu finden. Jeder Mensch ist einzigartig und bringt seine eigene Geschichte mit in die Beziehung. Indem wir uns selbst erlauben, unsere eigenen Bedürfnisse anzuerkennen, können wir auch Verständnis für die Bedürfnisse unseres Partners entwickeln.** ein offenes Gespräch mit dem Partner über diese Thematik ist entscheidend. ** Es ist wichtig, dass wir unsere Gefühle und Gedanken ehrlich kommunizieren, ohne den anderen zu verurteilen. Dabei können wir zum Beispiel sagen: “Ich habe das Gefühl, dass ich manchmal mit meinen eigenen Bedürfnissen als Bonusmama in den Hintergrund trete. Es ist wichtig für mich, dass wir darüber sprechen und nach Lösungen suchen.”** Während des Gesprächs ist es wichtig, aktiv zuzuhören und den Standpunkt des Partners zu verstehen.** wir können Fragen stellen und versuchen, seine Sichtweise nachzuvollziehen. Dadurch entwickeln wir Empathie und können besser aufeinander eingehen. Gleichzeitig sollten wir auch unsere eigenen Bedürfnisse klar kommunizieren und darauf hinweisen, dass es unsere Aufgabe ist, eine Balance zwischen den Bedürfnissen aller Familienmitglieder zu finden.** Es kann hilfreich sein, gemeinsam nach Kompromissen und Lösungen zu suchen.** das bedeutet nicht, dass einer von uns seine Bedürfnisse komplett aufgeben muss. Es geht darum, dass wir Wege finden, wie wir beide unsere individuellen Bedürfnisse erfüllen können. Zum Beispiel könnten wir uns darauf einigen, bestimmte Zeiten oder Aktivitäten für uns als Individuen zu reservieren. So können wir unsere eigenen Interessen verfolgen, während unser Partner sich um die Kinder kümmert.
 
@@ -42,9 +38,6 @@ Der erste Schritt ist, sich bewusst zu machen, dass es in Ordnung ist, unterschi
 
 ---
 
-🎙** Passend dazu:** Hör dir die Podcastfolge „Kinderlos im Patchworkleben" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
-
----
 
 ![Trotz eigener Kinderlosigkeit eine harmonische Patchworkfamilie — Stimmungsbild 2](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-3.jpg)
 
@@ -56,8 +49,14 @@ Mich selbst zu öffnen und den Kindern die Möglichkeit zu geben, mich kennenzul
 - es ist mir wichtig zu betonen, dass diese Öffnung und Akzeptanz nicht bedeuten, dass ich meine eigenen*Wünsche und Bedürfnisse* komplett aufgebe. Eine Balance zu finden, in der sowohl meine eigenen Bedürfnisse als auch die der Kinder berücksichtigt werden, waren immer das Ziel. Es ist okay, dass ich nie eigene Kinder wollte und es sie dennoch in meinem leben gibt.
 - die Öffnung und Akzeptanz der Kinder als Teil meines Lebens als Bonusmama war ein Prozess, der* Zeit und Geduld* erforderte. Doch durch meine Offenheit und Bereitschaft, mich auf die Kinder einzulassen, habe ich eine tiefere Verbindung zu ihnen aufgebaut und eine harmonische Beziehung geschaffen. Es ist ein wundervolles Gefühl zu wissen, dass ich als Bonusmama einen positiven Einfluss auf ihr leben habe.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Kinderlos im Patchworkleben" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+
+---
+
 ## Zusammenfassung
-Wenn man selbst nie eigene Kinder wollte und plötzlich Bonuskinder da sind, fühlt sich das oft als das **aufgeben eigener Ziele** an.
 Und dies zu akzeptieren, bedarf viel*Geduld und Zeit*.
 Zusammenfassend geht es darum, sich selbst zu reflektieren, offen mit dem Partner zu kommunizieren und die Kinder als Teil unseres Lebens zu akzeptieren. Indem wir diese Schritte gehen, können wir eine harmonische Beziehung in der Patchworkfamilie aufbauen und ein erfülltes und liebevolles Miteinander erreichen.
 

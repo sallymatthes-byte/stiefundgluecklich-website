@@ -23,8 +23,6 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 
 ## Die Herausforderung verstehen
 
-Wenn eine neue Frau in das leben eines Vaters und seiner Kinder tritt, ist es oft eine *Zeit des Umbruchs* und der Anpassung für alle Beteiligten. Die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Bonusmama ist dabei besonders herausfordernd. **Es ist nicht ungewöhnlich, dass dieses neu entstehende Dreiecksverhältnis zu Konflikten führt.** diese können von kleinen Missverständnissen und Unstimmigkeiten bis hin zu tieferen Differenzen und Konflikten reichen. Von Absprachen, die nicht eingehalten werden, bis hin zu Streitereien über Geld oder ähnliches kann es alles sein.
-
 Oftmals basieren diese Konflikte auf Ängsten und Unsicherheiten, die in der neuen, ungewohnten Situation entstehen. *Die leibliche Mutter könnte Sorgen haben, dass sie durch die neue Frau im leben ihrer Kinder ersetzt wird.* gerade wenn der Mann die Kindsmutter verlassen hat, ist das eine Angst, die häufig mitschwingt.
 
 Die Bonusmama könnte sich unsicher fühlen, wie sie sich in das bestehende Familiengefüge einfügen soll, ohne Grenzen zu überschreiten.
@@ -37,8 +35,6 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 
 ## Ursachen für Konflikte
 
-Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre ** Ursachen zu verstehen**. Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus. In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese Konflikte sind ungelöst und werden immer wieder neu aufgerollt. Diese Ursachen können vielfältig sein und sind oft tief in den Emotionen und Ängsten der Beteiligten verwurzelt.
-
 1.** Unterschiedliche Erziehungsstile:** jeder Mensch hat seine eigene Art, Kinder zu erziehen, und manchmal können diese Stile stark voneinander abweichen. Wenn die Bonusmama und die leibliche Mutter unterschiedliche Ansichten darüber haben, was das Beste für die Kinder ist, kann dies zu Konflikten führen.
 2.** Eifersucht:** die leibliche Mutter kann sich bedroht fühlen, wenn die Kinder eine enge Beziehung zur Bonusmama aufbauen. Sie könnte befürchten, dass sie durch die neue Frau im leben ihrer Kinder ersetzt wird. Ebenso könnte die Bonusmama eifersüchtig auf die bestehende Bindung zwischen den Kindern und ihrer leiblichen Mutter sein.
 3.** Kommunikationsprobleme:** Mangelnde Kommunikation oder Missverständnisse können zu Konflikten führen. Es ist wichtig, dass beide Parteien offen und ehrlich miteinander kommunizieren und ihre Gefühle und Erwartungen klar ausdrücken.
@@ -47,8 +43,6 @@ Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilf
 Indem wir diese Ursachen erkennen und verstehen, können wir beginnen, effektive Strategien zur Lösung dieser Konflikte zu entwickeln. Im nächsten Abschnitt werden wir durch die "systemische Brille" schauen, um ein tieferes Verständnis für die Dynamik in Patchworkfamilien zu erlangen.
 
 ## Durch die systemische Brille schauen
-
-*Die systemische Theorie bietet einen wertvollen Rahmen, um die komplexen Dynamiken in Patchworkfamilien zu verstehen.* sie betrachtet die Familie nicht nur als eine Gruppe von Individuen, sondern als ein System von Beziehungen, in dem jede Person und jede Beziehung die anderen beeinflusst.
 
 In diesem Kontext ist es wichtig zu erkennen, dass die Beziehung zwischen der Bonusmama und der leiblichen Mutter nicht isoliert betrachtet werden kann. Sie ist Teil eines größeren Systems, das auch die Beziehungen zwischen den Kindern, dem Vater und anderen Familienmitgliedern umfasst.
 
@@ -60,15 +54,11 @@ Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte ents
 
 ## Warum Kindsmütter sich bedroht fühlen können – und was Bonusmamas tun können
 
-Als Bonusmama kannst du durch folgende Schritte dazu beitragen, eine Brücke zur Kindsmutter zu bauen:
-
 - *Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
 - *Kommuniziere offen und respektvoll* mit der Kindsmutter über Erziehungsfragen und sucht nach Kompromissen.
 - *Betone, dass du ihre Rolle als Mutter respektierst* und sie nicht ersetzen möchtest.
 
 ## Tipps zur Verbesserung des Verhältnisses
-
-Wenn wir die zugrundeliegenden Ursachen für Konflikte zwischen Bonusmama und leiblicher Mutter verstehen, können wir effektivere Strategien zur Lösung dieser Konflikte entwickeln.
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
@@ -83,8 +73,6 @@ Hier sind einige Tipps, die helfen können:
 - ** Unterstützung suchen:** es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und dir helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
 
 ## Zusammenfassung
-
-Patchworkfamilien sind eine besondere Form des Familienlebens, die ihre eigenen Herausforderungen und Chancen bietet. Eine der größten Herausforderungen ist oft das Verhältnis zwischen Bonusmama und leiblicher Mutter. Konflikte können aufgrund verschiedener Faktoren wie unterschiedliche Erziehungsstile, Eifersucht, Kommunikationsprobleme und Rollenunsicherheiten entstehen.
 
 Ein systemischer Ansatz zur Betrachtung dieser Konflikte kann helfen, die zugrundeliegenden Dynamiken zu verstehen und effektive Lösungsstrategien zu entwickeln.
 

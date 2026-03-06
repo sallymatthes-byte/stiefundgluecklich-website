@@ -22,8 +22,6 @@ Genau darum geht es in diesem Artikel. Ich zeige dir, wie Unterhalt, Kindergeld 
 
 ## Das betrifft mich doch nicht!?
 
-Ich erinnere mich genau an den Moment, als ich mich das erste mal intensiv mit den finanziellen Verpflichtungen meines Partners auseinandergesetzt habe.
-
 Bis dahin dachte ich: „er zahlt eben Unterhalt – das ist seine Sache, nicht meine.“
 
 Doch dann wurde mir bewusst:❌ es ging nicht nur um Unterhalt.❌ es ging nicht nur um Kindergeld.❌ es ging um unseren gesamten finanziellen Spielraum als Paar.
@@ -37,8 +35,6 @@ Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und 
 ![Unterhalt in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n — Stimmungsbild 1](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
 
 ## Deutschland, Österreich, Schweiz – Wer bekommt was?
-
-Deutschland: Klare Vorgaben, wenig Flexibilität
 
 > Kindesunterhalt: - wird nach der Düsseldorfer Tabelle berechnet (abhängig vom Einkommen des unterhaltspflichtigen Elternteils und vom alter des Kindes).
 
@@ -92,8 +88,6 @@ Beide Elternteile teilen sich die Betreuung gleichberechtigt.
 
 ## Warum du dich finanziell oft benachteiligt fühlst – Die Größten Herausforderungen
 
-Vielleicht hast du das Gefühl, dass du dich in die Finanzen deines Partners nicht „einmischen“ darfst. Schließlich betrifft der Unterhalt ja „nur“ die Kinder – oder? Doch in Wirklichkeit Beeinflussen diese Zahlungen auch euer gemeinsames leben:
-
 > Fehlender finanzieller Spielraum – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
 
 > Unklare Kostenverteilung – Wer zahlt eigentlich was? Manche Bonusmamas fühlen sich unfair belastet, weil sie sich an Haushaltskosten beteiligen, während ihr Partner noch hohe Unterhaltszahlungen leistet.
@@ -105,8 +99,6 @@ Vielleicht hast du das Gefühl, dass du dich in die Finanzen deines Partners nic
 Aber: Du hast das Recht, deine finanzielle Situation aktiv mitzugestalten!
 
 ## Wie du als Bonusmama finanzielle Sicherheit gewinnst
-
-Vielleicht hast du dich bisher aus den finanziellen Angelegenheiten deines Partners herausgehalten. Doch sobald du merkst, dass die finanzielle Belastung eurer Beziehung schadet oder du dich unfair behandelt fühlst, wird klar: Das ist auch dein Thema. Doch wie kannst du sicherstellen, dass ihr eine faire Lösung findet – ohne Streit, ohne Schuldgefühle und ohne das Gefühl, dich selbst Zurücknehmen zu müssen?
 
 Der erste und wichtigste Schritt ist, Klarheit über die aktuelle [finanzielle Situation](/blog/finanzielle-beteiligung/) zu bekommen. Es reicht nicht aus zu wissen, dass dein Partner Unterhalt zahlt – du musst verstehen, wie diese Zahlungen eure gemeinsamen Finanzen Beeinflussen. Setzt euch zusammen und macht eine ehrliche Bestandsaufnahme: wie hoch sind die monatlichen Fixkosten? Welche Summen gehen für Unterhalt und andere Verpflichtungen Weg? Wie wird das Verbleibende Einkommen zwischen euch Aufgeteilt? Viele Patchworkpaare haben hier keine klare Übersicht und leben von Monat zu Monat, ohne zu wissen, wo das Geld eigentlich bleibt. Doch ohne eine Solide Grundlage lassen sich keine Fairen Lösungen finden.
 

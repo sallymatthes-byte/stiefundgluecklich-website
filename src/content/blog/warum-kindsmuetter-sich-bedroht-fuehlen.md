@@ -18,8 +18,6 @@ Es ist doch ganz klar, dass wir die leibliche Mutter nicht ersetzen wollen. Oder
 
 ## Die Perspektive der Kindsmutter
 
-Als Bonusmama ist es nicht immer leicht, die Gedanken und Gefühle der Kindsmutter nachzuvollziehen. Doch genau dieser Perspektivwechsel ist entscheidend, um eine harmonische Beziehung in der Patchwork-Familie aufzubauen.
-
 Stell dir vor, du beobachtest, wie dein Kind eine enge Bindung zur neuen Partnerin deines Ex-Partners aufbaut. In solchen Momenten kann die Angst, *als Mutter an Bedeutung zu verlieren*, überwältigend sein und es zeigt sich in [Eifersucht](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/). Die Kindsmutter fragt sich womöglich: “Wird mein Kind mich noch brauchen? Bin ich noch gut genug?”
 
 Hinzu kommt, dass die Kindsmutter vielleicht noch mit dem *Schmerz über das Ende der ursprünglichen Familie* kämpft. War sie diejenige, die die Trennung initiiert hat, können auch *Schuldgefühle* an ihr nagen. Sie macht sich möglicherweise Vorwürfe, die Familie “zerstört” zu haben, und fürchtet, dass ihr Kind ihr dies übel nehmen könnte.
@@ -38,8 +36,6 @@ Denk daran: Es geht nicht darum, wer “gewinnt” oder “verliert”. Es geht 
 
 ## Die Perspektive der Bonusmama
 
-Als Bonusmama kann es eine schmerzliche Erfahrung sein, wenn du bemerkst, dass die Kindsmutter Konkurrenzgefühle dir gegenüber hegt. Die unterschwellige Spannung zwischen euch und die Ablehnung, die dir entgegenschlägt, können dich zutiefst verunsichern und dein *Selbstwertgefühl erschüttern*.
-
 Du fragst dich vielleicht: ***“Was mache ich falsch? Warum kann sie nicht sehen, dass ich nur das Beste für das Kind möchte?”*** die Sehnsucht nach Anerkennung und einem harmonischen Miteinander kann sich in Frustration und Hilflosigkeit verwandeln, wenn deine Bemühungen immer wieder auf Widerstand stoßen.
 
 *Gefühle von Traurigkeit und Enttäuschung* können dich übermannen, wenn du siehst, wie die Kindsmutter deine Beziehung zum Kind kritisch beäugt oder versucht, dich auszugrenzen. Du hast dir diese neue Familienkonstellation vielleicht ganz anders vorgestellt und sehnst dich nach Akzeptanz und Zusammenhalt.
@@ -54,8 +50,6 @@ Es ist wichtig, dass du dir inmitten dieser emotionalen Achterbahnfahrt Raum fü
 
 ## Gemeinsames Brückenbauen
 
-Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du erkennst, dass eine gute Zusammenarbeit mit der Kindsmutter der Schlüssel zu einer harmonischen Patchwork-Familie ist, in der sich das Kind geborgen und geliebt fühlt. Doch der Weg zu einer solchen Kooperation ist nicht immer einfach und erfordert *[Geduld,](/blog/die-4-phasen-der-patchworkfamilie/) Einfühlungsvermögen und den Willen zu Kompromissen*. **Als Bonusmama kannst du durch folgende Schritte dazu beitragen, eine Brücke zur Kindsmutter zu bauen:**-*Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
-
 -*Kommuniziere offen und respektvoll* mit der Kindsmutter über Erziehungsfragen und sucht nach Kompromissen.
 
 -*Betone, dass du ihre Rolle als Mutter respektierst* und sie nicht ersetzen möchtest.
@@ -69,6 +63,5 @@ Eine gute Beziehung zwischen dir als Bonusmama und der Kindsmutter ist ein *uns
 Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen Bonusmama und Kindsmutter braucht Zeit, um zu wachsen. Feiere die kleinen Fortschritte und lass dich von Rückschlägen nicht entmutigen. Mit jeder wertschätzenden Geste, jedem ehrlichen Gespräch und jedem gemeinsamen Lachen leistest du einen Beitrag zu einer starken Patchwork-Familie, die füreinander einsteht und in der jeder seinen Platz hat – das Kind, die Kindsmutter und du als Bonusmama.
 
 ## Zusammenfassung
-Oft entsteht in der Beziehung zwischen Kindsmutter und Bonusmama das Gefühl, einander Konkurrenz zu sein. Doch das ist ehrlich gesagt totaler Quatsch.
 Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist eine wichtige Person für das Kind und soll es auch bleiben. Es darf jedoch mehr Verständnis für beide seiten Einziehen. Denn dies ist der erste wichtige Schritt Dahingehend eine positive Beziehung aufzubauen und dem Kind ein liebevolles Umfeld zu ermöglichen.
 

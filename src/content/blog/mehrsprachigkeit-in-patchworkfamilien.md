@@ -18,15 +18,11 @@ Lass uns nun mal einen Blick darauf werfen, wie man mit diesen sprachlichen Barr
 
 ## Chancen und Herausforderungen
 
-Als ich heute morgen in unserer Küche stand und für meine Bonuskinder Frühstück machte, wurde mir wieder bewusst, was für ein Sprachparadies wir doch sind! Während ich Brot und Marmelade auf den Tisch stellte, bat ich mein Bonuskind auf Französisch: “Tu peux me passer le jus d’orange, s’il te plaît?” sie strahlte mich an, weil sie mich verstanden hatte und reichte mir den Saft. Gleichzeitig erzählte ich meinem Liebsten auf Englisch von meinen Plänen für den Tag. Unsere Frühstücksgespräche sind ein fröhliches Sprachgewirr – und ich Liebe es! **klar, manchmal Fragen wir uns, ob unsere Kids durch die Vielen Sprachen nicht Durcheinander kommen.** aber dann Sehe ich, wie Selbstverständlich sie zwischen den Sprachen Wechseln und wie sehr sie Kognitiv davon Profitieren. Sie lernen, sich flexibel auf Unterschiedliche Gesprächspartner (auch in Bezug auf meine [familie](/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie/)!) und Situationen Einzustellen – eine Superkraft fürs leben! Und ganz Nebenbei Eröffnen ihnen die Sprachen Türen zu anderen Kulturen. Was für ein Geschenk!** natürlich läuft nicht immer alles Rund.** manchmal Mischen die Kinder die Sprachen wild Durcheinander oder brauchen in einer Sprache etwas Länger als andere Kinder. Aber Hey, das ist völlig Okay und gehört zur Mehrsprachigen Entwicklung dazu. Da heißt es: Entspannt bleiben und dem Sprachenwirrwarr mit Humor Begegnen.
-
 Anfangs war ich unsicher, ob ich mit meinem Französisch alles noch komplizierter mache. Aber mittlerweile sehe ich, wie sehr die Kinder davon profitieren. Sie lernen, dass es viele Wege gibt, sich auszudrücken und entwickeln Freude daran, sich mir in meiner Sprache mitzuteilen. Und mal ganz ehrlich: ist es nicht wunderbar, dass wir uns gegenseitig neue Welten eröffnen?
 
 ![Wenn Sprache Grenzen überwindet — Stimmungsbild 1](/images/blog/mehrsprachigkeit-in-patchworkfamilien-2.jpg)
 
 ## Bedeutung der Bonusmutter für die Sprachentwicklung
-
-Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen Einfluss auf die Sprachentwicklung deiner Bonuskinder. Indem du konsequent deine Muttersprache mit ihnen sprichst, schaffst du einen natürlichen Raum für das Erlernen einer weiteren Sprache.
 
 *Studien zeigen, dass Kinder in mehrsprachigen Familien ein stärkeres Sprachbewusstsein entwickeln.* sie lernen früh, zwischen verschiedenen sprachlichen Systemen zu wechseln und diese zu vergleichen. Diese metalinguistischen Fähigkeiten können sich positiv auf das allgemeine Lernvermögen auswirken.
 
@@ -37,8 +33,6 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 >**Freundlichkeit ist eine sprache, die taube hören und blinde sehen können.**– Mark Twain
 
 ## Strategien für eine gelingende Kommunikation in der bilingualen Patchworkfamilie
-
-In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/blog/bonuskinder-und-konflikte/) das A und O. Ich habe dir einige wertvolle Strategien zusammengestellt, die dir helfen können, sprachliche Hürden zu meistern und ein positives Kommunikationsklima zu schaffen:
 
 - ** Etabliere klare Sprachenregeln:** legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
 - ** Pflegt eure Familiensprachen gleichermaßen:** Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
@@ -52,8 +46,6 @@ Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal hol
 
 ## Umgang mit interkulturellen Herausforderungen
 
-Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in Mehrsprachigen Patchworkfamilien Stecken in scheinbar Banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der richtigen Haltung und ein Paar Ungewöhnlichen Strategien lassen sich Brücken Bauen:
-
 - macht einen Perspektivwechsel zum Spiel. Schlüpft mal in die Rolle des anderen und betrachtet eine Situation mit seinen Augen. Was denkt und fühlt die Partnerin oder das Stiefkind gerade? So übt ihr Empathie und Verständnis.
 - führt ein “Faux-Pas-Tagebuch”. Notiert Missverständnisse und Fettnäpfchen, in die ihr wegen kultureller Unterschiede getappt seid. Beim gemeinsamen Schmökern können alle herzhaft darüber lachen. Das entspannt ungemein.
 - sucht euch Verbündete mit ähnlichen Erfahrungen. Tauscht euch mit anderen interkulturellen Familien aus – über Herausforderungen, aber auch über schöne Momente. Ihr merkt: ihr seid nicht allein!
@@ -62,5 +54,4 @@ Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie
 Vergesst nicht: eure Liebe zueinander ist der Kit, der euch verbindet – egal, aus welcher Kultur ihr kommt. Mit Achtsamkeit, Kreativität und Gelassenheit könnt ihr eure Interkulturellen Stolpersteine in Meilensteine Verwandeln.
 
 ## Zusammenfassung
-Das leben in einer multilingualen Patchworkfamilie hat definitiv seine Herausforderungen – doch auch so Viele Vorteile. Mit Zeit, Humor und viel Verständnis lässt sich diese Hürde überwinden. Und es ist ein unglaubliches Geschenk, Miteinander und Voneinander zu lernen.
 

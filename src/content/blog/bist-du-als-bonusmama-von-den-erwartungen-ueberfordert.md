@@ -22,8 +22,6 @@ Lass uns daher mal genauer einen Blick darauf werfen.
 
 ## "Ich Sollte" - Gedanken von Bonusmamas
 
-Kennst du das? In deinem Kopf kreisen ständig diese Gedanken:
-
 *"Ich sollte die Kinder doch eigentlich lieben wie meine eigenen."*
 
 *"Ich sollte mehr Verständnis für sie aufbringen."*
@@ -52,8 +50,6 @@ Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: Ein Leben, in 
 
 ## Ursachen dieser Gedanken
 
-Aber woher kommen all diese "ich sollte"-Gedanken eigentlich? Warum tragen wir Bonusmamas so viele Erwartungen an uns selbst heran? Die Ursachen dafür sind vielfältig.
-
 Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine "gute Mutter" sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
 Auch ** familiäre Prägungen und eigene Kindheitserfahrungen** tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
@@ -72,8 +68,6 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles "sol
 
 ## Auswirkungen der "ich sollte"- gedanken
 
-Die ständigen "ich sollte"-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
-
 - wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell*überfordert und gestresst*. Wir haben das Gefühl, ständig zu funktionieren und nicht zur Ruhe zu kommen. Das geht auf Kosten unserer psychischen und körperlichen Gesundheit.
 - auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/blog/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
 - die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu*Misstrauen und Distanz* führen.
@@ -83,8 +77,6 @@ Die ständigen "ich sollte"-Gedanken bleiben nicht ohne Folgen. Sie können sich
 ![Bist du als Bonusmama von den Erwartungen überfordert? - Stimmungsbild 2](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
 
 ## Entfliehe den Erwartungen
-
-Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den "ich sollte"-Gedanken zu befreien und zu einem entspannteren, erfüllteren leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
 - 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst.** Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
 - 💎**
