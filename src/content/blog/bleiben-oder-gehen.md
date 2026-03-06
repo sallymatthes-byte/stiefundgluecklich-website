@@ -76,4 +76,3 @@ Solange du innerlich noch nicht aufgegeben hast, gibt es Möglichkeiten. Erst we
 <summary>Was kann ich tun, wenn ich mich in der Patchworkfamilie nicht zugehörig fühle?</summary>
 Sprich offen mit deinem Partner über deine Gefühle. Suche dir Unterstützung bei anderen Bonusmamas oder einem Coach. Du musst das nicht allein durchstehen.
 </details>
-FAQ_END -->

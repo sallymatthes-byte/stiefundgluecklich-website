@@ -3,7 +3,6 @@ title: "Aus dem Schatten der Kindsmutter treten: So meisterst du als Bonusmama d
 description: "Als Bonusmama mit der Kindsmutter verglichen zu werden, kann schmerzhaft sein. Lies jetzt, wie du deinen Platz findest."
 category: "ex-und-system"
 date: 2024-07-19
-updated: 2024-06-15
 metaTitle: "Raus aus dem Schatten der Kindsmutter"
 metaDescription: "Immer im Vergleich mit der leiblichen Mutter? So hörst du auf, dich zu messen - und findest deine eigene Stärke als Bonusmama."
 heroImage: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
@@ -93,4 +92,4 @@ Als Bonusmama ständig mit der Kindsmutter verglichen zu werden, kann verletzend
 <dt>Wie finde ich als Bonusmama meinen eigenen Platz in der Familie?</dt>
 <dd>Indem du deine Stärken erkennst, deine Rolle bewusst definierst und offen mit deinem Partner darüber sprichst. Du bist kein Ersatz für die Kindsmutter, sondern eine eigenständige Bereicherung für die Familie.</dd>
 </dl>
-FAQ_END -->
+

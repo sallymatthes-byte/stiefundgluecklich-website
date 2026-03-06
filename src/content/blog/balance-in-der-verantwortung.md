@@ -46,7 +46,7 @@ Natürlich gibt es *Ausnahmefälle*, in denen wir als Bonuseltern die Verantwort
 
 ## Wie erfolgt die schrittweise Verantwortungsübernahme?
 
-Der Schlüssel liegt in der Kommunikation und dem gegenseitigen Verständnis. Es ist wichtig, offen über unsere Wünsche, Bedenken und Erwartungen zu sprechen. Dabei ist es hilfreich, den *Fokus auf die Bedürfnisse der Bonuskinder* zu legen. Gemeinsam können wir als Patchworkfamilie ihr Wohlergehen und ihre Entwicklung bestmöglich unterstützen.
+Der Schlüssel liegt in der Kommunikation und dem gegenseitigen Verständnis. Es ist wichtig, offen über unsere Wünsche, Bedenken und Erwartungen zu sprechen. Dabei ist es hilfreich, den *Fokus auf die Bedürfnisse der Bonuskinder* zu legen — auch wenn das bedeutet, [unterschiedliche Erziehungsmethoden](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) unter einen Hut zu bringen. Gemeinsam können wir als Patchworkfamilie ihr Wohlergehen und ihre Entwicklung bestmöglich unterstützen.
 
 Ein möglicher erster Schritt könnte sein, dass wir uns um **bestimmte Alltagsangelegenheiten** kümmern, wie beispielsweise das Zubereiten von Mahlzeiten, die Organisation von Freizeitaktivitäten oder das Begleiten zu Terminen. Indem wir uns aktiv einbringen, zeigen wir den Bonuskindern, dass wir für sie da sind und sie unterstützen möchten.
 
@@ -61,7 +61,7 @@ Es ist völlig normal, dass es dabei zu Unsicherheiten, Konflikten oder Zweifeln
 
 Die Balance zwischen dem biologischen Elternteil und den Bonuseltern zu finden, ist eine **Achterbahnfahrt der Emotionen**. Es ist oft nicht einfach, den richtigen Zeitpunkt zu erkennen, um Verantwortung abzugeben oder zu übernehmen. Uns stellen sich Fragen wie: Ist das meine Aufgabe? Wie kann ich mich einbringen, ohne mich dabei selbst zu vernachlässigen? Und wie finde ich die Balance zwischen zu viel und zu wenig?
 
-Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig. **Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen.** Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
+Die Herausforderungen, die uns in diesem Prozess begegnen können, sind vielfältig. **Manchmal fühlen wir uns unsicher, ob wir überhaupt das Recht haben, mitzubestimmen oder Entscheidungen zu treffen.** Wir zweifeln an unseren Fähigkeiten und fragen uns, ob wir den Bonuskindern wirklich gerecht werden können — ein Gefühl, das viele Bonusmamas kennen, wenn sie [von den Erwartungen überfordert](/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert/) sind. Gleichzeitig können wir mit der Angst konfrontiert sein, dass wir zu viel Verantwortung übernehmen und dabei unsere eigenen Bedürfnisse vernachlässigen. Es ist ein Balanceakt zwischen dem Wunsch nach Harmonie und dem Bedürfnis nach Selbstfürsorge.
 
 ## Wo finden wir Unterstützung?
 
@@ -90,4 +90,4 @@ Erlaube dir, die Verantwortung zu teilen – du musst das nicht alleine tragen.
 <dt>Darf ich als Bonusmama bei der Erziehung mitbestimmen?</dt>
 <dd>Ja, im Rahmen gemeinsamer Absprachen mit dem biologischen Elternteil. Eine gemeinsame Entscheidungsfindung in Erziehungsfragen stärkt die gesamte Familie.</dd>
 </dl>
-FAQ_END -->
+
