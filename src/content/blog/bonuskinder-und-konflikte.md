@@ -68,7 +68,7 @@ Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvol
 
 Wie löst ihr Konflikte mit den Kindern? Schreib mir eine Nachricht und erzähl mir davon!
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 Ablehnung durch das Bonuskind ist selten persönlich gemeint. Meistens steckt dahinter: Angst, die Mama zu verraten; Wut über die Trennung der Eltern; oder Unsicherheit über die neue Familiensituation. Das Kind testet, ob du bleibst - auch wenn es dich wegstößt.
 
@@ -77,4 +77,4 @@ Langsam und ohne Druck. Sei verlässlich, aber erwarte keine sofortige nähe. Fi
 
 ### Was tun, wenn mein Stiefkind die Beziehung zerstört?
 Kein Kind zerstört bewusst eine Beziehung. Wenn es sich so anfühlt, schau genauer hin: Ist das Kind überfordert? Fehlen klare Strukturen? Setzt dein Partner Grenzen? Meistens liegt das Problem nicht beim Kind, sondern im System drumherum.
-<!-- FAQ_END -->
+

@@ -79,7 +79,7 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 
 ---
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Ist es normal, eifersüchtig auf das Stiefkind zu sein?
@@ -90,4 +90,4 @@ Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst,
 
 ### Was kann ich gegen Stiefkind-Eifersucht tun?
 Erkenne die Eifersucht als Signal, nicht als Charakterfehler. Frag dich: Was brauche ich gerade wirklich? Meistens geht es um Zeit zu zweit mit deinem Partner, Anerkennung oder das Gefühl, einen festen Platz zu haben. Sprich das offen an — nicht als Vorwurf, sondern als Bedürfnis.
-<!-- FAQ_END -->
+

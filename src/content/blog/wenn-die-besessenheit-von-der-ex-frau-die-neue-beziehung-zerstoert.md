@@ -114,7 +114,7 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 **Du willst raus aus dem Kreislauf?** Du verdienst eine Beziehung, in der du dich sicher und geliebt fühlst — ohne den ständigen Schatten der Vergangenheit.
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Warum beschäftigt mich die Ex-Frau meines Partners so sehr?
@@ -125,4 +125,4 @@ Der erste Schritt ist, die Gedanken nicht zu bekämpfen, sondern zu verstehen, w
 
 ### Kann die Ex-Frau eine neue Beziehung zerstören?
 Die Ex-Frau selbst zerstört selten eine Beziehung. Was Beziehungen gefährdet, ist der Umgang damit: Wenn der Partner keine klaren Grenzen setzt, wenn Konflikte mit der Ex eure Partnerschaft dominieren, oder wenn du dich in Vergleichen verlierst. Die Lösung liegt immer in eurer Beziehung, nicht bei der Ex.
-<!-- FAQ_END -->
+

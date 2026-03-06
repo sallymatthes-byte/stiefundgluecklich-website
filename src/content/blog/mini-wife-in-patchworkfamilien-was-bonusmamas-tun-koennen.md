@@ -130,7 +130,7 @@ Du denkst vielleicht: „Ich will kein Drama machen.„ Oder: „Ich will dem Ki
 
 **Mach das [kostenlose Quiz](/quiz) und finde in 2 Minuten heraus, welcher nächste Schritt zu dir passt.**
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Was ist das Mini-Wife-Syndrom?
@@ -141,4 +141,4 @@ Sprich mit deinem Partner unter vier Augen darüber - nicht vor dem Kind. Erklä
 
 ### Ist Mini-Wife-Verhalten schädlich für das Kind?
 Ja, langfristig kann es das Kind überfordern. Kinder, die in eine Erwachsenenrolle gedrängt werden, tragen Verantwortung, die nicht zu ihrem Alter passt. Das kann zu [Loyalitätskonflikten](/blog/loyalitaetskonflikte-von-bonuskindern/) und emotionaler Überlastung führen.
-<!-- FAQ_END -->
+

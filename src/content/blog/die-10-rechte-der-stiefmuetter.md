@@ -98,7 +98,7 @@ Was wäre, wenn du…
 
 **Du willst herausfinden, welcher nächste Schritt zu dir passt?** Mach das [kostenlose Quiz](/quiz) und finde es in 2 Minuten heraus.
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Welche Rechte hat eine Stiefmutter in einer Patchworkfamilie?
@@ -109,4 +109,3 @@ Grundsätzlich ja — aber nur, wenn ihr auch die Autorität dazu gegeben wird. 
 
 ### Wie kann ich als Stiefmutter meine Rechte einfordern?
 Der wichtigste Schritt ist klare Kommunikation mit deinem Partner. Sprecht offen über eure Erwartungen, Rollen und Grenzen. Professionelle Unterstützung durch Coaching oder Beratung kann helfen, wenn ihr allein nicht weiterkommt.
-FAQ_END -->

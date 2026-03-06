@@ -105,7 +105,7 @@ Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat
 
 ---
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Was ist eine Stiefmutter?
@@ -119,4 +119,4 @@ Bonusmama ist eine positive Alternative zum Begriff Stiefmutter. Er betont, dass
 
 ### Welche Rechte hat eine Stiefmutter?
 Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z. B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.
-<!-- FAQ_END -->
+

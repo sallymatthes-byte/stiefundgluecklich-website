@@ -89,7 +89,7 @@ Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren 
 
 ## Zusammenfassung
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Was ist ein Loyalitätskonflikt bei Bonuskindern?
@@ -100,4 +100,4 @@ Typische Zeichen: Das Kind verhält sich bei der Übergabe plötzlich anders, le
 
 ### Wie kann ich als Bonusmama mit Loyalitätskonflikten umgehen?
 Dränge dich nicht auf. Gib dem Kind Raum und signalisiere: Du musst dich nicht entscheiden. Ich bin da, ohne dass du dafür deine Mama verraten musst. Sprich nie schlecht über die leibliche Mutter — auch nicht indirekt. Das Kind braucht die Erlaubnis, alle seine Bezugspersonen lieb haben zu dürfen.
-<!-- FAQ_END -->
+

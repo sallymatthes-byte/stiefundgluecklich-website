@@ -25,7 +25,7 @@ const faqSection = mdContent.split('## Häufige Fragen')[1] || '';
 const faqMatches = [...faqSection.matchAll(/### (.+)\n([\s\S]*?)(?=\n###|\n## |$)/g)];
 const faqs = faqMatches.map(m => ({
   question: m[1].trim(),
-  answer: m[2].trim().replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').replace(/\*/g, '')
+  answer: m[2].trim().replace(/<!--[\s\S]*?-->/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').replace(/\*/g, '').trim()
 }));
 
 // Format date to German

@@ -92,7 +92,7 @@ Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verste
 
 **Du willst herausfinden, welcher nächste Schritt zu dir passt?**
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Warum bin ich eifersüchtig auf die Ex-Frau meines Partners?
@@ -103,4 +103,4 @@ Hör auf, dich mit ihr zu vergleichen. Eure Beziehungen sind komplett unterschie
 
 ### Ist Eifersucht auf die Ex normal?
 Absolut. Fast jede Bonusmama kennt dieses Gefühl in irgendeiner Form. Es wird erst zum Problem, wenn es dein Denken und Handeln dominiert. Dann lohnt es sich, genauer hinzuschauen — oft stecken eigene [Glaubenssätze](/blog/glaubenssaetze-als-bonusmama/) und alte Verletzungen dahinter.
-<!-- FAQ_END -->
+

@@ -86,7 +86,7 @@ Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Si
 
 
 
-<!-- FAQ_START
+<!-- FAQ_START -->
 ## Häufige Fragen
 
 ### Warum gibt es in Patchworkfamilien so oft Konflikte wegen der Ex?
@@ -97,4 +97,4 @@ Setze klare Grenzen, was dich betrifft und was nicht. Nicht jeder Konflikt zwisc
 
 ### Wie kann ich die Ex-Partnerin meines Partners akzeptieren?
 Akzeptanz bedeutet nicht Sympathie. Es bedeutet anzuerkennen, dass sie Teil des Systems ist und bleiben wird — als Mutter der Kinder. Je weniger Energie du in den Widerstand gegen diese Tatsache steckst, desto freier wirst du für die Dinge, die du tatsächlich beeinflussen kannst.
-<!-- FAQ_END -->
+
