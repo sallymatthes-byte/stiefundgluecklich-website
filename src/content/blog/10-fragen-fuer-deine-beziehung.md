@@ -119,4 +119,4 @@ Insgesamt hat die Beschäftigung mit den drei Schritten und den Fragen dazu gef�
 ## Zusammenfassung
 Als Bonusmama in einer Patchworkfamilie stehst du vor vielen Herausforderungen, doch mit den richtigen Fragen und Schritten kannst du eine erfüllte Partnerschaft und ein harmonisches Familienleben aufbauen. **Die drei Schritte - Analyse, Veränderung und Kommunikation - bieten dabei eine wertvolle Orientierung. **Durch ehrliche Gespräche, gemeinsame Visionen und ein tieferes Verständnis füreinander ist es möglich, enger zusammenzuwachsen und gestärkt in die Zukunft zu blicken. Die Beschäftigung mit den Fragen hat gezeigt, wie wichtig es ist, immer wieder innezuhalten und an der Beziehung zu arbeiten.
 
-Du möchtest die Fragen und Schritte gerne auf deine eigene Situation anwenden und deine Partnerschaft als Bonusmama stärken?
+Nimm dir die Zeit, diese Fragen gemeinsam mit deinem Partner durchzugehen. Ihr werdet überrascht sein, wie viel Nähe und Klarheit daraus entstehen kann – selbst nach Jahren zusammen.
