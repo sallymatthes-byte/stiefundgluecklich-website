@@ -13,7 +13,7 @@ podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein — jenseits von Definitionen und Märchen."
 ---
 
-> „Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue Rolle als Bonusmama wagte.
+> „Ich will nicht die böse Stiefmutter sein!“ – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) wagte.
 
 Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Partner in Tränen ausbrach. Die Angst, nicht gut genug zu sein, die Sorge, von den Kindern abgelehnt zu werden, und die Unsicherheit über meine neue Rolle – All das überwältigte mich in diesem Moment. **heute weiß ich: eine Stiefmutter zu sein Bedeutet so viel mehr als nur die Neue Partnerin des Vaters zu sein.** Es ist eine Reise zu dir selbst, eine Herausforderung, die dich Wachsen lässt, und eine Chance, Teil von etwas ganz Besonderem zu werden.
 
@@ -84,7 +84,7 @@ Aus Überforderung wurde Selbstfürsorge.** Der Wendepunkt kam nach einem besond
 
 ### 3. Kommunikation entwickeln: Der Schlüssel zum Erfolg
 
-Die wichtigste Erkenntnis auf meinem Weg war:** Offene Kommunikation ist nicht nur ein schönes Schlagwort, sondern der echte Schlüssel zu einer harmonischen Patchworkfamilie.** Für uns bedeutete es, regelmäßige "Familienkonferenzen" einzuführen. Jeden Sonntagabend setzen wir uns zusammen – Mit Kakao Und Keksen, Denn Schwierige Gespräche Gehen Mit Süßigkeiten Einfach Besser.
+Die wichtigste Erkenntnis auf meinem Weg war:** Offene Kommunikation ist nicht nur ein schönes Schlagwort, sondern der echte Schlüssel zu einer harmonischen [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/).** Für uns bedeutete es, regelmäßige "Familienkonferenzen" einzuführen. Jeden Sonntagabend setzen wir uns zusammen – Mit Kakao Und Keksen, Denn Schwierige Gespräche Gehen Mit Süßigkeiten Einfach Besser.
 
 Anfangs war es holprig. Die Kleine saß mit verschränkten Armen da, die Große spielte lieber mit den Legosteinen. Aber mit der Zeit merkten alle: Hier werden wir ernst genommen, hier dürfen wir sein, wie wir sind.
 

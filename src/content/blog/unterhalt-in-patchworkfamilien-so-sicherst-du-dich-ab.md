@@ -14,11 +14,11 @@ imageAlt: "Unterhalt in Patchworkfamilien"
 
 Kennst du das? Monat für Monat überweist dein Partner Unterhalt, das Kindergeld fließt zur Ex, und irgendwie bleibt für euch als Paar immer zu wenig übrig. Während andere Patchwork-Familien scheinbar finanziell gut zurechtkommen, fühlt es sich für euch an, als würdet ihr kaum vorankommen.
 
-Du fragst dich:💰 Warum bleibt trotz unseres Einkommens so wenig für uns übrig?💰 Wie ist das in anderen Ländern geregelt – und was können wir daraus lernen?💰 wie kann ich mich als Bonusmama Finanziell Absichern, ohne mich Ausgenutzt zu fühlen?
+Du fragst dich:💰 Warum bleibt trotz unseres Einkommens so wenig für uns übrig?💰 Wie ist das in anderen Ländern geregelt – und was können wir daraus lernen?💰 wie kann ich mich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) Finanziell Absichern, ohne mich Ausgenutzt zu fühlen?
 
 Genau darum geht es in diesem Artikel. Ich zeige dir, wie Unterhalt, Kindergeld und Steuern in Deutschland, Österreich und der Schweiz geregelt sind, warum die finanzielle Situation deines Partners auch dich betrifft – und wie du mehr Klarheit über eure Finanzen Bekommst, um dich nicht Ohnmächtig zu fühlen.
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Das betrifft mich doch nicht!?
 
@@ -34,7 +34,7 @@ Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebs
 
 Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und der Schweiz werfen.
 
-![Unterhalt in Patchworkfamilien — Stimmungsbild 1](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
+![Unterhalt in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n — Stimmungsbild 1](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
 
 ## Deutschland, Österreich, Schweiz – Wer bekommt was?
 

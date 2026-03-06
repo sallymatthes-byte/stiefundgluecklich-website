@@ -11,7 +11,7 @@ image: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 imageAlt: "Zwischen Partnerschaft und Bonusmama-Sein"
 ---
 
-Kennst du das Gefühl, als Bonusmama immer mehr in die Rolle der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
+Kennst du das Gefühl, als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) immer mehr in die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
 
 Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die neue Rolle startet und sich mit Hingabe um die Kinder des Partners kümmert. Man möchte unterstützen, für Harmonie sorgen und das Familienleben organisieren. **Doch schnell kann man sich in einem Muster wiederfinden, in dem man mehr Mutter als Geliebte ist.** Die Folgen sind oft Überforderung, Erschöpfung und eine Partnerschaft, die auf der Strecke bleibt. Dabei ist es gerade in einer Patchworkfamilie so wichtig, die Beziehung zu pflegen und sich Zeit für einander zu nehmen. Doch wie schafft man es, die [Verantwortung](/blog/balance-in-der-verantwortung/) nicht komplett zu übernehmen und trotzdem für die Kinder da zu sein?
 
@@ -27,7 +27,7 @@ Unsere Partnerschaft litt darunter, dass ich ständig mit den Gedanken bei den K
 
 Gleichzeitig plagte mich ein schlechtes Gewissen, wenn ich an mich selbst dachte. Ich wollte für die Kinder da sein und sie nicht enttäuschen. Doch tief in meinem Inneren wusste ich, dass ich so nicht weitermachen konnte. Ich wollte nicht länger die Rolle der aufopfernden Mutter einnehmen, sondern wieder mehr Partnerin sein.
 
-An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die Verantwortung nicht komplett abgeben, aber ich musste einen Weg finden, die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen herzustellen. **Ich sehnte mich danach, wieder mehr Zeit mit meinem Partner zu verbringen, ohne ständig ein schlechtes Gewissen zu haben**.
+An diesem Punkt wurde mir klar, dass sich etwas ändern musste. Ich wollte die Verantwortung nicht komplett abgeben, aber ich musste einen Weg finden, die Balance zwischen meiner [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) und meinen eigenen Bedürfnissen herzustellen. **Ich sehnte mich danach, wieder mehr Zeit mit meinem Partner zu verbringen, ohne ständig ein schlechtes Gewissen zu haben**.
 
 Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschrauben, ohne die Kinder zu vernachlässigen? Und wie sollte ich meinem Partner beibringen, dass ich mehr Unterstützung brauchte, ohne ihn zu überfordern? Ich wusste, dass es nicht einfach werden würde, aber ich war entschlossen, einen Weg zu finden.
 

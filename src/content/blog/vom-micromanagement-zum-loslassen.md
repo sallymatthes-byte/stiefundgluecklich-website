@@ -12,13 +12,13 @@ imageAlt: "Vom Micromanagement zum Loslassen"
 
 ## Kennst du das Gefühl, immer alles unter Kontrolle haben zu müssen?
 
-Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen Im Klub der Micromanagenden Bonusmamas!
+Du organisierst die Kinder, planst die Mahlzeiten, regelst Termine und versuchst, jeden Konflikt zu lösen. Doch irgendwie erntest du dabei immer mehr Widerstand – von den Kindern, deinem Partner und vielleicht sogar dir selbst. Willkommen Im Klub der Micromanagenden [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s!
 
 Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versinken. Ich wollte sicherstellen, dass die Kinder ihre Hausaufgaben machen, der Haushalt perfekt läuft und mein Partner auch noch Zeit für uns hat. Doch statt Dankbarkeit bekam ich oft Vorwürfe. Irgendwann wurde mir klar: ich micromanage. Und das belastet nicht nur mich – sondern Die Ganze Familie.
 
 Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanagement so problematisch ist und wie du lernen kannst, loszulassen.
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-Stiefmutter-nie-wieder-tun-wrde-e2t3ahe) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/Was-ich-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-nie-wieder-tun-wrde-e2t3ahe) an.
 
 ## Was ist Micromanagement?
 
@@ -56,7 +56,7 @@ Kurz gesagt: Micromanagement ist wie ein schleichendes Gift, das die Harmonie in
 
 Hand aufs Herz: Warum hast du das Bedürfnis, alles zu kontrollieren?
 
-Vielleicht hast du Angst, dass ohne dich alles im Chaos versinkt. Oder du willst beweisen, dass du eine gute Bonusmama bist, und setzt dich selbst unter Druck, perfekt zu sein. Vielleicht weißt du auch nicht genau, wo deine Rolle liegt, und greifst deshalb überall ein, um auf Nummer sicher zu gehen.
+Vielleicht hast du Angst, dass ohne dich alles im Chaos versinkt. Oder du willst beweisen, dass du eine gute Bonusmama bist, und setzt dich selbst unter Druck, perfekt zu sein. Vielleicht weißt du auch nicht genau, wo deine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) liegt, und greifst deshalb überall ein, um auf Nummer sicher zu gehen.
 
 All diese Gründe sind nachvollziehbar. Doch sie führen dazu, dass du dich selbst überforderst und die Beziehungen in deiner Familie belastest.
 

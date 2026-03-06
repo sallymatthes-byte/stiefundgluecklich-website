@@ -11,7 +11,7 @@ image: "/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-
 imageAlt: "Unverstandene Bonusmamas"
 ---
 
-Fühlst du dich manchmal unverstanden in deiner Rolle und zweifelst an dir selbst? Dieses Gefühl ist für viele Bonusmamas nur allzu vertraut. Wieder einmal fühlst du dich ausgeschlossen oder eifersüchtig und bist unendlich traurig. Doch dein Partner kann überhaupt nicht nachvollziehen, wo das Problem gerade liegt. Das Unverständnis des Partners oder anderer Familienmitglieder kann an dir nagen und dich verunsichern. Vielleicht fragst du dich: “Bin ich überhaupt gut genug? Mache ich irgendetwas falsch?” Doch wie entsteht überhaupt das Gefühl des Nicht-verstanden-werdens?
+Fühlst du dich manchmal unverstanden in deiner [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und zweifelst an dir selbst? Dieses Gefühl ist für viele [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s nur allzu vertraut. Wieder einmal fühlst du dich ausgeschlossen oder eifersüchtig und bist unendlich traurig. Doch dein Partner kann überhaupt nicht nachvollziehen, wo das Problem gerade liegt. Das Unverständnis des Partners oder anderer Familienmitglieder kann an dir nagen und dich verunsichern. Vielleicht fragst du dich: “Bin ich überhaupt gut genug? Mache ich irgendetwas falsch?” Doch wie entsteht überhaupt das Gefühl des Nicht-verstanden-werdens?
 
 ## Ursachen für dieses Gefühl
 
@@ -31,7 +31,7 @@ Es ist so frustrierend, wenn Menschen in deinem Umfeld deine Situation nicht nac
 
 - 💎 Aber lass mich dir eines sagen: *Du musst dich nicht dafür rechtfertigen, wie du fühlst*. Deine Emotionen sind valid und echt. Statt dich in Erklärungen zu verstricken, übe dich darin, klar und bestimmt deine Perspektive zu kommunizieren. Ein einfaches “Ich sehe das anders” oder “Das verletzt mich” kann Wunder wirken.
 - 💎 Noch etwas ist wichtig: *Hole dir die Unterstützung, die du brauchst*. Suche den Austausch mit anderen Bonusmamas, die deine Erfahrungen teilen. In Foren, Gruppen oder bei Treffen findest du Verständnis und wertvolle Tipps. Nutze auch professionelle Hilfe, wenn du sie benötigst. Ein Coaching oder eine Beratung können dir helfen, konstruktive Wege im Umgang mit Unverständnis zu finden.
-- 💎 Und nicht zuletzt: *Sei deine eigene Verbündete*. Hinterfrage kritisch, wenn andere deine Rolle als Bonusmama abwerten. Erinnere dich stattdessen daran, was du täglich leistest und wie wertvoll dein Beitrag ist. Je stabiler dein Selbstbild ist, desto weniger können dich unverständige Bemerkungen erschüttern.
+- 💎 Und nicht zuletzt: *Sei deine eigene Verbündete*. Hinterfrage kritisch, wenn andere deine [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) abwerten. Erinnere dich stattdessen daran, was du täglich leistest und wie wertvoll dein Beitrag ist. Je stabiler dein Selbstbild ist, desto weniger können dich unverständige Bemerkungen erschüttern.
 
 > „Kritisiere nicht was du nicht verstehen kannst.“ – Bob Dylan
 

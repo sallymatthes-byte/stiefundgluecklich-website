@@ -10,9 +10,9 @@ image: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 imageAlt: "Verschiedene Bonusmama-Typen — warm, empathisch, Erdtöne"
 ---
 
-Kennst du das? Du scrollst durch Instagram, siehst andere Bonusmamas, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine Bonusmama ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
+Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine Bonusmama ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
 
-Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, Herausforderungen und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
+Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
 
 Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfindest.
 
@@ -53,7 +53,7 @@ Du bist emotional und sensibel — und genau das macht dich zu einer großartige
 - „Mein Partner und meine Tochter können keine Verbindung aufbauen, und ich hänge zwischen den Stühlen."
 - „Ich weiß nicht, ob ich das langfristig schaffe."
 
-**Deine größte Herausforderung:** Klarheit finden — über deine Rolle, deine Grenzen und deine Berechtigung, in dieser Familie zu sein.
+**Deine größte Herausforderung:** Klarheit finden — über deine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/), deine Grenzen und deine Berechtigung, in dieser Familie zu sein.
 
 **Was dir helfen kann:** Deine Unsicherheit ist kein Zeichen von Schwäche. Sie zeigt, dass dir etwas wichtig ist. Aber du brauchst einen Rahmen, in dem du diese Gefühle sortieren kannst, statt in ihnen zu versinken.
 

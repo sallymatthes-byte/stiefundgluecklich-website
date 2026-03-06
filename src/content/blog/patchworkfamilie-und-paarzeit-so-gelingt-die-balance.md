@@ -11,7 +11,7 @@ image: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 imageAlt: "Zeit als Paar in der Patchworkfamilie"
 ---
 
-Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte mal wirklich wahrgenommen hast – nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der Patchworkfamilie Scheint wie Sand zwischen den Fingern zu Zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit Verschluckt.
+Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte mal wirklich wahrgenommen hast – nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) Scheint wie Sand zwischen den Fingern zu Zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit Verschluckt.
 
 ## Die versteckte Sehnsucht nach Nähe
 
@@ -27,7 +27,7 @@ Und mehr dazu erfährst du auch in diesem [Video](https://youtu.be/KqmP97hMddc):
 
 Der schmale grat zwischen familie und partnerschaft
 
-An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwischen den verschiedenen Rollen in einer Patchworkfamilie ist. Tagsüber war ich die engagierte Bonusmama, die Ausflüge plante, bei den Hausaufgaben half und versuchte, den Kindern eine gute Bezugsperson zu sein. Aber wo blieb die Frau, die sich einst in ihren Partner verliebt hatte? Die von Schmetterlingen im Bauch und funkelnden Blicken träumte?
+An diesem Abend auf der Couch wurde mir bewusst, wie komplex die Balance zwischen den verschiedenen [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)n in einer Patchworkfamilie ist. Tagsüber war ich die engagierte [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/), die Ausflüge plante, bei den Hausaufgaben half und versuchte, den Kindern eine gute Bezugsperson zu sein. Aber wo blieb die Frau, die sich einst in ihren Partner verliebt hatte? Die von Schmetterlingen im Bauch und funkelnden Blicken träumte?
 
 *Die Zeit als Paar in unserer Patchworkfamilie schien wie ein Luxusgut geworden zu sein.* Wenn ich abends im Bett lag, häuften sich die Fragen in meinem Kopf: Würden wir irgendwann nur noch Eltern sein und das Paar-Sein vergessen? War es egoistisch, sich nach mehr Zweisamkeit zu sehnen, wenn die Kinder so selten bei uns waren? Diese Gedanken nagten an mir, während ich spürte, wie unsere Verbindung als Liebespaar immer dünner wurde.
 

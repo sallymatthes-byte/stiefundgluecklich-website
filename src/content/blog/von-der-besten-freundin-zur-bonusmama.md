@@ -11,7 +11,7 @@ image: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
 imageAlt: "Von der besten Freundin zur Bonusmama – Wie du Gerüchte und Herausforderungen meisterst"
 ---
 
-Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich die Bonusmama in der Patchwork-Familie. *Ein Rollenwechsel, der nicht nur für dich, sondern auch für das gesamte Umfeld eine große Herausforderung darstellt.* Auf einmal bist du mit Gerüchten konfrontiert, fühlst dich angegriffen und zweifelst daran, ob du wirklich das Richtige tust.
+Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in der Patchwork-Familie. *Ein [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)nwechsel, der nicht nur für dich, sondern auch für das gesamte Umfeld eine große Herausforderung darstellt.* Auf einmal bist du mit Gerüchten konfrontiert, fühlst dich angegriffen und zweifelst daran, ob du wirklich das Richtige tust.
 
 Genau so erging es auch meiner Klientin Marion, deren Geschichte ich dir heute erzählen möchte. Sie hat erlebt, wie sich ihre Beziehung zur besten Freundin von einem Tag auf den anderen komplett veränderte und welche Herausforderungen dies mit sich brachte. Doch Marion hat es geschafft, aus dieser schwierigen Situation gestärkt hervorzugehen und eine liebevolle Beziehung zu ihren Bonuskindern und ihrem Partner aufzubauen.
 
@@ -19,7 +19,7 @@ In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfäh
 
 Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns gemeinsam eintauchen und herausfinden, wie die Transformation von der besten Freundin zur Bonusmama gelingen kann.
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) an.
+🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://creators.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)-e2qsibq) an.
 
 ## Vom vertrauten Umfeld zur Außenseiterin
 

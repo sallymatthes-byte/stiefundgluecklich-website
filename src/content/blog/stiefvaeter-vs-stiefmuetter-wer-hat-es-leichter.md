@@ -12,12 +12,12 @@ imageAlt: "Stiefväter vs. Stiefmütter"
 ---
 
 Immer wieder werde ich gefragt, weshalb ich mein Angebot nicht auch für Stiefväter ausweite.
-Wenn wir in die Literatur schauen, gibt es jetzt schon mehr Ratgeber für Bonusmamas als für Bonuspapas. Und den Ausdruck des “bösen Stiefvaters” gibt es erst recht nicht.
+Wenn wir in die Literatur schauen, gibt es jetzt schon mehr Ratgeber für [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s als für Bonuspapas. Und den Ausdruck des “bösen Stiefvaters” gibt es erst recht nicht.
 Genauso wenig wie die Aussage etwas “stiefväterlich” zu behandeln. Stiefmütterlich ist jedoch eine weit verbreite Beschreibung, wenn es darum geht, etwas zu vernachlässigen.
 Komisch und das, obwohl in [47 % der Patchworkfamilien Stiefväter leben, aber nur 27 % Stiefmütter](https://www.tagesspiegel.de/berlin/bei-stiefvatern-reicht-es-schon-dass-sie-die-kinder-nicht-auffressen-wie-ein-lowe-4202164.html). (Das liegt einfach daran, dass in den meisten Familien das Kind weiterhin bei der Mutter lebt.)
 Zurück zur Frage, weshalb meine Angebote für Bonusmamas sind.
 Nun, zum einen bin ich selbst eine Frau und glaube mich besser mit Frauen verbinden zu können. Und zum anderen glaube ich, dass es Stiefväter generell etwas leichter haben.
-Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA) oder als [Podcast](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/Stiefmtter-vs--Stiefvter-Die-WAHRHEIT-ber-ihre-Rollen-e2qto62) anhören:
+Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA) oder als [Podcast](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/Stiefmtter-vs--Stiefvter-Die-WAHRHEIT-ber-ihre-[Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)n-e2qto62) anhören:
 
 ## Unterschiedliche Rollenbilder
 
@@ -37,7 +37,7 @@ Stiefväter sieht man oft als*Spielgefährten und Kumpel* ihrer Stiefkinder. Sie
 Stiefmütter hingegen drängt man häufiger in die Rolle der Erzieherin. Sie kümmern sich um Schularbeiten, strukturieren den Tagesablauf und sorgen für ein harmonisches Familienleben.
 
 *Diese Rollenzuschreibungen können dazu führen, dass Stiefmütter weniger Freiräume haben, ihre eigene Beziehung zu den Stiefkindern zu gestalten und sich stärker an den Bedürfnissen der Familie orientieren müssen.*
-Gleichzeitig wird ihre Arbeit oft als selbstverständlich betrachtet und selten wertgeschätzt, was zu Frustrationen und Konflikten führen kann. Auch Susanne Kunze (2015) bestätigte in ihrer [Studie](https://www.pairfam.de/fileadmin/user_upload/uploads/tx_sibibtex/workingpaper_02.pdf), dass es in Familien mit einer Stiefmutter zu vermehrt Konflikten kommt – Im Gegensatz zu Familien mit einem Stiefvater.
+Gleichzeitig wird ihre Arbeit oft als selbstverständlich betrachtet und selten wertgeschätzt, was zu Frustrationen und Konflikten führen kann. Auch Susanne Kunze (2015) bestätigte in ihrer [Studie](https://www.pairfam.de/fileadmin/user_upload/uploads/tx_sibibtex/workingpaper_02.pdf), dass es in Familien mit einer [Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/) zu vermehrt Konflikten kommt – Im Gegensatz zu Familien mit einem Stiefvater.
 
 > “Die Familie ist die Heimat des Herzens.“ – Giuseppe Mazzini
 

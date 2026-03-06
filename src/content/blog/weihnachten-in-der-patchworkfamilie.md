@@ -15,13 +15,13 @@ Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm.
 Die Kombination aus verschiedenen Familienmitgliedern, Traditionen und Bedürfnissen kann zu Spannungen führen.
 Genau aus diesem Grund haben wir uns dazu entschlossen Weihnachten getrennt zu verbringen – Stéphane in Frankreich mit seinen Kindern, ich bei meinen Eltern in Deutschland. Zu groß sind uns einfach die Herausforderungen: tausende Kilometern liegen zwischen den Familien, die sprachlichen Barrieren sind oft zu groß und am Ende ist niemand richtig zufrieden.
 
-In diesem Blogartikel werde ich auf die Herausforderungen, die Rolle der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc):
+In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc):
 
 ## Wo liegen die Stolpersteine?
 
 Vielleicht ist es ja das erste Weihnachten, dass ihr gemeinsam verbringt.
 Und alle haben **unterschiedliche Vorstellungen**davon, wie das Fest gefeiert werden soll. Die einen möchten unbedingt den Weihnachtsbaum schmücken, während die anderen lieber tagelang Weihnachtsfilme schauen würden.
-Du als Bonusmama möchtest vielleicht gern in die Kirche gehen, während dein Partner am Vorweihnachtsabend nochmal grillen möchte.
+Du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) möchtest vielleicht gern in die Kirche gehen, während dein Partner am Vorweihnachtsabend nochmal grillen möchte.
 
 Die Erwartungen der Elternteile und die Wünsche der Kinder prallen aufeinander und es entsteht eine gewisse Anspannung.
 Und außerdem ist ja auch die **
@@ -55,7 +55,7 @@ Stell dir vor, du bist ein Kind in einer Patchworkfamilie und Weihnachten steht 
 
 *Du musst dich an neue Traditionen und Rituale anpassen, die vielleicht nicht mit denen übereinstimmen, die du gewohnt bist. Es kann verwirrend sein, wenn du plötzlich zwei Weihnachtsbäume schmücken musst oder zwischen verschiedenen Feierlichkeiten hin- und herpendelst. Du möchtest dich geliebt und geborgen fühlen, aber manchmal fühlst du dich zwischen den verschiedenen Familienmitgliedern hin- und hergerissen.*
 
-*Vielleicht hast du das Glück, dass sich alle Familienmitglieder gut verstehen und harmonisch zusammen feiern. Doch oft gibt es auch Spannungen und Konflikte zwischen den verschiedenen Partner_innen und Ex-Partner_innen. Es kann eine Herausforderung sein, sich in diesem Geflecht von Beziehungen zurechtzufinden und die eigenen Bedürfnisse auszudrücken. Es ist wichtig für dich, dass du dich gehört und verstanden fühlst, dass deine Bedürfnisse und Wünsche ernst genommen werden.*
+*Vielleicht hast du das Glück, dass sich alle Familienmitglieder gut verstehen und harmonisch zusammen feiern. Doch oft gibt es auch Spannungen und Konflikte zwischen den verschiedenen Partner_innen und [Ex](/blog/konflikte-wegen-der-ex-ueberwinden/)-Partner_innen. Es kann eine Herausforderung sein, sich in diesem Geflecht von Beziehungen zurechtzufinden und die eigenen Bedürfnisse auszudrücken. Es ist wichtig für dich, dass du dich gehört und verstanden fühlst, dass deine Bedürfnisse und Wünsche ernst genommen werden.*
 
 *Vielleicht fühlst du dich manchmal unsichtbar, wenn die Erwachsenen in der Familie mit ihren eigenen Konflikten beschäftigt sind. Du möchtest einfach nur ein schönes und harmonisches Weihnachten erleben, in dem du dich als Teil einer liebevollen Familie fühlst. Du sehnst dich nach Stabilität und Sicherheit, nach einem Ort, an dem du dich geborgen fühlst, egal ob du bei deinem Vater, deiner Mutter oder deinen Stiefgeschwistern bist. ***Auch nicht einfach, oder?**> Es geht nicht um das, was wir tun oder wie viel wir tun. Sondern darum, wie viel Liebe wir in das tun legen.”
 Mutter teresa* ***##  Wie kannst du dem Kind helfen?

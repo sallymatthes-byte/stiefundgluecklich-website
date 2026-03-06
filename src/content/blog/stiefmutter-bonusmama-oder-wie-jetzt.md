@@ -11,7 +11,7 @@ image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Stiefmutter, Bonusmama – Oder Wie Jetzt?"
 ---
 
-Immer mehr Familien in Deutschland leben in Patchworkfamilien. Teilweise wird diese Form der Familie in Medien auch als **die**  Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
+Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die**  Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
 Und wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video:](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
 
 ## Die Entstehung des Begriffs
@@ -22,7 +22,7 @@ In dieser Zeit war auch der Tod eines Elternteils nicht selten: Väter starben i
 
 Und dann war es üblich, neu zu heiraten und den verstorbenen Elternteil zu ersetzen. Zumindest passierte das oft, wenn die Männer sich andere Frauen suchten – Verwitwete Frauen Hingegen Blieben oft mit der Kinderschar allein. Doch das ist ein ganz Anderes Thema.
 
-Früher war also klar: Kinder einer Familie hatten einen Vater und eine Mutter. Starb ein Elternteil, heiratete der andere in der Regel schnell wieder, um die Kinder versorgt zu wissen. So entstand der Begriff “Stiefmutter” oder “Stiefvater” – er Bezog sich auf die Lücke, die Durch den Tod des Leiblichen Elternteils Entstanden war.
+Früher war also klar: Kinder einer Familie hatten einen Vater und eine Mutter. Starb ein Elternteil, heiratete der andere in der Regel schnell wieder, um die Kinder versorgt zu wissen. So entstand der Begriff “[Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/)” oder “Stiefvater” – er Bezog sich auf die Lücke, die Durch den Tod des Leiblichen Elternteils Entstanden war.
 
 Das Wort “Stief” stammt aus dem Germanischen und bedeutet so viel wie “beraubt”. Und daraus resultierte diese negative Besetzung: Die Kinder wurden einem Elternteil beraubt und bekamen einen neuen dazu. Der Stiefelternteil war dann Ersatz und das führte oft zu Konflikten und schlussendlich zum Bild der “bösen Stiefmutter”, welches durch Märchen und andere Geschichten noch verstärkt wurde.
 
@@ -64,4 +64,4 @@ Immer mehr Kinder wachsen heutzutage in Patchworkfamilien auf.
 Doch welche Rolle nimmt man als Stiefmutter ein? Der Begriff “Stiefmutter” ist historisch negativ behaftet. Heute gibt es alternative Bezeichnungen wie “Bonusmutter”. Persönlich finde ich diese aber auch nicht optimal.
 
 Am liebsten bin ich einfach Sally – ich selbst. Für die Kinder meines Partners möchte ich eine Erwachsene Bezugsperson sein, An der Sie sich Orientieren können. Wie wir das Rollenverhältnis Nennen, ist Zweitrangig.
-Wichtig sind Offenheit und klare Absprachen. Jeder muss seinen Platz in der Patchworkfamilie finden. Geduld und Liebe zum Kind sind der Schlüssel zu einer gelingenden Beziehung. Welchen Begriff findest du angemessen? Lass uns gern darüber in den Austausch gehen, ich freue mich darauf!
+Wichtig sind Offenheit und klare Absprachen. Jeder muss seinen Platz in der Patchworkfamilie finden. Geduld und Liebe zum Kind sind der Schlüssel zu einer gelingenden [Beziehung](/blog/zwischen-partnerschaft-und-bonusmama/). Welchen Begriff findest du angemessen? Lass uns gern darüber in den Austausch gehen, ich freue mich darauf!

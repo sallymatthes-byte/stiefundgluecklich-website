@@ -51,7 +51,7 @@ Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine R
 - Welche Glaubenssätze oder Überzeugungen stecken hinter meinen Reaktionen?
 - Wie könnte ich in Zukunft gelassener und liebevoller mit ähnlichen Herausforderungen umgehen?
 
-*Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – Sei es ein Entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir Aufsteigen Spürst, Probiere **techniken zur Selbstberuhigung** aus, wie zum Beispiel Tiefe Bauchatmung oder Progressive Muskelentspannung.
+*Selbstfürsorge* spielt eine ebenso wichtige [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – Sei es ein Entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir Aufsteigen Spürst, Probiere **techniken zur Selbstberuhigung** aus, wie zum Beispiel Tiefe Bauchatmung oder Progressive Muskelentspannung.
 
 Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* erfordert. Sei sanft und nachsichtig mit dir selbst, auch wenn du manchmal in alte Muster zurückfällst. Jeder Moment der Achtsamkeit und Selbstreflexion trägt zu deinem Wachstum bei und bringt dich näher zu deinem wahren, friedvollen selbst. Vertraue darauf, dass du mit jedem Tag mehr innere Klarheit und Stärke gewinnst.
 
@@ -60,7 +60,7 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) prägt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -68,7 +68,7 @@ Erinnere dich daran, dass Heilung ein fortlaufender Prozess ist und *Geduld* e
 
 Auch wenn es manchmal schmerzhaft sein kann, von den eigenen Bonuskindern getriggert zu werden, liegt darin auch eine immense Chance für persönliches Wachstum und Transformation. Unsere Bonuskinder sind wie weise Lehrer, die uns immer wieder an unsere Grenzen bringen und uns dadurch helfen, über uns hinauszuwachsen. Jede Herausforderung birgt die Möglichkeit, *Geduld*, *Empathie* und *bedingungslose Liebe* zu entwickeln – Qualitäten, die nicht nur unseren Bonuskindern zugutekommen, sondern auch uns selbst bereichern.
 
-Wenn wir lernen, mit Achtsamkeit und Mitgefühl auf unsere Triggerpunkte zu reagieren, anstatt impulsiv zu handeln, stärken wir unsere **emotionale Intelligenz**  und Resilienz. Wir lernen, in Konfliktsituationen ruhig und gelassen zu bleiben, klar zu kommunizieren und Verständnis für die Perspektive unseres Bonuskindes zu entwickeln. Diese Fähigkeiten sind nicht nur in der Patchworkfamilie von unschätzbarem Wert, sondern in allen Bereichen unseres Lebens.
+Wenn wir lernen, mit Achtsamkeit und Mitgefühl auf unsere Triggerpunkte zu reagieren, anstatt impulsiv zu handeln, stärken wir unsere **emotionale Intelligenz**  und Resilienz. Wir lernen, in Konfliktsituationen ruhig und gelassen zu bleiben, klar zu kommunizieren und Verständnis für die Perspektive unseres Bonuskindes zu entwickeln. Diese Fähigkeiten sind nicht nur in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) von unschätzbarem Wert, sondern in allen Bereichen unseres Lebens.
 
 Die Auseinandersetzung mit unseren Triggerpunkten eröffnet uns zudem die Möglichkeit, *alte Wunden zu heilen* und dysfunktionale Beziehungsmuster aufzulösen. Indem wir uns unseren eigenen Verletzungen stellen und sie mit Liebe und Verständnis transformieren, können wir **neue, gesündere Arten des Miteinanders**  etablieren – sowohl mit unseren Bonuskindern als auch mit unserem Partner und Anderen Menschen in unserem leben.
 

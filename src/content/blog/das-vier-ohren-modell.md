@@ -12,9 +12,9 @@ imageAlt: "Das 4-Ohren-Modell"
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon Entfacht ein Streit. Plötzlich Wirfst du deinem Partner vor, nicht genug Im Haushalt zu helfen oder dich zu Vernachlässigen. Dabei Wolltest du eigentlich nur eine Harmlose Bemerkung machen, doch Irgendwie ist alles aus dem Ruder Gelaufen.
 
-In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer Kommunikation.** Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
+In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer [Kommunikation](/blog/aktives-zuhoeren-in-der-patchworkfamilie/).** Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
 
-Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine Sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure Partnerschaft zu stärken und Harmonie in eure Kommunikation zu bringen.
+Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine Sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure [Partnerschaft](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) zu stärken und Harmonie in eure Kommunikation zu bringen.
 
 🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) an.
 
@@ -45,7 +45,7 @@ Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen.
 
 ## Aneinander vorbeireden – Wenn unterschiedliche Ebenen aufeinanderprallen
 
-Die Umsetzung des 4-Ohren-Modells in unseren Alltag brachte einige Herausforderungen mit sich. Oft ertappte ich mich dabei, wie ich aus Gewohnheit auf die Appell-Ebene hörte und mich angegriffen fühlte, obwohl mein Partner eigentlich nur Informationen weitergeben wollte.
+Die Umsetzung des 4-Ohren-Modells in unseren Alltag brachte einige [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) mit sich. Oft ertappte ich mich dabei, wie ich aus Gewohnheit auf die Appell-Ebene hörte und mich angegriffen fühlte, obwohl mein Partner eigentlich nur Informationen weitergeben wollte.
 
 Ein Beispiel: mein Partner sagte: “der Müll ist voll.” Für ihn war das eine sachliche Feststellung, doch ich hörte den Vorwurf heraus: “Du hast vergessen, den Müll rauszubringen.” Schnell entwickelte sich ein Streit darüber, wer wofür verantwortlich sei und warum der andere sich nicht genug einbringe.
 

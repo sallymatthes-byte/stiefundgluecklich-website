@@ -15,7 +15,7 @@ Als Teil einer Patchworkfamilie kenne ich die *Stolpersteine* nur allzu gut. Mei
 
 Das Patchworkleben ist wie ein komplexes Puzzlespiel, bei dem wir verschiedene Teile aus unterschiedlichen Familien zusammenfügen, um ein harmonisches Bild zu erschaffen. Doch dieses Bild zu gestalten erfordert Geduld, Einfühlungsvermögen und die Bereitschaft, gemeinsam an Lösungen zu arbeiten. Und das ist manchmal einfach verdammt schwer. **In unserer Patchworkfamilie begegnen wir immer wieder neuen Herausforderungen.** Unterschiedliche Erziehungsmethoden und Wertvorstellungen können zu Missverständnissen führen und die Kommunikation gestaltet sich manchmal schwierig. Doch auch die räumliche Distanz zu den Mädchen stellt uns vor Stolpersteine: sind wir präsent genug? Verpassen wir zu viel? Oder sollten wir nicht mehr tun?
 
-In diesem Artikel möchte ich mit dir über die*Herausforderungen* einer Patchworkfamilie sprechen. Ich möchte dir*Tipps *geben, wie du ein harmonisches Patchworkleben gestalten kannst und wie du die Situation für dich selbst verbessern kannst. Denn letztendlich geht es darum, eine liebevolle und unterstützende Familie zu schaffen, in der sich alle Mitglieder wohlfühlen und gemeinsam wachsen können. Auch du als Stiefmutter (oder für mich der passendere Begriff Bonusmama).
+In diesem Artikel möchte ich mit dir über die*Herausforderungen* einer Patchworkfamilie sprechen. Ich möchte dir*Tipps *geben, wie du ein harmonisches Patchworkleben gestalten kannst und wie du die Situation für dich selbst verbessern kannst. Denn letztendlich geht es darum, eine liebevolle und unterstützende Familie zu schaffen, in der sich alle Mitglieder wohlfühlen und gemeinsam wachsen können. Auch du als [Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/) (oder für mich der passendere Begriff [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)).
 
 Und wenn du dir lieber das Video zu den Herausforderungen als Bonusmama anschauen möchtest, dann klick einfach auf das Video.
 
@@ -26,7 +26,7 @@ Jeder Alltag hat eine andere Dynamik. Wenn verschiedene Familien zu einer Einhei
 Die Kinder müssen sich jedes mal an eine neue Dynamik anpassen: andere Essenszeiten, andere Regeln, bei uns sogar eine andere Sprache. Dass dies allein für die Kinder eine enorme Anpassungsfähigkeit erfordert, ist mir als Pädagogin besonders klar und zeigt einfach, wie komplex dieses Thema ist.
 Wir als Erwachsene versuchen währenddessen unseren Job mit den Kindern in Einklang zu bringen und müssen uns jedes mal wieder auf das leben mit Kindern einstellen – weniger [paarzeit](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/), der Fokus Verschiebt sich.
 
-Wir dürfen dabei lernen, unsere*Rollen als Eltern und Bonuseltern (neu) zu definieren* und miteinander zu kooperieren.
+Wir dürfen dabei lernen, unsere*[Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)n als Eltern und Bonuseltern (neu) zu definieren* und miteinander zu kooperieren.
 Es ist ein Prozess des Anpassens, des Lernens und des Wachsens.
 
 Wir sind nun seit über 4 Jahren in dieser Konstellation und gelöst ist dieser Prozess für mich noch nicht vollständig.

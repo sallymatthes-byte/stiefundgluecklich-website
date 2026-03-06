@@ -11,7 +11,7 @@ image: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 imageAlt: "Ein offener Liebesbrief einer Bonusmama"
 ---
 
-Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als Bonusmama die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
+Wir feiern dieses Jahr unser 5jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
 
 ## Lieber Stéphane,
 
@@ -21,7 +21,7 @@ Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich ve
 
 Von Beginn an erzähltest du mir von deinem kleinen Team, deinen beiden Mädchen, die du über alles liebst. Als ausgebildete Pädagogin dachte ich, dass es kein Problem sein sollte, doch schnell merkte ich, dass es anders war als die Arbeit mit Kindern. Weißt du noch, wie ich versuchte, den Mädchen ein leckeres deutsches Essen zu kochen, aber sie es kaum anrührten? Oder wie ich beim ersten gemeinsamen Wochenende völlig überfordert war mit den Streitereien und dem Wechselbad der Gefühle?
 
-Wir sprachen nicht dieselbe Sprache und Eifersucht war auf beiden Seiten vorhanden. Ich wollte dich als frisch Verliebte nicht teilen, die Kinder ihren Papa, den sie mittlerweile so selten sahen, auch nicht. Ich erinnere mich noch genau an die Situation, als deine Jüngste immer sofort zwischen uns sprang, wenn wir uns küssten. Ich war wütend und wusste nicht, wie ich damit umgehen sollte, nicht die Nummer eins zu sein.
+Wir sprachen nicht dieselbe Sprache und [Eifersucht](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) war auf beiden Seiten vorhanden. Ich wollte dich als frisch Verliebte nicht teilen, die Kinder ihren Papa, den sie mittlerweile so selten sahen, auch nicht. Ich erinnere mich noch genau an die Situation, als deine Jüngste immer sofort zwischen uns sprang, wenn wir uns küssten. Ich war wütend und wusste nicht, wie ich damit umgehen sollte, nicht die Nummer eins zu sein.
 
 
 ![Ein offener Liebesbrief einer Bonusmama — Stimmungsbild 1](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
@@ -32,7 +32,7 @@ Kommentare wie “Die Kinder sind doch so süß, wie kann es denn anstrengend se
 
 Die ersten Jahre waren geprägt von viel Frust, Zweifeln und Tränen. Nicht nur einmal fragten wir uns: “Ist es das wirklich alles wert?”
 
-Doch mit der Zeit lernte ich, dass ich für mich selbst sorgen muss, damit es auch unserer Bonusfamilie gut geht. Ich nahm mir Auszeiten, um aufzutanken und zu reflektieren. Ich hinterfragte meine Erwartungen und erkannte, dass ich nicht perfekt sein muss. Ich führte unzählige Gespräche mit dir, um unsere Wünsche, Ängste und Hoffnungen zu teilen. Gemeinsam erschufen wir den Rahmen für unser harmonisches Patchworkfamilienleben.
+Doch mit der Zeit lernte ich, dass ich für mich selbst sorgen muss, damit es auch unserer Bonusfamilie gut geht. Ich nahm mir Auszeiten, um aufzutanken und zu reflektieren. Ich hinterfragte meine Erwartungen und erkannte, dass ich nicht perfekt sein muss. Ich führte unzählige Gespräche mit dir, um unsere Wünsche, Ängste und Hoffnungen zu teilen. Gemeinsam erschufen wir den Rahmen für unser harmonisches [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)nleben.
 
 Weißt du noch, wie wir anfingen, eigene Rituale mit den Mädchen zu entwickeln? Unsere Spieleabende, die Ausflüge in die Natur, das gemeinsame Kochen? Schritt für Schritt fanden wir unseren Weg als Bonusfamilie.
 

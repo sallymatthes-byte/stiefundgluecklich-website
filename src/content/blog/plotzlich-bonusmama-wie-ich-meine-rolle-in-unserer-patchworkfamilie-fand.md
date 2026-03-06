@@ -15,11 +15,11 @@ Es begann wie ein modernes Märchen: Ich lernte meinen Partner beim Tauchen in T
 
 Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen beiden Töchtern gegenüber. Plötzlich war ich Bonusmama – ein Wort, das so leicht klingt und doch eine völlig neue Welt bedeutete. Die sprachliche Barriere war dabei noch die kleinste Herausforderung. Viel schwieriger waren die Fragen, die sich in meinem Kopf überschlugen: Wer war ich für diese Kinder? Welche Rolle sollte ich einnehmen? Wie nah durfte ich ihnen kommen?
 
-## Die ersten Schritte in der Rolle als Bonusmama
+## Die ersten Schritte in der [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/)
 
 Als Erziehungswissenschaftlerin und langjährige Kita-Mitarbeiterin dachte ich, ich wäre gut vorbereitet. Doch nichts in meiner Ausbildung hatte mich auf diese emotionale Achterbahn vorbereitet. Zum ersten Mal sah ich meinen Partner in seiner Rolle als Papa – liebevoll, fürsorglich und manchmal auch nachgiebig. Ich musste lernen, ihn zu "teilen", nicht nur mit seinen Kindern, sondern auch mit einer Vergangenheit, zu der ich keinen Zugang hatte.
 
-Die Realität als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde. *Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer Patchworkfamilie lag ein Ozean, den ich erst noch überbrücken musste.*
+Die Realität als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde. *Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) lag ein Ozean, den ich erst noch überbrücken musste.*
 
 ## Die verborgenen Herausforderungen in der Rolle als Bonusmama
 
@@ -49,7 +49,7 @@ Heute weiß ich: Der Weg zur selbstbewussten Bonusmama führt über drei entsche
 
 Der erste und wichtigste Schritt ist, echte **Klarheit** zu gewinnen – nicht nur über deine Position in der Familie, sondern vor allem über dich selbst. Was bedeutet diese Rolle für dich persönlich? Welche deiner eigenen Geschichten und Erfahrungen beeinflussen dein Handeln als Bonusmama? Erst wenn du verstehst, warum bestimmte Situationen dich triggern oder verunsichern, kannst du beginnen, neue Wege zu gehen.
 
-Aus dieser Klarheit heraus kann sich der zweite Schritt entfalten: ein tiefgreifender innerer **Wandel**. Es geht darum, alte Glaubenssätze wie "Ich muss es allen recht machen" oder "Als Bonusmama habe ich kein Recht mitzureden" zu erkennen und zu transformieren. Dieser Wandel ist wie das Umtopfen einer Pflanze – zunächst mag es sich unwohl und eng anfühlen, doch nur so bekommst du den Raum, den du brauchst, um in deine Rolle hineinzuwachsen.
+Aus dieser Klarheit heraus kann sich der zweite Schritt entfalten: ein tiefgreifender innerer **Wandel**. Es geht darum, alte [Glaubenssätze](/blog/glaubenssaetze-als-bonusmama/) wie "Ich muss es allen recht machen" oder "Als Bonusmama habe ich kein Recht mitzureden" zu erkennen und zu transformieren. Dieser Wandel ist wie das Umtopfen einer Pflanze – zunächst mag es sich unwohl und eng anfühlen, doch nur so bekommst du den Raum, den du brauchst, um in deine Rolle hineinzuwachsen.
 
 Der dritte Schritt ist die Entwicklung einer neuen Art der **Kommunikation** – eine, die von innen nach außen wirkt. Wenn du klar mit dir selbst bist und deine Rolle annimmst, verändert sich auch die Art, wie du mit deinem Partner und den Kindern kommunizierst. *Nicht mehr aus Unsicherheit oder dem Bedürfnis nach Anerkennung heraus, sondern aus einer Position der Stärke und des Verständnisses.* Diese neue Form des Austauschs schafft eine Basis für echte Bindungen und gegenseitigen Respekt in der Patchworkfamilie.
 

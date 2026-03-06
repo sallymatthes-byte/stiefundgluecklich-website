@@ -11,7 +11,7 @@ image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"
 ---
 
-Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer Patchworkfamilie. Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
+Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier, das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.**
 🎙 Wie ich damit umging, erfährst du auch in der passenden [Podcastfolge auf Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ).
@@ -28,7 +28,7 @@ Besonders schmerzhaft waren die kleinen, alltäglichen Situationen: Wenn sie in 
 
 Als ich meinen Partner kennenlernte, hatte ich eine so naive, romantische Vorstellung von unserer Zukunft als Patchworkfamilie. Die Liebe würde alle Hindernisse überwinden, davon war ich überzeugt. Doch die Realität holte mich schneller ein, als mir lieb war. Die Eifersucht auf meine Stiefkinder wurde zu meinem ständigen Schatten, einem ungebetenen Begleiter, der mich auf Schritt und Tritt verfolgte.
 
-Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine Rolle zu finden. *Ich wollte weder als Ersatzmutter auftreten noch das Kind als Konkurrenz sehen, aber genau in diese Richtung entwickelten sich meine Gedanken.* Kleine Alltagssituationen reichten aus, um meine Unsicherheit zu befeuern:
+Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) zu finden. *Ich wollte weder als Ersatzmutter auftreten noch das Kind als Konkurrenz sehen, aber genau in diese Richtung entwickelten sich meine Gedanken.* Kleine Alltagssituationen reichten aus, um meine Unsicherheit zu befeuern:
 
 - Insider-Witze zwischen Partner und Kind
 - gemeinsame Erinnerungen, von denen ich nichts wusste
@@ -64,7 +64,7 @@ In diesem unscheinbaren Moment verstand ich etwas Grundlegendes: ***Diese Fähig
 
 Es war der Moment, in dem ich aufhörte zu kämpfen – gegen die Liebe zwischen Vater und Kind, gegen meine eigenen Gefühle, gegen die Realität unserer Patchworkfamilie. Dieser neue Blickwinkel öffnete mir die Augen dafür, dass es in der Liebe nicht um Konkurrenz ging, nicht um ein "entweder-oder", sondern um ein "sowohl-als-auch".
 
-## Die Bonusmama-Formel: Mein Weg aus der Eifersucht auf das Stiefkind
+## Die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)-Formel: Mein Weg aus der Eifersucht auf das Stiefkind
 
 Nach vielen Versuchen und Rückschlägen entdeckte ich schließlich einen Weg, der mir half, die Eifersucht zu überwinden. Es war ein Prozess in drei aufeinander aufbauenden Schritten, die ich heute die "Bonusmama-Formel" nenne.
 
