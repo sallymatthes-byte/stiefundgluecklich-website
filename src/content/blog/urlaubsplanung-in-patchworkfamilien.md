@@ -30,9 +30,9 @@ Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse
 
 Gemeinsame Aktivitäten im Urlaub sind eine wunderbare Gelegenheit, um als Patchworkfamilie zusammenzuwachsen und unvergessliche Erinnerungen zu schaffen.
 Wie wäre es mit einem **Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
-Oder ihr erkundet bei einer **Wanderung**die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im Freien.
-Auch ein Tag am **Strand**bietet viele Möglichkeiten: Ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
-Am Abend vielleicht ein **Gesellschaftsspiel**oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
+Oder ihr erkundet bei einer** Wanderung** die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im Freien.
+Auch ein Tag am** Strand** bietet viele Möglichkeiten: Ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
+Am Abend vielleicht ein** Gesellschaftsspiel** oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
 
 Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspannt – Hauptsache, ihr verbringt qualitativ hochwertige Zeit miteinander und jeder kann sich einbringen. So lernt ihr euch besser kennen, entwickelt Verständnis füreinander und schafft ein Gefühl von Zusammengehörigkeit. Und wer weiß, vielleicht entdeckt ihr dabei sogar neue Hobbys oder Leidenschaften, die euch auch nach dem Urlaub verbinden.
 
@@ -43,7 +43,7 @@ Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspann
 
 Auch im schönsten Familienurlaub kann es Momente geben, in denen dir alles zu viel wird. Vielleicht hast du das Gefühl, ständig für alle da sein zu müssen oder kommst selbst nicht zur Ruhe. Hier sind drei kreative Tipps, die dir helfen können, wieder zu dir zu finden:
 
-1**. Gönn dir eine “Ich-Stunde” am Tag. **Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – Meditiere, Lies ein Paar Seiten in deinem Lieblingsbuch oder Mach einen Spaziergang Am Strand. Du Musst nicht immer für alle Verfügbar sein.**2. Verwandle einen Gegenstand in dein Persönliches “auszeit-symbol”. **das Kann ein Besonderer Stein, eine Muschel oder ein Armband sein. Immer, wenn du diesen Gegenstand bei dir Trägst oder in der Hand Hältst, ist das Ein Zeichen für dich und deine Familie, dass du gerade eine Kleine Pause Brauchst.**3. Entwickle einen “notfall-plan” mit deinem Partner. ** Überlegt Gemeinsam, wie ihr Euch Gegenseitig Entlasten Könnt, wenn einem Von euch die Decke auf den Kopf Fällt. Vielleicht Übernimmt dann der Andere für ein Paar Stunden die Kinder oder ihr Wechselt euch mit “auszeittagen” Ab.
+1**. Gönn dir eine “Ich-Stunde” am Tag.** Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – Meditiere, Lies ein Paar Seiten in deinem Lieblingsbuch oder Mach einen Spaziergang Am Strand. Du Musst nicht immer für alle Verfügbar sein.**2. Verwandle einen Gegenstand in dein Persönliches “auszeit-symbol”.**  das Kann ein Besonderer Stein, eine Muschel oder ein Armband sein. Immer, wenn du diesen Gegenstand bei dir Trägst oder in der Hand Hältst, ist das Ein Zeichen für dich und deine Familie, dass du gerade eine Kleine Pause Brauchst.**3. Entwickle einen “notfall-plan” mit deinem Partner.**  Überlegt Gemeinsam, wie ihr Euch Gegenseitig Entlasten Könnt, wenn einem Von euch die Decke auf den Kopf Fällt. Vielleicht Übernimmt dann der Andere für ein Paar Stunden die Kinder oder ihr Wechselt euch mit “auszeittagen” Ab.
 
 Denk daran: Nur wenn du auch gut für dich selbst sorgst, kannst du entspannt für deine Familie da sein. Gönne dir Momente der Ruhe und mach dir bewusst, dass du diese Auszeiten verdient hast. Sie helfen dir, den Urlaub zu genießen und mit neuer Energie für deine Lieben da zu sein.
 

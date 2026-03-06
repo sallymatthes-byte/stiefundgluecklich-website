@@ -45,11 +45,11 @@ Besonders schmerzhaft war die Erkenntnis, dass wir beide die Situation zwar spü
 
 Es war ein regnerischer Sonntagmorgen, als ich aufwachte und diese erdrückende Sehnsucht nach Nähe nicht mehr ignorieren konnte. Die Kinder schauten ihre Lieblingsserie, mein Partner war in der Küche beschäftigt, und ich lag im Bett, gefangen in diesem Gefühl der Einsamkeit inmitten unserer Familie. In diesem Moment wurde mir klar: Die Zeit als Paar in unserer Patchworkfamilie würde sich nicht von alleine finden. Wir mussten aktiv etwas verändern.
 
-Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche **Klarheit** zu gewinnen – nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was Genau Vermisste ich? Waren es Wirklich die Großen, Romantischen Gesten, oder Sehnte ich mich Einfach nach diesen Kleinen, Intimen Momenten der Verbundenheit?
+Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche** Klarheit** zu gewinnen – nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was Genau Vermisste ich? Waren es Wirklich die Großen, Romantischen Gesten, oder Sehnte ich mich Einfach nach diesen Kleinen, Intimen Momenten der Verbundenheit?
 
 Der weg zurück zur zweisamkeit
 
-Mit dieser neuen Klarheit begann ein innerer **Wandel** in meinem Denken. Ich erkannte, dass ich aufhören musste, die perfekte Bonusmama sein zu wollen, die ihre eigenen Bedürfnisse ständig hintenanstellte. *Die Zeit als Paar in der Patchworkfamilie war kein Luxus, sondern die Grundlage für ein gesundes Familienleben.* Diese Erkenntnis veränderte alles.
+Mit dieser neuen Klarheit begann ein innerer** Wandel** in meinem Denken. Ich erkannte, dass ich aufhören musste, die perfekte Bonusmama sein zu wollen, die ihre eigenen Bedürfnisse ständig hintenanstellte. *Die Zeit als Paar in der Patchworkfamilie war kein Luxus, sondern die Grundlage für ein gesundes Familienleben.* Diese Erkenntnis veränderte alles.
 
 Der entscheidende Durchbruch kam mit einer neuen Art der **Kommunikation**. An einem Abend, als die Kinder schliefen, öffnete ich meinem Partner mein Herz. Nicht mit Vorwürfen oder Forderungen, sondern mit ehrlichen Worten über meine Sehnsucht nach mehr Nähe und Verbindung. Seine Reaktion überraschte mich: Er fühlte genau dasselbe, hatte aber Schuldgefühle, Zeit zu zweit einzufordern, wenn die Kinder da waren.
 

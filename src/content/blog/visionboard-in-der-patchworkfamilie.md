@@ -66,7 +66,7 @@ Indem ihr euch diese Fragen stellt und eure Antworten auf eurem Visionboard fest
 
 Denkt daran, dass ein Visionboard nicht statisch ist. Es kann sich im Laufe der Zeit verändern und entwickeln, ebenso wie eure Beziehung und eure Patchworkfamilie. Nehmt euch daher regelmäßig Zeit, um euer Visionboard zu überprüfen und anzupassen.
 
-> „Zusammenfassung"
+## Zusammenfassung
 Durch das Erstellen eines Visionboards können Ziele und Träume visualisiert und in den Alltag integriert werden. Konkrete Fragen helfen bei der Gestaltung des Visionboards. Ein Visionboard ist nicht statisch und darf regelmäßig überprüft und angepasst werden.
 Das Erstellen eines Visionboards für die Beziehung und Patchworkfamilie ist ein kraftvoller Schritt, um die gemeinsame Vision zu manifestieren und Hindernisse zu überwinden. Das Visionboard dient somit als Begleiter auf dem Weg zu einer harmonischen und liebevollen Beziehung und Patchworkfamilie.
 

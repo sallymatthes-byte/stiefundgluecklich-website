@@ -19,7 +19,7 @@ Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besond
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
-In solchen Momenten überkamen mich Gedanken, für die ich mich gleichzeitig schämte: **“Das Kind nimmt mir meinen Partner weg”**oder**“Ich werde nie einen so wichtigen Platz in seinem Leben einnehmen”**. Diese Gedanken schlichen sich ein wie ungebetene Gäste, machten sich in meinem Kopf breit und vergifteten langsam aber sicher die Atmosphäre in unserer Familie.
+In solchen Momenten überkamen mich Gedanken, für die ich mich gleichzeitig schämte:** “Das Kind nimmt mir meinen Partner weg”** oder**“Ich werde nie einen so wichtigen Platz in seinem Leben einnehmen”**. Diese Gedanken schlichen sich ein wie ungebetene Gäste, machten sich in meinem Kopf breit und vergifteten langsam aber sicher die Atmosphäre in unserer Familie.
 
 Besonders schmerzhaft waren die kleinen, alltäglichen Situationen: Wenn sie in Erinnerungen schwelgten an Zeiten, die vor mir lagen. Wenn mein Partner alles stehen und liegen ließ, sobald sein Kind ihn brauchte. Wenn ich spürte, wie diese bedingungslose Liebe zwischen ihnen floss – eine Liebe, die Ich Niemals in Frage Stellen wollte und die Mich doch so Unsagbar Eifersüchtig machte.
 
@@ -50,7 +50,7 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 ## Die unsichtbaren Mauern der Eifersucht
 
-Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut. **Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
+Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** Meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern**, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – Aus Angst, als Eifersüchtige, Kleinliche Person Dazustehen, die Seinem Kind die Vaterliebe nicht Gönnte.
 
@@ -80,7 +80,7 @@ Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging.
 
 ### 2. Inneren Wandel einleiten
 
-Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten. **Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln.** Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
+Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten.** Es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln.** Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen Wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
 
 ### 3. Verbindende Kommunikation aufbauen
 

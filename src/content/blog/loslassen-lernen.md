@@ -20,7 +20,7 @@ Oft tragen wir unbewusst Ideale und Sehnsüchte in uns, die tief in unserer Herk
 
 Vielleicht bist du in einer traditionellen Kernfamilie aufgewachsen, in der Mutter, Vater und Kind unter einem Dach lebten. Dieses Modell wurde dir als *Inbegriff von Familie* vorgelebt und du hast verinnerlicht, dass es so sein sollte. Oder du hast selbst erlebt, wie schmerzlich eine Trennung sein kann und sehnst dich nun nach Harmonie und Beständigkeit.
 
-Auch die Gesellschaft prägt unsere [Vorstellungen](/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann/) von Familie. In Filmen, Werbung und Sozialen Medien wird oft das Bild der “perfekten” Familie gezeichnet: **glücklich, konfliktfrei und immer füreinander da **. Als (Bonus-)Mutter sollen wir liebevoll, geduldig und aufopfernd sein – Erwartungen, die schwer zu erfüllen sind.
+Auch die Gesellschaft prägt unsere [Vorstellungen](/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann/) von Familie. In Filmen, Werbung und Sozialen Medien wird oft das Bild der “perfekten” Familie gezeichnet: **glücklich, konfliktfrei und immer füreinander da** . Als (Bonus-)Mutter sollen wir liebevoll, geduldig und aufopfernd sein – Erwartungen, die schwer zu erfüllen sind.
 
 Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem Kind ein stabiles und harmonisches Zuhause zu bieten, in dem es sicher und geliebt aufwächst. Der Traum, als (Bonus-)Mama all das zu geben und zu sein, was wir uns erhoffen.
 
@@ -32,7 +32,7 @@ Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem K
 
 In einer Patchworkfamilie kommen *unterschiedliche Erfahrungen, [Erwartungen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und Emotionen* zusammen. Da sind die Kinder, die den Verlust einer vertrauten Familiensituation verarbeiten und sich an neue Bezugspersonen gewöhnen müssen. Da sind [Ex-Partner_innen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/), die weiterhin als Eltern präsent sind und mit denen es gilt, eine respektvolle Ebene zu finden. Und da bist du als Bonusmama, die ihren Platz in diesem komplexen Gefüge finden muss.
 
-Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die “perfekte” Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens. **Flexibilität und Anpassungsfähigkeit**sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
+Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die “perfekte” Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens. **Flexibilität und Anpassungsfähigkeit** sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
 
 Das bedeutet auch, dass du deine *Erwartungen an dich selbst als Bonusmama* hinterfragen und anpassen darfst. Du musst nicht die perfekte Mutterrolle sein, um deinen Platz in der Familie zu finden. Erlaube dir, deine eigene Rolle zu definieren und auszufüllen, fernab von gesellschaftlichen Idealen.
 
@@ -48,9 +48,9 @@ In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Um
 
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
 
-- **Grenzen setzen:** Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
+-** Grenzen setzen:** Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
 
-- **Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+-** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
@@ -62,9 +62,9 @@ auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inn
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 
-Pflege auch die **Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
+Pflege auch die** Dankbarkeit für das Gute in deinem Leben**, gerade im Jetzt. Inmitten der Herausforderungen gibt es so viel Schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem Einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
 
-Nicht zuletzt geht es darum, **Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
+Nicht zuletzt geht es darum,** Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so viel gemeistert und bist stärker, als du ahnst. Vertraue darauf, dass du die Weisheit und die Fähigkeiten hast, deine Patchworkfamilie liebevoll zu gestalten und zu führen. Auch wenn der Weg mal steinig ist, führt er dich letztlich zu mehr Wachstum und Erfüllung.
 
 Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 

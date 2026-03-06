@@ -32,7 +32,7 @@ Oftmals basieren diese Konflikte auf Ängsten und Unsicherheiten, die in der neu
 
 Die Bonusmama könnte sich unsicher fühlen, wie sie sich in das bestehende Familiengefüge einfügen soll, ohne Grenzen zu überschreiten.
 
-Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusmama und der leiblichen Mutter, sondern können auch **Auswirkungen auf die gesamte Familienstruktur**haben und insbesondere für die Kinder stressig sein.
+Diese Konflikte sind nicht nur belastend für die Beziehung zwischen der Bonusmama und der leiblichen Mutter, sondern können auch **Auswirkungen auf die gesamte Familienstruktur** haben und insbesondere für die Kinder stressig sein.
 Immer wieder höre ich, dass die leibliche Mutter die neue Partnerin des Vaters schlecht redet. Daher ist es wichtig, diese Herausforderungen anzugehen und Wege zu finden, um ein harmonisches Miteinander zu fördern.
 Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer ansehen, um besser zu verstehen, wie sie entstehen und wie sie gelöst werden können.
 
@@ -40,7 +40,7 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 
 ## Ursachen für Konflikte
 
-Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre **Ursachen zu verstehen**.
+Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre** Ursachen zu verstehen**.
 Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus.
 In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese Konflikte sind ungelöst und werden immer wieder neu aufgerollt. Diese Ursachen können vielfältig sein und sind oft tief in den Emotionen und Ängsten der Beteiligten verwurzelt.
 

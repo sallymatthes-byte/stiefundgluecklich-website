@@ -23,7 +23,7 @@ In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und
 
 ## Mir ging es auch so!
 
-Als ich vor einigen Jahren meinen Partner kennenlernte, war ich von Anfang an von seinen Kindern begeistert. Ich wollte Teil dieser Familie sein und sah es als meine Aufgabe an, sie zu unterstützen und für einen reibungslosen Ablauf zu sorgen. **Mit Freude übernahm ich die Organisation von Terminen, Geschenken und allem, was sonst noch anfiel.**
+Als ich vor einigen Jahren meinen Partner kennenlernte, war ich von Anfang an von seinen Kindern begeistert. Ich wollte Teil dieser Familie sein und sah es als meine Aufgabe an, sie zu unterstützen und für einen reibungslosen Ablauf zu sorgen.** Mit Freude übernahm ich die Organisation von Terminen, Geschenken und allem, was sonst noch anfiel.**
 
 Anfangs fühlte ich mich dadurch wertgeschätzt und gebraucht. Es erfüllte mich mit Stolz, dass ich meinem Partner den Rücken freihalten und für die Kinder da sein konnte. Doch mit der Zeit merkte ich, dass ich immer mehr in die Mutterrolle schlüpfte und meine eigenen Bedürfnisse hinten anstellte.
 
@@ -74,7 +74,7 @@ Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
 ## Der Weg zur Balance
 
-Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte. **Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.**
+Um die Balance zwischen meiner Rolle als Bonusmama und meinen eigenen Bedürfnissen zu finden, wurde mir klar, dass ich einen strukturierten Ansatz brauchte.** Ich erkannte, dass ich in drei Schritten vorgehen musste: Analyse, Veränderung und Kommunikation.**
 
 Zunächst nahm ich mir Zeit, meine Situation genau zu analysieren. Dabei fiel mir auf, dass meine Verhaltensmuster mich an einen Punkt in meiner Vergangenheit erinnerten – eine Zeit, in der Ich durch Ähnliches Verhalten einen Burnout Erlitten hatte.* mir wurde Schlagartig Bewusst, dass ich Kurz davor stand, Erneut in diese Erschöpfungsspirale zu Geraten, wenn ich nicht Schnell etwas Änderte.*
 
@@ -98,7 +98,7 @@ Selbst in stressigen Phasen, wenn der Alltag uns voll im Griff hat, gelingt es m
 
 Natürlich ist nicht plötzlich alles perfekt und es gibt immer noch Tage, an denen ich an meine Grenzen stoße. Aber durch die Veränderungen hat sich insgesamt eine neue Balance eingestellt, die sich positiv auf die ganze Familie auswirkt. Wir sind mehr im Fluss, gehen respektvoller miteinander um und haben wieder mehr Freude am gemeinsamen Alltag.
 
-Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt: **Ich fühle mich befreiter und selbstbestimmter.** Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
+Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt:** Ich fühle mich befreiter und selbstbestimmter.** Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
 
 ## Zusammenfassung
 Als Bonusmama in einer Patchworkfamilie ist es eine große Herausforderung, die Balance zwischen der Mutterrolle und der Partnerschaft zu finden. Oft neigen wir dazu, uns vollkommen auf die Bedürfnisse der Kinder zu fokussieren und dabei unsere Rolle als Partnerin zu vernachlässigen.

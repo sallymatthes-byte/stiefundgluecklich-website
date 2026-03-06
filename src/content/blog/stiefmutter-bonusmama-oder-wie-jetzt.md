@@ -11,7 +11,7 @@ image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Titelbild zum Artikel"
 ---
 
-Immer mehr Familien in Deutschland leben in Patchworkfamilien. Teilweise wird diese Form der Familie in Medien auch als **die ** Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
+Immer mehr Familien in Deutschland leben in Patchworkfamilien. Teilweise wird diese Form der Familie in Medien auch als **die**  Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich?
 Und wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video:](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
 
 ## Die Entstehung des Begriffs
@@ -49,9 +49,9 @@ Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elterntei
 
 ## Meine Begriffsklärung
 
-Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer. **Stiefmutter**ist für mich zu negativ besetzt, **Bonusmama**finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
+Wie nenne ich mich nun als Stiefmutter? Ich persönlich tue mich mit der Betitelung meiner Position unglaublich schwer. **Stiefmutter** ist für mich zu negativ besetzt,** Bonusmama** finde ich insofern gut, als es suggeriert, dass es etwas Zusätzliches und nichts Ersetzendes ist.
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.
-Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich “**belle-mere **“, was übersetzt die “schöne Mutter” bedeutet.
+Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich “**belle-mere** “, was übersetzt die “schöne Mutter” bedeutet.
 Klingt wundervoll, allerdings finde ich die leibliche Mutter der Kinder auch schön und ich will weder auf mein Äußeres beschränkt werden, noch eine Mutter sein. Was außer Bonus bin ich denn dann?
 
 Ich bin Sally, die Partnerin von Stéphane, dem Papa der beiden Mädchen. Vor allem bin ich Sally. Das gefällt mir. Ich bin ich, mit all meinen Seiten und Facetten. Eine Person in der Lebensrealität der Kinder, an der sie sich orientieren können, mit der sie Spaß haben können und die vielleicht eine Bezugs- oder Vertrauensperson ist. Alles kann sein, nichts muss.

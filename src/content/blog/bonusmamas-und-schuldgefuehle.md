@@ -22,19 +22,19 @@ Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und wesha
 
 Lass uns zunächst die Situationen betrachten, in denen sich Bonusmamas häufig schuldig fühlen:
 
-- Weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da **: Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
+- Weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da** : Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
 
-- Wenn sie **ihre eigenen Kinder bevorzugen **: Stiefmütter sorgen sich oft, dass sie ihre biologischen Kinder besser behandeln als ihre Stiefkinder.
+- Wenn sie ** ihre eigenen Kinder bevorzugen** : Stiefmütter sorgen sich oft, dass sie ihre biologischen Kinder besser behandeln als ihre Stiefkinder.
 
-- Wenn sie **die Stiefkinder nicht lieben **können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
+- Wenn sie ** die Stiefkinder nicht lieben** können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
 
 - Wenn sie **Zeit für sich brauchen:** Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
 
-- Weil sie **den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
+- Weil sie**  den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
 
-- Wenn sie **mit der leiblichen Mutter in Konflikt **geraten: Stiefmütter möchten oft nicht als Störfaktor in der Beziehung zwischen den Kindern und ihrer leiblichen Mutter gesehen werden.
+- Wenn sie**  mit der leiblichen Mutter in Konflikt **geraten: Stiefmütter möchten oft nicht als Störfaktor in der Beziehung zwischen den Kindern und ihrer leiblichen Mutter gesehen werden.
 
-- Aufgrund **gesellschaftlicher Erwartungen **: Stiefmütter spüren oft den Druck, perfekt zu sein und alles richtig zu machen, was zu Schuldgefühlen führen kann, wenn sie diesen Erwartungen nicht gerecht werden.
+- Aufgrund**  gesellschaftlicher Erwartungen **: Stiefmütter spüren oft den Druck, perfekt zu sein und alles richtig zu machen, was zu Schuldgefühlen führen kann, wenn sie diesen Erwartungen nicht gerecht werden.
 
 Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldgefühlen berichten. Doch wie entsteht eigentlich das Gefühl der Schuld?
 
@@ -46,7 +46,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 Schuldgefühle sind ein häufiger Begleiter für Stiefmütter. Sie entstehen oft aus dem tiefen Wunsch heraus, alles richtig zu machen und niemandem wehzutun. Doch in der komplexen Dynamik einer Patchworkfamilie ist es nahezu unmöglich, immer allen gerecht zu werden. Konflikte zwischen den Bedürfnissen der Stiefkinder, der eigenen Kinder, des Partners und den eigenen Wünschen führen fast zwangsläufig zu Situationen, in denen man sich schuldig fühlt.
 
-Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere **eigenen Werte **verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas Normales und sogar Nützliches.
+Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere**  eigenen Werte **verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas Normales und sogar Nützliches.
 
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
@@ -57,7 +57,7 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 *Zunächst ist es wichtig, sich bewusst zu machen, dass man nicht perfekt sein muss.* Stiefmütter sollten lernen, auch mal Nein zu sagen, sich abzugrenzen und sich Zeit für sich selbst zu nehmen, ohne sich dafür schuldig zu fühlen.
 
-*Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. *** Ein weiterer hilfreicher Schritt ist die Selbstreflexion.* Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
+*Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. **Ein weiterer hilfreicher Schritt ist die Selbstreflexion.** Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
 *Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder [Coaching](/blog/formular/), kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden.
 

@@ -65,7 +65,7 @@ Und was das genau war, erfährst du im nächsten Abschnitt.
 
 Die Wende kam, als ich mich für eine Coachingausbildung entschied. Schon immer interessierte ich mich für persönliche Entwicklung und die Ausbildung eröffnete mir neue Perspektiven. In Seminaren und Workshops lernte ich wirkungsvolle Kommunikationstechniken und Strategien zur Konfliktlösung. Mir wurde klar, dass viele Herausforderungen als Stiefmutter auch in anderen Lebensbereichen auftreten und es Werkzeuge gibt, um damit umzugehen.
 
-Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell für Patchworkfamilien. **Mein Ziel war es, einen leicht verständlichen und umsetzbaren Ansatz zu finden, der dennoch tiefgreifende Veränderungen bewirken konnte.** Das entstandene 3-Schritte-Framework basiert auf folgenden Säulen:
+Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell für Patchworkfamilien.** Mein Ziel war es, einen leicht verständlichen und umsetzbaren Ansatz zu finden, der dennoch tiefgreifende Veränderungen bewirken konnte.** Das entstandene 3-Schritte-Framework basiert auf folgenden Säulen:
 
 - *Analyse:* Der erste Schritt ist eine gründliche Analyse der aktuellen Familiensituation. Dabei geht es darum, die Bedürfnisse, Wünsche und Herausforderungen aller Familienmitglieder zu verstehen und zu berücksichtigen. Eine ehrliche Bestandsaufnahme ist die Grundlage für positive Veränderungen.
 
