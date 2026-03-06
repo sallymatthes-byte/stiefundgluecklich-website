@@ -24,14 +24,14 @@ Lass uns zunächst die Situationen betrachten, in denen sich Bonusmamas häufig 
 
 - weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da**: Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
 - wenn sie ** ihre eigenen Kinder bevorzugen**: Stiefmütter sorgen sich oft, dass sie ihre biologischen Kinder besser behandeln als ihre Stiefkinder.
-- wenn sie ** die Stiefkinder nicht lieben**können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
+- wenn sie ** die Stiefkinder nicht lieben** können: Manche Stiefmütter fühlen sich schuldig, wenn sie nicht die gleichen Gefühle für ihre Stiefkinder entwickeln wie für ihre eigenen Kinder.
 - wenn sie **
 
-Zeit für sich brauchen:**Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
+Zeit für sich brauchen:** Stiefmütter können sich schuldig fühlen, wenn sie Zeit für sich selbst einfordern und nicht ständig für die Familie da sind.
 
-- weil sie**  den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
-- wenn sie**mit der leiblichen Mutter in Konflikt **geraten: Stiefmütter möchten oft nicht als Störfaktor in der Beziehung zwischen den Kindern und ihrer leiblichen Mutter gesehen werden.
-- aufgrund**gesellschaftlicher Erwartungen **: Stiefmütter spüren oft den Druck, perfekt zu sein und alles richtig zu machen, was zu Schuldgefühlen führen kann, wenn sie diesen Erwartungen nicht gerecht werden.
+- weil sie** den Stiefkindern Grenzen setzen **: Sie befürchten, dass die Stiefkinder sie dann nicht mögen oder dass sie als “böse Stiefmutter” wahrgenommen werden.
+- wenn sie** mit der leiblichen Mutter in Konflikt ** geraten: Stiefmütter möchten oft nicht als Störfaktor in der Beziehung zwischen den Kindern und ihrer leiblichen Mutter gesehen werden.
+- aufgrund** gesellschaftlicher Erwartungen **: Stiefmütter spüren oft den Druck, perfekt zu sein und alles richtig zu machen, was zu Schuldgefühlen führen kann, wenn sie diesen Erwartungen nicht gerecht werden.
 
 Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldgefühlen berichten. Doch wie entsteht eigentlich das Gefühl der schuld?
 
@@ -43,7 +43,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 Schuldgefühle sind ein häufiger Begleiter für Stiefmütter. Sie entstehen oft aus dem tiefen Wunsch heraus, alles richtig zu machen und niemandem wehzutun. Doch in der komplexen Dynamik einer Patchworkfamilie ist es nahezu unmöglich, immer allen gerecht zu werden. Konflikte zwischen den Bedürfnissen der Stiefkinder, der eigenen Kinder, des Partners und den eigenen wünschen führen fast zwangsläufig zu Situationen, in denen man sich schuldig fühlt.
 
-Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere**eigenen Werte **verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas normales und sogar nützliches.
+Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere** eigenen Werte ** verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas normales und sogar nützliches.
 
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.

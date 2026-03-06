@@ -37,7 +37,7 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 
 ## Ursachen für Konflikte
 
-Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre **Ursachen zu verstehen**. Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus. In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese Konflikte sind ungelöst und werden immer wieder neu aufgerollt. Diese Ursachen können vielfältig sein und sind oft tief in den Emotionen und Ängsten der Beteiligten verwurzelt.
+Um die Konflikte zwischen Bonusmama und leiblicher Mutter zu lösen, ist es hilfreich, zuerst ihre ** Ursachen zu verstehen**. Oft bestehen diese ja zwischen den beiden leiblichen Elternteilen und weiten sich dann auf die Bonusmama aus. In den meisten Fällen ist die Trennung einfach nicht schön verlaufen und diese Konflikte sind ungelöst und werden immer wieder neu aufgerollt. Diese Ursachen können vielfältig sein und sind oft tief in den Emotionen und Ängsten der Beteiligten verwurzelt.
 
 1.** Unterschiedliche Erziehungsstile:** jeder Mensch hat seine eigene Art, Kinder zu erziehen, und manchmal können diese Stile stark voneinander abweichen. Wenn die Bonusmama und die leibliche Mutter unterschiedliche Ansichten darüber haben, was das Beste für die Kinder ist, kann dies zu Konflikten führen.
 2.** Eifersucht:** die leibliche Mutter kann sich bedroht fühlen, wenn die Kinder eine enge Beziehung zur Bonusmama aufbauen. Sie könnte befürchten, dass sie durch die neue Frau im leben ihrer Kinder ersetzt wird. Ebenso könnte die Bonusmama eifersüchtig auf die bestehende Bindung zwischen den Kindern und ihrer leiblichen Mutter sein.
@@ -76,11 +76,11 @@ Wenn wir die zugrundeliegenden Ursachen für Konflikte zwischen Bonusmama und le
 
 Hier sind einige Tipps, die helfen können:
 
-- **Verbesserung der Kommunikation:** Offene und ehrliche Kommunikation ist der Schlüssel zur Lösung der meisten Konflikte. Sprecht regelmäßig miteinander und versucht euch gegenseitig zu verstehen. Es kann auch hilfreich sein, einen neutralen Dritten einzubeziehen, wie zum Beispiel einen Mediator oder Therapeuten.
-- **Respekt für die Rolle der jeweils anderen:** erkennt die wichtige Rolle an, die sowohl die leibliche Mutter als auch die Bonusmama im leben der Kinder spielen. Jede hat ihre eigene, einzigartige Beziehung zu den Kindern und diese Beziehungen sollten respektiert und geehrt werden.
-- **Suche nach gemeinsamem Boden:** Konzentriert euch auf das, was ihr gemeinsam habt – vor allem die Liebe und Sorge für die Kinder. Es mag Unterschiede in Erziehungsstilen und Ansichten geben, aber am Ende des Tages wollen alle das Beste für die Kinder.
-- **Grenzen setzen:** es ist wichtig, klare Grenzen zu setzen und die Rollen und Verantwortlichkeiten jeder Partei zu definieren. Dies kann helfen, Missverständnisse und Konflikte zu vermeiden.
-- **Unterstützung suchen:** es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und dir helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
+- ** Verbesserung der Kommunikation:** Offene und ehrliche Kommunikation ist der Schlüssel zur Lösung der meisten Konflikte. Sprecht regelmäßig miteinander und versucht euch gegenseitig zu verstehen. Es kann auch hilfreich sein, einen neutralen Dritten einzubeziehen, wie zum Beispiel einen Mediator oder Therapeuten.
+- ** Respekt für die Rolle der jeweils anderen:** erkennt die wichtige Rolle an, die sowohl die leibliche Mutter als auch die Bonusmama im leben der Kinder spielen. Jede hat ihre eigene, einzigartige Beziehung zu den Kindern und diese Beziehungen sollten respektiert und geehrt werden.
+- ** Suche nach gemeinsamem Boden:** Konzentriert euch auf das, was ihr gemeinsam habt – vor allem die Liebe und Sorge für die Kinder. Es mag Unterschiede in Erziehungsstilen und Ansichten geben, aber am Ende des Tages wollen alle das Beste für die Kinder.
+- ** Grenzen setzen:** es ist wichtig, klare Grenzen zu setzen und die Rollen und Verantwortlichkeiten jeder Partei zu definieren. Dies kann helfen, Missverständnisse und Konflikte zu vermeiden.
+- ** Unterstützung suchen:** es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und dir helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
 
 ## Zusammenfassung
 

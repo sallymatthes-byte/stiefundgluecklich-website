@@ -17,7 +17,8 @@ Genauso wenig wie die Aussage etwas “stiefväterlich” zu behandeln. Stiefmü
 Komisch und das, obwohl in [47 % der Patchworkfamilien Stiefväter leben, aber nur 27 % Stiefmütter](https://www.tagesspiegel.de/berlin/bei-stiefvatern-reicht-es-schon-dass-sie-die-kinder-nicht-auffressen-wie-ein-lowe-4202164.html). (das liegt einfach daran, dass in den meisten Familien das Kind weiterhin bei der Mutter lebt.)
 Zurück zur Frage, weshalb meine Angebote für Bonusmamas sind.
 Nun, zum einen bin ich selbst eine Frau und glaube mich besser mit Frauen verbinden zu können. Und zum anderen glaube ich, dass es Stiefväter generell etwas leichter haben.
-Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA) oder als [Podcast](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/Stiefmtter-vs--Stiefvter-die-WAHRHEIT-ber-ihre-[Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)n-e2qto62) anhören:
+Du kannst dir dieses Thema auch gern auf [YouTube](https://youtu.be/OWzoYtwuSOA) oder als [Podcast](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/Stiefmtter-vs--Stiefvter-die-WAHRHEIT-ber-ihre-[Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/)n-e2qto62) anhören.
+
 
 ## Unterschiedliche Rollenbilder
 
@@ -56,7 +57,7 @@ Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannu
 ## Warum sich meine Angebote an Bonusmamas richten
 
 Obwohl sowohl Stiefmütter als auch Stiefväter mit Herausforderungen und Vorurteilen konfrontiert sind, richten sich meine Angebote vorrangig an Stiefmamas.
-*Der Grund dafür liegt in den unterschiedlichen gesellschaftlichen Erwartungen und dem daraus resultierenden Druck, dem sich viele Stiefmütter ausgesetzt sehen.* wie bereits erwähnt, wird von Frauen oft erwartet, dass sie die Rolle der “perfekten Mutter” übernehmen und nahtlos in die Fußstapfen der leiblichen Mutter treten. Diese Erwartungshaltung führt dazu, dass sich viele Stiefmütter selbst enorm **unter Druck**setzen, alles richtig zu machen und von den Kindern geliebt zu werden.
+*Der Grund dafür liegt in den unterschiedlichen gesellschaftlichen Erwartungen und dem daraus resultierenden Druck, dem sich viele Stiefmütter ausgesetzt sehen.* wie bereits erwähnt, wird von Frauen oft erwartet, dass sie die Rolle der “perfekten Mutter” übernehmen und nahtlos in die Fußstapfen der leiblichen Mutter treten. Diese Erwartungshaltung führt dazu, dass sich viele Stiefmütter selbst enorm **unter Druck** setzen, alles richtig zu machen und von den Kindern geliebt zu werden.
 Sie investieren viel **
 
 Zeit und Energie in die Beziehung zu ihren Stiefkindern, oft unter Vernachlässigung der eigenen Bedürfnisse. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung von den Kindern, was zu Frustration und Selbstzweifeln führen kann. Daher ist es mir ein besonderes Anliegen, Stiefmütter mit maßgeschneiderten Angeboten zu unterstützen und ihnen Wege aufzuzeigen, wie sie trotz der hohen Erwartungen und des Drucks eine erfüllende Rolle in ihrer Patchworkfamilie finden können**.

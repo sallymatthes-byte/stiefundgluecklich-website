@@ -52,13 +52,13 @@ Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: ein leben, in 
 
 Aber woher kommen all diese “ich sollte”-Gedanken eigentlich? Warum tragen wir Bonusmamas so viele Erwartungen an uns selbst heran? Die Ursachen dafür sind vielfältig.
 
-Zum einen spielen **gesellschaftliche Vorstellungen und Normen**eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
+Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine “gute Mutter” sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
-Auch **familiäre Prägungen und eigene Kindheitserfahrungen**tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
+Auch ** familiäre Prägungen und eigene Kindheitserfahrungen** tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
 
 Der **
 
-Wunsch nach Kontrolle und Perfektion**ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
+Wunsch nach Kontrolle und Perfektion** ist ebenfalls ein Faktor. In einer Patchworkfamilie treffen verschiedene Menschen und Erziehungsstile aufeinander. Da kann man schnell das Gefühl bekommen, die Zügel fest in der Hand halten zu müssen.
 
 Nicht zuletzt spielt die** Angst, zu versagen oder nicht zu genügen**, eine Rolle. Die Rolle der Bonusmama ist herausfordernd und oft undankbar. Viele [zweifeln](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) an sich selbst und setzen sich unter Druck, es allen recht machen zu wollen.
 

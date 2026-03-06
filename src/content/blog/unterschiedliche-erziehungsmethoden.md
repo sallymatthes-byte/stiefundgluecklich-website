@@ -22,15 +22,15 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 - **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 - die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
-- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 - sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
 - sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
-- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
+- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
 - es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
-- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 - es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
+- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 - Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil, was berücksichtigt werden muss.
 
@@ -71,11 +71,11 @@ Natürlich heißt das nicht, dass Bonuseltern gar nichts zum Thema Disziplin sag
 
 Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der Patchworkfamilie mitzugestalten. Doch anstatt dich in Machtkämpfe zu verlieren, solltest du lernen, deinen Partner zu unterstützen und gemeinsam an einem Strang zu ziehen. Hier sind einige Tipps, wie dir das gelingen kann:
 
-- **Respektiere eure unterschiedlichen Rollen.** als Bonusmama kannst du deinem Partner wertvolle Impulse geben und ihn dabei unterstützen, klare Grenzen zu setzen. Gleichzeitig ist es wichtig, dass du seine Entscheidungshoheit als leiblicher Elternteil akzeptierst. Er wiederum kann dir helfen, mehr Verständnis und Einfühlungsvermögen für das Kind zu entwickeln.
-- **Tauscht euch regelmäßig aus.** Nimm dir Zeit für Gespräche, in denen ihr eure Erziehungsvorstellungen, Werte und Ziele teilt. Hört einander aufmerksam zu und versucht, die Perspektive des anderen nachzuvollziehen. Je besser du die Beweggründe deines Partners verstehst, desto leichter fällt es euch, Kompromisse zu finden.
-- **Entwickelt gemeinsame Regeln.** Überlegt zusammen, welche Regeln und Grenzen dem Kind Orientierung geben, ohne es zu überfordern. Achte darauf, dass die Regeln altersgemäß, klar verständlich und konsistent sind. Stimmt euch ab, wie ihr auf Regelbrüche reagieren wollt.
-- **Streitet fair.** Konflikte sind in Patchworkfamilien normal – Entscheidend ist, wie ihr damit umgeht. Vermeide Vorwürfe, Verallgemeinerungen und persönliche Angriffe. Konzentriere dich stattdessen darauf, deine Gefühle und Bedürfnisse klar zu Benennen. Sucht gemeinsam nach Lösungen, die für alle Akzeptabel sind.
-- **Unterstütze deinen Partner im Alltag.** als Bonusmama kannst du deinen Partner entlasten, indem du Aufgaben im Haushalt übernimmst, Fahrdienste organisierst oder Ausflüge planst. Mach dir bewusst, dass ihr im selben Boot sitzt und nur gemeinsam ans Ziel kommt.
+- ** Respektiere eure unterschiedlichen Rollen.** als Bonusmama kannst du deinem Partner wertvolle Impulse geben und ihn dabei unterstützen, klare Grenzen zu setzen. Gleichzeitig ist es wichtig, dass du seine Entscheidungshoheit als leiblicher Elternteil akzeptierst. Er wiederum kann dir helfen, mehr Verständnis und Einfühlungsvermögen für das Kind zu entwickeln.
+- ** Tauscht euch regelmäßig aus.** Nimm dir Zeit für Gespräche, in denen ihr eure Erziehungsvorstellungen, Werte und Ziele teilt. Hört einander aufmerksam zu und versucht, die Perspektive des anderen nachzuvollziehen. Je besser du die Beweggründe deines Partners verstehst, desto leichter fällt es euch, Kompromisse zu finden.
+- ** Entwickelt gemeinsame Regeln.** Überlegt zusammen, welche Regeln und Grenzen dem Kind Orientierung geben, ohne es zu überfordern. Achte darauf, dass die Regeln altersgemäß, klar verständlich und konsistent sind. Stimmt euch ab, wie ihr auf Regelbrüche reagieren wollt.
+- ** Streitet fair.** Konflikte sind in Patchworkfamilien normal – Entscheidend ist, wie ihr damit umgeht. Vermeide Vorwürfe, Verallgemeinerungen und persönliche Angriffe. Konzentriere dich stattdessen darauf, deine Gefühle und Bedürfnisse klar zu Benennen. Sucht gemeinsam nach Lösungen, die für alle Akzeptabel sind.
+- ** Unterstütze deinen Partner im Alltag.** als Bonusmama kannst du deinen Partner entlasten, indem du Aufgaben im Haushalt übernimmst, Fahrdienste organisierst oder Ausflüge planst. Mach dir bewusst, dass ihr im selben Boot sitzt und nur gemeinsam ans Ziel kommt.
 
 *Der Schlüssel zum Erfolg liegt in der konstruktiven Kommunikation.* indem du und dein Partner wertschätzend und lösungsorientiert miteinander sprecht, könnt ihr eine tragfähige Erziehungspartnerschaft entwickeln. Eine Partnerschaft, in der nicht Machtkämpfe, sondern das wohl des Kindes an erster Stelle stehen.
 

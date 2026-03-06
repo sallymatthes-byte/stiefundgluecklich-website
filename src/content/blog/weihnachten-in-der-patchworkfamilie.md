@@ -15,12 +15,13 @@ Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm.
 Die Kombination aus verschiedenen Familienmitgliedern, Traditionen und Bedürfnissen kann zu Spannungen führen.
 Genau aus diesem Grund haben wir uns dazu entschlossen Weihnachten getrennt zu verbringen – Stéphane in Frankreich mit seinen Kindern, ich bei meinen Eltern in Deutschland. Zu groß sind uns einfach die Herausforderungen: tausende Kilometern liegen zwischen den Familien, die sprachlichen Barrieren sind oft zu groß und am Ende ist niemand richtig zufrieden.
 
-In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc):
+In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel. Und wenn du lieber das Video anschauen möchtest, dann klick einfach [hier](https://youtu.be/Pa7gSJJCHPc).
+
 
 ## Wo liegen die Stolpersteine?
 
 Vielleicht ist es ja das erste Weihnachten, dass ihr gemeinsam verbringt.
-Und alle haben **unterschiedliche Vorstellungen**davon, wie das Fest gefeiert werden soll. Die einen möchten unbedingt den Weihnachtsbaum schmücken, während die anderen lieber tagelang Weihnachtsfilme schauen würden.
+Und alle haben **unterschiedliche Vorstellungen** davon, wie das Fest gefeiert werden soll. Die einen möchten unbedingt den Weihnachtsbaum schmücken, während die anderen lieber tagelang Weihnachtsfilme schauen würden.
 Du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) möchtest vielleicht gern in die Kirche gehen, während dein Partner am Vorweihnachtsabend nochmal grillen möchte.
 
 Die Erwartungen der Elternteile und die Wünsche der Kinder prallen aufeinander und es entsteht eine gewisse Anspannung.
@@ -32,10 +33,10 @@ Ganz schön viele Bedürfnisse, die es zu vereinen gilt.
 Es ist in solchen Momenten wichtig, diese Herausforderungen anzuerkennen und offen darüber zu kommunizieren. Denn nur so könnt ihr als Patchworkfamilie eine gemeinsame Basis finden und Weihnachten zu einem harmonischen Fest machen.
 Sprecht offen miteinander und findet Kompromisse, um allen Familienmitgliedern gerecht zu werden. Denn letztendlich geht es darum, eine gemeinsame Basis zu finden und eine harmonische Atmosphäre zu schaffen, in der sich jeder geliebt und wertgeschätzt fühlt.
 
-Eine weitere Herausforderung für Patchworkfamilien zu Weihnachten ist die **Integration** der verschiedenen Familienmitglieder. Vielleicht hast du Kinder aus einer früheren Beziehung und dein Partner hat ebenfalls Kinder mitgebracht. Es kann schwierig sein, eine Balance zu finden und jedem Kind das Gefühl zu geben, dazuzugehören und geliebt zu werden.
-Möglicherweise gibt es auch **Konflikte** zwischen den Kindern, die ihre eigene Dynamik mitbringen.
+Eine weitere Herausforderung für Patchworkfamilien zu Weihnachten ist die ** Integration** der verschiedenen Familienmitglieder. Vielleicht hast du Kinder aus einer früheren Beziehung und dein Partner hat ebenfalls Kinder mitgebracht. Es kann schwierig sein, eine Balance zu finden und jedem Kind das Gefühl zu geben, dazuzugehören und geliebt zu werden.
+Möglicherweise gibt es auch ** Konflikte** zwischen den Kindern, die ihre eigene Dynamik mitbringen.
 
-Und nicht zuletzt bleibt die Frage nach den **Geschenken:** Wer beschenkt wen? Wie viel geben wir aus? Werden alle Kinder gleich behandelt? Und wer beteiligt sich an welchen Kosten?
+Und nicht zuletzt bleibt die Frage nach den ** Geschenken:** Wer beschenkt wen? Wie viel geben wir aus? Werden alle Kinder gleich behandelt? Und wer beteiligt sich an welchen Kosten?
 So viele Stolpersteine, die uns in der (vor-) Weihnachtszeit erwarten.
 Und dabei wollen wir doch alle nur eins: harmonische Feiertage, ohne Streit und Konflikte.
 
@@ -52,7 +53,7 @@ Stell dir vor, du bist ein Kind in einer Patchworkfamilie und Weihnachten steht 
 *Vielleicht hast du das Glück, dass sich alle Familienmitglieder gut verstehen und harmonisch zusammen feiern. Doch oft gibt es auch Spannungen und Konflikte zwischen den verschiedenen Partner_innen und [Ex](/blog/konflikte-wegen-der-ex-ueberwinden/)-Partner_innen. Es kann eine Herausforderung sein, sich in diesem Geflecht von Beziehungen zurechtzufinden und die eigenen Bedürfnisse auszudrücken. Es ist wichtig für dich, dass du dich gehört und verstanden fühlst, dass deine Bedürfnisse und Wünsche ernst genommen werden.*
 
 *Vielleicht fühlst du dich manchmal unsichtbar, wenn die Erwachsenen in der Familie mit ihren eigenen Konflikten beschäftigt sind. Du möchtest einfach nur ein schönes und harmonisches Weihnachten erleben, in dem du dich als Teil einer liebevollen Familie fühlst. Du sehnst dich nach Stabilität und Sicherheit, nach einem Ort, an dem du dich geborgen fühlst, egal ob du bei deinem Vater, deiner Mutter oder deinen Stiefgeschwistern bist. ***Auch nicht einfach, oder?**> es geht nicht um das, was wir tun oder wie viel wir tun. Sondern darum, wie viel Liebe wir in das tun legen.”
-Mutter teresa* ***##  wie kannst du dem Kind helfen?
+Mutter teresa* ***## wie kannst du dem Kind helfen?
 
 Als Eltern ist es wichtig, sich dieser Herausforderungen bewusst zu sein und dem Kind in dieser Zeit besonders viel Unterstützung zu bieten. Hier ein paar Tipps, wie du eine harmonische Weihnachtszeit in der Patchworkfamilie gestalten kannst:**1. Kommunikation ist das A und O: **
 
@@ -71,7 +72,7 @@ Gebt dem Kind die Möglichkeit, selbst mitzubestimmen, wie es das Weihnachtsfest
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

@@ -22,15 +22,15 @@ Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiz
 
 - **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv.** der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
 - die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
-- **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
+- ** Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit.** sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
 - sie fühlen sich [hin- und hergerissen](/blog/loyalitaetskonflikte-von-bonuskindern/) zwischen dem biologischen Elternteil und dem neuen Partner.
 - sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
-- **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
+- ** Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt.** der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden/) und -vorstellungen haben.
 - es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
-- **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
+- ** Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren.** jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
 - es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
-- **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
+- ** In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – außerhalb der Kernfamilie, der untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
 - Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil, was berücksichtigt werden muss.
 
@@ -44,7 +44,7 @@ Eine Patchworkfamilie ist wie ein buntes Puzzle aus verschiedenen Teilen, die 
 
 Doch warum ist das in Patchworkfamilien schwieriger als in Kernfamilien?***Die Antwort liegt in den bereits bestehenden Bindungen und Loyalitäten. In einer Kernfamilie wachsen Eltern und Kinder Schritt für Schritt zusammen. Sie entwickeln gemeinsam ihre Rituale, Regeln und Werte. Es gibt keine “alte” Familienkulturen, die integriert werden müssen.
 
-In einer Patchworkfamilie dagegen haben Eltern und Kinder bereits eine gemeinsame Geschichte und eingespielte Gewohnheiten.** die neuen Partner und Geschwister sind zunächst “fremde”, die in dieses System eintreten. **Sie bringen ihre eigenen Vorstellungen und Prägungen mit.
+In einer Patchworkfamilie dagegen haben Eltern und Kinder bereits eine gemeinsame Geschichte und eingespielte Gewohnheiten.** die neuen Partner und Geschwister sind zunächst “fremde”, die in dieses System eintreten. ** Sie bringen ihre eigenen Vorstellungen und Prägungen mit.
 
 *Die Herausforderung besteht nun darin, altes und neues zu verbinden.* doch das ist leichter gesagt als getan. Denn die bestehenden Bande zwischen leiblichen Eltern und Kindern sind eng und emotional aufgeladen. Für die neuen Partner kann es schwierig sein, ihren Platz zu finden, ohne als “Eindringlinge” wahrgenommen zu werden.
 
@@ -81,11 +81,11 @@ Ein respektvoller Umgang miteinander bedeutet auch, Unterschiede auszuhalten und
 
 Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstellungen von Familienalltag und -kultur mit. Papernow empfiehlt, sich darauf einzustellen und Veränderungen langsam anzugehen. Hier sind zwei konkrete Beispiele, wie das gelingen kann:
 
-- **Familienrituale entwickeln:**
+- ** Familienrituale entwickeln:**
 
 Kevin und seine Kinder lieben es zu campen und bei Autofahrten 90er-Jahre-Hits zu singen. Für seine neue Partnerin Claire ist beides ein Graus. Anstatt jedoch auf sein geliebtes Ritual zu verzichten, schlägt Kevin einen Kompromiss vor: Einmal im Monat unternehmen sie einen Campingausflug, bei dem auch Claires Vorlieben auf dem Programm stehen. Bei den restlichen Ausflügen suchen sie nach Aktivitäten, die allen Spaß machen. So lernen beide seiten die Welt der anderen kennen und es entsteht Schritt für Schritt eine gemeinsame Familienkultur in der Patchworkfamilie.
 
-- **Regeln und Grenzen setzen:** in Monikas Familie gilt die Regel “keine Handys beim essen”. Als sie mit Tom und seinen Kindern zusammenzieht, stellt sie fest, dass dort jeder sein Smartphone mit an den Tisch bringt. Gemeinsam einigen sie sich auf einen Kompromiss: Beim Frühstück und Abendessen bleiben die Handys weg, beim lockeren Mittagessen am Wochenende dürfen sie genutzt werden.
+- ** Regeln und Grenzen setzen:** in Monikas Familie gilt die Regel “keine Handys beim essen”. Als sie mit Tom und seinen Kindern zusammenzieht, stellt sie fest, dass dort jeder sein Smartphone mit an den Tisch bringt. Gemeinsam einigen sie sich auf einen Kompromiss: Beim Frühstück und Abendessen bleiben die Handys weg, beim lockeren Mittagessen am Wochenende dürfen sie genutzt werden.
 
 *Solche Kompromisse sind nicht immer einfach zu finden.* sie erfordern Kreativität, Offenheit und die Bereitschaft, sich auf die Sichtweise des anderen einzulassen. Doch genau darum geht es, wenn eine neue Familienkultur entstehen soll: **Nicht darum, dass einer seine Vorstellung durchsetzt, sondern dass alle aufeinander zugehen und Gemeinsamkeiten finden.** es ist ein Prozess des gegenseitigen Kennenlernens, bei dem auch Unterschiede respektiert werden dürfen. Denn eine Patchworkfamilie muss nicht in allem einer Meinung sein. Viel wichtiger ist, dass alle das Gefühl haben, mit ihren Bedürfnissen und Eigenheiten gesehen und wertgeschätzt zu werden. Dann kann Stück für Stück Vertrauen und ein Gefühl von Zugehörigkeit wachsen.
 

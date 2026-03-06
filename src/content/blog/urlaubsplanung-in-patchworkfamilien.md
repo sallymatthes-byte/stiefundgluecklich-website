@@ -30,9 +30,9 @@ Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse
 
 Gemeinsame Aktivitäten im Urlaub sind eine wunderbare Gelegenheit, um als Patchworkfamilie zusammenzuwachsen und unvergessliche Erinnerungen zu schaffen.
 Wie wäre es mit einem **Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
-Oder ihr erkundet bei einer **Wanderung** die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im freien.
-Auch ein Tag am **Strand** bietet viele Möglichkeiten: ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
-Am Abend vielleicht ein **Gesellschaftsspiel** oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
+Oder ihr erkundet bei einer ** Wanderung** die Natur, picknickt an einem idyllischen Plätzchen und spielt Spiele im freien.
+Auch ein Tag am ** Strand** bietet viele Möglichkeiten: ihr könnt zusammen Sandburgen bauen, Beach-Volleyball spielen oder euch gegenseitig mit Wasserpistolen jagen.
+Am Abend vielleicht ein ** Gesellschaftsspiel** oder eine Runde Werwölfe, bei der alle ihre Rollen tauschen und in fremde Charaktere schlüpfen.
 
 Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspannt – Hauptsache, ihr verbringt qualitativ hochwertige Zeit miteinander und jeder kann sich einbringen. So lernt ihr euch besser kennen, entwickelt Verständnis füreinander und schafft ein Gefühl von Zusammengehörigkeit. Und wer weiß, vielleicht entdeckt ihr dabei sogar neue Hobbys oder Leidenschaften, die euch auch nach dem Urlaub verbinden.
 

@@ -46,7 +46,7 @@ In den stillen Momenten, wenn die Kinder bei ihrer Mutter waren und das Haus sel
 
 ## Die unsichtbaren Mauern der Eifersucht
 
-**Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
+** Die größten Hindernisse auf diesem Weg hatte ich mir selbst aufgebaut.** meine eigenen Vorurteile und festgefahrenen Denkmuster waren wie Mauern, die mich von meinem Wunsch nach einer harmonischen Familie trennten. Ständig lief der [Vergleich](/blog/aus-dem-schatten-der-kindsmutter-treten/) mit der leiblichen Mutter wie ein Programm in meinem Kopf ab. War sie die bessere Mutter? Hatte sie mehr Recht auf die Liebe der Kinder? Konnte ich überhaupt jemals einen bedeutsamen Platz in dieser Familie einnehmen?
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
@@ -74,7 +74,7 @@ Der erste und wichtigste Schritt war, wirklich zu verstehen, was in mir vorging.
 
 ### 2. Inneren Wandel einleiten
 
-Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten.** es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln. **Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
+Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten.** es ging darum, alte Denkmuster zu erkennen und bewusst neue, gesündere Perspektiven zu entwickeln. ** Statt die Beziehung zwischen meinem Partner und seinem Kind als Bedrohung zu sehen, übte ich mich darin, sie als Bereicherung wahrzunehmen. Ich lernte, meinen eigenen wert nicht von Vergleichen abhängig zu machen und meine einzigartige Rolle in der Familie zu erkennen.
 
 ### 3. Verbindende Kommunikation aufbauen
 

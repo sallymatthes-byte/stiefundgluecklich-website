@@ -51,7 +51,7 @@ Das liegt nicht daran, dass du unsicher bist. **Es liegt daran, dass dein Nerven
 
 Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, emotional durchlässig. Vielleicht hast du schon gemerkt, wie schnell du in die Überforderung rutschst – obwohl du nach außen „alles Im Griff“ hast.
 
-Wichtig zu wissen:**Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
+Wichtig zu wissen:** Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern.** deshalb lohnt sich ein Blick auf die typischen Angst-Typen von Bonusmamas.
 
 ![Bonusmama und Angst — Stimmungsbild 1](/images/blog/bonusmama-angst-2.jpg)
 

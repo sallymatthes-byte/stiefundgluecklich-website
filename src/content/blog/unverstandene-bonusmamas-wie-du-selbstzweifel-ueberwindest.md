@@ -43,13 +43,13 @@ In diesen Phasen ist es nicht leicht, den glauben an sich selbst zu bewahren. Um
 
 Formuliere positive, bestärkende Sätze, die du täglich zu dir sagst. “Ich bin genau richtig, so wie ich bin.” “Ich habe alles, was ich brauche, um eine wundervolle Bonusmama zu sein.” Wiederhole sie wie ein Mantra – bis du sie wirklich glaubst.
 
-- **Dankbarkeit praktizieren:**
+- ** Dankbarkeit praktizieren:**
 
 Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen lieben. Je mehr du das positive in den Vordergrund rückst, desto stärker fühlst du dich.
 
-- **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank regelmäßig auf. Eine Gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
-- **Grenzen setzen:**Lerne freundlich, aber bestimmt “Nein” zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
-- **Erfolge feiern:**Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+- ** Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank regelmäßig auf. Eine Gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
+- ** Grenzen setzen:** Lerne freundlich, aber bestimmt “Nein” zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
+- ** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
@@ -57,7 +57,7 @@ Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du 
 
 ## Bedeutung von Selbstfürsorge und Auszeiten für Bonusmamas
 
-Lass uns zum Abschluss über etwas sprechen, das mir wirklich am Herzen liegt: deine Selbstfürsorge. Inmitten der vielen Aufgaben und emotionalen Herausforderungen als Bonusmama ist es so leicht, sich selbst zu vergessen. Aber glaube mir, du bist das Fundament der Familie.** nur wenn du stabil und erfüllt bist, kannst du langfristig für alle da sein. **Selbstfürsorge ist kein Luxus, sondern eine Notwendigkeit. Sie sieht für jede anders aus. Vielleicht bedeutet sie für dich, jeden morgen in Ruhe deinen Kaffee zu trinken und ein paar seiten zu lesen. Oder einmal pro Woche deine Lieblingssportart auszuüben. Finde Rituale und Aktivitäten, die dir guttun und deine Batterien aufladen.
+Lass uns zum Abschluss über etwas sprechen, das mir wirklich am Herzen liegt: deine Selbstfürsorge. Inmitten der vielen Aufgaben und emotionalen Herausforderungen als Bonusmama ist es so leicht, sich selbst zu vergessen. Aber glaube mir, du bist das Fundament der Familie.** nur wenn du stabil und erfüllt bist, kannst du langfristig für alle da sein. ** Selbstfürsorge ist kein Luxus, sondern eine Notwendigkeit. Sie sieht für jede anders aus. Vielleicht bedeutet sie für dich, jeden morgen in Ruhe deinen Kaffee zu trinken und ein paar seiten zu lesen. Oder einmal pro Woche deine Lieblingssportart auszuüben. Finde Rituale und Aktivitäten, die dir guttun und deine Batterien aufladen.
 
 Genauso wichtig sind regelmäßige Auszeiten. Ich weiß, es fühlt sich vielleicht egoistisch an, Zeit für dich allein zu beanspruchen. Aber denk daran: Du tankst auf, um mehr für andere da sein zu können. Sei mutig und steh zu deinen Bedürfnissen. Ob es ein Wellnesstag, ein Mädelsabend oder ein Wochenende in der Natur ist – Plane bewusst Auszeiten ein, in denen du Durchatmen und zu dir finden kannst.
 

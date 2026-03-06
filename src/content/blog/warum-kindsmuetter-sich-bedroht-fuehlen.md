@@ -26,7 +26,7 @@ Hinzu kommt, dass die Kindsmutter vielleicht noch mit dem *Schmerz über das En
 
 Auch *unterschiedliche Erziehungsansätze* können für die Kindsmutter eine Herausforderung darstellen. Sie möchte die Entwicklung ihres Kindes bestmöglich unterstützen und hat Sorge, dass abweichende Regeln oder Methoden diesem Ziel entgegenwirken könnten.
 
-Es ist wichtig zu verstehen, dass all diese Gefühle – *Angst, Unsicherheit, Schmerz, schuld* –**nicht persönlich gegen dich als Bonusmama gerichtet sind** . Sie entspringen dem tiefen Wunsch der Kindsmutter, für ihr Kind da zu sein und ihre Rolle als Mutter zu erfüllen.
+Es ist wichtig zu verstehen, dass all diese Gefühle – *Angst, Unsicherheit, Schmerz, schuld* –**nicht persönlich gegen dich als Bonusmama gerichtet sind**. Sie entspringen dem tiefen Wunsch der Kindsmutter, für ihr Kind da zu sein und ihre Rolle als Mutter zu erfüllen.
 
 Indem du dir die Zeit nimmst, die Perspektive der Kindsmutter einzunehmen und ihre Gefühle anzuerkennen, legst du den Grundstein für gegenseitiges Verständnis. Dieses Verständnis ist der erste Schritt auf dem Weg zu einer positiven Beziehung, die dem Kind Sicherheit und Geborgenheit schenkt.
 

@@ -43,7 +43,7 @@ Es waren die kleinen Momente, die mir am meisten fehlten. Der verschmitzte Blick
 
 Es war ein regnerischer Sonntagmorgen, als ich aufwachte und diese erdrückende Sehnsucht nach nähe nicht mehr ignorieren konnte. Die Kinder schauten ihre Lieblingsserie, mein Partner war in der Küche beschäftigt, und ich lag im Bett, gefangen in diesem Gefühl der Einsamkeit inmitten unserer Familie. In diesem Moment wurde mir klar: Die Zeit als Paar in unserer Patchworkfamilie würde sich nicht von alleine finden. Wir mussten aktiv etwas verändern.
 
-Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche** Klarheit**zu gewinnen – nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was genau Vermisste ich? Waren es wirklich die großen, Romantischen Gesten, oder Sehnte ich mich einfach nach diesen kleinen, Intimen Momenten der Verbundenheit?
+Diese Erkenntnis war der Beginn einer tiefen inneren Reise. Ich begann zu verstehen, dass der erste Schritt darin bestand, wirkliche** Klarheit** zu gewinnen – nicht nur über meine Bedürfnisse als Partnerin, sondern auch über meine Ängste und Erwartungen. Was genau Vermisste ich? Waren es wirklich die großen, Romantischen Gesten, oder Sehnte ich mich einfach nach diesen kleinen, Intimen Momenten der Verbundenheit?
 
 Der weg zurück zur zweisamkeit
 

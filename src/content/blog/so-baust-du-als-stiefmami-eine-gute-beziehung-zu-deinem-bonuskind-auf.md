@@ -65,7 +65,7 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 ** Passend dazu:** Hör dir die Podcastfolge „wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -74,7 +74,7 @@ Die Herausforderungen beim Beziehungsaufbau zu deinem Bonuskind sind vielfältig
 Manchmal ist das Patchworkleben einfach unglaublich anstrengend. Selbstfürsorge und das setzen von Grenzen sind für Bonusmütter essenziell, um sich selbst treu zu bleiben und dennoch eine enge Bindung zu ihren Stiefkindern aufzubauen.
 Es ist wichtig, dass du auf*deine eigenen Bedürfnisse* achtest und dir Zeit für dich selbst nimmst. Nur wenn du gut für dich selbst sorgst, kannst du auch für andere da sein.
 
-Eine mögliche Lösung ist es, dir bewusst Auszeiten zu nehmen und Momente der Entspannung und Selbstreflexion zu schaffen. Das kann bedeuten, dass du **regelmäßig**  Zeit für deine eigenen Hobbys und Interessen reservierst oder dich bewusst für kleine Auszeiten im Alltag entscheidest. Indem du dir selbst diese Zeit zugestehst, kannst du dich regenerieren und deine eigene Energiequelle auftanken.
+Eine mögliche Lösung ist es, dir bewusst Auszeiten zu nehmen und Momente der Entspannung und Selbstreflexion zu schaffen. Das kann bedeuten, dass du **regelmäßig** Zeit für deine eigenen Hobbys und Interessen reservierst oder dich bewusst für kleine Auszeiten im Alltag entscheidest. Indem du dir selbst diese Zeit zugestehst, kannst du dich regenerieren und deine eigene Energiequelle auftanken.
 
 Gleichzeitig ist es wichtig, dass du deine*eigenen Grenzen* klar kommunizierst und diese auch respektiert werden. Das bedeutet, dass du dich nicht übermäßig verbiegst oder dich selbst aufopferst, um es allen recht zu machen. Es ist in Ordnung, auch mal “Nein” zu sagen, wenn du merkst, dass deine eigenen Grenzen überschritten werden.
 

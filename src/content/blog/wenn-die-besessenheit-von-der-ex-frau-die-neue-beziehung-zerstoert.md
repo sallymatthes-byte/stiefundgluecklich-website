@@ -15,7 +15,8 @@ imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Ver
 
 In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel macht über deine Beziehung hat, sondern vor allem, wie du dich aus dieser emotionalen Gefangenschaft befreien kannst. Denn eines ist sicher: Du verdienst es, eine erfüllte Partnerschaft zu leben - ohne ständige Einmischung von außen.
 
-Über [diesen Link](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) gelangst du zum Podcast und kannst dir dort nochmal tiefere Einblicke in dieses Thema holen:
+Über [diesen Link](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) gelangst du zum Podcast und kannst dir dort nochmal tiefere Einblicke in dieses Thema holen.
+
 
 ## Wenn die Ex-Frau zur Bedrohung wird
 

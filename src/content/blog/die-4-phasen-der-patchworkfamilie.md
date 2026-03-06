@@ -40,13 +40,13 @@ Wie lange jede einzelne der 4 Phasen andauert, ist ganz unterschiedlich. In eini
 
 ## Phase 1 – Das Forming
 
-In der ersten Phase der Patchworkfamilie, dem “Forming”, ist es entscheidend, dass alle Familienmitglieder**ausreichend Zeit **haben, sich kennenzulernen und eine Beziehung aufzubauen. Ich beschreibe es gern als das vorsichtige Herantasten an einender. Man kann die andere Person noch nicht einschätzen und hält sich höflich zurück.
+In der ersten Phase der Patchworkfamilie, dem “Forming”, ist es entscheidend, dass alle Familienmitglieder** ausreichend Zeit ** haben, sich kennenzulernen und eine Beziehung aufzubauen. Ich beschreibe es gern als das vorsichtige Herantasten an einender. Man kann die andere Person noch nicht einschätzen und hält sich höflich zurück.
 
-Ich erinnere mich noch genau an meine eigene Erfahrung in dieser Phase. Als ich das erste mal die Rolle der Bonusmama einnahm, war ich aufgeregt und unsicher, wie ich mich in die Familie integrieren konnte. Ich musste mich an die**neuen Dynamiken **gewöhnen und meine eigenen Erwartungen anpassen. Ich wusste nicht, was meine Aufgaben sind und wie die Kinder auf mich reagieren.
+Ich erinnere mich noch genau an meine eigene Erfahrung in dieser Phase. Als ich das erste mal die Rolle der Bonusmama einnahm, war ich aufgeregt und unsicher, wie ich mich in die Familie integrieren konnte. Ich musste mich an die** neuen Dynamiken ** gewöhnen und meine eigenen Erwartungen anpassen. Ich wusste nicht, was meine Aufgaben sind und wie die Kinder auf mich reagieren.
 
 Eine Sache, die ich in dieser Phase gelernt habe, ist, dass es wichtig ist, die Bedürfnisse und Gefühle der Kinder zu respektieren. Ich erinnere mich an eine Situation, in der ich versuchte, eine enge Beziehung zu meinen Bonustöchtern aufzubauen. Ich organisierte eine gemeinsame Aktivität, bei der wir Zeit miteinander verbringen konnten. Doch sie waren sehr zurückhaltend und schüchtern. Anstatt entmutigt zu sein, erkannte ich, dass sie möglicherweise noch Zeit brauchten, um sich an die neue Situation anzupassen.
 
-Das erfordert **Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hilfreich, die Kommunikation mit dem leiblichen Elternteil zu suchen und sich über Erziehungsmethoden und Regeln auszutauschen. Je offener und transparenter die Kommunikation ist, desto leichter wird es sein, eine gemeinsame Basis zu finden und eine harmonische Patchworkfamilie aufzubauen.
+Das erfordert ** Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hilfreich, die Kommunikation mit dem leiblichen Elternteil zu suchen und sich über Erziehungsmethoden und Regeln auszutauschen. Je offener und transparenter die Kommunikation ist, desto leichter wird es sein, eine gemeinsame Basis zu finden und eine harmonische Patchworkfamilie aufzubauen.
 
 > “Man darf nicht verlernen, die Welt mit den Augen eines Kindes zu sehen.” – Henri Matisse
 
@@ -55,9 +55,9 @@ Das erfordert **Einfühlungsvermögen, Verständnis und Geduld**. Es ist auch hi
 
 ## Phase 2 – Das Storming
 
-In der Phase des “Stormings” einer Patchworkfamilie kommen **Konflikte und Spannungen** zum Vorschein. Diese entstehen durch unterschiedliche Erwartungen und Erfahrungen aller Familienmitglieder. Als Bonusmama ist es wichtig, diese Herausforderungen anzuerkennen und aktiv anzugehen, um eine harmonische Atmosphäre in der Familie zu schaffen.
+In der Phase des “Stormings” einer Patchworkfamilie kommen ** Konflikte und Spannungen** zum Vorschein. Diese entstehen durch unterschiedliche Erwartungen und Erfahrungen aller Familienmitglieder. Als Bonusmama ist es wichtig, diese Herausforderungen anzuerkennen und aktiv anzugehen, um eine harmonische Atmosphäre in der Familie zu schaffen.
 
-Während dieser Phase kann es zu**unterschiedlichen Meinungen ** über [Erziehungsfragen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/), Regeln oder den Umgang mit der Ex-Frau kommen. Es ist normal, dass jedes Familienmitglied seine eigenen Vorstellungen und Bedürfnisse hat. Doch anstatt in einen Machtkampf zu geraten, ist es ratsam, nach gemeinsamen Lösungen zu suchen und Kompromisse einzugehen.
+Während dieser Phase kann es zu** unterschiedlichen Meinungen ** über [Erziehungsfragen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/), Regeln oder den Umgang mit der Ex-Frau kommen. Es ist normal, dass jedes Familienmitglied seine eigenen Vorstellungen und Bedürfnisse hat. Doch anstatt in einen Machtkampf zu geraten, ist es ratsam, nach gemeinsamen Lösungen zu suchen und Kompromisse einzugehen.
 
 Ein Beispiel aus meiner eigenen Erfahrung ist, als es zu Unstimmigkeiten zwischen mir und meinem Partner bezüglich der Ernährung der Kinder kam. Ich hatte eine strengere Herangehensweise, während er eher nachsichtig war. Dies führte zu Konflikten und Uneinigkeit darüber, wie wir mit bestimmten Situationen umgehen sollten.
 
@@ -69,27 +69,27 @@ Es ist wichtig, in dieser Phase als Bonusmama geduldig und respektvoll zu bleibe
 
 ## Phase 3 – Das Norming
 
-In der Phase des “Normings” einer Patchworkfamilie beginnt sich eine gewisse **Stabilität und Harmonie** einzustellen. Es ist die Zeit, in der gemeinsame Regeln und Routinen entwickelt werden, um das Zusammenleben angenehmer und reibungsloser zu gestalten. Als Bonusmama spielt man eine wichtige Rolle bei der Entstehung dieser gemeinsamen Normen und trägt zur Stabilität der Familie bei.
+In der Phase des “Normings” einer Patchworkfamilie beginnt sich eine gewisse ** Stabilität und Harmonie** einzustellen. Es ist die Zeit, in der gemeinsame Regeln und Routinen entwickelt werden, um das Zusammenleben angenehmer und reibungsloser zu gestalten. Als Bonusmama spielt man eine wichtige Rolle bei der Entstehung dieser gemeinsamen Normen und trägt zur Stabilität der Familie bei.
 
 Während dieser Phase können wir als Bonusmama unsere Erfahrungen und Kenntnisse einbringen, um das Zusammenleben zu erleichtern. Zum Beispiel kann es hilfreich sein, eine Familienversammlung einzuberufen, in der alle Familienmitglieder ihre Meinungen und Bedürfnisse äußern können. Gemeinsam können wir Regeln aufstellen, die für alle akzeptabel und fair sind.
 
 Ich erinnere mich an eine Situation, in der sich meine Stieftöchter oft darüber gestritten haben, wer für das Tisch decken verantwortlich ist. Um diese Konflikte zu lösen und eine gerechte Lösung zu finden, haben wir als Familie beschlossen, dass jedes Kind abwechselnd den Tisch deckt. Diese Regel hat nicht nur den Konflikt gelöst, sondern auch gezeigt, dass alle Familienmitglieder gehört werden und ihre Meinungen zählen.
 
-Es ist wichtig, als Bonusmama geduldig zu sein und den Kindern Raum zu geben, um sich an die neuen **Regeln und Routinen** zu gewöhnen. Es kann einige Zeit dauern, bis sich alle Familienmitglieder auf diese neuen Normen eingestellt haben. Doch durch konsequente Umsetzung und gegenseitige Unterstützung wird die Stabilität in der Familie gefestigt.
+Es ist wichtig, als Bonusmama geduldig zu sein und den Kindern Raum zu geben, um sich an die neuen ** Regeln und Routinen** zu gewöhnen. Es kann einige Zeit dauern, bis sich alle Familienmitglieder auf diese neuen Normen eingestellt haben. Doch durch konsequente Umsetzung und gegenseitige Unterstützung wird die Stabilität in der Familie gefestigt.
 
 In dieser Phase können wir als Bonusmama auch unsere Rolle als Unterstützerin und Vermittlerin einnehmen. Wenn es zu Konflikten oder Unstimmigkeiten zwischen den Kindern oder anderen Familienmitgliedern kommt, können wir eine neutrale Position einnehmen und versuchen, Lösungen zu finden, die für alle Beteiligten fair sind. Indem wir unsere Kommunikationsfähigkeiten einsetzen und eine offene und respektvolle Atmosphäre schaffen, können wir dazu beitragen, dass sich alle Familienmitglieder gehört und verstanden fühlen.
 
-Die Phase des “Normings” ist entscheidend für den **Aufbau einer stabilen und harmonischen Patchworkfamilie**. Durch die gemeinsame Entwicklung von Regeln, die Akzeptanz und Respekt fördern, sowie durch unsere Unterstützung und Vermittlung können wir als Bonusmama aktiv zur Stabilität und zum Zusammenhalt der Familie beitragen.
+Die Phase des “Normings” ist entscheidend für den ** Aufbau einer stabilen und harmonischen Patchworkfamilie**. Durch die gemeinsame Entwicklung von Regeln, die Akzeptanz und Respekt fördern, sowie durch unsere Unterstützung und Vermittlung können wir als Bonusmama aktiv zur Stabilität und zum Zusammenhalt der Familie beitragen.
 
 ![Die 4 Phasen der Patchworkfamilie — Stimmungsbild 2](/images/blog/die-4-phasen-der-patchworkfamilie-3.jpg)
 
 ## Phase 4 – Das Performing
 
-Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 in dieser Phase haben die Familienmitglieder ihre Rollen gefunden und**arbeiten erfolgreich zusammen, **um gemeinsame Ziele zu erreichen.
+Die Phase des “Performings” ist der Höhepunkt einer harmonischen und gut funktionierenden Patchworkfamilie. Aus dem wollen wir eigentlich nicht mehr raus. 😉 in dieser Phase haben die Familienmitglieder ihre Rollen gefunden und** arbeiten erfolgreich zusammen, ** um gemeinsame Ziele zu erreichen.
 
 In dieser Phase können wir als Bonusmama unsere Unterstützung und Wertschätzung für die Leistungen und Bemühungen aller Familienmitglieder zum Ausdruck bringen. Indem wir ihnen zeigen, dass wir ihre Beiträge anerkennen und schätzen, stärken wir den Zusammenhalt und motivieren sie weiterhin, ihr Bestes zu geben.
 
-In der Phase des “Performings” können wir als Bonusmama auch dazu beitragen, dass die gemeinsamen Ziele der Familie weiterhin im Fokus bleiben. Indem wir regelmäßige **Familienbesprechungen** abhalten und über unsere Wünsche, Träume und Pläne sprechen, schaffen wir eine gemeinsame [Vision](/blog/visionboard-in-der-patchworkfamilie/) für die Zukunft. Diese gemeinsamen Ziele können dazu beitragen, dass die Familie weiterhin zusammenarbeitet und sich gegenseitig unterstützt, um sie zu erreichen.
+In der Phase des “Performings” können wir als Bonusmama auch dazu beitragen, dass die gemeinsamen Ziele der Familie weiterhin im Fokus bleiben. Indem wir regelmäßige ** Familienbesprechungen** abhalten und über unsere Wünsche, Träume und Pläne sprechen, schaffen wir eine gemeinsame [Vision](/blog/visionboard-in-der-patchworkfamilie/) für die Zukunft. Diese gemeinsamen Ziele können dazu beitragen, dass die Familie weiterhin zusammenarbeitet und sich gegenseitig unterstützt, um sie zu erreichen.
 
 Es ist wichtig, in dieser Phase als Bonusmama auch Raum für individuelle Bedürfnisse und Interessen zu lassen. Jedes Familienmitglied sollte die Möglichkeit haben, seine eigenen Ziele zu verfolgen und seine Leidenschaften auszuleben.
 

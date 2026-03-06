@@ -26,7 +26,7 @@ Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, e
 
 Wir führten zunächst eine Fernbeziehung, doch schon bald beschlossen wir, unsere Zukunft gemeinsam zu gestalten. Dass mein Partner zwei Kinder aus einer früheren Beziehung hatte, die in Frankreich lebten, war für mich kein Problem. Ich war es gewohnt, mit Kindern zu arbeiten und dachte, ich würde mit der Situation leicht zurechtkommen. Doch ich hatte keine Ahnung, was es wirklich bedeutete, eine Stiefmutter zu sein.
 
-**Als wir endlich zusammenzogen und ich die Kinder näher kennenlernte, wurde mir schnell klar, dass die Realität ganz anders aussah als meine romantischen Vorstellungen.** die Sprachbarriere machte es schwierig, eine Beziehung zu den Kindern aufzubauen, da sie nur Französisch sprachen und mein Schulfranzösisch eher dürftig war.
+** Als wir endlich zusammenzogen und ich die Kinder näher kennenlernte, wurde mir schnell klar, dass die Realität ganz anders aussah als meine romantischen Vorstellungen.** die Sprachbarriere machte es schwierig, eine Beziehung zu den Kindern aufzubauen, da sie nur Französisch sprachen und mein Schulfranzösisch eher dürftig war.
 
 Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragte mich, ob ich jemals so gut sein könnte wie sie und hatte Angst, dass mein Partner vielleicht doch zu ihr zurückkehren würde. Außerdem fühlte ich mich oft ausgeschlossen, da ich kein Mitspracherecht bei wichtigen Entscheidungen hatte, die die Kinder betrafen.
 
@@ -51,7 +51,7 @@ Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien 
 
 Trotz meines Verlangens nach Harmonie in unserer Patchworkfamilie, war der Weg dorthin von Herausforderungen geprägt. Je mehr ich versuchte, eine Beziehung zu den Kindern aufzubauen, desto mehr hatte ich das Gefühl, gegen eine unsichtbare Wand zu laufen. Die Sprachbarriere und die ständigen Vergleiche mit der leiblichen Mutter ließen mich an meiner Rolle zweifeln.
 
-**Anstatt mich weiter um nähe zu bemühen, begann ich, mich zurückzuziehen.** ich suchte Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional immer mehr distanzierte. Die Gespräche mit meinem Partner drehten sich oft darum, ob unsere Beziehung diese Belastungsprobe aushalten würde. Ich fühlte mich hilflos und wusste nicht, wie ich unsere Situation verbessern konnte.
+** Anstatt mich weiter um nähe zu bemühen, begann ich, mich zurückzuziehen.** ich suchte Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional immer mehr distanzierte. Die Gespräche mit meinem Partner drehten sich oft darum, ob unsere Beziehung diese Belastungsprobe aushalten würde. Ich fühlte mich hilflos und wusste nicht, wie ich unsere Situation verbessern konnte.
 
 In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung. Ich hatte schon immer ein Interesse an persönlicher Entwicklung und hoffte, neue Erkenntnisse zu gewinnen. Die Ausbildung eröffnete mir tatsächlich völlig neue Perspektiven und zeigte mir Lösungsansätze für unsere Patchwork-Situation auf.
 
@@ -63,7 +63,7 @@ Und was das genau war, erfährst du im nächsten Abschnitt.
 
 Die Wende kam, als ich mich für eine Coachingausbildung entschied. Schon immer interessierte ich mich für persönliche Entwicklung und die Ausbildung eröffnete mir neue Perspektiven. In Seminaren und Workshops lernte ich wirkungsvolle Kommunikationstechniken und Strategien zur Konfliktlösung. Mir wurde klar, dass viele Herausforderungen als Stiefmutter auch in anderen Lebensbereichen auftreten und es Werkzeuge gibt, um damit umzugehen.
 
-Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell für Patchworkfamilien. **Mein Ziel war es, einen leicht verständlichen und umsetzbaren Ansatz zu finden, der dennoch tiefgreifende Veränderungen bewirken konnte.** das entstandene 3-Schritte-Framework basiert auf folgenden Säulen:
+Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell für Patchworkfamilien. ** Mein Ziel war es, einen leicht verständlichen und umsetzbaren Ansatz zu finden, der dennoch tiefgreifende Veränderungen bewirken konnte.** das entstandene 3-Schritte-Framework basiert auf folgenden Säulen:
 
 - *Analyse:* der erste Schritt ist eine gründliche Analyse der aktuellen Familiensituation. Dabei geht es darum, die Bedürfnisse, Wünsche und Herausforderungen aller Familienmitglieder zu verstehen und zu berücksichtigen. Eine ehrliche Bestandsaufnahme ist die Grundlage für positive Veränderungen.
 - *Veränderungen initiieren:* Basierend auf den Erkenntnissen aus der Analyse werden konkrete Veränderungen in der Familiendynamik angestoßen. Dies kann bedeuten, Rollen und Verantwortlichkeiten neu zu definieren, Grenzen zu setzen oder neue Rituale einzuführen. Wichtig ist, dass alle Familienmitglieder einbezogen werden und die Veränderungen gemeinsam gestaltet werden.

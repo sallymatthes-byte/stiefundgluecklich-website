@@ -40,11 +40,11 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 
 In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/blog/bonuskinder-und-konflikte/) das A und O. Ich habe dir einige wertvolle Strategien zusammengestellt, die dir helfen können, sprachliche Hürden zu meistern und ein positives Kommunikationsklima zu schaffen:
 
-- **Etabliere klare Sprachenregeln:** legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
-- **Pflegt eure Familiensprachen gleichermaßen:** Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
-- **Nutzt Übersetzungs-Apps und Bildwörterbücher:** manchmal fehlen einfach die Worte. Hier können visuelle Hilfen und Apps eine Brücke bauen. Macht es zu einem lustigen Spiel, gemeinsam nach Begriffen zu suchen.
-- **Habt Geduld und Humor:** Sprachenpannen gehören dazu. Wenn mal etwas schief geht, lacht gemeinsam darüber. Humor ist ein starker Verbündeter, um Frustration abzubauen und nähe zu schaffen.
-- **Feiert eure mehrsprachige Identität:** eure Sprachenvielfalt ist etwas besonderes. Seid stolz darauf! Pflegt Traditionen aus allen euren Kulturen und feiert eure einzigartige Patchwork-Identität.
+- ** Etabliere klare Sprachenregeln:** legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
+- ** Pflegt eure Familiensprachen gleichermaßen:** Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
+- ** Nutzt Übersetzungs-Apps und Bildwörterbücher:** manchmal fehlen einfach die Worte. Hier können visuelle Hilfen und Apps eine Brücke bauen. Macht es zu einem lustigen Spiel, gemeinsam nach Begriffen zu suchen.
+- ** Habt Geduld und Humor:** Sprachenpannen gehören dazu. Wenn mal etwas schief geht, lacht gemeinsam darüber. Humor ist ein starker Verbündeter, um Frustration abzubauen und nähe zu schaffen.
+- ** Feiert eure mehrsprachige Identität:** eure Sprachenvielfalt ist etwas besonderes. Seid stolz darauf! Pflegt Traditionen aus allen euren Kulturen und feiert eure einzigartige Patchwork-Identität.
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
 

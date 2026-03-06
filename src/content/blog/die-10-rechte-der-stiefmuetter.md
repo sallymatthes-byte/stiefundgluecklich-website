@@ -28,7 +28,7 @@ Du sehnst dich danach, respektiert und wertgeschätzt zu werden – sowohl von d
 
 ## #1 “Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen.”
 
-In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – hinter den Kindern, der Ex-partnerin oder den Bedürfnissen anderer.**  doch eine starke Partnerschaft ist Essenziell, um die Familie zu stabilisieren.** es geht darum, klare Grenzen zu setzen, auch gegenüber der Ex-partnerin, und bewusst Zeit für die Paarbeziehung Einzuplanen.
+In vielen Patchworkfamilien fühlen sich Stiefmütter oft an zweiter Stelle – hinter den Kindern, der Ex-partnerin oder den Bedürfnissen anderer.** doch eine starke Partnerschaft ist Essenziell, um die Familie zu stabilisieren.** es geht darum, klare Grenzen zu setzen, auch gegenüber der Ex-partnerin, und bewusst Zeit für die Paarbeziehung Einzuplanen.
 
 Stell dir vor, du hast ein date mit deinem Partner geplant, aber seine Ex ruft an, weil sie spontan Hilfe braucht. Er sagt sofort zu und lässt dich stehen. Du fühlst dich zurückgesetzt und fragst dich, ob du wirklich an erster Stelle stehst.
 
@@ -38,11 +38,11 @@ Stell dir vor, du hast ein date mit deinem Partner geplant, aber seine Ex ruft a
 
 Entscheidungen, die die ganze Familie betreffen, sollten nicht über den Kopf der Stiefmutter hinweg getroffen werden. **Als Stiefmutter hast du ein Recht darauf, gehört und einbezogen zu werden.** Stell dir vor, dein Partner und seine Ex entscheiden, dass das Kind täglich 2 Stunden lernen soll, ohne dich vorher zu fragen oder deine Meinung einzuholen. Du erfährst es nur zufällig und fühlst dich übergangen, da du ja diejenige bist, die die Hausaufgabenzeit abdeckt.
 
-Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr leben und das der Familie betreffen. **Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen.** Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
+Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr leben und das der Familie betreffen. ** Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen.** Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
 
 ## #3 “Ex-Partner, Schwiegereltern und erwachsene Kinder dürfen keine Pläne machen, die mein Leben betreffen, ohne meine Zustimmung.”
 
-Als Stiefmutter hast du ein Recht auf Privatsphäre und darauf, dass deine Zeit und deine Ressourcen respektiert werden. **Andere Familienmitglieder sollten keine Pläne schmieden, die dich betreffen, ohne dich einzubeziehen und dein Einverständnis einzuholen.** nehmen wir an, deine Schwiegermutter plant einen Familienurlaub und setzt einfach voraus, dass du mitkommst und die Kosten trägst. Oder die Ex-Partnerin deines Mannes beschließt spontan, dass die Kinder eine Woche länger bei euch bleiben, ohne zu fragen, ob das für dich in Ordnung ist.
+Als Stiefmutter hast du ein Recht auf Privatsphäre und darauf, dass deine Zeit und deine Ressourcen respektiert werden. ** Andere Familienmitglieder sollten keine Pläne schmieden, die dich betreffen, ohne dich einzubeziehen und dein Einverständnis einzuholen.** nehmen wir an, deine Schwiegermutter plant einen Familienurlaub und setzt einfach voraus, dass du mitkommst und die Kosten trägst. Oder die Ex-Partnerin deines Mannes beschließt spontan, dass die Kinder eine Woche länger bei euch bleiben, ohne zu fragen, ob das für dich in Ordnung ist.
 
 *Als Stiefmutter bist du kein Anhängsel der Familie, sondern ein eigenständiger Mensch mit eigenen Bedürfnissen und Plänen.* es ist eine Frage des Respekts, dich bei Entscheidungen, die dein leben betreffen, zu konsultieren und deine Zustimmung einzuholen.
 
@@ -66,7 +66,7 @@ Natürlich geht es nicht darum, den Kindern deines Partners den Kontakt zu verwe
 
 ## #6 “Ich bin nicht allein für den Haushalt verantwortlich; die Aufgaben werden fair verteilt.”
 
-Stiefmütter übernehmen oft mehr Hausarbeit als nötig, besonders wenn sie versuchen, sich in die Familie einzubringen und ihre Rolle zu finden. **Doch schnell kann daraus eine ungesunde Dynamik entstehen.
+Stiefmütter übernehmen oft mehr Hausarbeit als nötig, besonders wenn sie versuchen, sich in die Familie einzubringen und ihre Rolle zu finden. ** Doch schnell kann daraus eine ungesunde Dynamik entstehen.
 *Deshalb ist es so wichtig, von Anfang an klare Absprachen über die Verteilung der Hausarbeit zu treffen.* jedes Familienmitglied sollte entsprechend seinem alter und seinen Fähigkeiten eingebunden werden.
 
 Es geht nicht darum, penibel jede Minute aufzurechnen, sondern Hand in Hand zu arbeiten und sich gegenseitig zu unterstützen. **Wenn die Aufgaben gerecht verteilt sind, bleibt dir auch genug Zeit und Energie, um dich selbst und deine Partnerschaft zu pflegen.

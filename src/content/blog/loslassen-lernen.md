@@ -20,7 +20,7 @@ Oft tragen wir unbewusst ideale und Sehnsüchte in uns, die tief in unserer Herk
 
 Vielleicht bist du in einer traditionellen Kernfamilie aufgewachsen, in der Mutter, Vater und Kind unter einem Dach lebten. Dieses Modell wurde dir als *Inbegriff von Familie* vorgelebt und du hast verinnerlicht, dass es so sein sollte. Oder du hast selbst erlebt, wie schmerzlich eine Trennung sein kann und sehnst dich nun nach Harmonie und Beständigkeit.
 
-Auch die Gesellschaft prägt unsere [Vorstellungen](/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann/) von Familie. In Filmen, Werbung und Sozialen Medien wird oft das Bild der “perfekten” Familie gezeichnet: **glücklich, konfliktfrei und immer füreinander da** . Als (Bonus-)Mutter sollen wir liebevoll, geduldig und aufopfernd sein – Erwartungen, die schwer zu erfüllen sind.
+Auch die Gesellschaft prägt unsere [Vorstellungen](/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann/) von Familie. In Filmen, Werbung und Sozialen Medien wird oft das Bild der “perfekten” Familie gezeichnet: **glücklich, konfliktfrei und immer füreinander da**. Als (Bonus-)Mutter sollen wir liebevoll, geduldig und aufopfernd sein – Erwartungen, die schwer zu erfüllen sind.
 
 Hinzu kommt die tiefe Sehnsucht nach der “heilen” Familie. Der Wunsch, dem Kind ein stabiles und harmonisches Zuhause zu bieten, in dem es sicher und geliebt aufwächst. Der Traum, als (Bonus-)Mama all das zu geben und zu sein, was wir uns erhoffen.
 
@@ -46,11 +46,11 @@ In diesen Phasen ist es nicht leicht, den glauben an sich selbst zu bewahren. Um
 
 - Dankbarkeit praktizieren: Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen lieben. Je mehr du das positive in den Vordergrund rückst, desto stärker fühlst du dich.
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank regelmäßig auf. Eine Gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
-- **Grenzen setzen:**
+- ** Grenzen setzen:**
 
 Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
 
-- **Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
+- ** Erfolge feiern:** Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.
 
@@ -62,7 +62,7 @@ auf deiner Reise des Loslassens und der Neuorientierung ist es essenziell, *inn
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und stärken an und feiere deine Fortschritte.
 
-Pflege auch die **Dankbarkeit für das gute in deinem leben**, gerade im jetzt. Inmitten der Herausforderungen gibt es so viel schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
+Pflege auch die ** Dankbarkeit für das gute in deinem leben**, gerade im jetzt. Inmitten der Herausforderungen gibt es so viel schönes und Liebenswertes – in dir, in deiner Patchworkfamilie, in jedem einzelnen Tag. Mache es dir zur Gewohnheit, deine Aufmerksamkeit darauf zu Richten und es Wertzuschätzen.
 
 Nicht zuletzt geht es darum,**
 
