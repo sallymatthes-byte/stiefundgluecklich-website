@@ -122,7 +122,7 @@ Angst ist kein Zeichen dafür, dass du versagt hast. Sie ist kein Beweis, dass d
 
 Vielmehr zeigt sie dir, wie sehr du dich bemühst, dazuzugehören. Wie stark dein Wunsch nach Verbindung ist. Wie sehr du Teil sein willst – nicht nur organisatorisch, sondern emotional.
 
-Doch du musst dich nicht zerreißen, um geliebt zu werden.Du musst dich nicht perfekt verhalten, um deinen Platz zu verdienen.Und du musst dich nicht selbst verlieren, um „funktionierende Bonusmama“ zu sein.
+Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht perfekt verhalten, um deinen Platz zu verdienen. Und du musst dich nicht selbst verlieren, um „funktionierende Bonusmama“ zu sein.
 
 Du darfst weich und klar zugleich sein. Du darfst für dich sorgen, ohne egoistisch zu sein. Und du darfst dir Unterstützung holen – nicht, weil du schwach bist, sondern weil du mutig genug bist, es nicht mehr allein machen zu wollen.
 

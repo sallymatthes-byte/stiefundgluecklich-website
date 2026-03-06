@@ -11,7 +11,7 @@ image: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 imageAlt: "Die 4 Phasen der Patchworkfamilie"
 ---
 
-In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
+In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment. aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
 Diese Phasen gibt es auch in der Patchworkfamilie. Ich bin der Meinung, dass du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) alle 4 Phasen durchlaufen wirst und in jeder Phase gibt es einiges zu beachten.
 
 Doch lass uns mal von vorn beginnen. Welche 4 Phasen gibt es eigentlich?

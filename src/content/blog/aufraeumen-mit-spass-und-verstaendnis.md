@@ -77,7 +77,7 @@ Mache aus dem aufräumen einen Wettbewerb. Wer schafft es, die meisten Spielsach
 
 - ***Schatzsuche:***
 
-Verstecke einen kleinen Schatz (z.B. Einen Sticker oder eine Süßigkeit) im Kinderzimmer. Die Kinder dürfen ihn suchen, sobald sie aufgeräumt haben.
+Verstecke einen kleinen Schatz (z. B. Einen Sticker oder eine Süßigkeit) im Kinderzimmer. Die Kinder dürfen ihn suchen, sobald sie aufgeräumt haben.
 
 - ***Aufräum-Roboter:***
 
@@ -109,7 +109,7 @@ Jedes Kind braucht einen Platz, an dem es seine Sachen aufbewahren kann. Investi
 - **Gebt selbst ein gutes Vorbild ab:** Kinder lernen durch Nachahmung. Wenn sie sehen, dass auch die Erwachsenen regelmäßig aufräumen, werden sie es leichter akzeptieren. *Räumt gemeinsam auf und zeigt, dass Ordnung für alle gilt.*
 - **Lobt Fortschritte und feiert Erfolge:**
 
-Motivation ist der Schlüssel zum Erfolg. Lobt die Kinder, wenn sie sich bemühen und Fortschritte machen. Feiert gemeinsam, wenn ihr ein Aufräum-Ziel erreicht habt, z.B. Mit einem Eis-Ausflug oder einem Film-Abend.
+Motivation ist der Schlüssel zum Erfolg. Lobt die Kinder, wenn sie sich bemühen und Fortschritte machen. Feiert gemeinsam, wenn ihr ein Aufräum-Ziel erreicht habt, z. B. Mit einem Eis-Ausflug oder einem Film-Abend.
 
 - ** Seid geduldig und konsequent:*** Veränderungen brauchen Zeit und Wiederholung.* bleibt geduldig, auch wenn nicht immer alles perfekt läuft. Seid konsequent in euren Erwartungen, aber geht auch mit Humor und Gelassenheit an die Sache heran.
 - **Passt die Regeln an:** mit der Zeit und den sich ändernden Bedürfnissen der Kinder müssen auch die Aufräum-Regeln angepasst werden. *Bleibt flexibel und offen für Veränderungen.* Sprecht regelmäßig darüber, was gut funktioniert und was verbessert werden kann.

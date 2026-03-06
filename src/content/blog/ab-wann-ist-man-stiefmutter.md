@@ -37,7 +37,7 @@ Es bedeutet, jeden Tag aufs neue Grenzen zu erkunden – zwischen nähe und Dist
 
 Als ich Stéphane kennenlernte, war ich 30 und dachte, ich hätte schon alles im Griff, was Kinder angeht. Immerhin arbeitete ich seit Jahren als Kita-Pädagogin und war die liebende Tante einer vierjährigen nichte.
 
-Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzählte. Wir saßen in einem kleinen Café, und seine Augen leuchteten, als er von den Mädchen sprach.** in diesem Moment spürte ich eine Mischung aus Vorfreude und Unsicherheit in meinem Bauch.**![Zwei Hände, die sich auf einem Holztisch berühren — warm, verbunden](/images/blog/stiefmutter-haende.jpg)
+Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzählte. Wir saßen in einem kleinen Café, und seine Augen leuchteten, als er von den Mädchen sprach.** in diesem Moment spürte ich eine Mischung aus Vorfreude und Unsicherheit in meinem Bauch.**![Zwei Hände, die sich auf einem Holztisch berühren — warm, verbunden](/images/blog/stiefmutter-haende. jpg)
 
 Nach drei Monaten Beziehung war es dann soweit: Das erste treffen stand an. Ich hatte die ganze nacht kaum geschlafen, mir tausend Szenarien ausgemalt und sogar einen kleinen Notfallplan in meiner Handtasche.
 
@@ -74,7 +74,7 @@ Da war zum Beispiel dieser Abend, als die kleine beim essen plötzlich verkünde
 
 ** Aus Überforderung wurde Selbstfürsorge.** der Wendepunkt kam nach einem besonders anstrengenden Wochenende. In dieser nacht schrieb ich in mein Tagebuch: "auch Bonusmamas brauchen Pausen!" dieser simple Satz wurde zu meinem Mantra.
 
-![Frau schreibt Tagebuch am Fenster — Herbstlicht, Kaffeetasse, nachdenklich](/images/blog/stiefmutter-reflexion.jpg)
+![Frau schreibt Tagebuch am Fenster — Herbstlicht, Kaffeetasse, nachdenklich](/images/blog/stiefmutter-reflexion. jpg)
 
 ---
 
@@ -126,5 +126,5 @@ Rechtlich gibt es keinen festen Zeitpunkt. In der Praxis wirst du zur Stiefmutte
 Bonusmama ist eine positive Alternative zum Begriff Stiefmutter. Er betont, dass du ein Bonus für die Familie bist — eine zusätzliche Bezugsperson, kein Ersatz für die leibliche Mutter. Der Begriff hat sich im deutschsprachigen Raum seit etwa 2015 verbreitet.
 
 ### Welche Rechte hat eine Stiefmutter?
-Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z.B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.
+Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z. B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.
 FAQ_END -->

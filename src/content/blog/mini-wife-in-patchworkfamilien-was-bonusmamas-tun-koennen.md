@@ -12,7 +12,7 @@ imageAlt: "Mini-Wife in Patchworkfamilien"
 
 ### Plötzlich sitzt da jemand auf „deinem“ Platz. Und es fühlt sich nicht wie Zufall an.
 
-Du kommst abends nach Hause, freust dich auf ein wenig Paarzeit. Doch da sitzt sie – eng neben deinem Partner. Die Tochter. Die Hand auf seinem Arm. Deine Schuhe hat sie Ordentlich zur seite gestellt.und ohne ein Wort Weißt du: „hier ist kein Platz für mich.“
+Du kommst abends nach Hause, freust dich auf ein wenig Paarzeit. Doch da sitzt sie – eng neben deinem Partner. Die Tochter. Die Hand auf seinem Arm. Deine Schuhe hat sie Ordentlich zur seite gestellt. und ohne ein Wort Weißt du: „hier ist kein Platz für mich.“
 
 Willkommen in einem der sensibelsten und oft unausgesprochenen Themen im leben vieler Bonusmamas: dem Mini-Wife-Phänomen.
 
@@ -34,7 +34,7 @@ Der Wendepunkt kam in einer Einheit meiner systemischen Coachingausbildung. Them
 
 Und plötzlich fiel der Groschen.
 
-Sie war nicht gegen mich.Sie kämpfte nicht um macht.Sie kämpfte um halt.
+Sie war nicht gegen mich. Sie kämpfte nicht um macht. Sie kämpfte um halt.
 
 Sie war ein Kind – in einer Rolle, die sie nie hätte übernehmen dürfen. Und während ich mich klein und fehl am platz fühlte, versuchte sie, das zu Retten, was für sie von „familie“ noch Übrig war.
 
@@ -61,7 +61,7 @@ Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 ❗Wichtig zu verstehen:
 
-Das Kind ist nicht schuld.Es ist Aufgabe des Vaters – und auch der Erwachsenen im System –, für eine klare, sichere Rollenverteilung zu Sorgen.
+Das Kind ist nicht schuld. Es ist Aufgabe des Vaters – und auch der Erwachsenen im System –, für eine klare, sichere Rollenverteilung zu Sorgen.
 
 ![Mini-Wife in Patchworkfamilien — Stimmungsbild 2](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
 
@@ -77,7 +77,7 @@ Und dann war da auch der Druck, die „Gute“ zu sein. Die verständnisvolle Bo
 
 Doch je länger ich schwieg, desto mehr wurde ich innerlich laut. Ich begann, in Gedanken zu diskutieren. Mich zu vergleichen. Ich fühlte mich übergangen – von meinem Partner, aber auch von mir selbst.
 
-Und vielleicht das größte Hindernis: ich wusste gar nicht, wie ich das Thema ansprechen soll, ohne [Schuldgefühle](/blog/bonusmamas-und-schuldgefuehle/) zu erzeugen.Ich wollte niemandem wehtun – und genau deshalb tat ich mir selbst Weh.
+Und vielleicht das größte Hindernis: ich wusste gar nicht, wie ich das Thema ansprechen soll, ohne [Schuldgefühle](/blog/bonusmamas-und-schuldgefuehle/) zu erzeugen. Ich wollte niemandem wehtun – und genau deshalb tat ich mir selbst Weh.
 
 Erst als ich verstand, dass es nicht um schuld oder Rechtfertigung geht, sondern um Beziehung, um gesunde Strukturen und emotionale Sicherheit für alle Beteiligten, konnte ich die Dynamik wirklich benennen.
 
@@ -93,7 +93,7 @@ Deine Wahrnehmung zählt. Du bildest dir nichts ein. Beobachte bewusst: In welch
 
 ### 2. Wandel einleiten – Grenzen setzen, ohne Schuldzuweisung
 
-Der wichtigste Gesprächspartner in dieser Dynamik ist dein Partner.Nicht das Kind.
+Der wichtigste Gesprächspartner in dieser Dynamik ist dein Partner. Nicht das Kind.
 
 Sprich ehrlich, aber liebevoll mit ihm:
 
@@ -106,14 +106,14 @@ Er muss erkennen: seine Tochter ist seine Tochter – nicht seine Vertraute, nic
 
 ### 3. Verbindend kommunizieren – Gib Sicherheit, nicht Widerstand
 
-Du bist die Erwachsene.Auch wenn du dich manchmal wie ein Teenager fühlst, der um seinen Platz kämpft – du hast die reife, neue Möglichkeiten zu schaffen.
+Du bist die Erwachsene. Auch wenn du dich manchmal wie ein Teenager fühlst, der um seinen Platz kämpft – du hast die reife, neue Möglichkeiten zu schaffen.
 
 Sprich mit dem Kind, wenn es sich richtig anfühlt – nicht als Konfrontation, sondern als Einladung:
 
 > „Ich bin nicht deine Mama. Aber ich bin gern da – und Freue mich, wenn wir Miteinander klar und Freundlich umgehen.“
 > „Du darfst Kind sein. Und ich bin nicht hier, um dir etwas wegzunehmen.“
 
-Suche kleine Rituale, in denen nähe entstehen darf – ohne Zwang, ohne Konkurrenz.ein gemeinsames Frühstück. Ein Spiel. Ein Spaziergang.
+Suche kleine Rituale, in denen nähe entstehen darf – ohne Zwang, ohne Konkurrenz. ein gemeinsames Frühstück. Ein Spiel. Ein Spaziergang.
 
 Und wenn’s nicht klappt? Dann ist auch das okay. Nähe darf wachsen. Und braucht oft Zeit.
 

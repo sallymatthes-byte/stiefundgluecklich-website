@@ -22,7 +22,7 @@ Aber was, wenn ich dir sage: Es ist nicht dein Fehler?Das ist kein Bonusmama-Pro
 
 Ich erinnere mich an einen Abend, auf den ich mich wochenlang gefreut hatte. Endlich ein ruhiger Abend mit meinem Partner - ohne Pläne, ohne Stress. Doch kaum waren die Kinder da, war alles Anders. Ich wurde zur Zuschauerin.
 
-Mein Partner wechselte in den "Elternmodus" - und ich? Ich war plötzlich außen vor.ich fühlte mich Überflüssig, unwichtig, Ausgetauscht.
+Mein Partner wechselte in den "Elternmodus" - und ich? Ich war plötzlich außen vor. ich fühlte mich Überflüssig, unwichtig, Ausgetauscht.
 
 Und während ich mich in diesen Gedanken verlor, kam die Erkenntnis:👉 das Problem waren nicht die Kinder.
 

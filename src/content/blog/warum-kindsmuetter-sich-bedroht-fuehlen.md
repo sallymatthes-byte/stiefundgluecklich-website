@@ -62,7 +62,7 @@ Als Bonusmama ist dir das Wohlergehen deines Bonuskindes ein Herzensanliegen. Du
 
 -*Ermuntere das Kind, eine liebevolle Beziehung zur Kindsmutter aufrechtzuerhalten*, und sprich positiv über sie.
 
--*Sucht nach Möglichkeiten, als Team zusammenzuarbeiten*, z.B. Durch gemeinsame Aktivitäten mit dem Kind.
+-*Sucht nach Möglichkeiten, als Team zusammenzuarbeiten*, z. B. Durch gemeinsame Aktivitäten mit dem Kind.
 
 Eine gute Beziehung zwischen dir als Bonusmama und der Kindsmutter ist ein *unschätzbares Geschenk für das Kind*. Es erlebt, dass seine wichtigsten Bezugspersonen an einem Strang ziehen und ihm ein Umfeld voller Liebe und Geborgenheit schaffen. Und sich nicht in [Konflikten](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) miteinander verlieren. Diese Erfahrung kann prägend für seine emotionale und soziale Entwicklung sein.
 

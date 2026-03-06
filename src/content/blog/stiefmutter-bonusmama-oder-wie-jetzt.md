@@ -16,7 +16,7 @@ Und wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das 
 
 ## Die Entstehung des Begriffs
 
-Lass uns dafür mal einen Blick in die [Vergangenheit](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index.html) werfen: in die Zeit, in der eine Kernfamilie aus Vater-Mutter-Kind(er) bestand.
+Lass uns dafür mal einen Blick in die [Vergangenheit](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index. html) werfen: in die Zeit, in der eine Kernfamilie aus Vater-Mutter-Kind(er) bestand.
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab – Verhütung war damals bekanntermaßen noch etwas schwierig.
 In dieser Zeit war auch der Tod eines Elternteils nicht selten: Väter starben in Kriegen, die Mütter bei einer der zahlreichen Geburten; oft kamen auch Krankheiten dazu.
 
@@ -41,7 +41,7 @@ Doch das finden in diese [Rollen](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-
 Oder man zieht zu der bestehenden Familie und fragt sich: “Wo ist mein Platz in dieser Konstellation?” und ist auf der Suche nach einer gemeinsamen Neuausrichtung des Familienmodells.
 
 In vielen Fällen kommen auch die eigenen Kinder mit dazu und dann gilt es nicht nur sich selbst in die neue Aufstellung einzufinden, sondern auch die Kinder miteinander zu verknüpfen. Und auch die gemeinsam verbrachte Zeit gestaltet sich unterschiedlich: je nach Aufteilung des Sorgerechts und der Wohnorte. (bei uns beispielsweise kommt erschwerend hinzu, dass die Kinder in Frankreich leben und eine andere Sprache sprechen)
-Und diese Vielfältigkeit demonstriert der Begriff der Patchworkfamilie. Was nach einem lustigen, vielfältigen Fleckenteppich klingt, ist in der Realität oft anders und mit vielen Stolpersteinen verbunden. Auch wenn Beispiele wie dieses [hier](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index.html) beweisen, wie schön das Zusammenleben sein kann.
+Und diese Vielfältigkeit demonstriert der Begriff der Patchworkfamilie. Was nach einem lustigen, vielfältigen Fleckenteppich klingt, ist in der Realität oft anders und mit vielen Stolpersteinen verbunden. Auch wenn Beispiele wie dieses [hier](https://www.planet-wissen.de/gesellschaft/familie/patchwork_familien/index. html) beweisen, wie schön das Zusammenleben sein kann.
 
 Es geht ja schon mit der Begrifflichkeit los: Es gibt den*biologischen Elternteil*, welcher maßgeblich an der Zeugung des Kindes beteiligt war. Es gibt den*rechtlichen Elternteil*, welcher das Sorgerecht innehat (oder diese Rechte durch eine Adoption erworben hat). Und es gibt den*sozialen Elternteil*, der ohne gesetzliche Rechtsansprüche für das Kind eine wichtige Bezugsperson darstellt. Leider ist das aber gesetzlich so nicht verankert – wie soll man da den Überblick Behalten?
 

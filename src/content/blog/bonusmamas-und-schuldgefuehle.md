@@ -43,7 +43,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 Schuldgefühle sind ein häufiger Begleiter für Stiefmütter. Sie entstehen oft aus dem tiefen Wunsch heraus, alles richtig zu machen und niemandem wehzutun. Doch in der komplexen Dynamik einer Patchworkfamilie ist es nahezu unmöglich, immer allen gerecht zu werden. Konflikte zwischen den Bedürfnissen der Stiefkinder, der eigenen Kinder, des Partners und den eigenen wünschen führen fast zwangsläufig zu Situationen, in denen man sich schuldig fühlt.
 
-Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere** eigenen Werte ** verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas normales und sogar nützliches.
+Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig. html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere** eigenen Werte ** verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas normales und sogar nützliches.
 
 Problematisch wird es, wenn die Schuldgefühle überhandnehmen und zu einer dauerhaften Belastung werden.
 Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
