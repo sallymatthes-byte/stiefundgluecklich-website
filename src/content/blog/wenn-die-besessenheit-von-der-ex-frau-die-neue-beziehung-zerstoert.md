@@ -117,9 +117,7 @@ Ich weiß genau, wie du dich fühlst. Als Patchwork-Expertin habe ich nicht nur 
 
 *Der Unterschied zwischen einer Bonusmama, die unter der Situation leidet, und einer, die ihre Patchworkfamilie glücklich lebt, liegt nicht in den äußeren Umständen*. Er liegt in den Werkzeugen und Strategien, die sie zur Verfügung hat.
 
-**Lass uns in einem kostenlosen Analysegespräch gemeinsam herausfinden:**
-
-- wie dein persönlicher Weg zu mehr Gelassenheit aussehen könnte
+**Du willst raus aus dem Kreislauf?** Finde in 2 Minuten heraus, welcher nächste Schritt zu deiner Situation passt — mit dem [kostenlosen Quiz](/quiz).
 
 <!-- FAQ_START
 ## Häufige Fragen
