@@ -1,0 +1,27 @@
+# StiefundGlücklich — robots.txt
+# Allow all crawlers including AI engines
+
+User-agent: *
+Allow: /
+
+# AI Crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://stiefundgluecklich.de/sitemap-index.xml

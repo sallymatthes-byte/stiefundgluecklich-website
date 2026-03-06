@@ -4,8 +4,8 @@ description: "Die Eifersucht auf das Stiefkind belastet dich? Entdecke, wie du d
 category: "kinder-bindung"
 date: 2024-11-21
 updated: 2025-02-06
-metaTitle: "Stiefkind-Eifersucht überwinden: Von Neid zu echter Harmonie"
-metaDescription: "Eifersucht auf das Stiefkind? Warum das Gefühl normal ist und wie du den Weg zu echter Familienharmonie findest."
+metaTitle: "Eifersucht auf das Stiefkind: Warum es normal ist + 3 Wege raus"
+metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gefühl häufiger ist als du denkst — und wie du davon loskommst."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"

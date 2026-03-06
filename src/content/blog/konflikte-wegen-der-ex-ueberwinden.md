@@ -4,8 +4,8 @@ description: "Die Ex stört eure Beziehung? Erfahre, wie du dich emotional abgre
 category: "ex-und-system"
 date: 2024-12-06
 updated: 2025-04-15
-metaTitle: "Konflikte wegen der Ex: So überwindest du den Dauerstreit"
-metaDescription: "Ständig Streit wegen der Ex-Frau? Wie du als Bonusmama Konflikte löst und endlich Frieden in eure Beziehung bringst."
+metaTitle: "Ständig Streit wegen der Ex-Frau? So stoppst du den Kreislauf"
+metaDescription: "Ex-Frau macht ständig Probleme? Wie du als Bonusmama Konflikte wegen der Ex-Partnerin überwindest und Frieden findest."
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"

@@ -4,8 +4,8 @@ description: "Konflikte mit den Bonuskindern in der Partnerschaft? Erfahre, wie 
 category: "kinder-bindung"
 date: 2023-12-15
 updated: 2024-06-15
-metaTitle: "Konflikte mit Bonuskindern: So baust du Brücken statt Mauern"
-metaDescription: "Streit, Ablehnung, Trotz — Konflikte mit Bonuskindern tun besonders weh. Was dahintersteckt und wie du damit umgehst."
+metaTitle: "Konflikte mit Bonuskindern: Ablehnung, Streit & was hilft"
+metaDescription: "Dein Bonuskind lehnt dich ab oder es gibt ständig Streit? Warum Konflikte mit Stiefkindern entstehen und wie du Brücken baust."
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 imageAlt: "Bonuskinder und Konflikte"

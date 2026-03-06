@@ -3,8 +3,8 @@ title: "Die unsichtbare Last: Verluste und Loyalitätskonflikte von Bonuskindern
 description: "Kinder in Patchworkfamilien kämpfen oft mit Verlusten und Loyalitätskonflikten. Erfahre, wie du sie dabei unterstützen kannst."
 category: "kinder-bindung"
 date: 2024-08-23
-metaTitle: "Loyalitätskonflikte bei Kindern in Patchworkfamilien"
-metaDescription: "Dein Bonuskind steckt zwischen den Fronten? Was hinter Loyalitätskonflikten steckt und wie du als Bonusmama helfen kannst."
+metaTitle: "Loyalitätskonflikte bei Bonuskindern: Zwischen den Stühlen"
+metaDescription: "Dein Bonuskind steckt zwischen Mama und Papa? Was hinter Loyalitätskonflikten in Patchworkfamilien steckt und wie du helfen kannst."
 heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Die unsichtbare Last"

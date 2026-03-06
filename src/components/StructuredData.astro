@@ -1,0 +1,107 @@
+---
+interface Props {
+  type: 'article' | 'website' | 'breadcrumb';
+  title?: string;
+  description?: string;
+  date?: Date;
+  updated?: Date;
+  image?: string;
+  slug?: string;
+  category?: string;
+}
+
+const { type, title, description, date, updated, image, slug, category } = Astro.props;
+
+const siteUrl = 'https://stiefundgluecklich.de';
+
+const personSchema = {
+  "@type": "Person",
+  "@id": `${siteUrl}/#author`,
+  "name": "Sally Matthes",
+  "url": `${siteUrl}/about/`,
+  "jobTitle": "Patchwork-Coach & Erziehungswissenschaftlerin",
+  "description": "Coach für Bonusmamas in Patchworkfamilien. Erziehungswissenschaftlerin und selbst Bonusmama.",
+  "sameAs": [
+    "https://www.instagram.com/stiefundgluecklich/",
+    "https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm"
+  ]
+};
+
+const orgSchema = {
+  "@type": "Organization",
+  "@id": `${siteUrl}/#organization`,
+  "name": "StiefundGlücklich",
+  "url": siteUrl,
+  "logo": `${siteUrl}/logo.png`,
+  "founder": { "@id": `${siteUrl}/#author` },
+  "description": "Coaching und Ressourcen für Bonusmamas in Patchworkfamilien"
+};
+
+let schema: any;
+
+if (type === 'article' && title) {
+  schema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "headline": title,
+        "description": description,
+        "author": { "@id": `${siteUrl}/#author` },
+        "publisher": { "@id": `${siteUrl}/#organization` },
+        "datePublished": date?.toISOString().split('T')[0],
+        "dateModified": (updated || date)?.toISOString().split('T')[0],
+        "mainEntityOfPage": `${siteUrl}/blog/${slug}/`,
+        "image": image ? `${siteUrl}${image}` : undefined,
+        "inLanguage": "de-DE",
+        "isPartOf": { "@id": `${siteUrl}/#website` }
+      },
+      personSchema,
+      orgSchema,
+      {
+        "@type": "WebSite",
+        "@id": `${siteUrl}/#website`,
+        "name": "StiefundGlücklich",
+        "url": siteUrl,
+        "inLanguage": "de-DE",
+        "publisher": { "@id": `${siteUrl}/#organization` }
+      }
+    ]
+  };
+} else if (type === 'breadcrumb' && title && slug) {
+  const categoryLabels: Record<string, string> = {
+    'rolle-identitaet': 'Rolle & Identität',
+    'partnerschaft': 'Partnerschaft',
+    'ex-und-system': 'Die Ex & das System',
+    'kinder-bindung': 'Kinder & Bindung'
+  };
+  schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Start", "item": siteUrl },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${siteUrl}/blog/` },
+      ...(category ? [{ "@type": "ListItem", "position": 3, "name": categoryLabels[category] || category, "item": `${siteUrl}/blog/?kategorie=${category}` }] : []),
+      { "@type": "ListItem", "position": category ? 4 : 3, "name": title }
+    ]
+  };
+} else {
+  schema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${siteUrl}/#website`,
+        "name": "StiefundGlücklich",
+        "url": siteUrl,
+        "inLanguage": "de-DE",
+        "publisher": { "@id": `${siteUrl}/#organization` }
+      },
+      orgSchema,
+      personSchema
+    ]
+  };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

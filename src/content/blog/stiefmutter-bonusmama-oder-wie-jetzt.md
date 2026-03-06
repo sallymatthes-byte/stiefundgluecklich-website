@@ -4,8 +4,8 @@ description: "Allein schon den passenden Begriff für die neue Rolle zu finden i
 category: "rolle-identitaet"
 date: 2023-12-03
 updated: 2025-04-29
-metaTitle: "Stiefmutter oder Bonusmama? Der Unterschied (+ warum er"
-metaDescription: "Stiefmutter, Bonusmama oder doch was anderes? Warum die Bezeichnung mehr als Wortklauberei ist — und was sie über deine Rolle verrät."
+metaTitle: "Stiefmutter, Bonusmama, Stiefmama: Was ist der Unterschied?"
+metaDescription: "Stiefmutter oder Bonusmama — was ist der Unterschied? Was bedeutet Stepmom, Bonusmutter, Bonustochter? Alle Begriffe erklärt."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Stiefmutter, Bonusmama – Oder Wie Jetzt?"

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import StructuredData from '../../components/StructuredData.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -44,6 +45,22 @@ const relatedPosts = allPosts
   description={post.data.metaDescription || post.data.excerpt}
   canonical={`https://stiefundgluecklich.de/blog/${post.slug}`}
 >
+  <StructuredData 
+    type="article"
+    title={post.data.title}
+    description={post.data.metaDescription || post.data.description}
+    date={post.data.date}
+    updated={post.data.updated}
+    image={post.data.heroImage}
+    slug={post.slug}
+    category={post.data.category}
+  />
+  <StructuredData 
+    type="breadcrumb"
+    title={post.data.title}
+    slug={post.slug}
+    category={post.data.category}
+  />
   <article class="pt-28 md:pt-32 pb-16">
     <div class="container mx-auto px-5 md:px-6">
       <!-- Back Link -->
