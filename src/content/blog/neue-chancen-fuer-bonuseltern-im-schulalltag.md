@@ -81,7 +81,6 @@ Der erste Schritt besteht darin, das bestehende System zu verstehen und deine ei
 **Informiere dich über die formalen Strukturen:**- Wie ist der Kindergarten oder die Schule in deinem Bundesland organisiert?
 
 - Gibt es einen Elternbeirat oder Elternverein und wie funktioniert er?
-
 - Welche Veranstaltungen finden regelmäßig statt?
 
 Diese Informationen helfen dir, das System zu verstehen, in dem du dich als Bonuseltern im Schulalltag bewegst.
@@ -89,7 +88,6 @@ Diese Informationen helfen dir, das System zu verstehen, in dem du dich als Bonu
 **Kläre deine eigenen Wünsche:**- Möchtest du dich aktiv beteiligen oder eher im Hintergrund bleiben?
 
 - An welchen Veranstaltungen würdest du gerne teilnehmen?
-
 - Welche Aufgaben würdest du gerne übernehmen?
 
 **
@@ -97,7 +95,6 @@ Diese Informationen helfen dir, das System zu verstehen, in dem du dich als Bonu
 Berücksichtige die Bedürfnisse aller Beteiligten:**- Was erwartet dein Partner von dir?
 
 - Was wünscht sich das Kind? Will es, dass du beim Sommerfest dabei bist?
-
 - Welche Vorstellungen hat die leibliche Mutter?
 
 Dieser Klärungsprozess hilft dir, mit realistischen Erwartungen in die nächsten Schritte zu gehen.
@@ -117,7 +114,6 @@ Kommunikation mit Lehrkräften aufbauen:**- Kläre vorab mit deinem Partner, wer
 Informationsfluss sicherstellen:**- Abonniere den Newsletter der Schule, wenn möglich
 
 - Sprecht als Paar darüber, wie ihr Informationen teilt, die nur an den leiblichen Elternteil gehen
-
 - Entwickelt Strategien für eure offene Kommunikation mit den Lehrkräften
 
 **
@@ -125,11 +121,8 @@ Informationsfluss sicherstellen:**- Abonniere den Newsletter der Schule, wenn m�
 Alternative Beteiligungsmöglichkeiten finden:**Auch wenn dir formelle Strukturen verschlossen bleiben, kannst du dich einbringen:
 
 - Backe einen Kuchen für den Kuchenbasar
-
 - Bastele mit dem Kind zu Hause für Schulprojekte
-
 - Begleite Ausflüge, wenn externe Begleitpersonen gesucht werden
-
 - Unterstütze bei den Hausaufgaben
 
 **
@@ -151,7 +144,6 @@ Strategie 1: Erwartungen und Grenzen klären**- Nutze deinen Partner als Vermitt
 Strategie 2: Sanfte Kontaktaufnahme**Vermittle dein Interesse am Wohlergehen des Kindes, nicht an Machtspielen:
 
 - Statt: “Ich würde gerne am Elternabend teilnehmen, weil ich viel Betreuung übernehme.”
-
 - Besser: “Falls es für dich okay ist, wäre es schön, wenn ich beim Elternabend dabei sein könnte, um besser zu verstehen, was  im nächsten Jahr erwartet.”
 
 Dieser Ansatz zeigt Respekt und gibt der Mutter das Gefühl von Kontrolle, ohne dass du dich klein machst.
@@ -161,9 +153,7 @@ Dieser Ansatz zeigt Respekt und gibt der Mutter das Gefühl von Kontrolle, ohne 
 Strategie 3: Gemeinsames Ziel betonen**Stelle das Kindeswohl in den Mittelpunkt:
 
 - “Mir ist wichtig, dass  sich wohlfühlt und gut unterstützt wird.”
-
 - “Ich weiß, dass du die Hauptansprechpartnerin für die Schule bist. Falls du mal Unterstützung brauchst, bin ich gerne da.”
-
 - “Wir wollen beide, dass  sich sicher fühlt. Ich möchte mich nicht aufdrängen, aber gerne unterstützen.”
 
 Diese diplomatischen Formulierungen können Brücken bauen, wo sonst Mauern entstehen würden.
@@ -177,19 +167,12 @@ Wenn du jetzt denkst: “Das klingt gut, aber wie setze ich das in meiner spezie
 Vielleicht fragst du dich:
 
 - Wie gehe ich mit einer besonders schwierigen leiblichen Mutter um?
-
 - Was tue ich, wenn mein Partner meine Beteiligung nicht aktiv unterstützt?
-
 - Wie kann ich als Bonusvater im noch stärker mutterzentrierten Schulsystem meinen Platz finden?
-
 - Wie spreche ich mit meinem Bonuskind über meine Rolle in seinem Schulleben?
-
 - Hören wir uns deine aktuelle Situation an
-
 - Identifizieren die größten Herausforderungen, die dich zurückhalten
-
 - Entwickeln erste konkrete Schritte, die du sofort umsetzen kannst
-
 - Prüfen, ob eine längerfristige Zusammenarbeit für dich sinnvoll wäre
 
 In meinem ganzheitlichen Begleitprogramm für Bonuseltern unterstütze ich dich dabei, eine klare Rolle im Schul- und Kindergartenalltag zu entwickeln – ohne dich Fehl Am Platz zu fühlen. Ich Helfe dir, dich Selbstbewusst Einzubringen und Gleichzeitig Respektvoll mit allen Beteiligten Umzugehen.

@@ -83,9 +83,7 @@ Nimm dir einen Moment Zeit und schreibe alle deine Gedanken auf. Dieser Prozess 
 Gleichzeitig solltest du auch die Perspektive der anderen Beteiligten betrachten:
 
 - Wie alt ist das Bonuskind im Elternbett?
-
 - Ist die Trennung der Eltern noch frisch?
-
 - Was braucht dein Partner in dieser Situation?
 
 Oft entdeckst du dabei auch innere Blockaden – Glaubenssätze wie “Ich darf keine Ansprüche stellen” oder “Ich muss mich unterordnen, um geliebt zu werden”, die dich daran hindern, deine Bedürfnisse klar zu kommunizieren.
@@ -97,9 +95,7 @@ Oft entdeckst du dabei auch innere Blockaden – Glaubenssätze wie “Ich darf 
 Entwickle neue Routinen, die für alle funktionieren könnten:
 
 - Eine besondere Abendroutine zum Kuscheln und Nähe aufbauen
-
 - Ein Übergangsbett im Elternzimmer für eine Übergangszeit
-
 - Nähe-Symbole für das Kind (ein T-Shirt vom Papa, ein spezielles Kuscheltier)
 
 Die Selbstfürsorge spielt in diesem Schritt eine zentrale Rolle. **Dein Bedürfnis nach Ruhe ist genauso berechtigt wie das Bedürfnis des Kindes nach Nähe.** ihr steht auf Augenhöhe – ihr Braucht nur Lösungen, die Sich für alle Gut Anfühlen.
@@ -113,7 +109,6 @@ Häufig kommunizieren wir so, dass wir uns vom anderen distanzieren oder ihn unb
 Formuliere deine Bedürfnisse in Ich-Botschaften:
 
 - “Ich brauche Abendzeit mit dir allein.”
-
 - “Ich wünsche mir erholsamen Schlaf, damit ich tagsüber ausgeglichen sein kann.”
 
 Falls das Kind schon älter ist, kannst du es in altersgerechter Weise in das Gespräch einbeziehen. Erklärt gemeinsam, dass euer Bett ein Elternbett ist und entwickelt eine liebevolle Abendroutine, die dem Kind Sicherheit gibt.
@@ -133,13 +128,9 @@ Ich habe in den letzten Jahren mit vielen Bonusmamas zusammengearbeitet, die gen
 In meinem ganzheitlichen Begleitprogramm für Bonusmamas helfe ich dir dabei:
 
 - Klarheit über deine eigenen Bedürfnisse zu gewinnen
-
 - Innere Blockaden zu erkennen und aufzulösen
-
 - Strategien zu entwickeln, die für deine spezifische Patchwork-Konstellation passen
-
 - Die richtige Kommunikation mit deinem Partner zu finden
-
 - Schritt für Schritt mehr Harmonie in eure Familie zu bringen
 
 Du darfst deine Bedürfnisse ernst nehmen und dich für deinen Raum in der Familie einsetzen. Eine Lösung für das Bonuskind im Elternbett zu finden bedeutet nicht, dass du das Kind ausschließt – sondern dass du für ein Stabiles und Harmonisches Familienleben Sorgst.

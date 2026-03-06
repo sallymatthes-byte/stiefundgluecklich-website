@@ -55,7 +55,6 @@ Als Bonusmama war es für mich ein wichtiger Schritt, mich den Kindern gegenübe
 Mich selbst zu öffnen und den Kindern die Möglichkeit zu geben, mich kennenzulernen, waren ebenfalls Gamechanger. Ich habe ihnen von meinen Interessen, Hobbys und Erfahrungen erzählt und sie daran teilhaben lassen.
 
 - Es ist mir wichtig zu betonen, dass diese Öffnung und Akzeptanz nicht bedeuten, dass ich meine eigenen*Wünsche und Bedürfnisse* komplett aufgebe. Eine Balance zu finden, in der sowohl meine eigenen Bedürfnisse als auch die der Kinder berücksichtigt werden, waren immer das Ziel. Es ist okay, dass ich nie eigene Kinder wollte und es sie dennoch in meinem Leben gibt.
-
 - Die Öffnung und Akzeptanz der Kinder als Teil meines Lebens als Bonusmama war ein Prozess, der* Zeit und Geduld* erforderte. Doch durch meine Offenheit und Bereitschaft, mich auf die Kinder einzulassen, habe ich eine tiefere Verbindung zu ihnen aufgebaut und eine harmonische Beziehung geschaffen. Es ist ein wundervolles Gefühl zu wissen, dass ich als Bonusmama einen positiven Einfluss auf ihr Leben habe.
 
 ## Zusammenfassung

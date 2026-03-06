@@ -49,7 +49,6 @@ Dann lass uns sprechen.
 wo genau eure Erziehungskonflikte liegen
 
 - wie du deine Position als Bonusmama stärken kannst
-
 - und ob meine Coaching-Begleitung dich auf deinem Weg unterstützen darf
 
 

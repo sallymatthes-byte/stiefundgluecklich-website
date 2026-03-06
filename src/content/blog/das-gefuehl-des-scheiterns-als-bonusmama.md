@@ -34,9 +34,7 @@ Selbstzweifel und Minderwertigkeitsgefühle sind häufige Begleiter auf dem Weg 
 Praktizieren von Achtsamkeit und Selbstmitgefühl**. Nimm dir regelmäßig Zeit, um innezuhalten und deine Gefühle ohne Urteil zu beobachten. Erkenne deine Emotionen an, ohne sie zu unterdrücken oder zu verdrängen. Selbstmitgefühl bedeutet auch, sich selbst mit der gleichen Freundlichkeit und Fürsorge zu begegnen, die du einem guten Freund entgegenbringen würdest.
 
 - **Positive Selbstgespräche** sind ein weiteres mächtiges Werkzeug gegen Selbstzweifel. Negative Gedanken wie „Ich bin nicht gut genug“ können durch bewusst positive Affirmationen ersetzt werden. Sag dir selbst regelmäßig, dass du wertvoll bist und dass deine Bemühungen zählen, auch wenn sie vielleicht nicht sofort perfekte Ergebnisse zeigen. Affirmationen wie „Ich gebe mein Bestes und das ist genug“ können dein Selbstbild erheblich verbessern.
-
 - Es kann auch hilfreich sein, sich**realistische Ziele ** zu setzen und kleine Erfolge zu feiern. Statt zu erwarten, dass sofort alles harmonisch und perfekt läuft, erkenne die Fortschritte an, die du machst. Jeder positive Moment, jedes Lächeln und jede gelungene Interaktion ist ein Schritt in die richtige Richtung.
-
 - Schließlich ist es wichtig,**
 
 Unterstützung** zu suchen und anzunehmen. Sprich offen mit deinem Partner über deine Gefühle und Unsicherheiten. Ein verständnisvoller und unterstützender Partner kann eine große Hilfe sein. Auch der Austausch mit anderen Bonusmamas oder das Aufsuchen einer Therapie kann dir helfen, neue Perspektiven zu gewinnen und dich weniger allein zu fühlen.

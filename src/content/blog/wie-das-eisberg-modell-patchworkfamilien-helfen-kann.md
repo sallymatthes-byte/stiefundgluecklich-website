@@ -69,7 +69,6 @@ Das sind nur zwei Beispiele, aber du siehst: Das Eisberg-Modell ist kein abstrak
 Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es Im Turbulenten Familienleben um? Hier kommen ein Paar Praktische Tipps und Fragen, die Dir helfen können, den Eisberg-blick zu Schärfen:
 
 - *** Mach regelmäßig einen “Eisberg-Check”*: **Nimm dir Zeit, in dich hineinzuspüren und zu fragen: “Was beschäftigt mich gerade unter der Oberfläche? Welche unerfüllten Bedürfnisse oder alten Verletzungen schwingen in meinen Reaktionen mit?” Je besser du deine eigenen Eisberge kennst, desto leichter fällt es dir, auch die deiner Lieben zu erkunden.
-
 - **Stell neugierige Fragen:**
 
 Wenn dein Partner oder dein Bonuskind mal wieder genervt oder trotzig reagiert, frag nicht vorwurfsvoll “Was ist denn jetzt schon wieder los?”, sondern interessiert: “Ich merke, dass dich gerade etwas beschäftigt. Magst du mir mehr darüber erzählen?” So signalisierst du [Gesprächsbereitschaft](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) und Einfühlungsvermögen.

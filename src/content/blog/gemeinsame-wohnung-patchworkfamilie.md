@@ -36,17 +36,11 @@ Es ist wichtig, die Bedürfnisse aller Beteiligten in den Planungsprozess einzub
 ![Stimmungsbild zum Artikel](/images/blog/gemeinsame-wohnung-patchworkfamilie-2.jpg)
 
 - Was wünscht sich jeder genau von euch?
-
 - Wie dürfen Rituale aussehen?
-
 - Wo soll die Wohnung sein?
-
 - Wie viel Platz sollte zur Verfügung stehen?
-
 - Brauchen die Bonuskinder jeweils ihr eigenes Kinderzimmer?
-
 - Wie viel Distanz zum Arbeitsort ist annehmbar?
-
 - Was darf auf keinen Fall fehlen?
 
 Letztendlich geht es darum, ein harmonisches Miteinander zu schaffen und allen Familienmitgliedern ein Gefühl von Zugehörigkeit und Sicherheit zu geben.

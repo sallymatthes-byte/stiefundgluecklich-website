@@ -75,13 +75,9 @@ Diese Familienkonferenz war der erste Schritt zu einem harmonischen Familienlebe
 ## 5 Tipps zur Umsetzung
 
 - Zeigt eure Aufmerksamkeit durch Blickkontakt, Nicken und verbale Bestätigungen.
-
 - Vermeidet Ablenkungen wie Smartphones oder laute Hintergrundgeräusche, um eine ungestörte Kommunikation zu ermöglichen.
-
 - Stellt offene Fragen, die den anderen dazu ermutigen, mehr über seine Gedanken und Gefühle zu erzählen.
-
 - Wiederholt und paraphrasiert das, was euer Gegenüber gesagt hat, um sicherzustellen, dass ihr es richtig verstanden habt.
-
 - Vermeidet das Unterbrechen oder das sofortige Geben von Ratschlägen. Gebt eure eigene Meinung erst dann preis, wenn der andere ausgesprochen hat und danach gefragt hat.
 
 

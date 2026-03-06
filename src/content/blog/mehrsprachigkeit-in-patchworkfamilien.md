@@ -41,13 +41,9 @@ Als Erziehungswissenschaftlerin und Bonusmutter weiß ich: Du hast einen enormen
 In einer mehrsprachigen Patchworkfamilie ist eine [gelingende Kommunikation](/blog/bonuskinder-und-konflikte/) das A und O. Ich habe dir einige wertvolle Strategien zusammengestellt, die dir helfen können, sprachliche Hürden zu meistern und ein positives Kommunikationsklima zu schaffen:
 
 - **Etabliere klare Sprachenregeln:** Legt als Familie fest, wer wann welche Sprache spricht. Das schafft Struktur und hilft den Kindern, sich zu orientieren. Zum Beispiel: “Mama und Papa sprechen Französisch, Sally spricht Deutsch.”
-
 - **Pflegt eure Familiensprachen gleichermaßen:** Gebt allen Sprachen eurer Familie Raum und Wertschätzung. Lest Bücher, singt Lieder und schaut Filme in allen Sprachen. So erleben die Kinder, dass jede Sprache wichtig ist.
-
 - **Nutzt Übersetzungs-Apps und Bildwörterbücher:** Manchmal fehlen einfach die Worte. Hier können visuelle Hilfen und Apps eine Brücke bauen. Macht es zu einem lustigen Spiel, gemeinsam nach Begriffen zu suchen.
-
 - **Habt Geduld und Humor:** Sprachenpannen gehören dazu. Wenn mal etwas schief geht, lacht gemeinsam darüber. Humor ist ein starker Verbündeter, um Frustration abzubauen und Nähe zu schaffen.
-
 - **Feiert eure mehrsprachige Identität:** Eure Sprachenvielfalt ist etwas Besonderes. Seid stolz darauf! Pflegt Traditionen aus allen euren Kulturen und feiert eure einzigartige Patchwork-Identität.
 
 Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal holprig ist. Mit der Zeit wachst ihr zu einem unschlagbaren Patchwork-Team zusammen.
@@ -59,11 +55,8 @@ Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal hol
 Ich weiß, dass interkulturelle Kompetenz keine Selbstverständlichkeit ist. Sie will gelernt sein – von allen Beteiligten. Gerade in Mehrsprachigen Patchworkfamilien Stecken in Scheinbar Banalen Alltagssituationen oft Stolpersteine, so zum Beispiel auch bei Verschiedenen [erziehungsstilen](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/). Aber mit der Richtigen Haltung und ein Paar Ungewöhnlichen Strategien lassen sich Brücken Bauen:
 
 - Macht einen Perspektivwechsel zum Spiel. Schlüpft mal in die Rolle des anderen und betrachtet eine Situation mit seinen Augen. Was denkt und fühlt die Partnerin oder das Stiefkind gerade? So übt ihr Empathie und Verständnis.
-
 - Führt ein “Faux-Pas-Tagebuch”. Notiert Missverständnisse und Fettnäpfchen, in die ihr wegen kultureller Unterschiede getappt seid. Beim gemeinsamen Schmökern können alle herzhaft darüber lachen. Das entspannt ungemein.
-
 - Sucht euch Verbündete mit ähnlichen Erfahrungen. Tauscht euch mit anderen interkulturellen Familien aus – über Herausforderungen, aber auch über schöne Momente. Ihr merkt: Ihr seid nicht allein!
-
 - Nutzt eure Mehrsprachigkeit kreativ. Erfindet “Familiensprachen-Songs”, in denen alle eure Sprachen vorkommen. Oder macht ein Foto-Projekt zu Begriffen, die sich nicht übersetzen lassen. Oder gestaltet ein Memory, um spielerisch die Wörter zu lernen. So feiert ihr eure Einzigartigkeit.
 
 Vergesst nicht: Eure Liebe zueinander ist der Kit, der euch verbindet – Egal, aus welcher Kultur ihr Kommt. Mit Achtsamkeit, Kreativität und Gelassenheit Könnt ihr Eure Interkulturellen Stolpersteine in Meilensteine Verwandeln.

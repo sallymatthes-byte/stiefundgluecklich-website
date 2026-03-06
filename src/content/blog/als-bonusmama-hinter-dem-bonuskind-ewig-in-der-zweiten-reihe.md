@@ -25,11 +25,8 @@ Also, wie kann man damit umgehen?
 Es ist wichtig, dass du dir bewusst machst, dass dieses Gefühl nicht deine Schuld ist. Es entsteht oft aus den komplexen Dynamiken einer Patchworkfamilie und den unterschiedlichen Rollen, die jeder einnimmt. Doch du kannst aktiv daran arbeiten, deine eigene Priorität zu stärken und dich nicht länger in der zweiten Reihe zu fühlen.
 
 - **Ein erster Schritt ist, mit deinem Partner über deine Gefühle und Bedürfnisse zu sprechen. **Offene Kommunikation ist der Schlüssel zu einer starken Beziehung. Teile ihm mit, wie du dich fühlst und was du dir wünschst. Oft hilft es schon darüber zu sprechen und das Gefühl einfach nur anzunehmen und ihm Raum zu geben.
-
 - **Aber auch Selbstfürsorge ist von großer Bedeutung. **Nimm dir Zeit für dich selbst und pflege deine eigenen Interessen und Hobbys. Sorge dafür, dass du dich gut fühlst und dir selbst genug Aufmerksamkeit schenkst. Denn nur wenn du für dich selbst sorgst, kannst du auch für andere da sein.
-
 - **Eine weitere Möglichkeit, deine eigene Priorität zu stärken, ist es, dich bewusst mit dem Kind deines Partners zu verbinden. **Finde gemeinsame Aktivitäten, die euch verbinden und eure Beziehung stärken. Sei interessiert an seinem Leben und zeige ihm, dass er für dich wichtig ist. Indem du eine starke Verbindung zu seinem Kind aufbaust, wirst du nicht nur als Bonusmama, sondern auch als eine wichtige Person in seinem Leben wahrgenommen.
-
 - **Es ist auch wichtig, realistische Erwartungen zu haben**. Eine Patchworkfamilie ist eine komplexe Konstellation und es braucht Zeit, um Harmonie und Balance zu finden. Sei geduldig mit dir selbst und mit den anderen Familienmitgliedern. Es wird Höhen und Tiefen geben, aber solange du deine Gefühle nicht versteckst und offen für Veränderungen bist, kannst du das Gefühl, in der zweiten Reihe zu stehen, überwinden.
 
 *Denke daran, du bist wertvoll und wichtig. Du hast das Recht, dich geliebt und anerkannt zu fühlen.*

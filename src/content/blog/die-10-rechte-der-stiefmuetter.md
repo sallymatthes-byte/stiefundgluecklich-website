@@ -109,18 +109,14 @@ Und jetzt? Du hast den Artikel gelesen und denkst: “Ja, genau so fühle ich mi
 ** Was wäre, wenn du…**
 
 - endlich klare Grenzen setzen könntest, ohne schlechtes Gewissen?
-
 - von deinem Partner und den Kindern als vollwertiges Familienmitglied gesehen und respektiert würdest?
-
 - Konflikte souverän lösen könntest, statt sie in dich hineinzufressen?
-
 - dich nicht mehr wie eine Außenseiterin in deiner eigenen Familie fühlen müsstest?
 
 
 In einem 30-minütigen Gespräch entwickeln wir gemeinsam:
 
 - Deine Top-3-Schmerzpunkte, die SOFORT angegangen werden müssen
-
 - Eine maßgeschneiderte Strategie für deine spezifische Familiensituation
 
 

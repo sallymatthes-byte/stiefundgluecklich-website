@@ -30,9 +30,7 @@ Lass uns diese Ursachen im Hinterkopf behalten, während wir uns auf deine Reise
 Es ist so frustrierend, wenn Menschen in deinem Umfeld deine Situation nicht nachvollziehen können. Sei es dein Partner, der nicht versteht, warum du dich ausgeschlossen fühlst, oder Freunde, die unbedacht fragen, wieso du dich so quälst –*“du wusstest es doch vorher?!”*. Dieses Unverständnis kann wie Nadelstiche sein, die dich immer wieder verunsichern.
 
 - 💎 Aber lass mich dir eines sagen: *Du musst dich nicht dafür rechtfertigen, wie du fühlst*. Deine Emotionen sind valid und echt. Statt dich in Erklärungen zu verstricken, übe dich darin, klar und bestimmt deine Perspektive zu kommunizieren. Ein einfaches “Ich sehe das anders” oder “Das verletzt mich” kann Wunder wirken.
-
 - 💎 Noch etwas ist wichtig: *Hole dir die Unterstützung, die du brauchst*. Suche den Austausch mit anderen Bonusmamas, die deine Erfahrungen teilen. In Foren, Gruppen oder bei Treffen findest du Verständnis und wertvolle Tipps. Nutze auch professionelle Hilfe, wenn du sie benötigst. Ein Coaching oder eine Beratung können dir helfen, konstruktive Wege im Umgang mit Unverständnis zu finden.
-
 - 💎 Und nicht zuletzt: *Sei deine eigene Verbündete*. Hinterfrage kritisch, wenn andere deine Rolle als Bonusmama abwerten. Erinnere dich stattdessen daran, was du täglich leistest und wie wertvoll dein Beitrag ist. Je stabiler dein Selbstbild ist, desto weniger können dich unverständige Bemerkungen erschüttern.
 
 > „Kritisiere nicht was du nicht verstehen kannst.“ – Bob Dylan
@@ -50,9 +48,7 @@ Formuliere positive, bestärkende Sätze, die du täglich zu dir sagst. “Ich b
 Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen Lieben. Je mehr du das Positive in den Vordergrund rückst, desto stärker fühlst du dich.
 
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
-
 - **Grenzen setzen:**Lerne freundlich, aber bestimmt “Nein” zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
-
 - **Erfolge feiern:**Mache dir bewusst, was du schon alles gemeistert hast. Sei stolz auf deine Entwicklung, erlaube dir, deine Fortschritte zu würdigen. Jeder Schritt zählt, auch die kleinen.
 
 Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du sie trainierst, desto stärker werden sie.

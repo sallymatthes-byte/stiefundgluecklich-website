@@ -19,29 +19,17 @@ Dies ist eine der 5 Herausforderungen, die die amerikanische Psychologin Patrici
 Patricia Papernow hat in ihrer Arbeit fünf zentrale Herausforderungen identifiziert, mit denen Stieffamilien konfrontiert sind:
 
 - **Die Positionen von “Insidern” und “Outsidern” im Paar sind oft festgefahren und intensiv. **Der neue Partner fühlt sich oft[ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und muss seinen Platz in der bereits bestehenden Familieneinheit finden.
-
 - Die Kinder haben eine enge Bindung an den biologischen Elternteil und können den neuen Partner als Bedrohung wahrnehmen.
-
 - **Kinder in Patchworkfamilien kämpfen mit Verlusten und Loyalitätskonflikten und oftmals mit zu vielen Veränderungen in zu kurzer Zeit. **Sie müssen den Verlust der ursprünglichen Familienstruktur verarbeiten.
-
 - Sie fühlen sich hin- und hergerissen zwischen dem biologischen Elternteil und dem neuen Partner.
-
 - Sie müssen sich an neue Regeln, Routinen und möglicherweise einen neuen Wohnort gewöhnen.
-
 - **Erziehungsaufgaben können das Paar spalten, wenn es unterschiedliche Ansichten gibt. **Der biologische Elternteil und der neue Partner können [unterschiedliche Erziehungsstile](/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/) und -vorstellungen haben.
-
 - Es kann zu Konflikten kommen, wenn der neue Partner in die Erziehung eingreift oder der biologische Elternteil sich in seiner Elternrolle bedroht fühlt.
-
 - **Die Familie muss eine neue Familienkultur schmieden und gleichzeitig eine Vielzahl von Unterschieden navigieren. **Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit.
-
 - Es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen.
-
 - Bonuseltern übernehmen dabei keine Erziehungsmacht, diese bleibt beim Elternteil.
-
 - **In Patchworkfamilien gibt es mindestens einen Ex-Partner – ob Lebend oder Verstorben – Außerhalb der Kernfamilie, der Untrennbar mit der Familie Verbunden ist.** die Beziehung zum Ex-partner Beeinflusst die Dynamik in der Patchworkfamilie.
-
 - Konflikte zwischen den Ex-Partnern können auf die neue Familie übergreifen.
-
 - Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil, was berücksichtigt werden muss.
 
 Lass uns nun direkt mal tiefer in die zweite Herausforderung einsteigen.

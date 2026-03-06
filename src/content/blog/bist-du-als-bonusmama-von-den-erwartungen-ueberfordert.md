@@ -75,13 +75,9 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles “s
 Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können sich negativ auf unser Wohlbefinden und die Beziehungen in der Patchworkfamilie auswirken:
 
 - Wenn wir uns permanent unter Druck setzen, fühlen wir uns schnell*überfordert und gestresst*. Wir haben das Gefühl, ständig zu funktionieren und nicht zur Ruhe zu kommen. Das geht auf Kosten unserer psychischen und körperlichen Gesundheit.
-
 - Auch unser*Selbstwertgefühl leidet* unter den hohen Erwartungen. Wir zweifeln an uns und fühlen uns schnell [unzulänglich](/blog/bonusmamas-und-schuldgefuehle/). Das macht uns unzufrieden und frustriert. Wir verlieren die Freude an unserer Rolle als Bonusmama.
-
 - Die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu*Misstrauen und Distanz* führen.
-
 - Auch die Partnerschaft leidet unter dem “Ich sollte”-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung.*Konflikte sind vorprogrammiert.*
-
 - Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu*Ungleichgewichten und Spannungen* in der Familie führen.
 
 ![Stimmungsbild zum Artikel](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
@@ -91,7 +87,6 @@ Die ständigen “Ich sollte”-Gedanken bleiben nicht ohne Folgen. Sie können 
 Keine Sorge, liebe Bonusmama. Es gibt Wege, sich von den “Ich sollte”-Gedanken zu befreien und zu einem entspannteren, erfüllteren Leben in deiner Patchworkfamilie zu finden. Hier ein paar erste Schritte:
 
 - 💎**Werde dir bewusst, welche Erwartungen und Ansprüche du an dich selbst stellst. **Hinterfrage sie kritisch. Sind sie realistisch? [Woher kommen sie?](/blog/glaubenssaetze-als-bonusmama/) Dienen sie dir und deiner Familie?
-
 - 💎**
 
 Lerne, deine eigenen Bedürfnisse wahrzunehmen und ernst zu nehmen. **Du bist wichtig und du hast das Recht, gut für dich selbst zu sorgen. Nur wenn du selbst in Balance bist, kannst du auch für andere da sein.

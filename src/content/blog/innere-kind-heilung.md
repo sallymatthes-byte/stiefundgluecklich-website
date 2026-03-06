@@ -31,9 +31,7 @@ Vielleicht erinnert uns der trotzige Blick des Bonuskindes an die Ablehnung durc
 Wenn unsere Bonuskinder einen wunden Punkt in uns berühren, ist es wichtig, die dadurch ausgelösten Emotionen *bewusst wahrzunehmen und anzunehmen*. Versuche nicht, deine Gefühle zu unterdrücken oder zu bewerten – sie sind ein Wertvoller Wegweiser zu deinen Tiefsten Bedürfnissen. Erlaube dir Selbst, die Wut, den Schmerz oder die Enttäuschung zu Spüren, ohne dich dafür zu Verurteilen. Entwickle Stattdessen **selbstmitgefühl** und Verständnis für deine Eigenen Reaktionen. Frage dich:
 
 - Welche Situation in meiner Kindheit könnte diese Emotion ausgelöst haben?
-
 - Was brauche ich gerade, um mich sicher und geliebt zu fühlen?
-
 - Wie kann ich mein inneres Kind in diesem Moment trösten und unterstützen?
 
 Indem du deine Gefühle *achtsam beobachtest* und akzeptierst, schaffst du einen sicheren Raum für deine innere Heilung. Du gibst deinem verletzten inneren Kind die Erlaubnis, gesehen und gehört zu werden – vielleicht zum Ersten mal. Dieser Prozess der **selbstannahme**ist nicht immer Einfach, aber er ist Unglaublich Wichtig für dein Seelisches Gleichgewicht. Erinnere dich daran, dass jede Emotion ihre Berechtigung hat und dass du Stark Genug Bist, sie zu fühlen und zu Transformieren. Mit jedem Mal, wenn du deine Triggerpunkte Bewusst Wahrnimmst und deine Gefühle Annimmst, Kommst du deiner Inneren Balance ein Stückchen Näher.
@@ -50,9 +48,7 @@ Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundene
 Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu Verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
-
 - Welche Glaubenssätze oder Überzeugungen stecken hinter meinen Reaktionen?
-
 - Wie könnte ich in Zukunft gelassener und liebevoller mit ähnlichen Herausforderungen umgehen?
 
 *Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – Sei es ein Entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir Aufsteigen Spürst, Probiere **techniken zur Selbstberuhigung** aus, wie zum Beispiel Tiefe Bauchatmung oder Progressive Muskelentspannung.

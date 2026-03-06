@@ -29,7 +29,7 @@ Auch haben wir über unsere Finanzen gesprochen und uns überlegt, was wir uns i
 
 Die Erkenntnis, dass wir die Gestalter unserer Beziehung und unserer Patchworkfamilie sind, gibt uns eine positive Perspektive und stärkt unsere Bindung zueinander. Wir haben uns dadurch noch intensiver kennengelernt und unsere Beziehung auf ein neues Level gehoben. Es ist ein kontinuierlicher Prozess, unsere Vision Schritt für Schritt in die Realität umzusetzen, aber wir sind bereit, diesen Weg gemeinsam zu gehen.
 
-> “The future belongs to those who believe in the beauty of their dreams.“ – Eleanor Roosevelt
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
 ![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-2.jpg)
 
@@ -40,26 +40,17 @@ Es gibt viele Möglichkeiten, ein Visionboard zu gestalten, aber der Prozess beg
 Hier sind einige Fragen, die euch helfen können, euer Visionboard zu gestalten:
 
 1. Welche Werte sind euch als Paar und als Familie wichtig? Welche Werte wollt ihr in eurem Alltag leben und an eure Kinder weitergeben?
-
-2.  Welche finanziellen Ziele habt ihr als Paar und als Familie? Wie wollt ihr eure Finanzen organisieren und eure finanzielle Sicherheit gewährleisten?
-
+2. Welche finanziellen Ziele habt ihr als Paar und als Familie? Wie wollt ihr eure Finanzen organisieren und eure finanzielle Sicherheit gewährleisten?
 3. Welche Vorstellungen habt ihr von einer erfüllten und liebevollen Partnerschaft? Wie könnt ihr eure Intimität und Verbindung stärken?
-
 4. Wie könnt ihr euch gegenseitig mehr Wertschätzung entgegenbringen? Welche kleinen Gesten und Rituale könnt ihr in euren Alltag integrieren, um eure Liebe füreinander zu zeigen?
-
 5. Welche konkreten Schritte müsst ihr unternehmen, um eure Ziele zu erreichen? Welche Aufgaben könnt ihr gemeinsam angehen, um eure Vision umzusetzen?
-
 6. Wie soll euer gemeinsames Zuhause aussehen? Welche Gestaltungsideen habt ihr für euren Wohnraum, um eine harmonische Atmosphäre zu schaffen?
-
 7. Welche Pläne habt ihr bezüglich weiterer Kinder oder der Integration der vorhandenen Kinder in eure Patchworkfamilie? Wie könnt ihr eine liebevolle und unterstützende Umgebung für alle schaffen?
-
 
 ![Stimmungsbild zum Artikel](/images/blog/visionboard-in-der-patchworkfamilie-3.jpg)
 
 8. Wie könnt ihr gemeinsam an eurer körperlichen und emotionalen Gesundheit arbeiten? Welche Aktivitäten und Routinen könnt ihr in euren Alltag integrieren, um euch gut zu fühlen?
-
 9. Welche gemeinsamen Hobbys oder Interessen könnt ihr entwickeln, um eure Freizeit miteinander zu genießen und eure Bindung zu stärken?
-
 10. Wofür seid ihr dankbar? Was habt ihr alles schon gemeinsam gemeistert und was darf so bleiben?
 
 Indem ihr euch diese Fragen stellt und eure Antworten auf eurem Visionboard festhaltet, schafft ihr eine klare und visuelle Darstellung eurer Ziele und Träume. Ihr könnt Bilder, Worte, Zitate und Symbole verwenden, die euch mit eurer Vision verbinden. Lasst eurer Kreativität freien Lauf und gestaltet euer Visionboard so, dass es euch jeden Tag daran erinnert, wofür ihr gemeinsam arbeitet.

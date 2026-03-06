@@ -63,9 +63,7 @@ Bevor du mit deinem Partner sprichst, musst du selbst wissen, was dir eigentlich
 Frag dich selbst:
 
 - Geht es um Zeit? Fühlst du dich vernachlässigt, weil ihr kaum noch Momente nur für euch habt?
-
 - Geht es um Nähe? Vermisst du Intimität – nicht nur Körperlich, sondern auch Emotionale Verbindung?
-
 - Geht es um Wertschätzung? Hast du das Gefühl, dass dein Beitrag zur Familie nicht gesehen wird?
 
 > Tipp: Schreibe dir konkrete Situationen auf, in denen du dich unsichtbar fühlst. So kannst du sie später deinem Partner leichter erklären.

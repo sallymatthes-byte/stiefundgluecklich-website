@@ -45,9 +45,7 @@ Indem du verstehst, warum traditionelle Familienvorstellungen in Patchwork-Konst
 In diesen Phasen ist es nicht leicht, den Glauben an sich selbst zu bewahren. Umso wichtiger ist es, dass du aktiv an deiner inneren Widerstandskraft und deinem Selbstbewusstsein arbeitest. Hier sind einige kraftvolle Strategien für dich:
 
 - Dankbarkeit praktizieren: Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen Lieben. Je mehr du das Positive in den Vordergrund rückst, desto stärker fühlst du dich.
-
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – Fülle deinen Tank Regelmäßig auf. Eine Gestärkte, Zufriedene Bonusmama kann viel Besser für Andere da sein.
-
 - **Grenzen setzen:**
 
 Lerne freundlich, aber bestimmt „Nein“ zu sagen, wenn etwas nicht gut für dich ist. Je klarer du deine Grenzen kommunizierst, desto selbstsicherer und resilienter wirst du.
@@ -75,13 +73,9 @@ Vertrauen in deine eigene Kraft und deinen Weg zu haben**. Du hast bereits so vi
 Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 
 - 💎 Nimm dir täglich Zeit für dich selbst und deine Bedürfnisse
-
 - 💎 Übe dich in Achtsamkeit und lebe im Hier und Jetzt
-
 - 💎 Pflege Beziehungen und Aktivitäten, die dich nähren und stärken
-
 - 💎 Sei dankbar für die kleinen Freuden des Alltags
-
 - 💎 Vertraue auf deine innere Stimme und Intuition
 
 *Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* Sie erwachsen aus der liebevollen Annahme dessen, was ist – Inklusive deiner Selbst. Sie sind das Fundament, auf dem Du deine Patchworkfamilie Aufbauen und Gestalten Kannst. Und sie Strahlen aus auf alle Beteiligten und Schenken euch Verbundenheit, Freude und Liebe.

@@ -26,9 +26,7 @@ In Büchern und Ratgebern las ich, dass eine Bonusmama eine “wertvolle Ergänz
 Jeder Tag brachte neue Herausforderungen:
 
 - Die Unsicherheit, wenn die Kinder von ihrer Mama schwärmten
-
 - Die Angst, Fehler zu machen und nicht akzeptiert zu werden
-
 - Das Gefühl, ständig zwischen zu viel und zu wenig Engagement zu balancieren
 
 Besonders schmerzhaft waren die Momente, in denen meine hohen Erwartungen an mich selbst auf die Realität trafen. Als Pädagogin wollte ich alles richtig machen, die perfekte Bonusmama sein. Doch je mehr ich mich unter Druck setzte, desto mehr schien mir diese Rolle zu entgleiten.
@@ -60,13 +58,10 @@ Kommunikation** – eine, Die Von Innen nach Außen Wirkt. Wenn du Klar mit dir 
 Kennst du diese Momente auch? Du liegst nachts wach und fragst dicht:
 
 - “Werde ich jemals wirklich zur Familie gehören, oder bleibe ich für immer die Außenseiterin?”
-
 - “Mache ich alles falsch? Bin ich zu streng, zu locker, zu präsent, zu distanziert?”
-
 - “Wie schaffe ich es, allen gerecht zu werden – den Kindern, meinem Partner, mir Selbst?”
 
 Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, die Selbstzweifel, das Gefühl, nirgendwo richtig dazuzugehören. **Als Bonusmama stehst du vor Herausforderungen, die andere oft nicht einmal ansatzweise verstehen können. **Was sind die wahren Triggerpunkte, die dich immer wieder aus der Balance bringen?
 
 - Wie kannst du deine ganz eigenen Stärken nutzen, um deine Rolle als Bonusmama authentisch zu gestalten?
-
 - Wenn du dich gerade zerrissen fühlst – Verloren zwischen Erwartungen, Gefühlen und deiner Neuen Rolle – dann Weißt du jetzt: du Bist nicht Allein. Und es gibt einen Weg.einen, der Nicht durch Funktionieren führt, sondern durch Verbindung.zu dir. Und zu deiner Familie.

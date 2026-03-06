@@ -57,7 +57,6 @@ Deutschland: Klare Vorgaben, wenig Flexibilität
 > Familienbeihilfe (statt Kindergeld):
 
 - 121 € für Kinder unter 3 Jahren, steigt bis auf 175 € ab 19 Jahren.
-
 - Geschwisterstaffelung: Mehr Kinder = höherer Betrag pro Kind.
 
 > Kindesunterhalt: - Kein festes System wie in Deutschland.
@@ -67,7 +66,6 @@ Deutschland: Klare Vorgaben, wenig Flexibilität
 16 % des Nettoeinkommens für Kinder bis 6 Jahre.
 
 - 22 % für Kinder ab 15 Jahren.
-
 - „Luxusgrenze“: Maximal zweieinhalbfacher Regelbedarf, um extrem hohe Unterhaltszahlungen zu begrenzen.
 
 > Steuerliche Aspekte: - Familienbonus Plus: Bis zu 1.500 € Steuerentlastung pro Jahr und Kind.

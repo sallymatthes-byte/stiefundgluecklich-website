@@ -56,9 +56,7 @@ In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen E
 Die erste große Erkenntnis kam nach einer besonders herausfordernden Woche. Die Kinder waren gerade zu ihrer Mama zurückgekehrt, und ich saß erschöpft auf der Couch. In diesem Moment der Stille wurde mir klar:** Ich musste aufhören, die perfekte Stiefmutter sein zu wollen, und stattdessen die Bonusmama werden, die ICH sein wollte. **Ich nahm mir einen ganzen Nachmittag Zeit, setzte mich in mein Lieblingscafé und schrieb auf, was mir wirklich wichtig war:
 
 - **Ich will eine zusätzliche Vertrauensperson sein, kein Mutterersatz. **Die Kinder haben bereits eine Mama, die sie lieben. Ich möchte ihnen eine andere Art von Beziehung anbieten.
-
 - **Ich möchte authentisch bleiben und keine Rolle spielen. **Die Kinder sollen spüren, dass sie mir vertrauen können, weil ich echt bin.
-
 - **Ich will klare Grenzen setzen und trotzdem liebevoll sein. **Eine gesunde Balance zwischen Struktur und Herzlichkeit.
 
 Diese Klarheit war der erste wichtige Schritt.

@@ -31,9 +31,7 @@ Als ich meinen Partner kennenlernte, hatte ich eine so naive, romantische Vorste
 Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine Rolle zu finden. *Ich wollte weder als Ersatzmutter auftreten noch das Kind als Konkurrenz sehen, aber genau in diese Richtung entwickelten sich meine Gedanken.* Kleine Alltagssituationen reichten aus, um meine Unsicherheit zu befeuern:
 
 - Insider-Witze zwischen Partner und Kind
-
 - Gemeinsame Erinnerungen, von denen ich nichts wusste
-
 - Besondere Momente, die ich nie mit ihnen teilen würde – Momente, die für immer nur ihnen gehören würden. In solchen Situationen fühlte ich mich wie eine Außenseiterin, die durch eine Glasscheibe auf eine perfekte kleine Familie blickt. Eine Familie, zu der ich irgendwie dazugehören sollte und mich doch so fremd fühlte.
 
 Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war als die Eifersucht: meine tiefe Sehnsucht nach einer harmonischen Patchworkfamilie. Eine Sehnsucht, die mich nicht losließ, auch wenn die Eifersucht manchmal übermächtig erschien.
@@ -89,9 +87,7 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 Vielleicht liest du diese Zeilen gerade mit pochendem Herzen, weil du dich in jedem Wort wiederfindest. Vielleicht fragst du dich nachts auch:
 
 - Werde ich diese nagenden Gefühle jemals los?
-
 - Wie schaffe ich es, nicht mehr eifersüchtig auf die Beziehung zwischen meinem Partner und seinem Kind zu sein?
-
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 ***Du bist nicht allein mit diesen Gedanken.*** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.

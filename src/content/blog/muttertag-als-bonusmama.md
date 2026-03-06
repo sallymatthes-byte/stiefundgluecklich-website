@@ -68,11 +68,8 @@ Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonis
 Mach deutlich, dass du den Tag gemeinsam verbringen möchtest, aber auch Verständnis dafür hast, wenn die Kinder Zeit mit ihrer leiblichen Mutter verbringen wollen.
 
 - **Plane gemeinsame Aktivitäten, die allen Spaß machen und euch als Familie verbinden. **Ein Picknick im Grünen, ein Ausflug in ein Museum oder ein Spielenachmittag zu Hause – Hauptsache, ihr verbringt Zeit miteinander und schafft schöne Erinnerungen.
-
 - **Sei dir bewusst, dass der Muttertag für alle Familienmitglieder eine emotional herausfordernde Zeit sein kann. **Nimm dir Momente für dich selbst, um durchzuatmen und deine Batterien aufzuladen. Nur wenn du gut für dich sorgst, kannst du auch für andere da sein.
-
 - **Fokussiere dich auf die schönen Momente und die Liebe, die ihr als Familie teilt. **Lass dich nicht von Erwartungen oder Vergleichen mit anderen Familien verunsichern. Jede Patchworkfamilie ist einzigartig und hat ihre eigene Art, Feste zu feiern.
-
 - **Schaffe Rituale, die euch als Familie verbinden und stärken. **Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – so Zeigst du, dass du für alle da Bist und sie Wertschätzt.
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.

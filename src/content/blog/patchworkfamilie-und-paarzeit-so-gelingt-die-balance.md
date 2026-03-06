@@ -80,9 +80,7 @@ Der wichtigste Schritt war, diese Gefühle und Bedürfnisse mit meinem Partner z
 Fühlst du dich in deiner Beziehung auch manchmal einsam, obwohl ihr ständig zusammen seid? Sehnst du dich nach:
 
 - Echten Momenten der Zweisamkeit?
-
 - Tieferer emotionaler Verbindung trotz Familienalltag?
-
 - Einem Weg, Partnerschaft und Familie in Balance zu bringen?
 
 

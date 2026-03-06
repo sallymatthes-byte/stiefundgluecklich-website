@@ -34,9 +34,7 @@ Ich weiß, ich sage es immer wieder, doch ihr dürft darüber offen sprechen. Au
 Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektive*. Stelle Fragen wie: “Was genau sind deine Bedenken?” oder “Wovor hast du Angst?”. So signalisierst du ihm, dass du seine Sichtweise ernst nimmst und an einer Lösung interessiert bist. **Gemeinsam könnt ihr nach Kompromissen suchen, die euren individuellen Bedürfnissen gerecht werden. **Vielleicht ist dein Partner noch nicht bereit für eine Heirat, aber ihr könnt andere Wege finden, eure Verbundenheit zu zeigen:
 
 - Führt ein gemeinsames Konto für eure Zukunftspläne (das haben wir beispielsweise so gemacht)
-
 - Erstellt ein [Visionboard](/blog/visionboard-in-der-patchworkfamilie/)
-
 - Kauft euch etwas, was euch beiden gehört – Einen Neuen Fernseher Beispielsweise
 
 Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzeptiere, dass Veränderungen Zeit brauchen und dein Partner möglicherweise nicht im selben Tempo voranschreiten möchte wie du. Macht euch bewusst: Auch kleine Schritte in die richtige Richtung stärken eure Beziehung und bringen euch einander näher.
@@ -51,9 +49,7 @@ Sobald du gelernt hast, deine Triggerpunkte zu erkennen und die damit verbundene
 Selbstreflexion** vertiefen. Nimm dir Zeit, um in stillen Momenten über deine Reaktionen nachzudenken und nach wiederkehrenden Mustern zu forschen. *Achtsamkeit* ist hierbei ein kraftvolles Werkzeug – Beobachte deine Gedanken und Emotionen, ohne sie zu Bewerten oder zu Versuchen, sie zu Verändern. Stelle dir Fragen wie:
 
 - In welchen Situationen reagiere ich besonders emotional auf mein Bonuskind?
-
 - Welche Glaubenssätze oder Überzeugungen stecken hinter meinen Reaktionen?
-
 - Wie könnte ich in Zukunft gelassener und liebevoller mit ähnlichen Herausforderungen umgehen?
 
 *Selbstfürsorge* spielt eine ebenso wichtige Rolle auf dem Weg zur inneren Heilung. Gönne dir regelmäßige Auszeiten, in denen du ganz bei dir sein kannst. Pflege Aktivitäten, die dir Freude bereiten und dich entspannen – Sei es ein Entspannendes Bad, ein Spaziergang in der Natur oder eine Meditation. Wenn du Wut oder Frustration in dir Aufsteigen Spürst, Probiere **techniken zur Selbstberuhigung** aus, wie zum Beispiel Tiefe Bauchatmung oder Progressive Muskelentspannung.

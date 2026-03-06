@@ -49,9 +49,7 @@ Geld ist in vielen Beziehungen ein heikles Thema – und in Patchworkfamilien ka
 *Scheue dich nicht davor, das Thema anzusprechen.*  Je früher ihr euch austauscht, desto besser. Setz dich mit deinem Partner zusammen und sprecht offen über eure finanzielle Situation:
 
 - Wie viel Geld steht zur Verfügung?
-
 - Welche festen Kosten gibt es?
-
 - Welche Ausgaben kommen speziell für die Kinder dazu?
 
 Sei ehrlich zu dir selbst und deinem Partner, wenn es um deine eigenen Bedürfnisse und Wünsche geht. Nur wenn du klar kommunizierst, was dir wichtig ist, kann dein Partner dich auch verstehen und unterstützen. Gleichzeitig ist es wichtig, auch offen für die [Perspektive](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) des anderen zu sein.
@@ -59,17 +57,13 @@ Sei ehrlich zu dir selbst und deinem Partner, wenn es um deine eigenen Bedürfni
 Gemeinsam könnt ihr Strategien entwickeln, wie ihr die finanzielle Situation meistert:
 
 - Legt ein Budget fest, das die Bedürfnisse aller Familienmitglieder berücksichtigt.
-
 - Richtet ein gemeinsames Konto ein, auf das jeder einen bestimmten Betrag einzahlt.
-
 - Findet Lösungen, mit denen ihr beide leben könnt und die sich fair anfühlen.
 
 Beim Thema Finanzen sind regelmäßige Finanzmeetings  eine gute Idee. Hier könnt ihr immer wieder ausloten:
 
 - Passen die getroffenen Vereinbarungen noch oder müssen sie angepasst werden?
-
 - Gibt es aktuelle finanzielle Herausforderungen?
-
 - Stehen größere Ausgaben an, die besprochen werden müssen?
 
 Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wenn es mal Schwierig wird. Mit Verständnis, Geduld und Kompromissbereitschaft auf Beiden Seiten lässt sich ein Weg finden. Denk immer daran: ihr Sitzt Im Selben Boot und Wollt Beide das Beste für eure Familie.
@@ -90,9 +84,7 @@ Auch wenn ihr als Paar oder Familie gemeinsam wirtschaftet, solltest du nicht de
 Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der Familienkasse:
 
 - 💎 für deine persönlichen Bedürfnisse und Wünsche sorgen
-
 - 💎 dir kleine Extras gönnen, ohne ein schlechtes Gewissen zu haben
-
 - 💎 eine finanzielle Rücklage für Notfälle aufbauen **Es geht nicht darum, Geheimnisse vor deinem Partner zu haben. **Transparenz und Ehrlichkeit sind wichtig. Aber es geht darum, dass du die Kontrolle über einen Teil deines Geldes behältst. Das gibt dir ein Gefühl von Sicherheit und Unabhängigkeit, gerade in einer Lebenssituation, in der sich vieles um die [Bedürfnisse](/blog/bonusmamas-und-schuldgefuehle/) anderer dreht.
 
 Auch für die Beziehung kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.

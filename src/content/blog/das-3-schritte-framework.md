@@ -70,9 +70,7 @@ Die Wende kam, als ich mich für eine Coachingausbildung entschied. Schon immer 
 Inspiriert von meinen neuen Erkenntnissen entwickelte ich ein Framework speziell für Patchworkfamilien. **Mein Ziel war es, einen leicht verständlichen und umsetzbaren Ansatz zu finden, der dennoch tiefgreifende Veränderungen bewirken konnte. **Das entstandene 3-Schritte-Framework basiert auf folgenden Säulen:
 
 - *Analyse:* Der erste Schritt ist eine gründliche Analyse der aktuellen Familiensituation. Dabei geht es darum, die Bedürfnisse, Wünsche und Herausforderungen aller Familienmitglieder zu verstehen und zu berücksichtigen. Eine ehrliche Bestandsaufnahme ist die Grundlage für positive Veränderungen.
-
 - *Veränderungen initiieren:* Basierend auf den Erkenntnissen aus der Analyse werden konkrete Veränderungen in der Familiendynamik angestoßen. Dies kann bedeuten, Rollen und Verantwortlichkeiten neu zu definieren, Grenzen zu setzen oder neue Rituale einzuführen. Wichtig ist, dass alle Familienmitglieder einbezogen werden und die Veränderungen gemeinsam gestaltet werden.
-
 - *Kommunikation:* Der dritte und entscheidende Schritt ist eine offene, wertschätzende Kommunikation. Durch [aktives Zuhören](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), Empathie und klare Ausdrucksweise können Missverständnisse vermieden und Konflikte gelöst werden. Eine positive Kommunikationskultur trägt maßgeblich zu einem harmonischen Miteinander in der Patchworkfamilie bei.
 
 Mit dem Framework als Leitfaden begann ich aktiv an unserer Familiendynamik zu arbeiten. Ich analysierte unsere Situation, initiierte gemeinsam mit meinem Partner Veränderungen und setzte die gelernten Kommunikationstechniken ein. Schritt für Schritt spürte ich, wie sich die Atmosphäre in unserer Familie verbesserte und wir zu einem stärkeren Team zusammenwuchsen.

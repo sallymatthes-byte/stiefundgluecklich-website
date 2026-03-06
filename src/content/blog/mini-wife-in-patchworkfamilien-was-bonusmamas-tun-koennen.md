@@ -51,15 +51,12 @@ Diese Dynamik entsteht nicht, weil das Kind „falsch“ ist. Sondern weil es ve
 > Häufige Ursachen: - Keine Aufarbeitung der Trennung durch die Eltern
 
 - Fehlende emotionale Abgrenzung seitens des Vaters
-
 - Ein Bedürfnis nach Nähe und Sicherheit, das das Kind anders nicht erfüllt bekommt
 
 Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 - Konkurrenz um Aufmerksamkeit
-
 - Eifersucht oder emotionale Manipulation
-
 - Unklarheit, wohin du eigentlich „gehören“ darfst
 
 ❗Wichtig zu verstehen:
