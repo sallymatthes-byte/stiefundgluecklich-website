@@ -32,7 +32,7 @@ In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über 
 - Die Kinder kommen mit Fragen nach Hause, die eindeutig von ihr eingepflanzt wurden
 - Sie nutzt jede Gelegenheit, um ihre frühere Beziehung mit deinem Partner zu erwähnen
 
-Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dich emotional auszehrt. Du schwankst zwischen Wut, wenn sie sich wieder einmal einmischt, und Verzweiflung, wenn du merkst, wie sehr diese Situation an deinen Kräften zehrt. **Manchmal fragst du dich sogar, ob es das alles wert ist** — obwohl du deinen Partner von Herzen liebst.
+Die Ex-Frau und neue Beziehung befinden sich in einem toxischen Dreieck, das dich emotional auszehrt. Du schwankst zwischen Wut, wenn sie sich wieder einmal einmischt, und Verzweiflung, wenn du merkst, wie sehr diese Situation an deinen Kräften zehrt. Das Gefühl, [aus dem Schatten der Kindsmutter treten](/blog/aus-dem-schatten-der-kindsmutter-treten/) zu müssen, ist dabei allgegenwärtig. **Manchmal fragst du dich sogar, ob es das alles wert ist** — obwohl du deinen Partner von Herzen liebst.
 
 ## Die versteckten Dynamiken verstehen
 
@@ -42,7 +42,7 @@ Diese komplexe Dynamik wird noch verstärkt durch:
 
 - Unausgesprochene Erwartungen und Ängste aller Beteiligten
 - Alte Verletzungen und unverarbeitete Trennungserfahrungen
-- Konkurrenzkämpfe um Aufmerksamkeit und Zuneigung
+- [Eifersucht und Konkurrenzkämpfe](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) um Aufmerksamkeit und Zuneigung
 - Unterschiedliche Vorstellungen von Familienleben und Erziehung
 
 
@@ -67,6 +67,8 @@ Diese Fragen können wehtun, denn sie zwingen uns, genau hinzuschauen. Aber sie 
 
 ## Die 3 Schlüssel zur Transformation
 
+Drei Bereiche entscheiden darüber, ob die Ex-Frau weiterhin eure Beziehung bestimmt — oder ob du die Kontrolle zurückgewinnst.
+
 ### 1. Klarheit gewinnen
 
 Stell dir vor, du stehst im Nebel. Alles ist verschwommen, die Konturen verschwimmen, und du weißt nicht, in welche Richtung du gehen sollst. Genauso fühlt es sich oft an, wenn die Ex-Frau Teil deines Lebens ist. Der erste Schritt ist daher, den Nebel zu lichten:
@@ -84,7 +86,7 @@ Hier beginnt die eigentliche Transformationsarbeit. Oft tragen wir unbewusste Gl
 - „Die Kinder werden mich nie so lieben wie ihre Mutter"
 - „Ich muss perfekt sein, um akzeptiert zu werden"
 
-Diese Glaubenssätze zu erkennen und durch stärkende Überzeugungen zu ersetzen, ist ein kraftvoller Prozess. Du beginnst, deine eigene Geschichte neu zu schreiben - nicht als Opfer der Umstände, sondern als Gestalterin deines Lebens.
+Diese [Glaubenssätze zu erkennen](/blog/glaubenssaetze-als-bonusmama/) und durch stärkende Überzeugungen zu ersetzen, ist ein kraftvoller Prozess. Du beginnst, deine eigene Geschichte neu zu schreiben - nicht als Opfer der Umstände, sondern als Gestalterin deines Lebens.
 
 ### 3. Kommunikation meistern
 

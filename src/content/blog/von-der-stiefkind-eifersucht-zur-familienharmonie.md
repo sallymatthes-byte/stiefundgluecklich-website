@@ -4,7 +4,7 @@ description: "Die Eifersucht auf das Stiefkind belastet dich? Entdecke, wie du d
 category: "kinder-bindung"
 date: 2024-11-21
 updated: 2025-02-06
-metaTitle: "Eifersucht auf das Stiefkind: Warum es normal ist + 3 Wege raus"
+metaTitle: "Eifersucht auf Stiefkind: Warum es normal ist + 3 Wege"
 metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gefühl häufiger ist als du denkst — und wie du davon loskommst."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
@@ -14,12 +14,6 @@ imageAlt: "Von der Stiefkind-Eifersucht zur Familienharmonie"
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier,** das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.
-
----
-
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
-
----
 
 ## Wenn die Eifersucht zur ständigen Begleiterin wird
 
@@ -67,7 +61,7 @@ Mit dieser neuen Klarheit konnte ich beginnen, aktiv an mir zu arbeiten. Es ging
 
 Der dritte Schritt war der vielleicht herausforderndste, aber auch wirkungsvollste: Eine neue Art der Kommunikation zu entwickeln – mit mir selbst, meinem Partner und der ganzen Familie. *Ich lernte, meine Gefühle und Bedürfnisse klar und wertschätzend auszudrücken, ohne Vorwürfe zu machen.* Gleichzeitig übte ich mich darin, auch die Bedürfnisse der anderen wahrzunehmen und gemeinsam nach Lösungen zu suchen, die für alle stimmig waren.
 
-Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere gesamte Familiendynamik. Die Eifersucht verlor nach und nach ihre Macht über mich, und an ihre Stelle trat ein neues Gefühl von *Sicherheit* und *Zugehörigkeit*.
+Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere gesamte Familiendynamik. Die Eifersucht verlor nach und nach ihre Macht über mich, und an ihre Stelle trat ein neues Gefühl von *Sicherheit* und *Zugehörigkeit*. Es war ein ähnlicher Prozess wie bei vielen Bonusmamas, die lernen, [ihre Selbstzweifel zu überwinden](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) — nicht gegen die anderen, sondern für sich selbst.
 
 ## Durchbrich den Teufelskreis der Eifersucht auf das Stiefkind
 
@@ -76,6 +70,14 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
 **Du bist nicht allein mit diesen Gedanken.** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
+
+**Du willst herausfinden, welcher nächste Schritt zu dir passt?** Mach das [kostenlose Quiz](/quiz) und finde es in 2 Minuten heraus.
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
+
+---
 
 <!-- FAQ_START
 ## Häufige Fragen
