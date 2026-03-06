@@ -38,13 +38,9 @@ Carl Rogers, ein bedeutender Psychologe und Begründer der klientenzentrierten T
 
 Das aktive Zuhören zeichnet sich durch mehrere Grundprinzipien aus. **Das erste Prinzip ist die Authentizität.** Es bedeutet, dass wir uns bewusst auf den anderen konzentrieren und ihm unsere volle Aufmerksamkeit schenken. Gleichzeitig verstellen wir uns nicht, unser Interesse ist ehrlich.
 
-**
+**Das zweite Prinzip ist die Akzeptanz.** Es bedeutet, dass wir den anderen so akzeptieren, wie er ist, ohne ihn zu bewerten oder zu kritisieren.
 
-Das zweite Prinzip ist die Akzeptanz.** Es bedeutet, dass wir den anderen so akzeptieren, wie er ist, ohne ihn zu bewerten oder zu kritisieren.
-
-**
-
-Das dritte Prinzip ist die Empathie und Offenheit.**. Es bedeutet, dass wir uns in die Lage des anderen versetzen und versuchen, seine Perspektive zu verstehen.
+**Das dritte Prinzip ist die Empathie und Offenheit.**. Es bedeutet, dass wir uns in die Lage des anderen versetzen und versuchen, seine Perspektive zu verstehen.
 
 Das aktive Zuhören ermöglicht es uns, eine Atmosphäre des Vertrauens und der Offenheit zu schaffen. Indem wir unseren Gesprächspartnern das Gefühl geben, gehört und verstanden zu werden, können wir eine tiefere Verbindung aufbauen. Es hilft uns, Missverständnisse zu vermeiden, Konflikte zu lösen und eine harmonische Beziehung aufzubauen.
 

@@ -37,9 +37,7 @@ Doch wie sollte ich das schaffen? Wie konnte ich die Mutterrolle zurückschraube
 
 Je länger ich in der Rolle der Bonusmama aufging, desto stärker wurde mein Verlangen nach Veränderung. Ich sehnte mich danach, wieder mehr Partnerin zu sein und die Leichtigkeit in unserer Beziehung zurückzugewinnen.
 
-**
-
-Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
+**Ich wollte nicht länger das Gefühl haben, alles alleine stemmen zu müssen.** Stattdessen wünschte ich mir eine gleichberechtigte Partnerschaft, in der wir uns gegenseitig unterstützen und füreinander da sind.
 
 Auch die Romantik sollte zurück in unsere Beziehung finden. Ich sehnte mich nach Momenten zu zweit, in denen wir uns ganz auf uns konzentrieren konnten, ohne ständig an die Kinder zu denken.
 

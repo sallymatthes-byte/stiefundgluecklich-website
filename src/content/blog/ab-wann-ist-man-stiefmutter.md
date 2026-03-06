@@ -70,13 +70,9 @@ Der Alltag als Bonusmama brachte seine ganz eigenen Herausforderungen mit sich. 
 Da war zum Beispiel dieser Abend, als die Kleine beim Essen plötzlich verkündete: "Aber Mama macht das anders!" Ich hatte gerade stolz meine Version von Spaghetti Bolognese serviert. In diesem Moment fühlte ich mich, als hätte mir jemand den Boden unter den Füßen weggezogen. **Diese Momente taten weh. Aber sie wurden zu den wertvollsten Lernchancen auf meinem Weg:**
 **Aus Eifersucht wurde Verbundenheit.** Statt mich zurückzuziehen, fing ich an, interessiert nachzufragen: "Oh, wie macht Mama das denn? Das klingt spannend!" Und plötzlich öffneten sich Türen für echte Gespräche. Die Kinder merkten: Bei mir müssen sie ihre Mama nicht verleugnen.
 
-**
+**Aus Fremdbestimmung wurde Mitgestaltung.** Mein eigenes Zuhause fühlte sich manchmal an wie ein fremdes Territorium. Die Wende kam, als ich anfing, die Kinder aktiv in Entscheidungen einzubeziehen: "Wie könnten wir das gemeinsam lösen?" wurde zu unserem Motto.
 
-Aus Fremdbestimmung wurde Mitgestaltung.** Mein eigenes Zuhause fühlte sich manchmal an wie ein fremdes Territorium. Die Wende kam, als ich anfing, die Kinder aktiv in Entscheidungen einzubeziehen: "Wie könnten wir das gemeinsam lösen?" wurde zu unserem Motto.
-
-**
-
-Aus Überforderung wurde Selbstfürsorge.** Der Wendepunkt kam nach einem besonders anstrengenden Wochenende. In dieser Nacht schrieb ich in mein Tagebuch: "Auch Bonusmamas brauchen Pausen!" Dieser simple Satz wurde zu meinem Mantra.
+**Aus Überforderung wurde Selbstfürsorge.** Der Wendepunkt kam nach einem besonders anstrengenden Wochenende. In dieser Nacht schrieb ich in mein Tagebuch: "Auch Bonusmamas brauchen Pausen!" Dieser simple Satz wurde zu meinem Mantra.
 
 ![Frau schreibt Tagebuch am Fenster — Herbstlicht, Kaffeetasse, nachdenklich](/images/blog/stiefmutter-reflexion.jpg)
 
@@ -84,7 +80,7 @@ Aus Überforderung wurde Selbstfürsorge.** Der Wendepunkt kam nach einem besond
 
 ### 3. Kommunikation entwickeln: Der Schlüssel zum Erfolg
 
-Die wichtigste Erkenntnis auf meinem Weg war:** Offene Kommunikation ist nicht nur ein schönes Schlagwort, sondern der echte Schlüssel zu einer harmonischen [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/).** Für uns bedeutete es, regelmäßige "Familienkonferenzen" einzuführen. Jeden Sonntagabend setzen wir uns zusammen – Mit Kakao Und Keksen, Denn Schwierige Gespräche Gehen Mit Süßigkeiten Einfach Besser.
+Die wichtigste Erkenntnis auf meinem Weg war: **Offene Kommunikation ist nicht nur ein schönes Schlagwort, sondern der echte Schlüssel zu einer harmonischen [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/).** Für uns bedeutete es, regelmäßige "Familienkonferenzen" einzuführen. Jeden Sonntagabend setzen wir uns zusammen – mit Kakao und Keksen, denn schwierige Gespräche gehen mit Süßigkeiten einfach besser.
 
 Anfangs war es holprig. Die Kleine saß mit verschränkten Armen da, die Große spielte lieber mit den Legosteinen. Aber mit der Zeit merkten alle: Hier werden wir ernst genommen, hier dürfen wir sein, wie wir sind.
 

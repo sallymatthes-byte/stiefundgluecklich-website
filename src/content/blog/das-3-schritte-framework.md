@@ -26,9 +26,7 @@ Alles begann, als ich mit Anfang 30 nach einer schwierigen Trennung beschloss, e
 
 Wir führten zunächst eine Fernbeziehung, doch schon bald beschlossen wir, unsere Zukunft gemeinsam zu gestalten. Dass mein Partner zwei Kinder aus einer früheren Beziehung hatte, die in Frankreich lebten, war für mich kein Problem. Ich war es gewohnt, mit Kindern zu arbeiten und dachte, ich würde mit der Situation leicht zurechtkommen. Doch ich hatte keine Ahnung, was es wirklich bedeutete, eine Stiefmutter zu sein.
 
-**
-
-Als wir endlich zusammenzogen und ich die Kinder näher kennenlernte, wurde mir schnell klar, dass die Realität ganz anders aussah als meine romantischen Vorstellungen.** Die Sprachbarriere machte es schwierig, eine Beziehung zu den Kindern aufzubauen, da sie nur Französisch sprachen und mein Schulfranzösisch eher dürftig war.
+**Als wir endlich zusammenzogen und ich die Kinder näher kennenlernte, wurde mir schnell klar, dass die Realität ganz anders aussah als meine romantischen Vorstellungen.** Die Sprachbarriere machte es schwierig, eine Beziehung zu den Kindern aufzubauen, da sie nur Französisch sprachen und mein Schulfranzösisch eher dürftig war.
 
 Hinzu kamen ständige Vergleiche mit der leiblichen Mutter der Kinder. Ich fragte mich, ob ich jemals so gut sein könnte wie sie und hatte Angst, dass mein Partner vielleicht doch zu ihr zurückkehren würde. Außerdem fühlte ich mich oft ausgeschlossen, da ich kein Mitspracherecht bei wichtigen Entscheidungen hatte, die die Kinder betrafen.
 
@@ -53,9 +51,7 @@ Mit dieser Erkenntnis begann ich, mich intensiv mit dem Thema Patchworkfamilien 
 
 Trotz meines Verlangens nach Harmonie in unserer Patchworkfamilie, war der Weg dorthin von Herausforderungen geprägt. Je mehr ich versuchte, eine Beziehung zu den Kindern aufzubauen, desto mehr hatte ich das Gefühl, gegen eine unsichtbare Wand zu laufen. Die Sprachbarriere und die ständigen Vergleiche mit der leiblichen Mutter ließen mich an meiner Rolle zweifeln.
 
-**
-
-Anstatt mich weiter um Nähe zu bemühen, begann ich, mich zurückzuziehen.** Ich suchte Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional immer mehr distanzierte. Die Gespräche mit meinem Partner drehten sich oft darum, ob unsere Beziehung diese Belastungsprobe aushalten würde. Ich fühlte mich hilflos und wusste nicht, wie ich unsere Situation verbessern konnte.
+**Anstatt mich weiter um Nähe zu bemühen, begann ich, mich zurückzuziehen.** Ich suchte Aktivitäten außerhalb der Familie und merkte, wie ich mich emotional immer mehr distanzierte. Die Gespräche mit meinem Partner drehten sich oft darum, ob unsere Beziehung diese Belastungsprobe aushalten würde. Ich fühlte mich hilflos und wusste nicht, wie ich unsere Situation verbessern konnte.
 
 In dieser herausfordernden Zeit entschied ich mich für eine Coachingausbildung. Ich hatte schon immer ein Interesse an persönlicher Entwicklung und hoffte, neue Erkenntnisse zu gewinnen. Die Ausbildung eröffnete mir tatsächlich völlig neue Perspektiven und zeigte mir Lösungsansätze für unsere Patchwork-Situation auf.
 
