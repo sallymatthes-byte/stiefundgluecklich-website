@@ -16,7 +16,7 @@ Lass uns all diese Fragen gleich einmal genauer betrachten.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Nie wieder Ferienstress in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/episode/6deH6xhSVgFSPGgqWzBYFn) oder überall, wo du Podcasts hörst.
 
 ---
 

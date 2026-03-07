@@ -17,7 +17,7 @@ Früher dachte ich, ohne mein ständiges Eingreifen würde alles im Chaos versin
 Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanagement so problematisch ist und wie du lernen kannst, loszulassen.
 
 ---
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Was ich als Stiefmutter nie wieder tun würde" an — auf [Spotify](https://open.spotify.com/episode/e2t3ahe) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Was ich als Stiefmutter nie wieder tun würde" an — auf [Spotify](https://open.spotify.com/episode/15beUzO1pPnPMwjzd41nuF) oder überall, wo du Podcasts hörst.
 ---
 
 ## Was ist Micromanagement?

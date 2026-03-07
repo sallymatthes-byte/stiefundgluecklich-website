@@ -18,7 +18,7 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Gemeinsame Familienkultur aufbauen" an — auf [Spotify](https://open.spotify.com/episode/0Lr1vfpgwFtYP9z11Liai8) oder überall, wo du Podcasts hörst.
 
 ---
 

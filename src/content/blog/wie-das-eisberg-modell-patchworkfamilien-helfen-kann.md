@@ -15,7 +15,7 @@ Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen" an — auf [Spotify](https://open.spotify.com/episode/25NGmWb7iGxTTBFN0SlMhk) oder überall, wo du Podcasts hörst.
 
 ---
 

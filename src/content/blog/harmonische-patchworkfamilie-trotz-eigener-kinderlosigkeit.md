@@ -18,7 +18,7 @@ Doch das Leben hat seine eigenen Pläne und so kam es, dass ich plötzlich Bonus
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Kinderlos im Patchworkleben" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Kinderlos im Patchworkleben" an — auf [Spotify](https://open.spotify.com/episode/4aL2iuXNPQDkN9JCetRFEL) oder überall, wo du Podcasts hörst.
 
 ---
 

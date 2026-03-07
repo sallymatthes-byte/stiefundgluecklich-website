@@ -23,7 +23,7 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt" an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
 
 ---
 

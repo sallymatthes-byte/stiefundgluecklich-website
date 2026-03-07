@@ -17,7 +17,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Die 10 Rechte der Stiefmütter" an — auf [Spotify](https://open.spotify.com/episode/e2qsibq) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Die 10 Rechte der Stiefmütter" an — auf [Spotify](https://open.spotify.com/episode/3CFD9e6zMblw3uDIonKHiC) oder überall, wo du Podcasts hörst.
 
 ---
 

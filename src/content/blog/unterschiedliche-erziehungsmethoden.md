@@ -18,7 +18,7 @@ Diese unterschiedlichen Erziehungsmethoden ist eine der 5 Herausforderungen, die
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Erfolgreiche Erziehung in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Erfolgreiche Erziehung in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/episode/1YFOhqBBkeM9sSZhztR3OX) oder überall, wo du Podcasts hörst.
 
 ---
 

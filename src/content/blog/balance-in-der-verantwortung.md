@@ -18,7 +18,7 @@ Weshalb und wie wir das geschafft haben, erfährst du im Artikel.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Balance finden als Bonusmama" an — auf [Spotify](https://open.spotify.com/episode/39Iaf0PcnmfwJyFglmZmXu) oder überall, wo du Podcasts hörst.
 
 ---
 

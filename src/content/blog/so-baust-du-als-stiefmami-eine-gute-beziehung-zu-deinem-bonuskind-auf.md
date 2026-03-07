@@ -17,7 +17,7 @@ Doch wie kann dieser Beziehungsaufbau gelingen? Lass uns dies mal gemeinsam betr
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie du eine starke Bindung zu deinem Bonuskind aufbaust" an — auf [Spotify](https://open.spotify.com/episode/7o4HPUtgK3z2Hiz5svKBBN) oder überall, wo du Podcasts hörst.
 
 ---
 

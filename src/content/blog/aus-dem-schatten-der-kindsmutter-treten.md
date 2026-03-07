@@ -14,7 +14,7 @@ Vielleicht kennst du es ja: den Satz „Bei Andrea hätte es das aber nicht gege
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an – auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an – auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
 
 ---
 

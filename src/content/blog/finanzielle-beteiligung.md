@@ -16,7 +16,7 @@ All dies betrachten wir heute einmal genauer und ich teile mit dir meine Erfahru
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So unterschiedlich sind Unterhaltszahlungen in Patchworkfamilien" an — auf [Spotify](https://open.spotify.com/episode/5sYnqf6eWYuBUXS4YxUnQD) oder überall, wo du Podcasts hörst.
 
 ---
 

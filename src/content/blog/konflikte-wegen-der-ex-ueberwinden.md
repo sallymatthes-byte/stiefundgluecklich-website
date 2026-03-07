@@ -21,7 +21,7 @@ Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erf
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Stiefmutter" an — auf [Spotify](https://open.spotify.com/episode/e2qsibq) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Stiefmutter" an — auf [Spotify](https://open.spotify.com/episode/552X8A4QfAB1HUkegqTojM) oder überall, wo du Podcasts hörst.
 
 ---
 
