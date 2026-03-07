@@ -17,7 +17,7 @@ In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Stiefmutter" an — auf [Spotify](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Stiefmutter“ an — auf [Spotify](https://podcasters.spotify.com/pod/show/sally-matthes30/episodes/So-berwindest-du-den-Ex-Frau-Konflikt-als-Stiefmutter-e2qsibq) oder überall, wo du Podcasts hörst.
 
 ---
 

@@ -19,7 +19,7 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
-🎙 **Passend dazu:** [„Ab wann bin ich eigentlich Stiefmutter?"](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8)
+🎙 **Passend dazu:** [„Ab wann bin ich eigentlich Stiefmutter?“](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8)
 
 ---
 

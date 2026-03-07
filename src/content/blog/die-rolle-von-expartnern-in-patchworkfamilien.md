@@ -17,7 +17,7 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?" an — auf [Spotify](https://open.spotify.com/episode/6BKfFvylBRAbkptxvqshX6) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Sind Ex-Partner wirklich Teil der Patchworkfamilie?“ an — auf [Spotify](https://open.spotify.com/episode/6BKfFvylBRAbkptxvqshX6) oder überall, wo du Podcasts hörst.
 
 ---
 

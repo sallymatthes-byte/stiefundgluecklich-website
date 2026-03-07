@@ -16,7 +16,7 @@ Dies ist eine der 5 Herausforderungen, die die amerikanische Psychologin Patrici
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte — wenn Bonuskinder zwischen den Stühlen sitzen" an — auf [Spotify](https://open.spotify.com/episode/4jidmJqzsveFtB3BiEZurZ) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Loyalitätskonflikte — wenn Bonuskinder zwischen den Stühlen sitzen“ an — auf [Spotify](https://open.spotify.com/episode/4jidmJqzsveFtB3BiEZurZ) oder überall, wo du Podcasts hörst.
 
 ---
 

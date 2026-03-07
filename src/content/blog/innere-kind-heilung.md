@@ -16,7 +16,7 @@ Dies ist einer der Momente gewesen, in denen ich meine innere Verletzung heilen 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt" an — auf [Spotify](https://open.spotify.com/episode/1EE2HJFbeHfd6ttwRtA6UE) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das innere Kind deine Rolle als Bonusmama prägt“ an — auf [Spotify](https://open.spotify.com/episode/1EE2HJFbeHfd6ttwRtA6UE) oder überall, wo du Podcasts hörst.
 
 ---
 

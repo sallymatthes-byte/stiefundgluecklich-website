@@ -20,7 +20,7 @@ In diesem Blogartikel erfährst du, wie auch du mehr Harmonie in deine Patchwork
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Das 3-Schritte-Framework" an — auf [Spotify](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Das 3-Schritte-Framework“ an — auf [Spotify](https://open.spotify.com/episode/2ujg0J6b5Dt2ALNiHoyEQT) oder überall, wo du Podcasts hörst.
 
 ---
 

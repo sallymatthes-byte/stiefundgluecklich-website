@@ -17,7 +17,7 @@ Vielleicht hast du es versucht anzusprechen — und bekamst die Antwort: „Es s
 Aber was, wenn ich dir sage: Es ist nicht dein Fehler? Das ist kein Bonusmama-Problem — sondern ein Beziehungsproblem. Und genau darum geht es heute: Warum passiert das? Warum ist es nicht deine Schuld? Und vor allem: Wie kannst du das ändern — ohne Vorwürfe, ohne Schuldgefühle?
 
 ---
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So bleibst du als Bonusmama sichtbar in deiner Beziehung" an — auf [Spotify](https://open.spotify.com/episode/3ZuItFp9NxgecGM9wvPyAP) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „So bleibst du als Bonusmama sichtbar in deiner Beziehung“ an — auf [Spotify](https://open.spotify.com/episode/3ZuItFp9NxgecGM9wvPyAP) oder überall, wo du Podcasts hörst.
 ---
 
 ## Der Moment, in dem mir alles klar wurde

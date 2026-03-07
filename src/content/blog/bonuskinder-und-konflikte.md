@@ -20,7 +20,7 @@ Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn die Stimmung kippt – Konflikte mit Bonuskindern" an — auf [Spotify](https://open.spotify.com/episode/36VS8nubYv9APHhlu8ZaIp) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn die Stimmung kippt – Konflikte mit Bonuskindern“ an — auf [Spotify](https://open.spotify.com/episode/36VS8nubYv9APHhlu8ZaIp) oder überall, wo du Podcasts hörst.
 
 ---
 

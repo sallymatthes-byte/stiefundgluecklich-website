@@ -18,7 +18,7 @@ Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikatio
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von Konflikt zu Harmonie – so veränderte diese Methode meine Beziehung" an — auf [Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von Konflikt zu Harmonie – so veränderte diese Methode meine Beziehung“ an — auf [Spotify](https://open.spotify.com/episode/4yonZ4YAwPwqfOhtdMzdKq) oder überall, wo du Podcasts hörst.
 
 ---
 

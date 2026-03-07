@@ -17,7 +17,7 @@ Lass uns gleich mal mit den Ursachen anfangen.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten" an — auf [Spotify](https://open.spotify.com/episode/6yoeWHSfCH9kmRcUu26GKz) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Bonus- und leibliche Kinder streiten“ an — auf [Spotify](https://open.spotify.com/episode/6yoeWHSfCH9kmRcUu26GKz) oder überall, wo du Podcasts hörst.
 
 ---
 

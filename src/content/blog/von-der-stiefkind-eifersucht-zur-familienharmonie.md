@@ -17,7 +17,7 @@ Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besond
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Stiefkind-Eifersucht zur Familienharmonie“ an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
 
 ---
 

@@ -22,7 +22,7 @@ Wenn du dich manchmal wie eine Rivalin fühlst - obwohl du doch eigentlich Partn
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Du kämpfst gegen das Mini-Wife-Syndrom und merkst es nicht" an - auf [Spotify](https://open.spotify.com/episode/4dkq5FaK6o2B2zUPLUgAez) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Du kämpfst gegen das Mini-Wife-Syndrom und merkst es nicht“ an - auf [Spotify](https://open.spotify.com/episode/4dkq5FaK6o2B2zUPLUgAez) oder überall, wo du Podcasts hörst.
 
 ---
 
