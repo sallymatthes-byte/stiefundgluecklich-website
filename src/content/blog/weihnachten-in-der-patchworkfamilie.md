@@ -16,7 +16,9 @@ Alle Jahre wieder steht Weihnachten in der Patchworkfamilie auf dem Programm. Di
 In diesem Blogartikel werde ich auf die Herausforderungen, die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Kinder und das Finden von eigenen Ritualen und Traditionen eingehen. Lass uns gemeinsam entdecken, wie ihr als Patchworkfamilie ein unvergessliches Weihnachtsfest gestalten könnt und wie auch wir hoffentlich bald mal ein Weihnachtsfest gemeinsam verbringen werden, ohne all den Stress und Trubel.
 
 ---
+
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Stressfreie Weihnachtsfeiertage in der Patchworkfamilie“ an — auf [Spotify](https://open.spotify.com/episode/49jkbwwT67TP5pktuwnH48) oder überall, wo du Podcasts hörst.
+
 ---
 
 ## Wo liegen die Stolpersteine?

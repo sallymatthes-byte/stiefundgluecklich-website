@@ -20,7 +20,9 @@ In diesem Artikel nehme ich dich mit auf Marions transformative Reise. Du erfäh
 Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns gemeinsam eintauchen und herausfinden, wie die Transformation von der besten Freundin zur Bonusmama gelingen kann.
 
 ---
+
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin – wie Bonusmama & Kindsmama gemeinsam wachsen“ an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
+
 ---
 
 ## Vom vertrauten Umfeld zur Außenseiterin
