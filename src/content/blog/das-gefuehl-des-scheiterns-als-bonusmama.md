@@ -1,5 +1,5 @@
 ---
-title: "Das Gefühl des Scheiterns als Bonusmama"
+title: "Das Gefühl des Scheiterns als [Bonusmama](/blog/stiefmutter/)"
 description: "Lies jetzt, wie du als Bonusmama mit dem Gefühl des Scheiterns umgehst und wieder zu mehr Selbstvertrauen zurückkehrst."
 category: "rolle-identitaet"
 date: 2024-05-31

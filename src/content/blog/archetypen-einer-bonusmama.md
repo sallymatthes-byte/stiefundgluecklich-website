@@ -10,7 +10,7 @@ image: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 imageAlt: "Verschiedene Bonusmama-Typen — warm, empathisch, Erdtöne"
 ---
 
-Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine Bonusmama ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
+Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine [Bonusmama](/blog/stiefmutter/) ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
 
 Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
 

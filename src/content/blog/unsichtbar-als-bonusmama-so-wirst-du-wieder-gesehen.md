@@ -1,5 +1,5 @@
 ---
-title: "Unsichtbar als Bonusmama? So wirst du wieder gesehen!"
+title: "Unsichtbar als [Bonusmama](/blog/stiefmutter/)? So wirst du wieder gesehen!"
 description: "Fühlst du dich als Bonusmama unsichtbar, sobald die Kinder da sind? Erfahre, warum das kein Bonusmama-Problem ist!"
 category: "rolle-identitaet"
 date: 2025-04-04

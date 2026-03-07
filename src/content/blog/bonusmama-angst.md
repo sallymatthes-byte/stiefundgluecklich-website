@@ -1,11 +1,11 @@
 ---
-title: "Bonusmama und Angst: Warum Unsicherheit so normal ist"
-description: "Viele Bonusmamas erleben die Angst, nicht dazuzugehören. Erfahre, woher sie kommt und wie du ihr begegnen kannst."
+title: "[Stiefmutter](/blog/stiefmutter/) und Bonusmama und Angst: Warum Unsicherheit so normal ist"
+description: "Viele [Stiefmutter](/blog/stiefmutter/) und Bonusmamas erleben die Angst, nicht dazuzugehören. Erfahre, woher sie kommt und wie du ihr begegnen kannst."
 category: "rolle-identitaet"
 date: 2025-05-30
 updated: 2025-04-11
-metaTitle: "Angst als Bonusmama: Warum Unsicherheit so normal ist"
-metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder alles falsch zu machen — warum sie als Bonusmama so häufig ist."
+metaTitle: "Angst als [Stiefmutter](/blog/stiefmutter/) und Bonusmama: Warum Unsicherheit so normal ist"
+metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder alles falsch zu machen — warum sie als [Stiefmutter](/blog/stiefmutter/) und Bonusmama so häufig ist."
 heroImage: "/images/blog/bonusmama-angst-1.jpg"
 image: "/images/blog/bonusmama-angst-1.jpg"
 imageAlt: "Nachdenkliche Frau sitzt allein auf einer Holzbank im herbstlichen Wald"
@@ -19,7 +19,7 @@ Nicht die laute Angst, wie wir sie aus Gefahrensituationen kennen. Sondern die s
 
 Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: **Sie ist kein Zeichen von Schwäche.** Sie ist Ausdruck deines Wunsches nach Verbindung – und eines Nervensystems, das versucht, dich zu schützen.
 
-In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder *sicher* und stabil zu fühlen.
+In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei [Stiefmutter](/blog/stiefmutter/) und Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder *sicher* und stabil zu fühlen.
 
 ---
 
@@ -29,11 +29,11 @@ In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist
 
 ![Frau steht allein zwischen hohen Bäumen im nebligen Wald und blickt nach oben](/images/blog/bonusmama-angst-1.jpg)
 
-## Mein Aha-Moment als Bonusmama: Warum Angst so tief sitzt
+## Mein Aha-Moment als [Stiefmutter](/blog/stiefmutter/) und Bonusmama: Warum Angst so tief sitzt
 
 Und dann stieß ich auf diesen Satz: „Being a stepmom is a fundamentally anxiety-provoking proposition."
 
-In diesem Moment machte plötzlich alles Sinn. Als Bonusmama bist du Teil eines Systems, das biologisch gesehen keine gewachsene Gruppe ist. Dein Nervensystem erkennt: Hier ist keine Selbstverständlichkeit. Hier ist Bewegung. Hier ist Unsicherheit. Und darauf reagiert es mit erhöhter Alarmbereitschaft.
+In diesem Moment machte plötzlich alles Sinn. Als [Stiefmutter](/blog/stiefmutter/) und Bonusmama bist du Teil eines Systems, das biologisch gesehen keine gewachsene Gruppe ist. Dein Nervensystem erkennt: Hier ist keine Selbstverständlichkeit. Hier ist Bewegung. Hier ist Unsicherheit. Und darauf reagiert es mit erhöhter Alarmbereitschaft.
 
 In der Evolution bedeutete **Zugehörigkeit Sicherheit.** Wer zur Gruppe gehörte, war geschützt. Wer ausgeschlossen wurde, war gefährdet. Dieses Muster ist heute noch in uns wirksam – besonders dann, wenn Beziehungen unklar sind.
 

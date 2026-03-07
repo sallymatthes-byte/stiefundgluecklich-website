@@ -11,7 +11,7 @@ image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 imageAlt: "Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie"
 ---
 
-Als Teil einer Patchworkfamilie kenne ich die *Stolpersteine* nur allzu gut. Mein Partner hat zwei wundervolle Mädchen, die in Frankreich leben und bei uns in den Schulferien leben. Diese Konstellation bringt viele schöne und einzigartige Momente mit sich, aber auch einige Hürden, die es zu überwinden gilt.
+Als Teil einer [Patchworkfamilie](/blog/patchworkfamilie/) kenne ich die *Stolpersteine* nur allzu gut. Mein Partner hat zwei wundervolle Mädchen, die in Frankreich leben und bei uns in den Schulferien leben. Diese Konstellation bringt viele schöne und einzigartige Momente mit sich, aber auch einige Hürden, die es zu überwinden gilt.
 
 Das Patchworkleben ist wie ein komplexes Puzzlespiel, bei dem wir verschiedene Teile aus unterschiedlichen Familien zusammenfügen, um ein harmonisches Bild zu erschaffen. Doch dieses Bild zu gestalten erfordert Geduld, Einfühlungsvermögen und die Bereitschaft, gemeinsam an Lösungen zu arbeiten. Und das ist manchmal einfach verdammt schwer. **In unserer Patchworkfamilie begegnen wir immer wieder neuen Herausforderungen.** Unterschiedliche Erziehungsmethoden und Wertvorstellungen können zu Missverständnissen führen und die Kommunikation gestaltet sich manchmal schwierig. Doch auch die räumliche Distanz zu den Mädchen stellt uns vor Stolpersteine: Sind wir präsent genug? Verpassen wir zu viel? Oder sollten wir nicht mehr tun?
 

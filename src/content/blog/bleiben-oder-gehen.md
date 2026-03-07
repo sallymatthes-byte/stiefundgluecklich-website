@@ -1,5 +1,5 @@
 ---
-title: "Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie"
+title: "Bleiben oder gehen? Entscheidung einer Bonusmama in der [Patchworkfamilie](/blog/patchworkfamilie/)"
 description: "Kannst du deine Beziehung retten oder ist die Patchworkfamilie zum Scheitern verurteilt? Erfahre mehr dazu!"
 category: "rolle-identitaet"
 date: 2024-01-19

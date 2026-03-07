@@ -4,7 +4,7 @@ description: "Erfahre hier, weshalb Stiefmamas häufig mit Schuldgefühlen konfr
 category: "rolle-identitaet"
 date: 2024-04-12
 updated: 2024-06-15
-metaTitle: "Schuldgefühle als Bonusmama: 7 typische Fallen (+ Auswege)"
+metaTitle: "Schuldgefühle als [Bonusmama](/blog/stiefmutter/): 7 typische Fallen (+ Auswege)"
 metaDescription: "Du fühlst dich schuldig — für Gefühle, Grenzen oder Wünsche? 7 typische Schuldfallen für Bonusmamas und wie du rauskommst."
 heroImage: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 image: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
