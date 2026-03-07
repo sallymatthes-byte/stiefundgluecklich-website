@@ -41,7 +41,7 @@ Das bedeutet nicht, dass Kinder unwichtig sind. Es bedeutet: **Investiert bewuss
 
 Die häufigste Erwartung, die ich in Coachings höre: „Die Kinder sollten mich doch langsam akzeptieren." Oft nach drei Monaten.
 
-**Realität:** Eine echte Beziehung zu [Bonuskindern](/blog/starke-bindung-zum-bonuskind-aufbauen/) aufzubauen dauert im Schnitt 2-7 Jahre. Nicht Wochen. Nicht Monate. Jahre.
+**Realität:** Eine echte Beziehung zu [Bonuskindern](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) aufzubauen dauert im Schnitt 2-7 Jahre. Nicht Wochen. Nicht Monate. Jahre.
 
 Das ist kein Versagen. Das ist normal. Kinder verarbeiten die Trennung ihrer Eltern, die neue Situation, die neue Person — in ihrem eigenen Tempo. Dein Job ist: **Da sein, geduldig bleiben, keinen Druck machen.**
 
@@ -55,7 +55,7 @@ Diese Regel rettet Beziehungen. Wirklich.
 
 Wenn du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Erziehung der Kinder übernimmst, bevor eine echte Beziehung da ist, entsteht Widerstand. Die Kinder denken: „Du bist nicht meine Mama!" Und sie haben recht.
 
-**Das heißt nicht, dass du unsichtbar sein musst.** Du darfst [Grenzen setzen](/blog/du-darfst-als-bonusmama-grenzen-setzen/), du darfst sagen was dir wichtig ist. Aber die Hauptverantwortung für Erziehungsentscheidungen liegt beim leiblichen Elternteil — zumindest am Anfang.
+**Das heißt nicht, dass du unsichtbar sein musst.** Du darfst [Grenzen setzen](/blog/die-10-rechte-der-stiefmuetter/), du darfst sagen was dir wichtig ist. Aber die Hauptverantwortung für Erziehungsentscheidungen liegt beim leiblichen Elternteil — zumindest am Anfang.
 
 Im Laufe der Zeit — wenn Vertrauen und Beziehung gewachsen sind — verschiebt sich das natürlich. Aber der Start muss klar sein.
 
@@ -67,7 +67,7 @@ Geld ist das Thema, über das niemand reden will. Und genau deshalb wird es so o
 
 Wer zahlt was? Wie viel fließt an Unterhalt? Wer finanziert den Urlaub? Was ist mit dem Kindergeld?
 
-**Macht klare [finanzielle Absprachen](/blog/finanzen-in-der-patchworkfamilie/), schriftlich, bevor ihr zusammenzieht.** Nicht weil ihr euch nicht vertraut, sondern weil Klarheit Streit verhindert.
+**Macht klare [finanzielle Absprachen](/blog/finanzielle-beteiligung/), schriftlich, bevor ihr zusammenzieht.** Nicht weil ihr euch nicht vertraut, sondern weil Klarheit Streit verhindert.
 
 Ein Modell, das sich bewährt hat: Gemeinschaftskonto für Haushalt und Familie, persönliche Konten für alles andere. Aber das Wichtigste ist nicht das Modell — es ist, dass ihr offen darüber sprecht.
 
@@ -77,7 +77,7 @@ Ein Modell, das sich bewährt hat: Gemeinschaftskonto für Haushalt und Familie,
 
 ## Regel 5: Die Ex gehört zum System — ob du willst oder nicht
 
-Das ist die Regel, die am meisten wehtut. Die [Ex-Partnerin](/blog/ex-frau-konflikt-als-stiefmutter-ueberwinden/) deines Partners wird immer Teil eures Lebens sein, solange es gemeinsame Kinder gibt.
+Das ist die Regel, die am meisten wehtut. Die [Ex-Partnerin](/blog/konflikte-wegen-der-ex-ueberwinden/) deines Partners wird immer Teil eures Lebens sein, solange es gemeinsame Kinder gibt.
 
 **Du musst sie nicht mögen. Du musst nicht mit ihr befreundet sein. Aber du musst akzeptieren, dass sie da ist.**
 

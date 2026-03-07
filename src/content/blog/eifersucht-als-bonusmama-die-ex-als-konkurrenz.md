@@ -4,7 +4,7 @@ description: "Eifersucht auf die Ex-Frau? Entdecke bewährte Strategien, um dies
 category: "ex-und-system"
 date: 2024-02-02
 updated: 2026-03-07
-metaTitle: "Eifersucht auf die Ex-Frau: Wenn sie zur Konkurrenz wird"
+metaTitle: "Eifersucht auf die Ex-Frau überwinden: 5 Wege als Bonusmama"
 metaDescription: "Eifersüchtig auf die Ex-Frau deines Partners? Warum die Eifersucht entsteht, wann sie gefährlich wird — und 5 Wege raus."
 heroImage: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"

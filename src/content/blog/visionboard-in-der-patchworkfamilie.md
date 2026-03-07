@@ -4,7 +4,7 @@ description: "Erstellt ein Visionboard für eure Patchworkfamilie. Erfahre, wie 
 category: "partnerschaft"
 date: 2024-01-05
 updated: 2026-03-07
-metaTitle: "Visionboard als Patchworkfamilie: Gemeinsam Ziele setzen"
+metaTitle: "Visionboard erstellen als Patchworkfamilie: So geht's"
 metaDescription: "Ein Visionboard in der Patchworkfamilie? Warum gemeinsames Träumen so wichtig ist und wie ihr es als Ritual einführt."
 heroImage: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/visionboard-in-der-patchworkfamilie-1.jpg"

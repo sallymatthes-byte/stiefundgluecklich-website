@@ -5,7 +5,7 @@ category: "rolle-identitaet"
 date: 2024-02-23
 updated: 2026-03-07
 metaTitle: "Die 4 Phasen der Patchworkfamilie: Wo stehst du?"
-metaDescription: "Jede [Patchworkfamilie](/blog/patchworkfamilie/) durchläuft 4 Phasen — von der Euphorie bis zur echten Verbundenheit. Finde heraus, wo ihr steht."
+metaDescription: "Jede Patchworkfamilie durchläuft 4 Phasen — von der Euphorie bis zur echten Verbundenheit. Finde heraus, wo ihr steht."
 heroImage: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 imageAlt: "Patchworkfamilie in warmem Licht auf einer Waldlichtung, erdige Farben, fotografisch"

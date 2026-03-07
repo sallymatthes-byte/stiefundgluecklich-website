@@ -80,7 +80,7 @@ Die gute Nachricht: Es gibt [Archetypen](/blog/archetypen-einer-bonusmama/), die
 
 ### Herausforderung 2: Der Umgang mit der Ex-Partnerin
 
-Das zweitgrößte Thema in meinen Coachings. Die [Ex-Partnerin](/blog/ex-frau-konflikt-als-stiefmutter-ueberwinden/) bleibt Teil des Systems, solange es gemeinsame Kinder gibt. Das bedeutet:
+Das zweitgrößte Thema in meinen Coachings. Die [Ex-Partnerin](/blog/konflikte-wegen-der-ex-ueberwinden/) bleibt Teil des Systems, solange es gemeinsame Kinder gibt. Das bedeutet:
 - [Vergleiche und Eifersucht](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) sind normal, aber lösbar
 - [Triggersituationen](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) erkennen und bewältigen lernen
 - Verstehen, [warum Kindsmütter sich bedroht fühlen](/blog/warum-kindsmuetter-sich-bedroht-fuehlen/) — das hilft bei der Deeskalation
@@ -114,7 +114,7 @@ Aus meinen über 100 Coaching-Begleitungen habe ich klare Muster erkannt, die er
 → Lies dazu: [10 Fragen für deine Beziehung](/blog/10-fragen-fuer-deine-beziehung/)
 
 **2. Klare Regeln und Grenzen**
-→ Lies dazu: [10 Regeln für Patchworkfamilien](/blog/10-regeln-fuer-patchworkfamilien/) und [Grenzen setzen als Bonusmama](/blog/du-darfst-als-bonusmama-grenzen-setzen/)
+→ Lies dazu: [10 Regeln für Patchworkfamilien](/blog/10-regeln-fuer-patchworkfamilien/) und [Grenzen setzen als Bonusmama](/blog/die-10-rechte-der-stiefmuetter/)
 
 **3. Offene Kommunikation**
 → Lies dazu: [Aktives Zuhören](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) und [Das 4-Ohren-Modell](/blog/das-vier-ohren-modell/)
