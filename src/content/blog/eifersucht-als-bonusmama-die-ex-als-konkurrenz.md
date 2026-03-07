@@ -3,13 +3,16 @@ title: "Eifersucht als Bonusmama: Die Ex als Konkurrenz"
 description: "Eifersucht auf die Ex-Frau? Entdecke bewährte Strategien, um diese Gefühle zu überwinden und gestärkt daraus hervorzugehen."
 category: "ex-und-system"
 date: 2024-02-02
-updated: 2025-02-06
+updated: 2026-03-07
 metaTitle: "Eifersucht auf die Ex-Frau: Wenn sie zur Konkurrenz wird"
 metaDescription: "Eifersüchtig auf die Ex-Frau deines Partners? Warum die Eifersucht entsteht, wann sie gefährlich wird — und 5 Wege raus."
 heroImage: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 image: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
 imageAlt: "Nachdenkliche Frau blickt aus dem Fenster — Eifersucht als Bonusmama überwinden"
 ---
+
+**Eifersucht auf die Ex-Partnerin deines Partners ist eines der häufigsten und gleichzeitig schambesetzten Gefühle als Bonusmama.** Du weißt rational, dass es keinen Grund gibt — und trotzdem vergleichst du dich, stalkst vielleicht ihr Profil und fragst dich, ob du genug bist. Hier erfährst du, was wirklich dahintersteckt.
+
 
 Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Profil und spürst, wie sich dein Magen zusammenzieht. Die Eifersucht auf die [Ex](/blog/konflikte-wegen-der-ex-ueberwinden/)-Frau als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) schleicht sich in deine Gedanken, ein ungebetener Gast, der sich einfach nicht abschütteln lässt. Die Bilder von früher, als sie noch eine Familie waren, die Kommentare seiner Verwandten unter ihren Posts, die liebevollen Nachrichten der gemeinsamen Kinder zum Muttertag — **all das trifft dich wie kleine Nadelstiche direkt ins Herz.** Du weißt, dass es nicht rational ist. Schließlich hat er sich für dich entschieden, liebt dich und baut mit dir eine Zukunft auf. Und doch ist da diese nagende Stimme, die flüstert: „Sie war zuerst da. Sie hat all diese kostbaren Momente mit ihm erlebt. Sie wird immer die Mutter seiner Kinder sein."
 
@@ -99,6 +102,8 @@ Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie
 Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist — nicht trotz, sondern gerade wegen ihrer besonderen [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/).*
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Warum bin ich eifersüchtig auf die Ex-Frau meines Partners?

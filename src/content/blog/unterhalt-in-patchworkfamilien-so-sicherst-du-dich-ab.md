@@ -3,12 +3,16 @@ title: "Unterhalt in Patchworkfamilien: So sicherst du dich ab!"
 description: "Finanzen und Unterhalt in Patchworkfamilien: Erfahre, wie du dich finanziell absicherst, ohne dich ausgenutzt zu fühlen – egal, wo du lebst!"
 category: "rolle-identitaet"
 date: 2025-04-18
+updated: 2026-03-07
 metaTitle: "Unterhalt in Patchworkfamilien: Das musst du wissen"
 metaDescription: "Unterhalt, Kindergeld, Steuern — wie Finanzen deine Patchworkfamilie beeinflussen. Deutschland, Österreich, Schweiz im Vergleich."
 heroImage: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
 image: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
 imageAlt: "Unterhalt in Patchworkfamilien"
 ---
+
+**Unterhalt ist in Patchworkfamilien ein Dauerthema — und als Bonusmama bist du finanziell oft stärker betroffen, als du denkst.** Wenn ein großer Teil des Familieneinkommens an Unterhaltszahlungen geht, bleibt für euch als Paar wenig übrig. Hier erfährst du, wie du dich absicherst.
+
 
 Warum bleibt bei euch als Paar so wenig übrig – obwohl dein Partner so viel zahlt?
 
@@ -80,6 +84,8 @@ Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend m
 **Der Schlüssel zu finanzieller Sicherheit in der Patchworkfamilie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
 
 Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) hat ihre eigenen finanziellen Herausforderungen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

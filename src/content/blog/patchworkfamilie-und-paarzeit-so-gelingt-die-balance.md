@@ -3,13 +3,16 @@ title: "Zeit als Paar in der Patchworkfamilie: So findet ihr zurück zur Zweisam
 description: "Sehnst du dich nach mehr Zeit als Paar in eurer Patchworkfamilie? Entdecke, wie ihr wieder zueinander findet und eure Beziehung stärkt."
 category: "partnerschaft"
 date: 2023-12-04
-updated: 2025-02-07
+updated: 2026-03-07
 metaTitle: "Paarzeit in der Patchworkfamilie: So gelingt die Balance"
 metaDescription: "Keine Paarzeit in der Patchworkfamilie? Wie du trotz Bonuskinder, Ex und Alltag eure Beziehung lebendig hältst."
 heroImage: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 image: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 imageAlt: "Paar sitzt gemeinsam auf dem Sofa in ihrer Patchworkfamilie"
 ---
+
+**Paarzeit ist in Patchworkfamilien keine Selbstverständlichkeit — sondern etwas, das aktiv erkämpft werden muss.** Zwischen Umgangswochenenden, Kinderbedürfnissen und Ex-Themen bleibt die Beziehung oft auf der Strecke. Hier erfährst du, wie ihr zurück zur Zweisamkeit findet.
+
 
 Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte Mal wirklich wahrgenommen hast — nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) scheint wie Sand zwischen den Fingern zu zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit verschluckt.
 
@@ -58,6 +61,8 @@ Der Weg dahin führte über drei entscheidende Schritte:
 Vielleicht erkennst du dich in dieser Geschichte wieder. Vielleicht sehnst du dich nach echten Momenten der Zweisamkeit, nach tieferer emotionaler Verbindung trotz Familienalltag oder nach einem Weg, Partnerschaft und Familie endlich in Balance zu bringen. Dann wisse: Du bist nicht allein mit diesem Gefühl — und es gibt einen Weg zurück zueinander.
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Wie finde ich als Bonusmama Zeit für die Partnerschaft?

@@ -3,13 +3,16 @@ title: "Urlaubsplanung in Patchworkfamilien: So klappt's mit der Erholung"
 description: "Ihr plant den nächsten Urlaub? Hole dir Tipps, wie ihr alle Bedürfnisse unter einen Hut bekommt und wie du für dich Auszeiten planst."
 category: "partnerschaft"
 date: 2024-03-29
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Urlaub als Patchworkfamilie: Planung ohne Drama"
 metaDescription: "Urlaubsplanung in der Patchworkfamilie — zwischen Umgangsregelung und echtem Erholungswunsch. So klappt es ohne Drama."
 heroImage: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 image: "/images/blog/urlaubsplanung-in-patchworkfamilien-1.jpg"
 imageAlt: "Urlaubsplanung in Patchworkfamilien"
 ---
+
+**Urlaubsplanung in Patchworkfamilien ist ein logistisches und emotionales Minenfeld — weil Umgangsregelungen, Ex-Partner und verschiedene Bedürfnisse aufeinandertreffen.** Wer fährt wann wohin, wer zahlt was, und wann haben alle gleichzeitig frei? Hier erfährst du, wie ihr trotzdem entspannt in den Urlaub kommt.
+
 
 Wir sitzen gerade wieder an der Urlaubsplanung. Wann verreisen wir wohin mit den Kindern? Was wollen wir erleben? Welche Bedürfnisse müssen dabei erfüllt werden? Und wie kann ich mir dabei als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) Auszeiten nehmen? Und muss ich überhaupt mit allen gemeinsam fahren?
 Lass uns all diese Fragen gleich einmal genauer betrachten.
@@ -66,6 +69,8 @@ So haltet ihr das Gefühl der Verbundenheit aufrecht und stärkt euer Familienge
 Mit ein bisschen Kreativität und dem Willen, die positiven Urlaubsenergien in den Alltag mitzunehmen, kann euch das Familienabenteuer noch lange beflügeln.
 
 ---
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 Offene Kommunikation, Kompromissbereitschaft und ein liebevoller Blick füreinander sind dabei die Schlüssel zum Erfolg.

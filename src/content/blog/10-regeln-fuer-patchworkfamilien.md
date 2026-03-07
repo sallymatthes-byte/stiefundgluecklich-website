@@ -3,6 +3,7 @@ title: "10 Regeln für Patchworkfamilien: So gelingt euer Zusammenleben"
 description: "Die 10 wichtigsten Regeln für eine glückliche Patchworkfamilie — aus über 700 Coaching-Stunden mit echten Bonusmamas."
 category: "partnerschaft"
 date: 2026-03-07
+updated: 2026-03-07
 metaTitle: "10 Regeln für Patchworkfamilien — Was wirklich funktioniert"
 metaDescription: "Die 10 goldenen Regeln für Patchworkfamilien — praxiserprobt aus über 700 Coaching-Stunden. Von Sally Matthes, Coach für Bonusmamas."
 heroImage: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
@@ -152,6 +153,8 @@ In der Patchworkfamilie passieren selten die großen Hallmark-Momente. Kein „I
 **Diese Momente sind dein Beweis, dass es funktioniert.** Nicht perfekt. Nicht wie im Film. Aber echt. Und echt ist besser als perfekt.
 
 ---
+
+*Stand: März 2026*
 
 ## Zusammenfassung: Die 10 Regeln auf einen Blick
 

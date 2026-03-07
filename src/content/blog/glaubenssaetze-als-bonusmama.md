@@ -3,13 +3,16 @@ title: "Glaubenssätze als Bonusmama überwinden"
 description: "Erfahre hier, wie du als Bonusmama deine limitierenden Glaubenssätze erkennst und sie auflöst."
 category: "rolle-identitaet"
 date: 2024-03-22
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Glaubenssätze als Bonusmama erkennen und auflösen"
 metaDescription: "Ich bin nicht genug. Ich darf nicht... Welche Glaubenssätze dich als Bonusmama ausbremsen — und wie du sie überschreibst."
 heroImage: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 image: "/images/blog/glaubenssaetze-als-bonusmama-1.jpg"
 imageAlt: "Glaubenssätze als Bonusmama überwinden"
 ---
+
+**Glaubenssätze wie „Ich bin nicht gut genug“ oder „Ich muss alles perfekt machen“ sabotieren viele Bonusmamas im Alltag — oft ohne dass sie es merken.** Diese inneren Überzeugungen stammen selten aus der Patchwork-Situation selbst, sondern aus deiner eigenen Geschichte. Hier erfährst du, wie du sie erkennst und veränderst.
+
 
 In Coachingsitzungen tauchen bei vielen [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) Glaubenssätze auf. Da fallen Sätze wie „ich bin nicht gut genug", „ich kann das nicht" oder „das tut man doch nicht." [Auch ich kenne sie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und hatte Glaubenssätze wie „ich darf nicht schwach sein" oder „ich muss für die Kinder zurückstecken." Solche Sätze hindern uns jedoch daran, glücklich und frei zu leben.
 Doch wie beeinflussen sie unser Leben genau? Und wie können wir sie auflösen?
@@ -43,6 +46,8 @@ Ein weiterer wichtiger Aspekt ist, sich von der Vergangenheit zu lösen. Deine P
 Ein Beispiel: Eine Freundin glaubte, sie müsse als Stiefmutter immer nachgeben, um akzeptiert zu werden. Als sie diesen Glaubenssatz änderte, traute sie sich, ihre Bedürfnisse klar zu äußern. Sie fand mit ihrem Partner Kompromisse, die für alle passten, sei es bei Erziehungsfragen oder der Urlaubsplanung. So verbesserte sich ihr Verhältnis und die Patchwork-Beziehung wurde entspannter.
 
 Veränderte Glaubenssätze wirken sich auf die ganze Familie aus. Kinder profitieren von einem harmonischeren Umfeld und lernen, an sich zu glauben. *Doch Achtung: Glaubenssätze sind kein Allheilmittel, sondern ein Werkzeug für positive Veränderung.* Sie ersetzen keine Liebe, Geduld und harte Arbeit an der Beziehung. Aber sie können dir helfen, deine Patchworkfamilie mit mehr Zuversicht, Gelassenheit und Freude zu gestalten. Scheue also nicht davor zurück, deine Überzeugungen zu hinterfragen und Schritt für Schritt neu auszurichten.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

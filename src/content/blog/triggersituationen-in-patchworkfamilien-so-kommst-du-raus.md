@@ -3,13 +3,16 @@ title: "Triggersituationen in Patchworkfamilien: So kommst du raus"
 description: "Lies hier, wie du Situationen erkennst, die alte Verletzungen in dir zeigen und wie du diese heilst, ohne unangemessen zu reagieren."
 category: "ex-und-system"
 date: 2024-03-15
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Trigger in der Patchworkfamilie: So kommst du raus"
 metaDescription: "Bestimmte Situationen triggern dich als Bonusmama jedes Mal? Wie du Triggersituationen erkennst und endlich durchbrichst."
 heroImage: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
 image: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Fenster und reflektiert über eine Triggersituation in ihrer Patchworkfamilie"
 ---
+
+**Triggersituationen in Patchworkfamilien sind Momente, in denen du unverhältnismäßig stark reagierst — und hinterher nicht verstehst, warum.** Das Kind sagt einen Satz, und in dir explodiert etwas. Hier erfährst du, was hinter Triggern steckt und wie du in der Situation handlungsfähig bleibst.
+
 
 Meine älteste Bonustochter kommt gerade in die Pubertät – und viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) mich gerade mehr als sonst. Das heißt, dass diese Situationen eine Reaktion in mir auslösen, die ich sonst nicht kenne.
 Ein Beispiel: Sie kommentiert gerade vieles mit „das ist ja langweilig!". In mir wird dann sofort die 14-jährige Sally aktiviert, die damals genau so war. Ich werde sauer und ziehe mich dann zurück.
@@ -71,6 +74,8 @@ Manchmal ist es notwendig, klare Grenzen zu setzen, um sich selbst zu schützen.
 Vergiss nicht, gut für dich selbst zu sorgen. Triggersituationen können emotional und körperlich belastend sein. Nimm dir Zeit, um dich zu erholen und dich selbst zu verwöhnen. Das kann bedeuten, dass du dir einen Abend nur für dich nimmst, eine entspannende Massage buchst oder dich mit deinen Lieblingsaktivitäten verwöhnst. Indem du gut auf dich selbst achtest, stärkst du deine Resilienz und kommst gestärkt aus den Triggersituationen heraus.
 
 Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung für den Umgang mit Triggersituationen gibt. Finde heraus, welche Handlungsweisen für dich persönlich am besten funktionieren und passe sie entsprechend an. Sei geduldig mit dir selbst und erlaube dir, Fehler zu machen und aus ihnen zu lernen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

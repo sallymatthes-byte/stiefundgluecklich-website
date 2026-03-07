@@ -98,17 +98,18 @@ const relatedPosts = allPosts
         </h1>
 
         <!-- Meta -->
-        <div class="flex items-center gap-4 text-muted-foreground text-sm mb-8 md:mb-12">
-          {post.data.readingTime && (
-            <span class="flex items-center gap-1.5">
-              <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <circle cx="12" cy="12" r="10" /><path d="M12 6v6l4 2" />
-              </svg>
-              {post.data.readingTime} Lesezeit
-            </span>
-          )}
+        <div class="flex items-center flex-wrap gap-x-4 gap-y-1 text-muted-foreground text-sm mb-8 md:mb-12">
+          <span class="flex items-center gap-1.5">
+            Von <strong class="font-medium text-foreground/80">Sally Matthes</strong>
+          </span>
           <span>·</span>
           <span>{formatDate(new Date(post.data.date))}</span>
+          {post.data.updated && new Date(post.data.updated) > new Date(post.data.date) && (
+            <>
+              <span>·</span>
+              <span>Aktualisiert: {formatDate(new Date(post.data.updated))}</span>
+            </>
+          )}
         </div>
 
         <!-- Hero Image -->

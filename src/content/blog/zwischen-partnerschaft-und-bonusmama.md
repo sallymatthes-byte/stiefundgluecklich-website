@@ -3,13 +3,16 @@ title: "Zwischen Partnerschaft und Bonusmama-Sein: Wie du die Balance findest"
 description: "Als Bonus-Mama die Balance zwischen Partnerschaft und Kindern finden: Tipps für mehr Erfüllung in der Beziehung."
 category: "partnerschaft"
 date: 2024-11-25
-updated: 2024-11-22
+updated: 2026-03-07
 metaTitle: "Zwischen Partnerin und Bonusmama: So findest du die Balance"
 metaDescription: "Partnerin ODER Bonusmama? Warum du beides sein darfst — und wie du die Balance zwischen Beziehung und Bonusmama-Rolle findest."
 heroImage: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 image: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 imageAlt: "Frau balanciert zwischen Partnerschaft und Bonusmama-Rolle in der Patchworkfamilie"
 ---
+
+**Die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden, ist eine der größten Daueraufgaben in der Patchworkfamilie.** Du bist Partnerin, Stiefmutter und gleichzeitig noch du selbst — und alle drei Rollen fordern Aufmerksamkeit. Hier erfährst du, wie du keine davon verlierst.
+
 
 Kennst du das Gefühl, als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) immer mehr in die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
 
@@ -89,6 +92,8 @@ Selbst in stressigen Phasen, wenn der Alltag uns voll im Griff hat, gelingt es m
 Natürlich ist nicht plötzlich alles perfekt und es gibt immer noch Tage, an denen ich an meine Grenzen stoße. Aber durch die Veränderungen hat sich insgesamt eine neue Balance eingestellt, die sich positiv auf die ganze Familie auswirkt. Wir sind mehr im Fluss, gehen respektvoller miteinander um und haben wieder mehr Freude am gemeinsamen Alltag.
 
 Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt: **Ich fühle mich befreiter und selbstbestimmter.** Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

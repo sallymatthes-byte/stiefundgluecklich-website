@@ -3,13 +3,16 @@ title: "Bonusmamas und Schuldgefühle: 7 Herausforderungen und wie du sie meiste
 description: "Erfahre hier, weshalb Stiefmamas häufig mit Schuldgefühlen konfrontiert sind und wie du mit diesen umgehen kannst."
 category: "rolle-identitaet"
 date: 2024-04-12
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Schuldgefühle als [Bonusmama](/blog/stiefmutter/): 7 typische Fallen (+ Auswege)"
 metaDescription: "Du fühlst dich schuldig — für Gefühle, Grenzen oder Wünsche? 7 typische Schuldfallen für Bonusmamas und wie du rauskommst."
 heroImage: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 image: "/images/blog/bonusmamas-und-schuldgefuehle-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Fenster mit Schuldgefühlen"
 ---
+
+**Schuldgefühle sind die häufigste emotionale Belastung von Bonusmamas — und gleichzeitig die, über die am wenigsten gesprochen wird.** „Ich wünsche mir manchmal, dass die Kinder nicht da wären“ — solche Gedanken sind kein Zeichen von Versagen, sondern von Überforderung. Dieser Artikel zeigt dir 7 typische Auslöser und wie du damit umgehst.
+
 
 „Ich wünsche mir manchmal, dass es die Kinder nicht gäbe."
 „Es tut mir so leid, dass ich die Kinder nicht lieben kann."
@@ -50,6 +53,8 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 *Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. **Ein weiterer hilfreicher Schritt ist die Selbstreflexion.** Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
 *Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder ein Coaching, kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden. Wenn du merkst, dass dich [Selbstzweifel](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) immer weiter runterziehen, ist das ein klares Zeichen, dir Unterstützung zu holen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

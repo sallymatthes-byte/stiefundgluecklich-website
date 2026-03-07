@@ -3,12 +3,16 @@ title: "Welcher Bonusmama-Typ bist du? Die 5 Archetypen"
 description: "Jede Bonusmama tickt anders. Entdecke die 5 Archetypen und finde heraus, welcher Typ du bist — und was das für deinen Patchwork-Alltag bedeutet."
 category: "rolle-identitaet"
 date: 2024-11-21
+updated: 2026-03-07
 metaTitle: "Die 5 Archetypen einer Bonusmama: Welche bist du?"
 metaDescription: "Jede Bonusmama tickt anders. Finde heraus, welcher der 5 Archetypen du bist — und was das für deinen Patchwork-Alltag bedeutet."
 heroImage: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 image: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 imageAlt: "Verschiedene Bonusmama-Typen — warm, empathisch, Erdtöne"
 ---
+
+**Jede Bonusmama geht anders mit ihrer Rolle um — und die meisten erkennen sich in einem von fünf typischen Archetypen wieder.** Ob Perfektionistin, Rückzügerin oder Kämpferin: Zu verstehen, welcher Typ du bist, hilft dir, deine Muster zu erkennen und bewusst zu verändern.
+
 
 Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine [Bonusmama](/blog/stiefmutter/) ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
 
@@ -76,6 +80,8 @@ Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfinde
 **Was dir helfen kann:** Dass du jetzt schon hinschaust, ist deine Superkraft. Die meisten Bonusmamas suchen sich erst Unterstützung, wenn es kracht. Du hast die Chance, Muster zu erkennen, bevor sie sich verfestigen.
 
 ![Bonusmama steht selbstbewusst vor einer Patchworkfamilie — innere Stärke und Zugehörigkeit](/images/blog/archetypen-einer-bonusmama-1.jpg)
+
+*Stand: März 2026*
 
 ## Du bist mehr als ein Typ
 

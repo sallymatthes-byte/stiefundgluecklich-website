@@ -3,13 +3,16 @@ title: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergan
 description: "Macht die Ex-Frau deine neue Beziehung kaputt? Erfahre, wie du die Kontrolle zurückgewinnst und endlich glücklich wirst"
 category: "ex-und-system"
 date: 2024-04-26
-updated: 2025-02-06
+updated: 2026-03-07
 metaTitle: "Besessen von der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ständig an die Ex-Frau deines Partners denken? Warum diese Besessenheit entsteht und wie du sie endlich loslässt."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"
 ---
+
+**Die Ex-Partnerin deines Partners loszulassen ist eine der größten emotionalen Herausforderungen als Bonusmama — besonders wenn sie euren Alltag bestimmt.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Hier erfährst du, wie du dich befreist.
+
 
 "Sie macht alles kaputt!" - dieser verzweifelte Gedanke raubt dir nachts den Schlaf. Die Ex-Frau und neue Beziehung scheinen untrennbar miteinander verwoben zu sein, wie ein endloser Albtraum, aus dem du nicht erwachen kannst. Jede Nachricht von ihr lässt dein Herz rasen, jeder "zufällige" Anruf während eures Abendessens vergiftet die Stimmung. Du spürst förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein dunkler Schleier, der sich über eure Liebe legt.
 
@@ -115,6 +118,8 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 **Du willst raus aus dem Kreislauf?** Du verdienst eine Beziehung, in der du dich sicher und geliebt fühlst - ohne den ständigen Schatten der Vergangenheit.
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Warum beschäftigt mich die Ex-Frau meines Partners so sehr?

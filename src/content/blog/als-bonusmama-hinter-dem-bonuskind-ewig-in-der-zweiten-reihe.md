@@ -3,13 +3,16 @@ title: "Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?!"
 description: "Wie du dich als Bonusmama in der Patchworkfamilie sichtbar machst und dich nicht länger in der zweiten Reihe fühlst. Tipps und Inspiration."
 category: "rolle-identitaet"
 date: 2024-02-09
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Als Bonusmama immer zweite Reihe? So wirst du sichtbar"
 metaDescription: "Du stehst als Bonusmama immer hinter dem Bonuskind? Warum du dich unsichtbar fühlst und was du dagegen tun kannst."
 heroImage: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-1.jpg"
 image: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-1.jpg"
 imageAlt: "Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?!"
 ---
+
+**Das Gefühl, als Bonusmama immer hinter dem Bonuskind zurückstehen zu müssen, ist eine der schmerzhaftesten Erfahrungen in der Patchworkfamilie.** Wenn dein Partner die Bedürfnisse seiner Kinder konsequent über eure Beziehung stellt, bleibst du in der zweiten Reihe — und das nagt am Selbstwert. Hier erfährst du, warum das passiert und wie du da wieder rauskommst.
+
 
 Es gibt Momente, da habe ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) das Gefühl immer in zweiter Reihe zu stehen. Die oberste Priorität meines Partners werden immer seine Kinder sein.
 
@@ -49,6 +52,8 @@ Also fang an, dir selbst diese Wertschätzung zu geben, die du verdienst, und be
 ## Du bist wichtig!
 
 Indem du dir selbst Anerkennung und Wertschätzung gibst, stärkst du dein Selbstwertgefühl und deine innere Stärke als Stiefmutter. Du wirst feststellen, dass du in der Lage bist, eine erfüllende Beziehung zur Patchworkfamilie aufzubauen, ohne dich selbst dabei zu vernachlässigen. Und dass das Gefühl, in zweiter Reihe zu stehen, in den Hintergrund rückt.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

@@ -3,13 +3,16 @@ title: "[Stiefmutter](/blog/stiefmutter/) und Bonusmama und Angst: Warum Unsiche
 description: "Viele [Stiefmutter](/blog/stiefmutter/) und Bonusmamas erleben die Angst, nicht dazuzugehören. Erfahre, woher sie kommt und wie du ihr begegnen kannst."
 category: "rolle-identitaet"
 date: 2025-05-30
-updated: 2025-04-11
+updated: 2026-03-07
 metaTitle: "Angst als [Stiefmutter](/blog/stiefmutter/) und Bonusmama: Warum Unsicherheit so normal ist"
 metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder alles falsch zu machen — warum sie als [Stiefmutter](/blog/stiefmutter/) und Bonusmama so häufig ist."
 heroImage: "/images/blog/bonusmama-angst-1.jpg"
 image: "/images/blog/bonusmama-angst-1.jpg"
 imageAlt: "Nachdenkliche Frau sitzt allein auf einer Holzbank im herbstlichen Wald"
 ---
+
+**Angst und Unsicherheit gehören zu den häufigsten Gefühlen von Bonusmamas — und trotzdem spricht fast niemand darüber.** Die Angst, nicht dazuzugehören, abgelehnt zu werden oder es einfach nicht zu schaffen, begleitet viele Stiefmütter still und hartnäckig. Hier erfährst du, warum das normal ist und was hilft.
+
 
 ## „Ich bin hier – aber ich gehöre nicht ganz dazu"
 
@@ -120,6 +123,8 @@ Vielmehr zeigt sie dir, wie sehr du dich bemühst, dazuzugehören. Wie stark dei
 Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht perfekt verhalten, um deinen Platz zu verdienen. Und du musst dich nicht selbst verlieren, um „funktionierende Bonusmama" zu sein.
 
 **Du darfst weich und klar zugleich sein.** Du darfst für dich sorgen, ohne egoistisch zu sein. Und du darfst dir Unterstützung holen – nicht, weil du schwach bist, sondern weil du mutig genug bist, es nicht mehr allein machen zu wollen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

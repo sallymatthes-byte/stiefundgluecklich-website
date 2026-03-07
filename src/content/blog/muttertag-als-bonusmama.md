@@ -3,13 +3,16 @@ title: "Den Muttertag als Bonusmama erleben"
 description: "Der Muttertag kann eine Zerreißprobe sein - für die Kinder, aber auch für die (Bonus-)Mama. Erfahre jetzt, wie du Enttäuschungen vermeidest."
 category: "kinder-bindung"
 date: 2024-05-03
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Muttertag als Bonusmama: Zwischen Feiern und Schmerz"
 metaDescription: "Muttertag als Bonusmama ist kompliziert. Für dich und dein Gefühl. So gestaltest du den Tag, der sich richtig für dich anfühlt."
 heroImage: "/images/blog/muttertag-als-bonusmama-1.jpg"
 image: "/images/blog/muttertag-als-bonusmama-1.jpg"
 imageAlt: "Den Muttertag als Bonusmama erleben"
 ---
+
+**Der Muttertag ist für viele Bonusmamas einer der emotional schwierigsten Tage im Jahr.** Du kümmerst dich um Kinder, die nicht „deine“ sind — und wirst trotzdem selten als Mutterfigur anerkannt. Hier erfährst du, wie du den Muttertag für dich neu definierst.
+
 
 Nächste Woche ist Muttertag.
 Und vielleicht hast du ja selbst eigene Kinder und freust dich auf eine kleine Überraschung von ihnen, mit denen sie ihre Wertschätzung ausdrücken. Doch wie verhält sich dieser Tag mit den Bonuskindern? Wie kannst du mit der Zerrissenheit der Bonuskinder umgehen, die an diesem Tag vielleicht auch gerade bei euch sind? Und wie kannst du Enttäuschungen vermeiden?
@@ -66,6 +69,8 @@ Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonis
 - **Schaffe Rituale, die euch als Familie verbinden und stärken.** Ein gemeinsames Frühstück, eine Fotosession oder eine kleine Überraschung für jedes Familienmitglied – so zeigst du, dass du für alle da bist und sie wertschätzt.
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 Um Harmonie am Muttertag zu schaffen, ist es wichtig, offen zu kommunizieren, gemeinsame Aktivitäten zu planen und Rituale zu etablieren, die die Familie verbinden. Als Bonusmama kannst du dazu beitragen, indem du deine Wünsche und Erwartungen klar äußerst, dir aber auch Momente für dich selbst nimmst und dich auf die schönen Momente fokussierst. Mit einer offenen und entspannten Haltung kannst du den Muttertag zu einem unvergesslichen Erlebnis für deine Patchworkfamilie machen.

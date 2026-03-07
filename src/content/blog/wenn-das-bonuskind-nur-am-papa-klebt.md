@@ -3,12 +3,16 @@ title: "Wenn das Bonuskind nur am Papa klebt"
 description: "Bonuskind klebt nur am Papa? Als Bonusmama lernte ich, dass dies normal ist und ich fand einen Weg damit umzugehen. Klick jetzt!"
 category: "kinder-bindung"
 date: 2024-11-21
+updated: 2026-03-07
 metaTitle: "Bonuskind klebt nur am Papa? Was dahintersteckt (+ was"
 metaDescription: "Dein Bonuskind will nur den Papa und ignoriert dich? Warum das passiert und wie du trotzdem eine Verbindung aufbaust."
 heroImage: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 image: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 imageAlt: "Wenn das Bonuskind nur am Papa klebt"
 ---
+
+**Wenn das Bonuskind nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit beim Kind. Hier erfährst du, was wirklich dahintersteckt.
+
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
 Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist? **Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.** Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
@@ -66,6 +70,8 @@ Durch die bewusste Entscheidung, auf meine Bonuskinder zuzugehen und an unserer 
 Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen die Kinder bevorzugt zum Papa gehen. Doch anstatt mich dadurch verletzt zu fühlen, kann ich dies nun mit Verständnis und Gelassenheit annehmen. Ich weiß, dass es nicht bedeutet, dass sie mich weniger lieben oder wertschätzen. **Unsere Patchworkfamilie ist zu einem Ort geworden, an dem Liebe, Vertrauen und Zusammenhalt an erster Stelle stehen.** Wir haben gelernt, einander zu akzeptieren, zu unterstützen und füreinander da zu sein – in guten wie in schlechten Zeiten. Und auch wenn unsere Familie vielleicht nicht dem traditionellen Bild entspricht, so ist sie doch genau das, was wir uns immer gewünscht haben: ein Zuhause voller Wärme und Geborgenheit.
 
 Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen – als Familie.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

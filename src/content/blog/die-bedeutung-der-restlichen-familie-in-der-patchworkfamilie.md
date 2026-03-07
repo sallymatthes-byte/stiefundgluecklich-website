@@ -3,13 +3,16 @@ title: "Die Bedeutung der restlichen Familie in der Patchworkfamilie"
 description: "Lies hier, wie du die restliche Familie deiner Patchworkfamilie einbinden kannst und die Beziehung untereinander stärkst."
 category: "kinder-bindung"
 date: 2024-03-01
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Großeltern & Co: Familie in Patchworkfamilien"
 metaDescription: "Wie Großeltern, Onkel und Tanten die Patchworkfamilie beeinflussen — und wie du als Bonusmama damit umgehst."
 heroImage: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Großeltern und Enkel beim gemeinsamen Spielen in einer Patchworkfamilie"
 ---
+
+**In einer Patchworkfamilie geht es nicht nur um dich, deinen Partner und die Kinder — auch Großeltern, Tanten und Freunde spielen eine wichtige Rolle.** Die erweiterte Familie kann zur größten Stütze werden oder zur zusätzlichen Belastung. Hier erfährst du, wie du mit den verschiedenen Familienmitgliedern umgehst.
+
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
 So sagen meine Bonuskinder, dass sie nun 8 Großeltern haben, anstatt der vorherigen 4. Sie haben mehr Personen in ihrem Leben dazugewonnen, als „nur" die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
@@ -62,6 +65,8 @@ Wenn du dich fragst, wie du mit [Loyalitätskonflikten deiner Bonuskinder](/blog
 Indem ihr solche Aktivitäten plant und umsetzt, könnt ihr als restliche Familie enger zusammenwachsen und euch besser kennenlernen. So könnt ihr gemeinsam schöne Erinnerungen schaffen und eine harmonische Beziehung aufbauen.
 
 > „Jeder neue Anfang kommt aus eines anderen Anfangs Ende. Und der Weg dorthin ist das, was uns zusammenwachsen lässt." – Anke Maggauer-Kirsche
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

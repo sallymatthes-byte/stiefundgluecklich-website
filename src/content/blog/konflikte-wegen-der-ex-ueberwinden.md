@@ -3,13 +3,16 @@ title: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als 
 description: "Die Ex stört eure Beziehung? Erfahre, wie du dich emotional abgrenzt und deine Partnerschaft als Bonusmama schützt."
 category: "ex-und-system"
 date: 2024-12-06
-updated: 2025-04-15
+updated: 2026-03-07
 metaTitle: "Ständig Streit wegen der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ex-Frau macht ständig Probleme? Wie du als Bonusmama Konflikte wegen der Ex-Partnerin überwindest und Frieden findest."
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"
 ---
+
+**Ständiger Streit mit dem Partner wegen seiner Ex gehört zu den häufigsten Beziehungskillern in Patchworkfamilien.** Ob Umgangsregelungen, Unterhalt oder Grenzüberschreitungen: Die Ex-Partnerin kann eure Beziehung massiv belasten. Hier erfährst du, wie du dich schützt.
+
 
 Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um die Erziehung der Kinder geht, um Absprachen oder Grenzen — die Verflossene ist immer präsent und sorgt für Ärger. Du fühlst dich zurückgesetzt, nicht wertgeschätzt und [ausgeschlossen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/). Dabei willst du doch eigentlich nur eines: gemeinsam mit deinem Partner eine harmonische Patchworkfamilie sein.
 
@@ -84,6 +87,8 @@ Yvonnes Weg war kein leichter — doch er hat sich gelohnt. Durch die intensive 
 Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich nicht mehr fremdbestimmt, sondern als aktive Gestalterin ihrer Beziehungen.** Statt in Vorwürfen zu verharren, geht sie konstruktiv mit Problemen um. Sie reflektiert ihr eigenes Verhalten, äußert ihre Bedürfnisse klar und respektvoll. Sie hat gelernt, [loszulassen](/blog/loslassen-lernen/) und erkannt, dass sie für ihr Glück selbst verantwortlich ist.
 
 Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Situationen, die herausfordernd sind. Doch Yvonne lässt sich davon nicht mehr aus der Bahn werfen. Durch die Arbeit an sich selbst hat sie innere Stärke und Gelassenheit gewonnen. **So ist aus der hilflosen Yvonne eine selbstbewusste Frau geworden, die für sich und ihre Beziehungen einsteht** — eine Frau, die Probleme als Chancen begreift und aktiv an Lösungen arbeitet.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

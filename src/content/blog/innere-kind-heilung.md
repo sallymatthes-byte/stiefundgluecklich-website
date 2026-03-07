@@ -3,13 +3,16 @@ title: "Was uns Bonuskinder über uns selbst lehren"
 description: "Wenn unsere Bonuskinder uns triggern, können wir viel über unsere inneren Verletzungen lernen. Lies jetzt, was genau damit gemeint ist!"
 category: "rolle-identitaet"
 date: 2024-05-17
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Inneres Kind heilen: Was Bonuskinder uns lehren"
 metaDescription: "Bonuskinder triggern oft tiefe Wunden aus der Kindheit. Wie du dein inneres Kind heilst und dadurch eine bessere Bonusmama wirst."
 heroImage: "/images/blog/innere-kind-heilung-1.jpg"
 image: "/images/blog/innere-kind-heilung-1.jpg"
 imageAlt: "Frau sitzt nachdenklich auf einer Bank und reflektiert über innere Verletzungen aus der Kindheit"
 ---
+
+**Bonuskinder können in dir Gefühle auslösen, die wenig mit dem Kind und viel mit deiner eigenen Kindheit zu tun haben.** Wenn du als Bonusmama unverhältnismäßig stark reagierst, ist das oft ein Zeichen, dass dein inneres Kind getriggert wird. Hier erfährst du, was das bedeutet und wie Heilung beginnt.
+
 
 Neulich wollten wir mit meinen Bonuskindern spazieren gehen. Und da kam dieses vorpubertäre Verhalten der großen durch: Sie stapfte wütend vornweg, hatte überhaupt keine Lust und eigentlich war sie dafür viel zu cool. Und ich habe in dem Moment nicht sie gesehen, sondern mich als 14-jährige. Ich spürte unglaublich viel Wut und Scham. Mich hatte damals niemals begleitet und so kämpfte ich mich allein durch diesen Gefühlsdschungel.
 Dies ist einer der Momente gewesen, in denen ich meine innere Verletzung heilen konnte. Doch lass uns mal von vorn beginnen. Was meine ich, wenn ich von inneren Verletzungen spreche?
@@ -61,6 +64,8 @@ Wenn wir lernen, mit Achtsamkeit und Mitgefühl auf unsere Triggerpunkte zu reag
 Die Auseinandersetzung mit unseren Triggerpunkten eröffnet uns zudem die Möglichkeit, *alte Wunden zu heilen* und dysfunktionale Beziehungsmuster aufzulösen. Indem wir uns unseren eigenen Verletzungen stellen und sie mit Liebe und Verständnis transformieren, können wir **neue, gesündere Arten des Miteinanders** etablieren – sowohl mit unseren Bonuskindern als auch mit unserem Partner und anderen Menschen in unserem Leben.
 
 Betrachte die Herausforderungen mit deinen Bonuskindern als eine Einladung zu *innerem Wachstum* und Entfaltung. Vertraue darauf, dass jede schwierige Situation dich letztendlich stärker, weiser und liebevoller macht. Erlaube dir, an den Triggerpunkten zu wachsen und zu reifen – und wisse, dass du durch diesen Prozess nicht nur dir selbst, sondern auch deinen Bonuskindern ein wertvolles Geschenk machst.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

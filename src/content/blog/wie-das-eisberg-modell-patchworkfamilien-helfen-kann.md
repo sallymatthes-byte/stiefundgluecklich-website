@@ -3,13 +3,16 @@ title: "Wie das Eisberg-Modell Patchworkfamilien helfen kann"
 description: "Manchmal kippt die Stimmung einfach und du weißt nicht woran. Das Eisberg-Modell kann dir dabei helfen, dies zu entschlüsseln!"
 category: "kinder-bindung"
 date: 2024-06-07
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Das Eisberg-Modell in der Patchworkfamilie"
 metaDescription: "Warum Konflikte in Patchworkfamilien tiefer liegen als du denkst. Das Eisberg-Modell zeigt dir, was wirklich los ist."
 heroImage: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 image: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 imageAlt: "Wie das Eisberg-Modell Patchworkfamilien helfen kann"
 ---
+
+**Das Eisberg-Modell zeigt, dass in Patchworkfamilien das meiste unter der Oberfläche passiert — und dass die sichtbaren Konflikte nur die Spitze sind.** Hinter einem Streit ums Aufräumen stecken oft Verlustangst, Kontrollbedürfnis oder das Gefühl, nicht dazuzugehören. Hier erfährst du, wie du unter die Oberfläche schaust.
+
 
 Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das oft verwendet wird, um zu veranschaulichen, dass viele unserer Verhaltensweisen, Reaktionen und Entscheidungen von unbewussten Gedanken, Gefühlen und Motivationen beeinflusst werden, die unter der Oberfläche liegen. Und wir schauen uns heute mal an, wie das Eisberg-Modell einer Patchworkfamilie helfen kann.
 
@@ -66,6 +69,8 @@ Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es 
 - **Lass Verständnis wichtiger sein als Lösungen:** Oft wollen wir schnell Ratschläge geben oder Probleme aus dem Weg räumen. Aber manchmal braucht es erstmal nur ein „Ich sehe dich und ich verstehe, was du fühlst". Vertrau darauf, dass sich Lösungen leichter finden lassen, wenn sich alle tiefgreifend verstanden fühlen.
 
 Klar, niemand von uns wird über Nacht zum Eisberg-Experten. Wir alle haben unsere blinden Flecken und verfallen manchmal in alte Muster. Aber mit jeder Begegnung, in der wir unter die Oberfläche schauen und uns mit Verständnis begegnen, werden wir als Familie stärker. Also sei geduldig mit dir und deinen Lieben – und vertrau darauf, dass jeder Eisberg-Moment ein Geschenk ist, das euch einander näherbringt.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

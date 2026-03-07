@@ -3,12 +3,16 @@ title: "Mini-Wife in Patchworkfamilien: Was Bonusmamas tun können"
 description: "Wenn es eine Mini-Wife in Patchworkfamilien gibt, fühlst du dich als Bonusmama fehl am Platz. Hier erfährst du, was du tun kannst."
 category: "kinder-bindung"
 date: 2025-05-16
+updated: 2026-03-07
 metaTitle: "Mini-Wife-Syndrom: Wenn seine Tochter die Partnerin spielt"
 metaDescription: "Seine Tochter benimmt sich wie seine Partnerin? Was hinter dem Mini-Wife-Syndrom steckt, warum es passiert und was du tun kannst."
 heroImage: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 imageAlt: "Mini-Wife in Patchworkfamilien"
 ---
+
+**Mini-Wife beschreibt ein Verhaltensmuster, bei dem ein Kind — meist die Tochter — die Rolle der Partnerin ihres Vaters einnimmt.** Das Kind bestimmt, wo Papa sitzt, wer neben ihm schläft und wie der Familienalltag läuft. Für Bonusmamas ist das extrem belastend. Hier erfährst du, was du tun kannst.
+
 
 ### Plötzlich sitzt da jemand auf "deinem" Platz. Und es fühlt sich nicht wie Zufall an.
 
@@ -129,6 +133,8 @@ Und genau dafür bin ich da.
 Du denkst vielleicht: "Ich will kein Drama machen." Oder: "Ich will dem Kind nichts wegnehmen." Aber was, wenn es nicht um Wegnehmen geht - sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht - sondern für das ganze System gut ist?
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Was ist das Mini-Wife-Syndrom?

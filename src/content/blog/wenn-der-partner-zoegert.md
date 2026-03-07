@@ -3,13 +3,16 @@ title: "Zusammenziehen, Heiraten, Kinder: Wenn der Partner zögert"
 description: "Lies jetzt, wie du damit umgehen kannst, wenn dein Partner den nächsten Schritt noch nicht wagen möchte."
 category: "partnerschaft"
 date: 2024-05-24
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Wenn der Partner zögert: Zusammenziehen, Heiraten, Kinder"
 metaDescription: "Dein Partner will nicht zusammenziehen, heiraten oder ein gemeinsames Kind? Was dahintersteckt und wie du damit umgehst."
 heroImage: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 imageAlt: "Paar sitzt nachdenklich auf dem Sofa und spricht über die gemeinsame Zukunft"
 ---
+
+**Wenn dein Partner beim nächsten Schritt zögert — ob zusammenziehen, heiraten oder ein gemeinsames Kind — kann das in einer Patchworkfamilie besonders schmerzhaft sein.** Denn sein Zögern hat oft weniger mit dir zu tun als mit seinen Erfahrungen aus der gescheiterten Beziehung davor.
+
 
 Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. „Ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)", „Ich will nicht noch einmal heiraten" oder „Ich will keine Kinder mehr" sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?
 
@@ -36,6 +39,8 @@ Höre deinem Partner aufmerksam zu und zeige *Verständnis für seine Perspektiv
 Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzeptiere, dass Veränderungen Zeit brauchen und dein Partner möglicherweise nicht im selben Tempo voranschreiten möchte wie du. Macht euch bewusst: auch kleine Schritte in die richtige Richtung stärken eure Beziehung und bringen euch einander näher.
 
 ![Frau blickt nachdenklich aus dem Fenster und denkt über ihre Beziehung nach](/images/blog/wenn-der-partner-zoegert-3.jpg)
+
+*Stand: März 2026*
 
 ## Wenn das Zögern zur Dauerbremse wird
 

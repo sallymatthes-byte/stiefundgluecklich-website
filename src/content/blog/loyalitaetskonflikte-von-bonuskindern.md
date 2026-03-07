@@ -3,12 +3,16 @@ title: "Die unsichtbare Last: Verluste und Loyalitätskonflikte von Bonuskindern
 description: "Kinder in Patchworkfamilien kämpfen oft mit Verlusten und Loyalitätskonflikten. Erfahre, wie du sie dabei unterstützen kannst."
 category: "kinder-bindung"
 date: 2024-08-23
+updated: 2026-03-07
 metaTitle: "Loyalitätskonflikte bei Bonuskindern: Zwischen den Stühlen"
 metaDescription: "Dein Bonuskind steckt zwischen Mama und Papa? Was hinter Loyalitätskonflikten in Patchworkfamilien steckt und wie du helfen kannst."
 heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Kind sitzt nachdenklich zwischen zwei Elternteilen — Loyalitätskonflikte in der Patchworkfamilie"
 ---
+
+**Loyalitätskonflikte sind die unsichtbare Last, die fast jedes Bonuskind trägt — und die du als Bonusmama direkt zu spüren bekommst.** Wenn ein Kind das Gefühl hat, sich zwischen Mama und der neuen Partnerin des Papas entscheiden zu müssen, zeigt sich das oft als Ablehnung, Rückzug oder Aggression.
+
 
 Neulich erzählte mir eine Klientin, dass sie gehört hatte, wie ihr Bonuskind am Telefon zur Mutter sagte "Ja, mir geht es auch nicht gut. Ich vermisse dich auch." und das, obwohl das Kind den ganzen Tag unbeschwert gespielt hatte.
 Später erzählte das Kind, dass es das gesagt hatte, weil die Mutter dem Kind gesagt hatte, dass sie es schrecklich vermisst — das Kind wollte somit die Bindung zur Mutter aufrechterhalten — ein klassischer Loyalitätskonflikt.
@@ -79,6 +83,8 @@ Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Lo
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird — und begleitet es dabei ohne Druck und Erwartungen.
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Was ist ein Loyalitätskonflikt bei Bonuskindern?

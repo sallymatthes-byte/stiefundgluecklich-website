@@ -3,13 +3,16 @@ title: "Von der Stiefkind-Eifersucht zur Familienharmonie: Mein Weg zu mehr Vers
 description: "Die Eifersucht auf das Stiefkind belastet dich? Entdecke, wie du diese Gefühle überwindest und eine harmonische Patchworkfamilie aufbaust."
 category: "kinder-bindung"
 date: 2024-11-21
-updated: 2025-02-06
+updated: 2026-03-07
 metaTitle: "Eifersucht auf Stiefkind: Warum es normal ist + 3 Wege"
 metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gefühl häufiger ist als du denkst — und wie du davon loskommst."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster mit Kaffeetasse — Eifersucht auf das Stiefkind überwinden"
 ---
+
+**Eifersucht auf das Stiefkind ist ein Tabu-Thema — dabei kennt fast jede Bonusmama Momente, in denen sie sich fragt, ob sie an zweiter Stelle steht.** Wenn dein Partner sein Kind in den Mittelpunkt stellt und du dich dabei verloren fühlst, ist das kein Versagen, sondern ein Signal. Hier zeige ich dir meinen Weg zur Familienharmonie.
+
 
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
@@ -78,6 +81,8 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 **Du bist nicht allein mit diesen Gedanken.** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
 
 <!-- FAQ_START
+*Stand: März 2026*
+
 ## Häufige Fragen
 
 ### Ist es normal, eifersüchtig auf das Stiefkind zu sein?

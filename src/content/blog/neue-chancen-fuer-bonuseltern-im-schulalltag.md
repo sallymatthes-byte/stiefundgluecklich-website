@@ -3,12 +3,16 @@ title: "Neue Chancen für Bonuseltern im Schulalltag: So gestaltest du deine Rol
 description: "Unsicher als Bonuseltern im Schulalltag? Entdecke deine Strategie für mehr Akzeptanz – ohne Konflikte mit der leiblichen Mutter."
 category: "rolle-identitaet"
 date: 2025-03-21
+updated: 2026-03-07
 metaTitle: "Schulalltag als Bonusmama: So findest du deine Rolle"
 metaDescription: "Elternabend, Hausaufgaben, Schulfeste — wo ist dein Platz als Bonusmama? Neue Chancen für mehr Teilhabe."
 heroImage: "/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-1.jpg"
 image: "/images/blog/neue-chancen-fuer-bonuseltern-im-schulalltag-1.jpg"
 imageAlt: "Neue Chancen für Bonuseltern im Schulalltag"
 ---
+
+**Der Schulalltag bietet Bonuseltern die Chance, sichtbar zu werden — als engagierter Teil der Familie, nicht nur als „die Neue“.** Elternabende, Schulaufführungen, Hausaufgaben: Hier erfährst du, wie du deine Rolle im Schulalltag aktiv und selbstbewusst gestaltest.
+
 
 „Und sie sind… die Mama?" Als die Lehrerin mich das fragte, wusste ich nicht, was ich antworten sollte. Oder dieser Moment, als ich so gerne zum Elternabend gehen wollte, aber nicht eingeladen war. Ich wollte helfen, mich einbringen und einfach dazugehören – aber ich wusste nicht, was meine Rolle als Bonuseltern im Schulalltag überhaupt sein durfte.
 
@@ -141,6 +145,8 @@ Dieser Ansatz zeigt Respekt und gibt der Mutter das Gefühl von Kontrolle, ohne 
 Diese diplomatischen Formulierungen können Brücken bauen, wo sonst Mauern entstehen würden.
 
 Mit diesen drei Schritten kannst du als Bonuseltern im Schulalltag deinen Platz finden – respektvoll, aber selbstbewusst.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

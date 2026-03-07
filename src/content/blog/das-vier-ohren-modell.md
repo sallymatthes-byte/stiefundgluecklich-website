@@ -3,12 +3,16 @@ title: "Das 4-Ohren-Modell: Wie du Missverständnisse in deiner Beziehung vermei
 description: "Lerne mit dem 4-Ohren-Modell Missverständnisse zu vermeiden und die Kommunikation in der Patchworkfamilie zu verbessern."
 category: "partnerschaft"
 date: 2024-11-21
+updated: 2026-03-07
 metaTitle: "Das 4-Ohren-Modell in der Patchworkfamilie"
 metaDescription: "Missverständnisse mit Partner, Ex oder Bonuskindern? Das 4-Ohren-Modell zeigt dir, warum — und wie du besser kommunizierst."
 heroImage: "/images/blog/das-vier-ohren-modell-1.jpg"
 image: "/images/blog/das-vier-ohren-modell-1.jpg"
 imageAlt: "Das 4-Ohren-Modell"
 ---
+
+**Das Vier-Ohren-Modell von Friedemann Schulz von Thun erklärt, warum ein einziger Satz in der Patchworkfamilie vier völlig verschiedene Reaktionen auslösen kann.** Jede Nachricht hat vier Ebenen: Sachinhalt, Beziehung, Selbstoffenbarung und Appell. Gerade als Bonusmama, wo Kommunikation über mehrere Beziehungsebenen läuft, hilft dir dieses Modell, die häufigsten Missverständnisse zu vermeiden.
+
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon entfacht ein Streit. Plötzlich wirfst du deinem Partner vor, nicht genug im Haushalt zu helfen oder dich zu vernachlässigen. Dabei wolltest du eigentlich nur eine harmlose Bemerkung machen, doch irgendwie ist alles aus dem Ruder gelaufen.
 
@@ -81,6 +85,8 @@ Das 4-Ohren-Modell hat unsere Art zu kommunizieren von Grund auf verändert. Ind
 Unsere Gespräche sind **achtsamer und wertschätzender** geworden. Wir nehmen uns Zeit, auch über unsere Gefühle und Bedürfnisse zu sprechen, statt nur Sachinformationen auszutauschen. Dadurch fühlen wir uns emotional stärker verbunden und können besser füreinander da sein.
 
 Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedlicher Meinung sind. Doch dank des 4-Ohren-Modells gelingt es uns meist, schnell wieder zueinander zu finden und gemeinsam nach Lösungen zu suchen. Unsere Beziehung ist dadurch stabiler und erfüllender geworden – nicht nur für uns, sondern auch für meine Stiefkinder, die nun in einem harmonischeren Umfeld aufwachsen können.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

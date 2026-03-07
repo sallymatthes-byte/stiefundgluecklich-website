@@ -3,13 +3,16 @@ title: "Die Rolle von Expartnern in Patchworkfamilien"
 description: "Expartner bleiben Teil von Patchworkfamilien. Lerne Strategien zur Konfliktvermeidung und zum Aufbau positiver Beziehungen kennen."
 category: "ex-und-system"
 date: 2024-09-13
-updated: 2024-10-04
+updated: 2026-03-07
 metaTitle: "Die Rolle des Ex-Partners: So gehst du damit um"
 metaDescription: "Der Ex ist Teil des Pakets — ob du willst oder nicht. Wie du als Bonusmama einen gesunden Umgang findest."
 heroImage: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 image: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 imageAlt: "Bonusmama im Gespräch über die Rolle von Expartnern in der Patchworkfamilie"
 ---
+
+**Ex-Partner sind in Patchworkfamilien dauerhaft präsent — ob du willst oder nicht.** Die Beziehung deines Partners zu seiner Ex beeinflusst euren Alltag, eure Entscheidungen und dein Wohlbefinden als Bonusmama. Dieser Artikel zeigt dir, wie du mit dieser Realität einen gesunden Umgang findest.
+
 
 Wir alle kennen es: es gibt in Patchworkfamilien nicht nur uns und unseren Partner und die Kinder. Es gibt auch immer noch einen Elternteil (egal ob tot oder lebendig), der ein Teil dieser Konstellation ist und eine Rolle spielt. Ob uns das nun gefällt oder nicht.
 
@@ -88,6 +91,8 @@ Beim Parallel Parenting geht es darum:
 - Es erlaubt dir, dich auf das zu konzentrieren, was du selbst beisteuern kannst – und das ist eine Menge
 
 Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein Leben lang dankbar sein werden.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

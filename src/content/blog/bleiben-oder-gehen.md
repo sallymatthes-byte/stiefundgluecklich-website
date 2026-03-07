@@ -3,13 +3,16 @@ title: "Bleiben oder gehen? Entscheidung einer Bonusmama in der [Patchworkfamili
 description: "Kannst du deine Beziehung retten oder ist die Patchworkfamilie zum Scheitern verurteilt? Erfahre mehr dazu!"
 category: "rolle-identitaet"
 date: 2024-01-19
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Patchworkfamilie: Bleiben oder gehen?"
 metaDescription: "Du fragst dich, ob du in der Patchworkfamilie bleiben oder gehen sollst? Eine ehrliche Reflexion für den schwersten Moment."
 heroImage: "/images/blog/bleiben-oder-gehen-1.jpg"
 image: "/images/blog/bleiben-oder-gehen-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster, die über ihre Zukunft in der Patchworkfamilie nachdenkt"
 ---
+
+**Die Frage „Bleiben oder gehen?“ stellt sich fast jede Bonusmama irgendwann — und es ist eine der schwersten Entscheidungen im Patchworkleben.** Es geht nicht um Liebe allein, sondern um die Frage, ob du in dieser Konstellation noch du selbst sein kannst. Hier erfährst du, wie du zu einer ehrlichen Antwort findest.
+
 
 Neulich erzählte mir eine [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) davon, dass sie sich nicht mehr sicher ist, ob sie gehen oder bleiben soll. Sie hatte sich das Leben in einer Patchworkfamilie anders vorgestellt und fragte sich mittlerweile regelmäßig, ob es das alles noch wert ist.
 
@@ -55,6 +58,8 @@ Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner 
 Ich habe an diesem Punkt mich aktiv dagegen entschieden und habe mich auf den Weg gemacht, diese Gedanken zu ergründen und für die Beziehung zu kämpfen. Denn für mich war klar, dass dieser Mann es wert ist.
 Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): Wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.
 Wo stehst du gerade? Schreibe mir gern eine private Nachricht und erzähle mir davon!
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

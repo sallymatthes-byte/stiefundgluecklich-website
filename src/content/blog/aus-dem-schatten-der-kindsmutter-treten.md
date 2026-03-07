@@ -3,12 +3,16 @@ title: "Aus dem Schatten der Kindsmutter treten: So meisterst du als Bonusmama d
 description: "Als Bonusmama mit der Kindsmutter verglichen zu werden, kann schmerzhaft sein. Lies jetzt, wie du deinen Platz findest."
 category: "ex-und-system"
 date: 2024-07-19
+updated: 2026-03-07
 metaTitle: "Raus aus dem Schatten der Kindsmutter"
 metaDescription: "Immer im Vergleich mit der leiblichen Mutter? So hörst du auf, dich zu messen - und findest deine eigene Stärke als Bonusmama."
 heroImage: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
 image: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
 imageAlt: "Bonusmama steht selbstbewusst für sich ein und tritt aus dem Schatten der Kindsmutter"
 ---
+
+**Der ständige Vergleich mit der leiblichen Mutter ist eine der häufigsten Belastungen für Bonusmamas.** „Bei Mama ist das aber anders“ — dieser Satz kann dich als Stiefmutter tief treffen, weil er an deinem Platz in der Familie rüttelt. Hier erfährst du, wie du aus dem Schatten der Kindsmutter trittst und deinen eigenen Wert erkennst.
+
 
 Vielleicht kennst du es ja: den Satz „Bei Andrea hätte es das aber nicht gegeben!" – gern wahlweise aus dem Mund der Schwiegereltern, der Bonuskinder oder sogar des eigenen Partners. Und da ist es: das Gefühl, nicht genug zu sein, mit der Kindsmutter in Konkurrenz zu treten oder die Traurigkeit darüber, dass man selbst immer noch nicht vollständig akzeptiert wurde. Solche Vergleiche können äußerst schmerzhaft sein. Wie du als Bonusmama aus dem Schatten der Kindsmutter trittst, erfährst du hier. Doch lass uns mal noch einen Schritt zurücktreten – wieso entstehen solche Vergleiche eigentlich?
 
@@ -80,6 +84,8 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 - Feiert eure Erfolge und freut euch aneinander
 
 Als Patchwork-Familie zu wachsen bedeutet, füreinander einzustehen, auch wenn es mal Herausforderungen gibt. Es bedeutet, die Einzigartigkeit jedes Einzelnen wertzuschätzen und zu erkennen, dass ihr zusammen ein starkes Team seid. Mit Liebe, Verständnis und Zusammenhalt könnt ihr alles schaffen und eine wundervolle Bonus-Familie sein.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

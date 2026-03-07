@@ -3,6 +3,7 @@ title: "Stiefmutter sein: Alles was du über die Rolle wissen musst"
 description: "Was bedeutet Stiefmutter sein wirklich? Definition, Rechte, Herausforderungen und wie du als Bonusmama deinen eigenen Weg findest — von einer erfahrenen Coach."
 category: "rolle-identitaet"
 date: 2026-03-07
+updated: 2026-03-07
 metaTitle: "Stiefmutter sein: Definition, Rolle & Rechte (2026)"
 metaDescription: "Was bedeutet Stiefmutter sein? Definition, Rechte, Herausforderungen & Tipps — von Coach Sally Matthes mit über 100 begleiteten Stiefmüttern."
 image: "/images/blog/stiefmutter-rolle.jpg"
@@ -143,6 +144,8 @@ Der Beziehungsaufbau zu den Kindern deines Partners ist ein Marathon, kein Sprin
 - [Veranstaltungen als Bonusmama meistern](/blog/so-meisterst-du-veranstaltungen/) — Elternabend, Geburtstag, Fest
 
 ---
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

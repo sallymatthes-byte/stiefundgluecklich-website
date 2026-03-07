@@ -3,13 +3,16 @@ title: "Konflikte unter Kindern in Patchworkfamilien: Strategien zur Konfliktlö
 description: "Wie kannst du den (Bonus-)Kindern dabei helfen, Konflikte oder Rivalitäten zu überwinden? Erfahre hier, wie euch ein Wochenplan dabei hilft!"
 category: "kinder-bindung"
 date: 2024-04-19
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Konflikte unter Kindern in der Patchworkfamilie"
 metaDescription: "Streit zwischen Geschwistern und Bonuskindern? Warum Konflikte in Patchworkfamilien anders sind - und was wirklich hilft."
 heroImage: "/images/blog/konflikte-unter-kindern-1.jpg"
 image: "/images/blog/konflikte-unter-kindern-1.jpg"
 imageAlt: "Konflikte unter Kindern in Patchworkfamilien"
 ---
+
+**Konflikte zwischen Kindern in Patchworkfamilien sind intensiver als in klassischen Familien — weil Eifersucht, Territorialverhalten und Loyalitätskonflikte mitspielen.** Als Bonusmama steckst du dabei oft zwischen den Fronten. Dieser Artikel zeigt dir bewährte Strategien zur Konfliktlösung.
+
 
 Konflikte unter Kindern in der Patchworkfamilie können wirklich nervenaufreibend sein.
 Was tun, wenn es zu Rivalitäten und Streitigkeiten kommt? Die Kinder sich untereinander nicht mögen und sie sich das Leben gegenseitig schwer machen? Und weshalb kommt es erst dazu?
@@ -67,6 +70,8 @@ So mag Emma mehr Zuwendung und Körperkontakt brauchen, während Ben eher mit Lo
 Mia bekommt vielleicht mehr Hilfe bei den Hausaufgaben, weil sie sich damit schwerer tut, während Ben mehr Freiheiten beim Spielen mit Freunden genießt. Solange sich alle gesehen und wertgeschätzt fühlen, ist es okay, wenn die Zuwendung mal unterschiedlich ausfällt.
 
 Schaffe Gelegenheiten, bei denen die Kinder erleben, dass sie füreinander da sind — sei es beim gemeinsamen Aufräumen des Spielzimmers oder beim Trösten, wenn einer traurig ist. So lernen sie, dass sie als Familie zusammengehören und dass **die Unterschiede zwischen ihnen keine Schwäche, sondern eine Stärke sind.** Die [Herausforderungen einer Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) sind gleichzeitig auch ihre größten Chancen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

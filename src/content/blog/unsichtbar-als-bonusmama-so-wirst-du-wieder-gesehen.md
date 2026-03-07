@@ -3,12 +3,16 @@ title: "Unsichtbar als [Bonusmama](/blog/stiefmutter/)? So wirst du wieder geseh
 description: "Fühlst du dich als Bonusmama unsichtbar, sobald die Kinder da sind? Erfahre, warum das kein Bonusmama-Problem ist!"
 category: "rolle-identitaet"
 date: 2025-04-04
+updated: 2026-03-07
 metaTitle: "Unsichtbar als Bonusmama? So wirst du endlich gesehen"
 metaDescription: "Du fühlst dich unsichtbar als Bonusmama? Warum das Gefühl real ist - und 5 Wege, wie du wieder gesehen wirst."
 heroImage: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 image: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 imageAlt: "Unsichtbar als Bonusmama? So wirst du wieder gesehen!"
 ---
+
+**Unsichtbar zu sein ist eines der schmerzhaftesten Gefühle als Bonusmama — du gibst alles, und trotzdem wirst du nicht wahrgenommen.** Nicht vom Partner, nicht von den Kindern, nicht von der Gesellschaft. Dieser Artikel zeigt dir, wie du wieder sichtbar wirst, ohne um Aufmerksamkeit betteln zu müssen.
+
 
 Kennst du das Gefühl, dass du auf einmal nur noch Zuschauerin bist? Eben noch warst du die geliebte Partnerin — begehrt, wichtig, voller Bedeutung für deinen Partner. Doch sobald die Kinder da sind, verändert sich alles. Plötzlich drehen sich die Gespräche nur noch um sie. Dein Partner ist im „Elternmodus", du sitzt daneben — und fragst dich: Bin ich hier eigentlich noch wichtig?
 
@@ -120,6 +124,8 @@ Wenn du das Gefühl hast, dein Partner versteht dich nicht oder blockt ab, dann 
 Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/blog/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr — nicht nur als „die Erwachsene, die eben auch da ist", sondern als seine wichtigste Verbündete.
 
 Stell dir vor, du wüsstest einfach: Dein Platz in der Familie ist sicher — unabhängig davon, ob die Kinder da sind oder nicht. Dieses Gefühl ist möglich. Und wenn du tiefer einsteigen willst, schau dir auch an, warum du dich manchmal fühlst, als würdest du [in der zweiten Reihe](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) stehen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

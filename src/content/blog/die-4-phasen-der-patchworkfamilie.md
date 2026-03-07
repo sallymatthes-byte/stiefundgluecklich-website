@@ -3,13 +3,16 @@ title: "Die 4 Phasen der Patchworkfamilie"
 description: "Es gibt 4 Phasen, die eine Patchworkfamilie durchläuft. Finde jetzt heraus, welche das sind und was du dabei beachten solltest!"
 category: "rolle-identitaet"
 date: 2024-02-23
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Die 4 Phasen der Patchworkfamilie: Wo stehst du?"
 metaDescription: "Jede [Patchworkfamilie](/blog/patchworkfamilie/) durchläuft 4 Phasen — von der Euphorie bis zur echten Verbundenheit. Finde heraus, wo ihr steht."
 heroImage: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-4-phasen-der-patchworkfamilie-1.jpg"
 imageAlt: "Patchworkfamilie in warmem Licht auf einer Waldlichtung, erdige Farben, fotografisch"
 ---
+
+**Jede Patchworkfamilie durchläuft vier Phasen des Zusammenwachsens — Forming, Storming, Norming und Performing — und jede Phase hat ihre eigenen Herausforderungen.** Das Modell stammt aus der Teamentwicklung nach Bruce Tuckman und lässt sich direkt auf Patchworkfamilien übertragen. Zu wissen, in welcher Phase du steckst, nimmt enormen Druck.
+
 
 In der Teamentwicklung ist das Modell von [Bruce Tuckman](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx#:~:text=These%20stages%20are%20commonly%20known,more%20collaborative%20or%20shared%20leadership.) weit verbreitet. Es hilft zu verstehen, wie Menschen aufeinander zugehen und welche Phasen sie durchlaufen, bis sie reibungslos miteinander zusammenarbeiten.
 Diese Phasen gibt es auch in der Patchworkfamilie. Ich bin der Meinung, dass du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) alle 4 Phasen durchlaufen wirst und in jeder Phase gibt es einiges zu beachten.
@@ -75,6 +78,8 @@ In der Phase des „Performings" können wir als Bonusmama auch dazu beitragen, 
 Es ist wichtig, in dieser Phase als Bonusmama auch Raum für individuelle Bedürfnisse und Interessen zu lassen. Jedes Familienmitglied sollte die Möglichkeit haben, seine eigenen Ziele zu verfolgen und seine Leidenschaften auszuleben.
 
 Die Phase des „Performings" ist ein Erfolg für die Patchworkfamilie und zeigt, dass die Bemühungen und Opfer, die in den vorherigen Phasen gemacht wurden, sich gelohnt haben.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

@@ -3,13 +3,16 @@ title: "Loslassen lernen: Wie Bonusmamas sich von Familienidealen verabschieden"
 description: "Als Bonusmama muss man eigene Vorstellungen von Familie hinterfragen. Ich zeige, wie du loslässt und inneren Frieden schaffst."
 category: "rolle-identitaet"
 date: 2024-07-26
-updated: 2024-07-29
+updated: 2026-03-07
 metaTitle: "Loslassen lernen als Bonusmama: Familienideale verabschieden"
 metaDescription: "Die perfekte Familie gibt es nicht — schon gar nicht als Bonusmama. Wie du das Ideal loslässt und deine eigene Version findest."
 heroImage: "/images/blog/loslassen-lernen-1.jpg"
 image: "/images/blog/loslassen-lernen-1.jpg"
 imageAlt: "Loslassen lernen"
 ---
+
+**Loslassen lernen bedeutet als Bonusmama, sich von dem Bild zu verabschieden, wie Familie „eigentlich sein sollte“.** Das Ideal der heilen Kernfamilie sitzt tief — und es kann dich in der Patchworkfamilie unglücklich machen, solange du daran festhältst.
+
 
 Als man mich als 3-Jährige fragte, was ich werden möchte, sagte ich: „Hausfrau und Braut!". Schon von klein auf wünschte ich mir eine Familie und zeitweise malte ich mir aus, wie es wäre vier eigene Kinder zu haben. Irgendwann wurde der Wunsch nach eigenen Kindern kleiner, der Wunsch nach einer intakten Familie aber blieb.
 Dies musste ich zu einem gewissen Stück in unserer Patchworkfamilie loslassen, ein schmerzhafter Prozess. Heute möchte ich dir davon erzählen und was ich daraus gelernt habe.
@@ -64,6 +67,8 @@ Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 - Vertraue auf deine innere Stimme und Intuition
 
 *Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* Sie erwachsen aus der liebevollen Annahme dessen, was ist – inklusive deiner selbst. Sie sind das Fundament, auf dem du deine Patchworkfamilie aufbauen und gestalten kannst. Und sie strahlen aus auf alle Beteiligten und schenken euch Verbundenheit, Freude und Liebe.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

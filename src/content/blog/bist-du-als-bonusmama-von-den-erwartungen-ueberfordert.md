@@ -3,13 +3,16 @@ title: "Bist du als Bonusmama von den Erwartungen überfordert?"
 description: "Viele Bonusmamas plagen sich mit ‚Ich sollte'-Gedanken: Ich sollte die Kinder lieben, mich zurücknehmen usw. Erfahre, wie du dich davon befreien kannst."
 category: "rolle-identitaet"
 date: 2024-09-27
-updated: 2024-09-27
+updated: 2026-03-07
 metaTitle: "Überfordert als Bonusmama? Wenn Erwartungen erdrücken"
 metaDescription: "Alle erwarten alles - und du funktionierst nur noch? Warum Bonusmamas besonders unter Erwartungsdruck stehen und was hilft."
 heroImage: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 image: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster, die unter dem Erwartungsdruck als Bonusmama leidet"
 ---
+
+**Bonusmamas stehen unter enormem Erwartungsdruck — von sich selbst, vom Partner, von den Kindern und von der Gesellschaft.** „Ich sollte das schaffen“, „Ich sollte sie lieben können“, „Ich sollte geduldiger sein“ — wenn diese Gedanken deinen Alltag bestimmen, bist du nicht schwach. Du bist überlastet.
+
 
 Kennst du diese Gedanken von „Ich sollte"?
 
@@ -87,6 +90,8 @@ Der Weg zu einem Leben frei von „Ich sollte" ist ein Prozess. Er braucht Zeit,
 Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deinem Weg als Bonusmama bekommen möchtest, kann ein Coaching eine wertvolle Hilfe sein. Hier hast du den geschützten Raum, deine Situation zu reflektieren und ganz konkrete Lösungen für deinen Alltag zu entwickeln.
 
 Du bist einzigartig — und so ist auch dein Weg als Bonusmama. Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt. ***Von „Ich sollte" zu „Ich möchte".***
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

@@ -3,13 +3,16 @@ title: "Selbstbewusst als Bonusmama: So meisterst du Veranstaltungen"
 description: "Erhalte jetzt wertvolle Tipps, wie du mit Unsicherheiten umgehst und gemeinsam mit deinem Partner strahlst!"
 category: "partnerschaft"
 date: 2024-07-12
-updated: 2024-06-15
+updated: 2026-03-07
 metaTitle: "Veranstaltungen als Bonusmama: Selbstbewusst auftreten"
 metaDescription: "Schulfeste, Geburtstage, Familienfeiern — überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
 heroImage: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 image: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 imageAlt: "Bonusmama steht selbstbewusst bei einer Familienveranstaltung"
 ---
+
+**Veranstaltungen wie Elternabende, Schulfeste oder Kindergeburtstage sind für Bonusmamas oft emotional aufgeladen — weil dort die Frage „Wer gehört zur Familie?“ sichtbar wird.** Die Ex ist da, die Blicke anderer Eltern spürbar, deine Rolle unklar. Hier erfährst du, wie du solche Situationen selbstbewusst meisterst.
+
 
 Neulich erzählte mir eine Bonusmama, dass sie eine von den hoch begehrten Eintrittskarten für den Schulanfang ihres Bonuskindes erhalten hat. Sie freute sich wahnsinnig darüber, gleichzeitig fragte sie sich: „Wie werden wir dort auftreten? Ich neben der Ex? Oder ich vielleicht irgendwo allein?"
 Kita-Veranstaltungen, Schulveranstaltungen oder andere Aufführungen bringen genau diese Fragen mit sich.
@@ -72,6 +75,8 @@ Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausf�
 - Nach der Veranstaltung ist es wichtig, dass ihr eure **Erfahrungen und Gefühle** offen aussprecht. [Hört einander zu](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) , zeigt Verständnis und überlegt gemeinsam, was ihr beim nächsten Mal anders machen könnt. Eure Beziehung wird dadurch nur noch stärker werden.
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 

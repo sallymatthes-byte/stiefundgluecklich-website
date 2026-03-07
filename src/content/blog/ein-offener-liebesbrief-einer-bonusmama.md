@@ -3,13 +3,16 @@ title: "Ein offener Liebesbrief einer Bonusmama"
 description: "Mein offener Brief an meinen Partner, den Vater meiner Bonuskinder - in Liebe, Demütigkeit und Dankbarkeit."
 category: "partnerschaft"
 date: 2024-08-07
-updated: 2024-08-05
+updated: 2026-03-07
 metaTitle: "Ein Liebesbrief an alle Bonusmamas: Du bist genug"
 metaDescription: "An alle Bonusmamas, die gerade zweifeln: Dieser offene Brief ist für dich. Du bist genug — genau so wie du bist."
 heroImage: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 image: "/images/blog/ein-offener-liebesbrief-einer-bonusmama-1.jpg"
 imageAlt: "Bonusmama schreibt einen persönlichen Liebesbrief an ihren Partner"
 ---
+
+**Dieser offene Liebesbrief ist eine ehrliche Liebeserklärung an das Patchworkleben — mit all seinen Höhen, Tiefen und unerwarteten Momenten.** Als Bonusmama habe ich gelernt, dass Liebe in einer Patchworkfamilie nicht so aussieht wie im Bilderbuch — aber dafür umso echter ist.
+
 
 Wir feiern dieses Jahr unser 5-jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
 
@@ -49,6 +52,8 @@ Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe d
 
 In tiefer Liebe und Verbundenheit,
 Sally
+
+*Stand: März 2026*
 
 ## Zusammenfassung
 
