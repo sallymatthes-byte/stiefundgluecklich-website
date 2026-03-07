@@ -28,10 +28,38 @@ const personSchema = {
     { "@type": "EducationalOccupationalCredential", "credentialCategory": "certificate", "name": "Weiterbildung EFT (Emotionsfokussierte Therapie)" }
   ],
   "knowsAbout": ["Patchworkfamilie", "Stiefmutter", "Bonusmama", "Systemisches Coaching", "Erziehungswissenschaft", "Bonuskinder", "Stieffamilien"],
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Universität — M.A. Erziehungswissenschaft" },
+    { "@type": "CollegeOrUniversity", "name": "Hochschule — B.A. Angewandte Kindheitswissenschaften" }
+  ],
   "sameAs": [
     "https://www.instagram.com/stiefundgluecklich/",
     "https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm"
   ]
+};
+
+// Category-based about/mentions for AEO
+const categoryTopics: Record<string, { about: string; aboutDesc: string; mentions: string[] }> = {
+  'rolle-identitaet': {
+    about: 'Bonusmama',
+    aboutDesc: 'Eine Bonusmama (auch Stiefmutter) ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat.',
+    mentions: ['Stiefmutter', 'Patchworkfamilie', 'Identität']
+  },
+  'partnerschaft': {
+    about: 'Paarbeziehung in der Patchworkfamilie',
+    aboutDesc: 'Die Paarbeziehung in einer Patchworkfamilie steht vor besonderen Herausforderungen durch Kinder, Ex-Partner und unterschiedliche Familiengeschichten.',
+    mentions: ['Patchworkfamilie', 'Bonusmama', 'Kommunikation']
+  },
+  'ex-und-system': {
+    about: 'Ex-Partner-Dynamik in Patchworkfamilien',
+    aboutDesc: 'Die Beziehung zum Ex-Partner des eigenen Partners ist eine der größten Herausforderungen in Patchworkfamilien.',
+    mentions: ['Patchworkfamilie', 'Bonusmama', 'Loyalitätskonflikt']
+  },
+  'kinder-bindung': {
+    about: 'Beziehung zu Bonuskindern',
+    aboutDesc: 'Der Aufbau einer Beziehung zu den Kindern des Partners (Bonuskinder/Stiefkinder) erfordert Geduld, Respekt und klare Grenzen.',
+    mentions: ['Bonuskind', 'Stiefkind', 'Patchworkfamilie']
+  }
 };
 
 const orgSchema = {
@@ -61,7 +89,18 @@ if (type === 'article' && title) {
         "mainEntityOfPage": `${siteUrl}/blog/${slug}/`,
         "image": image ? `${siteUrl}${image}` : undefined,
         "inLanguage": "de-DE",
-        "isPartOf": { "@id": `${siteUrl}/#website` }
+        "isPartOf": { "@id": `${siteUrl}/#website` },
+        ...(category && categoryTopics[category] ? {
+          "about": {
+            "@type": "Thing",
+            "name": categoryTopics[category].about,
+            "description": categoryTopics[category].aboutDesc
+          },
+          "mentions": categoryTopics[category].mentions.map(m => ({
+            "@type": "Thing",
+            "name": m
+          }))
+        } : {})
       },
       personSchema,
       orgSchema,

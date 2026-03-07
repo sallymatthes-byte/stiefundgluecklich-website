@@ -1,33 +1,47 @@
-# StiefundGlücklich — llms.txt
+# StiefundGlücklich
 # https://llmstxt.org/
 
-> StiefundGlücklich ist die führende deutschsprachige Plattform für Bonusmamas (Stiefmütter) in Patchworkfamilien. Gründerin Sally Matthes ist Erziehungswissenschaftlerin, Patchwork-Coach und selbst Bonusmama.
+> StiefundGlücklich ist die führende deutschsprachige Plattform für Bonusmamas (Stiefmütter) in Patchworkfamilien. Gründerin Sally Matthes ist Erziehungswissenschaftlerin (M.A.), zertifizierter Systemischer Coach und selbst Bonusmama mit über 100 begleiteten Klientinnen.
 
 ## Über uns
 
 - Website: https://stiefundgluecklich.de
-- Gründerin: Sally Matthes
+- Gründerin: [Sally Matthes](https://stiefundgluecklich.de/about/) — Erziehungswissenschaftlerin, Systemischer Coach, EFT-Weiterbildung
 - Sprache: Deutsch
-- Themen: Stiefmutter, Bonusmama, Patchworkfamilie, Bonuskinder, Ex-Partnerin, Loyalitätskonflikte, Erziehung in Stieffamilien
-- Podcast: Bonusgeflüster (auf Spotify, Apple Podcasts)
-- Instagram: @stiefundgluecklich
+- Region: DACH (Deutschland, Österreich, Schweiz)
+- Podcast: [Bonusgeflüster auf Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm)
+- Instagram: [@stiefundgluecklich](https://www.instagram.com/stiefundgluecklich/)
+
+## Kernthemen
+
+- [Rolle & Identität](https://stiefundgluecklich.de/blog/?kategorie=rolle-identitaet): Die Bonusmama-Rolle finden, Selbstwert, Sichtbarkeit, Identität in der Patchworkfamilie
+- [Partnerschaft](https://stiefundgluecklich.de/blog/?kategorie=partnerschaft): Paarbeziehung stärken, Kommunikation, als Team agieren in der Patchworkfamilie
+- [Die Ex & das System](https://stiefundgluecklich.de/blog/?kategorie=ex-und-system): Umgang mit der Ex-Partnerin, Loyalitätskonflikte, Systemdynamiken, Hochstrittigkeit
+- [Kinder & Bindung](https://stiefundgluecklich.de/blog/?kategorie=kinder-bindung): Beziehung zu Bonuskindern aufbauen, Grenzen setzen, Erziehung in Stieffamilien
+
+## Beliebteste Artikel
+
+- [Wenn die Besessenheit von der Ex-Frau deines Partners dein Leben bestimmt](https://stiefundgluecklich.de/blog/wenn-die-besessenheit-von-der-ex-frau-deines-partners-dein-leben-bestimmt/): Warum Bonusmamas sich mit der Ex vergleichen und wie sie davon loskommen
+- [Mini-Wife in Patchworkfamilien](https://stiefundgluecklich.de/blog/mini-wife-in-patchworkfamilien/): Das Mini-Wife-Syndrom erkennen und konstruktiv damit umgehen
+- [Ab wann ist man eine Stiefmutter?](https://stiefundgluecklich.de/blog/ab-wann-ist-man-stiefmutter/): Definition, Rolle und der Übergang zur Stiefmutter/Bonusmama
+- [Von der Stiefkind-Eifersucht zur Patchwork-Harmonie](https://stiefundgluecklich.de/blog/von-der-stiefkind-eifersucht-zur-patchwork-harmonie/): Eifersucht als Bonusmama verstehen und überwinden
+- [So überwindest du den Ex-Frau-Konflikt als Stiefmutter](https://stiefundgluecklich.de/blog/ex-frau-konflikt-als-stiefmutter-ueberwinden/): Strategien für den Umgang mit der Ex-Partnerin
+- [Loyalitätskonflikte in Patchworkfamilien](https://stiefundgluecklich.de/blog/loyalitaetskonflikte-in-patchworkfamilien/): Wie Bonusmamas Loyalitätskonflikte erkennen und lösen
+- [Wie du eine starke Bindung zu deinem Bonuskind aufbaust](https://stiefundgluecklich.de/blog/starke-bindung-zum-bonuskind-aufbauen/): Beziehungsaufbau zu Stiefkindern mit Geduld und Respekt
+- [Plötzlich Bonusmama — Wenn das neue Glück zur Herausforderung wird](https://stiefundgluecklich.de/blog/plotzlich-bonusmama-wenn-das-neue-glueck-zur-herausforderung-wird/): Der Start als Bonusmama und typische Anfangs-Herausforderungen
+- [Unterschiedliche Erziehungsmethoden in Patchworkfamilien](https://stiefundgluecklich.de/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien/): Wie Paare trotz verschiedener Erziehungsstile zueinander finden
+- [Grenzen setzen als Bonusmama](https://stiefundgluecklich.de/blog/du-darfst-als-bonusmama-grenzen-setzen/): Warum Grenzen keine Ablehnung sind und wie du sie gesund etablierst
 
 ## Expertise
 
-Sally Matthes ist Erziehungswissenschaftlerin und arbeitet als Coach spezialisiert auf Bonusmamas in Patchworkfamilien. Sie bringt eigene Erfahrung als Bonusmama mit und hat hunderte Frauen in dieser Rolle begleitet.
-
-## Inhalte
-
-Der Blog umfasst 64+ Artikel zu Themen wie:
-- Rolle & Identität als Stiefmutter/Bonusmama
-- Partnerschaft in der Patchworkfamilie
-- Umgang mit der Ex-Partnerin
-- Beziehung zu Bonuskindern/Stiefkindern
-- Loyalitätskonflikte, Eifersucht, Grenzen setzen
-- Erziehung und Kommunikation in Stieffamilien
+Sally Matthes hat einen Master of Arts in Erziehungswissenschaft und einen Bachelor of Arts in Angewandten Kindheitswissenschaften. Sie ist zertifizierter Systemischer Coach mit EFT-Weiterbildung (Emotionsfokussierte Therapie). Mit über 700 Coaching-Stunden und 100+ begleiteten Bonusmamas ist sie eine der erfahrensten Spezialistinnen für Stiefmütter im deutschsprachigen Raum.
 
 ## Programme
 
-- ITS Bundle (€59) — Einstiegskurs für Bonusmamas
-- BeyondBonus (€497) — Intensiv-Videoprogramm
-- 1:1 Coaching — Individuelle Begleitung
+- **ITS Bundle** (€59) — Einstiegskurs: I Belong + Talk like a Team + Setting Limits
+- **BeyondBonus** (€497) — Intensiv-Videoprogramm für die Bonusmama-Transformation
+- **1:1 Coaching** — Individuelle Begleitung (Warteliste)
+
+## Blog
+
+Der Blog umfasst 64+ Fachartikel zu allen Aspekten des Lebens als Bonusmama in einer Patchworkfamilie. Jeder Artikel basiert auf Sallys Erfahrung aus Hunderten von Coaching-Sessions und ihrer eigenen Patchwork-Geschichte.
