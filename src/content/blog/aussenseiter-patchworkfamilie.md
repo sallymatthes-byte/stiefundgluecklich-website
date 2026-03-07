@@ -14,7 +14,9 @@ Neulich begegnete mir das Konzept von Dr. Patricia Papernow – eine renommierte
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Ausgeschlossen in der eigenen Familie“ an – auf [Spotify](https://open.spotify.com/episode/1GwIy1bNLQJ255exbwPzfA) oder überall, wo du Podcasts hörst.
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Ausgeschlossen in der eigenen Familie“ an — auf [Spotify](https://open.spotify.com/episode/1GwIy1bNLQJ255exbwPzfA) oder überall, wo du Podcasts hörst.
 
 ---
 

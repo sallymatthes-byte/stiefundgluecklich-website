@@ -20,7 +20,7 @@ Wir lernten so viel Neues übereinander und konnten endlich wieder tiefgehende G
 
 ---
 
-🎙 Du möchtest lieber zuhören? Dann hör dir die passende [Podcastfolge auf Spotify](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) an.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama-Hack: 10 Fragen, die alles verändern“ an — auf [Spotify](https://open.spotify.com/episode/1ZecVYRy73D2EHDRQIu2zI) oder überall, wo du Podcasts hörst.
 
 ---
 

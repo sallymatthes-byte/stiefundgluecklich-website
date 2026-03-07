@@ -19,7 +19,9 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
-🎙 **Passend dazu:** [„Ab wann bin ich eigentlich Stiefmutter?“](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8)
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Ab wann bin ich eigentlich Stiefmutter?“ an — auf [Spotify](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8) oder überall, wo du Podcasts hörst.
 
 ---
 
