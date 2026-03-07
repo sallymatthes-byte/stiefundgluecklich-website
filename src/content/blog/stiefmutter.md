@@ -13,7 +13,9 @@ imageAlt: "Nachdenkliche Frau auf einer Bank im herbstlichen Wald — die Rolle 
 
 ---
 
-![Nachdenkliche Frau im herbstlichen Wald — die Rolle als Stiefmutter verstehen](/images/blog/stiefmutter-rolle.jpg)
+🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Stiefmütter und Bonusmamas.
+
+---
 
 ## Was bedeutet Stiefmutter sein — wirklich?
 
@@ -45,7 +47,7 @@ Die [Eifersucht auf die Ex-Partnerin](/blog/eifersucht-als-bonusmama-die-ex-als-
 
 Darfst du erziehen? Darfst du Nein sagen? Darfst du dich zurückziehen? Die Antwort auf alle drei Fragen: **Ja.** Aber die richtige Balance zu finden ist eine der schwierigsten Aufgaben als Stiefmutter.
 
-→ Mehr dazu: [Du darfst als Bonusmama Grenzen setzen](/blog/du-darfst-als-bonusmama-grenzen-setzen/) und [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/)
+→ Mehr dazu: [10 Regeln für Patchworkfamilien](/blog/10-regeln-fuer-patchworkfamilien/) und [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/)
 
 ### Du zweifelst an dir selbst
 
@@ -109,7 +111,7 @@ Coaching, Therapie, Beratung — nenn es wie du willst. Aber warte nicht, bis al
 
 ## Stiefmutter und Ex-Partnerin: Die schwierigste Dynamik
 
-Die Beziehung zur [Ex-Partnerin](/blog/ex-frau-konflikt-als-stiefmutter-ueberwinden/) ist für die meisten Stiefmütter die größte Herausforderung. Warum? Weil sie Teil des Systems bleibt — ob du willst oder nicht.
+Die Beziehung zur [Ex-Partnerin](/blog/konflikte-wegen-der-ex-ueberwinden/) ist für die meisten Stiefmütter die größte Herausforderung. Warum? Weil sie Teil des Systems bleibt — ob du willst oder nicht.
 
 Was hilft:
 - Verstehen, [warum Kindsmütter sich bedroht fühlen](/blog/warum-kindsmuetter-sich-bedroht-fuehlen/)
@@ -129,6 +131,8 @@ Der Beziehungsaufbau zu den Kindern deines Partners ist ein Marathon, kein Sprin
 
 ---
 
+![Zwei Hände die sich halten — Unterstützung und Zusammenhalt als Stiefmutter](/images/blog/stiefmutter-haende.jpg)
+
 ## Weitere Themen für Stiefmütter
 
 - [Stiefväter vs. Stiefmütter](/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter/) — wer hat es leichter?
@@ -140,11 +144,11 @@ Der Beziehungsaufbau zu den Kindern deines Partners ist ein Marathon, kein Sprin
 
 ---
 
-🎙 **Mehr zum Thema:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Stiefmütter und Bonusmamas.
+## Zusammenfassung
 
----
+Stiefmutter sein ist eine der anspruchsvollsten Rollen, die es gibt — und eine der am wenigsten anerkannten. **Du brauchst keine Erlaubnis, um deine Rolle selbst zu definieren.** Ob du dich Stiefmutter, Bonusmama oder einfach „die Partnerin" nennst: Entscheidend ist, dass du deinen eigenen Weg findest, Grenzen setzt und dir Unterstützung holst, wenn du sie brauchst. Du bist nicht allein damit.
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist eine Stiefmutter?
@@ -161,4 +165,4 @@ Beide Begriffe beschreiben dieselbe Rolle: die neue Partnerin eines Vaters mit K
 
 ### Wie gehe ich als Stiefmutter mit Ablehnung um?
 Ablehnung durch Bonuskinder ist in den ersten Jahren normal — es ist keine persönliche Zurückweisung, sondern oft Ausdruck von Loyalitätskonflikten gegenüber der leiblichen Mutter. Was hilft: Geduld, keine Gegenreaktionen, dem Kind Zeit geben und mit dem Partner als Team agieren. Professionelles Coaching kann den Prozess beschleunigen.
-<!-- FAQ_END -->
+

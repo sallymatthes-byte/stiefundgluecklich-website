@@ -3,6 +3,7 @@ title: "Patchworkfamilie: Der komplette Guide für Bonusmamas (2026)"
 description: "Alles über Patchworkfamilien — Herausforderungen, Regeln, Phasen und praktische Tipps. Von einer erfahrenen Patchwork-Coach mit über 700 Coaching-Stunden."
 category: "rolle-identitaet"
 date: 2026-03-07
+updated: 2026-03-07
 metaTitle: "Patchworkfamilie: Der komplette Guide für 2026"
 metaDescription: "Was ist eine Patchworkfamilie? Herausforderungen, Regeln, Phasen & Tipps — von Coach Sally Matthes mit über 700 Coaching-Stunden. Der umfassendste Guide im Netz."
 image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
@@ -15,7 +16,9 @@ Ich bin Sally Matthes — Erziehungswissenschaftlerin, Systemischer Coach und se
 
 ---
 
-![Patchworkfamilie — Zusammenhalt und neue Wege](/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg)
+🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Bonusmamas.
+
+---
 
 ## Was ist eine Patchworkfamilie?
 
@@ -126,6 +129,8 @@ Aus meinen über 100 Coaching-Begleitungen habe ich klare Muster erkannt, die er
 
 ## Spezialthemen in Patchworkfamilien
 
+Neben den großen Kernthemen gibt es viele Bereiche, die im Patchwork-Alltag immer wieder auftauchen — von Finanzen über Feiertage bis hin zu besonderen Familienkonstellationen.
+
 ### Finanzen und Recht
 - [Finanzielle Beteiligung](/blog/finanzielle-beteiligung/) — wer zahlt was?
 - [Unterhalt in Patchworkfamilien](/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab/) — deine Rechte kennen
@@ -152,6 +157,8 @@ Aus meinen über 100 Coaching-Begleitungen habe ich klare Muster erkannt, die er
 
 ---
 
+![Familie am Waldweg — gemeinsam neue Wege gehen](/images/blog/patchworkfamilie-herausforderungen-und-chancen-3.jpg)
+
 ## Patchworkfamilie: Lohnt es sich?
 
 Ja. Unbedingt.
@@ -162,11 +169,7 @@ Niemand in einer Patchworkfamilie ist „einfach so da". Jede Beziehung wurde ak
 
 ---
 
-🎙 **Mehr zum Thema:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Bonusmamas.
-
----
-
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was ist eine Patchworkfamilie einfach erklärt?
@@ -183,4 +186,4 @@ Stiefmutter ist der traditionelle, rechtliche Begriff für die neue Partnerin ei
 
 ### Wann sollte sich eine Patchworkfamilie Hilfe holen?
 Wenn dieselben Konflikte sich wiederholen, wenn die Bonusmama sich dauerhaft unsichtbar oder ausgeschlossen fühlt, wenn Kinder unter der Situation leiden, oder wenn die Paarbeziehung unter der Patchwork-Dynamik zerbricht. Professionelle Unterstützung früh zu holen ist ein Zeichen von Klugheit, nicht von Schwäche.
-<!-- FAQ_END -->
+

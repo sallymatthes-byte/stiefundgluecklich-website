@@ -5,6 +5,7 @@ category: "partnerschaft"
 date: 2026-03-07
 metaTitle: "10 Regeln für Patchworkfamilien — Was wirklich funktioniert"
 metaDescription: "Die 10 goldenen Regeln für Patchworkfamilien — praxiserprobt aus über 700 Coaching-Stunden. Von Sally Matthes, Coach für Bonusmamas."
+heroImage: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 imageAlt: "Glückliche Patchworkfamilie im warmen Licht — Zusammenhalt und Geborgenheit"
 ---
@@ -13,7 +14,9 @@ imageAlt: "Glückliche Patchworkfamilie im warmen Licht — Zusammenhalt und Geb
 
 ---
 
-![Patchworkfamilie — Herausforderungen und Chancen](/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg)
+🎙 **Mehr zum Thema:** Hör dir die Podcastfolge „Die größten Fehler in Patchworkfamilien – und wie du sie vermeidest" an — auf [Spotify](https://open.spotify.com/episode/0xkttYoPMT7LXML7USoCMR) oder überall, wo du Podcasts hörst.
+
+---
 
 ## Was ist eine Patchworkfamilie?
 
@@ -163,13 +166,7 @@ In der Patchworkfamilie passieren selten die großen Hallmark-Momente. Kein „I
 9. **Hol dir Unterstützung** — du musst das nicht alleine schaffen
 10. **Feiere die kleinen Momente** — sie sind der echte Beweis
 
----
-
-🎙 **Mehr zum Thema:** Hör dir die Podcastfolge „Die größten Fehler in Patchworkfamilien – und wie du sie vermeidest" an — auf [Spotify](https://open.spotify.com/episode/0xkttYoPMT7LXML7USoCMR) oder überall, wo du Podcasts hörst.
-
----
-
-<!-- FAQ_START -->
+<!-- FAQ_START
 ## Häufige Fragen
 
 ### Was sind die wichtigsten Regeln in einer Patchworkfamilie?
@@ -186,4 +183,4 @@ Eifersucht auf die Ex-Partnerin ist in Patchworkfamilien völlig normal. Hilfrei
 
 ### Wann sollte man sich als Patchworkfamilie Hilfe holen?
 Am besten früh — nicht erst wenn alles brennt. Typische Signale: Wiederkehrende Konflikte um dieselben Themen, das Gefühl als Bonusmama unsichtbar zu sein, Kinder die dauerhaft Widerstand zeigen, oder der Eindruck dass die Beziehung unter der Patchwork-Situation leidet. Coaching oder Beratung ist kein Zeichen von Schwäche, sondern von Klugheit.
-<!-- FAQ_END -->
+
