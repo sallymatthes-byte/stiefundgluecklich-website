@@ -1,0 +1,91 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout 
+  title="Links — StiefundGlücklich"
+  description="Alle wichtigen Links von Sally Matthes — Coach für Bonusmamas in Patchworkfamilien."
+  canonical="https://stiefundgluecklich.de/links/"
+>
+  <section class="min-h-screen pt-24 pb-16 bg-secondary">
+    <div class="container mx-auto px-5 md:px-6 max-w-md">
+      
+      <!-- Profile -->
+      <div class="text-center mb-8">
+        <img 
+          src="/images/sally-biolink.jpg" 
+          alt="Sally Matthes — Coach für Bonusmamas" 
+          class="w-24 h-24 rounded-full mx-auto mb-4 object-cover shadow-lg"
+          loading="eager"
+        />
+        <h1 class="font-serif text-xl md:text-2xl text-foreground mb-1">Sally Matthes</h1>
+        <p class="text-sm text-muted-foreground">Coach für Bonusmamas · Podcasterin · Autorin</p>
+        <p class="text-sm text-muted-foreground italic mt-1">Klarheit statt Chaos in deiner Patchworkfamilie</p>
+      </div>
+
+      <!-- Links -->
+      <div class="space-y-3">
+        
+        <!-- Quiz CTA (Main) -->
+        <a href="/quiz" 
+          class="block w-full bg-primary hover:bg-primary/90 text-primary-foreground text-center px-6 py-4 font-medium transition-colors shadow-md">
+          <span class="text-base">🎯 Wo stehst du als Bonusmama?</span>
+          <span class="block text-sm opacity-90 mt-0.5">Mach den kostenlosen Check</span>
+        </a>
+
+        <!-- Podcast -->
+        <a href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm" target="_blank" rel="noopener"
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">🎙 Podcast: Bonusgeflüster</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">Auf Spotify & überall wo du Podcasts hörst</span>
+        </a>
+
+        <!-- ITS Bundle -->
+        <a href="/its-bundle" 
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">📦 ITS Bundle — €59</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">Grenzen setzen · Kommunikation · Ankommen</span>
+        </a>
+
+        <!-- BeyondBonus -->
+        <a href="/beyondbonus" 
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">🚀 BeyondBonus</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">12-Wochen-Transformationsprogramm</span>
+        </a>
+
+        <!-- Blog -->
+        <a href="/blog" 
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">📖 Blog</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">70+ Artikel für Bonusmamas</span>
+        </a>
+
+        <!-- About -->
+        <a href="/about" 
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">👋 Über mich</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">Meine Geschichte als Bonusmama</span>
+        </a>
+
+        <!-- 1:1 Warteliste -->
+        <a href="/warteliste" 
+          class="block w-full bg-background hover:bg-background/80 text-foreground text-center px-6 py-3.5 font-medium transition-colors border border-border shadow-sm">
+          <span class="text-base">💬 1:1 Coaching Warteliste</span>
+          <span class="block text-sm text-muted-foreground mt-0.5">Persönliche Begleitung für deine Situation</span>
+        </a>
+
+      </div>
+
+      <!-- Footer -->
+      <div class="text-center mt-8 space-y-2">
+        <p class="text-xs text-muted-foreground">
+          <a href="/impressum" class="hover:text-foreground transition-colors">Impressum</a> · 
+          <a href="/datenschutz" class="hover:text-foreground transition-colors">Datenschutz</a>
+        </p>
+        <p class="text-xs text-muted-foreground">© {new Date().getFullYear()} StiefundGlücklich</p>
+      </div>
+
+    </div>
+  </section>
+</Layout>
