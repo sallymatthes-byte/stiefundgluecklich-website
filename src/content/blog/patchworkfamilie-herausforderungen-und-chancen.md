@@ -82,8 +82,6 @@ Jeder in einer Patchworkfamilie hat eine Vergangenheit mit eigenen Erfahrungen u
 **7. Unterstützung von außen:**
 Manchmal können professionelle Unterstützung oder Beratung von außen hilfreich sein, um bestimmte Herausforderungen zu meistern. Zögere nicht, Hilfe anzunehmen!
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Das Leben in einer Patchworkfamilie ist komplex, herausfordernd und gleichzeitig unglaublich bereichernd. Unterschiedliche Erziehungsstile, wechselnde Dynamiken und die ständige Neuaushandlung von Rollen fordern alle Beteiligten – besonders auch dich als Bonusmama. Mit offener Kommunikation, gegenseitigem Respekt und der Bereitschaft, Kompromisse einzugehen, könnt ihr als Patchworkfamilie zusammenwachsen. Wichtig ist dabei, dass du auch auf dich selbst achtest, deine Grenzen benennst und dir Freiräume schaffst. Denn nur wenn es dir gut geht, kannst du auch für die Familie da sein.

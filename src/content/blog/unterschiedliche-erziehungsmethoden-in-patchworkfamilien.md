@@ -30,8 +30,6 @@ Irgendwann begann ich, mich ehrlich zu fragen: Geht es mir wirklich um das Wohl 
 
 ![Paar spricht ruhig miteinander am Abend - gemeinsame Erziehungsregeln finden](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-3.jpg)
 
-*Stand: März 2026*
-
 ## Wie kommt ihr als Paar zu einem gemeinsamen Erziehungsstil?
 
 Ich erkannte, dass der erste Schritt darin bestand, wirkliche **Klarheit** zu gewinnen. Klarheit darüber, warum mein Partner und ich so unterschiedlich an die Erziehung herangingen. Warum triggerten mich bestimmte Situationen so stark? Weshalb war es für ihn so schwer, Grenzen zu setzen? Erst wenn wir die tieferen Beweggründe verstehen würden, könnten wir beginnen, etwas zu verändern.

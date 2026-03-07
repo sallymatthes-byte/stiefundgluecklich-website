@@ -79,8 +79,6 @@ Hier sind einige Tipps, die helfen können:
 - **Grenzen setzen:** Es ist wichtig, klare Grenzen zu setzen und die Rollen und Verantwortlichkeiten jeder Partei zu definieren. Dies kann helfen, Missverständnisse und Konflikte zu vermeiden.
 - **Unterstützung suchen:** Es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und dir helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Ein systemischer Ansatz zur Betrachtung dieser Konflikte kann helfen, die zugrundeliegenden Dynamiken zu verstehen und effektive Lösungsstrategien zu entwickeln.

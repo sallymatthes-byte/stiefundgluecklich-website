@@ -66,8 +66,6 @@ Indem ihr solche Aktivitäten plant und umsetzt, könnt ihr als restliche Famili
 
 > „Jeder neue Anfang kommt aus eines anderen Anfangs Ende. Und der Weg dorthin ist das, was uns zusammenwachsen lässt." – Anke Maggauer-Kirsche
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Herausforderungen wie Vorurteile oder Ablehnung können uns dabei begegnen. Diese zu überwinden, lohnt sich jedoch enorm.

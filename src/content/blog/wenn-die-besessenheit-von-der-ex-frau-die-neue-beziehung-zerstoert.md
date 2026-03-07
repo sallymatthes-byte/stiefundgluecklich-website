@@ -118,7 +118,6 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 **Du willst raus aus dem Kreislauf?** Du verdienst eine Beziehung, in der du dich sicher und geliebt fühlst - ohne den ständigen Schatten der Vergangenheit.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

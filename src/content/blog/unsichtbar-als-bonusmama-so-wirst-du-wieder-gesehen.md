@@ -1,5 +1,5 @@
 ---
-title: "Unsichtbar als [Bonusmama](/blog/stiefmutter/)? So wirst du wieder gesehen!"
+title: "Unsichtbar als Bonusmama? So wirst du wieder gesehen!"
 description: "Fühlst du dich als Bonusmama unsichtbar, sobald die Kinder da sind? Erfahre, warum das kein Bonusmama-Problem ist!"
 category: "rolle-identitaet"
 date: 2025-04-04
@@ -124,8 +124,6 @@ Wenn du das Gefühl hast, dein Partner versteht dich nicht oder blockt ab, dann 
 Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/blog/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr — nicht nur als „die Erwachsene, die eben auch da ist", sondern als seine wichtigste Verbündete.
 
 Stell dir vor, du wüsstest einfach: Dein Platz in der Familie ist sicher — unabhängig davon, ob die Kinder da sind oder nicht. Dieses Gefühl ist möglich. Und wenn du tiefer einsteigen willst, schau dir auch an, warum du dich manchmal fühlst, als würdest du [in der zweiten Reihe](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) stehen.
-
-*Stand: März 2026*
 
 ## Zusammenfassung
 

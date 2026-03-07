@@ -68,8 +68,6 @@ Hier noch ein paar Anregungen für deinen Weg zu innerem Frieden:
 
 *Innerer Frieden und Erfüllung sind kein Zustand, sondern eine tägliche Praxis.* Sie erwachsen aus der liebevollen Annahme dessen, was ist – inklusive deiner selbst. Sie sind das Fundament, auf dem du deine Patchworkfamilie aufbauen und gestalten kannst. Und sie strahlen aus auf alle Beteiligten und schenken euch Verbundenheit, Freude und Liebe.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Loslassen lernen ist einer der wichtigsten Schritte auf deinem Weg als Bonusmama. Es geht nicht darum, deine Wünsche aufzugeben, sondern darum, starre Familienideale durch ein realistisches, liebevolles Bild zu ersetzen – eines, das zu eurer einzigartigen Patchworkfamilie passt. Indem du deine Prägungen erkennst, dir selbst mit Mitgefühl begegnest und Dankbarkeit praktizierst, schaffst du Raum für inneren Frieden. Du bist stärker, als du denkst, und jeder kleine Schritt auf diesem Weg zählt.

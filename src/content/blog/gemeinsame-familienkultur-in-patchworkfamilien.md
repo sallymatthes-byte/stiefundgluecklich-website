@@ -79,8 +79,6 @@ Wenn zwei Familien zusammenkommen, bringen sie oft sehr unterschiedliche Vorstel
 
 Solche Kompromisse sind nicht immer einfach zu finden. Sie erfordern *Kreativität*, Offenheit und die Bereitschaft, sich auf die Sichtweise des anderen einzulassen. Doch genau darum geht es, wenn eine neue Familienkultur entstehen soll: **Nicht darum, dass einer seine Vorstellung durchsetzt, sondern dass alle aufeinander zugehen.** Es ist ein Prozess des gegenseitigen Kennenlernens, bei dem auch Unterschiede respektiert werden dürfen. Denn eine Patchworkfamilie muss nicht in allem einer Meinung sein. Viel wichtiger ist, dass alle das Gefühl haben, mit ihren Bedürfnissen und Eigenheiten gesehen und wertgeschätzt zu werden. Dann kann Stück für Stück *Vertrauen* und ein Gefühl von Zugehörigkeit wachsen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Eine gemeinsame Familienkultur in der Patchworkfamilie entsteht nicht über Nacht — sie wächst Schritt für Schritt. Die größte Herausforderung liegt darin, bestehende Gewohnheiten und neue Vorstellungen respektvoll zusammenzubringen. Dabei helfen Kompromisse, offene Gespräche und die Bereitschaft, Unterschiede als Bereicherung zu sehen statt als Bedrohung. Wenn alle Familienmitglieder sich mit ihren Bedürfnissen gesehen fühlen, kann aus der Vielfalt zweier Familienkulturen etwas ganz Eigenes und Wertvolles entstehen.

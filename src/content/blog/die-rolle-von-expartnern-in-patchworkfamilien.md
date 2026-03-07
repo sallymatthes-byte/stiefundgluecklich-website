@@ -92,8 +92,6 @@ Beim Parallel Parenting geht es darum:
 
 Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein Leben lang dankbar sein werden.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Der Expartner bleibt ein fester Bestandteil jeder Patchworkfamilie — ob lebend oder verstorben. Für die Kinder ist die Bindung an beide Elternteile unveränderlich wichtig, und als Bonusmama liegt deine Stärke darin, das zu akzeptieren statt dagegen anzukämpfen. Wenn eine direkte Zusammenarbeit mit der Expartnerin nicht möglich ist, bietet Parallel Parenting einen Weg, die Elternschaft geordnet und konfliktarm zu gestalten. Entscheidend ist, die Kinder aus Konflikten herauszuhalten und ihnen in eurem Zuhause Stabilität und Geborgenheit zu geben.

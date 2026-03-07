@@ -92,8 +92,6 @@ Auch für die [Beziehung](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-bal
 
 Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun. Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Finanzielle Beteiligung als Bonusmama ist ein sensibles Thema ohne Patentlösung. Eine hälftige Kostenteilung ist nicht automatisch fair — Einkommen, Unterhaltszahlungen und Betreuungszeiten spielen eine Rolle. Sprich offen mit deinem Partner über Geld, legt gemeinsame Regeln fest und haltet regelmäßige Finanzmeetings ab. Bewahre dir dabei unbedingt ein Stück finanzielle Unabhängigkeit: Ein eigenes Konto und freies Budget sind kein Zeichen von Misstrauen, sondern stärken dich und eure Beziehung langfristig.

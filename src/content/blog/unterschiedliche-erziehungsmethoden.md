@@ -71,8 +71,6 @@ Als Bonusmama stehst du vor der Herausforderung, die Erziehungsmethoden in der P
 
 *Der Schlüssel zum Erfolg liegt in der konstruktiven Kommunikation.* Indem du und dein Partner wertschätzend und lösungsorientiert miteinander sprecht, könnt ihr eine tragfähige Erziehungspartnerschaft entwickeln. Eine Partnerschaft, in der nicht Machtkämpfe, sondern das Wohl des Kindes an erster Stelle stehen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Unterschiedliche Erziehungsmethoden sind eine der größten Herausforderungen in Patchworkfamilien. Bonuseltern sollten sich zunächst auf den Beziehungsaufbau konzentrieren und die Erziehungshoheit beim leiblichen Elternteil lassen. Gemeinsame Regeln, regelmäßiger Austausch und faire Kommunikation helfen euch, als Team zusammenzuwachsen. Entscheidend ist, dass das Wohl des Kindes immer im Mittelpunkt steht — nicht die Frage, wer Recht hat.

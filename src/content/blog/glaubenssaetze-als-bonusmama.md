@@ -47,8 +47,6 @@ Ein Beispiel: Eine Freundin glaubte, sie müsse als Stiefmutter immer nachgeben,
 
 Veränderte Glaubenssätze wirken sich auf die ganze Familie aus. Kinder profitieren von einem harmonischeren Umfeld und lernen, an sich zu glauben. *Doch Achtung: Glaubenssätze sind kein Allheilmittel, sondern ein Werkzeug für positive Veränderung.* Sie ersetzen keine Liebe, Geduld und harte Arbeit an der Beziehung. Aber sie können dir helfen, deine Patchworkfamilie mit mehr Zuversicht, Gelassenheit und Freude zu gestalten. Scheue also nicht davor zurück, deine Überzeugungen zu hinterfragen und Schritt für Schritt neu auszurichten.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Glaubenssätze wie „ich bin nicht gut genug" begleiten viele Bonusmamas — oft ohne dass sie es merken. Sie entstehen durch Prägungen aus der Kindheit, gesellschaftliche Erwartungen und Erfahrungen in der Patchworkfamilie. Indem du auf deine Gedanken, dein Verhalten und deine Vergangenheit schaust, kannst du diese tiefliegenden Überzeugungen aufspüren. Mit Strategien wie positiven Affirmationen und Visualisierung lassen sich alte Glaubenssätze Schritt für Schritt durch stärkende ersetzen. So gewinnst du mehr Gelassenheit und Selbstvertrauen für deinen Alltag als Bonusmama.

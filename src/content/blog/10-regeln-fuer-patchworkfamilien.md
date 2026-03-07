@@ -154,8 +154,6 @@ In der Patchworkfamilie passieren selten die großen Hallmark-Momente. Kein „I
 
 ---
 
-*Stand: März 2026*
-
 ## Zusammenfassung: Die 10 Regeln auf einen Blick
 
 1. **Die Paarbeziehung kommt zuerst** — euer Fundament

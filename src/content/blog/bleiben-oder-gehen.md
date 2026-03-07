@@ -1,5 +1,5 @@
 ---
-title: "Bleiben oder gehen? Entscheidung einer Bonusmama in der [Patchworkfamilie](/blog/patchworkfamilie/)"
+title: "Bleiben oder gehen? Entscheidung einer Bonusmama in der Patchworkfamilie"
 description: "Kannst du deine Beziehung retten oder ist die Patchworkfamilie zum Scheitern verurteilt? Erfahre mehr dazu!"
 category: "rolle-identitaet"
 date: 2024-01-19
@@ -58,8 +58,6 @@ Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner 
 Ich habe an diesem Punkt mich aktiv dagegen entschieden und habe mich auf den Weg gemacht, diese Gedanken zu ergründen und für die Beziehung zu kämpfen. Denn für mich war klar, dass dieser Mann es wert ist.
 Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): Wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.
 Wo stehst du gerade? Schreibe mir gern eine private Nachricht und erzähle mir davon!
-
-*Stand: März 2026*
 
 ## Zusammenfassung
 

@@ -86,8 +86,6 @@ Unsere Gespräche sind **achtsamer und wertschätzender** geworden. Wir nehmen u
 
 Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedlicher Meinung sind. Doch dank des 4-Ohren-Modells gelingt es uns meist, schnell wieder zueinander zu finden und gemeinsam nach Lösungen zu suchen. Unsere Beziehung ist dadurch stabiler und erfüllender geworden – nicht nur für uns, sondern auch für meine Stiefkinder, die nun in einem harmonischeren Umfeld aufwachsen können.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Das 4-Ohren-Modell von Friedemann Schulz von Thun zeigt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In Patchworkfamilien führen diese unterschiedlichen Ebenen besonders häufig zu Missverständnissen. Der Schlüssel liegt darin, innezuhalten, bewusst auf allen vier Ohren zu hören und Ich-Botschaften zu nutzen. So verwandelst du Konflikte in echte Gespräche — und stärkst eure Beziehung nachhaltig.

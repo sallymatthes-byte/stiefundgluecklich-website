@@ -88,8 +88,6 @@ Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich n
 
 Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Situationen, die herausfordernd sind. Doch Yvonne lässt sich davon nicht mehr aus der Bahn werfen. Durch die Arbeit an sich selbst hat sie innere Stärke und Gelassenheit gewonnen. **So ist aus der hilflosen Yvonne eine selbstbewusste Frau geworden, die für sich und ihre Beziehungen einsteht** — eine Frau, die Probleme als Chancen begreift und aktiv an Lösungen arbeitet.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 **Du musst den Kreislauf aus Konflikten und Erschöpfung nicht alleine durchbrechen.** Yvonnes Geschichte zeigt: Wenn du bereit bist, bei dir selbst anzufangen, alte Muster zu hinterfragen und gemeinsam mit deinem Partner als Team aufzutreten, kann sich auch in deiner Patchworkfamilie vieles zum Besseren wenden.

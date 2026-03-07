@@ -52,8 +52,6 @@ Der dritte Schritt ist die Entwicklung einer neuen Art der **Kommunikation** —
 
 ![Frau lächelt zufrieden im Herbstwald — innere Stärke und neue Rolle gefunden](/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-3.jpg)
 
-*Stand: März 2026*
-
 ## Deine Chance, in die Rolle als Bonusmama hineinzuwachsen
 
 - „Werde ich jemals wirklich zur Familie gehören, oder bleibe ich für immer die Außenseiterin?"

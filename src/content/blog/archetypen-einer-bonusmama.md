@@ -81,8 +81,6 @@ Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfinde
 
 ![Bonusmama steht selbstbewusst vor einer Patchworkfamilie — innere Stärke und Zugehörigkeit](/images/blog/archetypen-einer-bonusmama-1.jpg)
 
-*Stand: März 2026*
-
 ## Du bist mehr als ein Typ
 
 Wichtig ist, dass du erkennst, wo du gerade stehst. Denn erst wenn du weißt, welche Muster dich steuern, kannst du bewusst entscheiden, wie du damit umgehen willst.

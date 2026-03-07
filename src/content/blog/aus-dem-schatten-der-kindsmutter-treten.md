@@ -18,8 +18,6 @@ Vielleicht kennst du es ja: den Satz „Bei Andrea hätte es das aber nicht gege
 
 ---
 
----
-
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin – wie Bonusmama & Kindsmama gemeinsam wachsen“ an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
 
 ---
@@ -84,8 +82,6 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 - Feiert eure Erfolge und freut euch aneinander
 
 Als Patchwork-Familie zu wachsen bedeutet, füreinander einzustehen, auch wenn es mal Herausforderungen gibt. Es bedeutet, die Einzigartigkeit jedes Einzelnen wertzuschätzen und zu erkennen, dass ihr zusammen ein starkes Team seid. Mit Liebe, Verständnis und Zusammenhalt könnt ihr alles schaffen und eine wundervolle Bonus-Familie sein.
-
-*Stand: März 2026*
 
 ## Zusammenfassung
 

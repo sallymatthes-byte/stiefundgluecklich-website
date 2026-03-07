@@ -18,8 +18,6 @@ Neulich begegnete mir das Konzept von Dr. Patricia Papernow – eine renommierte
 
 ---
 
----
-
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Ausgeschlossen in der eigenen Familie“ an — auf [Spotify](https://open.spotify.com/episode/1GwIy1bNLQJ255exbwPzfA) oder überall, wo du Podcasts hörst.
 
 ---
@@ -76,8 +74,6 @@ Genauso wichtig wie zu wissen, was man tun sollte, ist es zu verstehen, welche V
 - **Die Beziehungen über einen Kamm scheren:** Behandle nicht alle Beziehungen gleich. Die Eltern-Kind-Bindung ist anders als die Paarbeziehung oder die Beziehung zwischen Stiefkind und Stiefeltern. Respektiere die Unterschiede und hab realistische Erwartungen daran, wie schnell und wie eng sich die einzelnen Beziehungen entwickeln.
 
 Indem ihr diese Fallstricke vermeidet und euch stattdessen auf die positiven Strategien konzentriert, könnt ihr als Paar einen Weg finden, mit den Insider-Outsider-Positionen umzugehen und langfristig enger zusammenzuwachsen. Habt Geduld mit euch und dem Prozess.
-
-*Stand: März 2026*
 
 ## Zusammenfassung
 

@@ -76,8 +76,6 @@ Mit dieser Erkenntnis entwickelten sie eine neue Abendroutine. Das Kind bekam me
 
 Diese Veränderung brauchte Zeit — und sie war nur möglich, weil alle Beteiligten sich gehört und verstanden fühlten. **Mara lernte zudem, dass ihre Selbstfürsorge keine Selbstsucht war, sondern die Grundlage dafür, eine liebevolle Bonusmama sein zu können.** Ihre Geschichte zeigt: Mit dem richtigen Ansatz kann jede Patchwork-Familie eine Lösung finden, die für alle funktioniert — auch wenn es um ein so emotionales Thema wie das Bonuskind im Elternbett geht.
 
-*Stand: März 2026*
-
 ## Die Bonusmama-Formel: So löst du das Problem „Bonuskind im Elternbett" harmonisch
 
 ### Schritt 1: Klarheit schaffen

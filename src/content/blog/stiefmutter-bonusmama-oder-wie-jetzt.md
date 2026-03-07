@@ -51,8 +51,6 @@ Ich bin Sally, die Partnerin von Stéphane, dem Papa der beiden Mädchen. Vor al
 
 Das nimmt Druck raus - auf meiner Seite. Doch mit Sicherheit auch aufseiten der Mädchen. Denn als Sally müssen sie mich nicht mögen oder gar lieben. Aber ich bin Bestandteil ihrer Lebenswelt - und darum geht es doch: den Weg miteinander zu finden. Zu einem Zuhause, in dem sich alle wohlfühlen und sein können. Ganz unabhängig davon, wie wir das Konstrukt nennen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 Doch welche Rolle nimmt man als Stiefmutter ein? Der Begriff „Stiefmutter" ist historisch negativ behaftet. Heute gibt es alternative Bezeichnungen wie „Bonusmutter". Persönlich finde ich diese aber auch nicht optimal.
 

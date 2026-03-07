@@ -53,8 +53,6 @@ Also fang an, dir selbst diese Wertschätzung zu geben, die du verdienst, und be
 
 Indem du dir selbst Anerkennung und Wertschätzung gibst, stärkst du dein Selbstwertgefühl und deine innere Stärke als Stiefmutter. Du wirst feststellen, dass du in der Lage bist, eine erfüllende Beziehung zur Patchworkfamilie aufzubauen, ohne dich selbst dabei zu vernachlässigen. Und dass das Gefühl, in zweiter Reihe zu stehen, in den Hintergrund rückt.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Oftmals suchen wir Anerkennung und Wertschätzung von anderen, doch wir sollten uns diese zuerst selbst geben. Indem wir uns selbst wertschätzen, uns Zeit für uns selbst nehmen und uns mitfühlend behandeln, stärken wir unser Selbstwertgefühl als Stiefmutter. Zudem ist es wichtig, ein Netzwerk von Unterstützung aufzubauen, um sich mit anderen Stiefmüttern auszutauschen und gegenseitig zu stärken.

@@ -83,8 +83,6 @@ Der dritte Schritt legt den Fokus auf eine verbesserte Kommunikation und ein tie
 
 Diese drei Schritte und die dazugehörigen Fragen bieten eine wertvolle Orientierung auf dem Weg zu einer erfüllten Partnerschaft als Bonusmama. Sie laden dazu ein, sich Zeit für tiefgründige Gespräche zu nehmen, offen und ehrlich miteinander zu kommunizieren und gemeinsam an einer positiven Zukunft für die Patchworkfamilie zu arbeiten.
 
-*Stand: März 2026*
-
 ## Ein neues Miteinander
 
 **Die Fragen zur Analyse haben uns geholfen, uns unserer eigenen Prägungen und Verhaltensmuster bewusst zu werden.** Wir haben erkannt, welche Werte uns wichtig sind und wie wir diese an die Kinder weitergeben möchten. Auch das Ansprechen von Sorgen und Ängsten hat dazu beigetragen, dass wir uns näher gekommen sind und gemeinsam nach Lösungen suchen konnten.

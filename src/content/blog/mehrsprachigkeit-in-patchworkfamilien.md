@@ -58,8 +58,6 @@ Denk daran: Kommunikation ist ein Lernprozess. Es ist okay, wenn es auch mal hol
 
 Vergesst nicht: Eure Liebe zueinander ist der Kit, der euch verbindet – egal, aus welcher Kultur ihr kommt. Mit Achtsamkeit, Kreativität und Gelassenheit könnt ihr eure interkulturellen Stolpersteine in Meilensteine verwandeln. Und wenn ihr dabei an einer [gemeinsamen Familienkultur](/blog/gemeinsame-familienkultur-in-patchworkfamilien) arbeitet, wird das Zusammenwachsen umso leichter.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Mehrsprachigkeit in einer Patchworkfamilie ist kein Hindernis, sondern eine echte Bereicherung – auch wenn es am Anfang holprig sein kann. Kinder profitieren enorm von mehreren Sprachen und entwickeln ein stärkeres Sprachbewusstsein sowie mehr Empathie. Mit klaren Sprachenregeln, Geduld und einer Portion Humor lassen sich sprachliche Barrieren überwinden. Interkulturelle Unterschiede werden zu Stärken, wenn ihr sie gemeinsam feiert statt gegen sie anzukämpfen. Eure Vielfalt macht eure Familie einzigartig – nutzt sie als Chance.

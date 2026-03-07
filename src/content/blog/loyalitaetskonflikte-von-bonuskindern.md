@@ -83,7 +83,6 @@ Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Lo
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird — und begleitet es dabei ohne Druck und Erwartungen.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

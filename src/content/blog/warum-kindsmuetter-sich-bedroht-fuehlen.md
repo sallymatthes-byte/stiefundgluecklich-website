@@ -62,8 +62,6 @@ Eine gute Beziehung zwischen dir als Bonusmama und der Kindsmutter ist ein *unsc
 
 Denk daran: Rom wurde nicht an einem Tag erbaut und auch die Beziehung zwischen Bonusmama und Kindsmutter braucht Zeit, um zu wachsen. Feiere die kleinen Fortschritte und lass dich von Rückschlägen nicht entmutigen. Mit jeder wertschätzenden Geste, jedem ehrlichen Gespräch und jedem gemeinsamen Lachen leistest du einen Beitrag zu einer starken Patchwork-Familie, die füreinander einsteht und in der jeder seinen Platz hat - das Kind, die Kindsmutter und du als Bonusmama.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 Es geht nicht darum, als Bonusmama jemanden zu ersetzen – die Kindsmutter ist und bleibt eine wichtige Bezugsperson für das Kind. Hinter ihrem Verhalten stecken oft Angst, Unsicherheit und der tiefe Wunsch, als Mutter nicht an Bedeutung zu verlieren. Gleichzeitig verdienen auch deine Gefühle als Bonusmama Raum und Anerkennung. Es darf mehr Verständnis für beide Seiten einziehen, denn dahingehend ist gegenseitiges Verständnis der erste wichtige Schritt, um eine positive Beziehung aufzubauen. Gemeinsam könnt ihr dem Kind ein liebevolles Umfeld schaffen, in dem es sich sicher und geborgen fühlt.
 

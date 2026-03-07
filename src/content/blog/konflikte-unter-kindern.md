@@ -71,8 +71,6 @@ Mia bekommt vielleicht mehr Hilfe bei den Hausaufgaben, weil sie sich damit schw
 
 Schaffe Gelegenheiten, bei denen die Kinder erleben, dass sie füreinander da sind — sei es beim gemeinsamen Aufräumen des Spielzimmers oder beim Trösten, wenn einer traurig ist. So lernen sie, dass sie als Familie zusammengehören und dass **die Unterschiede zwischen ihnen keine Schwäche, sondern eine Stärke sind.** Die [Herausforderungen einer Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) sind gleichzeitig auch ihre größten Chancen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Konflikte unter Kindern in Patchworkfamilien haben vielfältige Ursachen, da unterschiedliche Erfahrungen, Prägungen und Bedürfnisse aufeinandertreffen. Als Bonusmama ist es deine Aufgabe, als Mediatorin zu agieren, indem du jedem Kind das Gefühl gibst, verstanden zu werden und gemeinsam nach Lösungen zu suchen. Regelmäßige Familienkonferenzen, Ich-Botschaften und gemeinsame Aktivitäten können dabei helfen, Konflikte konstruktiv anzugehen und Verbundenheit zu schaffen. Ein Wochenplan gibt Struktur und stellt sicher, dass jedes Kind Eins-zu-eins-Zeit mit den Eltern hat. Fairness bedeutet nicht, alle gleich zu behandeln, sondern jedem das zu geben, was er oder sie braucht. Indem du die individuellen Bedürfnisse der Kinder erkennst und wertschätzt, förderst du den Zusammenhalt in der Patchworkfamilie. Gemeinsame Erlebnisse stärken das Gefühl der Zusammengehörigkeit und lassen die Kinder erfahren, dass sie füreinander da sind.

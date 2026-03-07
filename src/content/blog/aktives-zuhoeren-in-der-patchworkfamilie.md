@@ -65,8 +65,6 @@ Diese Familienkonferenz war der erste Schritt zu einem harmonischen Familienlebe
 - Vermeidet das Unterbrechen oder das sofortige Geben von Ratschlägen. Gebt eure eigene Meinung erst dann preis, wenn der andere ausgesprochen hat und danach gefragt hat.
 - Fasst am Ende eines Gesprächs die wichtigsten Punkte zusammen, damit sich alle gehört fühlen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 Dabei geht es darum, sich selbst zurückzunehmen und sich auf den anderen zu fokussieren. Durch Verständnisfragen, [Paraphrasieren](https://www.scribbr.de/richtig-zitieren/paraphrasieren/) oder Zusammenfassen kann es gelingen, das Gesagte wirklich zu verstehen. Dadurch können neue Perspektiven eingenommen, Vertrauen aufgebaut und Lösungen gefunden werden.
 

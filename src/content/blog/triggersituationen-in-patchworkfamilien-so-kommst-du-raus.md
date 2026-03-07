@@ -75,8 +75,6 @@ Vergiss nicht, gut für dich selbst zu sorgen. Triggersituationen können emotio
 
 Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung für den Umgang mit Triggersituationen gibt. Finde heraus, welche Handlungsweisen für dich persönlich am besten funktionieren und passe sie entsprechend an. Sei geduldig mit dir selbst und erlaube dir, Fehler zu machen und aus ihnen zu lernen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Triggersituationen gehören zum Alltag in Patchworkfamilien – besonders als Bonusmama wirst du immer wieder mit Momenten konfrontiert, die alte Verletzungen aktivieren. Der erste Schritt ist, diese Trigger bewusst zu erkennen und zu verstehen, woher sie kommen. Damit diese nicht in heftige [Konflikte](/blog/bonuskinder-und-konflikte/) ausarten, ist es hilfreich, in die Selbstreflexion einzusteigen. Zu spüren, was der eigene Anteil daran ist und darüber zu kommunizieren, ist ein wichtiger Schritt im Heilungsprozess. Mit Geduld, Selbstfürsorge und den richtigen Strategien kannst du lernen, gelassener mit diesen Situationen umzugehen.

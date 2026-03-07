@@ -81,7 +81,6 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 **Du bist nicht allein mit diesen Gedanken.** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

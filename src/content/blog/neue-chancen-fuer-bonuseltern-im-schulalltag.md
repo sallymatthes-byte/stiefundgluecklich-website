@@ -146,8 +146,6 @@ Diese diplomatischen Formulierungen können Brücken bauen, wo sonst Mauern ents
 
 Mit diesen drei Schritten kannst du als Bonuseltern im Schulalltag deinen Platz finden – respektvoll, aber selbstbewusst.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Als Bonuseltern im Schulalltag musst du nicht auf offizielle Einladungen oder formale Anerkennung warten, um wirksam zu sein. Der Schlüssel liegt darin, deine Rolle aktiv zu gestalten: Verschaffe dir Klarheit über die Strukturen und deine eigenen Wünsche, leite behutsam Veränderungen ein und kommuniziere verbindend – besonders mit der leiblichen Mutter. Respekt vor bestehenden Grenzen und gleichzeitig das Selbstbewusstsein, deinen eigenen Platz zu finden, bilden die Grundlage für echte Teilhabe. Du gehörst dazu – nicht weil es auf einem Formular steht, sondern weil du da bist und dich einbringst.

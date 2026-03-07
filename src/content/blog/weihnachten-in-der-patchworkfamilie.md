@@ -89,8 +89,6 @@ In einer Patchworkfamilie kommen bekanntlich Menschen mit unterschiedlichen Hint
 
 Diese Rituale sind nur einige Beispiele dafür, wie ihr als Patchworkfamilie eure eigenen, kreativen und harmonischen Weihnachtstraditionen etablieren könnt. Wichtig ist, dass sich alle Familienmitglieder gehört und eingebunden fühlen. Indem ihr die vielfältigen Hintergründe und Traditionen jedes einzelnen wertschätzt und in euer gemeinsames Fest integriert, schafft ihr eine harmonische Atmosphäre voller Liebe und Zusammenhalt. Wie ihr generell eine [gemeinsame Familienkultur in der Patchworkfamilie](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) aufbauen könnt, erfährst du in meinem ausführlichen Artikel dazu.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Weihnachten in der Patchworkfamilie ist eine besondere Herausforderung — unterschiedliche Traditionen, begrenzte Zeit und viele Bedürfnisse prallen aufeinander. Doch mit offener Kommunikation, klaren Absprachen und einem bewussten Blick auf die Gefühle der Kinder könnt ihr das Fest zu etwas ganz Besonderem machen. Das Einnehmen von anderen Blickwinkeln, gemeinsame Rituale und echte Wertschätzung füreinander legen den Grundstein für harmonische Feiertage.

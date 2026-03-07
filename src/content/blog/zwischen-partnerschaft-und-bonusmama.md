@@ -93,8 +93,6 @@ Natürlich ist nicht plötzlich alles perfekt und es gibt immer noch Tage, an de
 
 Für mich persönlich haben die Veränderungen noch einen weiteren wichtigen Effekt: **Ich fühle mich befreiter und selbstbestimmter.** Ich habe gelernt, meine eigenen Bedürfnisse ernst zu nehmen und Grenzen zu setzen, wenn es mir zu viel wird. Dadurch habe ich mehr Energie und Gelassenheit, die ich in meine Partnerschaft, die Kinder und meine eigenen Interessen investieren kann.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden, ist eine der größten Herausforderungen im Patchwork-Alltag. Viele Bonusmamas rutschen unbemerkt in eine aufopfernde Mutterrolle und verlieren dabei die Beziehung und sich selbst aus dem Blick. Doch durch konkrete Veränderungen wie bewusste Quality Time für die Beziehung, eine gerechte Aufgabenverteilung und offene Kommunikation mit dem Partner lässt sich Schritt für Schritt eine neue Balance erreichen. Der Schlüssel liegt darin, eigene Grenzen zu erkennen, „Nein" sagen zu lernen und Verantwortung bewusst abzugeben. Indem wir unsere Partnerschaft priorisieren und gleichzeitig die Kinder altersgerecht in die Verantwortung nehmen, finden wir wieder mehr Erfüllung und Nähe in unserer Beziehung — und können trotzdem für die Kinder da sein.

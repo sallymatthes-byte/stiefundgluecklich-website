@@ -22,8 +22,6 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
----
-
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Ab wann bin ich eigentlich Stiefmutter?“ an — auf [Spotify](https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8) oder überall, wo du Podcasts hörst.
 
 ---
@@ -109,7 +107,6 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

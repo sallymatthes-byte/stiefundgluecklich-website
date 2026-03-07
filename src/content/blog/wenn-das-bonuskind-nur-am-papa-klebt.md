@@ -71,8 +71,6 @@ Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen di
 
 Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen – als Familie.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Wenn das Bonuskind nur am Papa klebt, fühlt sich das als Bonusmama oft schmerzhaft und ausgrenzend an. Doch dieses Verhalten ist völlig normal — Kinder suchen nach einer Trennung Sicherheit beim vertrauten Elternteil. Der Schlüssel liegt darin, den eigenen Rückzug zu durchbrechen und stattdessen aktiv auf die Kinder zuzugehen: mit Geduld, kleinen Gesten und offener Kommunikation mit dem Partner. Schritt für Schritt entsteht so eine Verbindung, die auf Vertrauen statt auf Druck basiert. Eine Patchworkfamilie braucht Zeit — aber mit Verständnis und Beharrlichkeit findet jeder seinen Platz.

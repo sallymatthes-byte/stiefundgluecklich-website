@@ -70,8 +70,6 @@ Mit ein bisschen Kreativität und dem Willen, die positiven Urlaubsenergien in d
 
 ---
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 Offene Kommunikation, Kompromissbereitschaft und ein liebevoller Blick füreinander sind dabei die Schlüssel zum Erfolg.
 Gemeinsame Aktivitäten wie Ausflüge, Spieleabende oder sportliche Unternehmungen schweißen die Familie zusammen und schaffen unvergessliche Erinnerungen.

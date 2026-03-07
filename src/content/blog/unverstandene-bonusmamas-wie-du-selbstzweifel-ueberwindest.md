@@ -52,8 +52,6 @@ Genauso wichtig sind regelmäßige Auszeiten. Ich weiß, es fühlt sich vielleic
 
 Du bist so wertvoll. Vergiss das nie. Die Welt braucht gestärkte, erfüllte Bonusmamas wie dich.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Selbstzweifel als Bonusmama entstehen oft durch mangelnde Anerkennung, zu hohe eigene Ansprüche und das Unverständnis des Umfelds. Der Schlüssel liegt darin, deine Gefühle ernst zu nehmen, klare Grenzen zu setzen und dir aktiv Unterstützung zu holen. Mit Affirmationen, Dankbarkeit und regelmäßiger Selbstfürsorge stärkst du deine innere Resilienz. Du bist nicht allein – und du bist genau richtig, so wie du bist.

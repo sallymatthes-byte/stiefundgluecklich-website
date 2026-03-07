@@ -26,8 +26,6 @@ Wenn du dich manchmal wie eine Rivalin fühlst - obwohl du doch eigentlich Partn
 
 ---
 
----
-
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Du kämpfst gegen das Mini-Wife-Syndrom und merkst es nicht“ an — auf [Spotify](https://open.spotify.com/episode/4dkq5FaK6o2B2zUPLUgAez) oder überall, wo du Podcasts hörst.
 
 ---
@@ -133,7 +131,6 @@ Und genau dafür bin ich da.
 Du denkst vielleicht: "Ich will kein Drama machen." Oder: "Ich will dem Kind nichts wegnehmen." Aber was, wenn es nicht um Wegnehmen geht - sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht - sondern für das ganze System gut ist?
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

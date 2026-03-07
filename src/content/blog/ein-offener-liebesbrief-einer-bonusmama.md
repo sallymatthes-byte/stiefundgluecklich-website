@@ -53,8 +53,6 @@ Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe d
 In tiefer Liebe und Verbundenheit,
 Sally
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Dieser offene Liebesbrief zeigt den ehrlichen Weg einer Bonusmama — von den ersten unsicheren Schritten über Selbstzweifel und Überforderung bis hin zu einem erfüllten Leben als Patchworkfamilie. Er macht Mut, dass es sich lohnt, dranzubleiben, eigene Grenzen zu setzen und den eigenen Platz in der Bonusfamilie zu finden.

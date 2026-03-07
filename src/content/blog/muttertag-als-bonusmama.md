@@ -70,7 +70,5 @@ Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonis
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 Um Harmonie am Muttertag zu schaffen, ist es wichtig, offen zu kommunizieren, gemeinsame Aktivitäten zu planen und Rituale zu etablieren, die die Familie verbinden. Als Bonusmama kannst du dazu beitragen, indem du deine Wünsche und Erwartungen klar äußerst, dir aber auch Momente für dich selbst nimmst und dich auf die schönen Momente fokussierst. Mit einer offenen und entspannten Haltung kannst du den Muttertag zu einem unvergesslichen Erlebnis für deine Patchworkfamilie machen.

@@ -71,8 +71,6 @@ Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühle
 
 Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvolle und pädagogisch wertvolle Weise anzugehen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Konflikte mit Bonuskindern gehören zum Alltag in Patchworkfamilien – entscheidend ist, wie du mit ihnen umgehst. Die wichtigsten Punkte aus diesem Artikel:

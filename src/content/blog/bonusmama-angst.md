@@ -1,5 +1,5 @@
 ---
-title: "[Stiefmutter](/blog/stiefmutter/) und Bonusmama und Angst: Warum Unsicherheit so normal ist"
+title: "Stiefmutter und Bonusmama und Angst: Warum Unsicherheit so normal ist"
 description: "Viele [Stiefmutter](/blog/stiefmutter/) und Bonusmamas erleben die Angst, nicht dazuzugehören. Erfahre, woher sie kommt und wie du ihr begegnen kannst."
 category: "rolle-identitaet"
 date: 2025-05-30
@@ -123,8 +123,6 @@ Vielmehr zeigt sie dir, wie sehr du dich bemühst, dazuzugehören. Wie stark dei
 Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht perfekt verhalten, um deinen Platz zu verdienen. Und du musst dich nicht selbst verlieren, um „funktionierende Bonusmama" zu sein.
 
 **Du darfst weich und klar zugleich sein.** Du darfst für dich sorgen, ohne egoistisch zu sein. Und du darfst dir Unterstützung holen – nicht, weil du schwach bist, sondern weil du mutig genug bist, es nicht mehr allein machen zu wollen.
-
-*Stand: März 2026*
 
 ## Zusammenfassung
 

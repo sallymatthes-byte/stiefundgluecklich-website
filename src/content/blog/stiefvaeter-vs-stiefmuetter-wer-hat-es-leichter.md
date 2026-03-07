@@ -56,8 +56,6 @@ Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannu
 
 Sie investieren viel Zeit und Energie in die Beziehung zu ihren Stiefkindern, oft unter Vernachlässigung der eigenen Bedürfnisse. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung von den Kindern, was zu **Frustration und Selbstzweifeln** führen kann. Daher ist es mir ein besonderes Anliegen, Stiefmütter mit maßgeschneiderten Angeboten zu unterstützen und ihnen Wege aufzuzeigen, wie sie trotz der hohen Erwartungen und des Drucks eine [erfüllende Rolle in ihrer Patchworkfamilie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) finden können.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Stiefväter und Stiefmütter stehen in Patchworkfamilien vor unterschiedlichen Herausforderungen. Während Stiefväter oft als Spielgefährten wahrgenommen werden und mehr Freiheiten genießen, lastet auf Stiefmüttern ein deutlich höherer Erwartungsdruck. Traditionelle Rollenbilder und das Klischee der „bösen Stiefmutter" verstärken diesen Druck zusätzlich. Beide kämpfen mit Vorurteilen, doch Studien zeigen, dass es in Stiefmutterfamilien häufiger zu Konflikten kommt. Genau deshalb richten sich meine Angebote gezielt an Bonusmamas, die Unterstützung auf ihrem Weg verdienen.

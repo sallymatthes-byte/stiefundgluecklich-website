@@ -170,7 +170,6 @@ Niemand in einer Patchworkfamilie ist „einfach so da". Jede Beziehung wurde ak
 ---
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

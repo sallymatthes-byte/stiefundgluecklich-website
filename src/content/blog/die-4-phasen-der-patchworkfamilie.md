@@ -79,8 +79,6 @@ Es ist wichtig, in dieser Phase als Bonusmama auch Raum für individuelle Bedür
 
 Die Phase des „Performings" ist ein Erfolg für die Patchworkfamilie und zeigt, dass die Bemühungen und Opfer, die in den vorherigen Phasen gemacht wurden, sich gelohnt haben.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Jede Patchworkfamilie durchläuft vier Phasen: Im „Forming" lernt ihr euch kennen und tastet euch aneinander heran. Das „Storming" bringt Konflikte und unterschiedliche Erwartungen ans Licht. Im „Norming" entwickelt ihr gemeinsame Regeln und Routinen. Und im „Performing" funktioniert das Zusammenleben harmonisch und eingespielt. Wichtig zu wissen: Sobald sich etwas in der Konstellation verändert, beginnt der Kreislauf von vorne. Das ist völlig normal und kein Rückschritt.

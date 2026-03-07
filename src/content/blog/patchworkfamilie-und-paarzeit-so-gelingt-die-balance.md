@@ -61,7 +61,6 @@ Der Weg dahin führte über drei entscheidende Schritte:
 Vielleicht erkennst du dich in dieser Geschichte wieder. Vielleicht sehnst du dich nach echten Momenten der Zweisamkeit, nach tieferer emotionaler Verbindung trotz Familienalltag oder nach einem Weg, Partnerschaft und Familie endlich in Balance zu bringen. Dann wisse: Du bist nicht allein mit diesem Gefühl — und es gibt einen Weg zurück zueinander.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

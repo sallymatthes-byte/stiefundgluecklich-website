@@ -145,8 +145,6 @@ Der Beziehungsaufbau zu den Kindern deines Partners ist ein Marathon, kein Sprin
 
 ---
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Stiefmutter sein ist eine der anspruchsvollsten Rollen, die es gibt — und eine der am wenigsten anerkannten. **Du brauchst keine Erlaubnis, um deine Rolle selbst zu definieren.** Ob du dich Stiefmutter, Bonusmama oder einfach „die Partnerin" nennst: Entscheidend ist, dass du deinen eigenen Weg findest, Grenzen setzt und dir Unterstützung holst, wenn du sie brauchst. Du bist nicht allein damit.

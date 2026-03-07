@@ -85,8 +85,6 @@ Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend m
 
 Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) hat ihre eigenen finanziellen Herausforderungen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Unterhalt, Kindergeld und Steuern sind in Deutschland, Österreich und der Schweiz sehr unterschiedlich geregelt – und diese Unterschiede beeinflussen direkt, wie viel für euch als Paar übrig bleibt. Als Bonusmama hast du das Recht, eure finanzielle Situation aktiv mitzugestalten. Der wichtigste Schritt ist eine ehrliche Bestandsaufnahme eurer Finanzen, eine faire Kostenverteilung und offene Kommunikation mit deinem Partner. Finanzielle Sicherheit in der Patchworkfamilie entsteht nicht durch Verzicht, sondern durch bewusste gemeinsame Entscheidungen.

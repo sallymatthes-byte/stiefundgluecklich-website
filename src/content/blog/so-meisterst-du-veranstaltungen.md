@@ -76,8 +76,6 @@ Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausf�
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Veranstaltungen wie Schulfeste oder Familienfeiern können für Bonusmamas eine echte Herausforderung sein — Unsicherheit, Vergleiche mit der leiblichen Mutter und unklare Rollenerwartungen nagen am Selbstbewusstsein. Der Schlüssel liegt in guter Vorbereitung, offener Kommunikation mit dem Partner und einer bewussten inneren Haltung. Besprecht vorher gemeinsam, wie ihr euch gegenseitig unterstützen könnt, und gebt euch klare Zeichen für brenzlige Momente. Mit jeder Veranstaltung wächst dein Selbstvertrauen — und du wirst deine Rolle als Bonusmama mit immer mehr Leichtigkeit und Stolz ausfüllen.

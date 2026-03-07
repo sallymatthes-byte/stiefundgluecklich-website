@@ -77,8 +77,6 @@ Es ist verständlich, dass du Angst hast, dass die Beziehung in die Brüche gehe
 
 Du darfst deine eigenen Gefühle und Bedenken ansprechen und dich aktiv in die Gestaltung der gemeinsamen Wohnung und des Familienlebens einbringen. Denn letztendlich geht es darum, **eine sichere Bindung in der Patchworkfamilie aufzubauen** und ein harmonisches Patchworkfamilienleben zu führen, in dem du dich als Bonusmama wohlfühlst und deine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) mit *Freude* und *Selbstvertrauen* ausfüllen kannst.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Ängste und Bedenken, die du als Bonusmama hast, sind völlig normal und du solltest sie unbedingt ansprechen. So vermeidest du Konflikte und fühlst dich ebenso wohl wie der Rest deiner Patchworkfamilie. Eine gute Planung, offene Kommunikation und gegenseitiger Respekt sind die Grundpfeiler für ein gelungenes Zusammenleben. Wenn ihr die Bedürfnisse aller Beteiligten ernst nehmt, kann eure gemeinsame Wohnung zu einem echten Zuhause für die ganze Familie werden.

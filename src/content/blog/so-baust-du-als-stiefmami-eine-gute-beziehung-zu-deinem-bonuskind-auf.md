@@ -86,8 +86,6 @@ Gleichzeitig ist es wichtig, dass du deine *eigenen Grenzen* klar kommunizierst 
 
 Selbstfürsorge und das Setzen von Grenzen sind kein Egoismus, sondern eine Voraussetzung dafür, dass du als Bonusmama eine gesunde und erfüllende Beziehung zu deinen Stiefkindern aufbauen kannst. Indem du auf dich selbst achtest und deine eigenen Bedürfnisse respektierst, kannst du authentisch und liebevoll in der Patchworkfamilie agieren.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Der Beziehungsaufbau zum Bonuskind braucht vor allem eines: Zeit, Geduld und echtes Interesse. Mit den fünf Schritten — von Geduld über gemeinsame Aktivitäten bis hin zu offener Kommunikation — legst du ein starkes Fundament für eure Bindung. Gleichzeitig darfst du nicht vergessen, auf dich selbst zu achten: Selbstfürsorge und klare Grenzen sind kein Egoismus, sondern die Basis dafür, dass du authentisch und liebevoll für dein Bonuskind da sein kannst. Dennoch kann es zu Konflikten und Herausforderungen kommen, denen du dann mit viel Verständnis und Selbstfürsorge entgegentreten kannst.

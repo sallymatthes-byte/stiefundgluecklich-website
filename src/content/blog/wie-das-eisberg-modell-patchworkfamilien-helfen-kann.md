@@ -70,8 +70,6 @@ Klar, das Eisberg-Modell klingt in der Theorie super – aber wie setzen wir es 
 
 Klar, niemand von uns wird über Nacht zum Eisberg-Experten. Wir alle haben unsere blinden Flecken und verfallen manchmal in alte Muster. Aber mit jeder Begegnung, in der wir unter die Oberfläche schauen und uns mit Verständnis begegnen, werden wir als Familie stärker. Also sei geduldig mit dir und deinen Lieben – und vertrau darauf, dass jeder Eisberg-Moment ein Geschenk ist, das euch einander näherbringt.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Das Eisberg-Modell zeigt uns, dass hinter jedem Verhalten – ob trotziges Bonuskind oder gereizter Partner – verborgene Gefühle, Ängste und unerfüllte Bedürfnisse stecken. Gerade in Patchworkfamilien prallen viele unsichtbare Eisberge aufeinander: alte Verletzungen, Loyalitätskonflikte und unbewusste Prägungen. Wenn wir lernen, unter die Oberfläche zu schauen, können wir einfühlsamer reagieren und echte Verbindung schaffen. Der Schlüssel liegt darin, neugierig statt vorwurfsvoll zu fragen und Verständnis vor Lösungen zu stellen. So wird aus Frust ein Miteinander, das eure Familie wirklich stärkt.

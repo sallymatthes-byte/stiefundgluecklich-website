@@ -102,7 +102,6 @@ Was wäre, wenn du…
 Die Rechte der Stiefmütter sind kein Luxus — sie sind die Grundlage für ein [erfülltes Leben in der Patchworkfamilie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/). Fang heute damit an, sie einzufordern.
 
 <!-- FAQ_START
-*Stand: März 2026*
 
 ## Häufige Fragen
 

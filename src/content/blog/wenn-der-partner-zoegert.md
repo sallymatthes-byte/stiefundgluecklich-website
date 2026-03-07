@@ -40,8 +40,6 @@ Wichtig ist, dass ihr *geduldig und liebevoll* miteinander kommuniziert. Akzepti
 
 ![Frau blickt nachdenklich aus dem Fenster und denkt über ihre Beziehung nach](/images/blog/wenn-der-partner-zoegert-3.jpg)
 
-*Stand: März 2026*
-
 ## Wenn das Zögern zur Dauerbremse wird
 
 Frag dich ehrlich:

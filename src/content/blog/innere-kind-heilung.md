@@ -65,8 +65,6 @@ Die Auseinandersetzung mit unseren Triggerpunkten eröffnet uns zudem die Mögli
 
 Betrachte die Herausforderungen mit deinen Bonuskindern als eine Einladung zu *innerem Wachstum* und Entfaltung. Vertraue darauf, dass jede schwierige Situation dich letztendlich stärker, weiser und liebevoller macht. Erlaube dir, an den Triggerpunkten zu wachsen und zu reifen – und wisse, dass du durch diesen Prozess nicht nur dir selbst, sondern auch deinen Bonuskindern ein wertvolles Geschenk machst.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Bonuskinder können unbewusst alte Wunden aus unserer Kindheit berühren und intensive Emotionen auslösen. Diese Triggerpunkte sind jedoch kein Zeichen von Schwäche, sondern eine Einladung zur inneren Heilung. Indem du deine Gefühle achtsam beobachtest und annimmst, schaffst du einen sicheren Raum für dein verletztes inneres Kind. Mit Selbstfürsorge, Reflexion und Geduld kannst du alte Muster auflösen und neue, gesündere Wege im Umgang mit deiner Patchworkfamilie finden.

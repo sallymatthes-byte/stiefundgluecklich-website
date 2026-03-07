@@ -82,8 +82,6 @@ Mein Partner und ich sind uns einig, dass die Entscheidung für ein gemeinsames 
 
 Unser Weg als Patchworkfamilie ist sicherlich noch nicht zu Ende. Es werden immer wieder neue Herausforderungen auf uns zukommen. Doch ich bin zuversichtlich, dass wir diese gemeinsam meistern werden. Mit Liebe, Verständnis und dem Willen, füreinander da zu sein, können wir alles schaffen. *Unsere Patchworkfamilie ist zu einem Ort der Geborgenheit geworden – einem Zuhause, in dem jeder so sein darf, wie er ist, und bedingungslos geliebt wird.*
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Mein Weg als Bonusmama war alles andere als einfach – von Sprachbarrieren und Vergleichen mit der Ex-Partnerin bis hin zum Gefühl, nicht dazuzugehören. Das 3-Schritte-Framework aus **Analyse**, **Veränderungen initiieren** und **Kommunikation** hat mir geholfen, unsere Patchworkfamilie Schritt für Schritt zu stärken. Wenn du dich in meiner Geschichte wiedererkennst, dann wisse: Du bist nicht allein, und es gibt einen Weg zu mehr Harmonie. Der erste Schritt beginnt bei dir.

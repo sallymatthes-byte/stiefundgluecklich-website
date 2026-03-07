@@ -54,8 +54,6 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 *Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder ein Coaching, kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden. Wenn du merkst, dass dich [Selbstzweifel](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) immer weiter runterziehen, ist das ein klares Zeichen, dir Unterstützung zu holen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Schuldgefühle gehören für viele Bonusmamas zum Alltag — ob wegen Grenzen, Gefühlen oder dem Wunsch nach Zeit für sich selbst. Diese Gefühle sind normal und zeigen, dass dir die Familie am Herzen liegt. Entscheidend ist, dass du lernst, zwischen berechtigter Selbstreflexion und überzogenen Erwartungen zu unterscheiden. Offene Kommunikation, ehrliche Selbstreflexion und der Mut, dir Unterstützung zu suchen, sind die wichtigsten Schritte raus aus der Schuldfalle.

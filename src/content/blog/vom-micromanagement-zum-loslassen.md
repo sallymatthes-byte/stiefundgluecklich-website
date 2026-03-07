@@ -83,8 +83,6 @@ Besprich mit deinem [Partner](/blog/das-vier-ohren-modell/), wie ihr Verantwortu
 
 Loslassen hat nicht nur meine Familie verändert, sondern auch mich selbst. Ich habe gelernt, dass Vertrauen und Geduld viel mehr bewirken können als Kontrolle.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Micromanagement in der Patchworkfamilie entsteht oft aus dem Wunsch, alles richtig zu machen — doch es frisst deine Energie, blockiert die Eigenverantwortung deiner Stiefkinder und belastet deine Partnerschaft. Der Weg raus führt über drei Schritte: Verstehen, warum du kontrollierst, Schritt für Schritt loslassen und offen mit deiner Familie über Vertrauen und Aufgabenteilung sprechen. Loslassen bedeutet nicht, dass dir alles egal ist — es bedeutet, dass du deiner Familie zutraust, ihren eigenen Weg zu finden.

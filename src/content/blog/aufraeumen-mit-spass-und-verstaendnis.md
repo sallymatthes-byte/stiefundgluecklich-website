@@ -66,8 +66,6 @@ Schulkinder (5-10 Jahre):
 
 *Wichtig ist, dass du die Methoden an die individuellen Vorlieben und Fähigkeiten deiner Bonuskinder anpasst.* Experimentiere mit verschiedenen Ansätzen und finde heraus, was für eure Familie am besten funktioniert. Mit Spaß und Fantasie wird das Aufräumen zu einer positiven Erfahrung für alle Beteiligten.
 
-*Stand: März 2026*
-
 ## Tipps für eine aufgeräumte Patchwork-Wohnung
 
 - **Vereinbart altersangemessene Regeln:** Setze dich mit deinem Partner zusammen und legt fest, welche Aufräum-Regeln für eure Familie gelten sollen. Achtet darauf, dass sie klar, verständlich und dem Alter der Kinder angemessen sind.

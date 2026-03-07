@@ -84,8 +84,6 @@ Marions Geschichte zeigt eindrucksvoll, welche positive Veränderung möglich is
 
 Heute ist Marion eine Inspiration für viele andere Patchwork-Familien. Sie macht Mut, dass es sich lohnt, für seine Träume und Wünsche einzustehen und aktiv an einer harmonischen Familiendynamik zu arbeiten. Ihre Verwandlung ist ein leuchtendes Beispiel dafür, dass es möglich ist, aus der Rolle der verunsicherten Außenseiterin in die einer selbstbewussten und liebevollen Bonusmama zu schlüpfen.
 
-*Stand: März 2026*
-
 ## Zusammenfassung
 
 Marion war früher die beste Freundin der Kindsmutter und wurde über Nacht zur Bonusmama – mit allen Gerüchten, Anfeindungen und Selbstzweifeln, die dieser Rollenwechsel mit sich brachte. Mithilfe des 3-Schritte-Frameworks aus Analyse, Veränderung und Kommunikation lernte sie, sich abzugrenzen, ihre Bedürfnisse klar zu formulieren und die Beziehungen innerhalb der Familie zu stärken. Heute steht Marion selbstbewusst in ihrer Rolle als Bonusmama und zeigt, dass es möglich ist, auch aus den schwierigsten Ausgangssituationen gestärkt hervorzugehen. Ihre Geschichte beweist: Der Weg von der verunsicherten Außenseiterin zur liebevollen Patchwork-Mama gelingt, wenn du bereit bist, an dir zu arbeiten und neue Seiten an dir zu entdecken.
