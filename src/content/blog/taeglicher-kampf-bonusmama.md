@@ -36,6 +36,9 @@ Es ist der Blick des Stiefkindes, der durch dich hindurchgeht. Es ist das Famili
 
 **Diese kleinen Momente addieren sich.** Nicht zu einem großen Knall — sondern zu einer stillen, schleichenden Erschöpfung, die niemand außer dir sieht.
 
+
+---
+
 ## Warum fühlt sich alles doppelt so schwer an?
 
 Als Bonusmama arbeitest du emotional im Doppelshift. Das ist keine Übertreibung — das ist Realität.
@@ -47,6 +50,9 @@ Als Bonusmama arbeitest du emotional im Doppelshift. Das ist keine Übertreibung
 Und das Schlimmste daran: **Niemand sieht es.** Dein Partner denkt, es läuft. Die Kinder merken nichts. Deine Freundinnen verstehen es nicht — „Du hast dich doch drauf eingelassen." Und du? Du schweigst.
 
 ![Frau steht allein in der Küche und schaut aus dem Fenster — der emotionale Doppelshift als Bonusmama](/images/blog/taeglicher-kampf-bonusmama-2.jpg)
+
+
+---
 
 ## Warum schweigen Bonusmamas?
 
@@ -62,6 +68,9 @@ Und so entsteht ein Kreislauf: Du schweigst. Du funktionierst. Du schweigst weit
 
 Das ist kein Versagen. Das ist **eine normale Reaktion** auf eine unnormale Belastung.
 
+
+---
+
 ## Was macht das langfristig mit dir?
 
 Ich sage dir, was passiert, wenn du zu lange schweigst — weil ich es selbst erlebt habe.
@@ -75,6 +84,9 @@ Ich sage dir, was passiert, wenn du zu lange schweigst — weil ich es selbst er
 Und irgendwann stehst du an einem Punkt, an dem du denkst: **„Ich schaffe das nicht mehr."** Ich kenne diesen Punkt. Ich war dort. Und ich sage dir: Das heißt nicht, dass du schwach bist. Das heißt, dass du **zu lange allein getragen** hast, was nicht für eine Person allein gedacht war. Vielleicht erkennst du dich auch im [Gefühl des Scheiterns als Bonusmama](/blog/das-gefuehl-des-scheiterns-als-bonusmama/) wieder — und merkst, dass es vielen so geht.
 
 ![Frau sitzt auf dem Bett und hält sich die Hände vors Gesicht — Erschöpfung und Rückzug als Bonusmama](/images/blog/taeglicher-kampf-bonusmama-3.jpg)
+
+
+---
 
 ## Was hilft wirklich?
 
@@ -90,6 +102,9 @@ Keine Platitüden. Kein „nimm dir mal ein Bad." Hier ist, was tatsächlich ein
 
 Deinen Platz in dieser Familie — den nimmt dir niemand. Aber du musst ihn dir *nehmen*. Aktiv. Bewusst. Mit klaren Worten und dem Mut, unbequem zu sein. Wenn du tiefer einsteigen willst, lies auch: [So wirst du als Bonusmama wieder gesehen](/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen/).
 
+
+---
+
 ## Was kann ich aus meiner eigenen Geschichte lernen?
 
 Es gab Momente, in denen ich gedacht habe: Ich kann das nicht. Ich bin nicht stark genug dafür. Ich bin nicht *gemacht* für diese Rolle.
@@ -98,11 +113,17 @@ Und weißt du was? Diese Momente waren keine Schwäche. Sie waren ehrlich. Sie w
 
 **Du bist nicht verrückt**, weil dich die kleinen Dinge treffen. Du bist menschlich. Und du verdienst es, gesehen zu werden — nicht trotz deiner Rolle als Bonusmama, sondern *in* dieser Rolle. Auch deine [Glaubenssätze als Bonusmama](/blog/glaubenssaetze-als-bonusmama/) spielen dabei eine große Rolle — es lohnt sich, genauer hinzuschauen.
 
+
+---
+
 ## Zusammenfassung
 
 Der tägliche Kampf als Bonusmama besteht nicht aus großen Dramen, sondern aus den kleinen, unsichtbaren Momenten, die dich still erschöpfen. Der emotionale Doppelshift — nach außen funktionieren, nach innen kämpfen — kostet enorm viel Kraft. Schweigen macht es schlimmer: Es führt zu Rückzug, Erschöpfung und Ressentiments. Was wirklich hilft: Sprich aus, was ist. Benenne deine Bedürfnisse. Und hör auf, dich für deine Gefühle zu entschuldigen. Du darfst kämpfen — aber du musst nicht leiden.
 
 <!-- FAQ_START
+
+---
+
 ## Häufige Fragen
 
 ### Ist es normal, dass ich mich als Bonusmama so erschöpft fühle?

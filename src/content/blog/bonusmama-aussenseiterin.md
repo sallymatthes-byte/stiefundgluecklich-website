@@ -38,6 +38,9 @@ Stell dir das so vor: **Dein Partner und seine Kinder sind ein eingespieltes Tea
 
 Das ist wie eine neue Kollegin, die in ein Team kommt, das seit Jahren zusammenarbeitet. Alle kennen die ungeschriebenen Regeln, alle haben ihre Insider-Witze. Und du sitzt beim Mittagessen dabei und lächelst, obwohl du die Hälfte nicht verstehst. **Der Unterschied: Im Job darfst du das blöd finden. In der Familie denkst du, du musst es einfach aushalten.**
 
+
+---
+
 ## Was macht diesen Außenseiter-Status so schmerzhaft?
 
 Das Tückische ist nicht nur das Gefühl selbst. Es ist die Kombination aus Gefühl und Erwartung.
@@ -52,6 +55,9 @@ Ich kenne diese Gedanken. Jede Bonusmama kennt sie. Und ich sage dir: **Dein Sch
 
 ![Frau steht am Fenster und blickt nachdenklich nach draußen, warmes Licht fällt auf ihr Gesicht](/images/blog/bonusmama-aussenseiterin-2.jpg)
 
+
+---
+
 ## Was hilft dir definitiv nicht weiter?
 
 Bevor wir darüber reden, was funktioniert — lass uns kurz klären, was *nicht* funktioniert. Weil du es wahrscheinlich schon versucht hast.
@@ -61,6 +67,9 @@ Bevor wir darüber reden, was funktioniert — lass uns kurz klären, was *nicht
 **Dich verstellen, um den Kindern zu gefallen.** Du spielst die coole Bonusmama, die alles mitmacht, keine Regeln aufstellt und bloß nicht aneckt. Aber Kinder spüren Unechtheit. Und du verlierst die eine Sache, die du in dieser Rolle am meisten brauchst: deine Authentizität.
 
 **Deine Bedürfnisse unterdrücken, um den Frieden zu wahren.** Kurzfristig gibt es weniger Konflikte. Langfristig wächst die Wut. Und irgendwann explodierst du — wegen einer Kleinigkeit, die eigentlich nur der Tropfen war, der das Fass zum Überlaufen brachte.
+
+
+---
 
 ## Wie kannst du deinen Platz in der Familie finden?
 
@@ -100,11 +109,17 @@ Ich sitze heute nicht mehr allein in der letzten Reihe. Aber der Weg dahin war k
 
 **Es kommt. Aber es kommt auf seine eigene Art. Und in seiner eigenen Zeit.**
 
+
+---
+
 ## Zusammenfassung
 
 Das Gefühl, als Bonusmama eine Außenseiterin zu sein, ist keine Einbildung und kein Versagen. Es ist eine strukturelle Realität in Patchworkfamilien — die Insider-Outsider-Dynamik betrifft fast jede Bonusmama. Was nicht hilft: dich anpassen, verstellen oder deine Bedürfnisse unterdrücken. Was hilft: verstehen, dass die Kinder ihr System schützen, 1:1-Momente suchen, ehrlich mit deinem Partner kommunizieren und dem Prozess Zeit geben. Zugehörigkeit entsteht nicht über Nacht — aber sie entsteht.
 
 <!-- FAQ_START
+
+
+---
 
 ## Häufige Fragen
 
