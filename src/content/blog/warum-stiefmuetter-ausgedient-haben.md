@@ -16,7 +16,7 @@ podcastDescription: "Weshalb der Begriff Stiefmutter ausgedient hat und welche m
 
 **Der Begriff „Stiefmutter" stammt aus dem Althochdeutschen und bedeutet wörtlich „Ersatzmutter" — ein Konzept, das in modernen Patchworkfamilien keinen Platz mehr hat.** Heute lebt die leibliche Mutter in den allermeisten Fällen. Niemand muss ersetzt werden. Was es braucht, sind neue Worte, die beschreiben, was du *wirklich* bist: eine zusätzliche Bezugsperson im Leben eines Kindes.
 
-Du sitzt am Küchentisch, das Bonuskind macht Hausaufgaben, und jemand fragt: „Bist du die Stiefmutter?" Und du merkst, wie sich alles in dir zusammenzieht. Weil dieses Wort nicht beschreibt, wer du bist. Es beschreibt ein Märchenbild, das mit deinem Alltag *nichts* zu tun hat. Und trotzdem klebt es an dir wie ein Etikett, das jemand anderes aufgedruckt hat.
+Du sitzt am Küchentisch, das Bonuskind macht Hausaufgaben, und jemand fragt: „Bist du die Stiefmutter?" Und du merkst, wie sich alles in dir zusammenzieht. Weil dieses Wort nicht beschreibt, wer du bist. Es beschreibt ein Märchenbild, das mit deinem Alltag *nichts* zu tun hat. Und trotzdem klebt es an dir wie ein Etikett, das jemand anderes aufgedruckt hat. Ich bin Sally, systemischer Coach und selbst Bonusmama — und dieses Thema liegt mir besonders am Herzen.
 
 ---
 

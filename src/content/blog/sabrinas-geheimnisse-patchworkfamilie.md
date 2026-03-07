@@ -16,7 +16,7 @@ podcastDescription: "Sabrina lebt mit 5 Mädchen in einer Patchworkfamilie und t
 
 **Eine erfüllte Patchworkfamilie entsteht nicht durch Zufall — sie entsteht durch bewusste Entscheidungen, ehrliche Kommunikation und den Mut, die eigene Rolle immer wieder neu zu definieren.** Sabrina weiß das aus eigener Erfahrung. Sie lebt mit fünf Mädchen zwischen 10 und 14 Jahren unter einem Dach — drei davon sind die Töchter ihres Partners, zwei ihre eigenen. Kein Handbuch, kein Masterplan. Dafür jede Menge Learnings, die sie in unserem Gespräch offen geteilt hat.
 
-Was Sabrina besonders macht: Sie romantisiert nichts. Sie nennt sich bewusst nicht Bonusmama, hat einen kreativen Ansatz für den Haushalt mit fünf Teenies und weiß, dass nicht jedes Problem ein Patchwork-Problem ist. Ihre Geschichte zeigt, dass eine Patchworkfamilie nicht trotz ihrer Komplexität funktionieren kann — sondern *wegen* der Haltung, mit der du ihr begegnest.
+Was Sabrina besonders macht: Sie romantisiert nichts. Sie nennt sich bewusst nicht Bonusmama, hat einen kreativen Ansatz für den Haushalt mit fünf Teenies und weiß, dass nicht jedes Problem ein Patchwork-Problem ist. Als systemischer Coach und selbst Bonusmama habe ich Sabrina als allererste Gästin in meinen Podcast eingeladen. Ihre Geschichte zeigt, dass eine Patchworkfamilie nicht trotz ihrer Komplexität funktionieren kann — sondern *wegen* der Haltung, mit der du ihr begegnest.
 
 ---
 

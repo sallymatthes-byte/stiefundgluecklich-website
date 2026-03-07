@@ -21,7 +21,7 @@ podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus
 
 ## Warum wir so selten die Papa-Perspektive hören
 
-Ich spreche in meinem Podcast regelmäßig mit Bonusmamas. Mit Frauen, die sich öffnen, die erzählen, wie es sich anfühlt, in ein bestehendes Familiensystem zu kommen. Aber weißt du, was ich fast nie höre? **Die Seite des Papas.**
+Als systemischer Coach und Bonusmama spreche ich in meinem Podcast regelmäßig mit Bonusmamas. Mit Frauen, die sich öffnen, die erzählen, wie es sich anfühlt, in ein bestehendes Familiensystem zu kommen. Aber weißt du, was ich fast nie höre? **Die Seite des Papas.**
 
 Nicht weil Papas nichts zu sagen hätten. Sondern weil sie oft selbst nicht wissen, *was* sie sagen sollen. Weil sie das Gefühl haben, es läuft doch irgendwie. Weil sie nicht verstehen, warum ihre Partnerin manchmal so *verletzt* ist — obwohl sie doch alles geben.
 

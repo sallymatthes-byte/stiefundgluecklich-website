@@ -20,7 +20,7 @@ Du kennst das vielleicht: Dein Partner hat sich getrennt, eine neue Familie gegr
 
 Das Wort „Narzissmus" fällt schnell — manchmal zu schnell. Aber manchmal beschreibt es genau das, was du erlebst. Nicht als Diagnose, nicht als Schimpfwort, sondern als Erklärung für Muster, die sich anders nicht einordnen lassen.
 
-Ich habe mit Steffi Sophia darüber gesprochen — sie ist selbst Patchwork-Mama, Coach für toxische Trennungen und kennt diese Dynamiken aus eigener Erfahrung und aus der Arbeit mit hunderten betroffenen Familien.
+Als systemischer Coach und selbst Bonusmama habe ich mit Steffi Sophia darüber gesprochen — sie ist selbst Patchwork-Mama, Coach für toxische Trennungen und kennt diese Dynamiken aus eigener Erfahrung und aus der Arbeit mit hunderten betroffenen Familien.
 
 ---
 

@@ -25,7 +25,7 @@ Morgens klingelt das Handy. Eine Nachricht von der Ex-Partnerin — irgendetwas 
 
 Aber nichts ist gut. Du funktionierst. Du hältst zusammen, was ohne dich auseinanderfallen würde. Und *niemand sieht es*.
 
-Das ist kein schlechter Tag. Das ist Alltag. Und genau in diesem Alltag verlieren sich so viele Bonusmamas — nicht mit einem großen Knall, sondern Stück für Stück. Leise. Unsichtbar. Wie das ganze System, in dem sie sich bewegen.
+Das ist kein schlechter Tag. Das ist Alltag. Ich bin Sally, systemischer Coach und selbst Bonusmama — und ich höre diese Geschichten jede Woche. Und genau in diesem Alltag verlieren sich so viele Bonusmamas — nicht mit einem großen Knall, sondern Stück für Stück. Leise. Unsichtbar. Wie das ganze System, in dem sie sich bewegen.
 
 ---
 
