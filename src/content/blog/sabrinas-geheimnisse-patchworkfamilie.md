@@ -20,7 +20,7 @@ Was Sabrina besonders macht: Sie romantisiert nichts. Sie nennt sich bewusst nic
 
 ---
 
-🎙 **Passend dazu:** [Sabrinas Geheimnisse für eine erfüllte Patchworkfamilie](https://open.spotify.com/episode/6CxnZVzwBhniHWWUbjGpjb) — 52 Minuten ehrliches Gespräch über Zoo-Dates, WhatsApp-Dramen und warum ein Punktesystem den Familienfrieden retten kann.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Sabrinas Geheimnisse für eine erfüllte Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/episode/6CxnZVzwBhniHWWUbjGpjb) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -36,6 +36,9 @@ Wenn du vor einem ähnlichen Moment stehst, nimm dir Sabrinas Ansatz zu Herzen: 
 
 ![Mädchen im Teenageralter sitzen zusammen auf einer Wiese, Sommer, natürliches Licht](/images/blog/sabrinas-geheimnisse-patchworkfamilie-2.jpg)
 
+
+---
+
 ## „Die haben ja eine Mama" — Warum Sabrina sich nicht Bonusmama nennt
 
 Hier wird es spannend, denn Sabrina bricht mit einem Begriff, den viele in der Community selbstverständlich nutzen. Sie nennt sich nicht Bonusmama. Nicht aus Ablehnung, sondern aus *Respekt*.
@@ -46,6 +49,9 @@ Für Sabrina ist das keine Herabstufung — es ist eine **bewusste Entscheidung*
 
 Das ist mutig. Denn in einer Welt, in der wir ständig nach Zugehörigkeit suchen, fällt es schwer, eine Bezeichnung loszulassen. Aber genau das kann *befreiend* sein: Wenn du dich nicht über einen Titel definierst, kannst du die Beziehung zu den Kindern so gestalten, wie sie sich *natürlich* entwickelt. Welche Rolle du in einer Patchworkkonstellation einnimmst, ist übrigens vielschichtiger als du denkst — in [Archetypen einer Bonusmama](/blog/archetypen-einer-bonusmama/) findest du verschiedene Modelle, die dir bei der Einordnung helfen können.
 
+
+---
+
 ## Fünf Mädchen, fünf Charaktere — und es funktioniert trotzdem
 
 Fünf Mädchen zwischen 10 und 14. Alle mitten in der Pubertät oder kurz davor. Unterschiedliche Mütter, unterschiedliche Erziehungsstile, unterschiedliche Persönlichkeiten. Klingt nach einem Rezept für Chaos — und ja, manchmal ist es das auch. Aber Sabrina beschreibt etwas *Bemerkenswertes*: Die Mädchen verstehen sich. Nicht immer, nicht konfliktfrei, aber grundsätzlich.
@@ -53,6 +59,9 @@ Fünf Mädchen zwischen 10 und 14. Alle mitten in der Pubertät oder kurz davor.
 Das passiert nicht von allein. Es passiert, weil Sabrina und ihr Partner **einen Rahmen geschaffen haben**, in dem alle Kinder gleichberechtigt sind. Keine Unterscheidung zwischen „meinen" und „deinen" Kindern im Alltag. Gleiche Regeln, gleiche Erwartungen, gleiche Wertschätzung.
 
 **Der Schlüssel ist Gleichbehandlung — nicht Gleichmacherei.** Jedes Kind darf anders sein. Aber die Grundregeln gelten für alle. Das gibt Sicherheit, besonders in einem Alter, in dem sich ohnehin alles verändert.
+
+
+---
 
 ## Wenn WhatsApp explodiert: Konflikte ernst nehmen, ohne sie aufzublasen
 
@@ -68,6 +77,9 @@ Gleichzeitig hat Sabrina den Konflikt nicht größer gemacht, als er war. Kein D
 
 ![Familienküche mit Aufgabenplan an der Wand, warmes Licht, Alltagsszene](/images/blog/sabrinas-geheimnisse-patchworkfamilie-3.jpg)
 
+
+---
+
 ## Nicht alles ist ein Patchwork-Problem
 
 Das ist vielleicht Sabrinas wichtigstes Learning — und eines, das in der Patchwork-Community viel zu selten ausgesprochen wird: **Nicht jedes schwierige Verhalten hat mit der Familienkonstellation zu tun.**
@@ -75,6 +87,9 @@ Das ist vielleicht Sabrinas wichtigstes Learning — und eines, das in der Patch
 Ein Kind, das sich zurückzieht? Kann am Schulwechsel liegen. An einem Streit mit der besten Freundin. An einem Verlust, der nichts mit der Trennung der Eltern zu tun hat. Sabrina hat gelernt, *genau hinzuschauen*, statt reflexartig alles auf die Patchworksituation zu schieben.
 
 Das entlastet — dich und die Kinder. Denn wenn du jedes Problem durch die Patchwork-Brille betrachtest, gibst du der Familienkonstellation eine Macht, die sie nicht verdient. Manchmal ist ein schlechter Tag einfach ein schlechter Tag. Und manchmal braucht ein Kind einfach eine Umarmung, keine Analyse. Auch hier lohnt es sich, die [häufigsten Fehler in Patchworkfamilien](/blog/die-groessten-fehler-patchworkfamilien/) zu kennen — denn einer davon ist genau dieser: alles auf „Patchwork" zu schieben.
+
+
+---
 
 ## Haushalt mit fünf Teenies: Aufgabenplan, Punktesystem und Familienausflüge
 
@@ -84,6 +99,9 @@ Jedes Kind hat Aufgaben, die wöchentlich wechseln. Für erledigte Aufgaben gibt
 
 Das Brillante daran: Es geht nicht um Kontrolle. Es geht um *Fairness*. Kein Kind kann sagen „Ich muss immer alles machen!" — weil die Rotation das verhindert. Und der Familienausflug als gemeinsames Ziel gibt dem Ganzen einen positiven Rahmen statt eines strafenden. Wenn du nach weiteren kreativen Wegen suchst, den Haushalt mit Kindern zu organisieren, schau dir [Aufräumen mit Spaß und Verständnis](/blog/aufraeumen-mit-spass-und-verstaendnis/) an.
 
+
+---
+
 ## Sabrinas eigene Geschichte: Vom Trennungskind zum Familiencoach
 
 Was vielen vielleicht nicht bewusst ist: Sabrina bringt nicht nur Erfahrung als Partnerin und Bezugsperson mit. Sie ist selbst ein *Trennungskind*. Ihr Vater ging, als sie eineinhalb Jahre alt war. Diese Erfahrung hat sie geprägt — und sie hat sie nicht verdrängt, sondern *verarbeitet*.
@@ -91,6 +109,9 @@ Was vielen vielleicht nicht bewusst ist: Sabrina bringt nicht nur Erfahrung als 
 Heute macht Sabrina eine Ausbildung zum Familiencoach. Sie will anderen Familien das weitergeben, was sie selbst gelernt hat: dass eine Patchworkfamilie nicht „kaputt" ist. Dass Kinder in neuen Konstellationen aufblühen können, wenn die Erwachsenen bereit sind, ihre eigene Geschichte zu reflektieren.
 
 **Das ist der rote Faden in Sabrinas Erzählung:** Nichts davon ist Zufall. Ihre Haltung — das bewusste Kennenlernen, die zurückhaltende Rolle, die Gleichbehandlung der Kinder, das kreative Haushaltsmanagement — all das kommt aus einer tiefen *Auseinandersetzung* mit sich selbst. Sabrina weiß, wie es sich anfühlt, wenn eine Familie auseinanderbricht. Und genau deshalb weiß sie auch, was es braucht, damit eine neue Familie zusammenwächst.
+
+
+---
 
 ## Was du von Sabrina mitnehmen kannst
 

@@ -34,6 +34,9 @@ Apropos Märchen: Wusstest du, dass in den Originalversionen der Brüder Grimm o
 
 Wenn du tiefer in die Frage eintauchen willst, ab wann man überhaupt in diese Rolle hineinwächst, lies auch [Ab wann ist man Stiefmutter?](/blog/ab-wann-ist-man-stiefmutter/).
 
+
+---
+
 ## Patchworkfamilien in Deutschland: Die Zahlen
 
 Patchworkfamilien sind längst keine Randerscheinung mehr. **Rund 1,6 Millionen Kinder in Deutschland wachsen in Patchworkfamilien auf** — das sind etwa 13 % aller Familien.
@@ -46,6 +49,9 @@ Diese Zahlen machen eines deutlich: **Patchworkfamilie ist ein Massenphänomen.*
 
 ![Frau sitzt nachdenklich am Fenster, weiches Licht, warme Farbtöne](/images/blog/warum-stiefmuetter-ausgedient-haben-2.jpg)
 
+
+---
+
 ## Drei Betreuungsmodelle — drei verschiedene Realitäten
 
 Wie du deine Rolle als Bonusmama erlebst, hängt stark davon ab, in welchem Betreuungsmodell die Familie lebt. Es gibt drei gängige Varianten:
@@ -57,6 +63,9 @@ Wie du deine Rolle als Bonusmama erlebst, hängt stark davon ab, in welchem Betr
 **Das Nestmodell** dreht den Spieß um: Nicht das Kind wechselt, sondern die Eltern. Das Kind bleibt in der Familienwohnung, und Mama und Papa ziehen abwechselnd ein und aus. Ein schönes Konzept für das Kind — aber organisatorisch anspruchsvoll und in der Praxis eher selten.
 
 Je nachdem, in welchem Modell du lebst, *fühlt* sich deine Rolle anders an. Im Residenzmodell bist du vielleicht die Wochenend-Bezugsperson. Im Wechselmodell bist du eine feste Größe im Alltag. **Das Modell bestimmt mit, wie viel Raum du einnehmen kannst — und wie viel Raum dir zugestanden wird.**
+
+
+---
 
 ## Bonusmama, Herzensmama, Co-Parent — welcher Begriff passt?
 
@@ -76,6 +85,9 @@ Wenn du mehr darüber erfahren willst, welche verschiedenen Rollen Bonusmamas ei
 
 ![Frau und Kind gehen Hand in Hand einen Weg entlang, Rückenansicht, natürliches Licht](/images/blog/warum-stiefmuetter-ausgedient-haben-3.jpg)
 
+
+---
+
 ## Warum der richtige Begriff so viel mehr ist als Semantik
 
 Vielleicht denkst du jetzt: Ist doch egal, wie ich mich nenne. Hauptsache, der Alltag funktioniert. Aber Sprache formt Realität. **Wie du dich nennst, beeinflusst, wie du dich in deiner Rolle *fühlst*.** Und wie andere dich wahrnehmen.
@@ -86,6 +98,9 @@ Vielleicht denkst du jetzt: Ist doch egal, wie ich mich nenne. Hauptsache, der A
 
 **Das Kind muss verstehen: Mama wird nicht ersetzt.** Die Bonusmama ist *zusätzlich* da. Diese Klarheit ist entscheidend, um [Loyalitätskonflikte](/blog/loyalitaetskonflikte-von-bonuskindern/) zu vermeiden. Ein Kind, das das Gefühl hat, die Bonusmama gern haben zu dürfen, ohne damit die Mama zu „verraten", kann sich entspannen. Es darf *beide* mögen — ohne schlechtes Gewissen.
 
+
+---
+
 ## Der Rollenkonflikt bleibt — egal welcher Begriff
 
 Auch der schönste Begriff löst nicht das Grunddilemma: Du sollst *mütterlich* sein, ohne Mutter zu sein. Du sollst dich kümmern, aber nicht zu viel bestimmen. Du sollst präsent sein, aber nicht zu präsent. **Die Erwartungen an dich kommen von allen Seiten — und sie widersprechen sich oft.**
@@ -95,6 +110,9 @@ Dein Partner erwartet vielleicht, dass du dich um seine Kinder kümmerst wie um 
 Dieser Rollenkonflikt lässt sich nicht mit einem neuen Etikett lösen. Aber ein bewusst gewählter Begriff kann dir helfen, deine *eigene* Definition zu finden. Du bist keine Stiefmutter, die eine Rolle ausfüllen muss, die jemand anderes geschrieben hat. Du bist eine Bonusmama, die ihre Rolle *selbst* gestaltet.
 
 Mehr darüber, wie du mit den verschiedenen Erwartungen umgehen kannst, findest du im Artikel über [die größten Fehler in Patchworkfamilien](/blog/die-groessten-fehler-patchworkfamilien/).
+
+
+---
 
 ## Zusammenfassung: Was du mitnehmen kannst
 

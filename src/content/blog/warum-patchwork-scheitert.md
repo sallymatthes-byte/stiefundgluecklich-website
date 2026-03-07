@@ -16,6 +16,9 @@ podcastDescription: "Warum Patchwork so oft emotional auf der Kippe steht und wi
 
 **Patchworkfamilien scheitern nicht, weil sich Menschen nicht lieben — sie scheitern an unsichtbaren Dynamiken, fehlender Orientierung und der Illusion, dass man es alleine schaffen muss.** Als Bonusmama trägst du eine riesige emotionale Rolle in einem System, das dir keinen offiziellen Platz gibt. Kein Titel, keine Anerkennung, keine Sprache für das, was du täglich leistest. Und genau das macht Patchwork so fragil — nicht die fehlende Liebe, sondern die fehlende Struktur.
 
+
+---
+
 ## Ein ganz normaler Tag
 
 Morgens klingelt das Handy. Eine Nachricht von der Ex-Partnerin — irgendetwas mit dem Wochenendplan, das *jetzt sofort* geklärt werden muss. Du stehst am Frühstückstisch, schmierst Brote, räumst die Küche auf. Kein „Danke". Kein „Schön, dass du das machst". Mittags nutzt du deine Pause, um Termine zu koordinieren, Übergaben zu planen, Abholzeiten abzustimmen. Abends fragt dein Partner: „Ist alles okay?" Und du sagst: „Ja, alles gut."
@@ -42,6 +45,9 @@ Und dann denkst du: Ich mache etwas falsch. Aber dir fehlt nicht die Kompetenz. 
 
 ![Frau lehnt nachdenklich an einer Wand, weiches Licht, ruhige Atmosphäre](/images/blog/warum-patchwork-scheitert-2.jpg)
 
+
+---
+
 ## Die unsichtbaren Dynamiken, die alles unterwandern
 
 Was Patchwork so *anstrengend* macht, sind nicht die offensichtlichen Konflikte. Es sind die Dinge, über die niemand spricht:
@@ -54,6 +60,9 @@ Was Patchwork so *anstrengend* macht, sind nicht die offensichtlichen Konflikte.
 
 Das alles passiert nicht, weil irgendjemand böse Absichten hat. Es passiert, weil das System Patchwork keine eingebauten Lösungen für diese Dynamiken hat. Du musst sie dir selbst bauen.
 
+
+---
+
 ## Die größte Illusion: „Ich schaff das alleine"
 
 Hier liegt der eigentliche Knackpunkt. **Patchwork scheitert an der Illusion, dass du es alleine schaffen musst.** Dass du stark genug sein musst, um alles zu tragen. Dass Fragen ein Zeichen von Schwäche ist. Dass du einfach nur genug *lieben* musst, dann wird schon alles gut.
@@ -63,6 +72,9 @@ Aber Liebe allein reicht nicht. Nicht in einem System, das so komplex ist wie ei
 Das ist übrigens auch einer der [größten Fehler in Patchworkfamilien](/blog/die-groessten-fehler-patchworkfamilien/): zu glauben, dass Durchhalten gleichbedeutend mit Stärke ist. Manchmal ist Stärke, innezuhalten und zu sagen: „So geht es nicht weiter."
 
 ![Frau steht am Fenster und schaut nach draußen, Morgenlicht, Aufbruchstimmung](/images/blog/warum-patchwork-scheitert-3.jpg)
+
+
+---
 
 ## Drei Schritte zurück zu dir
 
@@ -88,6 +100,9 @@ Verbindung heißt nicht Harmonie. Verbindung heißt: *kommunizieren statt schluc
 - „Ich möchte Teil des Systems sein, aber nicht unter Bedingungen, die mich auslaugen."
 
 Das ist [Kommunikation in Patchworkfamilien](/blog/kommunikation-in-patchworkfamilien/), die wirklich etwas verändert. Nicht perfekt formuliert. Nicht diplomatisch abgeschliffen. Sondern ehrlich.
+
+
+---
 
 ## Zusammenfassung: Woran Patchwork wirklich scheitert
 

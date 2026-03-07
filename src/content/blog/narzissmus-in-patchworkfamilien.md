@@ -36,6 +36,9 @@ Problematisch wird es, wenn diese Anteile so stark ausgeprägt sind, dass die Be
 
 Das ist wichtig zu verstehen: Es geht nicht darum, jemanden abzustempeln. Es geht darum, Muster zu erkennen, die dir schaden — und zu begreifen, warum bestimmte Gespräche, Absprachen und Kompromisse einfach *nicht funktionieren*, egal wie sehr du dich bemühst.
 
+
+---
+
 ## Wie erkennst du narzisstische Muster beim Ex-Partner?
 
 Die Trennung ist oft der Moment, in dem narzisstische Muster zum ersten Mal richtig sichtbar werden. Solange die Beziehung bestand, konnte vieles unter Kontrolle gehalten werden. Aber **wenn der narzisstische Partner die Kontrolle verliert — und genau das ist eine Trennung — bricht das System zusammen.**
@@ -54,6 +57,9 @@ Mehr darüber, welche Rolle der Ex-Partner in eurem System spielt, findest du in
 
 ![Frau sitzt nachdenklich am Fenster, warmes Licht, Patchwork-Alltag](/images/blog/narzissmus-in-patchworkfamilien-2.jpg)
 
+
+---
+
 ## Wie narzisstische Dynamiken die Patchworkfamilie belasten
 
 Was diese Situation so *zermürbend* macht: Der toxische Ex-Partner ist nicht Teil eures Haushalts — aber er steuert euer Familienleben trotzdem mit. Von außen. Und oft ohne, dass Außenstehende verstehen, was passiert.
@@ -71,6 +77,9 @@ Diese Belastung ist *real*. Du bildest dir das nicht ein. Und du bist nicht „z
 
 Wenn du dich fragst, wo deine Grenzen in diesem System sein dürfen: Lies auch meinen Artikel über [Grenzen setzen in der Patchworkfamilie](/blog/grenzen-setzen-in-der-patchworkfamilie/).
 
+
+---
+
 ## Wie du die Kinder schützen kannst
 
 Das vielleicht Schmerzhafteste an narzisstischen Dynamiken ist, was sie mit den Kindern machen. Kinder werden in diesen Konstellationen häufig als *Werkzeuge* benutzt — bewusst oder unbewusst. Sie werden instrumentalisiert, um Informationen zu sammeln, Botschaften zu übermitteln oder Loyalität einzufordern.
@@ -87,6 +96,9 @@ Was du tun kannst:
 Die [Loyalitätskonflikte von Bonuskindern](/blog/loyalitaetskonflikte-von-bonuskindern/) sind eines der schwierigsten Themen im Patchwork-Alltag. Wenn ein narzisstischer Elternteil diese Konflikte aktiv befeuert, brauchen die Kinder umso mehr Stabilität von eurer Seite.
 
 ![Mutter und Kind halten Händchen, Rückenansicht, warme Farben](/images/blog/narzissmus-in-patchworkfamilien-3.jpg)
+
+
+---
 
 ## Selbstschutz-Strategien: So schützt du dich im Alltag
 
@@ -119,6 +131,9 @@ Halte alles schriftlich fest. Screenshots von Nachrichten. Protokolle von Überg
 ### Professionelle Unterstützung holen
 
 Du musst das nicht alleine durchstehen. Therapeutische Begleitung, Coaching, rechtliche Beratung — das sind keine Zeichen von Schwäche. Das sind kluge Entscheidungen für dich und deine Familie.
+
+
+---
 
 ## Zusammenfassung: Du bist nicht hilflos
 

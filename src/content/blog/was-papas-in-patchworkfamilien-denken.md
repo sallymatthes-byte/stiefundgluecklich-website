@@ -16,6 +16,9 @@ podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus
 
 **In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.
 
+
+---
+
 ## Warum wir so selten die Papa-Perspektive hören
 
 Ich spreche in meinem Podcast regelmäßig mit Bonusmamas. Mit Frauen, die sich öffnen, die erzählen, wie es sich anfühlt, in ein bestehendes Familiensystem zu kommen. Aber weißt du, was ich fast nie höre? **Die Seite des Papas.**
@@ -44,6 +47,9 @@ Wenn du dich darin wiederfindest, lies auch meinen Artikel über [das Gefühl, a
 
 ![Paar sitzt auf einer Bank im Park und redet miteinander, warmes Licht](/images/blog/was-papas-in-patchworkfamilien-denken-2.jpg)
 
+
+---
+
 ## Die Kinder vorstellen — zwischen Offenheit und Unsicherheit
 
 Sascha hat einen Weg gewählt, den ich mir von mehr Papas wünschen würde: **Er hat offen mit seinen Kindern gesprochen.** Er hat ihnen gesagt, dass er jemanden kennengelernt hat. Und er hat gleichzeitig zugegeben, dass er selbst nicht genau weiß, wie das alles wird.
@@ -53,6 +59,9 @@ Das klingt vielleicht unspektakulär. Ist es aber nicht. Denn viele Väter mache
 Sascha hat stattdessen Unsicherheit eingestanden. Und das ist *stark*. Weil es den Kindern signalisiert: Ich nehme eure Gefühle ernst. Ich weiß nicht alles. Aber ich bin ehrlich mit euch.
 
 Wenn du gerade in der Phase bist, in der ihr überlegt, wie ihr die Kinder einbezieht — dann schau dir auch die [10 Fragen für deine Beziehung](/blog/10-fragen-fuer-deine-beziehung/) an. Denn bevor die Kinder ins Spiel kommen, muss eure Basis als Paar stimmen.
+
+
+---
 
 ## „Ich wollte doch nur Nummer eins sein" — wenn Bedürfnisse unsichtbar werden
 
@@ -67,6 +76,9 @@ Kennst du diesen Satz? **„Du wusstest doch, worauf du dich einlässt."** Er is
 Die Wahrheit ist: Niemand weiß vorher, wie sich Patchwork *wirklich* anfühlt. Du kannst es dir vorstellen. Aber das Gefühl, wenn dein Partner zum dritten Mal den gemeinsamen Abend absagt, weil sein Kind nicht einschlafen kann — das kannst du dir nicht anlesen. Das musst du durchleben.
 
 Wie du in solchen Momenten [klare Grenzen setzen](/blog/grenzen-setzen-in-der-patchworkfamilie/) kannst, ohne die Beziehung zu gefährden, ist eine der wichtigsten Fähigkeiten als Bonusmama.
+
+
+---
 
 ## Das Feld von hinten aufgerollt — warum Patchwork-Liebe anders funktioniert
 
@@ -84,6 +96,9 @@ Wenn du gerade in dieser schweren Anfangsphase steckst und dich fragst, ob das a
 
 ![Zwei Hände halten eine Tasse Kaffee zusammen, gemütliche Atmosphäre](/images/blog/was-papas-in-patchworkfamilien-denken-3.jpg)
 
+
+---
+
 ## Was Stimmen von außen mit euch machen
 
 Ein Thema, das im Gespräch mit Jani und Sascha immer wieder auftauchte: **die Meinungen anderer.**
@@ -98,6 +113,9 @@ Gleichzeitig wurde sie von ihrer eigenen Familie gelobt: „Toll, dass du dich d
 
 Wenn du das Gefühl kennst, dich als [Außenseiterin in der Patchworkfamilie](/blog/aussenseiter-patchworkfamilie/) zu fühlen — auch weil dein Umfeld deine Situation nicht versteht — dann bist du nicht allein.
 
+
+---
+
 ## Coaching als Wendepunkt
 
 Jani war kurz davor aufzugeben. Das hat sie im Gespräch offen gesagt. **Ohne das Coaching wäre sie nicht mehr in der Beziehung.**
@@ -106,6 +124,9 @@ Was sich durch das Coaching verändert hat: Jani hat gelernt, ihre Bedürfnisse 
 
 Das ist vielleicht die wichtigste Erkenntnis aus diesem Gespräch: **Es geht nicht darum, wer recht hat.** Es geht darum, dass beide Perspektiven gleichzeitig wahr sein können. Für Sascha war der Schritt klein. Für Jani war er riesig. Beides stimmt. Und erst wenn beide das anerkennen, kann [echte Kommunikation in der Patchworkfamilie](/blog/kommunikation-in-patchworkfamilien/) entstehen.
 
+
+---
+
 ## Romantische Beziehung auf Platz eins — ohne Konkurrenzdenken
 
 Ein letzter Punkt, der mir wichtig ist: Jani und Sascha haben für sich eine klare Ordnung gefunden. **Ihre romantische Beziehung steht auf Platz eins.** Die Kinder stehen auf einer *anderen* Ebene — nicht darunter, nicht darüber. Es ist kein Ranking. Es sind verschiedene Ebenen der Liebe.
@@ -113,6 +134,9 @@ Ein letzter Punkt, der mir wichtig ist: Jani und Sascha haben für sich eine kla
 Das klingt einfach. Ist es aber nicht. Denn als Bonusmama hast du oft das Gefühl, dass du *gegen* die Kinder antreten musst. Dass du dich beweisen musst. Dass du nur dann wertvoll bist, wenn du auch als Mama-Ersatz funktionierst.
 
 Aber genau das stimmt nicht. Deine Beziehung zu deinem Partner und eure Beziehung zu den Kindern sind **zwei verschiedene Dinge**. Und wenn die Paarbeziehung stark ist, profitieren am Ende alle davon — auch die Kinder. Das ist kein Egoismus. Das ist die [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/), die eine Patchworkfamilie braucht.
+
+
+---
 
 ## Zusammenfassung: Was du aus dieser Geschichte mitnehmen kannst
 
