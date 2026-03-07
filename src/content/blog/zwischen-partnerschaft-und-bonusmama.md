@@ -18,7 +18,7 @@ Es ist nur allzu verständlich, dass man als Bonusmama mit vollem Elan in die ne
 In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und dir zeigen, wie es mir gelungen ist, die Balance zwischen Partnerschaft und Bonusmama-sein zu finden. Gemeinsam gehen wir den Weg von der engagierten Organisatorin zur entspannten Partnerin und entdecken, wie man Schritt für Schritt die Fallen der Verantwortungsübernahme umschifft.
 
 ---
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Zwischen Partnerschaft und Bonusmama-Sein" an — auf [Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Warum es normal ist, wenn dein Bonuskind nur Papa will" an — auf [Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) oder überall, wo du Podcasts hörst.
 ---
 
 ## Mir ging es auch so!

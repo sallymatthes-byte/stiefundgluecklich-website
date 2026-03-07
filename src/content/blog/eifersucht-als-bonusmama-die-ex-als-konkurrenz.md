@@ -15,7 +15,7 @@ Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Pro
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „So überwindest du den Ex-Frau-Konflikt als Bonusmama" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Du bist eifersüchtig aufs Stiefkind? Das steckt dahinter!" an — auf [Spotify](https://open.spotify.com/episode/6Q2pRrkYbW2V1M5w6SAGnQ) oder überall, wo du Podcasts hörst.
 
 ---
 

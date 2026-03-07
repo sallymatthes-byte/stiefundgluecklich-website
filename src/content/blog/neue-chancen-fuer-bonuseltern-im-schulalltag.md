@@ -20,7 +20,7 @@ In diesem Artikel teile ich mit dir meine bewährte Bonusmama-Formel, die dir hi
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Was ich als Stiefmutter nie wieder tun würde" an — auf [Spotify](https://open.spotify.com/episode/59fboI02XXB7rcdCLklGaW) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Neue Chancen für Bonuseltern: Schulalltag 2025" an — auf [Spotify](https://open.spotify.com/episode/59fboI02XXB7rcdCLklGaW) oder überall, wo du Podcasts hörst.
 
 ---
 
