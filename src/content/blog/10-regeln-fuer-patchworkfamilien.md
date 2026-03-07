@@ -118,7 +118,7 @@ Setzt euch als Paar hin und klärt:
 
 ## Regel 8: Eifersucht ist normal — verdränge sie nicht
 
-[Eifersucht](/blog/von-der-stiefkind-eifersucht-zur-patchwork-harmonie/) in der Patchworkfamilie hat viele Gesichter: Eifersucht auf die Ex, auf die Beziehung zwischen Partner und Kind, auf die Vergangenheit, die du nicht teilst.
+[Eifersucht](/blog/von-der-stiefkind-eifersucht-zur-familienharmonie/) in der Patchworkfamilie hat viele Gesichter: Eifersucht auf die Ex, auf die Beziehung zwischen Partner und Kind, auf die Vergangenheit, die du nicht teilst.
 
 **Eifersucht ist kein Zeichen von Schwäche — sie ist ein Signal.** Ein Signal, dass du etwas brauchst: Sicherheit, Aufmerksamkeit, Anerkennung, Zugehörigkeit.
 
