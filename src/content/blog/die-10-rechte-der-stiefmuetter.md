@@ -24,7 +24,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 ---
 
-## Warum die Rechte der Stiefmütter so wichtig sind
+## Warum brauchen Stiefmütter eigene Rechte?
 
 Du sehnst dich danach, respektiert und wertgeschätzt zu werden - sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen - sei es durch festgefahrene Rollenbilder, Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
 
@@ -90,7 +90,7 @@ Es erfordert Geduld, Vertrauen und Zuneigung zu gewinnen. Aber es ist die Aufgab
 
 Die Kinder müssen dich nicht von Anfang an lieben, aber sie müssen dich in jedem Fall respektvoll behandeln. Indem dein Partner unmissverständlich deine Seite ergreift, schafft er die Basis für ein harmonisches Miteinander.
 
-## Deine nächsten Schritte als selbstbewusste Stiefmutter
+## Was sind deine nächsten Schritte als Stiefmutter?
 
 Was wäre, wenn du…
 

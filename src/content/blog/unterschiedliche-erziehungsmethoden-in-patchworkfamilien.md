@@ -18,13 +18,13 @@ Es war wieder einer dieser Momente am Abendbrottisch, die mir das Herz schwer ma
 
 Diese alltäglichen Situationen, in denen unsere Erziehungsvorstellungen aufeinanderprallten, häuften sich wie kleine Mosaiksteine eines größeren Bildes: Während ich auf feste Schlafenszeiten und begrenzte Mediennutzung setzte, war mein Partner deutlich lockerer. „Ach, lass sie doch noch eine halbe Stunde", hörte ich oft, wenn die Kinder abends noch vor dem Tablet saßen. Wo ich klare Strukturen für wichtig hielt, ließ er spontane Planänderungen zu. Mit jedem dieser Momente wuchs meine Unsicherheit: *Wie viel durfte ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) überhaupt mitbestimmen? Wann war es angebracht, meine Meinung zu äußern, und wann sollte ich mich zurückhalten?*
 
-## Der Kampf mit den unterschiedlichen Welten
+## Warum prallen Erziehungsstile in Patchworkfamilien aufeinander?
 
 An manchen Tagen fühlte es sich an, als würden wir in parallelen Universen leben. **Wenn ich versuchte, Grenzen zu setzen, untergrub er sie oft unbeabsichtigt.** Wenn er den Kindern mehr Freiheiten ließ, kämpfte ich mit dem Impuls, korrigierend einzugreifen. Diese ständige Diskrepanz in unseren Erziehungsvorstellungen schuf eine unterschwellige Spannung, die sich wie ein feiner Nebel über unser Familienleben legte.
 
 ![Frau schaut nachdenklich aus dem Küchenfenster - Erziehungskonflikte in der Patchworkfamilie](/images/blog/unterschiedliche-erziehungsmethoden-in-patchworkfamilien-2.jpg)
 
-## Die Suche nach Antworten
+## Wie findest du als Bonusmama einen Umgang mit unterschiedlicher Erziehung?
 
 Irgendwann begann ich, mich ehrlich zu fragen: Geht es mir wirklich um das Wohl der Kinder — oder darum, Recht zu haben? Diese Frage tat weh, aber sie war der Wendepunkt. Ich recherchierte, sprach mit anderen Bonusmamas und erkannte: **Die meisten Patchworkfamilien kämpfen mit genau diesem Thema.** Es lag nicht daran, dass wir versagten. Es lag daran, dass wir zwei komplett unterschiedliche Erziehungsgeschichten mitbrachten und versuchten, sie ohne Anleitung zusammenzuführen.
 
@@ -32,7 +32,7 @@ Irgendwann begann ich, mich ehrlich zu fragen: Geht es mir wirklich um das Wohl 
 
 *Stand: März 2026*
 
-## Weg von der unterschiedlichen Erziehung
+## Wie kommt ihr als Paar zu einem gemeinsamen Erziehungsstil?
 
 Ich erkannte, dass der erste Schritt darin bestand, wirkliche **Klarheit** zu gewinnen. Klarheit darüber, warum mein Partner und ich so unterschiedlich an die Erziehung herangingen. Warum triggerten mich bestimmte Situationen so stark? Weshalb war es für ihn so schwer, Grenzen zu setzen? Erst wenn wir die tieferen Beweggründe verstehen würden, könnten wir beginnen, etwas zu verändern.
 

@@ -19,7 +19,7 @@ In unseren zwischenmenschlichen Beziehungen kommt es häufig zu Missverständnis
 Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden?
 Und wie setzt sich das in der Praxis um?
 
-## Unser Beispiel
+## Wie sieht aktives Zuhören in der Patchworkfamilie aus?
 *Bonusmama Mia lebt gemeinsam mit ihrem Partner Tom, ihren beiden Kindern Emily und Ben in der Nähe von Leipzig. Zur Familie gehört außerdem noch Toms [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) Lisa und deren Sohn Max. Die Familie hatte schon seit einiger Zeit mit Spannungen und Konflikten zu kämpfen. Häufig fielen Sätze wie „Das machst du immer so!" oder „Du willst mich einfach nicht verstehen!". Häufig wurde der andere unterbrochen und die einst lebhaften Gespräche beim Abendessen gab es nicht mehr. Jeder fühlte sich [missverstanden](/blog/bonuskinder-und-konflikte/) und es schien, als ob das harmonische Familienleben, von dem sie alle träumten, in weite Ferne gerückt war.*
 
 ## Warum ist Zuhören so wichtig?
@@ -30,7 +30,7 @@ Doch das wahre Geschenk liegt darin, dem anderen unsere volle Aufmerksamkeit zu 
 
 ![Patchworkfamilie sitzt gemeinsam am Esstisch und führt ein offenes Gespräch](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-2.jpg)
 
-## Aktives Zuhören nach Carl Rogers
+## Was sagt Carl Rogers über aktives Zuhören?
 
 Das aktive Zuhören zeichnet sich durch mehrere Grundprinzipien aus. **Das erste Prinzip ist die Authentizität.** Es bedeutet, dass wir uns bewusst auf den anderen konzentrieren und ihm unsere volle Aufmerksamkeit schenken. Gleichzeitig verstellen wir uns nicht, unser Interesse ist ehrlich.
 
@@ -42,7 +42,7 @@ Das aktive Zuhören ermöglicht es uns, eine Atmosphäre des Vertrauens und der 
 
 Und wie wird es in der Praxis angewandt?
 
-## Die 3 Phasen des aktiven Zuhörens in der Praxis
+## Welche 3 Phasen hat aktives Zuhören?
 
 Doch wie nutzte Mia das aktive Zuhören in ihrer Familie?
 
@@ -58,7 +58,7 @@ Diese Familienkonferenz war der erste Schritt zu einem harmonischen Familienlebe
 
 ![Bonusmama hört ihrem Bonuskind aufmerksam zu und zeigt Verständnis](/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-3.jpg)
 
-## 5 Tipps zur Umsetzung
+## Wie setze ich aktives Zuhören um? 5 Tipps
 - Vermeidet Ablenkungen wie Smartphones oder laute Hintergrundgeräusche, um eine ungestörte Kommunikation zu ermöglichen.
 - Stellt offene Fragen, die den anderen dazu ermutigen, mehr über seine Gedanken und Gefühle zu erzählen.
 - Wiederholt und paraphrasiert das, was euer Gegenüber gesagt hat, um sicherzustellen, dass ihr es richtig verstanden habt.

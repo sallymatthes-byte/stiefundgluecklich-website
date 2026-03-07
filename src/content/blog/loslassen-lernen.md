@@ -17,7 +17,7 @@ imageAlt: "Loslassen lernen"
 Als man mich als 3-Jährige fragte, was ich werden möchte, sagte ich: „Hausfrau und Braut!". Schon von klein auf wünschte ich mir eine Familie und zeitweise malte ich mir aus, wie es wäre vier eigene Kinder zu haben. Irgendwann wurde der Wunsch nach eigenen Kindern kleiner, der Wunsch nach einer intakten Familie aber blieb.
 Dies musste ich zu einem gewissen Stück in unserer Patchworkfamilie loslassen, ein schmerzhafter Prozess. Heute möchte ich dir davon erzählen und was ich daraus gelernt habe.
 
-## Die eigenen Familienideale erkennen
+## Welche Familienideale halten dich als Bonusmama fest?
 
 Vielleicht bist du in einer traditionellen Kernfamilie aufgewachsen, in der Mutter, Vater und Kind unter einem Dach lebten. Dieses Modell wurde dir als *Inbegriff von Familie* vorgelebt und du hast verinnerlicht, dass es so sein sollte. Oder du hast selbst erlebt, wie schmerzlich eine Trennung sein kann und sehnst dich nun nach Harmonie und Beständigkeit.
 
@@ -29,7 +29,7 @@ Hinzu kommt die tiefe Sehnsucht nach der „heilen" Familie. Der Wunsch, dem Kin
 
 ![Frau steht nachdenklich am Fenster und reflektiert über Familienideale](/images/blog/loslassen-lernen-2.jpg)
 
-## Warum es in der Patchworkfamilie nicht so einfach ist
+## Warum fällt Loslassen in der Patchworkfamilie so schwer?
 
 Diese Komplexität der Beziehungen und Emotionen lässt sich nicht in das enge Korsett traditioneller Familienideale pressen. Es gibt keine Blaupause für die „perfekte" Patchworkfamilie, sondern es ist ein individueller Prozess des Zusammenwachsens und Gestaltens. **Flexibilität und Anpassungsfähigkeit** sind dabei unverzichtbar. Starre Vorstellungen davon, wie eine Familie auszusehen und zu funktionieren hat, werden der Realität nicht gerecht. Stattdessen gilt es, offen zu sein für neue Wege und kreative Lösungen, die den Bedürfnissen aller Beteiligten Rechnung tragen.
 
@@ -39,7 +39,7 @@ Indem du verstehst, warum traditionelle Familienvorstellungen in Patchwork-Konst
 
 > „Das Loslassen ist der Schlüssel zum Glück." – Unbekannt
 
-## Loslassen lernen
+## Wie lernst du als Bonusmama loszulassen?
 
 - **Dankbarkeit praktizieren:** Richte deinen Fokus bewusst auf die schönen Momente und Errungenschaften in deiner Patchworkfamilie. Schreibe sie auf, teile sie mit deinen Lieben. Je mehr du das Positive in den Vordergrund rückst, desto stärker fühlst du dich.
 - **Selbstfürsorge priorisieren:** Gönne dir Auszeiten, tu Dinge, die dich nähren und erfreuen. Sei es Sport, ein Hobby oder Zeit mit Freundinnen – fülle deinen Tank regelmäßig auf. Eine gestärkte, zufriedene Bonusmama kann viel besser für andere da sein.
@@ -50,7 +50,7 @@ Denke immer daran: Resilienz und Selbstbewusstsein sind wie Muskeln. Je mehr du 
 
 ![Frau sitzt entspannt in der Natur und übt Achtsamkeit](/images/blog/loslassen-lernen-3.jpg)
 
-## Inneren Frieden finden
+## Wie findest du inneren Frieden in der Patchworkfamilie?
 
 Ein wichtiger Schlüssel dazu ist die Stärkung deiner **Selbstliebe und Selbstakzeptanz**. Begegne dir selbst mit Mitgefühl, Verständnis und Wertschätzung. Erlaube dir, unvollkommen zu sein und Fehler zu machen. Erkenne deine einzigartigen Qualitäten und Stärken an und feiere deine Fortschritte.
 

@@ -15,7 +15,7 @@ imageAlt: "Frau denkt nachdenklich nach - Stiefmutter oder Bonusmama, welcher Be
 
 Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die** Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich? Wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video.](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
 
-## Die Entstehung des Begriffs
+## Woher kommt der Begriff Stiefmutter?
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab - Verhütung war damals bekanntermaßen noch etwas schwierig.
 In dieser Zeit war auch der Tod eines Elternteils nicht selten: Väter starben in Kriegen, die Mütter bei einer der zahlreichen Geburten; oft kamen auch Krankheiten dazu.
 
@@ -29,7 +29,7 @@ Das Wort „Stief" stammt aus dem Germanischen und bedeutet so viel wie „berau
 
 ![Zwei Frauen sitzen zusammen und reden - verschiedene Rollen in der Patchworkfamilie](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
 
-## Der Blick in die Gegenwart
+## Was bedeutet Stiefmutter heute?
 Wenn ein neuer Partner hinzukommt, ist die Situation eine andere als früher. Trotzdem haftet dem Wort „Stiefmutter" oft noch etwas Negatives an, durch Märchen wie Schneewittchen oder Aschenputtel.
 Wir müssen mittlerweile niemanden ersetzen und dieser Anspruch besteht in den meisten Fällen auch nicht.
 
@@ -43,7 +43,7 @@ Es geht ja schon mit der Begrifflichkeit los: Es gibt den *biologischen Elternte
 
 ![Sally sitzt nachdenklich bei einer Tasse Kaffee - auf der Suche nach dem richtigen Begriff für die eigene Rolle](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
 
-## Meine Begriffsklärung
+## Stiefmutter oder Bonusmama — was ist der Unterschied?
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.
 Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich **„belle-mère"** — was übersetzt „die schöne Mutter" bedeutet. Klingt wundervoll, allerdings finde ich die leibliche Mutter der Kinder auch schön - und ich will weder auf mein Äußeres beschränkt werden, noch eine Mutter sein. Was außer Bonus bin ich denn dann?
 

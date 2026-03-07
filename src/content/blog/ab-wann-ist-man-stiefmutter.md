@@ -28,7 +28,7 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
-## Was eine Stiefmutter wirklich ist – mehr als nur ein Märchen
+## Was ist eine Stiefmutter wirklich?
 
 Ja, der Begriff „Stiefmutter" löst auch heute noch oft Unbehagen aus.
 
@@ -42,7 +42,7 @@ Es bedeutet, jeden Tag aufs Neue Grenzen zu erkunden – zwischen Nähe und Dist
 
 ![Zwei Hände, die sich auf einem Holztisch berühren - warm, verbunden](/images/blog/stiefmutter-haende.jpg)
 
-## Der Start in meine Rolle als Bonusmama
+## Wie wird man zur Bonusmama?
 
 Ich erinnere mich noch genau an den Moment, als er mir von seinen Kindern erzählte. Wir saßen in einem kleinen Café, und seine Augen leuchteten, als er von den Mädchen sprach. **In diesem Moment spürte ich eine Mischung aus Vorfreude und Unsicherheit in meinem Bauch.**
 
@@ -56,7 +56,7 @@ In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen E
 
 ---
 
-## Der Weg zur Bonusmama: Die 3-Schritte-Formel
+## Wie finde ich meine Rolle als Stiefmutter? Die 3-Schritte-Formel
 
 Auf meinem Weg habe ich drei entscheidende Schritte identifiziert, die mir geholfen haben, in meiner Rolle als Bonusmama anzukommen. Diese Schritte sind kein starres Rezept, sondern ein Kompass, der dir Orientierung geben kann.
 
@@ -105,7 +105,7 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 
 ---
 
-## Dein Weg zur harmonischen Patchworkfamilie
+## Was hilft auf dem Weg zur harmonischen Patchworkfamilie?
 Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
 <!-- FAQ_START

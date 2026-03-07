@@ -19,7 +19,7 @@ Doch wie beeinflussen sie unser Leben genau? Und wie können wir sie auflösen?
 
 ![Frau sitzt nachdenklich am Fenster und reflektiert über ihre Gedanken](/images/blog/glaubenssaetze-als-bonusmama-2.jpg)
 
-## So beeinflussen Glaubenssätze unser Leben
+## Wie beeinflussen Glaubenssätze dein Leben als Bonusmama?
 
 Als Bonusmama in einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) bist du mit vielen Herausforderungen konfrontiert. Da sind die *Erwartungen der Gesellschaft*, die Beziehung zu den Kindern deines Partners und nicht zuletzt *deine eigenen Ansprüche* an dich selbst. All diese Faktoren können Glaubenssätze hervorbringen wie: „Ich werde nie so wichtig sein wie die leibliche Mutter" oder „ich muss perfekt sein, um geliebt zu werden." **Diese Glaubenssätze wirken wie unsichtbare Fesseln, die uns daran hindern, unser volles Potenzial zu entfalten.** Sie können *Ängste*, Selbstzweifel und Konflikte in Beziehungen auslösen. Wenn wir fest davon überzeugt sind, nicht gut genug zu sein, werden wir uns selbst sabotieren und Chancen verpassen. Wenn wir glauben, dass wir in unserer Patchworkfamilie keinen Platz haben, werden wir uns zurückziehen und das harmonische Miteinander erschweren.
 

@@ -28,7 +28,7 @@ Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikatio
 
 ![Paar sitzt auf dem Sofa und führt ein intensives Gespräch](/images/blog/das-vier-ohren-modell-2.jpg)
 
-## Ein Satz, vier Bedeutungen
+## Was sind die 4 Ebenen einer Nachricht?
 
 Die Reaktion meines Partners kam unerwartet: „Was soll ich denn noch alles im Blick behalten?" Ich war verblüfft. Für mich war es eine simple Information gewesen, doch er fühlte sich offenbar angegriffen. Eine [heftige Diskussion](/blog/unterschiedliche-erziehungsmethoden/) entbrannte darüber, wer für die Haarpflege der Kinder zuständig sei und was wir voneinander erwarten könnten.
 
@@ -36,7 +36,7 @@ Am Ende saßen wir frustriert da und fragten uns, wie es soweit hatte kommen kö
 
 Dieses Modell besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Je nachdem, auf welcher Ebene der Empfänger die Botschaft wahrnimmt, kann es zu Missverständnissen kommen. Mir wurde klar: Mein Partner und ich hatten auf unterschiedlichen Ohren gehört und deshalb aneinander vorbeigeredet.
 
-## Der Wunsch nach einem Miteinander ohne Vorwürfe
+## Warum reden Paare in Patchworkfamilien aneinander vorbei?
 
 Mein Ziel war es, Missverständnisse gar nicht erst aufkommen zu lassen und Lösungen zu finden, statt uns in Vorwürfen zu verlieren. **Ich wünschte mir, dass wir als Team funktionieren und an einem Strang ziehen, gerade wenn es um die Kinder geht.** Schließlich wollte ich meinen Stiefkindern ein harmonisches Familienleben bieten und gemeinsam mit meinem Partner für sie da sein.
 
@@ -48,7 +48,7 @@ Das 4-Ohren-Modell schien mir der Schlüssel zu sein, um genau das zu erreichen.
 
 ![Vier farbige Sprechblasen als Symbol für die vier Ebenen der Kommunikation](/images/blog/das-vier-ohren-modell-3.jpg)
 
-## Aneinander vorbeireden – wenn unterschiedliche Ebenen aufeinanderprallen
+## Wie erkennst du, auf welchem Ohr du hörst?
 
 Ein Beispiel: Mein Partner sagte: „Der Müll ist voll." Für ihn war das eine sachliche Feststellung, doch ich hörte den Vorwurf heraus: „Du hast vergessen, den Müll rauszubringen." Schnell entwickelte sich ein Streit darüber, wer wofür verantwortlich sei und warum der andere sich nicht genug einbringe.
 
@@ -60,7 +60,7 @@ Doch immer wieder fielen wir in alte Muster zurück und interpretierten Aussagen
 
 Erst mit der Zeit lernten wir, bewusster zu kommunizieren und auch mal innezuhalten, wenn wir merkten, dass wir auf unterschiedlichen Ebenen hörten. Das 4-Ohren-Modell gab uns ein Werkzeug an die Hand, um Missverständnisse schneller zu erkennen und aus der Welt zu schaffen.
 
-## So gelingt die Kommunikation mit dem 4-Ohren-Modell
+## Wie wendest du das 4-Ohren-Modell im Alltag an?
 
 Es war ein Prozess, der Geduld und Übung erforderte. Schritt für Schritt lernten wir, bewusster miteinander zu reden und die Botschaften des anderen auf allen vier Ebenen wahrzunehmen. Dabei halfen uns drei einfache, aber wirkungsvolle Strategien:
 
@@ -78,7 +78,7 @@ Das Wichtigste aber ist, dass wir das 4-Ohren-Modell gemeinsam anwenden. Wir erm
 
 So haben wir gelernt, Konflikte konstruktiv anzugehen und füreinander da zu sein, auch wenn es mal schwierig wird. *Das 4-Ohren-Modell ist für uns zu einem wertvollen Werkzeug geworden, um unsere Beziehung zu stärken.*
 
-## So hat das 4-Ohren-Modell unsere Beziehung verändert
+## Wie hat das 4-Ohren-Modell unsere Beziehung verändert?
 
 Das 4-Ohren-Modell hat unsere Art zu kommunizieren von Grund auf verändert. Indem wir lernten, Botschaften auf allen vier Ebenen wahrzunehmen und zu senden, konnten wir **Missverständnisse und Konflikte deutlich reduzieren.** Statt aneinander vorbeizureden, hören wir einander nun aufmerksam zu und versuchen zu verstehen, was der andere wirklich sagen möchte.
 

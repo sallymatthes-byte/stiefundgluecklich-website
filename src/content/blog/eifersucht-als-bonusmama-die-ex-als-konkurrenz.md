@@ -22,7 +22,7 @@ Da ist dieser Moment wieder: Du scrollst gedankenverloren durch ihr Facebook-Pro
 
 ---
 
-## Wenn die Eifersucht zur ständigen Begleiterin wird
+## Warum ist Eifersucht auf die Ex so verbreitet?
 
 Du fragst dich:
 
@@ -35,7 +35,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 
 ![Frau sitzt nachdenklich auf einer Parkbank im Herbstwald — Eifersucht verarbeiten](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
 
-## Die tieferen Ursachen der Eifersucht verstehen
+## Was steckt wirklich hinter der Eifersucht?
 **Die Eifersucht auf die Ex-Frau ist oft ein Spiegel unserer eigenen Ängste und unerfüllten Bedürfnisse.** Vielleicht spürst du:
 
 - Die Angst, nie ganz „dazuzugehören" in dieser Familie, die schon vor dir existierte
@@ -47,7 +47,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 
 ![Sonnenlicht durchbricht Bäume auf einem Waldweg — Hoffnung und Veränderung](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
 
-## Den Weg aus der Eifersucht finden
+## Wie findest du den Weg aus der Eifersucht?
 
 ### 1. Klarheit und Verständnis schaffen
 
@@ -88,7 +88,7 @@ Mit dieser neuen Klarheit kannst du beginnen, echte Veränderung anzustoßen. Da
 
 Diese drei Schritte bauen aufeinander auf und bilden einen **bewährten Weg aus der Eifersuchtsfalle**. Es ist ein Prozess, der Zeit braucht und manchmal herausfordernd sein kann. Aber ich verspreche dir: *Mit der richtigen Unterstützung und den passenden Werkzeugen kannst du diesen Weg gehen.*
 
-## Dein Weg zu mehr Selbstsicherheit
+## Was hilft langfristig gegen Eifersucht als Bonusmama?
 
 Statt den Blick auf die Vergangenheit zu richten, darfst du dich auf das konzentrieren, was eure Beziehung einzigartig macht:
 

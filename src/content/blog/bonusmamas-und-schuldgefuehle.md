@@ -23,7 +23,7 @@ Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und wesha
 
 ![Bonusmama blickt nachdenklich aus dem Fenster](/images/blog/bonusmamas-und-schuldgefuehle-1.jpg)
 
-## Wann spüren wir Schuld?
+## Wann und warum spüren Bonusmamas Schuldgefühle?
 
 - Weil sie sich manchmal wünschen, **die Stiefkinder wären nicht da**: Dieser Gedanke kann aufkommen, wenn die Beziehung zu den Stiefkindern herausfordernd ist oder die Stiefmutter sich überfordert fühlt.
 - Wenn sie **ihre eigenen Kinder bevorzugen**: Stiefmütter sorgen sich oft, dass sie ihre biologischen Kinder besser behandeln als ihre Stiefkinder.
@@ -39,7 +39,7 @@ Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldg
 
 ![Frau hält sich die Hände vors Gesicht und fühlt sich schuldig](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
 
-## Die Entstehung von Schuldgefühlen
+## Woher kommen die Schuldgefühle als Bonusmama?
 
 Aber wofür sind Schuldgefühle eigentlich gut? [Psycholog_innen](https://www.psychologie-heute.de/leben/artikel-detailansicht/40911-warum-fuehlen-wir-uns-so-schnell-schuldig.html) sehen in ihnen wichtige Funktionen. Sie signalisieren uns, wenn wir gegen unsere **eigenen Werte** verstoßen haben und motivieren uns, [Verantwortung](/blog/balance-in-der-verantwortung/) zu übernehmen und Beziehungen zu kitten. Schuldgefühle sind also grundsätzlich etwas Normales und sogar Nützliches.
 
@@ -48,7 +48,7 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 ![Zwei Hände reichen einander als Zeichen der Unterstützung](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
 
-## Der Umgang mit der Schuld
+## Wie gehst du mit Schuldgefühlen als Bonusmama um?
 
 *Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. **Ein weiterer hilfreicher Schritt ist die Selbstreflexion.** Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
