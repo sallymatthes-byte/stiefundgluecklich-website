@@ -6,12 +6,15 @@ date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
 image: "/images/blog/stiefmutter-rolle.jpg"
 imageAlt: "Frau sitzt allein auf einer Bank im herbstlichen Wald - nachdenklich, warm"
-metaTitle: "Stiefmutter: Definition, Bedeutung & ab wann du eine bist"
-metaDescription: "Was ist eine Stiefmutter? Ab wann gilt man als Stiefmutter, was bedeutet der Begriff wirklich – und warum Bonusmama mehr ist als nur ein Wort."
+metaTitle: "Ab wann ist man Stiefmutter? Definition & Rolle 2026"
+metaDescription: "Ab wann bist du Stiefmutter? Die ehrliche Antwort: Es gibt keinen festen Zeitpunkt. Was die Rolle wirklich bedeutet — von einer Bonusmama, die es selbst erlebt hat."
+updated: 2026-03-07
 podcastEpisode: "https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8"
 podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
 ---
+
+**Eine Stiefmutter (auch Bonusmama) ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat.** Ab wann du Stiefmutter bist, lässt sich nicht an einem Datum festmachen — die Rolle beginnt, sobald du regelmäßig Kontakt zu seinen Kindern hast und eine Beziehung zu ihnen aufbaust. In diesem Artikel erfährst du, was die Rolle wirklich bedeutet und wie du deinen eigenen Weg findest.
 
 > Ich will nicht die böse Stiefmutter sein! – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) wagte.
 
