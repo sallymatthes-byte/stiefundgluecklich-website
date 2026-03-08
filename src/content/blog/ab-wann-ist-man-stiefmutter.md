@@ -6,7 +6,7 @@ date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
 image: "/images/blog/stiefmutter-rolle.jpg"
 imageAlt: "Frau sitzt allein auf einer Bank im herbstlichen Wald - nachdenklich, warm"
-metaTitle: "Ab wann ist man Stiefmutter? Definition & Rolle 2026"
+metaTitle: "Stiefmutter: Definition, Bedeutung & ab wann du eine bist"
 metaDescription: "Ab wann bist du Stiefmutter? Die ehrliche Antwort: Es gibt keinen festen Zeitpunkt. Was die Rolle wirklich bedeutet — von einer Bonusmama, die es selbst erlebt hat."
 updated: 2026-03-07
 podcastEpisode: "https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8"
