@@ -11,7 +11,7 @@ image: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 imageAlt: "Wenn das Bonuskind nur am Papa klebt"
 ---
 
-**Wenn das Bonuskind nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit beim Kind. Hier erfährst du, was wirklich dahintersteckt.
+**Wenn das [Bonuskind](/blog/bonuskind/) nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit beim Kind. Hier erfährst du, was wirklich dahintersteckt.
 
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?

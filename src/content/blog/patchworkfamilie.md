@@ -10,7 +10,7 @@ image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 imageAlt: "Patchworkfamilie im warmen Licht — Zusammenhalt trotz Herausforderungen"
 ---
 
-**Eine Patchworkfamilie (auch Stieffamilie oder Blended Family) entsteht, wenn mindestens ein Partner Kinder aus einer früheren Beziehung in die neue Familie mitbringt.** In Deutschland leben rund 14 % aller Familien als Patchworkfamilien — das sind über 1 Million Familien. Dieser Guide zeigt dir, was Patchworkfamilien wirklich ausmacht, welche Phasen sie durchlaufen und wie du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) euren gemeinsamen Weg findest.
+**Eine Patchworkfamilie (auch Stieffamilie oder Blended Family) entsteht, wenn mindestens ein Partner [Kinder](/blog/stiefkind/) aus einer früheren Beziehung in die neue Familie mitbringt.** In Deutschland leben rund 14 % aller Familien als Patchworkfamilien — das sind über 1 Million Familien. Dieser Guide zeigt dir, was Patchworkfamilien wirklich ausmacht, welche Phasen sie durchlaufen und wie du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) euren gemeinsamen Weg findest.
 
 Ich bin Sally Matthes — Erziehungswissenschaftlerin, Systemischer Coach und selbst Bonusmama. In über 700 Coaching-Stunden habe ich Hunderte von Frauen in Patchworkfamilien begleitet. Dieser Artikel fasst zusammen, was ich gelernt habe.
 

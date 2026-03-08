@@ -55,7 +55,7 @@ Auch in Bezug auf die *Beziehungsdynamik* ist es wichtig, Grenzen zu setzen — 
 
 ## Wie kommuniziere ich diese?
 
-Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosphäre des Respekts und der gegenseitigen Achtung. Die Kinder lernen, was angemessenes Verhalten ist und wie sie ihre eigenen Grenzen wahren können. Gleichzeitig stärken wir unsere [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) und haben eine gesunde Basis für eine liebevolle und harmonische Beziehung zu den Kindern.
+Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosphäre des Respekts und der gegenseitigen Achtung. Die Kinder lernen, was angemessenes Verhalten ist und wie sie ihre eigenen Grenzen wahren können. Gleichzeitig stärken wir unsere [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) und haben eine gesunde Basis für eine liebevolle und harmonische Beziehung zu den [Bonuskindern](/blog/bonuskind/).
 
 Im nächsten Abschnitt schauen wir uns Notfallstrategien an, die dabei helfen können, wenn es doch mal brenzlig wird. Gerade wenn du dich manchmal als [Außenseiterin in der Patchworkfamilie](/blog/aussenseiter-patchworkfamilie/) fühlst, können solche Momente besonders herausfordernd sein.
 

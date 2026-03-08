@@ -22,7 +22,7 @@ imageAlt: "Nachdenkliche Frau auf einer Bank im herbstlichen Wald — die Rolle 
 
 Stiefmutter sein ist keine Rolle, die man einfach ausfüllt wie einen Fragebogen. Es ist ein Prozess. Und er beginnt lange bevor irgendjemand „Stiefmutter" zu dir sagt.
 
-Die Frage „[Ab wann bin ich Stiefmutter?](/blog/ab-wann-ist-man-stiefmutter/)" höre ich in meinen Coachings ständig. Die ehrliche Antwort: **Es gibt keinen festen Zeitpunkt.** Du wirst nicht Stiefmutter, weil du einziehst, heiratest oder irgendein Formular unterschreibst. Du wirst es in dem Moment, in dem du anfängst, Verantwortung und Beziehung zu den Kindern deines Partners aufzubauen.
+Die Frage „[Ab wann bin ich Stiefmutter?](/blog/ab-wann-ist-man-stiefmutter/)" höre ich in meinen Coachings ständig. Die ehrliche Antwort: **Es gibt keinen festen Zeitpunkt.** Du wirst nicht Stiefmutter, weil du einziehst, heiratest oder irgendein Formular unterschreibst. Du wirst es in dem Moment, in dem du anfängst, Verantwortung und Beziehung zu den [Kindern deines Partners](/blog/stiefkind/) aufzubauen.
 
 Und das kann verdammt überwältigend sein.
 

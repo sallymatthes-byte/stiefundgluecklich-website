@@ -1,5 +1,5 @@
 ---
-title: "So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf"
+title: "So baust du als Stiefmami eine gute Beziehung zu deinem [Bonuskind](/blog/bonuskind/) auf"
 description: "Der Beziehungsaufbau zum Kind deines Partners, deinem Bonuskind, muss nicht schwierig sein. Erfahre hier, wie es gelingt!"
 category: "kinder-bindung"
 date: 2024-02-16

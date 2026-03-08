@@ -1,6 +1,6 @@
 ---
 title: "Von der Stiefkind-Eifersucht zur Familienharmonie: Mein Weg zu mehr Verständnis und Akzeptanz"
-description: "Die Eifersucht auf das Stiefkind belastet dich? Vielleicht zeigt sich sogar ein [Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/)? Entdecke, wie du diese Gefühle überwindest und eine harmonische Patchworkfamilie aufbaust."
+description: "Die Eifersucht auf das [Stiefkind](/blog/stiefkind/) belastet dich? Vielleicht zeigt sich sogar ein [Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/)? Entdecke, wie du diese Gefühle überwindest und eine harmonische Patchworkfamilie aufbaust."
 category: "kinder-bindung"
 date: 2024-11-21
 updated: 2026-03-07

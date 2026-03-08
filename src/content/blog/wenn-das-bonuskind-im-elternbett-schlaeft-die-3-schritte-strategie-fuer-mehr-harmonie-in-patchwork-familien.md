@@ -1,5 +1,5 @@
 ---
-title: "Wenn das Bonuskind im Elternbett schläft: Die 3-Schritte-Strategie für mehr Harmonie in Patchwork-Familien"
+title: "Wenn das [Bonuskind](/blog/bonuskind/) im Elternbett schläft: Die 3-Schritte-Strategie für mehr Harmonie in Patchwork-Familien"
 description: "Als Bonusmama: Störendes Bonuskind im Elternbett? Entdecke, wie du in drei Schritten für mehr Harmonie ohne Schuldgefühle sorgst."
 category: "kinder-bindung"
 date: 2025-03-07

@@ -14,7 +14,7 @@ podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
 ---
 
-**Eine Stiefmutter (auch Bonusmama) ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat.** Ab wann du Stiefmutter bist, lässt sich nicht an einem Datum festmachen — die Rolle beginnt, sobald du regelmäßig Kontakt zu seinen Kindern hast und eine Beziehung zu ihnen aufbaust. Laut Statistischem Bundesamt leben rund 1,1 Millionen Patchworkfamilien in Deutschland (2024) — etwa 14 % aller Familien mit Kindern. Und jede dieser Familien hat mindestens eine Frau, die sich genau diese Frage stellt.
+**Eine Stiefmutter (auch Bonusmama) ist eine Frau, die mit einem Partner zusammenlebt, der [Kinder aus einer früheren Beziehung](/blog/stiefkind/) hat.** Ab wann du Stiefmutter bist, lässt sich nicht an einem Datum festmachen — die Rolle beginnt, sobald du regelmäßig Kontakt zu seinen Kindern hast und eine Beziehung zu ihnen aufbaust. Laut Statistischem Bundesamt leben rund 1,1 Millionen Patchworkfamilien in Deutschland (2024) — etwa 14 % aller Familien mit Kindern. Und jede dieser Familien hat mindestens eine Frau, die sich genau diese Frage stellt.
 
 > „Du wirst nicht an einem Tag zur Bonusmama. Es ist ein Prozess — und der darf dauern. Dein Tempo ist genau richtig." — Sally Matthes, Coach für Bonusmamas
 
