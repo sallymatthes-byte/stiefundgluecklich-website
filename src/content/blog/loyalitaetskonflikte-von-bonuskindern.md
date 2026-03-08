@@ -11,7 +11,7 @@ image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Kind sitzt nachdenklich zwischen zwei Elternteilen — Loyalitätskonflikte in der Patchworkfamilie"
 ---
 
-**Loyalitätskonflikte sind die unsichtbare Last, die fast jedes [Bonuskind](/blog/bonuskind/) trägt — und die du als Bonusmama direkt zu spüren bekommst.** Wenn ein Kind das Gefühl hat, sich zwischen Mama und der neuen Partnerin des Papas entscheiden zu müssen, zeigt sich das oft als Ablehnung, Rückzug oder Aggression.
+**Loyalitätskonflikte sind die unsichtbare Last, die fast jedes [Bonuskind](/blog/stiefkind/) trägt — und die du als Bonusmama direkt zu spüren bekommst.** Wenn ein Kind das Gefühl hat, sich zwischen Mama und der neuen Partnerin des Papas entscheiden zu müssen, zeigt sich das oft als Ablehnung, Rückzug oder Aggression.
 
 
 Neulich erzählte mir eine Klientin, dass sie gehört hatte, wie ihr Bonuskind am Telefon zur Mutter sagte "Ja, mir geht es auch nicht gut. Ich vermisse dich auch." und das, obwohl das Kind den ganzen Tag unbeschwert gespielt hatte.
