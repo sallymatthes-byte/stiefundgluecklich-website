@@ -11,7 +11,9 @@ image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-ze
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"
 ---
 
-**Die Ex-Partnerin deines Partners loszulassen ist eine der größten emotionalen Herausforderungen als Bonusmama — besonders wenn sie euren Alltag bestimmt.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Hier erfährst du, wie du dich befreist.
+**Die Ex-Partnerin deines Partners loszulassen ist eine der größten emotionalen Herausforderungen als Bonusmama — besonders wenn sie euren Alltag bestimmt.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Studien zeigen, dass ungelöste Ex-Partner-Konflikte der häufigste Trennungsgrund in Patchworkfamilien sind (Bray & Kelly, 1998). In meiner Arbeit als systemischer Coach erlebe ich das wöchentlich — und weiß: Es gibt einen Weg raus.
+
+> „Die Ex hat genau so viel Macht über deine Beziehung, wie du und dein Partner ihr gebt. Nicht mehr." — Sally Matthes, Coach für Bonusmamas
 
 
 "Sie macht alles kaputt!" - dieser verzweifelte Gedanke raubt dir nachts den Schlaf. Die Ex-Frau und neue Beziehung scheinen untrennbar miteinander verwoben zu sein, wie ein endloser Albtraum, aus dem du nicht erwachen kannst. Jede Nachricht von ihr lässt dein Herz rasen, jeder "zufällige" Anruf während eures Abendessens vergiftet die Stimmung. Du spürst förmlich, wie ihr Schatten über eurem gemeinsamen Glück liegt, wie ein dunkler Schleier, der sich über eure Liebe legt.

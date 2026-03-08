@@ -14,7 +14,9 @@ podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
 ---
 
-**Eine Stiefmutter (auch Bonusmama) ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat.** Ab wann du Stiefmutter bist, lässt sich nicht an einem Datum festmachen — die Rolle beginnt, sobald du regelmäßig Kontakt zu seinen Kindern hast und eine Beziehung zu ihnen aufbaust. In diesem Artikel erfährst du, was die Rolle wirklich bedeutet und wie du deinen eigenen Weg findest.
+**Eine Stiefmutter (auch Bonusmama) ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat.** Ab wann du Stiefmutter bist, lässt sich nicht an einem Datum festmachen — die Rolle beginnt, sobald du regelmäßig Kontakt zu seinen Kindern hast und eine Beziehung zu ihnen aufbaust. Laut Statistischem Bundesamt leben rund 1,1 Millionen Patchworkfamilien in Deutschland (2024) — etwa 14 % aller Familien mit Kindern. Und jede dieser Familien hat mindestens eine Frau, die sich genau diese Frage stellt.
+
+> „Du wirst nicht an einem Tag zur Bonusmama. Es ist ein Prozess — und der darf dauern. Dein Tempo ist genau richtig." — Sally Matthes, Coach für Bonusmamas
 
 > Ich will nicht die böse Stiefmutter sein! – Dieser Gedanke schoss mir durch den Kopf, als ich vor über 5 Jahren die ersten Schritte in meine neue [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) wagte.
 
@@ -26,11 +28,11 @@ Es war ein warmer Sommerabend, als ich nach einem langen Gespräch mit meinem Pa
 
 ---
 
-## Was ist eine Stiefmutter wirklich?
+## Was bedeutet Stiefmutter? Die Definition jenseits der Märchen
 
 Ja, der Begriff „Stiefmutter" löst auch heute noch oft Unbehagen aus.
 
-Ich erinnere mich noch genau an den Moment, an dem ich mich das erste Mal so vorstellte. Es wurde kurz still im Raum. Eine andere Mutter flüsterte ihrer Nachbarin etwas zu, und ich spürte sofort diese unsichtbare Mauer, die sich aufbaute. **Der Begriff „Stiefmutter" trägt eine schwere Last aus Jahrhunderten von Märchen und gesellschaftlichen Vorurteilen.** Dabei sagt die offizielle Definition nur nüchtern: Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann eingeht, der bereits Kinder aus einer früheren Beziehung hat.
+Ich erinnere mich noch genau an den Moment, an dem ich mich das erste Mal so vorstellte. Es wurde kurz still im Raum. Eine andere Mutter flüsterte ihrer Nachbarin etwas zu, und ich spürte sofort diese unsichtbare Mauer, die sich aufbaute. **Der Begriff „Stiefmutter" trägt eine schwere Last aus Jahrhunderten von Märchen und gesellschaftlichen Vorurteilen.** Das Wort stammt aus dem Althochdeutschen *stiof-* und bedeutet „verwaist" oder „beraubt" — nicht „böse", wie viele denken. Dabei sagt die offizielle Definition nur nüchtern: Eine Stiefmutter ist eine Frau, die eine Beziehung mit einem Mann eingeht, der bereits Kinder aus einer früheren Beziehung hat. Die Familienforscherin Patricia Papernow (2013) beschreibt die Stiefmutterrolle als eine der anspruchsvollsten Familienrollen überhaupt — weil sie ohne gesellschaftliches Skript existiert.
 
 Doch was bedeutet es wirklich?
 

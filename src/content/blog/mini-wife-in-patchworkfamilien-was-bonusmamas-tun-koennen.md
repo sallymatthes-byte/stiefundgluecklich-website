@@ -43,7 +43,7 @@ Und plötzlich fiel der Groschen.
 
 Sie war nicht gegen mich. Sie kämpfte nicht um Macht. Sie kämpfte um Halt.
 
-Sie war ein Kind - in einer Rolle, die sie nie hätte übernehmen dürfen. Und während ich mich klein und fehl am Platz fühlte, versuchte sie, das zu retten, was für sie von "Familie" noch übrig war.
+Sie war ein Kind — in einer Rolle, die sie nie hätte übernehmen dürfen. Eine Rolle, die eigentlich mir gehörte — [der Partnerin, der Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/). Und während ich mich klein und fehl am Platz fühlte, versuchte sie, das zu retten, was für sie von "Familie" noch übrig war.
 
 Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde - aber weil ich endlich verstand, dass es nicht um Schuld ging. Sondern um Klarheit, Verantwortung und neue Strukturen.
 

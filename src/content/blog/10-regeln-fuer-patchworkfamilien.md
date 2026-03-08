@@ -45,7 +45,7 @@ Die häufigste Erwartung, die ich in Coachings höre: „Die Kinder sollten mich
 
 Das ist kein Versagen. Das ist normal. Kinder verarbeiten die Trennung ihrer Eltern, die neue Situation, die neue Person — in ihrem eigenen Tempo. Dein Job ist: **Da sein, geduldig bleiben, keinen Druck machen.**
 
-Und: Gib dir selbst auch Zeit. Du musst nicht sofort „die perfekte Bonusmama" sein. Es reicht, präsent und ehrlich zu sein.
+Und: Gib dir selbst auch Zeit. Die [Rolle als Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/) entwickelt sich mit der Zeit — du musst nicht sofort „die perfekte Bonusmama" sein. Es reicht, präsent und ehrlich zu sein.
 
 ---
 
