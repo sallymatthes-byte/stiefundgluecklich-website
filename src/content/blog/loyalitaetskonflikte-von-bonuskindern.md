@@ -44,7 +44,7 @@ Lass uns nun direkt Mal tiefer in die zweite Herausforderung einsteigen.
 
 Es ist, als würde sie ihren Vater *verlieren* — an diese andere Frau, die plötzlich so viel Zeit mit ihm verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa einlässt. Sie fühlt sich hin- und hergerissen, **zwischen zwei Stühlen**.
 
-Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust, fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*. Besonders wenn das [Bonuskind nur am Papa klebt](/blog/wenn-das-bonuskind-nur-am-papa-klebt/), wird diese Dynamik spürbar.
+Solche Verlusterfahrungen und Loyalitätskonflikte sind für Bonuskinder wie Emma eine schwere Last. Sie müssen nicht nur den Verlust der ursprünglichen Familie verkraften, sondern auch den Verlust der exklusiven Beziehung zum leiblichen Elternteil. Wenn Papa mit der neuen Partnerin schmust — oder sich ein [Mini-Wife-Muster](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/) zeigt — fühlen sie sich schnell *vernachlässigt, verlassen und ängstlich*. Besonders wenn das [Bonuskind nur am Papa klebt](/blog/wenn-das-bonuskind-nur-am-papa-klebt/), wird diese Dynamik spürbar.
 
 Der **Loyalitätskonflikt** — das Gefühl, Mama oder Papa zu verraten, wenn man die Bonuseltern mag — kann quälend sein. Selbst bei einvernehmlichen Trennungen ist diese Zerrissenheit für Kinder eine große Belastung. Kommt es zwischen den leiblichen Eltern zum Streit, wird sie sogar *unerträglich*.
 

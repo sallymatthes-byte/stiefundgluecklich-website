@@ -32,7 +32,7 @@ Neulich begegnete mir das Konzept von Dr. Patricia Papernow – eine renommierte
 
 **4. Neue Familienkultur:** Die Familie muss eine [neue Kultur schmieden](/blog/gemeinsame-familienkultur-in-patchworkfamilien/) und gleichzeitig eine Vielzahl von Unterschieden navigieren. Jedes Familienmitglied bringt seine eigene Geschichte, Werte und Gewohnheiten mit. Es gilt, neue Traditionen und Rituale zu entwickeln, die alle einbeziehen — wobei Bonuseltern keine Erziehungsmacht übernehmen, diese bleibt beim Elternteil.
 
-**5. Der Ex-Partner:** In Patchworkfamilien gibt es mindestens einen [Ex-Partner](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) — ob lebend oder verstorben — außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist. Die Beziehung zum Ex-Partner beeinflusst die Dynamik, Konflikte können auf die neue Familie übergreifen und Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil.
+**5. Der Ex-Partner:** In Patchworkfamilien gibt es mindestens einen [Ex-Partner](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) — ob lebend oder verstorben — außerhalb der Kernfamilie, der untrennbar mit der Familie verbunden ist. Die Beziehung zum Ex-Partner beeinflusst die Dynamik — und manchmal zeigen sich auch [ungesunde Muster wie das Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/), Konflikte können auf die neue Familie übergreifen und Kinder haben weiterhin eine Bindung an den außerhalb lebenden Elternteil.
 
 Lass uns nun direkt mal tiefer in die erste Herausforderung einsteigen.
 

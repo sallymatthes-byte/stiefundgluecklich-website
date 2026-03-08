@@ -26,7 +26,7 @@ Bist du bereit, deine Rechte als Stiefmutter zu entdecken und selbstbewusst zu g
 
 ## Warum brauchen Stiefmütter eigene Rechte?
 
-Du sehnst dich danach, respektiert und wertgeschätzt zu werden - sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen - sei es durch festgefahrene Rollenbilder, Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
+Du sehnst dich danach, respektiert und wertgeschätzt zu werden - sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen - sei es durch festgefahrene Rollenbilder, ein [Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/), Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
 
 
 > Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen. – J. W. von Goethe

@@ -11,10 +11,11 @@ image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1
 imageAlt: "Mini-Wife in Patchworkfamilien"
 ---
 
-**Mini-Wife beschreibt ein Verhaltensmuster, bei dem ein Kind — meist die Tochter — die Rolle der Partnerin ihres Vaters einnimmt.** Das Kind bestimmt, wo Papa sitzt, wer neben ihm schläft und wie der Familienalltag läuft. Für Bonusmamas ist das extrem belastend. Hier erfährst du, was du tun kannst.
+**Mini-Wife beschreibt ein Verhaltensmuster, bei dem ein Kind — meist die Tochter — die Rolle der Partnerin ihres Vaters einnimmt.** Das Kind bestimmt, wo Papa sitzt, wer neben ihm schläft und wie der Familienalltag läuft. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in meiner Arbeit als systemischer Coach erlebe ich, dass das Mini-Wife-Syndrom zu den häufigsten und belastendsten Dynamiken gehört, mit denen Bonusmamas zu mir kommen.
 
+> „Das Kind ist nie der Gegner. Aber wenn seine Tochter deine Rolle übernimmt, darfst du das benennen — ohne Schuld, aber mit Klarheit." — Sally Matthes, Coach für Bonusmamas
 
-### Plötzlich sitzt da jemand auf "deinem" Platz. Und es fühlt sich nicht wie Zufall an.
+### Plötzlich sitzt da jemand auf „deinem" Platz. Und es fühlt sich nicht wie Zufall an.
 
 Du kommst abends nach Hause, freust dich auf ein wenig Paarzeit. Doch da sitzt sie - eng neben deinem Partner. Die Tochter. Die Hand auf seinem Arm. Deine Schuhe hat sie ordentlich zur Seite gestellt. Und ohne ein Wort weißt du: "Hier ist kein Platz für mich."
 
@@ -50,7 +51,9 @@ Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde
 
 ## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
 
-Diese Dynamik entsteht nicht, weil das Kind "falsch" ist. Sondern weil es versucht, Orientierung zu finden.
+Der Begriff „Mini-Wife" stammt aus der englischsprachigen Patchwork-Community und beschreibt eine Form der Parentifizierung — ein Kind übernimmt Aufgaben und Verhaltensweisen, die eigentlich der erwachsenen Partnerin zustehen. In der Familienpsychologie ist dieses Phänomen gut dokumentiert (Papernow, 2013; Bray & Kelly, 1998): Kinder füllen nach einer Trennung unbewusst die emotionale Lücke, die der fehlende Elternteil hinterlässt.
+
+Diese Dynamik entsteht nicht, weil das Kind „falsch" ist. Sondern weil es versucht, Orientierung zu finden.
 
 Häufige Ursachen:
 

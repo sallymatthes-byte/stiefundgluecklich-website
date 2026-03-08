@@ -11,7 +11,7 @@ image: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reih
 imageAlt: "Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?!"
 ---
 
-**Das Gefühl, als Bonusmama immer hinter dem Bonuskind zurückstehen zu müssen, ist eine der schmerzhaftesten Erfahrungen in der Patchworkfamilie.** Wenn dein Partner die Bedürfnisse seiner Kinder konsequent über eure Beziehung stellt, bleibst du in der zweiten Reihe — und das nagt am Selbstwert. Hier erfährst du, warum das passiert und wie du da wieder rauskommst.
+**Das Gefühl, als Bonusmama immer hinter dem Bonuskind zurückstehen zu müssen, ist eine der schmerzhaftesten Erfahrungen in der Patchworkfamilie.** Wenn dein Partner die Bedürfnisse seiner Kinder konsequent über eure Beziehung stellt — oder sich ein [Mini-Wife-Muster](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/) entwickelt — bleibst du in der zweiten Reihe — und das nagt am Selbstwert. Hier erfährst du, warum das passiert und wie du da wieder rauskommst.
 
 
 Es gibt Momente, da habe ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) das Gefühl immer in zweiter Reihe zu stehen. Die oberste Priorität meines Partners werden immer seine Kinder sein.
