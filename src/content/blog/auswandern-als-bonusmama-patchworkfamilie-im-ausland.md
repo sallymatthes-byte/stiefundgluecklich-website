@@ -5,9 +5,9 @@ category: "beziehung-partnerschaft"
 date: 2026-04-03
 metaTitle: "Auswandern als Bonusmama — die harte Realität in der Patchworkfamilie im Ausland"
 metaDescription: "Auswandern für die Liebe klingt nach Abenteuer. Doch als Bonusmama im Ausland kämpfst du mit Sprache, Rechtssystem und Loyalitätskonflikten. Katharina erzählt ihre Geschichte."
-heroImage: "/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-1.jpg"
-image: "/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-1.jpg"
-imageAlt: "Frau blickt nachdenklich aus dem Fenster einer Wohnung in einem fremden Land"
+heroImage: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
+image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
+imageAlt: "Frau blickt nachdenklich aus dem Fenster — plötzlich Bonusmama in einem fremden Land"
 ---
 
 **Du bist ausgewandert — nicht für den Job, nicht für die Sonne, sondern für ihn.** Und mit „ihm" kam ein Kind, eine Ex-Partnerin, ein anderes Rechtssystem und die Erkenntnis, dass Liebe allein nicht reicht, wenn Patchwork über Ländergrenzen hinweg funktionieren soll. Wenn du das kennst — dieses Gefühl, in einem fremden Land zu stehen, ohne Netz, ohne Sprache, ohne jemanden, der versteht, was du durchmachst — dann ist dieser Artikel für dich.
@@ -20,7 +20,7 @@ Katharina kennt das. Mallorca, Schweden, Deutschland, wieder Schweden. Drei Län
 
 ---
 
-![Koffer und Umzugskartons in einer leeren Wohnung, warmes Licht durch das Fenster](/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-2.jpg)
+![Mutter steht nachdenklich mit Kind — Loyalitätskonflikte in der Patchworkfamilie](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
 
 ## Wenn die Liebe dich entwurzelt
 
@@ -48,7 +48,7 @@ Wenn du als Bonusmama im Ausland lebst, kämpfst du nicht nur mit den normalen [
 
 ---
 
-![Paar sitzt gemeinsam am Küchentisch, die Hände umeinander gelegt, ernster Blick](/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-3.jpg)
+![Paar hält zusammen — zwischen Partnerschaft und Bonusmama-Rolle](/images/blog/zwischen-partnerschaft-und-bonusmama-3.jpg)
 
 ## „Manchmal wünsche ich mir, es gäbe nur uns"
 
