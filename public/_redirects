@@ -253,3 +253,31 @@
 /taeglicher-kampf-bonusmama /blog/taeglicher-kampf-bonusmama/ 301
 /blog/bonuskind/ /blog/stiefkind/ 301
 /blog/bonuskind /blog/stiefkind/ 301
+
+# WordPress legacy pages → closest Astro equivalents (09.03.2026)
+/about-draft/ /about/ 301
+/about-draft /about/ 301
+/about-us/ /about/ 301
+/about-us /about/ 301
+/impressum-2/ /impressum/ 301
+/impressum-2 /impressum/ 301
+/kontakt/ /about/ 301
+/kontakt /about/ 301
+/start-draft/ / 301
+/start-draft / 301
+/blog-2-2/ /blog/ 301
+/blog-2-2 /blog/ 301
+/blog/page/2/ /blog/ 301
+/blog/page/2/?et_blog /blog/ 301
+
+# WordPress category pages → Astro blog with category filter
+/category/bonuskind/ /blog/stiefkind/ 301
+/category/bonuskind /blog/stiefkind/ 301
+/category/bonuskind/page/2/ /blog/stiefkind/ 301
+/category/bonusmama/ /blog/ 301
+/category/bonusmama /blog/ 301
+/category/bonusmama/page/2/ /blog/ 301
+/category/bonusmama/page/3/ /blog/ 301
+/category/ex/ /blog/ 301
+/category/ex /blog/ 301
+/category/ex/page/2/ /blog/ 301
