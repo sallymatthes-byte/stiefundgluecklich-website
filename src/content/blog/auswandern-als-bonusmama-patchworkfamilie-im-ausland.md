@@ -2,7 +2,7 @@
 title: "Auswandern als Bonusmama: wenn die Liebe dich in ein fremdes Land führt"
 description: "Auswandern für die Liebe klingt romantisch — bis Patchwork dazukommt. Über die Realität als Bonusmama im Ausland, Loyalitätskonflikte über Grenzen hinweg und die Frage: Sind wir ein Team?"
 category: "beziehung-partnerschaft"
-date: 2026-03-09
+date: 2026-04-03
 metaTitle: "Auswandern als Bonusmama — die harte Realität in der Patchworkfamilie im Ausland"
 metaDescription: "Auswandern für die Liebe klingt nach Abenteuer. Doch als Bonusmama im Ausland kämpfst du mit Sprache, Rechtssystem und Loyalitätskonflikten. Katharina erzählt ihre Geschichte."
 heroImage: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
