@@ -1,0 +1,41 @@
+---
+/**
+ * PodcastEpisode Schema (JSON-LD)
+ * Tells Google a blog article has a corresponding podcast episode.
+ * Can trigger podcast badges in search results.
+ * Spec: https://schema.org/PodcastEpisode
+ */
+interface Props {
+  buzzsproutId: number;
+  title: string;
+  description: string;
+  date: Date;
+}
+
+const { buzzsproutId, title, description, date } = Astro.props;
+const datePublished = date.toISOString().split('T')[0];
+const episodeUrl = `https://www.buzzsprout.com/2601695/episodes/${buzzsproutId}`;
+---
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": title,
+  "description": description,
+  "datePublished": datePublished,
+  "url": episodeUrl,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": episodeUrl
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "Bonusgeflüster",
+    "url": "https://stiefundgluecklich.de/podcast/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sally Matthes",
+    "url": "https://stiefundgluecklich.de/about/"
+  }
+})} />

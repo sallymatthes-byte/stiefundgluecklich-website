@@ -1,0 +1,37 @@
+---
+/**
+ * VideoObject Schema (JSON-LD)
+ * Tells Google a blog article has a corresponding YouTube video.
+ * Can trigger video thumbnails in search results.
+ * Spec: https://schema.org/VideoObject
+ */
+interface Props {
+  youtubeId: string;
+  title: string;
+  description: string;
+  date: Date;
+  updated?: Date;
+}
+
+const { youtubeId, title, description, date, updated } = Astro.props;
+const uploadDate = date.toISOString().split('T')[0];
+---
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": title,
+  "description": description,
+  "thumbnailUrl": `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg`,
+  "uploadDate": uploadDate,
+  "contentUrl": `https://www.youtube.com/watch?v=${youtubeId}`,
+  "embedUrl": `https://www.youtube.com/embed/${youtubeId}`,
+  "publisher": {
+    "@type": "Organization",
+    "name": "StiefundGlücklich",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://stiefundgluecklich.de/images/sally-portrait.jpg"
+    }
+  }
+})} />
