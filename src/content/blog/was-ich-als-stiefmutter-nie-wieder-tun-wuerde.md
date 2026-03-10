@@ -124,13 +124,3 @@ Ja. Kinder und Beziehungen sind erstaunlich resilient. Entschuldige dich, wenn n
 Das ist ein Warnsignal. Ein Partner, der deine Bedürfnisse dauerhaft ignoriert, ist kein Partner in diesem Prozess. Kommuniziere klar und sucht euch gegebenenfalls professionelle Unterstützung als Paar.
 
 FAQ_END -->
-
-<div style="background-color: #D9E4D3; border-radius: 12px; padding: 2rem; text-align: center; margin: 2rem 0;">
-
-**Finde heraus, wo du als Bonusmama gerade stehst**
-
-Mach das kostenlose Quiz und entdecke deinen nächsten Schritt — in 2 Minuten.
-
-[**Jetzt Quiz starten →**](https://hey.stiefundgluecklich.de/quiz)
-
-</div>

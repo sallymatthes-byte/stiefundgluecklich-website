@@ -142,13 +142,3 @@ Das ist ein Beziehungsproblem, kein Bonusmama-Problem. Kommuniziere klar, was du
 Auf keinen Fall. Genervt zu sein ist eine menschliche Reaktion, keine Charakterschwäche. Entscheidend ist, wie du damit umgehst — nicht ob du es fühlst.
 
 FAQ_END -->
-
-<div style="background-color: #D9E4D3; border-radius: 12px; padding: 2rem; text-align: center; margin: 2rem 0;">
-
-**Finde heraus, wo du als Bonusmama gerade stehst**
-
-Mach das kostenlose Quiz und entdecke deinen nächsten Schritt — in 2 Minuten.
-
-[**Jetzt Quiz starten →**](https://hey.stiefundgluecklich.de/quiz)
-
-</div>

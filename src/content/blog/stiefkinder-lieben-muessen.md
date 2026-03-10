@@ -110,13 +110,3 @@ Sei ehrlich, aber altersgerecht. Du kannst sagen: „Ich habe dich sehr gern und
 Wenn du nach mehreren Jahren aktive Abneigung empfindest, die dich und die Familie belastet, lohnt sich professionelle Unterstützung. Ein Coaching kann helfen, blinde Flecken aufzudecken und neue Perspektiven zu finden.
 
 FAQ_END -->
-
-<div style="background-color: #D9E4D3; border-radius: 12px; padding: 2rem; text-align: center; margin: 2rem 0;">
-
-**Finde heraus, wo du als Bonusmama gerade stehst**
-
-Mach das kostenlose Quiz und entdecke deinen nächsten Schritt — in 2 Minuten.
-
-[**Jetzt Quiz starten →**](https://hey.stiefundgluecklich.de/quiz)
-
-</div>
