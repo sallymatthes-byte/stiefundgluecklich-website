@@ -28,7 +28,7 @@ podcastDescription: "Jule teilt ihre 10 wichtigsten Lektionen als Bonusmutter �
 
 Dieses Gefühl, wenn alle erwarten, dass du die Kinder deines Partners sofort ins Herz schließt. Dass du sie anlächelst, als wären sie deine eigenen. Und innerlich denkst du: *Ich kenne diese Menschen seit drei Monaten.*
 
-**Du darfst dir Zeit lassen.** Liebe ist kein Schalter, den du umlegst, weil die Gesellschaft es erwartet. Laut der Familienforscherin Patricia Papernow (2013) dauert es durchschnittlich 4 bis 7 Jahre, bis eine Patchworkfamilie wirklich zusammenwächst. Vier. Bis. Sieben. Jahre.
+**Du darfst dir Zeit lassen.** Liebe ist kein Schalter, den du umlegst, weil die Gesellschaft es erwartet. Laut der Familienforscherin Patricia Papernow (2013) dauert es durchschnittlich 4 bis 7 Jahre, bis eine [Patchworkfamilie](/blog/patchworkfamilie/) wirklich zusammenwächst. Vier. Bis. Sieben. Jahre.
 
 Das bedeutet: Wenn du nach sechs Monaten noch nicht das große Mutterglück spürst, bist du nicht kalt. Du bist *normal*.
 
@@ -46,7 +46,7 @@ Du hast das Recht, Nein zu sagen. Zum dritten Wochenende in Folge, an dem die Ki
 
 ## Lektion 3: Der Vergleich mit der leiblichen Mutter zerstört dich
 
-Du wirst nie die „richtige" Mutter sein. Und weißt du was? **Das ist nicht dein Job.** Studien der University of Cambridge (2019) zeigen, dass Stiefmütter, die versuchen, die Rolle der leiblichen Mutter zu übernehmen, signifikant höhere Stresslevels und Burnout-Raten aufweisen als jene, die ihre eigene Rolle definieren.
+Du wirst nie die „richtige" Mutter sein. Und weißt du was? **Das ist nicht dein Job.** Studien der University of Cambridge (2019) zeigen, dass [Stiefmütter](/blog/stiefmutter/), die versuchen, die Rolle der leiblichen Mutter zu übernehmen, signifikant höhere Stresslevels und Burnout-Raten aufweisen als jene, die ihre eigene Rolle definieren.
 
 Hör auf, dich mit jemandem zu vergleichen, der eine völlig andere Geschichte mit diesen Kindern hat. Du hast deine eigene Geschichte. Und die ist nicht weniger wert.
 

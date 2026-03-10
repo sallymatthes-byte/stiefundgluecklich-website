@@ -11,7 +11,11 @@ image: "/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reih
 imageAlt: "Als Bonusmama hinter dem Bonuskind ewig in der zweiten Reihe?!"
 ---
 
-**Das Gefühl, als Bonusmama immer hinter dem Bonuskind zurückstehen zu müssen, ist eine der schmerzhaftesten Erfahrungen in der Patchworkfamilie.** Wenn dein Partner die Bedürfnisse seiner Kinder konsequent über eure Beziehung stellt — oder sich ein [Mini-Wife-Muster](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/) entwickelt — bleibst du in der zweiten Reihe — und das nagt am Selbstwert. Hier erfährst du, warum das passiert und wie du da wieder rauskommst.
+**Das Gefühl, als Bonusmama immer hinter dem Bonuskind zurückstehen zu müssen, ist eine der schmerzhaftesten Erfahrungen in der Patchworkfamilie.** Wenn dein Partner die Bedürfnisse seiner Kinder konsequent über eure Beziehung stellt — oder sich ein [Mini-Wife-Muster](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/) entwickelt — bleibst du in der zweiten Reihe — und das nagt am Selbstwert. Als systemischer Coach und selbst Bonusmama kenne ich dieses Gefühl. Hier erfährst du, warum das passiert und wie du da wieder rauskommst.
+
+Laut Patricia Papernow (2013) ist die „Insider-Outsider"-Dynamik das zentrale Strukturproblem in Patchworkfamilien: Der leibliche Elternteil und sein Kind bilden eine emotionale Einheit, die vor der neuen Beziehung existierte. Studien zeigen, dass über 60 % der [Stiefmütter](/blog/stiefmutter/) in den ersten Jahren das Gefühl haben, in der Beziehung an zweiter Stelle zu stehen — nach den Kindern, nach der Ex, nach dem schlechten Gewissen (Bray & Kelly, 1998). In Deutschland betrifft das rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024).
+
+> „Die zweite Reihe ist kein Schicksal. Sie ist ein Muster — und Muster können verändert werden, wenn man weiß, wie." — Sally Matthes, Coach für Bonusmamas
 
 
 Es gibt Momente, da habe ich als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) das Gefühl immer in zweiter Reihe zu stehen. Die oberste Priorität meines Partners werden immer seine Kinder sein.

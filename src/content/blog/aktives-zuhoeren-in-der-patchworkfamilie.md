@@ -11,13 +11,15 @@ image: "/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Bonusmama und Bonuskind sitzen sich aufmerksam gegenüber beim Gespräch"
 ---
 
-**Aktives Zuhören bedeutet, deinem Gegenüber mit voller Aufmerksamkeit zuzuhören, ohne sofort zu bewerten oder zu antworten.** In Patchworkfamilien ist das besonders wichtig — weil Missverständnisse hier schneller eskalieren und mehr Menschen mit unterschiedlichen Perspektiven beteiligt sind. In diesem Artikel erfährst du, wie aktives Zuhören funktioniert und wie es euer Familienleben verändert.
+**Aktives Zuhören bedeutet, deinem Gegenüber mit voller Aufmerksamkeit zuzuhören, ohne sofort zu bewerten oder zu antworten.** In [Patchworkfamilien](/blog/patchworkfamilie/) ist das besonders wichtig — weil Missverständnisse hier schneller eskalieren und mehr Menschen mit unterschiedlichen Perspektiven beteiligt sind. Als systemischer Coach und selbst Bonusmama erlebe ich in meiner Arbeit, wie eine einzige veränderte Gesprächstechnik ganze Familiendynamiken umdrehen kann.
 
+Kennst du das Gefühl, einfach nicht verstanden zu werden? Studien zeigen, dass Kommunikationsprobleme in Patchworkfamilien doppelt so häufig auftreten wie in Erstfamilien — weil mehr Perspektiven, mehr Verletzungen und mehr unausgesprochene Erwartungen im Raum stehen (Bray & Kelly, 1998). Laut dem Statistischen Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamilien in Deutschland — und in jeder einzelnen wird täglich um Verständigung gerungen.
 
-Kennst du das Gefühl, einfach nicht verstanden zu werden?
 In unseren zwischenmenschlichen Beziehungen kommt es häufig zu Missverständnissen – nicht nur als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Das liegt daran, dass wir häufig nicht richtig zuhören, sondern damit beschäftigt sind, über unsere Antwort nachzudenken.
-Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden?
-Und wie setzt sich das in der Praxis um?
+
+> „Die meisten Konflikte in Patchworkfamilien entstehen nicht, weil jemand etwas Falsches sagt — sondern weil niemand richtig zuhört." — Sally Matthes, Coach für Bonusmamas
+
+Wie können wir also in unserer Patchworkfamilie aktiv zuhören und somit Konflikte vermeiden? Und wie setzt sich das in der Praxis um?
 
 ## Wie sieht aktives Zuhören in der Patchworkfamilie aus?
 *Bonusmama Mia lebt gemeinsam mit ihrem Partner Tom, ihren beiden Kindern Emily und Ben in der Nähe von Leipzig. Zur Familie gehört außerdem noch Toms [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) Lisa und deren Sohn Max. Die Familie hatte schon seit einiger Zeit mit Spannungen und Konflikten zu kämpfen. Häufig fielen Sätze wie „Das machst du immer so!" oder „Du willst mich einfach nicht verstehen!". Häufig wurde der andere unterbrochen und die einst lebhaften Gespräche beim Abendessen gab es nicht mehr. Jeder fühlte sich [missverstanden](/blog/bonuskinder-und-konflikte/) und es schien, als ob das harmonische Familienleben, von dem sie alle träumten, in weite Ferne gerückt war.*
@@ -66,7 +68,7 @@ Diese Familienkonferenz war der erste Schritt zu einem harmonischen Familienlebe
 - Fasst am Ende eines Gesprächs die wichtigsten Punkte zusammen, damit sich alle gehört fühlen.
 
 ## Zusammenfassung
-Dabei geht es darum, sich selbst zurückzunehmen und sich auf den anderen zu fokussieren. Durch Verständnisfragen, [Paraphrasieren](https://www.scribbr.de/richtig-zitieren/paraphrasieren/) oder Zusammenfassen kann es gelingen, das Gesagte wirklich zu verstehen. Dadurch können neue Perspektiven eingenommen, Vertrauen aufgebaut und Lösungen gefunden werden.
+Patricia Papernow (2013) betont, dass Kommunikation die Brücke zwischen dem „Insider" (leiblicher Elternteil und Kind) und dem „Outsider" (die [Stiefmutter](/blog/stiefmutter/)) in Patchworkfamilien ist. Aktives Zuhören baut diese Brücke. Dabei geht es darum, sich selbst zurückzunehmen und sich auf den anderen zu fokussieren. Durch Verständnisfragen, [Paraphrasieren](https://www.scribbr.de/richtig-zitieren/paraphrasieren/) oder Zusammenfassen kann es gelingen, das Gesagte wirklich zu verstehen. Dadurch können neue Perspektiven eingenommen, Vertrauen aufgebaut und Lösungen gefunden werden.
 
 <!-- FAQ_START
 <details><summary>Was ist aktives Zuhören einfach erklärt?</summary>Aktives Zuhören bedeutet, dem Gesprächspartner volle Aufmerksamkeit zu schenken, das Gesagte in eigenen Worten zusammenzufassen und Verständnis zu zeigen — statt nur darauf zu warten, selbst sprechen zu können.</details>

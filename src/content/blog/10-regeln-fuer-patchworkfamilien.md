@@ -21,7 +21,7 @@ imageAlt: "Glückliche Patchworkfamilie im warmen Licht — Zusammenhalt und Geb
 
 ## Was ist eine Patchworkfamilie?
 
-Eine Patchworkfamilie entsteht, wenn mindestens ein Partner Kinder aus einer früheren Beziehung mitbringt. In Deutschland leben rund 14 % aller Familien als Patchworkfamilien — Tendenz steigend. Das Besondere: Es gibt keine Blaupause. Jede Patchworkfamilie ist anders, weil die Konstellationen so vielfältig sind.
+Eine [Patchworkfamilie](/blog/patchworkfamilie/) entsteht, wenn mindestens ein Partner Kinder aus einer früheren Beziehung mitbringt. Laut dem Statistischen Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamilien in Deutschland — Tendenz steigend. Das Besondere: Es gibt keine Blaupause. Jede Patchworkfamilie ist anders, weil die Konstellationen so vielfältig sind. Studien zeigen, dass es durchschnittlich 4–7 Jahre dauert, bis eine Stieffamilie ein stabiles Gleichgewicht findet (Bray & Kelly, 1998). Umso wichtiger, dass die Grundregeln von Anfang an stehen.
 
 Aber es gibt Regeln, die in fast jeder Konstellation helfen. Hier sind die 10 wichtigsten.
 
@@ -55,7 +55,7 @@ Diese Regel rettet Beziehungen. Wirklich.
 
 Wenn du als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Erziehung der Kinder übernimmst, bevor eine echte Beziehung da ist, entsteht Widerstand. Die Kinder denken: „Du bist nicht meine Mama!" Und sie haben recht.
 
-**Das heißt nicht, dass du unsichtbar sein musst.** Du darfst [Grenzen setzen](/blog/die-10-rechte-der-stiefmuetter/), du darfst sagen was dir wichtig ist. Aber die Hauptverantwortung für Erziehungsentscheidungen liegt beim leiblichen Elternteil — zumindest am Anfang.
+**Das heißt nicht, dass du unsichtbar sein musst.** Du darfst [Grenzen setzen](/blog/die-10-rechte-der-stiefmuetter/), du darfst sagen was dir wichtig ist. Aber die Hauptverantwortung für Erziehungsentscheidungen liegt beim leiblichen Elternteil — zumindest am Anfang. Die Familienforscherin Patricia Papernow (2013) beschreibt das als „Stepping Back to Step In": Erst wenn die [Stiefmutter](/blog/stiefmutter/) sich zurücknimmt, kann eine authentische Bindung zum Kind entstehen.
 
 Im Laufe der Zeit — wenn Vertrauen und Beziehung gewachsen sind — verschiebt sich das natürlich. Aber der Start muss klar sein.
 
