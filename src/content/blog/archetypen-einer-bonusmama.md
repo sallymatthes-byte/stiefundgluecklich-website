@@ -18,6 +18,10 @@ Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stie
 
 Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
 
+Laut einer Studie von Dr. Patricia Papernow brauchen Patchworkfamilien im Durchschnitt **4–7 Jahre**, bis sich stabile Rollenbilder herausbilden (Papernow, 2013). Und laut Statistischem Bundesamt (2023) leben in Deutschland rund **14 % aller Familien** in einer Patchwork-Konstellation — jede davon mit ihrer eigenen Dynamik. Die Frage „Welcher Typ bin ich?" ist also keine Spielerei, sondern der erste Schritt zu bewusstem Handeln.
+
+> „In meinen Coachings sehe ich immer wieder: Bonusmamas, die ihren Typ erkennen, hören auf, sich mit anderen zu vergleichen — und fangen an, ihre eigenen Stärken zu nutzen." — Sally Matthes, Coach für Bonusmamas
+
 Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfindest.
 
 ## 1. Die Unsichtbare
@@ -85,4 +89,22 @@ Lies dir die fünf Archetypen durch und schau, wo du dich am meisten wiederfinde
 
 Wichtig ist, dass du erkennst, wo du gerade stehst. Denn erst wenn du weißt, welche Muster dich steuern, kannst du bewusst entscheiden, wie du damit umgehen willst.
 
-Egal welcher Typ du bist: Du bist nicht falsch. Du bist eine Bonusmama, die sich in einem komplexen System zurechtfindet. Und allein dafür verdienst du Anerkennung — vor allem von dir selbst.
+Egal welcher Typ du bist: Du bist nicht falsch. Du bist eine [Bonusmama](/blog/stiefmutter/), die sich in einem komplexen System zurechtfindet. Und allein dafür verdienst du Anerkennung — vor allem von dir selbst.
+
+Wenn du tiefer einsteigen willst, schau dir auch die [Phasen einer Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) an — denn dein Archetyp kann sich mit der Phase verändern, in der ihr euch gerade befindet. Und wenn du merkst, dass du gerade zwischen „Erschöpfte" und „Kämpferin" pendelst, könnte unser Artikel über [Burnout als Bonusmama](/blog/burnout-als-bonusmama/) dir weiterhelfen.
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „4 Arten einer Bonusmama — zu welcher gehörst du?" an — auf [Spotify](https://open.spotify.com/episode/4aORLzHJAVrm23UHQXgwdU) oder überall, wo du Podcasts hörst.
+
+---
+
+<!-- FAQ_START
+<dl>
+<dt>Kann ich als Bonusmama mehrere Archetypen gleichzeitig sein?</dt>
+<dd>Ja, die meisten Bonusmamas tragen Anteile mehrerer Typen in sich. Je nach Situation, Tagesverfassung und Phase der Patchworkfamilie kann ein anderer Archetyp dominieren. Das ist völlig normal.</dd>
+<dt>Verändert sich mein Archetyp im Laufe der Zeit?</dt>
+<dd>Absolut. Mit wachsender Erfahrung, bewusstem Arbeiten an Mustern und veränderten Familiendynamiken wandelt sich dein Typ. Viele Bonusmamas starten als „Unsichtbare" und entwickeln sich zur selbstbewussten Gestalterin.</dd>
+<dt>Was mache ich, wenn ich mich als „Erschöpfte" erkenne?</dt>
+<dd>Erkenne es als erstes an — das ist bereits ein wichtiger Schritt. Dann: Sprich mit deinem Partner über Verantwortungsverteilung, hole dir professionelle Unterstützung und erlaube dir, Aufgaben abzugeben, die nicht deine sind.</dd>
+</dl>

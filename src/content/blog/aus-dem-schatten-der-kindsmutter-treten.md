@@ -30,7 +30,11 @@ Auch die Schwiegereltern und dein Partner sind verunsichert. Sie wollen dem Kind
 
 Und dann sind da noch die gesellschaftlichen Erwartungen und Vorurteile gegenüber Stiefmüttern. Das Bild der „bösen Stiefmutter" ist tief verankert und schürt die Angst, dir nicht zu genügen oder eine intakte Familie zu gefährden.
 
-All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Aber sie sagen nichts über deinen Wert als Bonusmama aus. Und dennoch tut es weh – wie kannst du diese Gefühle also annehmen?
+All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Laut einer Studie von Wednesday Martin erfahren **über 70 % der Stiefmütter** regelmäßig Vergleiche mit der leiblichen Mutter — oft auch von der eigenen Schwiegerfamilie (Martin, 2009). Und Patchworkfamilien-Forscherin Patricia Papernow betont, dass die Insider-Outsider-Dynamik in [Patchworkfamilien](/blog/patchworkfamilie/) eine **strukturelle Realität** ist, keine persönliche Schwäche (Papernow, 2013).
+
+> „Der Vergleich mit der Kindsmutter ist einer der häufigsten Schmerzpunkte, die Bonusmamas in meine Coachings bringen. Und fast immer steckt dahinter nicht die Frage ‚Bin ich gut genug?' — sondern ‚Werde ich überhaupt gesehen?'" — Sally Matthes, Coach für Bonusmamas
+
+Aber diese Vergleiche sagen nichts über deinen Wert als [Stiefmutter](/blog/stiefmutter/) aus. Und dennoch tut es weh – wie kannst du diese Gefühle also annehmen?
 
 ![Bonusmama reflektiert ihre Gefühle und nimmt sich Zeit für sich selbst](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
 
@@ -61,6 +65,8 @@ Denke daran: Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh�
 - **Erkenne deine einzigartigen Fähigkeiten.** Reflektiere, was dich als Person ausmacht und was du in die Familie einbringst. Schreibe deine Stärken und positiven Eigenschaften auf und erinnere dich täglich daran. Sei stolz auf das, was du leistest und den Unterschied, den du machst.
 - **Gestalte die Beziehung zum Bonuskind aktiv.** Finde gemeinsame Interessen und Aktivitäten, die euch verbinden. Schaffe besondere Momente und Rituale, die nur euch gehören. Sei eine verlässliche und liebevolle Bezugsperson, ohne die Mama zu ersetzen.
 - **Lass dich als Bonusmama wertschätzen und anerkennen.** Nimm Komplimente und Dankbarkeit bewusst an und freue dich darüber. Feiere deine Erfolge und Fortschritte als Bonusmama. Erlaube dir, stolz auf deine Rolle und Leistung zu sein.
+
+Laut dem Statistischen Bundesamt (2023) leben rund **1,1 Millionen Patchworkfamilien** in Deutschland — und in jeder davon gibt es eine Bonusmama, die ihren Platz finden muss.
 
 Indem du deinen [eigenen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) findest und ausfüllst, wirst du nicht nur selbstbewusster und zufriedener, sondern zeigst auch dem Bonuskind und der Familie, wie wertvoll und einzigartig du bist. Du bist ein unverzichtbarer Teil des Familiengefüges – nicht als Ersatz, sondern als bereichernde und liebevolle Bonusmama.
 

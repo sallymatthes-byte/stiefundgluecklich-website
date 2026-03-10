@@ -44,6 +44,8 @@ Stell dir vor, du bist Sabine und dein Partner Kevin hat zwei Kinder. Jedes Mal,
 
 Die Familientherapeutin Patricia Papernow betont, dass dies eine der zentralen Herausforderungen für Patchworkfamilien ist. Anders als in einer Kernfamilie, wo die Kinder von Anfang an mit beiden Eltern vertraut sind, gibt es in Stieffamilien **zunächst keine gemeinsame Basis.** Die Insider-Outsider-Positionen sind festgefahren und es braucht Zeit und Geduld, sie aufzulockern.
 
+> „Fast jede Bonusmama, die zu mir ins Coaching kommt, sagt irgendwann diesen einen Satz: ‚Ich fühle mich wie der Gast in meiner eigenen Familie.' Und das Schlimmste daran ist nicht das Gefühl selbst — sondern dass sie glaubt, sie sei die Einzige." — Sally Matthes, Coach für Bonusmamas
+
 Das bedeutet nicht, dass du als Outsider immer außen vor bleiben musst. Aber es ist wichtig zu verstehen, dass deine Rolle am Anfang anders ist als die des leiblichen Elternteils. Du musst dir das Vertrauen der Kinder erst Schritt für Schritt erarbeiten, während dein Partner lernen muss, dich mehr einzubeziehen, ohne seine Kinder zu vernachlässigen.
 
 > Außenseiter sein, ja! Dann aber möglichst auf der Sonnenseite. – Martin Reisenberg
@@ -77,7 +79,7 @@ Indem ihr diese Fallstricke vermeidet und euch stattdessen auf die positiven Str
 
 ## Zusammenfassung
 
-Das Gefühl, als Außenseiterin in der eigenen Patchworkfamilie zu stehen, ist eine der häufigsten und schmerzhaftesten Erfahrungen für Bonusmamas. Die Insider-Outsider-Dynamik ist kein Zeichen dafür, dass etwas falsch läuft – sie gehört zum Wesen einer Stieffamilie dazu. Entscheidend ist, wie ihr als Paar damit umgeht: Normalisiert die Gefühle, investiert bewusst in einzelne Beziehungen und kommuniziert offen miteinander. Vermeidet den Druck, sofort eine perfekte Familie sein zu müssen, und gebt euch gegenseitig die Zeit, die es braucht.
+Das Gefühl, als Außenseiterin in der eigenen [Patchworkfamilie](/blog/patchworkfamilie/) zu stehen, ist eine der häufigsten und schmerzhaftesten Erfahrungen für [Bonusmamas](/blog/stiefmutter/). Die Insider-Outsider-Dynamik ist kein Zeichen dafür, dass etwas falsch läuft – sie gehört zum Wesen einer Stieffamilie dazu. Entscheidend ist, wie ihr als Paar damit umgeht: Normalisiert die Gefühle, investiert bewusst in einzelne Beziehungen und kommuniziert offen miteinander. Vermeidet den Druck, sofort eine perfekte Familie sein zu müssen, und gebt euch gegenseitig die Zeit, die es braucht.
 
 <!-- FAQ_START
 <details><summary>Warum fühle ich mich als Bonusmama wie eine Außenseiterin?</summary>In Patchworkfamilien gibt es eine natürliche Insider-Outsider-Dynamik. Der biologische Elternteil und die Kinder teilen eine gemeinsame Geschichte, während du als Bonusmama dir deinen Platz erst erarbeiten musst. Das ist völlig normal und kein Zeichen dafür, dass etwas mit dir nicht stimmt.</details>

@@ -16,6 +16,10 @@ imageAlt: "Bonusmama balanciert Verantwortung in der Patchworkfamilie"
 
 Heute widmen wir uns einem Thema, das uns alle betrifft: die Verantwortung für unsere lieben Bonuskinder. Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in meiner eigenen Patchworkfamilie habe ich hautnah erlebt, wie sich die Dynamik der Verantwortung entwickeln kann. Doch eines kann ich euch schon jetzt verraten: Es gibt keinen One-Size-Fits-all Ansatz!
 
+Laut einer Studie von Bray und Kelly (1998) scheitern [Patchworkfamilien](/blog/patchworkfamilie/) besonders häufig an **ungeklärten Verantwortlichkeiten** zwischen den Erwachsenen. Und das Statistische Bundesamt (2023) zeigt: In rund **14 % aller Familien** mit Kindern gibt es mindestens einen Stiefelternteil. Das heißt: Du bist mit dieser Frage nicht allein.
+
+> „Die Frage ‚Wie viel Verantwortung übernehme ich?' ist keine, die du einmal beantwortest und dann abhakst. Sie kommt in jeder Phase der [Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) wieder — und die Antwort darf sich verändern." — Sally Matthes, Coach für Bonusmamas
+
 Jede Beziehung ist einzigartig und erfordert *individuelle Lösungen*. In unserem Fall lag die Verantwortung zu Beginn komplett bei meinem Partner – eine Entscheidung, die nicht immer auf Verständnis stößt, aber uns geholfen hat, eine solide Basis für unsere Beziehung zu schaffen.
 Weshalb und wie wir das geschafft haben, erfährst du im Artikel.
 
@@ -77,7 +81,9 @@ Es geht darum, sich aktiv einzubringen und Verantwortung zu übernehmen, währen
 Die Kommunikation und das gemeinsame Treffen von Entscheidungen sind dabei von großer Bedeutung. Es ist wichtig, den Prozess behutsam anzugehen und sich Zeit für die Entwicklung einer starken Bindung zu nehmen.
 Grenzen setzen und die Balance zwischen biologischem Elternteil und Bonuseltern zu finden, kann eine Herausforderung sein. Mit offener Kommunikation und gegenseitiger Unterstützung ist es möglich, eine harmonische Patchworkfamilie aufzubauen. Es gibt Höhen und Tiefen, aber letztendlich geht es darum, den Bonuskindern ein liebevolles und stabiles Umfeld zu bieten und gemeinsam zu wachsen.
 
-Erlaube dir, die Verantwortung zu teilen – du musst das nicht alleine tragen.
+Erlaube dir, die Verantwortung zu teilen – du musst das nicht alleine tragen. Wenn du merkst, dass du an deine Grenzen stößt, lies auch unseren Artikel über [Burnout als Bonusmama](/blog/burnout-als-bonusmama/) — denn aus zu viel Verantwortung wird schnell Erschöpfung. Und für konkrete Strategien zur Aufgabenteilung schau dir [Grenzen setzen mit der Ex](/blog/grenzen-setzen-mit-der-ex/) an.
+
+Mehr zum Thema [Stiefmutter](/blog/stiefmutter/) sein und was es wirklich bedeutet, findest du in unserer Hub-Übersicht.
 
 <!-- FAQ_START
 <dl>
