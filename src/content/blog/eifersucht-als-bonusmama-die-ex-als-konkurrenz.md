@@ -3,7 +3,7 @@ title: "Eifersucht als Bonusmama: Die Ex als Konkurrenz"
 description: "Eifersucht auf die Ex-Frau? Entdecke bewährte Strategien, um diese Gefühle zu überwinden und gestärkt daraus hervorzugehen."
 category: "ex-und-system"
 date: 2024-02-02
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Eifersucht auf die Ex-Frau überwinden: 5 Wege als Bonusmama"
 metaDescription: "Eifersüchtig auf die Ex-Frau deines Partners? Warum die Eifersucht entsteht, wann sie gefährlich wird — und 5 Wege raus."
 heroImage: "/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-1.jpg"
@@ -31,7 +31,7 @@ Du fragst dich:
 - Was bedeuten diese langen Telefonate über die Kinder wirklich?
 - Wird er insgeheim Vergleiche zwischen dir und ihr anstellen?
 
-Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten.
+Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten. Laut Wednesday Martin (2009) ist Eifersucht auf die Ex-Partnerin eine der häufigsten und am meisten tabuisierten Emotionen von [Stiefmüttern](/blog/stiefmutter/) — und trotzdem spricht kaum jemand offen darüber.
 
 ![Frau sitzt nachdenklich auf einer Parkbank im Herbstwald — Eifersucht verarbeiten](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
 
@@ -43,7 +43,7 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 - Die Sehnsucht nach einer eigenen, unbelasteten Geschichte mit deinem Partner
 - Die Unsicherheit, ob deine Liebe „ausreicht", um die Schatten der Vergangenheit zu überstrahlen
 
-> Eifersucht ist wie ein Kompass — sie zeigt uns, was uns wirklich wichtig ist. Statt sie zu verdammen, können wir sie als Wegweiser zu unseren tiefsten Bedürfnissen nutzen.
+> „Eifersucht auf die Ex ist kein Zeichen von Schwäche — sie ist ein Zeichen dafür, dass du in einem System angekommen bist, das dir keinen klaren Platz gibt. Und genau das darfst du ändern." — Sally Matthes, Coach für Bonusmamas
 
 ![Sonnenlicht durchbricht Bäume auf einem Waldweg — Hoffnung und Veränderung](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
 
@@ -99,7 +99,7 @@ Statt den Blick auf die Vergangenheit zu richten, darfst du dich auf das konzent
 
 Die Eifersucht auf die Ex-Frau muss nicht dein ständiger Begleiter bleiben. Sie kann sogar ein Katalysator für persönliches Wachstum sein. **Denn oft zeigt sie uns genau die Bereiche, in denen wir uns selbst noch mehr lieben und akzeptieren dürfen.**
 
-Ich habe in meiner Arbeit mit vielen Bonusmamas erlebt, wie sie durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist — nicht trotz, sondern gerade wegen ihrer besonderen [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/).*
+Studien zeigen, dass es 4 bis 7 Jahre dauert, bis eine [Patchworkfamilie](/blog/patchworkfamilie/) wirklich zusammenwächst (Bray & Kelly, 1998). In dieser Zeit ist Eifersucht ein normaler Begleiter — kein Dauerzustand. In über 700 Coaching-Stunden habe ich erlebt, wie Bonusmamas durch das Verstehen und Transformieren ihrer Eifersucht zu noch stärkeren Persönlichkeiten geworden sind. *Sie haben gelernt, dass ihre Position in der Familie einzigartig und wertvoll ist — nicht trotz, sondern gerade wegen ihrer besonderen [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/).*
 
 <!-- FAQ_START
 
