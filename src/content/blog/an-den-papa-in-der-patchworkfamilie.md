@@ -14,6 +14,7 @@ podcastTitle: "An den Papa in der Patchworkfamilie: Was deine Partnerin sich nic
 podcastDescription: "Diese Folge richtet sich direkt an die Papas in Patchworkfamilien. Sally spricht aus, was viele Bonusmamas fühlen — aber nicht sagen."
 youtubeId: "8ylXCcK2Qgc"
 buzzsproutId: 18816069
+publishDate: 2026-04-24
 ---
 
 **Diese Worte sind für dich — für dich als Papa in einer Patchworkfamilie.** Nicht als Vorwurf. Nicht als Anklage. Sondern als ehrlicher Blick auf das, was deine Partnerin erlebt — und sich vielleicht nicht traut, laut auszusprechen. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und in meiner Arbeit als systemischer Coach erlebe ich täglich: Die Bonusmama trägt oft am meisten — und sagt am wenigsten.

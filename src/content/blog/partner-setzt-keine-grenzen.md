@@ -11,6 +11,7 @@ image: "/images/blog/partner-setzt-keine-grenzen-1.jpg"
 imageAlt: "Frau sitzt allein auf dem Sofa und blickt frustriert zur Seite, während ihr Partner im Hintergrund telefoniert"
 youtubeId: "HhHlv7mzOEU"
 buzzsproutId: 18816056
+publishDate: 2026-03-13
 ---
 
 **Wenn dein Partner der Ex keine Grenzen setzt, den Kindern keine Grenzen setzt — und du wartest und wartest — dann kennst du dieses Gefühl: eine Mischung aus Wut, Enttäuschung und dem leisen Verdacht, dass es so nicht weitergehen kann.** In meiner Arbeit als systemischer Coach begegnet mir genau diese Konstellation ständig. Und ich sage dir etwas, das du vielleicht nicht hören willst: Das eigentliche Problem ist nicht, dass er keine Grenzen setzt. Das Problem ist, dass du deine eigenen nicht kennst.

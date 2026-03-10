@@ -11,6 +11,7 @@ image: "/images/blog/alles-persoenlich-nehmen-bonusmama-1.jpg"
 imageAlt: "Frau sitzt verletzt und nachdenklich am Küchentisch mit einer kalten Tasse Kaffee"
 youtubeId: "h7zX6dltbEg"
 buzzsproutId: 18816096
+publishDate: 2026-04-10
 ---
 
 **Dein Bonuskind stößt dich weg. Die Ex stichelt. Dein Partner schweigt. Und du fragst dich: Was mache ich falsch?** Die Antwort ist: Nichts. Du machst nichts falsch. In einer [Patchworkfamilie](/blog/patchworkfamilie/) wirst du als [Stiefmutter](/blog/stiefmutter/) zur Projektionsfläche — ohne dass es irgendjemand bewusst entschieden hat.

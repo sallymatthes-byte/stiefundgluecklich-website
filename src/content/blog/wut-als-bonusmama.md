@@ -11,6 +11,7 @@ image: "/images/blog/wut-als-bonusmama-1.jpg"
 imageAlt: "Frau ballt die Fäuste auf einem Holztisch, angespannter Kiefer, warmes Fensterlicht"
 youtubeId: "4KJXaGtRWuY"
 buzzsproutId: 18816065
+publishDate: 2026-03-27
 ---
 
 **Du schluckst es runter. Schon wieder. Weil du nicht die aggressive Bonusmama sein willst.** Weil du denkst: Wenn ich jetzt sage, was ich fühle, eskaliert es. Also lächelst du. Räumst die Küche auf. Gehst ins Bad und atmest durch. Und irgendwo tief drin brennt etwas, das sich nicht löschen lässt.

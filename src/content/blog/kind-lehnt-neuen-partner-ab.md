@@ -11,6 +11,7 @@ image: "/images/blog/kind-lehnt-neuen-partner-ab-1.jpg"
 imageAlt: "Mutter tröstet Kind, das sich von einem Mann auf dem Sofa abwendet, warmes Wohnzimmerlicht"
 youtubeId: "QtiImrs0oqw"
 buzzsproutId: 18815966
+publishDate: 2026-05-22
 ---
 
 **Sonntagmorgen, Frühstück. Dein Partner schmiert deinem Kind ein Brot — und dein Kind schiebt den Teller weg: „Von dem will ich das nicht."** Dein Partner schluckt. Du schluckst. Und dein Kind schaut dich an, als müsstest du dich jetzt entscheiden. Kind oder Partner. Liebe oder Loyalität. Als gäbe es nur eins von beidem.
