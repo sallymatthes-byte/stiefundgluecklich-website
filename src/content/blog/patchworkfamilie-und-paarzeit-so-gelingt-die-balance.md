@@ -9,6 +9,8 @@ metaDescription: "Keine Paarzeit in der Patchworkfamilie? Wie du trotz Bonuskind
 heroImage: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 image: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 imageAlt: "Paar sitzt gemeinsam auf dem Sofa in ihrer Patchworkfamilie"
+youtubeId: "KqmP97hMddc"
+buzzsproutId: 18809781
 ---
 
 **Paarzeit ist in Patchworkfamilien keine Selbstverständlichkeit — sondern etwas, das aktiv erkämpft werden muss.** Zwischen Umgangswochenenden, Kinderbedürfnissen und Ex-Themen bleibt die Beziehung oft auf der Strecke. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) ist die Paarbeziehung der stärkste Prädiktor dafür, ob eine Patchworkfamilie langfristig zusammenbleibt. Hier erfährst du, wie ihr zurück zur Zweisamkeit findet.

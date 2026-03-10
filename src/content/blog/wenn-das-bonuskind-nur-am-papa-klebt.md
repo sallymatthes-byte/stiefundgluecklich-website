@@ -9,6 +9,8 @@ metaDescription: "Dein Bonuskind will nur den Papa und ignoriert dich? Warum das
 heroImage: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 image: "/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-1.jpg"
 imageAlt: "Wenn das Bonuskind nur am Papa klebt"
+youtubeId: "nqj2e5MIsFY"
+buzzsproutId: 18809795
 ---
 
 **Wenn das [Bonuskind](/blog/stiefkind/) nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten laut Patricia Papernow (2013) in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit — das Kind versucht, sein vertrautes System zu schützen. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Studien zeigen, dass es 4–7 Jahre dauert, bis Bindungen in Stieffamilien stabil werden (Bray & Kelly, 1998). Hier erfährst du, was wirklich dahintersteckt.

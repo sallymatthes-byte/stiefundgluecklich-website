@@ -9,6 +9,8 @@ metaDescription: "Seine Tochter bestimmt alles, schmust ständig und du fühlst 
 heroImage: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 imageAlt: "Mini-Wife in Patchworkfamilien"
+youtubeId: "WkQtUUKoXJ8"
+buzzsproutId: 18809759
 ---
 
 **Mini-Wife beschreibt ein Verhaltensmuster, bei dem ein Kind — meist die Tochter — die Rolle der Partnerin ihres Vaters einnimmt.** Das Kind bestimmt, wo Papa sitzt, wer neben ihm schläft und wie der Familienalltag läuft. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in meiner Arbeit als systemischer Coach erlebe ich, dass das Mini-Wife-Syndrom zu den häufigsten und belastendsten Dynamiken gehört, mit denen Bonusmamas zu mir kommen.

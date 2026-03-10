@@ -9,6 +9,8 @@ metaDescription: "Wie ihr als Patchworkfamilie eigene Traditionen, Rituale und e
 heroImage: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
 image: "/images/blog/gemeinsame-familienkultur-in-patchworkfamilien-1.jpg"
 imageAlt: "So gelingt der Weg zur gemeinsamen Familienkultur in einer Patchworkfamilie"
+youtubeId: "3zVNevOkQyw"
+buzzsproutId: 18809806
 ---
 
 **Eine gemeinsame Familienkultur entsteht in Patchworkfamilien nicht von allein — sie muss aktiv und bewusst gestaltet werden.** Rituale, Feiertage, Alltagsregeln: All das verbindet euch als neue Familie, wenn ihr es gemeinsam entwickelt statt einfach zu übernehmen.

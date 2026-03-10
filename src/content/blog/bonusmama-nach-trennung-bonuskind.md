@@ -12,6 +12,8 @@ imageAlt: "Frau schaut auf ein gerahmtes Foto eines Kindes, warmes Nachmittagsli
 podcastEpisode: "https://www.youtube.com/watch?v=HZhP2LTfkGA"
 podcastTitle: "Bonusmama nach Trennung: Darf ich im Leben meines Bonuskindes bleiben?"
 podcastDescription: "Alexandra Kärndler erzählt, wie sie den Kontakt zu ihrer Bonustochter hält — auch nach der Trennung vom Kindsvater. 13 Jahre Patchwork und die Frage: Was bleibt?"
+youtubeId: "HZhP2LTfkGA"
+buzzsproutId: 18809764
 ---
 
 **Wenn die Beziehung zum Kindsvater endet, verlierst du nicht nur einen Partner — du verlierst eine ganze Familie.** Und das Kind, das du jahrelang mitgeliebt, miterzogen, mitgetragen hast? Das steht plötzlich auf der anderen Seite einer Tür, die du nicht mehr öffnen darfst.

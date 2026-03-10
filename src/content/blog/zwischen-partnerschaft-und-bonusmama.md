@@ -9,6 +9,8 @@ metaDescription: "Partnerin ODER Bonusmama? Warum du beides sein darfst — und 
 heroImage: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 image: "/images/blog/zwischen-partnerschaft-und-bonusmama-1.jpg"
 imageAlt: "Frau balanciert zwischen Partnerschaft und Bonusmama-Rolle in der Patchworkfamilie"
+youtubeId: "HFjX51__zYc"
+buzzsproutId: 18809787
 ---
 
 **Die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden, ist eine der größten Daueraufgaben in der Patchworkfamilie.** Laut Patricia Papernow (2013) ist die häufigste Falle für [Stiefmütter](/blog/stiefmutter/), die Mutterrolle zu übernehmen und dabei die Partnerschaft zu verlieren. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024) — und in vielen davon kämpfen Bonusmamas genau mit dieser Balance.

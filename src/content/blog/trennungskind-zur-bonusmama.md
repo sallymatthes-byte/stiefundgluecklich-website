@@ -12,6 +12,8 @@ imageAlt: "Junge Frau sitzt nachdenklich auf einer Schaukel und blickt in die Fe
 podcastEpisode: "https://www.youtube.com/watch?v=Y_DLkL3Sjs0"
 podcastTitle: "Vom Trennungskind zur Bonusmama: Kristins ehrliche Geschichte"
 podcastDescription: "Kristin Zela war selbst Trennungskind und ist heute Bonusmama. Wie tief die Spuren der eigenen Kindheit in einer Patchworkfamilie nachwirken — und wie sie daran gewachsen ist."
+youtubeId: "Y_DLkL3Sjs0"
+buzzsproutId: 18809751
 ---
 
 **Wenn du als Kind eine Trennung erlebt hast und heute Bonusmama bist, trägst du eine doppelte Geschichte in dir — und die ist mächtiger, als du denkst.** Denn die Muster, die du als Trennungskind gelernt hast, formen deine Rolle als Stiefmutter. Jeden Tag. In jedem Konflikt. Bei jeder Entscheidung.

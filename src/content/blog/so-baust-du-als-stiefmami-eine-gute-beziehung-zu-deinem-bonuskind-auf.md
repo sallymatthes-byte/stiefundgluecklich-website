@@ -9,6 +9,8 @@ metaDescription: "Eine Beziehung zum Bonuskind aufbauen braucht Zeit und Geduld.
 heroImage: "/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-1.jpg"
 image: "/images/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf-1.jpg"
 imageAlt: "So baust du als Stiefmami eine gute Beziehung zu deinem Bonuskind auf"
+youtubeId: "7vLYJxJusGg"
+buzzsproutId: 18809811
 ---
 
 **Eine gute Beziehung zum Bonuskind aufzubauen braucht Zeit, Geduld und vor allem die Bereitschaft, die Erwartungen runterzuschrauben.** Du wirst das Kind wahrscheinlich nicht lieben wie ein eigenes — und das ist okay. Laut Bray & Kelly (1998) brauchen Stiefmutter-Kind-Beziehungen 4–7 Jahre, um sich wirklich zu festigen. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in jeder davon stellt sich diese Frage. Hier erfährst du, wie ein respektvolles, ehrliches Miteinander gelingt.

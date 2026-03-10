@@ -9,6 +9,8 @@ metaDescription: "Der Ex ist Teil des Pakets — ob du willst oder nicht. Wie du
 heroImage: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 image: "/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-1.jpg"
 imageAlt: "Bonusmama im Gespräch über die Rolle von Expartnern in der Patchworkfamilie"
+youtubeId: "XhxuTOt41hs"
+buzzsproutId: 18809805
 ---
 
 **Ex-Partner sind in Patchworkfamilien dauerhaft präsent — ob du willst oder nicht.** Die Beziehung deines Partners zu seiner Ex beeinflusst euren Alltag, eure Entscheidungen und dein Wohlbefinden als Bonusmama. Dieser Artikel zeigt dir, wie du mit dieser Realität einen gesunden Umgang findest.

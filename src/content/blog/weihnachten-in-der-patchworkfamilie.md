@@ -9,6 +9,8 @@ metaDescription: "Weihnachten als Patchworkfamilie ist eine Herausforderung. So 
 heroImage: "/images/blog/weihnachten-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/weihnachten-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Weihnachten in der Patchworkfamilie"
+youtubeId: "Pa7gSJJCHPc"
+buzzsproutId: 18809783
 ---
 
 **Weihnachten in der Patchworkfamilie ist emotional aufgeladen — weil es das Fest ist, an dem der Unterschied zur „normalen“ Familie am deutlichsten spürbar wird.** In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) gehören Feiertage zu den drei häufigsten Konfliktauslösern in Stieffamilien. Als systemischer Coach und selbst Bonusmama kenne ich das Spannungsfeld: Wer feiert wann mit wem? Wo schlafen die Kinder?

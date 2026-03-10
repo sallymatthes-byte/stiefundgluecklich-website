@@ -9,6 +9,8 @@ metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gef
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster mit Kaffeetasse — Eifersucht auf das Stiefkind überwinden"
+youtubeId: "fna4XhaKA-w"
+buzzsproutId: 18809792
 ---
 
 **Eifersucht auf das Stiefkind ist ein Tabu-Thema — dabei kennt fast jede Bonusmama Momente, in denen sie sich fragt, ob sie an zweiter Stelle steht.** Wenn dein Partner sein Kind in den Mittelpunkt stellt und du dich dabei verloren fühlst, ist das kein Versagen, sondern ein Signal. Laut Wednesday Martin (2009) ist Eifersucht auf das Stiefkind eine der häufigsten — und gleichzeitig am meisten verschwiegenen — emotionalen Herausforderungen in [Patchworkfamilien](/blog/patchworkfamilie/). In über 700 Coaching-Stunden mit Bonusmamas habe ich eines gelernt: Dieses Gefühl hat nichts mit dem Kind zu tun — und alles mit deiner Sehnsucht nach Zugehörigkeit.

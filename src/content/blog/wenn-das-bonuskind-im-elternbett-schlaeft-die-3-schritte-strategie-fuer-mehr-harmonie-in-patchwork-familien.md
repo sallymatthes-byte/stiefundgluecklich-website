@@ -9,6 +9,8 @@ metaDescription: "Dein Bonuskind schläft im Elternbett und du liegst daneben? 3
 heroImage: "/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-1.jpg"
 image: "/images/blog/wenn-das-bonuskind-im-elternbett-schlaeft-die-3-schritte-strategie-fuer-mehr-harmonie-in-patchwork-familien-1.jpg"
 imageAlt: "Wenn das Bonuskind im Elternbett schläft"
+youtubeId: "9ZE0EYdIW7s"
+buzzsproutId: 18809769
 ---
 
 **Wenn das Bonuskind regelmäßig im Elternbett schläft, wird aus einem Kinderbedürfnis schnell ein Beziehungsproblem.** Du fühlst dich verdrängt, dein Partner fühlt sich zerrissen, und das Kind spürt die Spannung. Studien zeigen, dass es 4–7 Jahre dauert, bis eine Patchworkfamilie zusammenwächst (Bray & Kelly, 1998) — und Schlafthemen gehören zu den frühesten Spannungsfeldern. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Hier findest du eine 3-Schritte-Strategie für mehr Harmonie.

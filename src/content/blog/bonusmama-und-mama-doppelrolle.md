@@ -12,6 +12,8 @@ imageAlt: "Bonusmama reflektiert nachdenklich über ihre Doppelrolle als Mutter 
 podcastEpisode: "https://www.youtube.com/watch?v=T0f8jXKNXBc"
 podcastTitle: "Bonusmama und Mama: Wie Julia lernte, loszulassen ohne aufzugeben"
 podcastDescription: "Julia ist Bonusmama und Mama — und kennt beide Seiten der Patchworkfamilie. Ein ehrliches Interview über Loyalitätskonflikte, Grenzen und die Frage, wie viel man geben kann."
+youtubeId: "T0f8jXKNXBc"
+buzzsproutId: 18809719
 ---
 
 **Du bist Mama und Bonusmama gleichzeitig — und niemand sieht, was das wirklich bedeutet.** Du liebst deine eigenen Kinder bedingungslos. Und du gibst alles für deine Bonuskinder. Aber was passiert, wenn diese beiden Rollen kollidieren? Wenn du merkst, dass du für die einen *zu viel* und für die anderen *nie genug* bist?

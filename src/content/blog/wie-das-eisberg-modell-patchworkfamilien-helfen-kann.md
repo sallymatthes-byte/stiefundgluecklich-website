@@ -9,6 +9,8 @@ metaDescription: "Warum Konflikte in Patchworkfamilien tiefer liegen als du denk
 heroImage: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 image: "/images/blog/wie-das-eisberg-modell-patchworkfamilien-helfen-kann-1.jpg"
 imageAlt: "Wie das Eisberg-Modell Patchworkfamilien helfen kann"
+youtubeId: "eaOdyda7YTQ"
+buzzsproutId: 18809772
 ---
 
 **Das Eisberg-Modell zeigt, dass in Patchworkfamilien das meiste unter der Oberfläche passiert — und dass die sichtbaren Konflikte nur die Spitze sind.** In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) sind die meisten Konflikte in Stieffamilien Symptome tieferliegender Bedürfnisse. Patricia Papernow (2013) beschreibt das als die „Insider-Outsider“-Dynamik. Hier erfährst du, wie du unter die Oberfläche schaust.

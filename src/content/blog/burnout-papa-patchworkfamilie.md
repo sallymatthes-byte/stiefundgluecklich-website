@@ -12,6 +12,8 @@ imageAlt: "Erschöpfter Vater sitzt allein am Küchentisch und stützt den Kopf 
 podcastEpisode: "https://www.youtube.com/watch?v=zil0D2mD9Q8"
 podcastTitle: "Wenn Papa nicht mehr kann: Christian Behr über Burnout und Heilung"
 podcastDescription: "Christian Behr — Teil von Deutschlands größter Regenbogenfamilie — spricht über seinen Burnout-Zusammenbruch und den Weg zurück zu sich selbst."
+youtubeId: "zil0D2mD9Q8"
+buzzsproutId: 18809693
 ---
 
 **Wenn der Mann in deiner Patchworkfamilie plötzlich verstummt, gereizt reagiert oder sich zurückzieht, ist das kein Desinteresse — es kann ein Burnout sein, das sich still aufbaut.** Und als Bonusmama stehst du daneben und fragst dich: Was passiert hier gerade? Warum erreiche ich ihn nicht mehr?

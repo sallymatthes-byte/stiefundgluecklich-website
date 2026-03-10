@@ -12,6 +12,8 @@ imageAlt: "Paar sitzt zusammen und führt ein offenes, ehrliches Gespräch über
 podcastEpisode: "https://www.youtube.com/watch?v=rn3NUfkkUN4"
 podcastTitle: "Patchwork-Paar: Ehrliche Fragen, die sich keiner traut zu stellen"
 podcastDescription: "Sally hat ihren Partner zu Gast. Gemeinsam beantworten sie die Fragen, die sich Patchwork-Paare heimlich stellen — über Liebe, Zweifel und Loyalität."
+youtubeId: "rn3NUfkkUN4"
+buzzsproutId: 18809727
 ---
 
 **Die Fragen, die deine Beziehung am meisten braucht, sind die, die du nicht stellst.** Nicht weil du sie nicht hast. Sondern weil du Angst hast vor den Antworten. Weil du denkst: Wenn ich das laut ausspreche, bricht etwas auseinander.

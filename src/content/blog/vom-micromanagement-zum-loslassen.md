@@ -9,6 +9,8 @@ metaDescription: "Du kontrollierst alles in der Patchworkfamilie? Warum Microman
 heroImage: "/images/blog/vom-micromanagement-zum-loslassen-1.jpg"
 image: "/images/blog/vom-micromanagement-zum-loslassen-1.jpg"
 imageAlt: "Bonusmama sitzt entspannt auf dem Sofa und liest, waehrend die Familie im Hintergrund spielt"
+youtubeId: "z6ZMutpHfKY"
+buzzsproutId: 18809774
 ---
 
 **Micromanagement als Bonusmama bedeutet, jeden Ablauf im Haushalt kontrollieren zu wollen — weil du glaubst, nur so läuft es richtig.** Patricia Papernow (2013) beschreibt dieses Muster als typische Reaktion auf die „Insider-Outsider-Dynamik“ in Patchworkfamilien. In Deutschland betrifft das rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024). In über 700 Coaching-Stunden habe ich dieses Muster bei fast jeder zweiten Bonusmama gesehen — und einen Weg heraus gefunden.
