@@ -9,6 +9,8 @@ metaDescription: "Haben es Stiefväter leichter als Stiefmütter? Ein ehrlicher 
 heroImage: "/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-1.jpg"
 image: "/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-1.jpg"
 imageAlt: "Stiefvater und Stiefmutter sitzen nachdenklich am Küchentisch einer Patchworkfamilie"
+youtubeId: "OWzoYtwuSOA"
+buzzsproutId: 18809788
 ---
 
 **Stiefmütter haben es in Patchworkfamilien nachweislich schwerer als Stiefväter — und das liegt nicht an mangelndem Einsatz, sondern an gesellschaftlichen Erwartungen.** Von Frauen wird erwartet, dass sie automatisch die Mutterrolle übernehmen. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — in 47 % davon leben Stiefväter, aber nur in 27 % Stiefmütter. Und trotzdem sind es die Stiefmütter, die unter mehr Druck stehen. Hier erfährst du, warum das so ist und was das für dich bedeutet.

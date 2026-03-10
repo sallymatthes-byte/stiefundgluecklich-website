@@ -8,6 +8,8 @@ metaDescription: "Wutanfälle und Trotz beim Bonuskind? So begleitest du als Bon
 heroImage: "/images/blog/konflikte-unter-kindern-1.jpg"
 image: "/images/blog/konflikte-unter-kindern-1.jpg"
 imageAlt: "Kind und Erwachsene in einem emotionalen Moment — starke Gefühle begleiten"
+youtubeId: "gC_Z_AT4wR4"
+buzzsproutId: 18809762
 ---
 
 **Starke Gefühle beim Bonuskind — Wutanfälle, plötzliche Tränen, lauter Trotz — gehören zu den intensivsten Momenten im Patchwork-Alltag.** Als Bonusmama stehst du dabei in einer besonderen Position: Du willst helfen, aber du bist nicht die Mama. Du willst trösten, aber du bist unsicher, ob du darfst. Und manchmal triggern die Gefühle des Kindes deine eigenen.

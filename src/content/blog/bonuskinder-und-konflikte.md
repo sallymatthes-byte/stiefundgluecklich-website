@@ -9,6 +9,8 @@ metaDescription: "Dein Bonuskind lehnt dich ab oder es gibt ständig Streit? War
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 imageAlt: "Bonuskinder und Konflikte"
+youtubeId: "gk-BWNUKrGk"
+buzzsproutId: 18809739
 ---
 
 **Konflikte zwischen Bonusmama und Bonuskindern sind normal — sie gehören zum Zusammenwachsen einer Patchworkfamilie dazu.** Entscheidend ist nicht, dass es Konflikte gibt, sondern wie du mit ihnen umgehst. Dieser Artikel zeigt dir Wege, wie du harmonische Beziehungen zu deinen Bonuskindern aufbaust.

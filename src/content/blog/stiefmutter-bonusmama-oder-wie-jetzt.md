@@ -9,6 +9,8 @@ metaDescription: "Bonusmama, Stiefmutter, Bonuseltern — was bedeuten die Begri
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Frau denkt nachdenklich nach - Stiefmutter oder Bonusmama, welcher Begriff passt?"
+youtubeId: "Lh445zyR1_I"
+buzzsproutId: 18809814
 ---
 
 **Eine Bonusmama ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat — der positive, moderne Begriff für Stiefmutter.** Während „Stiefmutter" durch Märchen negativ belastet ist, betont „Bonusmama", dass du ein Bonus für die Familie bist: eine zusätzliche Bezugsperson, kein Ersatz. In diesem Artikel erfährst du alle Patchwork-Begriffe und was sie bedeuten.

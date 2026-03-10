@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/1aR8YGVxQfQfqzZsEccdGZ"
 podcastTitle: "Das ist der wahre Grund für das Scheitern von Patchwork"
 podcastDescription: "Warum Patchwork so oft emotional auf der Kippe steht und wie du es schaffst, wieder klar zu sehen und dich zurückzuholen."
+youtubeId: "ylbuMHdROZo"
+buzzsproutId: 18809746
 ---
 
 **Patchworkfamilien scheitern nicht, weil sich Menschen nicht lieben — sie scheitern an unsichtbaren Dynamiken, fehlender Orientierung und der Illusion, dass man es alleine schaffen muss.** Als Bonusmama trägst du eine riesige emotionale Rolle in einem System, das dir keinen offiziellen Platz gibt. Kein Titel, keine Anerkennung, keine Sprache für das, was du täglich leistest. Und genau das macht Patchwork so fragil — nicht die fehlende Liebe, sondern die fehlende Struktur.

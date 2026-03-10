@@ -9,6 +9,8 @@ metaDescription: "Schwanger als Bonusmama? Neue Rollen, Eifersucht der Kinder un
 heroImage: "/images/blog/schwanger-als-bonusmama-1.jpg"
 image: "/images/blog/schwanger-als-bonusmama-1.jpg"
 imageAlt: "Schwangere Bonusmama steht am Fenster, Hand auf dem Bauch, hoffnungsvoll und nachdenklich"
+youtubeId: "ro9NCnWub-Y"
+buzzsproutId: 18809721
 ---
 
 **Schwanger als Bonusmama — das verändert alles. Plötzlich hat jeder eine Meinung, die Rollen in der [Patchworkfamilie](/blog/patchworkfamilie/) verschieben sich, und du merkst: Was du als [Stiefmutter](/blog/stiefmutter/) gelernt hast, bekommt eine völlig neue Bedeutung.** Als Coach für Bonusmamas und selbst schwanger inmitten einer Patchworkkonstellation kann ich sagen: Nichts bereitet dich vollständig darauf vor. Aber vieles lässt sich leichter tragen, wenn du weißt, was auf dich zukommt.

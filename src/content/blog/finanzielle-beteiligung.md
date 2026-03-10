@@ -9,6 +9,8 @@ metaDescription: "Sollst du für die Bonuskinder mitbezahlen? Wie du als Bonusma
 heroImage: "/images/blog/finanzielle-beteiligung-1.jpg"
 image: "/images/blog/finanzielle-beteiligung-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Küchentisch mit Unterlagen und Laptop"
+youtubeId: "cu1lHwoUlGQ"
+buzzsproutId: 18809763
 ---
 
 **Die Frage, wie viel du als Bonusmama finanziell zur Patchworkfamilie beiträgst, ist eines der heikelsten Themen — und führt in vielen Beziehungen zu Konflikten.** Unterhalt, gemeinsame Kosten, unterschiedliche Einkommen: Hier erfährst du, wie ihr als Paar eine faire Lösung findet.

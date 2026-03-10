@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/1LaVvBIYM6KH8UNtSGJlDj"
 podcastTitle: "Bonusmutter sein: Die 10 wichtigsten Lektionen mit Jule"
 podcastDescription: "Jule teilt ihre 10 wichtigsten Lektionen als Bonusmutter — ehrlich, ungefiltert und voller Aha-Momente für alle, die in einer Patchworkfamilie leben."
+youtubeId: "HuqhPIYoZR0"
+buzzsproutId: 18809779
 ---
 
 **Niemand wird als Bonusmutter geboren — und niemand hat ein Handbuch dafür bekommen.** Du bist in eine Rolle hineingewachsen, für die es keine Stellenbeschreibung gibt. Kein Bewerbungsgespräch, keine Einarbeitung, kein Feedback-Gespräch nach der Probezeit. Und trotzdem wird erwartet, dass du funktionierst. Dass du liebst, ohne zu viel zu lieben. Dass du da bist, ohne zu viel Raum einzunehmen. Als systemischer Coach und Bonusmama kenne ich diesen Spagat — und nach über 700 Coaching-Stunden weiß ich: Die wichtigsten Lektionen kommen nicht aus Büchern. Sie kommen aus dem Alltag.

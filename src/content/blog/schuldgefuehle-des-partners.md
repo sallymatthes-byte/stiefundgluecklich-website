@@ -9,6 +9,8 @@ metaDescription: "Seine Schuldgefühle bremsen dich als Bonusmama aus. Warum er 
 heroImage: "/images/blog/schuldgefuehle-des-partners-1.jpg"
 image: "/images/blog/schuldgefuehle-des-partners-1.jpg"
 imageAlt: "Paar sitzt auf dem Sofa, Mann blickt schuldbewusst nach unten, Frau beobachtet ihn nachdenklich"
+youtubeId: "fDBR3VttX-o"
+buzzsproutId: 18809726
 ---
 
 **Die Schuldgefühle deines Partners gehören zu den unsichtbarsten und gleichzeitig zerstörerischsten Kräften in einer Patchworkfamilie.** Er war es, der die Familie verlassen hat — oder sie ihn. Egal wie: Die Schuld sitzt tief. Und du als Bonusmama trägst sie mit, ohne es zu merken. Als Coach und selbst Bonusmama kenne ich diese Dynamik aus über 100 Coaching-Prozessen.

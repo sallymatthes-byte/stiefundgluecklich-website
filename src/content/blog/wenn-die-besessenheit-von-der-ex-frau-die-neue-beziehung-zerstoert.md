@@ -9,6 +9,8 @@ metaDescription: "Ständig an die Ex-Frau deines Partners denken? Warum diese Be
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"
+youtubeId: "_m8fEbnjL10"
+buzzsproutId: 18809720
 ---
 
 **Die Ex-Partnerin deines Partners loszulassen ist eine der größten emotionalen Herausforderungen als Bonusmama — besonders wenn sie euren Alltag bestimmt.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Studien zeigen, dass ungelöste Ex-Partner-Konflikte der häufigste Trennungsgrund in Patchworkfamilien sind (Bray & Kelly, 1998). In meiner Arbeit als systemischer Coach erlebe ich das wöchentlich — und weiß: Es gibt einen Weg raus.

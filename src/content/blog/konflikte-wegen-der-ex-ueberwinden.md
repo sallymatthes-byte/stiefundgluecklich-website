@@ -9,6 +9,8 @@ metaDescription: "Ex-Frau macht ständig Probleme? Wie du als Bonusmama Konflikt
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"
+youtubeId: "dlWn1MmFmjY"
+buzzsproutId: 18809784
 ---
 
 **Ständiger Streit mit dem Partner wegen seiner Ex gehört zu den häufigsten Beziehungskillern in Patchworkfamilien.** Ob Umgangsregelungen, Unterhalt oder Grenzüberschreitungen: Die Ex-Partnerin kann eure Beziehung massiv belasten. Hier erfährst du, wie du dich schützt.

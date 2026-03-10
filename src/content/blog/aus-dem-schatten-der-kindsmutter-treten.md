@@ -9,6 +9,8 @@ metaDescription: "Immer im Vergleich mit der leiblichen Mutter? So hörst du auf
 heroImage: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
 image: "/images/blog/aus-dem-schatten-der-kindsmutter-treten-1.jpg"
 imageAlt: "Bonusmama steht selbstbewusst für sich ein und tritt aus dem Schatten der Kindsmutter"
+youtubeId: "4mRpX-zyX10"
+buzzsproutId: 18816091
 ---
 
 **Der ständige Vergleich mit der leiblichen Mutter ist eine der häufigsten Belastungen für Bonusmamas.** „Bei Mama ist das aber anders“ — dieser Satz kann dich als Stiefmutter tief treffen, weil er an deinem Platz in der Familie rüttelt. Hier erfährst du, wie du aus dem Schatten der Kindsmutter trittst und deinen eigenen Wert erkennst.

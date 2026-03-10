@@ -9,6 +9,8 @@ metaDescription: "Missverständnisse mit Partner, Ex oder Bonuskindern? Das 4-Oh
 heroImage: "/images/blog/das-vier-ohren-modell-1.jpg"
 image: "/images/blog/das-vier-ohren-modell-1.jpg"
 imageAlt: "Das 4-Ohren-Modell"
+youtubeId: "54Fo_ywSCjM"
+buzzsproutId: 18809791
 ---
 
 **Das Vier-Ohren-Modell von Friedemann Schulz von Thun erklärt, warum ein einziger Satz in der Patchworkfamilie vier völlig verschiedene Reaktionen auslösen kann.** Jede Nachricht hat vier Ebenen: Sachinhalt, Beziehung, Selbstoffenbarung und Appell. Gerade als Bonusmama, wo Kommunikation über mehrere Beziehungsebenen läuft, hilft dir dieses Modell, die häufigsten Missverständnisse zu vermeiden.

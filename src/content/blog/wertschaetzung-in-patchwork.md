@@ -9,6 +9,8 @@ metaDescription: "Du gibst alles in deiner Patchworkfamilie — und fühlst dich
 heroImage: "/images/blog/wertschaetzung-in-patchwork-1.jpg"
 image: "/images/blog/wertschaetzung-in-patchwork-1.jpg"
 imageAlt: "Frau sitzt nachdenklich am Küchentisch einer Patchworkfamilie, leere Kaffeetasse"
+youtubeId: "H_RN9NTqc8o"
+buzzsproutId: 18809732
 ---
 
 **Wertschätzung in Patchwork-Beziehungen fehlt selten, weil dein Partner dich nicht liebt — sie fehlt, weil das System so aufgebaut ist, dass dein Beitrag unsichtbar wird.** Du räumst die Küche auf, organisierst den Wochenendplan, bringst das Bonuskind zum Training — und am Ende des Tages sagt niemand Danke. Nicht weil sie es nicht sehen. Sondern weil sie denken, es sei *selbstverständlich*. Als Coach und selbst Bonusmama sage ich: Das ist es nicht.

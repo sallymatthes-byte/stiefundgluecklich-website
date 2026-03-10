@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/5y8QkvhAj9cRsoOGYFUdTE"
 podcastTitle: "Was Papas in Patchwork-Familien wirklich denken"
 podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus Sicht des Papas anfühlt — und was der echte Wendepunkt in ihrer Beziehung war."
+youtubeId: "O5yvydPSbHI"
+buzzsproutId: 18809744
 ---
 
 **In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Laut Bray & Kelly (1998) scheitern viele Patchwork-Beziehungen daran, dass der Vater das Ausmaß der Veränderung für seine neue Partnerin unterschätzt. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024) — und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.

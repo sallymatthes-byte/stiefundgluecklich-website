@@ -9,6 +9,8 @@ metaDescription: "Als Stiefmutter hast du Rechte - und zwar nicht nur auf dem Pa
 heroImage: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
 image: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
 imageAlt: "Selbstbewusste Frau in einer Patchworkfamilie — Rechte der Stiefmütter kennen und einfordern"
+youtubeId: "aBJ0WQmLy-c"
+buzzsproutId: 18809777
 ---
 
 **Als Stiefmutter hast du Rechte — auch wenn sich das im Alltag oft nicht so anfühlt.** Du darfst Grenzen setzen, deine Bedürfnisse benennen und Nein sagen, ohne dafür die „böse Stiefmutter“ zu sein. Diese 10 Rechte sind kein Wunschdenken, sondern die Grundlage für ein gesundes Patchworkleben.

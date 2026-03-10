@@ -9,6 +9,8 @@ metaDescription: "Bonuskinder triggern oft tiefe Wunden aus der Kindheit. Wie du
 heroImage: "/images/blog/innere-kind-heilung-1.jpg"
 image: "/images/blog/innere-kind-heilung-1.jpg"
 imageAlt: "Frau sitzt nachdenklich auf einer Bank und reflektiert über innere Verletzungen aus der Kindheit"
+youtubeId: "ANRg0UuJA1c"
+buzzsproutId: 18809749
 ---
 
 **Bonuskinder können in dir Gefühle auslösen, die wenig mit dem Kind und viel mit deiner eigenen Kindheit zu tun haben.** Wenn du als Bonusmama unverhältnismäßig stark reagierst, ist das oft ein Zeichen, dass dein inneres Kind getriggert wird. Hier erfährst du, was das bedeutet und wie Heilung beginnt.

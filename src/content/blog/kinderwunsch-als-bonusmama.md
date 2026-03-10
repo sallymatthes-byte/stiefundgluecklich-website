@@ -9,6 +9,8 @@ metaDescription: "Kinderwunsch als Bonusmama: Wenn du dir ein eigenes Kind wüns
 heroImage: "/images/blog/kinderwunsch-als-bonusmama-1.jpg"
 image: "/images/blog/kinderwunsch-als-bonusmama-1.jpg"
 imageAlt: "Frau hält eine kleine Babysocke in der Hand und blickt nachdenklich aus dem Fenster"
+youtubeId: "PFnAUH1iGsk"
+buzzsproutId: 18809742
 ---
 
 **Kinderwunsch als Bonusmama ist eines der emotionalsten Themen überhaupt — weil es an alles rührt, was ohnehin schon sensibel ist: Rolle, Zugehörigkeit, Gleichberechtigung.** Du wünschst dir ein Kind. Dein Partner hat schon welche. Und plötzlich wird eine der intimsten Entscheidungen deines Lebens zum Verhandlungsgegenstand in einem System, das du dir nicht ausgesucht hast. Als Coach und selbst Bonusmama — die genau diesen Weg gerade selbst geht — spreche ich aus Erfahrung.

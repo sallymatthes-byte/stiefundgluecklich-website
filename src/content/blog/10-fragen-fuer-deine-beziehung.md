@@ -9,6 +9,8 @@ metaDescription: "10 ehrliche Fragen, die zeigen wie es wirklich um eure Patchwo
 heroImage: "/images/blog/10-fragen-fuer-deine-beziehung-1.jpg"
 image: "/images/blog/10-fragen-fuer-deine-beziehung-1.jpg"
 imageAlt: "10 Fragen, die deine Beziehung als Bonusmama auf ein neues Level heben"
+youtubeId: "A3t-29FvSpU"
+buzzsproutId: 18809793
 ---
 
 **Gezielte Fragen können eure Beziehung als Paar in der Patchworkfamilie stärken — weil sie Themen sichtbar machen, die im Alltag untergehen.** Ob Erziehungskonflikte, fehlende Paarzeit oder die Rolle der Ex: Diese 10 Fragen helfen dir und deinem Partner, ehrlich miteinander ins Gespräch zu kommen und eure Beziehung auf ein neues Level zu heben.

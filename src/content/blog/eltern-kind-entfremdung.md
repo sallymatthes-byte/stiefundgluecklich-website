@@ -9,6 +9,8 @@ metaDescription: "Eltern-Kind-Entfremdung in Patchworkfamilien: Anzeichen erkenn
 heroImage: "/images/blog/eltern-kind-entfremdung-1.jpg"
 image: "/images/blog/eltern-kind-entfremdung-1.jpg"
 imageAlt: "Leerer Stuhl am Esstisch einer Patchworkfamilie — Symbol für Eltern-Kind-Entfremdung"
+youtubeId: "vhSE0Cu7_fQ"
+buzzsproutId: 18809740
 ---
 
 **Eltern-Kind-Entfremdung beschreibt den Prozess, bei dem ein Kind den Kontakt zu einem Elternteil — oder zur gesamten Patchworkkonstellation — zunehmend ablehnt, oft beeinflusst durch den anderen Elternteil.** Es ist eine der schmerzhaftesten Erfahrungen, die du als Bonusmama machen kannst: Dein Bonuskind, zu dem du eine Beziehung aufgebaut hast, zieht sich zurück. Nicht weil es dich nicht mag — sondern weil es in einem Loyalitätskonflikt gefangen ist, der größer ist als alles, was ein Kind tragen sollte. Als systemischer Coach und selbst Bonusmama habe ich Dutzende Familien durch diese Krise begleitet.

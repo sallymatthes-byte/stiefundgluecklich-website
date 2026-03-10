@@ -9,6 +9,8 @@ metaDescription: "Jede Bonusmama tickt anders. Finde heraus, welcher der 5 Arche
 heroImage: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 image: "/images/blog/archetypen-einer-bonusmama-1.jpg"
 imageAlt: "Verschiedene Bonusmama-Typen — warm, empathisch, Erdtöne"
+youtubeId: "vyARvZJX3vM"
+buzzsproutId: 18809796
 ---
 
 **Jede Bonusmama geht anders mit ihrer Rolle um — und die meisten erkennen sich in einem von fünf typischen Archetypen wieder.** Ob Perfektionistin, Rückzügerin oder Kämpferin: Zu verstehen, welcher Typ du bist, hilft dir, deine Muster zu erkennen und bewusst zu verändern.

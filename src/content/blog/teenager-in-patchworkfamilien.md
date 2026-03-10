@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/2JIU14AryAAgYaf1mg7lUs"
 podcastTitle: "Was Teenager in Patchworkfamilien wirklich brauchen"
 podcastDescription: "Pubertät und Patchwork — eine besondere Herausforderung. Was Teenager wirklich brauchen und wie du als Bonusmama deine Rolle dabei findest."
+youtubeId: "XBkM4MRoxeg"
+buzzsproutId: 18809766
 ---
 
 **Pubertät allein ist schon eine Achterbahnfahrt — aber Pubertät in einer Patchworkfamilie ist eine Achterbahnfahrt bei Gewitter.** Teenager testen Grenzen, suchen ihre Identität und brauchen gleichzeitig mehr Halt als je zuvor. Und du? Du stehst mittendrin und fragst dich, ob du überhaupt das Recht hast, etwas zu sagen. Als Coach für Bonusmamas erlebe ich dieses Thema in fast jeder dritten Sitzung — und die Antwort ist komplexer, als „Gib ihnen einfach Raum" es vermuten lässt.

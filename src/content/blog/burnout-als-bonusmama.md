@@ -9,6 +9,8 @@ metaDescription: "Burnout als Bonusmama — warum du besonders gefährdet bist. 
 heroImage: "/images/blog/burnout-als-bonusmama-1.jpg"
 image: "/images/blog/burnout-als-bonusmama-1.jpg"
 imageAlt: "Erschöpfte Bonusmama lehnt an der Küchentheke mit einer Tasse Kaffee"
+youtubeId: "XrFUbubUOcE"
+buzzsproutId: 18809728
 ---
 
 **Burnout als Bonusmama ist kein Luxusproblem — es ist die logische Konsequenz, wenn du jahrelang funktionierst, ohne gesehen zu werden.** Du trägst Verantwortung für Kinder, die nicht „deine" sind. Du navigierst eine Ex-Dynamik, die dich auslaugt. Und du lächelst, während du innerlich zerbrichst. Als Coach und selbst Bonusmama weiß ich: Dieses Muster hat einen Namen — und einen Ausweg.

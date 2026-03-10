@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/6CxnZVzwBhniHWWUbjGpjb"
 podcastTitle: "Sabrinas Geheimnisse für eine erfüllte Patchworkfamilie"
 podcastDescription: "Sabrina lebt mit 5 Mädchen in einer Patchworkfamilie und teilt ihre ehrlichsten Erfahrungen — vom Zoo-Kennenlernen bis zum Haushalt mit Teenies."
+youtubeId: "8_1GXeRmW0M"
+buzzsproutId: 18809804
 ---
 
 **Eine erfüllte Patchworkfamilie entsteht nicht durch Zufall — sie entsteht durch bewusste Entscheidungen, ehrliche Kommunikation und den Mut, die eigene Rolle immer wieder neu zu definieren.** Sabrina weiß das aus eigener Erfahrung. Sie lebt mit fünf Mädchen zwischen 10 und 14 Jahren unter einem Dach — drei davon sind die Töchter ihres Partners, zwei ihre eigenen. Kein Handbuch, kein Masterplan. Dafür jede Menge Learnings, die sie in unserem Gespräch offen geteilt hat.

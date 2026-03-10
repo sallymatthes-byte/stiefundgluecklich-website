@@ -8,6 +8,8 @@ metaDescription: "Kein Ex-Konflikt, aber auch kein Platz? Als Bonusmama nach dem
 heroImage: "/images/blog/innere-kind-heilung-1.jpg"
 image: "/images/blog/innere-kind-heilung-1.jpg"
 imageAlt: "Frau hält sich nachdenklich die Hand ans Herz — Trauer und Mitgefühl als Bonusmama"
+youtubeId: "6PY9w8rA6Y4"
+buzzsproutId: 18809722
 ---
 
 **Bonusmama zu werden, wenn die leibliche Mutter der Kinder verstorben ist, ist eine der sensibelsten Konstellationen in Patchworkfamilien — und eine, über die kaum jemand spricht.** Es gibt keine Ex-Konflikte, keine Besuchsregelungen, keinen Streit ums Sorgerecht. Dafür gibt es etwas anderes: eine allgegenwärtige Trauer, einen unsichtbaren Platz und die Frage, ob du überhaupt *sein darfst*, wer du sein willst.

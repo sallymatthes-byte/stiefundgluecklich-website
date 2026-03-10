@@ -9,6 +9,8 @@ metaDescription: "Alle erwarten alles - und du funktionierst nur noch? Warum Bon
 heroImage: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 image: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster, die unter dem Erwartungsdruck als Bonusmama leidet"
+youtubeId: "DqfNcAnQia4"
+buzzsproutId: 18809800
 ---
 
 **Bonusmamas stehen unter enormem Erwartungsdruck — von sich selbst, vom Partner, von den Kindern und von der Gesellschaft.** „Ich sollte das schaffen“, „Ich sollte sie lieben können“, „Ich sollte geduldiger sein“ — wenn diese Gedanken deinen Alltag bestimmen, bist du nicht schwach. Du bist überlastet.

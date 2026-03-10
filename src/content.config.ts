@@ -23,6 +23,8 @@ const blog = defineCollection({
     readingTime: z.string().optional(),
     excerpt: z.string().optional(),
     draft: z.boolean().default(false),
+    youtubeId: z.string().optional(),
+    buzzsproutId: z.number().optional(),
   }),
 });
 

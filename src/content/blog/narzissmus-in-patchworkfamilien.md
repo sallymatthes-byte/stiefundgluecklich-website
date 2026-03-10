@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/0ZWFUMFZN1u4CkmSJbxn0C"
 podcastTitle: "Narzissmus in Patchworkfamilien - So schützt du dich und die Kinder"
 podcastDescription: "Steffi Sophia erklärt, was Narzissmus wirklich bedeutet, wie du narzisstische Muster erkennst und wie du dich und die Kinder in der Patchworkfamilie schützen kannst."
+youtubeId: "p6KOjPNxRM8"
+buzzsproutId: 18809771
 ---
 
 **Narzissmus in Patchworkfamilien beschreibt eine Dynamik, in der ein Ex-Partner durch Manipulation, Kontrolle und fehlende Kooperationsbereitschaft das gesamte Familiensystem von außen steuert.** Betroffen sind nicht nur die ehemaligen Partner, sondern auch die Kinder und die neuen Partner — insbesondere Bonusmamas, die in ein System kommen, dessen Regeln sie nicht gemacht haben. Was Narzissmus wirklich bedeutet, wie du die Muster erkennst und was du konkret tun kannst, erfährst du in diesem Artikel.

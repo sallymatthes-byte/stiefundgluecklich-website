@@ -9,6 +9,8 @@ metaDescription: "Muttertag als Bonusmama ist kompliziert. Für dich und dein Ge
 heroImage: "/images/blog/muttertag-als-bonusmama-1.jpg"
 image: "/images/blog/muttertag-als-bonusmama-1.jpg"
 imageAlt: "Den Muttertag als Bonusmama erleben"
+youtubeId: "BrcKa-s6DaI"
+buzzsproutId: 18809761
 ---
 
 **Der Muttertag ist für viele Bonusmamas einer der emotional schwierigsten Tage im Jahr.** Du kümmerst dich um Kinder, die nicht "deine" sind - und wirst trotzdem selten als Mutterfigur anerkannt. Laut dem Statistischen Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamilien in Deutschland - und für die Bonusmamas darin kann dieser eine Tag im Mai zur echten Zerreißprobe werden. Hier erfährst du, wie du den Muttertag für dich neu definierst.

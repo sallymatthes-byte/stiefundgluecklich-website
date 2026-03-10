@@ -9,6 +9,8 @@ metaDescription: "Ein einfaches Framework hat mir als Bonusmama geholfen, Konfli
 heroImage: "/images/blog/das-3-schritte-framework-1.jpg"
 image: "/images/blog/das-3-schritte-framework-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Küchentisch und reflektiert über ihre Rolle in der Patchworkfamilie"
+youtubeId: "0CoG5t-aRPo"
+buzzsproutId: 18809799
 ---
 
 **Das 3-Schritte-Framework hilft dir als Bonusmama, in schwierigen Patchwork-Situationen handlungsfähig zu bleiben, statt in Frust oder Rückzug zu verfallen.** Es basiert auf drei einfachen Fragen, die du dir in jeder Konfliktsituation stellen kannst. Hier erfährst du, wie das Framework funktioniert und wie es mein Patchworkleben verändert hat.

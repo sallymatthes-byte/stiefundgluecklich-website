@@ -9,6 +9,8 @@ metaDescription: "Sagst du als Bonusmama zu allem Ja? People Pleasing erkennen u
 heroImage: "/images/blog/people-pleasing-als-bonusmama-1.jpg"
 image: "/images/blog/people-pleasing-als-bonusmama-1.jpg"
 imageAlt: "Erschöpfte Frau sitzt am Küchentisch und starrt ins Leere — das Ergebnis von People Pleasing"
+youtubeId: "Lq-6gEf2v-Q"
+buzzsproutId: 18809752
 ---
 
 **People Pleasing als Bonusmama ist kein Charakterfehler — es ist eine Überlebensstrategie in einem System, das dich bestraft, wenn du Nein sagst.** Du passt dich an. Du schluckst runter. Du lächelst, wenn du schreien willst. Weil du weißt: Wenn du aufhörst, die Nette zu sein, wirst du zur „bösen Stiefmutter". Und dieses Label willst du um jeden Preis vermeiden. In meiner Arbeit als systemischer Coach erlebe ich täglich, wie dieser Mechanismus Bonusmamas auffrisst — von innen.

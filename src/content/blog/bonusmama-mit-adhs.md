@@ -8,6 +8,8 @@ metaDescription: "Als Bonusmama mit ADHS kämpfst du mit Reizüberflutung, Menta
 heroImage: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 image: "/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-1.jpg"
 imageAlt: "Bonusmama sitzt erschöpft auf dem Sofa und reflektiert über den Erwartungsdruck in ihrer Patchworkfamilie"
+youtubeId: "tkcvYPZQVkM"
+buzzsproutId: 18809776
 ---
 
 **ADHS als Bonusmama zu haben, bedeutet, einen ohnehin komplexen Familienalltag mit einem Gehirn zu navigieren, das anders tickt — und das in einer Welt, die dafür kein Verständnis hat.** Der Patchwork-Alltag ist schon für neurotypische Frauen eine Herausforderung. Wenn dazu ADHS kommt, wird aus Herausforderung schnell Überforderung.

@@ -9,6 +9,8 @@ metaDescription: "Du fühlst dich unsichtbar als Bonusmama? Warum das Gefühl re
 heroImage: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 image: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg"
 imageAlt: "Unsichtbar als Bonusmama? So wirst du wieder gesehen!"
+youtubeId: "pGLPMj5j0_w"
+buzzsproutId: 18815964
 ---
 
 **Unsichtbar zu sein ist eines der schmerzhaftesten Gefühle als Bonusmama — du gibst alles, und trotzdem wirst du nicht wahrgenommen.** Nicht vom Partner, nicht von den Kindern, nicht von der Gesellschaft. Dieser Artikel zeigt dir, wie du wieder sichtbar wirst, ohne um Aufmerksamkeit betteln zu müssen.

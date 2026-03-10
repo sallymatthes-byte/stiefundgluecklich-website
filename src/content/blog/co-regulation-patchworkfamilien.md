@@ -8,6 +8,8 @@ metaDescription: "Co-Regulation ist der Schlüssel, um Kinder durch Wut, Trauer 
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 imageAlt: "Mutter und Kind sitzen auf einer Waldlichtung und reden miteinander — Co-Regulation in der Patchworkfamilie"
+youtubeId: "caVTF74MG5w"
+buzzsproutId: 18809736
 ---
 
 **Co-Regulation bedeutet, einem Kind durch deine eigene emotionale Stabilität zu helfen, seine Gefühle zu regulieren — und sie ist gerade in Patchworkfamilien eine der wichtigsten Fähigkeiten.** Denn als Bonusmama begleitest du Kinder, die oft zwischen zwei Welten stehen und deren Gefühle besonders intensiv sein können.

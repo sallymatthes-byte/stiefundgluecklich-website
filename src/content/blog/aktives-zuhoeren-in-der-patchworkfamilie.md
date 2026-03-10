@@ -9,6 +9,8 @@ metaDescription: "Warum aktives Zuhören in Patchworkfamilien so entscheidend is
 heroImage: "/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/aktives-zuhoeren-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Bonusmama und Bonuskind sitzen sich aufmerksam gegenüber beim Gespräch"
+youtubeId: "72oUOPlyaNQ"
+buzzsproutId: 18809692
 ---
 
 **Aktives Zuhören bedeutet, deinem Gegenüber mit voller Aufmerksamkeit zuzuhören, ohne sofort zu bewerten oder zu antworten.** In [Patchworkfamilien](/blog/patchworkfamilie/) ist das besonders wichtig — weil Missverständnisse hier schneller eskalieren und mehr Menschen mit unterschiedlichen Perspektiven beteiligt sind. Als systemischer Coach und selbst Bonusmama erlebe ich in meiner Arbeit, wie eine einzige veränderte Gesprächstechnik ganze Familiendynamiken umdrehen kann.

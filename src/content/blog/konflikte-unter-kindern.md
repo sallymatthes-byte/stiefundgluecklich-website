@@ -9,6 +9,8 @@ metaDescription: "Streit zwischen Geschwistern und Bonuskindern? Warum Konflikte
 heroImage: "/images/blog/konflikte-unter-kindern-1.jpg"
 image: "/images/blog/konflikte-unter-kindern-1.jpg"
 imageAlt: "Konflikte unter Kindern in Patchworkfamilien"
+youtubeId: "NY-Eh_XZ45Q"
+buzzsproutId: 18809729
 ---
 
 **Konflikte zwischen Kindern in Patchworkfamilien sind intensiver als in klassischen Familien — weil Eifersucht, Territorialverhalten und Loyalitätskonflikte mitspielen.** Als Bonusmama steckst du dabei oft zwischen den Fronten. Dieser Artikel zeigt dir bewährte Strategien zur Konfliktlösung.

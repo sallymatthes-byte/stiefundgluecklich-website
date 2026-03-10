@@ -9,6 +9,8 @@ metaDescription: "Die Angst, nicht gut genug zu sein, abgelehnt zu werden oder a
 heroImage: "/images/blog/bonusmama-angst-1.jpg"
 image: "/images/blog/bonusmama-angst-1.jpg"
 imageAlt: "Nachdenkliche Frau sitzt allein auf einer Holzbank im herbstlichen Wald"
+youtubeId: "juQQKr8uKr8"
+buzzsproutId: 18809755
 ---
 
 **Angst und Unsicherheit gehören zu den häufigsten Gefühlen von Bonusmamas — und trotzdem spricht fast niemand darüber.** Die Angst, nicht dazuzugehören, abgelehnt zu werden oder es einfach nicht zu schaffen, begleitet viele Stiefmütter still und hartnäckig. Hier erfährst du, warum das normal ist und was hilft.

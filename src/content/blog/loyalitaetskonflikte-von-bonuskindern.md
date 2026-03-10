@@ -9,6 +9,8 @@ metaDescription: "Dein Bonuskind steckt zwischen Mama und Papa? Was hinter Loyal
 heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Kind sitzt nachdenklich zwischen zwei Elternteilen — Loyalitätskonflikte in der Patchworkfamilie"
+youtubeId: "7wita6XTcYo"
+buzzsproutId: 18809808
 ---
 
 **Loyalitätskonflikte sind die unsichtbare Last, die fast jedes [Bonuskind](/blog/stiefkind/) trägt — und die du als Bonusmama direkt zu spüren bekommst.** Wenn ein Kind das Gefühl hat, sich zwischen Mama und der neuen Partnerin des Papas entscheiden zu müssen, zeigt sich das oft als Ablehnung, Rückzug oder Aggression.

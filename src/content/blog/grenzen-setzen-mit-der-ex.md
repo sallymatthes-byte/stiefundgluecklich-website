@@ -9,6 +9,8 @@ metaDescription: "Grenzen setzen mit der Ex-Partnerin — ohne Drama. 5 bewährt
 heroImage: "/images/blog/grenzen-setzen-mit-der-ex-1.jpg"
 image: "/images/blog/grenzen-setzen-mit-der-ex-1.jpg"
 imageAlt: "Bonusmama steht selbstbewusst an einer Tür und setzt klare Grenzen"
+youtubeId: "Lc8-w9fAG2c"
+buzzsproutId: 18809718
 ---
 
 **Grenzen setzen mit der Ex-Partnerin deines Partners ist eine der schwierigsten Aufgaben als Bonusmama — und gleichzeitig eine der wichtigsten.** Du bist nicht „schwierig", wenn du sagst: Bis hierhin und nicht weiter. Du schützt dich, deine Beziehung und letztlich auch die Kinder. In meiner Arbeit als systemischer Coach erlebe ich immer wieder, wie Bonusmamas an genau diesem Punkt zerbrechen — oder wachsen.

@@ -9,6 +9,8 @@ metaDescription: "Vom Kumpel-Status zur Erziehungsrolle — wie sich die Beziehu
 heroImage: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
 image: "/images/blog/von-der-besten-freundin-zur-bonusmama-1.jpg"
 imageAlt: "Frau steht nachdenklich am Fenster und reflektiert über ihre neue Rolle als Bonusmama"
+youtubeId: "wG-4vW_NYq8"
+buzzsproutId: 18809785
 ---
 
 **Wenn du vorher die beste Freundin der leiblichen Mutter warst und jetzt mit ihrem Ex zusammen bist, stehst du vor einer der komplexesten Patchwork-Konstellationen überhaupt.** Laut Bray & Kelly (1998) sind Loyalitätskonflikte der häufigste Auslöser für Spannungen in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und in dieser Konstellation sind sie besonders intensiv. In Deutschland betrifft das rund 1,1 Millionen Familien (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Je enger die Vorbeziehung, desto schwieriger der Rollenwechsel.

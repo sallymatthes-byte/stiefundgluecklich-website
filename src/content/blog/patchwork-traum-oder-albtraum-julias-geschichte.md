@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/17r5EChWV7r6IoTBOh58xe"
 podcastTitle: "Patchwork-Traum oder Albtraum? Julia packt aus"
 podcastDescription: "Julia erzählt ihre ehrliche Geschichte: Wie der Traum von der großen Patchworkfamilie zum Albtraum wurde — und wie sie den Weg zurück gefunden hat."
+youtubeId: "okhrYXtYXig"
+buzzsproutId: 18809786
 ---
 
 **Julia hat sich in einen Mann mit zwei Kindern verliebt und dachte: Das wird wunderbar.** Eine große Familie. Gemeinsame Wochenenden. Geburtstagsfeiern, an denen alle lachen. Zwei Jahre später saß sie weinend im Auto und fragte sich, ob sie stark genug ist, um zu bleiben. Diese Geschichte kennen viele Bonusmamas — in über 700 Coaching-Stunden als systemischer Coach habe ich sie in unzähligen Varianten gehört. Julias Ehrlichkeit zeigt, warum es sich lohnt, hinzuschauen statt wegzulaufen.

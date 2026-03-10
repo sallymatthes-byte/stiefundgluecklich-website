@@ -9,6 +9,8 @@ metaDescription: "Dein Partner versteht nicht, was du als Bonusmama fühlst? War
 heroImage: "/images/blog/partner-versteht-dich-nicht-1.jpg"
 image: "/images/blog/partner-versteht-dich-nicht-1.jpg"
 imageAlt: "Paar sitzt am Küchentisch ohne Blickkontakt, Frau wirkt frustriert aber verletzlich"
+youtubeId: "F-lhUnfNtYM"
+buzzsproutId: 18809735
 ---
 
 **„Er versteht mich einfach nicht" — dieser Satz fällt in fast jedem Coaching mit Bonusmamas.** Nicht als Vorwurf. Sondern als stille Verzweiflung. Dein Partner liebt dich. Aber er begreift nicht, was es bedeutet, Stiefmutter zu sein. In meiner Arbeit als systemischer Coach höre ich das so oft, dass ich sagen kann: Es liegt fast nie an mangelndem Willen. Sondern an zwei völlig verschiedenen Welten.

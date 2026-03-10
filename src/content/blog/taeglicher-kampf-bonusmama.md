@@ -12,6 +12,8 @@ updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/2z6ZbjxrAUIz35SDlgXHzL"
 podcastTitle: "Der tägliche Kampf als Bonusmama: Was Bonusmamas wirklich erleben"
 podcastDescription: "Was erleben Bonusmamas wirklich jeden Tag? Sally spricht offen über den unsichtbaren Kampf — die kleinen Momente die wehtun, die Erschöpfung, und was du brauchst um durchzuhalten."
+youtubeId: "JGToCexQu_k"
+buzzsproutId: 18809813
 ---
 
 **Der tägliche Kampf als Bonusmama hat nichts mit großen Dramen zu tun.** Es sind nicht die Scheidungskriege oder die Szenen mit der Ex, die dich langfristig fertigmachen. Es ist das Kleine. Das Unsichtbare. Die Momente, für die es kein Wort gibt — und die trotzdem *alles* kosten. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in den meisten davon kennt die Bonusmama genau dieses Gefühl. Wednesday Martin beschreibt in „Stepmonster" (2009), dass Stiefmütter eine der am wenigsten anerkannten Familienrollen überhaupt einnehmen.

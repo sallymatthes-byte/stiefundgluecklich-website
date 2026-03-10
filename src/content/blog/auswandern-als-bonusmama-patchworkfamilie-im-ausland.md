@@ -8,6 +8,8 @@ metaDescription: "Auswandern für die Liebe klingt nach Abenteuer. Doch als Bonu
 heroImage: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
 image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
 imageAlt: "Frau blickt nachdenklich aus dem Fenster — plötzlich Bonusmama in einem fremden Land"
+youtubeId: "TrZaxFin8ks"
+buzzsproutId: 18813938
 ---
 
 **Du bist ausgewandert — nicht für den Job, nicht für die Sonne, sondern für ihn.** Und mit „ihm" kam ein Kind, eine Ex-Partnerin, ein anderes Rechtssystem und die Erkenntnis, dass Liebe allein nicht reicht, wenn Patchwork über Ländergrenzen hinweg funktionieren soll. Wenn du das kennst — dieses Gefühl, in einem fremden Land zu stehen, ohne Netz, ohne Sprache, ohne jemanden, der versteht, was du durchmachst — dann ist dieser Artikel für dich.

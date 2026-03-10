@@ -9,6 +9,8 @@ metaDescription: "Bonusmama sein ohne eigene Kinder? Warum du trotzdem dazugehö
 heroImage: "/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-1.jpg"
 image: "/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Fenster und reflektiert über ihre Rolle in der Patchworkfamilie"
+youtubeId: "jtKkYTuW2T0"
+buzzsproutId: 18809802
 ---
 
 **Als kinderlose Bonusmama stehst du vor einer einzigartigen Herausforderung: Du wirst Teil einer Familie mit Kindern, ohne selbst Mutter zu sein.** Das bringt besondere Unsicherheiten, aber auch besondere Chancen mit sich. In diesem Artikel teile ich meine persönliche Erfahrung und zeige dir, wie es gelingen kann.
