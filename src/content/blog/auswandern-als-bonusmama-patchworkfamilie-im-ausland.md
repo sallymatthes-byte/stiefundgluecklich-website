@@ -37,6 +37,8 @@ Katharina ist 2017 nach Mallorca ausgewandert, um sich selbst zu finden. Stattde
 
 Das ist die Realität, über die niemand spricht. **Auswandern als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) ist kein Abenteuer — es ist ein Opfer, das du bringst, weil du an diese Beziehung glaubst.**
 
+> „Du hast dein ganzes Leben umgekrempelt für diese Beziehung. Das ist kein Scheitern, wenn es schwer wird — das ist der Beweis, wie viel dir diese Familie bedeutet." — Sally Matthes, Coach für Bonusmamas
+
 ---
 
 ## Das Rechtssystem spielt gegen euch
@@ -122,11 +124,16 @@ Auswandern als Bonusmama bedeutet mehr als Koffer packen. Es bedeutet, dein Lebe
 Wenn dich Katharinas Geschichte berührt hat, lies auch: [Plötzlich Bonusmama — wie ich meine Rolle fand](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) und [Die 4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/).
 
 <!-- FAQ_START
-<dl>
-<dt>Welche besonderen Herausforderungen haben Bonusmamas im Ausland?</dt>
-<dd>Neben den typischen Patchwork-Herausforderungen kommen Sprachbarrieren, ein fremdes Rechtssystem, fehlendes soziales Netzwerk und kulturelle Unterschiede hinzu. Die Insider-Outsider-Dynamik wird durch die geografische Isolation verstärkt.</dd>
-<dt>Habe ich als Bonusmama im Ausland rechtliche Ansprüche?</dt>
-<dd>In den meisten Ländern haben Stiefeltern keine eigenständigen Rechte am Kind. Das Familienrecht ist stark auf biologische Eltern ausgerichtet. Informiere dich frühzeitig über das lokale Recht und hole dir bei Bedarf anwaltliche Beratung.</dd>
-<dt>Wie schütze ich meine Beziehung, wenn Patchwork über Ländergrenzen stattfindet?</dt>
-<dd>Investiere bewusst in die Paarbeziehung — sie ist das Fundament. Sprecht regelmäßig über eure Belastungen, sucht euch professionelle Unterstützung und stellt euch die Frage: Sind wir ein Team? Die Partnerschaft muss Priorität haben, damit die Familie funktioniert.</dd>
-</dl>
+## Häufige Fragen
+
+### Welche besonderen Herausforderungen haben Bonusmamas im Ausland?
+
+Neben den typischen Patchwork-Herausforderungen kommen Sprachbarrieren, ein fremdes Rechtssystem, fehlendes soziales Netzwerk und kulturelle Unterschiede hinzu. Die Insider-Outsider-Dynamik wird durch die geografische Isolation verstärkt.
+
+### Habe ich als Bonusmama im Ausland rechtliche Ansprüche?
+
+In den meisten Ländern haben Stiefeltern keine eigenständigen Rechte am Kind. Das Familienrecht ist stark auf biologische Eltern ausgerichtet. Informiere dich frühzeitig über das lokale Recht und hole dir bei Bedarf anwaltliche Beratung.
+
+### Wie schütze ich meine Beziehung, wenn Patchwork über Ländergrenzen stattfindet?
+
+Investiere bewusst in die Paarbeziehung — sie ist das Fundament. Sprecht regelmäßig über eure Belastungen, sucht euch professionelle Unterstützung und stellt euch die Frage: Sind wir ein Team? Die Partnerschaft muss Priorität haben, damit die Familie funktioniert.

@@ -36,7 +36,7 @@ Als Bonusmama hörst du ständig Stimmen. Nicht im klinischen Sinne — sondern 
 - „Die Kinder mögen dich nicht wirklich."
 - „Du bist austauschbar."
 
-Diese Sätze kommen nicht aus dem Nichts. Sie kommen aus einer Gesellschaft, die Bonusmamas keine Rolle zugesteht. Aus einem Umfeld, das sagt: *Du hast dir das ausgesucht.* Aus eigenen [Glaubenssätzen](/blog/glaubenssaetze-als-bonusmama/), die du vielleicht seit der Kindheit mit dir trägst.
+Diese Sätze kommen nicht aus dem Nichts. Sie kommen aus einer Gesellschaft, die Bonusmamas keine Rolle zugesteht. Aus einem Umfeld, das sagt: *Du hast dir das ausgesucht.* Aus eigenen [Glaubenssätzen](/blog/glaubenssaetze-als-bonusmama/), die du vielleicht seit der Kindheit mit dir trägst. Laut einer Studie der Universität Cambridge zeigen über 70 % der Stiefmütter Anzeichen von chronischem Selbstzweifel in den ersten drei Jahren ihrer Rolle (Doodson, 2014). Und das Statistische Bundesamt (2024) zählt rund 1,1 Millionen Patchworkfamilien in Deutschland — in jeder einzelnen gibt es eine Frau, die mit genau diesen Stimmen kämpft.
 
 Und irgendwann werden diese Stimmen so laut, dass du sie für die Wahrheit hältst. **Das sind sie nicht.** Sie sind Muster. Und Muster kann man verändern.
 
@@ -136,4 +136,3 @@ Einmal ist besser als nie — aber Regelmäßigkeit macht den Unterschied. Ideal
 
 Das hängt von deiner aktuellen Herausforderung ab. Wenn du dich unsichtbar fühlst, wähle Sätze über deinen Wert. Wenn du Schuldgefühle hast, Sätze über dein Recht auf Grenzen. Der Schlüssel: Die Affirmation sollte dich leicht im Bauch kribbeln lassen — nicht gleichgültig lassen, aber auch nicht absurd klingen.
 </details>
-FAQ_END -->

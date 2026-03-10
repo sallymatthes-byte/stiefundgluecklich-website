@@ -25,7 +25,7 @@ Du liebst deine Kinder. Du liebst deine Partnerin. Und du versuchst, es allen re
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „An den Papa in der Patchworkfamilie: Was deine Partnerin sich nicht traut zu sagen" an — auf Spotify oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „An den Papa in der Patchworkfamilie: Was deine Partnerin sich nicht traut zu sagen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -111,7 +111,7 @@ Wenn du wissen willst, wie ein [3-Schritte-Framework](/blog/das-3-schritte-frame
 
 ---
 
-Wenn du nach mehr Orientierung suchst — lies auch, wie du [als Patchwork-Paar auf Augenhöhe bleibst](/blog/10-fragen-fuer-deine-beziehung/) und warum [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/) der Schlüssel ist.
+Wenn du nach mehr Orientierung suchst — lies auch, wie du [als Patchwork-Paar auf Augenhöhe bleibst](/blog/10-fragen-fuer-deine-beziehung/) und warum [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/) der Schlüssel ist. Mehr zum Thema [Patchworkfamilie](/blog/patchworkfamilie/) und zur [Rolle der Stiefmutter](/blog/stiefmutter/) findest du in unseren Übersichten.
 
 ---
 

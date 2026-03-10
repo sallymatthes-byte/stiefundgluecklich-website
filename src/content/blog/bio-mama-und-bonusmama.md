@@ -31,9 +31,9 @@ Laut Wednesday Martin (2009) ist die Beziehung zwischen Stiefmutter und leiblich
 
 ---
 
-## Warum die Beziehung zwischen Bio-Mama und Bonusmama so schwer ist
-
 ![Frau sitzt nachdenklich auf einer Bank im Grünen und reflektiert ihre Gefühle](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
+
+## Warum die Beziehung zwischen Bio-Mama und Bonusmama so schwer ist
 
 Es liegt nicht an dir. Es liegt nicht an ihr. Es liegt am System.
 
