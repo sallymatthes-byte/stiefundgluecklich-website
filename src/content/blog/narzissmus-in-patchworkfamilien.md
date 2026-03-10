@@ -8,7 +8,7 @@ image: "/images/blog/narzissmus-in-patchworkfamilien-1.jpg"
 imageAlt: "Frau steht allein in nebligem Wald, nachdenklich, warme Erdtöne"
 metaTitle: "Narzissmus in Patchworkfamilien | Schutz für dich & die Kinder"
 metaDescription: "Narzisstischer Ex-Partner in der Patchworkfamilie? Expertin Steffi Sophia erklärt, wie du narzisstische Muster erkennst und dich und die Kinder schützt."
-updated: 2026-03-07
+updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/0ZWFUMFZN1u4CkmSJbxn0C"
 podcastTitle: "Narzissmus in Patchworkfamilien - So schützt du dich und die Kinder"
 podcastDescription: "Steffi Sophia erklärt, was Narzissmus wirklich bedeutet, wie du narzisstische Muster erkennst und wie du dich und die Kinder in der Patchworkfamilie schützen kannst."
@@ -17,6 +17,8 @@ podcastDescription: "Steffi Sophia erklärt, was Narzissmus wirklich bedeutet, w
 **Narzissmus in Patchworkfamilien beschreibt eine Dynamik, in der ein Ex-Partner durch Manipulation, Kontrolle und fehlende Kooperationsbereitschaft das gesamte Familiensystem von außen steuert.** Betroffen sind nicht nur die ehemaligen Partner, sondern auch die Kinder und die neuen Partner — insbesondere Bonusmamas, die in ein System kommen, dessen Regeln sie nicht gemacht haben. Was Narzissmus wirklich bedeutet, wie du die Muster erkennst und was du konkret tun kannst, erfährst du in diesem Artikel.
 
 Du kennst das vielleicht: Dein Partner hat sich getrennt, eine neue Familie gegründet — und trotzdem bestimmt der Ex-Partner noch immer den Takt. Jede Absprache wird zum Machtkampf. Jede Übergabe der Kinder fühlt sich an wie ein Minenfeld. Und du als Bonusmama stehst daneben und fragst dich: *Was passiert hier eigentlich?*
+
+In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024). In wie vielen davon narzisstische Dynamiken den Alltag bestimmen, lässt sich schwer beziffern — aber laut aktuellen Studien weisen etwa 1–6 % der Bevölkerung narzisstische Persönlichkeitsstörungen auf (Stinson et al., 2008). In der Praxis erlebe ich, dass das Thema in Patchworkkonstellationen besonders häufig hochkommt.
 
 Das Wort „Narzissmus" fällt schnell — manchmal zu schnell. Aber manchmal beschreibt es genau das, was du erlebst. Nicht als Diagnose, nicht als Schimpfwort, sondern als Erklärung für Muster, die sich anders nicht einordnen lassen.
 
@@ -135,6 +137,10 @@ Du musst das nicht alleine durchstehen. Therapeutische Begleitung, Coaching, rec
 
 ---
 
+> „Narzisstische Dynamiken in Patchworkfamilien sind nicht dein Fehler — aber der Umgang damit ist deine Verantwortung. Nicht weil du schuld bist, sondern weil du die Einzige bist, die für dein Wohlbefinden sorgen kann." — Sally Matthes, Coach für Bonusmamas
+
+---
+
 ## Zusammenfassung: Du bist nicht hilflos
 
 **Du bist den Dynamiken nicht ausgeliefert.** Es fühlt sich vielleicht so an. Es fühlt sich an, als hättest du keine Wahl, als würdest du nur reagieren, als wärst du eine Marionette in einem Spiel, dessen Regeln jemand anderes macht.
@@ -147,4 +153,4 @@ Und weißt du was? **Was für narzisstische Dynamiken gilt, gilt auch für ganz 
 
 Narzissmus in der Patchworkfamilie ist *kein* Urteil. Es ist eine Beschreibung von Mustern, die dir helfen kann, deine Situation besser zu verstehen. Und Verständnis ist immer der erste Schritt zur Veränderung.
 
-Du bist stärker, als du denkst. Und du bist nicht allein damit.
+Du bist stärker, als du denkst. Und du bist nicht allein damit. Wenn du dich fragst, wo du generell als [Stiefmutter](/blog/stiefmutter/) stehst oder was eine gesunde [Patchworkfamilie](/blog/patchworkfamilie/) ausmacht, findest du dort weitere Orientierung.

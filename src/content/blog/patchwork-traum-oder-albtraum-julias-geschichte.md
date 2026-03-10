@@ -70,6 +70,10 @@ Julia entschied sich fürs Ändern. Und zwar nicht die Kinder, nicht Thomas, nic
 
 ![Paar sitzt auf einer Bank und führt ein offenes Gespräch über ihre Beziehung](/images/blog/blog-relationship.jpg)
 
+> „In über 100 Coachings habe ich eines gelernt: Die Bonusmamas, die bleiben und wachsen, sind nicht die, bei denen alles glatt läuft. Es sind die, die aufhören, perfekt sein zu wollen — und anfangen, ehrlich zu sein." — Sally Matthes, Coach für Bonusmamas
+
+---
+
 ## Was wir von Julia lernen können
 
 Julias Geschichte ist nicht einzigartig — aber ihre Ehrlichkeit ist es. Sie hat drei Dinge begriffen, die viele Bonusmamas erst nach Jahren verstehen:
@@ -88,7 +92,7 @@ Vier Jahre nach ihrem Tiefpunkt lebt Julia immer noch mit Thomas und seinen Kind
 
 Die Kinder nennen sie nicht Mama. Sie nennen sie Julia. Und das ist okay. Bray & Kelly (1998) haben in ihrer Langzeitstudie gezeigt, dass Patchworkfamilien, die ihre eigenen Begriffe und Rituale entwickeln — statt Erstfamilien zu imitieren — signifikant stabiler sind.
 
-**Julia hat aufgehört, eine Rolle zu spielen. Und angefangen, sie selbst zu sein.** Das war die schwierigste und gleichzeitig befreiendste Entscheidung ihres Lebens. Mehr über den Weg zur eigenen Identität in der Patchworkfamilie findest du im Artikel über [die 4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/).
+**Julia hat aufgehört, eine Rolle zu spielen. Und angefangen, sie selbst zu sein.** Das war die schwierigste und gleichzeitig befreiendste Entscheidung ihres Lebens. Mehr über den Weg zur eigenen Identität in der [Patchworkfamilie](/blog/patchworkfamilie/) findest du im Artikel über [die 4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/). Und wenn du dich fragst, was es wirklich bedeutet, [Stiefmutter](/blog/stiefmutter/) zu sein, findest du dort weitere Orientierung.
 
 ---
 
