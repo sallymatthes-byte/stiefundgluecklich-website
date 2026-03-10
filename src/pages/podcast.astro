@@ -130,10 +130,17 @@ const curatedEpisodes = [
   <section class="py-12 md:py-16 bg-secondary">
     <div class="container mx-auto px-5 md:px-6 text-center">
       <p class="text-muted-foreground mb-4">Du suchst eine bestimmte Folge?</p>
-      <a href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm" target="_blank" rel="noopener noreferrer"
-        class="inline-flex items-center gap-2 text-primary font-medium hover:text-primary/80 transition-colors">
-        Alle Folgen auf Spotify ↗
-      </a>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+        <a href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 text-primary font-medium hover:text-primary/80 transition-colors">
+          Auf Spotify anhören ↗
+        </a>
+        <span class="hidden sm:inline text-muted-foreground/40">|</span>
+        <a href="https://podcasts.apple.com/us/podcast/bonusgefl%C3%BCster-der-podcast-f%C3%BCr-bonusmamas-in-patchworkfamilien/id1763374085" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 text-primary font-medium hover:text-primary/80 transition-colors">
+          Auf Apple Podcasts anhören ↗
+        </a>
+      </div>
     </div>
   </section>
 </Layout>
