@@ -36,6 +36,8 @@ Und dann ist da noch der Faktor, den niemand ausspricht: **Die Wut des Bonuskind
 
 ![Kind und Bonusmama halten Hände — Vertrauen aufbauen](/images/blog/konflikte-unter-kindern-2.jpg)
 
+---
+
 ## Die 5 häufigsten Situationen — und was wirklich hilft
 
 ### 1. Wutanfälle nach dem Wechsel
@@ -74,6 +76,8 @@ Antworte ruhig: *„Du hast recht, ich bin nicht deine Mama. Aber ich bin ein Er
 
 ![Familie spaziert gemeinsam auf einem Waldweg — Zusammenhalt in der Patchworkfamilie](/images/blog/konflikte-unter-kindern-3.jpg)
 
+---
+
 ## Was du als Bonusmama brauchst
 
 All das funktioniert nur, wenn du auch auf dich achtest:
@@ -84,6 +88,8 @@ All das funktioniert nur, wenn du auch auf dich achtest:
 
 Laut dem Statistischen Bundesamt (2023) leben in Deutschland rund **1,1 Millionen Kinder** in Patchworkfamilien. Jedes einzelne davon navigiert Gefühle, die größer sind als das, was es allein tragen kann.
 
+---
+
 ## Zusammenfassung
 
 Starke Gefühle beim Bonuskind sind keine Störung — sie sind eine gesunde Reaktion auf eine komplexe Situation. Als [Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) kannst du einen entscheidenden Unterschied machen: nicht durch perfektes Verhalten, sondern durch *Präsenz, Ruhe und das Signal: Ich halte das aus.*
@@ -91,11 +97,16 @@ Starke Gefühle beim Bonuskind sind keine Störung — sie sind eine gesunde Rea
 Lies auch: [Co-Regulation in Patchworkfamilien](/blog/co-regulation-patchworkfamilien/) und [Wenn das Bonuskind nur am Papa klebt](/blog/wenn-das-bonuskind-nur-am-papa-klebt/).
 
 <!-- FAQ_START
-<dl>
-<dt>Warum hat mein Bonuskind nach jedem Wechsel starke Gefühle?</dt>
-<dd>Jeder Wechsel zwischen zwei Haushalten ist emotional anspruchsvoll. Das Kind muss sich jedes Mal neu orientieren, Abschied nehmen und ankommen — gleichzeitig. Die starken Gefühle danach sind eine normale Reaktion auf diesen Übergang.</dd>
-<dt>Darf ich als Bonusmama das Kind trösten, wenn es weint?</dt>
-<dd>Ja. Emotionale Begleitung hat nichts mit biologischer Verwandtschaft zu tun. Wenn du dem Kind Ruhe und Sicherheit bietest, hilfst du ihm — unabhängig davon, ob es dich als Bezugsperson akzeptiert.</dd>
-<dt>Was mache ich, wenn mich die Gefühle des Bonuskindes triggern?</dt>
-<dd>Das ist normal und menschlich. Nimm dir kurz Zeit für dich (tief atmen, Raum wechseln), benenne innerlich dein Gefühl und komm dann zurück. Wenn es regelmäßig passiert, kann ein Coaching oder eine Therapie helfen, die eigenen Trigger zu verstehen.</dd>
-</dl>
+## Häufige Fragen
+
+### Warum hat mein Bonuskind nach jedem Wechsel starke Gefühle?
+
+Jeder Wechsel zwischen zwei Haushalten ist emotional anspruchsvoll. Das Kind muss sich jedes Mal neu orientieren, Abschied nehmen und ankommen — gleichzeitig. Die starken Gefühle danach sind eine normale Reaktion auf diesen Übergang.
+
+### Darf ich als Bonusmama das Kind trösten, wenn es weint?
+
+Ja. Emotionale Begleitung hat nichts mit biologischer Verwandtschaft zu tun. Wenn du dem Kind Ruhe und Sicherheit bietest, hilfst du ihm — unabhängig davon, ob es dich als Bezugsperson akzeptiert.
+
+### Was mache ich, wenn mich die Gefühle des Bonuskindes triggern?
+
+Das ist normal und menschlich. Nimm dir kurz Zeit für dich (tief atmen, Raum wechseln), benenne innerlich dein Gefühl und komm dann zurück. Wenn es regelmäßig passiert, kann ein Coaching oder eine Therapie helfen, die eigenen Trigger zu verstehen.

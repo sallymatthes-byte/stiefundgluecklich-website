@@ -43,9 +43,9 @@ Nach einem Jahr kannte Marie ihren Partner wirklich. Sie wusste, [wie er erzieht
 
 ---
 
-## Wann der Zeitpunkt zu früh ist
-
 ![Zwei Hände, die sich vorsichtig nähern, symbolisch für langsamen Vertrauensaufbau](/images/blog/bonusmama-aussenseiterin-2.jpg)
+
+## Wann der Zeitpunkt zu früh ist
 
 In über 100 Coaching-Gesprächen höre ich immer wieder dieselben Geschichten von Frauen, die zu früh kennengelernt haben:
 
@@ -87,9 +87,9 @@ In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamil
 
 ---
 
-## Die häufigsten Fehler beim Kennenlernen
-
 ![Patchworkfamilie bei einem gemeinsamen Spaziergang im herbstlichen Wald](/images/blog/wenn-das-bonuskind-nur-am-papa-klebt-2.jpg)
+
+## Die häufigsten Fehler beim Kennenlernen
 
 - **Zu schnell einziehen.** Der Sprung vom „Kennenlernen" zum „Zusammenleben" passiert oft innerhalb weniger Monate. Die [gemeinsame Wohnung](/blog/gemeinsame-wohnung-patchworkfamilie/) sollte erst kommen, wenn die Beziehung zwischen dir und den Kindern eine eigene Basis hat.
 - **Die Mama-Rolle übernehmen.** Du bist nicht ihre Mutter. Du bist Papas Partnerin. Punkt. Die Rolle wächst mit der Zeit — oder auch nicht. Beides ist okay.

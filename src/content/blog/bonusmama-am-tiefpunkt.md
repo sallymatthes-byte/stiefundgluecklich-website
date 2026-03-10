@@ -31,9 +31,9 @@ Laut Wednesday Martin (2009) haben [Stiefmütter](/blog/stiefmutter/) ein signif
 
 ---
 
-## Wie der Tiefpunkt sich anfühlt
-
 ![Frau steht allein in der Küche und schaut aus dem Fenster — der emotionale Doppelshift als Bonusmama](/images/blog/taeglicher-kampf-bonusmama-1.jpg)
+
+## Wie der Tiefpunkt sich anfühlt
 
 Es ist nicht der große Knall. Es sind keine Tränen, kein Zusammenbruch. Der Tiefpunkt als [Bonusmama](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) schleicht sich an. Leise. Langsam.
 
@@ -85,9 +85,9 @@ Nicht das große Glück. Kleine Dinge. Eine halbe Stunde allein lesen. Ein Spazi
 
 ---
 
-## Wann du dir Hilfe holen solltest
-
 ![Frau geht einen schmalen Waldweg entlang, warmes Licht fällt durch die Baumkronen](/images/blog/bonusmama-angst-3.jpg)
+
+## Wann du dir Hilfe holen solltest
 
 Wenn du dich in diesem Artikel wiedererkennst, dann ist das kein Zufall. Und es ist kein Zeichen, dass du „überreagierst." Es ist ein Signal.
 

@@ -24,7 +24,7 @@ Das Besondere an diesen Konflikten: Sie gehen tiefer als normaler Geschwisterstr
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonus- und eigene Kinder: Frieden stiften ohne Partei zu ergreifen" an — auf Spotify oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonus- und eigene Kinder: Frieden stiften ohne Partei zu ergreifen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -41,9 +41,9 @@ Bei „normalen" Geschwistern gibt es eine Grundsicherheit: Wir gehören zusamme
 
 ---
 
-## Die Rolle der Loyalitätskonflikte bei den Kindern
-
 ![Kind sitzt nachdenklich am Fenster und schaut nach draußen — Loyalitätskonflikte in der Patchworkfamilie](/images/blog/bonus-und-eigene-kinder-frieden-stiften-2.jpg)
+
+## Die Rolle der Loyalitätskonflikte bei den Kindern
 
 **Dein eigenes Kind:** Fühlt sich möglicherweise bedroht. Vorher hatte es dich ganz für sich — jetzt teilt es dich. Nicht nur mit einem Partner, sondern mit dessen Kindern. Das ist ein Verlust, auch wenn du ihn nicht so gemeint hast. Und Verlust macht Kinder aggressiv, anhänglich oder verschlossen.
 
