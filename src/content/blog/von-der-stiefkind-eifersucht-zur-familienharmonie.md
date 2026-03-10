@@ -1,9 +1,9 @@
 ---
 title: "Von der Stiefkind-Eifersucht zur Familienharmonie: Mein Weg zu mehr Verständnis und Akzeptanz"
-description: "Die Eifersucht auf das [Stiefkind](/blog/stiefkind/) belastet dich? Vielleicht zeigt sich sogar ein [Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/)? Entdecke, wie du diese Gefühle überwindest und eine harmonische Patchworkfamilie aufbaust."
+description: "Die Eifersucht auf das Stiefkind belastet dich? Entdecke, wie du diese Gefühle als Bonusmama überwindest und eine harmonische Patchworkfamilie aufbaust."
 category: "kinder-bindung"
 date: 2024-11-21
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Eifersucht auf Stiefkind: Warum es normal ist + 3 Wege"
 metaDescription: "Eifersucht auf das Stiefkind deines Partners? Warum dieses Gefühl häufiger ist als du denkst — und wie du davon loskommst."
 heroImage: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
@@ -11,7 +11,9 @@ image: "/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster mit Kaffeetasse — Eifersucht auf das Stiefkind überwinden"
 ---
 
-**Eifersucht auf das Stiefkind ist ein Tabu-Thema — dabei kennt fast jede Bonusmama Momente, in denen sie sich fragt, ob sie an zweiter Stelle steht.** Wenn dein Partner sein Kind in den Mittelpunkt stellt und du dich dabei verloren fühlst, ist das kein Versagen, sondern ein Signal. Hier zeige ich dir meinen Weg zur Familienharmonie.
+**Eifersucht auf das Stiefkind ist ein Tabu-Thema — dabei kennt fast jede Bonusmama Momente, in denen sie sich fragt, ob sie an zweiter Stelle steht.** Wenn dein Partner sein Kind in den Mittelpunkt stellt und du dich dabei verloren fühlst, ist das kein Versagen, sondern ein Signal. Laut Wednesday Martin (2009) ist Eifersucht auf das Stiefkind eine der häufigsten — und gleichzeitig am meisten verschwiegenen — emotionalen Herausforderungen in [Patchworkfamilien](/blog/patchworkfamilie/). In über 700 Coaching-Stunden mit Bonusmamas habe ich eines gelernt: Dieses Gefühl hat nichts mit dem Kind zu tun — und alles mit deiner Sehnsucht nach Zugehörigkeit.
+
+> „Die Eifersucht auf sein Kind ist keine Schwäche. Sie ist der Schrei deines Herzens nach einem sicheren Platz in dieser Familie." — Sally Matthes, Coach für Bonusmamas
 
 
 Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
@@ -78,7 +80,7 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 - Wie schaffe ich es, nicht mehr eifersüchtig auf die Beziehung zwischen meinem Partner und seinem Kind zu sein?
 - Was, wenn diese Eifersucht unsere Familie zerstört?
 
-**Du bist nicht allein mit diesen Gedanken.** Als Patchwork-Expertin und Bonusmama kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
+**Du bist nicht allein mit diesen Gedanken.** In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und Patricia Papernow (2013) zeigt: Eifersucht auf die Eltern-Kind-Bindung ist ein systemisches Phänomen, kein individuelles Versagen. Als Coach und [Stiefmutter](/blog/stiefmutter/) kenne ich nicht nur den Schmerz, sondern auch den Weg hinaus. Einen Weg, der dich zu mehr Gelassenheit, Selbstliebe und echtem Familienglück führt.
 
 <!-- FAQ_START
 

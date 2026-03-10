@@ -3,7 +3,7 @@ title: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als 
 description: "Die Ex stört eure Beziehung? Erfahre, wie du dich emotional abgrenzt und deine Partnerschaft als Bonusmama schützt."
 category: "ex-und-system"
 date: 2024-12-06
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Ständig Streit wegen der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ex-Frau macht ständig Probleme? Wie du als Bonusmama Konflikte wegen der Ex-Partnerin überwindest und Frieden findest."
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
@@ -18,7 +18,7 @@ Kennst du das? Ständig Streit mit dem Partner wegen seiner Ex. Egal ob es um di
 
 Aber egal was du tust, die Konflikte hören einfach nicht auf. Im Gegenteil: Sie werden immer schlimmer, vergiften nach und nach eure Beziehung. *Du bist kurz davor zu resignieren.* Vielleicht fragst du dich: Ist es das alles wert? Wie lange halte ich das noch aus?
 
-Ich kann dich beruhigen: Du bist nicht allein! Unzählige Stiefeltern kämpfen tagein tagaus mit genau denselben Problemen. Und auch wenn es sich im Moment vielleicht nicht so anfühlt: Es gibt einen Ausweg. **Du musst die Probleme mit der Ex nicht länger hinnehmen.** Du hast es selbst in der Hand, die Situation zu verbessern — und dadurch nicht nur deine Patchworkfamilie zu retten, sondern auch mehr Freude und Leichtigkeit in dein Leben zu bringen.
+Ich kann dich beruhigen: Du bist nicht allein! In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024) — und in einer überwältigenden Mehrheit davon sind Konflikte rund um die Ex-Partnerin das Hauptthema. Laut Patricia Papernow (2013) gehören Grenzthemen mit der Ex zu den fünf häufigsten Konfliktquellen in Stieffamilien. Und auch wenn es sich im Moment vielleicht nicht so anfühlt: Es gibt einen Ausweg. **Du musst die Probleme mit der Ex nicht länger hinnehmen.** Du hast es selbst in der Hand, die Situation zu verbessern — und dadurch nicht nur deine Patchworkfamilie zu retten, sondern auch mehr Freude und Leichtigkeit in dein Leben zu bringen.
 
 Wie genau das funktioniert und welche drei Schritte du jetzt gehen solltest, erfährst du in diesem Artikel. Lass uns gemeinsam deine Beziehung stärken und Lösungen finden!
 
@@ -44,7 +44,7 @@ Mit ihrer Sichtweise stand Yvonne nicht allein da. Viele Stiefeltern wünschen s
 
 Yvonne aber wollte sich damit nicht abfinden. Sie war entschlossen, die Situation zu verbessern. Dafür war sie bereit, alte Denkmuster über Bord zu werfen und neue Wege zu gehen — damit nicht nur in ihrer Patchworkfamilie endlich Frieden einkehren, sondern auch ihre Partnerschaft wieder aufblühen konnte.
 
-> Der beste Beweis der Liebe ist Vertrauen. – Joyce Brothers
+> „Du kannst die Ex nicht ändern. Aber du kannst ändern, wie viel Raum sie in deinem Kopf und in eurer Beziehung einnimmt." — Sally Matthes, Coach für Bonusmamas
 
 ## Doch das erschien schwerer als angenommen
 
@@ -90,7 +90,7 @@ Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Si
 
 ## Zusammenfassung
 
-**Du musst den Kreislauf aus Konflikten und Erschöpfung nicht alleine durchbrechen.** Yvonnes Geschichte zeigt: Wenn du bereit bist, bei dir selbst anzufangen, alte Muster zu hinterfragen und gemeinsam mit deinem Partner als Team aufzutreten, kann sich auch in deiner Patchworkfamilie vieles zum Besseren wenden.
+**Du musst den Kreislauf aus Konflikten und Erschöpfung nicht alleine durchbrechen.** Yvonnes Geschichte zeigt: Wenn du bereit bist, bei dir selbst anzufangen, alte Muster zu hinterfragen und gemeinsam mit deinem Partner als Team aufzutreten, kann sich auch in deiner [Patchworkfamilie](/blog/patchworkfamilie/) vieles zum Besseren wenden. Studien zeigen: Es dauert im Durchschnitt 4–7 Jahre, bis eine [Stiefmutter](/blog/stiefmutter/)-Familie ein stabiles Gleichgewicht findet (Bray & Kelly, 1998). Aber mit bewusster Arbeit geht es deutlich schneller.
 
 
 
