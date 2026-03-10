@@ -24,7 +24,9 @@ Julia kennt dieses Gefühl. Sie ist Bonusmama und Mama — und hat in unserem In
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama und Mama: Wie Julia lernte, loszulassen ohne aufzugeben" an — auf [YouTube](https://www.youtube.com/watch?v=T0f8jXKNXBc) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama und Mama: Wie Julia lernte, loszulassen ohne aufzugeben" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
 
 ---
 
@@ -38,6 +40,8 @@ Als Mama und Bonusmama trägst du eine Last, die kaum jemand versteht — nicht 
 
 ![Frau sitzt nachdenklich am Fenster und reflektiert über ihre Rolle in der Patchworkfamilie](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
 
+---
+
 ## Wenn die Kinder dich spalten
 
 Der schmerzhafteste Moment in der Doppelrolle? Wenn du merkst, dass du unterschiedlich fühlst. Dass dein Herz für dein eigenes Kind sofort aufspringt — und bei deinem Bonuskind erst einen Moment zögert. Nicht weil du es nicht magst. Sondern weil die Verbindung eine andere ist.
@@ -47,6 +51,8 @@ Und dann kommt die *Schuld*. Die Stimme, die sagt: Du musst alle gleich behandel
 **Stopp.** Gleiche Liebe ist ein Mythos, der Patchworkfamilien mehr schadet als hilft. Die Familientherapeutin Dr. Patricia Papernow sagt klar: Unterschiedliche Bindungsqualitäten zu leiblichen Kindern und Bonuskindern sind **normal und gesund** — solange alle Kinder mit Respekt und Fürsorge behandelt werden.
 
 Was Julia gelernt hat: **Du darfst unterschiedlich fühlen, ohne unterschiedlich zu handeln.** Dein Bonuskind braucht keine gespiegelte Mutterliebe. Es braucht eine verlässliche, warme Erwachsene, die da ist. Nicht mehr. Nicht weniger.
+
+---
 
 ## Loslassen, ohne aufzugeben
 
@@ -62,6 +68,8 @@ Julias Strategie in drei Schritten:
 - **Grenzen setzen statt schlucken.** „Ich trage das nicht mit" ist ein vollständiger Satz. Du musst ihn nicht begründen, nicht rechtfertigen, nicht abschwächen.
 - **Präsent sein statt perfekt.** Deine Bonuskinder brauchen keine zweite Mama. Sie brauchen jemanden, der einfach *da* ist — ohne Erwartung, ohne Agenda, ohne Performance.
 
+---
+
 ## Gemeinsame Grenzen finden — als Paar
 
 Julia und ihr Partner haben einen Weg gefunden, der für beide funktioniert: **Regelmäßige Gespräche über Grenzen.** Nicht in der Hitze des Konflikts, sondern geplant, ruhig, ehrlich.
@@ -75,6 +83,8 @@ Konkret sieht das so aus:
 
 ![Bonusmama und Partner im gemeinsamen Gespräch über die Patchworkfamilie](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
 
+---
+
 ## Bonusmama-Sein ist keine Pflicht — es ist eine bewusste Entscheidung
 
 Der vielleicht wichtigste Satz aus Julias Interview: **„Bonusmama-Sein bedeutet nicht, alles auszuhalten. Es bedeutet, bewusste Entscheidungen zu treffen."**
@@ -83,13 +93,19 @@ Du entscheidest, wie viel du gibst. Du entscheidest, wo deine Grenze ist. Du ent
 
 Das ist keine Schwäche. Das ist Klarheit. Und genau diese Klarheit — so sagt Julia — hat ihre Patchworkfamilie gerettet. Nicht mehr geben, nicht härter kämpfen, sondern **bewusster wählen, wofür sie ihre Energie einsetzt.**
 
-Wenn du dich in Julias Geschichte wiedererkennst: Du bist nicht allein damit. Und du musst das nicht allein durchstehen.
+Wenn du dich in Julias Geschichte wiedererkennst: Du bist nicht allein damit. Und du musst das nicht allein durchstehen. Lies auch: [Ab wann ist man Stiefmutter?](/blog/stiefmutter/) und [Patchworkfamilie — was du wissen musst](/blog/patchworkfamilie/).
 
 ---
 
-## Häufig gestellte Fragen
+## Zusammenfassung
 
-<!-- FAQ_START -->
+Als Mama und [Bonusmama](/blog/stiefmutter/) gleichzeitig trägst du eine unsichtbare Last: zwei Rollen, zwei Arten von Bindung, und die ständige Frage, ob du genug bist. Julias wichtigstes Learning: Aufhören, alles persönlich zu nehmen — und anfangen, bewusst zu wählen, wofür du deine Energie einsetzt. Gleiche Liebe ist ein Mythos. Was zählt, ist Respekt und Fürsorge für alle Kinder. Und Klarheit darüber, dass Bonusmama-Sein eine Entscheidung ist — keine Pflicht.
+
+<!-- FAQ_START
+
+---
+
+## Häufige Fragen
 
 ### Ist es normal, dass ich meine eigenen Kinder und Bonuskinder unterschiedlich liebe?
 
@@ -107,4 +123,4 @@ Distanz ist bei Bonuskindern — besonders in den ersten Jahren — normal und k
 
 Nein. Du darfst klar sagen, welche Entscheidungen der Ex dein Leben betreffen und wo du nicht mitmachst. Idealerweise kommuniziert dein Partner mit seiner Ex — du bist keine Vermittlerin. Wenn Grenzen wiederholt überschritten werden, ist ein gemeinsames Gespräch als Paar über eure Strategie wichtig.
 
-<!-- FAQ_END -->
+

@@ -49,9 +49,11 @@ In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamil
 
 ---
 
-## Die 4 Phasen: Von Feindschaft zu Freundschaft
-
 ![Bonusmama sitzt nachdenklich auf einer Bank im Grünen und reflektiert ihre Gefühle](/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-2.jpg)
+
+---
+
+## Die 4 Phasen: Von Feindschaft zu Freundschaft
 
 ### Phase 1: Unsichtbarer Krieg
 
@@ -70,6 +72,8 @@ Der Wendepunkt. Ihr erkennt: Die andere Frau ist nicht das Problem. Das System i
 Das ist selten — und wunderschön. Ihr könnt über das Kind lachen. Ihr könnt gemeinsam Entscheidungen treffen. Ihr könnt sagen: „Danke, dass du dich um mein Kind kümmerst." Nicht jede Patchworkfamilie erreicht diese Phase. Aber jede *kann* es.
 
 Patricia Papernow (2013) betont: Der Übergang von Phase 1 zu Phase 3 ist der entscheidende Sprung — und er erfordert, dass mindestens eine der beiden Frauen den ersten Schritt macht.
+
+---
 
 ---
 
@@ -98,6 +102,8 @@ Du wirst vermutlich nie hören: „Danke, dass du mein Kind betreust." Das ist s
 Du darfst sagen: „Das ist nicht meine Entscheidung." Du darfst [Verantwortung zurückgeben](/blog/rueckzug-als-bonusmama/), wenn sie nicht deine ist. Aber halte die Tür offen. Mauern schützen — aber sie isolieren auch.
 
 > „Freundschaft zwischen Bonusmama und Kindsmama ist kein Pflichtprogramm. Aber Respekt ist es. Und Respekt beginnt bei dir." — Sally Matthes, Coach für Bonusmamas
+
+Mehr zum Thema [Stiefmutter](/blog/stiefmutter/) — ab wann du eine bist und was das bedeutet.
 
 ---
 

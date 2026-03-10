@@ -57,6 +57,8 @@ Wenn du und dein Partner nicht verheiratet seid, hast du formal kein Mitspracher
 
 ![Elternabend im Klassenzimmer, Frau sitzt etwas abseits unter anderen Eltern](/images/blog/bonusmama-schule-kindergarten-2.jpg)
 
+---
+
 ## Der Elternabend: Hingehen oder bleiben lassen?
 
 Die Frage ist nicht, ob du darfst. Sondern: **Was bringt es — dir, dem Kind und der Situation?**
@@ -77,6 +79,8 @@ Die Frage ist nicht, ob du darfst. Sondern: **Was bringt es — dir, dem Kind un
 
 ---
 
+---
+
 ## Wenn die leibliche Mutter deinen Einsatz nicht will
 
 Das ist einer der schmerzhaftesten Punkte. Du machst die Arbeit — aber offiziell sollst du unsichtbar bleiben. Die Kindsmutter sagt zur Lehrerin: „Die hat da nichts zu suchen." Oder: „Nur *ich* hole mein Kind ab."
@@ -88,6 +92,8 @@ Laut einer Studie des Deutschen Jugendinstituts (2020) erleben über 40 % der St
 2. **Über deinen Partner kommunizieren.** Er spricht mit der Ex: „[Partnerin] holt die Kinder ab, wenn ich arbeite. Das ist logistisch notwendig."
 3. **Die Schule informieren.** Eine kurze, sachliche Info an die Lehrerin: „Ich bin die Partnerin von [Name], wir leben zusammen. Hier ist meine Nummer für Notfälle." Mehr muss nicht sein.
 4. **Dich nicht einschüchtern lassen.** Wenn die Kindsmutter verlangt, dass die Schule dich nicht auf das Gelände lässt — das hat sie rechtlich nicht in der Hand, solange du vom sorgeberechtigten Elternteil bevollmächtigt bist.
+
+---
 
 ---
 
@@ -115,9 +121,11 @@ Hier bist du oft die heimliche Heldin. Du sitzt am Küchentisch, erklärst Mathe
 
 ![Frau hilft Kind bei den Hausaufgaben am Küchentisch, beide lächeln, warmes Nachmittagslicht](/images/blog/bonusmama-schule-kindergarten-3.jpg)
 
+---
+
 ## Dein Platz im Schul- und Kindergartenalltag
 
-Du bist nicht die Mutter. Und du musst es nicht sein. Aber du bist eine **wichtige Bezugsperson** im Leben dieses Kindes. Studien zeigen (Papernow, 2013), dass Kinder in [Patchworkfamilien](/blog/patchworkfamilie/) von zusätzlichen stabilen Bezugspersonen profitieren — vorausgesetzt, die Beziehung wird nicht erzwungen.
+Du bist nicht die Mutter. Und du musst es nicht sein. Aber du bist eine **wichtige Bezugsperson** im Leben dieses Kindes. Studien zeigen (Papernow, 2013), dass Kinder in [Patchworkfamilien](/blog/patchworkfamilie/) von zusätzlichen stabilen Bezugspersonen profitieren — vorausgesetzt, die Beziehung wird nicht erzwungen. Mehr dazu, [ab wann man eigentlich Stiefmutter ist](/blog/stiefmutter/) und welche Rechte damit verbunden sind.
 
 Dein Platz ist nicht der Platz der Mutter. Dein Platz ist *dein* Platz. Und den darfst du einnehmen — mit Klarheit, mit Respekt und mit dem Wissen, dass du einen Unterschied machst. Jeden Tag.
 
@@ -130,20 +138,19 @@ Als Bonusmama in Schule und Kindergarten hast du mehr Rechte, als du vielleicht 
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Darf ich als Stiefmutter mein Bonuskind von der Schule abholen?</summary>
+
+---
+
+## Häufige Fragen
+
+### Darf ich als Stiefmutter mein Bonuskind von der Schule abholen?
 
 Ja. Wenn du mit dem sorgeberechtigten Elternteil verheiratet bist, hast du das kleine Sorgerecht (§ 1687b BGB) und darfst Alltagsentscheidungen treffen — auch das Abholen. Ohne Trauschein brauchst du eine schriftliche Vollmacht.
-</details>
 
-<details>
-<summary>Darf ich als Bonusmama zum Elternabend gehen?</summary>
+### Darf ich als Bonusmama zum Elternabend gehen?
 
 Ja, als Begleitperson des sorgeberechtigten Elternteils ist das möglich. Prüfe vorher, ob die Anwesenheit der leiblichen Mutter zu Spannungen führen könnte — im Zweifelsfall ist das Wohl des Kindes wichtiger als dein Anspruch auf Präsenz.
-</details>
 
-<details>
-<summary>Was mache ich, wenn die Kindsmutter nicht will, dass ich in der Schule auftauche?</summary>
+### Was mache ich, wenn die Kindsmutter nicht will, dass ich in der Schule auftauche?
 
 Rechtlich kann sie das nicht verbieten, solange du vom sorgeberechtigten Elternteil bevollmächtigt bist. Kommuniziere über deinen Partner — nicht direkt mit der Ex. Informiere die Schule sachlich über deine Rolle. Bleib ruhig, klar und im Hintergrund.
-</details>

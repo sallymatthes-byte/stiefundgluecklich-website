@@ -26,7 +26,7 @@ Seine Geschichte klingt extrem. Aber das Muster dahinter erkennst du vielleicht 
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Papa nicht mehr kann: Christian Behr über Burnout und Heilung" an — auf [YouTube](https://www.youtube.com/watch?v=zil0D2mD9Q8) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn Papa nicht mehr kann: Christian Behr über Burnout und Heilung" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -42,6 +42,8 @@ Dr. Patricia Papernow beschreibt in ihrer Forschung zu Stieffamilien, dass der l
 
 ![Mann geht allein durch einen herbstlichen Waldweg im goldenen Licht](/images/blog/burnout-papa-patchworkfamilie-2.jpg)
 
+---
+
 ## Die Warnsignale, die du als Bonusmama erkennst
 
 Du merkst es oft bevor er es selbst merkt. Die Zeichen sind subtil, aber sie sind da:
@@ -54,6 +56,8 @@ Du merkst es oft bevor er es selbst merkt. Die Zeichen sind subtil, aber sie sin
 
 Laut dem Bundesinstitut für Bevölkerungsforschung (BiB, 2022) berichten Väter in komplexen Familienkonstellationen signifikant häufiger von emotionaler Erschöpfung als Väter in Kernfamilien. **Die Patchwork-Struktur selbst ist ein Risikofaktor** — nicht weil die Familie „falsch" ist, sondern weil die Anforderungen höher sind als in klassischen Familien.
 
+---
+
 ## Der gefährlichste Glaubenssatz: „Ich muss funktionieren"
 
 Christian Behr bringt es auf den Punkt: **„Ich muss funktionieren" ist der Satz, der Väter in den Burnout treibt.** Nicht die Arbeit. Nicht die Ex. Nicht die Kinder. Sondern der innere Antreiber, der sagt: Du darfst nicht aufhören.
@@ -63,6 +67,8 @@ Woher kommt das? Oft aus der eigenen Kindheit. Christian erzählt, wie er durch 
 Und genau dieses Muster wiederholt sich im Patchwork-Alltag. **Nur dass der Preis jetzt nicht nur seine Kindheit kostet — sondern seine Gesundheit, seine Beziehung und die Verbindung zu seinen Kindern.**
 
 > **Sally Matthes:** *„Wenn dein Partner nicht über seine Erschöpfung spricht, heißt das nicht, dass sie nicht da ist. Es heißt, dass er noch keinen Raum dafür gefunden hat. Und manchmal bist du die Einzige, die diesen Raum öffnen kann."*
+
+---
 
 ## Was du als Bonusmama tun kannst — und was nicht
 
@@ -86,6 +92,8 @@ Christian hat sich Hilfe geholt — Therapie, innere Kindarbeit, ehrliche Reflex
 
 ![Hände halten eine warme Tasse Tee neben einem offenen Journal auf einem Holztisch](/images/blog/burnout-papa-patchworkfamilie-3.jpg)
 
+---
+
 ## Wenn der Weg zurück beginnt
 
 Christians Geschichte zeigt: **Es gibt einen Weg zurück.** Aber er führt nicht über „mehr leisten" oder „sich zusammenreißen". Er führt über die Frage, die er jahrelang vermieden hat: *Was brauche ich eigentlich?*
@@ -96,11 +104,19 @@ Für dich als Bonusmama bedeutet das: Du darfst loslassen. Du darfst aufhören, 
 
 Denn eines hat Christian gelernt: **Erst wenn du aufhörst, allen gerecht zu werden außer dir selbst, kannst du wirklich für deine Familie da sein.**
 
+Lies auch: [Ab wann ist man Stiefmutter?](/blog/stiefmutter/) und [Patchworkfamilie — was du wissen musst](/blog/patchworkfamilie/).
+
 ---
 
-## Häufig gestellte Fragen
+## Zusammenfassung
 
-<!-- FAQ_START -->
+Burnout in [Patchworkfamilien](/blog/patchworkfamilie/) trifft nicht nur Bonusmamas — auch Väter brechen zusammen. Der gefährlichste Glaubenssatz: „Ich muss funktionieren." Christian Behrs Geschichte zeigt: Der Weg zurück führt nicht über mehr Leistung, sondern über die ehrliche Frage, was er selbst braucht. Als Bonusmama kannst du seinen Burnout nicht heilen — aber du kannst einen Raum schaffen, in dem Heilung möglich wird.
+
+<!-- FAQ_START
+
+---
+
+## Häufige Fragen
 
 ### Wie erkenne ich Burnout bei meinem Partner in der Patchworkfamilie?
 
@@ -118,4 +134,4 @@ Ja — die Forschung zeigt, dass die Anforderungen in Patchworkfamilien struktur
 
 Viele Burnout-Muster haben ihren Ursprung in der Kindheit — etwa der Glaubenssatz „Ich werde nur geliebt, wenn ich funktioniere". Innere Kindarbeit hilft, diese unbewussten Antreiber zu erkennen und zu verändern. Christian Behr beschreibt diesen Prozess als Wendepunkt auf seinem Weg aus dem Burnout.
 
-<!-- FAQ_END -->
+

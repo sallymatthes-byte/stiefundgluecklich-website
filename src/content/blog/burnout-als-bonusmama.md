@@ -29,9 +29,9 @@ Laut Patricia Papernow (2013) ist die Stiefmutterrolle eine der emotional anspru
 
 ---
 
-## 7 Warnsignale für Bonusmama-Burnout
-
 ![Frau praktiziert Yoga allein in einem hellen Raum mit Pflanzen und Morgenlicht](/images/blog/burnout-als-bonusmama-2.jpg)
+
+## 7 Warnsignale für Bonusmama-Burnout
 
 ### 1. Du funktionierst — aber fühlst nichts mehr
 
@@ -63,6 +63,8 @@ Die Frau, die du vor Patchwork warst — selbstbewusst, lebensfroh, klar — sch
 
 ---
 
+---
+
 ## Warum Bonusmamas besonders gefährdet sind
 
 Es ist kein Zufall, dass gerade [Bonusmamas](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) in die Erschöpfung rutschen. Das System ist so gebaut:
@@ -73,6 +75,8 @@ Es ist kein Zufall, dass gerade [Bonusmamas](/blog/plotzlich-bonusmama-wie-ich-m
 - **Die Gesellschaft bagatellisiert deine Rolle.** „Du hast dich ja drauf eingelassen." Dieser Satz allein könnte einen ganzen Artikel füllen.
 
 In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024). Die emotionale Belastung der Stiefmütter darin wird systematisch unterschätzt.
+
+---
 
 ---
 
@@ -104,9 +108,12 @@ Wenn sich nach Gesprächen, Versuchen und Zeit immer noch nichts ändert — dar
 
 ## Zusammenfassung
 
-**Burnout als Bonusmama ist real, häufig und kein Zeichen von Schwäche.** Du bist erschöpft, weil die Rolle mehr verlangt, als dir zugestanden wird. Der erste Schritt raus ist Ehrlichkeit — dir selbst gegenüber und deinem Partner. Du darfst weniger tragen. Du darfst laut sein. Und du darfst an dich denken, ohne dich dafür zu schämen.
+**Burnout als [Bonusmama](/blog/stiefmutter/) ist real, häufig und kein Zeichen von Schwäche.** Du bist erschöpft, weil die Rolle mehr verlangt, als dir zugestanden wird. Der erste Schritt raus ist Ehrlichkeit — dir selbst gegenüber und deinem Partner. Du darfst weniger tragen. Du darfst laut sein. Und du darfst an dich denken, ohne dich dafür zu schämen.
 
 <!-- FAQ_START
+
+---
+
 ## Häufige Fragen
 
 ### Bin ich als Bonusmama wirklich burnout-gefährdet?
