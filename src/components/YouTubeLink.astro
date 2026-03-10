@@ -1,0 +1,43 @@
+---
+interface Props {
+  youtubeId: string;
+  title?: string;
+}
+
+const { youtubeId, title } = Astro.props;
+const url = `https://www.youtube.com/watch?v=${youtubeId}`;
+const label = title ? `„${title}" auf YouTube anschauen` : 'Diese Folge auf YouTube anschauen';
+---
+
+<div class="youtube-link">
+  <p>
+    🎬 <strong>Passend dazu:</strong>{' '}
+    <a href={url} target="_blank" rel="noopener noreferrer">{label}</a>
+  </p>
+</div>
+
+<style>
+  .youtube-link {
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    background: hsl(var(--secondary) / 0.3);
+    border-left: 4px solid hsl(var(--primary));
+  }
+  .youtube-link p {
+    margin: 0 !important;
+    font-size: 1rem !important;
+    color: hsl(var(--foreground) / 0.85);
+    line-height: 1.6;
+  }
+  .youtube-link strong {
+    color: hsl(var(--foreground));
+  }
+  .youtube-link a {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .youtube-link a:hover {
+    opacity: 0.8;
+  }
+</style>

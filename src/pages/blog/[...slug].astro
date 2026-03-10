@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import StructuredData from '../../components/StructuredData.astro';
 import FAQSchema from '../../components/FAQSchema.astro';
 import FAQAccordion from '../../components/FAQAccordion.astro';
+import YouTubeLink from '../../components/YouTubeLink.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -128,6 +129,11 @@ const relatedPosts = allPosts
         <div class="prose-custom">
           <Content />
         </div>
+
+        <!-- YouTube Link -->
+        {post.data.youtubeId && (
+          <YouTubeLink youtubeId={post.data.youtubeId} />
+        )}
 
         <!-- Quiz CTA -->
         <div class="mt-16 bg-[#D9E4D3] text-foreground py-12 px-6 md:px-14 text-center">
