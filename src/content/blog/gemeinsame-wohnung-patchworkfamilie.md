@@ -19,6 +19,10 @@ Ursprünglich wollte er nur für ein Wochenende zu Besuch kommen – er ist imme
 Er ist damals also sofort bei mir eingezogen – in meine 35qm große Einzimmerwohnung. Die Frage, wer wann wo bei wem einzieht, stellte sich für unsere Patchworkfamilie aufgrund unserer Entfernung daher erst einmal nicht.
 Während er selbstständig war, war ich noch in einem festen Arbeitsverhältnis – es blieb also nur die Option, dass er zu mir kommt. Und ob wir langfristig zusammenbleiben wollten, mussten wir auch erst einmal herausfinden. Von gemeinsamer Wohnung war da also noch nicht die Rede.
 
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und der Einzug in eine gemeinsame Wohnung ist oft der Moment, in dem aus einem Paar mit Kindern eine echte Patchworkfamilie wird. Die Forschung von Bray und Kelly zeigt, dass ein zu frühes Zusammenziehen einer der häufigsten Fehler ist, die Patchworkfamilien machen.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Das Zusammenziehen ist der Moment der Wahrheit. Plötzlich geht es nicht mehr um romantische Wochenenden, sondern um Zahnputzbecher, Kinderzimmer-Aufteilung und die Frage: Wer räumt hier eigentlich auf? Mein Rat: Nehmt euch Zeit — mehr als ihr denkt."*
+
 Doch wie kann das Zusammenziehen in einer Patchworkfamilie gestaltet werden? Wie könnt ihr sicherstellen, dass ihr einen Raum schafft, in dem ihr euch alle wohlfühlt? Und wie gehst du mit deinen Ängsten als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) um?
 Lass uns mal einen Blick auf diese Fragen werfen.
 
@@ -79,4 +83,25 @@ Du darfst deine eigenen Gefühle und Bedenken ansprechen und dich aktiv in die G
 
 ## Zusammenfassung
 
-Ängste und Bedenken, die du als Bonusmama hast, sind völlig normal und du solltest sie unbedingt ansprechen. So vermeidest du Konflikte und fühlst dich ebenso wohl wie der Rest deiner Patchworkfamilie. Eine gute Planung, offene Kommunikation und gegenseitiger Respekt sind die Grundpfeiler für ein gelungenes Zusammenleben. Wenn ihr die Bedürfnisse aller Beteiligten ernst nehmt, kann eure gemeinsame Wohnung zu einem echten Zuhause für die ganze Familie werden.
+Als [Stiefmutter](/blog/stiefmutter/) verdienst du ein Zuhause, in dem auch du dich wirklich zu Hause fühlst — nicht nur die Kinder.
+
+Ängste und Bedenken, die du als Bonusmama hast, sind völlig normal und du solltest sie unbedingt ansprechen.
+
+<!-- FAQ_START
+<details><summary>Wann ist der richtige Zeitpunkt zum Zusammenziehen als Patchworkfamilie?</summary>
+
+Es gibt kein festes Zeitfenster, aber Experten empfehlen, mindestens ein bis zwei Jahre als Paar stabil zu sein, bevor ihr zusammenzieht. Die Kinder sollten den neuen Partner gut kennen und sich mit ihm wohlfühlen. Ein zu früher Einzug kann Loyalitätskonflikte und Überforderung bei den Kindern verstärken.
+
+</details>
+
+<details><summary>Sollte jedes Kind ein eigenes Zimmer haben?</summary>
+
+Idealerweise ja — oder zumindest einen eigenen Bereich, der nur ihm gehört. Gerade Bonuskinder brauchen einen Ort, der signalisiert: „Das ist dein Platz." Wenn der Platz begrenzt ist, können auch persönliche Ecken, Kisten oder Regale dieses Gefühl von Zugehörigkeit schaffen.
+
+</details>
+
+<details><summary>Wie gehe ich damit um, dass es sich nicht wie mein Zuhause anfühlt?</summary>
+
+Dieses Gefühl ist weit verbreitet unter Bonusmamas, besonders wenn du in die Wohnung deines Partners ziehst. Sprich offen darüber und gestalte bewusst Bereiche nach deinen Wünschen. Ein eigener Rückzugsort — auch wenn er klein ist — kann einen großen Unterschied machen.
+
+</details> So vermeidest du Konflikte und fühlst dich ebenso wohl wie der Rest deiner Patchworkfamilie. Eine gute Planung, offene Kommunikation und gegenseitiger Respekt sind die Grundpfeiler für ein gelungenes Zusammenleben. Wenn ihr die Bedürfnisse aller Beteiligten ernst nehmt, kann eure gemeinsame Wohnung zu einem echten Zuhause für die ganze Familie werden.

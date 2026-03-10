@@ -25,6 +25,10 @@ Dies ist einer der Momente gewesen, in denen ich meine innere Verletzung heilen 
 
 ## Wenn Bonuskinder unser inneres Kind wecken
 
+Die Patchwork-Forscherin Dr. Patricia Papernow beschreibt, dass die Insider-Outsider-Dynamik in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) besonders häufig alte Bindungswunden aktiviert. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als Patchworkfamilie — und in jeder einzelnen werden [Stiefmütter](/blog/stiefmutter/) mit Gefühlen konfrontiert, die weit über die aktuelle Situation hinausgehen.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Dein Bonuskind ist nicht dein Therapeut — aber es ist ein unglaublich guter Spiegel. Wenn dich etwas unverhältnismäßig trifft, schau hin. Da liegt meistens Gold vergraben."*
+
 In solchen Momenten werden oft **unbewusst alte Wunden** berührt – innere Verletzungen, die ihren Ursprung in unserer eigenen Kindheit haben.
 
 Innere Verletzungen entstehen durch schmerzhafte Erfahrungen, die wir als Kind gemacht haben, wie zum Beispiel *Zurückweisung*, *Kritik* oder *emotionale Vernachlässigung*. Diese Erlebnisse prägen uns und hinterlassen Spuren in unserer Seele. Als Erwachsene können Situationen mit unseren Bonuskindern diese alten Wunden triggern und **intensive Emotionen** hervorrufen.
@@ -66,5 +70,24 @@ Die Auseinandersetzung mit unseren Triggerpunkten eröffnet uns zudem die Mögli
 Betrachte die Herausforderungen mit deinen Bonuskindern als eine Einladung zu *innerem Wachstum* und Entfaltung. Vertraue darauf, dass jede schwierige Situation dich letztendlich stärker, weiser und liebevoller macht. Erlaube dir, an den Triggerpunkten zu wachsen und zu reifen – und wisse, dass du durch diesen Prozess nicht nur dir selbst, sondern auch deinen Bonuskindern ein wertvolles Geschenk machst.
 
 ## Zusammenfassung
+
+<!-- FAQ_START
+<details><summary>Was ist das innere Kind und warum wird es in Patchworkfamilien getriggert?</summary>
+
+Das innere Kind ist der Teil in dir, der die Gefühle und Erfahrungen deiner Kindheit in sich trägt. In Patchworkfamilien wird es besonders häufig getriggert, weil Themen wie Zugehörigkeit, Ablehnung und Konkurrenz alte Wunden aktivieren können — oft ohne dass du es bewusst merkst.
+
+</details>
+
+<details><summary>Wie erkenne ich, dass mein inneres Kind getriggert wird?</summary>
+
+Achte auf unverhältnismäßig starke Reaktionen in Alltagssituationen. Wenn dich das Verhalten deines Bonuskindes wütend, traurig oder hilflos macht — mehr als die Situation es eigentlich rechtfertigt — ist das ein Zeichen, dass alte Wunden berührt werden.
+
+</details>
+
+<details><summary>Wie kann ich mein inneres Kind heilen?</summary>
+
+Beginne mit Achtsamkeit: Beobachte deine Gefühle ohne Urteil. Frage dich, wann du dieses Gefühl zum ersten Mal erlebt hast. Selbstmitgefühl, Journaling und professionelle Begleitung durch Coaching oder Therapie können dir helfen, alte Muster zu erkennen und zu transformieren.
+
+</details>
 
 Bonuskinder können unbewusst alte Wunden aus unserer Kindheit berühren und intensive Emotionen auslösen. Diese Triggerpunkte sind jedoch kein Zeichen von Schwäche, sondern eine Einladung zur inneren Heilung. Indem du deine Gefühle achtsam beobachtest und annimmst, schaffst du einen sicheren Raum für dein verletztes inneres Kind. Mit Selbstfürsorge, Reflexion und Geduld kannst du alte Muster auflösen und neue, gesündere Wege im Umgang mit deiner Patchworkfamilie finden.
