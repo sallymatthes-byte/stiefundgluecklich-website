@@ -108,5 +108,3 @@ Sei ehrlich, aber altersgerecht. Du kannst sagen: „Ich habe dich sehr gern und
 ### Ab wann sollte ich mir Sorgen machen, wenn gar keine Zuneigung entsteht?
 
 Wenn du nach mehreren Jahren aktive Abneigung empfindest, die dich und die Familie belastet, lohnt sich professionelle Unterstützung. Ein Coaching kann helfen, blinde Flecken aufzudecken und neue Perspektiven zu finden.
-
-FAQ_END -->

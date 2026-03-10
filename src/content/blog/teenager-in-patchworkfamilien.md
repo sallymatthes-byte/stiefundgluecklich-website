@@ -116,5 +116,3 @@ Gib Raum, aber bleib präsent. Erzwinge keinen Kontakt, aber zeige durch kleine 
 ### Wie gehe ich damit um, wenn der Teenager die Ex gegen mich aufhetzt?
 
 Bleib ruhig und werde nicht defensiv. Sprich mit deinem Partner unter vier Augen darüber und lasst euch gegebenenfalls professionell beraten. Reagiere nicht direkt auf Provokationen — das verschärft die Situation nur.
-
-FAQ_END -->

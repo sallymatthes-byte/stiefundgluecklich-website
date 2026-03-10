@@ -81,4 +81,3 @@ Du musst dein Bonuskind nicht lieben wie dein eigenes - das ist eine unrealistis
 <summary>Wann sollte ich mir als Bonusmama professionelle Hilfe holen?</summary>
 Wenn die Schuldgefühle dein Denken und Handeln dauerhaft bestimmen, du dich zurückziehst oder körperliche Symptome wie Schlafstörungen auftreten, ist professionelle Unterstützung sinnvoll. Ein Coaching oder eine Therapie kann dir helfen, die Muster zu durchbrechen.
 </details>
-FAQ_END -->

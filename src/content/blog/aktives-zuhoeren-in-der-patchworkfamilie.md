@@ -73,5 +73,3 @@ Dabei geht es darum, sich selbst zurückzunehmen und sich auf den anderen zu fok
 <details><summary>Warum ist aktives Zuhören in einer Patchworkfamilie besonders wichtig?</summary>In einer Patchworkfamilie treffen unterschiedliche Bedürfnisse, Gewohnheiten und Loyalitäten aufeinander. Aktives Zuhören hilft, Missverständnisse zu vermeiden und allen Familienmitgliedern das Gefühl zu geben, gehört und respektiert zu werden.</details>
 <details><summary>Welche 3 Prinzipien gehören zum aktiven Zuhören nach Carl Rogers?</summary>Die drei Prinzipien sind Authentizität (echtes Interesse zeigen), Akzeptanz (den anderen nicht bewerten) und Empathie (sich in die Perspektive des anderen hineinversetzen).</details>
 <details><summary>Wie kann ich aktives Zuhören im Familienalltag üben?</summary>Starte mit kleinen Schritten: Handy weglegen, Blickkontakt halten, offene Fragen stellen und das Gehörte in eigenen Worten wiedergeben. Regelmäßige Familiengespräche mit festen Redezeiten helfen ebenfalls.</details>
-FAQ_END -->
-

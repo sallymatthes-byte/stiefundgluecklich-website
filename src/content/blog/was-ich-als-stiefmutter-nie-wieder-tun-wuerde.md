@@ -122,5 +122,3 @@ Ja. Kinder und Beziehungen sind erstaunlich resilient. Entschuldige dich, wenn n
 ### Was mache ich, wenn mein Partner meine Bedürfnisse nicht ernst nimmt?
 
 Das ist ein Warnsignal. Ein Partner, der deine Bedürfnisse dauerhaft ignoriert, ist kein Partner in diesem Prozess. Kommuniziere klar und sucht euch gegebenenfalls professionelle Unterstützung als Paar.
-
-FAQ_END -->

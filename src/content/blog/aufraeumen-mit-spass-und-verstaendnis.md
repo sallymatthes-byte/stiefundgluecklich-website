@@ -92,4 +92,3 @@ Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patch
 <dt>Wie motiviere ich Teenager zum Aufräumen?</dt>
 <dd>Teenager brauchen Mitsprache. Erstellt gemeinsam eine Aufgabenliste oder startet eine Challenge. Ein gewisses Chaos im eigenen Zimmer zu akzeptieren gehört dazu — Gemeinschaftsräume sollten aber für alle ordentlich bleiben.</dd>
 </dl>
-FAQ_END -->

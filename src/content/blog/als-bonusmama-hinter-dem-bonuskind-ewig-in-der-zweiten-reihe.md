@@ -70,4 +70,3 @@ Sprich offen mit deinem Partner über deine Gefühle. Gleichzeitig ist es wichti
 
 ### Wie stärke ich mein Selbstwertgefühl in der Patchworkfamilie?
 Beginne damit, dir selbst Anerkennung zu geben, anstatt sie nur von außen zu erwarten. Nimm dir regelmäßig Zeit für dich, tausche dich mit anderen Bonusmamas aus und erinnere dich daran, welchen Wert du in die Familie einbringst.
-FAQ_END -->
