@@ -24,7 +24,7 @@ Das Besondere an Jannis Geschichte ist nicht, dass sie gelitten hat. Das tun vie
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama ohne eigene Kinder: Wie Janni ihren Platz in der Patchworkfamilie fand" an — auf Spotify oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama ohne eigene Kinder: Wie Janni ihren Platz in der Patchworkfamilie fand" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -41,9 +41,9 @@ Es gibt einen Satz, den Bonusmamas ohne eigene Kinder immer wieder hören: „Du
 
 ---
 
-## Was Janni erlebt hat — ehrlich und ungefiltert
-
 ![Frau sitzt allein auf einer Parkbank im Herbst und schaut nachdenklich in die Ferne](/images/blog/bonusmama-ohne-eigene-kinder-2.jpg)
+
+## Was Janni erlebt hat — ehrlich und ungefiltert
 
 Janni kam in eine Familie mit drei Kindern, die zwischen zwei Haushalten pendelten. Sie wollte alles richtig machen. Kochte die Lieblingsgerichte, richtete Zimmer ein, plante Ausflüge. Und merkte irgendwann: **Je mehr sie gab, desto weniger kam zurück.**
 
@@ -68,7 +68,9 @@ Was Janni und ihr Partner dann gemacht haben, klingt unspektakulär. Aber es hat
 
 4. **Janni hat aufgehört, Mutterschaft zu imitieren.** Der wichtigste Schritt. Sie hat aufgehört zu versuchen, die Rolle der Mutter zu füllen — und angefangen, *ihre eigene* Rolle zu definieren. Nicht Mama. Nicht Tante. Nicht Babysitterin. Sondern Janni. Die Frau, die da ist. Die einen Platz hat. Die zählt — auf ihre Art.
 
-Bray und Kelly (1998) zeigen in ihrer Langzeitstudie: Patchworkfamilien, die es schaffen, gelingen nicht durch das Imitieren einer „normalen" Familie — sondern durch das Definieren eigener Regeln.
+Bray und Kelly (1998) zeigen in ihrer Langzeitstudie: [Patchworkfamilien](/blog/patchworkfamilie/), die es schaffen, gelingen nicht durch das Imitieren einer „normalen" Familie — sondern durch das Definieren eigener Regeln.
+
+> „Bonusmamas ohne eigene Kinder kämpfen oft am härtesten um Zugehörigkeit — weil sie keinen biologischen Anker haben. Aber genau das kann auch eine Stärke sein: Du definierst deine Rolle komplett selbst." — Sally Matthes, Coach für Bonusmamas
 
 
 ---

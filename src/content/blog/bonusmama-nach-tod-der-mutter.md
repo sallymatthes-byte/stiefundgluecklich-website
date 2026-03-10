@@ -32,6 +32,8 @@ Studien zeigen: Kinder, die einen Elternteil verloren haben, brauchen im Schnitt
 
 ![Sonnenlicht fällt durch Bäume auf einen ruhigen Waldweg — innerer Frieden und Hoffnung](/images/blog/innere-kind-heilung-2.jpg)
 
+---
+
 ## Die unsichtbaren Herausforderungen
 
 ### Die Angst, sie zu ersetzen
@@ -53,6 +55,8 @@ Laut dem Statistischen Bundesamt (2023) werden jährlich rund **48.000 Kinder** 
 Ein Aspekt, über den fast niemand spricht: Auch du als Bonusmama darfst trauern. Um die Frau, die du nie kennenlernen wirst. Um die Normalität, die es in eurer Familie nicht gibt. Um die Leichtigkeit, die andere [Patchworkfamilien](/blog/die-4-phasen-der-patchworkfamilie/) zumindest theoretisch haben könnten.
 
 ![Frau steht allein zwischen hohen Bäumen im Wald und blickt nach oben — Halt finden](/images/blog/bonusmama-angst-1.jpg)
+
+---
 
 ## Was dir jetzt hilft
 
@@ -76,18 +80,34 @@ Diese Konstellation ist zu komplex für Instagram-Tipps. Eine professionelle Beg
 
 Patricia Papernow spricht von **4–7 Jahren**, die eine Patchworkfamilie braucht, um zusammenzuwachsen. In einer Familie mit Verlust kann es noch länger dauern. Und das ist kein Versagen — das ist Realität.
 
+---
+
 ## Du bist nicht allein
 
 Auch wenn es sich so anfühlt: Es gibt andere Bonusmamas in genau deiner Situation. Du darfst deinen Platz einfordern, ohne den der Mutter zu nehmen. Du darfst [Grenzen setzen](/blog/grenzen-setzen-mit-der-ex/), ohne herzlos zu sein. Und du darfst geliebt werden, ohne jemanden zu ersetzen.
 
 Wenn du tiefer einsteigen willst, lies auch: [Unsichtbar als Bonusmama — so wirst du wieder gesehen](/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen/) und [Die Rolle der Expartner in Patchworkfamilien](/blog/die-rolle-von-expartnern-in-patchworkfamilien/).
 
+---
+
+## Zusammenfassung
+
+Bonusmama nach dem Tod der Mutter zu werden, ist eine der sensibelsten Konstellationen in [Patchworkfamilien](/blog/patchworkfamilie/). Es gibt keine Ex-Konflikte — aber eine allgegenwärtige Trauer, die das gesamte System prägt. Dein wichtigster Schritt: Akzeptiere, dass du keinen Platz ersetzen musst. Du darfst eine eigene Rolle finden, die Mutter im Gespräch halten und dir die Zeit geben, die dieses besondere Familiensystem braucht.
+
 <!-- FAQ_START
-<dl>
-<dt>Ist es als Bonusmama einfacher, wenn die Kindsmutter verstorben ist?</dt>
-<dd>Nein. Es gibt zwar keine Ex-Konflikte, aber die Trauer der Kinder und des Partners bringt eigene Herausforderungen mit sich. Die verstorbene Mutter bleibt emotional präsent und du musst deinen Platz finden, ohne jemanden ersetzen zu wollen.</dd>
-<dt>Darf ich als Bonusmama über die verstorbene Mutter sprechen?</dt>
-<dd>Ja, unbedingt. Kinder brauchen die Erlaubnis, über ihre Mama zu sprechen und zu trauern. Wenn du das Thema offen hältst, schaffst du einen sicheren Raum für die Kinder — und stärkst gleichzeitig deine Beziehung zu ihnen.</dd>
-<dt>Wie gehe ich damit um, wenn das Bonuskind mich als Mutter-Ersatz ablehnt?</dt>
-<dd>Nimm die Ablehnung nicht persönlich. Das Kind schützt die Erinnerung an seine Mama. Baue eine eigenständige Beziehung auf, die nicht in Konkurrenz zur verstorbenen Mutter steht. Geduld, Verlässlichkeit und Authentizität sind der Schlüssel.</dd>
-</dl>
+
+---
+
+## Häufige Fragen
+
+### Ist es als Bonusmama einfacher, wenn die Kindsmutter verstorben ist?
+
+Nein. Es gibt zwar keine Ex-Konflikte, aber die Trauer der Kinder und des Partners bringt eigene Herausforderungen mit sich. Die verstorbene Mutter bleibt emotional präsent und du musst deinen Platz finden, ohne jemanden ersetzen zu wollen.
+
+### Darf ich als Bonusmama über die verstorbene Mutter sprechen?
+
+Ja, unbedingt. Kinder brauchen die Erlaubnis, über ihre Mama zu sprechen und zu trauern. Wenn du das Thema offen hältst, schaffst du einen sicheren Raum für die Kinder — und stärkst gleichzeitig deine Beziehung zu ihnen.
+
+### Wie gehe ich damit um, wenn das Bonuskind mich als Mutter-Ersatz ablehnt?
+
+Nimm die Ablehnung nicht persönlich. Das Kind schützt die Erinnerung an seine Mama. Baue eine eigenständige Beziehung auf, die nicht in Konkurrenz zur verstorbenen Mutter steht. Geduld, Verlässlichkeit und Authentizität sind der Schlüssel.

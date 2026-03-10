@@ -26,7 +26,9 @@ Ihre Geschichte trifft einen Nerv, über den kaum gesprochen wird: **Was passier
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama nach Trennung: Darf ich im Leben meines Bonuskindes bleiben?" an — auf [YouTube](https://www.youtube.com/watch?v=HZhP2LTfkGA) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bonusmama nach Trennung: Darf ich im Leben meines Bonuskindes bleiben?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
 
 ---
 
@@ -42,6 +44,8 @@ Laut einer Studie der Universität Cambridge (2019) erleben Stiefmütter nach ei
 
 ![Leeres Kinderzimmer mit Spielzeug und Zeichnungen an der Wand, goldenes Licht durch Vorhänge](/images/blog/bonusmama-nach-trennung-bonuskind-2.jpg)
 
+---
+
 ## Alexandras Weg: 13 Jahre Bindung loslassen — ohne aufzugeben
 
 Alexandra erzählt in unserem Interview eine Geschichte, die Mut macht und gleichzeitig das Herz zusammenzieht. 13 Jahre war sie Bonusmama. 13 Jahre hat sie ihre Bonustochter durch Schule, Pubertät und erste Liebeskummer begleitet. Und dann kam die Trennung.
@@ -51,6 +55,8 @@ Der erste Impuls? **Rückzug.** Nicht weil sie das Kind nicht mehr liebte, sonde
 Aber Alexandra hat eine andere Entscheidung getroffen. Sie hat den Kontakt gehalten. Nicht über den Kindsvater — sondern direkt. Direkt mit ihrer Bonustochter. Mit Nachrichten, Anrufen, Treffen. Mit der klaren Botschaft: **Ich bin nicht gegangen. Nicht von dir.**
 
 Und ihre Bonustochter? Die wollte den Kontakt auch. Denn für ein Kind ist die Bonusmama nicht austauschbar. **Sie ist nicht die Partnerin des Vaters. Sie ist eine eigenständige Bezugsperson.** Und diese Bindung verschwindet nicht, nur weil Erwachsene sich trennen.
+
+---
 
 ## Was Kinder in dieser Situation wirklich brauchen
 
@@ -62,6 +68,8 @@ Was Kinder brauchen:
 - **Ehrlichkeit** — keine Lügen, kein Verdrängen. „Papa und ich sind nicht mehr zusammen. Aber das ändert nichts daran, wie ich für dich fühle."
 - **Beständigkeit** — nicht ein großes Versprechen, sondern kleine, verlässliche Zeichen. Eine Nachricht zum Geburtstag. Ein Treffen alle paar Wochen. Präsenz ohne Druck.
 - **Erlaubnis** — das Kind muss wissen, dass es den Kontakt zur Bonusmama haben *darf*. Ohne Schuldgefühle gegenüber dem leiblichen Elternteil.
+
+---
 
 ## Die Widerstände — und wie du damit umgehst
 
@@ -75,6 +83,8 @@ Natürlich respektierst du Grenzen. Du drängst dich nicht auf, du spielst nicht
 
 ![Zwei Hände reichen sich über eine Lücke hinweg, warmes Licht dazwischen, Verbindung und Hoffnung](/images/blog/bonusmama-nach-trennung-bonuskind-3.jpg)
 
+---
+
 ## Wenn der Kontakt nicht möglich ist
 
 Nicht jede Geschichte endet wie Alexandras. Manchmal wird der Kontakt aktiv unterbunden. Der Kindsvater blockiert. Die leibliche Mutter legt ein Veto ein. Oder das Kind selbst zieht sich zurück — nicht weil es dich nicht mag, sondern weil es den Loyalitätskonflikt nicht aushält.
@@ -86,17 +96,27 @@ Was du tun kannst:
 - **Die Tür offen lassen** — wenn das Kind älter ist, kann es selbst entscheiden. Sei erreichbar. Social Media. Eine Nachricht zum Geburtstag, falls möglich.
 - **Dir Hilfe holen** — diese Trauer ist komplex und oft von [Schuldgefühlen](/blog/bonusmamas-und-schuldgefuehle/) begleitet. Ein Coaching oder eine Therapie kann helfen, das Erlebte zu verarbeiten.
 
+---
+
 ## Was bleibt, wenn die Beziehung geht
 
 Alexandras wichtigstes Learning nach 13 Jahren Patchwork und einer Trennung: **Bindung ist nicht an Beziehungsstatus gekoppelt.** Du warst Bonusmama. Du *bist* Bonusmama. Die Trennung vom Kindsvater ändert deine Rolle — aber sie löscht nicht aus, was du für dieses Kind warst.
 
 Und wenn du heute in einer Patchworkfamilie lebst und alles gut ist — dann nimm Alexandras Geschichte als Erinnerung: **Die Bindung, die du zu deinem Bonuskind aufbaust, ist mehr wert, als du in diesem Moment vielleicht ahnst.** Sie kann ein Leben überdauern. Sogar eine Trennung.
 
+Lies auch: [Ab wann ist man Stiefmutter?](/blog/stiefmutter/) und [Patchworkfamilie — was du wissen musst](/blog/patchworkfamilie/).
+
 ---
 
-## Häufig gestellte Fragen
+## Zusammenfassung
 
-<!-- FAQ_START -->
+Wenn die Beziehung zum Kindsvater endet, steht als [Bonusmama](/blog/stiefmutter/) eine Frage im Raum, über die kaum gesprochen wird: Was wird aus der Bindung zum Bonuskind? Rechtlich hast du wenig Absicherung, aber die Bindungsforschung ist eindeutig — Kinder profitieren davon, stabile Bezugspersonen zu behalten. Alexandras Geschichte zeigt: Kontakt ist möglich, wenn du ihn direkt und respektvoll gestaltest. Und wenn der Kontakt nicht möglich ist, darfst du trauern — denn dieser Verlust ist real.
+
+<!-- FAQ_START
+
+---
+
+## Häufige Fragen
 
 ### Habe ich als Bonusmama nach der Trennung ein Recht auf Kontakt zum Bonuskind?
 
@@ -114,4 +134,4 @@ Ja — die Bindungsforschung zeigt, dass der Verlust einer stabilen Bezugsperson
 
 Ehrlich und altersgerecht. Der wichtigste Satz: „Papa und ich sind nicht mehr zusammen. Aber das ändert nichts daran, wie ich dich liebe." Vermeide es, den Kindsvater schlecht zu machen oder das Kind in einen Loyalitätskonflikt zu bringen. Betone, dass die Trennung eine Erwachsenen-Entscheidung ist und nichts mit dem Kind zu tun hat.
 
-<!-- FAQ_END -->
+

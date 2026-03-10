@@ -39,6 +39,8 @@ In einer [Patchworkfamilie](/blog/patchworkfamilie/) multiplizieren sich genau d
 
 ![Frau schreibt in ein Notizbuch und arbeitet an ihren Strategien](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
 
+---
+
 ## 5 Strategien, die wirklich helfen
 
 ### 1. Verstehe dein Nervensystem
@@ -67,6 +69,8 @@ Als [Bonusmama](/blog/stiefmutter/) tendierst du vielleicht dazu, *mehr* zu tun,
 
 ADHS-Coaching, Therapie oder eine Selbsthilfegruppe können dir Werkzeuge an die Hand geben, die speziell auf dein Nervensystem zugeschnitten sind. Das ist keine Schwäche — das ist Selbstfürsorge.
 
+---
+
 ## Was dein Partner tun kann
 
 - **Nicht werten.** Wenn du nach dem Wochenende sagst „Ich brauche Ruhe", ist das keine Kritik an seinen Kindern
@@ -75,6 +79,8 @@ ADHS-Coaching, Therapie oder eine Selbsthilfegruppe können dir Werkzeuge an die
 - **Deine Stärken sehen.** ADHS bringt auch Kreativität, Empathie und Hyperfokus — Eigenschaften, die in Patchwork Gold wert sind
 
 ![Frau lächelt selbstbewusst — innere Stärke trotz Herausforderungen](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-3.jpg)
+
+---
 
 ## Du bist nicht „zu viel"
 
@@ -87,11 +93,19 @@ Laut dem Statistischen Bundesamt (2023) gibt es in Deutschland rund **1,1 Millio
 Lies auch: [Triggersituationen in Patchworkfamilien](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und [People Pleasing als Bonusmama](/blog/people-pleasing-als-bonusmama/).
 
 <!-- FAQ_START
-<dl>
-<dt>Kann ADHS den Patchwork-Alltag wirklich so stark beeinflussen?</dt>
-<dd>Ja. Der Patchwork-Alltag erfordert genau die Fähigkeiten, die bei ADHS beeinträchtigt sind: Planen, flexible Aufmerksamkeit, Impulskontrolle und emotionale Regulation. Die Kombination kann zu chronischer Überforderung führen.</dd>
-<dt>Woran erkenne ich, ob ich als Erwachsene ADHS habe?</dt>
-<dd>Typische Anzeichen bei Frauen sind: innere Unruhe, Schwierigkeiten beim Priorisieren, emotionale Überreaktionen, Vergesslichkeit im Alltag und das Gefühl, ständig hinterherzurennen. Eine Diagnose kann nur von Fachärzt:innen oder Psychotherapeut:innen gestellt werden.</dd>
-<dt>Wie sage ich meinem Partner, dass ich Pausen brauche, ohne dass er sich angegriffen fühlt?</dt>
-<dd>Erkläre es über dein Nervensystem, nicht über sein Verhalten: „Mein Gehirn braucht nach so viel Input Zeit zum Runterfahren — das hat nichts mit dir oder den Kindern zu tun." Die meisten Partner reagieren verständnisvoller, wenn sie ADHS als neurologische Besonderheit begreifen.</dd>
-</dl>
+
+---
+
+## Häufige Fragen
+
+### Kann ADHS den Patchwork-Alltag wirklich so stark beeinflussen?
+
+Ja. Der Patchwork-Alltag erfordert genau die Fähigkeiten, die bei ADHS beeinträchtigt sind: Planen, flexible Aufmerksamkeit, Impulskontrolle und emotionale Regulation. Die Kombination kann zu chronischer Überforderung führen.
+
+### Woran erkenne ich, ob ich als Erwachsene ADHS habe?
+
+Typische Anzeichen bei Frauen sind: innere Unruhe, Schwierigkeiten beim Priorisieren, emotionale Überreaktionen, Vergesslichkeit im Alltag und das Gefühl, ständig hinterherzurennen. Eine Diagnose kann nur von Fachärzt:innen oder Psychotherapeut:innen gestellt werden.
+
+### Wie sage ich meinem Partner, dass ich Pausen brauche, ohne dass er sich angegriffen fühlt?
+
+Erkläre es über dein Nervensystem, nicht über sein Verhalten: „Mein Gehirn braucht nach so viel Input Zeit zum Runterfahren — das hat nichts mit dir oder den Kindern zu tun." Die meisten Partner reagieren verständnisvoller, wenn sie ADHS als neurologische Besonderheit begreifen.

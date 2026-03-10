@@ -33,13 +33,13 @@ Es wäre leicht, mit dem Schwierigen anzufangen. Mache ich aber nicht. Denn eine
 
 Mein Coaching hat sich verändert. Nicht nur die Methoden, sondern mein *Blick*. Ich sehe die Frauen, die zu mir kommen, anders als noch vor zwei Jahren. Nicht als „Fälle" — sondern als Spiegelbilder. Jede Geschichte, die mir erzählt wird, lehrt mich etwas über meine eigene. Das ist ein Geschenk, das ich 2025 endlich zu schätzen gelernt habe.
 
-Und die Beziehung zu meinem Partner? Wir haben dieses Jahr zum ersten Mal *wirklich* über die Dinge gesprochen, die wir beide jahrelang umschifft haben. Das war nicht gemütlich. Aber es war notwendig. Wenn du auch an dem Punkt bist, wo die [ehrlichen Fragen](/blog/patchwork-paar-ehrliche-fragen/) dran sind — ich kann dir sagen: Es lohnt sich. Auch wenn es erstmal wehtut.
+Und die Beziehung zu meinem Partner? Wir haben dieses Jahr zum ersten Mal *wirklich* über die Dinge gesprochen, die wir beide jahrelang umschifft haben. Das war nicht gemütlich. Aber es war notwendig. Wenn du auch an dem Punkt bist, wo die [ehrlichen Fragen](/blog/patchwork-paar-ehrliche-fragen/) dran sind — ich kann dir sagen: Es lohnt sich. Auch wenn es erstmal wehtut. Und falls du dich fragst, [ab wann man eigentlich Stiefmutter ist](/blog/stiefmutter/) — die Antwort ist weniger eindeutig, als du denkst.
 
 ---
 
-## Die schwierigen Momente — und was sie mich gelehrt haben
-
 ![Offenes Notizbuch mit Stift und dampfende Kaffeetasse auf Holztisch im Morgenlicht — Reflexion und Journaling](/images/blog/bonusmama-jahresrueckblick-2025-2.jpg)
+
+## Die schwierigen Momente — und was sie mich gelehrt haben
 
 ### Wenn die alten Muster zurückkommen
 
@@ -61,9 +61,9 @@ Persönlichkeitsentwicklung als Bonusmama ist kein Instagram-Reel mit Journaling
 
 ---
 
-## Was ich über mich selbst gelernt habe
-
 ![Paar geht Hand in Hand einen Waldweg entlang im späten Herbstlicht — Hoffnung und Zusammenhalt](/images/blog/bonusmama-jahresrueckblick-2025-3.jpg)
+
+## Was ich über mich selbst gelernt habe
 
 ### Ich brauche nicht die Zustimmung des Systems
 
@@ -96,8 +96,28 @@ Ich werde nicht so tun, als hätte ich einen perfekten Fünf-Jahres-Plan. Was ic
 
 Was ich mir für *dich* wünsche? Dass du 2025 nicht als „wieder ein Jahr geschafft" abhakst. Sondern dass du zurückblickst und siehst, was du alles getragen hast. Was du alles ausgehalten hast. Was du alles *geschafft* hast — auch wenn es sich manchmal nicht so angefühlt hat.
 
+Mehr zum Thema [Patchworkfamilie](/blog/patchworkfamilie/) und wie andere Bonusmamas ihren Weg gefunden haben.
+
 ---
 
 ## Zusammenfassung
 
 Ein Jahresrückblick als Bonusmama ist nie nur eine Liste von Höhen und Tiefen. Es ist die ehrliche Frage: *Wer bin ich geworden — und wer will ich sein?* 2025 hat mich gelehrt, dass Wachstum nicht linear ist, dass meine Rolle sich verändern darf und dass Verletzlichkeit Stärke braucht. Wenn du dich in diesem Rückblick wiedererkennst, dann weißt du: Du bist nicht allein. Und du bist weiter, als du denkst.
+
+<!-- FAQ_START
+
+---
+
+## Häufige Fragen
+
+### Warum ist ein Jahresrückblick als Bonusmama sinnvoll?
+
+Weil du im Alltag oft nur die Herausforderungen siehst. Ein bewusster Rückblick hilft dir, auch die Fortschritte zu erkennen — wie viel du getragen, gelernt und geschafft hast. Studien zeigen, dass Reflexion das Selbstwertgefühl stärkt und Stress reduziert.
+
+### Wie gehe ich mit dem Gefühl um, nicht „weit genug" zu sein?
+
+Heilung ist nicht linear. Patricia Papernow beschreibt den Patchwork-Prozess als einen, der Jahre dauert und nie wirklich „fertig" ist. Wenn alte Muster zurückkommen, ist das kein Rückschritt — sondern ein Zeichen, dass du tiefer hinschaust als vorher.
+
+### Wie kann ich als Bonusmama besser auf mich selbst achten?
+
+Indem du aufhörst, auf die Erlaubnis des Systems zu warten. Schaffe dir bewusst Räume für dich — ohne Schuldgefühle. Und erlaube dir, deine Rolle jederzeit neu zu definieren, statt einem Ideal hinterherzulaufen.
