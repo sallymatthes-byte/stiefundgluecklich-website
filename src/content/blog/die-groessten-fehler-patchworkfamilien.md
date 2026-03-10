@@ -18,6 +18,8 @@ podcastDescription: "Die vierte große Herausforderung nach Dr. Patricia Paperno
 
 > *„Wir standen an Heiligabend vor dem Weihnachtsbaum und ich dachte: Warum fühlt sich das so falsch an? Seine Kinder hängen ihre Kugeln auf, mein Kind steht daneben und wartet. Und ich stehe da und frage mich, ob ich überhaupt mitreden darf — bei unserem eigenen Weihnachtsbaum."*
 
+> **Sally Matthes, Coach für Bonusmamas:** *„Jede Bonusmama, die zu mir kommt, steckt in mindestens drei dieser fünf Herausforderungen gleichzeitig. Und die wichtigste Erkenntnis ist immer dieselbe: Es liegt nicht an dir. Es liegt am System."*
+
 Ich erinnere mich an diesen Moment so genau, als wäre er gestern gewesen. Dieses Gefühl, wenn zwei Familienkulturen aufeinanderprallen und du merkst: Hier passt gerade gar nichts zusammen. Nicht weil jemand etwas Falsches tut. Sondern weil jeder das Richtige tut — nur eben *sein* Richtiges. Und das ist der Kern von dem, worüber ich heute mit dir sprechen will.
 
 ---
@@ -124,7 +126,7 @@ Die Forschung sagt: Fünf bis sieben Jahre, bis eine Patchworkfamilie wirklich z
 
 Das Problem ist: Niemand sagt dir das. Nicht deine Freundinnen, nicht deine Familie, nicht die Gesellschaft. Alle erwarten, dass ihr euch zusammenrauft und glücklich seid. Und wenn es nicht so läuft, muss wohl jemand schuld sein — und dieser Jemand bist meistens du, die Bonusmama.
 
-**Du bist nicht schuld.** Du navigierst eine der komplexesten Familienformen, die es gibt. Ohne Anleitung, ohne Anerkennung, oft ohne Unterstützung. Und dass du diesen Artikel liest, zeigt mir: Du gibst nicht auf. Du suchst nach Wegen. Das ist mehr als die meisten tun.
+**Du bist nicht schuld.** Du navigierst eine der komplexesten Familienformen, die es gibt. Ohne Anleitung, ohne Anerkennung, oft ohne Unterstützung. Als [Stiefmutter](/blog/stiefmutter/) in einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) bist du mit Herausforderungen konfrontiert, für die es kein Handbuch gibt. Und dass du diesen Artikel liest, zeigt mir: Du gibst nicht auf. Du suchst nach Wegen. Das ist mehr als die meisten tun.
 
 <!-- FAQ_START
 

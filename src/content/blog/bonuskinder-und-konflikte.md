@@ -19,6 +19,10 @@ Daher habe ich etwas Respekt vor dieser Zeit und stelle mir die Frage: *Wie gehe
 
 Daher möchte ich dich heute einmal mit durch meine Gedanken und Überlegungen nehmen, die natürlich auch wieder durch meinen pädagogischen Hintergrund geprägt sind.
 
+Die Forschung von Bray und Kelly zeigt: Konflikte zwischen Bonuselternteilen und Bonuskindern sind einer der häufigsten Gründe, warum Patchworkfamilien in den ersten fünf Jahren scheitern. Doch es sind nicht die Konflikte selbst, die gefährlich sind — sondern der Umgang damit.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„In meinen Coachings erlebe ich immer wieder: Der Konflikt mit dem Bonuskind ist selten das eigentliche Problem. Dahinter steckt meistens ein unausgesprochenes Bedürfnis — beim Kind und bei dir."*
+
 Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, **Konflikte mit den Bonuskindern zu minimieren** und eine harmonische Beziehung aufzubauen. Wir werden uns außerdem mit dem Verständnis für die Situation der Kinder, dem setzen und respektieren von Grenzen, der Bedeutung der Kommunikation und der Schaffung gemeinsamer Aktivitäten und Rituale beschäftigen.
 
 ---
@@ -38,6 +42,8 @@ Ein erster Schritt, um Verständnis aufzubauen, ist das *offene Gespräch* mit d
 Es ist auch wichtig, dass wir als Bonuseltern unsere *eigenen Erwartungen* und Vorstellungen überdenken. Jedes Kind ist einzigartig und hat seine eigene Art, Beziehungen aufzubauen. Manche Kinder sind vielleicht von Anfang an offen und bereit, eine enge Beziehung zu uns aufzubauen, während andere möglicherweise mehr Zeit und Raum benötigen. Indem wir unsere Erwartungen anpassen und den Kindern Raum geben, ihre eigene Beziehung zu uns zu gestalten, können wir **Konflikte vermeiden und authentische Verbindung** aufbauen.
 
 ## Aus Sicht der Entwicklungspsychologie
+
+Laut Dr. Patricia Papernow durchlaufen Kinder in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) eine intensive Anpassungsphase, die im Durchschnitt fünf bis sieben Jahre dauert. In dieser Zeit reagieren sie auf neue Bezugspersonen häufig mit Abwehr — nicht aus Ablehnung, sondern aus Selbstschutz.
 
 Im nächsten Abschnitt werden wir uns mit einem weiteren wichtigen Punkt beschäftigen: dem setzen und respektieren von Grenzen. Denn klare und angemessene Grenzen sind entscheidend für eine gesunde und respektvolle Beziehung zu den Bonuskindern. Wie du als Bonusmama generell [eine gute Beziehung zu deinem Bonuskind aufbaust](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/), ist dabei eine wichtige Grundlage.
 

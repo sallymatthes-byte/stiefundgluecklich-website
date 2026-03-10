@@ -45,15 +45,17 @@ Lass uns daher mal genauer einen Blick darauf werfen.
 
 *„Ich sollte einfach alles besser machen und eine perfekte Bonusmama sein!"*
 
-Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst stellt, oder? Fast erscheint es als „normal", dass wir Bonusmamas uns solche Sätze täglich aufsagen. Als müssten wir einem ungeschriebenen Verhaltenskodex folgen, der uns vorgibt, wie wir zu sein und zu handeln haben.
+Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst stellt, oder? Laut der Autorin Wednesday Martin erleben [Stiefmütter](/blog/stiefmutter/) ein signifikant höheres Stressniveau als Mütter in Erstfamilien — und ein großer Teil dieses Stresses kommt nicht von außen, sondern von den eigenen Erwartungen. Fast erscheint es als „normal", dass wir Bonusmamas uns solche Sätze täglich aufsagen. Als müssten wir einem ungeschriebenen Verhaltenskodex folgen, der uns vorgibt, wie wir zu sein und zu handeln haben.
 
 Aber mal ehrlich: Wer sagt eigentlich, dass wir all das „sollten"? Woher kommen diese ganzen Erwartungen? Und was machen sie mit uns, mit unserer Psyche, unseren Beziehungen und letztlich mit unserer Patchworkfamilie?
 
 Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: Ein Leben, in dem man ständig das Gefühl hat, irgendetwas zu „sollen", ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den „Ich sollte"-Sätzen steckt – und wie du dich davon frei machen kannst.
 
+> **Sally Matthes, Coach für Bonusmamas:** *„In meinen Coachings höre ich diese ‚Ich sollte'-Sätze in jeder einzelnen Session. Und weißt du, was ich dann sage? Streich das ‚sollte' und setz ein ‚möchte' ein. Wenn sich der Satz dann falsch anfühlt, war es nie dein eigener Anspruch."*
+
 ## Ursachen dieser Gedanken
 
-Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine „gute Mutter" sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
+Das Statistische Bundesamt zeigt: Jede siebte Familie in Deutschland ist eine [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — doch gesellschaftliche Vorbilder und Unterstützungsstrukturen hinken dieser Realität weit hinterher. Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine „gute Mutter" sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
 Auch **familiäre Prägungen und eigene Kindheitserfahrungen** tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
 
@@ -89,7 +91,7 @@ Der Weg zu einem Leben frei von „Ich sollte" ist ein Prozess. Er braucht Zeit,
 
 Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deinem Weg als Bonusmama bekommen möchtest, kann ein Coaching eine wertvolle Hilfe sein. Hier hast du den geschützten Raum, deine Situation zu reflektieren und ganz konkrete Lösungen für deinen Alltag zu entwickeln.
 
-Du bist einzigartig — und so ist auch dein Weg als Bonusmama. Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt. ***Von „Ich sollte" zu „Ich möchte".***
+Du bist einzigartig — und so ist auch dein Weg als [Bonusmama](/blog/stiefmutter/). Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt. ***Von „Ich sollte" zu „Ich möchte".***
 
 ## Zusammenfassung
 

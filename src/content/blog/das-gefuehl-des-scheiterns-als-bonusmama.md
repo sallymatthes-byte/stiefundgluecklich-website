@@ -18,9 +18,19 @@ Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit i
 
 Und in den Momenten dieser Trennung kam bei ihr immer wieder der Gedanke auf: „Ich bin gescheitert. Ich habe es nicht geschafft. Ich bin nicht gut genug. Ich habe versagt."
 
+Die Forschung von Bray und Kelly zeigt, dass über 60 % der Zweitehen mit Kindern scheitern — und viele Bonusmamas tragen das Gefühl des persönlichen Versagens mit sich, obwohl die Gründe systemisch sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/), doch die Unterstützungsstrukturen für diese Familienform fehlen fast überall.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Scheitern in der Patchworkfamilie ist fast nie ein individuelles Versagen. Es ist das Ergebnis einer Konstellation, für die es kein Drehbuch gibt. In meinen Coachings arbeite ich mit Frauen, die alles gegeben haben — und trotzdem das Gefühl haben, es war nicht genug. Aber weißt du was? Manchmal ist Gehen kein Scheitern, sondern Selbstschutz."*
+
 Dann ist es einfach da: diese Enttäuschung darüber, etwas nicht geschafft zu haben — dass die Bonustochter sich über das Geburtstagsgeschenk freut, der Ex-Frau zugelächelt wird oder die Paarzeit harmonisch ist. Wie kommst du dann aus dem Gefühl des Scheiterns wieder raus?
 
 ![Frau sitzt allein auf dem Sofa und denkt über ihre Patchworkfamilie nach](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-2.jpg)
+
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bleiben oder gehen als Bonusmama" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
 
 ## Ursachen für das Gefühl des Scheiterns als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)
 
@@ -61,7 +71,7 @@ Indem du dich auf deine eigene Familie konzentrierst und diese positiven, praxis
 
 Manchmal reichen Strategien allein nicht aus — und das ist völlig okay. Wenn das Gefühl des Scheiterns überwältigend wird, darfst du dir professionelle Unterstützung holen. Ein Coaching oder eine Therapie kann dir helfen, tiefer liegende Muster zu erkennen und neue Wege zu finden.
 
-Denk daran: Scheitern bedeutet nicht, dass du versagt hast. Es bedeutet, dass du es versucht hast. Und allein das zählt mehr, als die meisten zugeben würden. **Es ist nie das Ende**, sondern immer der Beginn eines neuen Kapitels, das du mit Mut und Selbstliebe schreiben kannst.
+Denk daran: Scheitern bedeutet nicht, dass du als [Stiefmutter](/blog/stiefmutter/) versagt hast. Es bedeutet, dass du es versucht hast. Und allein das zählt mehr, als die meisten zugeben würden. **Es ist nie das Ende**, sondern immer der Beginn eines neuen Kapitels, das du mit Mut und Selbstliebe schreiben kannst.
 
 <!-- FAQ_START
 [

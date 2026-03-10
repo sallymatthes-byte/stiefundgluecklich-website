@@ -20,7 +20,9 @@ Vielleicht ist da diese ständige Anspannung. Kein offener Konflikt, aber auch k
 
 Nicht die laute Angst, wie wir sie aus Gefahrensituationen kennen. Sondern die stille, unterschwellige Angst, die dich begleitet wie ein Schatten. Angst davor, nicht genug zu sein. Angst, irgendwann ausgeschlossen zu werden. Angst, dass all das, was du gibst, doch nicht reicht.
 
-Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: **Sie ist kein Zeichen von Schwäche.** Sie ist Ausdruck deines Wunsches nach Verbindung – und eines Nervensystems, das versucht, dich zu schützen.
+Diese Angst ist nicht irrational. Sie ist nicht übertrieben. Und vor allem: **Sie ist kein Zeichen von Schwäche.** Laut Wednesday Martin (*Stepmonster*) berichten über 70 % der Stiefmütter von wiederkehrenden Angstgefühlen in ihrer Rolle — und das Statistische Bundesamt zeigt, dass jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) lebt. Du bist also alles andere als allein. Diese Angst ist Ausdruck deines Wunsches nach Verbindung – und eines Nervensystems, das versucht, dich zu schützen.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Fast jede Bonusmama, die zu mir kommt, beschreibt diese leise Grundangst. Nicht die laute Panik, sondern dieses ständige Scannen: Bin ich sicher? Gehöre ich dazu? In über 100 Coachings habe ich gelernt — diese Angst ist nicht dein Feind. Sie zeigt dir, wo du Klarheit brauchst."*
 
 In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist, wie sie sich bei Stiefmutter und Bonusmamas besonders zeigt – und was du tun kannst, um dich innerlich wieder *sicher* und stabil zu fühlen.
 
@@ -127,7 +129,26 @@ Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht p
 ## Zusammenfassung
 
 - Angst als Bonusmama ist **keine Schwäche** – sie ist eine natürliche Reaktion deines Nervensystems auf unklare Zugehörigkeit
-- Dein Körper scannt ständig nach Sicherheit – das ist evolutionär verankert und in Patchworkfamilien besonders aktiv
+- Dein Körper scannt ständig nach Sicherheit – das ist evolutionär verankert und in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) besonders aktiv
 - Es gibt verschiedene Angst-Typen: Perfektionistin, Kümmerin, People-Pleaserin und Überfliegerin – jeder Typ hat ein Bedürfnis dahinter
 - Die drei Schritte zu mehr innerer Sicherheit: Klarheit schaffen, sichere Inseln finden, verbindend kommunizieren
 - Du musst nicht perfekt sein, um dazuzugehören – du darfst weich und klar zugleich sein
+
+<!-- FAQ_START
+<details><summary>Ist Angst als Bonusmama normal?</summary>
+
+Ja, absolut. Angst und Unsicherheit sind laut Forschung die häufigsten Gefühle von Stiefmüttern. Dein Nervensystem reagiert auf die unklare Zugehörigkeit in einer Patchworkfamilie — das ist keine Schwäche, sondern eine biologische Schutzreaktion.
+
+</details>
+
+<details><summary>Woher kommt die ständige Anspannung als Stiefmutter?</summary>
+
+Dein Nervensystem scannt permanent, ob du zur Gruppe gehörst und sicher bist. In Patchworkfamilien sind Rollen und Zugehörigkeit oft unklar — das hält dein System in Daueralarmbereitschaft und führt zu Erschöpfung, Dünnhäutigkeit und Überreizung.
+
+</details>
+
+<details><summary>Was kann ich gegen die Angst als Bonusmama tun?</summary>
+
+Drei Schritte helfen: Erstens, erkenne deine Trigger und Bedürfnisse (Klarheit). Zweitens, schaffe bewusst sichere Momente im Alltag (sichere Inseln). Drittens, sprich ehrlich über deine Gefühle — mit Ich-Botschaften statt Vorwürfen (verbindende Kommunikation).
+
+</details>

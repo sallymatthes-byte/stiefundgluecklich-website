@@ -16,6 +16,10 @@ imageAlt: "Das 4-Ohren-Modell"
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon entfacht ein Streit. Plötzlich wirfst du deinem Partner vor, nicht genug im Haushalt zu helfen oder dich zu vernachlässigen. Dabei wolltest du eigentlich nur eine harmlose Bemerkung machen, doch irgendwie ist alles aus dem Ruder gelaufen.
 
+Die Forschung von Bray und Kelly bestätigt, dass Kommunikationsprobleme der häufigste Trennungsgrund in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als Patchworkfamilie — und in jeder einzelnen prallen verschiedene Kommunikationsstile aufeinander.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Das 4-Ohren-Modell gehört zu den Werkzeugen, die ich in meinen Coachings am häufigsten empfehle. Nicht weil es kompliziert ist — sondern weil es dir in Sekunden zeigt, warum dein Partner gerade komplett anders reagiert als erwartet."*
+
 In Beziehungen kommt es immer wieder zu Missverständnissen und Konflikten. **Oft liegt der Grund dafür in unserer [Kommunikation](/blog/aktives-zuhoeren-in-der-patchworkfamilie/).** Wir sagen etwas, meinen es aber ganz anders, als es beim Gegenüber ankommt. Oder wir interpretieren eine Aussage auf eine Weise, die der Sender nie beabsichtigt hatte.
 
 Doch wie können wir solche Missverständnisse vermeiden und unsere Kommunikation verbessern? Hier kommt das 4-Ohren-Modell ins Spiel. Dieses einfache, aber wirkungsvolle Werkzeug hat meine Sicht auf Gespräche und Konflikte grundlegend verändert. In diesem Artikel erfährst du, wie auch du das 4-Ohren-Modell nutzen kannst, um eure [Partnerschaft](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) zu stärken und Harmonie in eure Kommunikation zu bringen.
@@ -88,4 +92,23 @@ Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedl
 
 ## Zusammenfassung
 
-Das 4-Ohren-Modell von Friedemann Schulz von Thun zeigt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In Patchworkfamilien führen diese unterschiedlichen Ebenen besonders häufig zu Missverständnissen. Der Schlüssel liegt darin, innezuhalten, bewusst auf allen vier Ohren zu hören und Ich-Botschaften zu nutzen. So verwandelst du Konflikte in echte Gespräche — und stärkst eure Beziehung nachhaltig.
+Das 4-Ohren-Modell von Friedemann Schulz von Thun zeigt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) führen diese unterschiedlichen Ebenen besonders häufig zu Missverständnissen. Der Schlüssel liegt darin, innezuhalten, bewusst auf allen vier Ohren zu hören und Ich-Botschaften zu nutzen. So verwandelst du als [Stiefmutter](/blog/stiefmutter/) Konflikte in echte Gespräche — und stärkst eure Beziehung nachhaltig.
+
+<!-- FAQ_START
+<details><summary>Was ist das 4-Ohren-Modell?</summary>
+
+Das 4-Ohren-Modell von Friedemann Schulz von Thun besagt, dass jede Nachricht vier Ebenen hat: Sachinhalt (die reine Information), Selbstoffenbarung (was der Sender über sich verrät), Beziehung (wie der Sender zum Empfänger steht) und Appell (was der Sender bewirken möchte). In Patchworkfamilien wird besonders oft auf dem Beziehungsohr gehört.
+
+</details>
+
+<details><summary>Warum kommt es in Patchworkfamilien besonders oft zu Missverständnissen?</summary>
+
+In Patchworkfamilien kommunizieren Menschen über mehrere Beziehungsebenen gleichzeitig — Partner, Bonuskinder, Ex-Partner. Die Kommunikation ist emotional aufgeladener als in Erstfamilien, und kleine Sätze werden schneller als Angriff oder Vorwurf interpretiert.
+
+</details>
+
+<details><summary>Wie kann ich das 4-Ohren-Modell im Alltag anwenden?</summary>
+
+Halte inne, bevor du reagierst, und frage dich: Auf welchem Ohr höre ich gerade? Nutze Ich-Botschaften statt Vorwürfe und frage im Zweifel nach: „Wie hast du das gemeint?" Dieser kurze Moment der Reflexion kann einen Streit in ein echtes Gespräch verwandeln.
+
+</details>

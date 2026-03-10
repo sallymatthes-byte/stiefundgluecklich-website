@@ -20,6 +20,10 @@ Doch, was können wir eigentlich von den Kindern verlangen?
 
 ![Kinderzimmer mit bunten Aufbewahrungsboxen und Spielsachen](/images/blog/aufraeumen-mit-spass-und-verstaendnis-2.jpg)
 
+Laut dem Statistischen Bundesamt lebt in Deutschland jede siebte Familie als Patchworkfamilie — und das Thema Ordnung ist in fast allen ein Dauerbrenner. Denn Aufräumen ist in Patchworkfamilien nie nur eine Frage der Sauberkeit. Es geht um Zugehörigkeit, um Regeln und darum, wessen Standards gelten.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Aufräumen ist eines der Themen, bei dem Bonusmamas am schnellsten merken: Hier prallen zwei Familienkulturen aufeinander. Und plötzlich geht es nicht mehr um Spielsachen auf dem Boden, sondern um die Frage: Darf ich hier mitbestimmen?"*
+
 ## Ordnung und Chaos in verschiedenen Phasen
 
 - **Kleinkinder bis etwa drei Jahre** erleben die Welt als chaotisch und unstrukturiert. Sie erforschen ihre Umgebung mit allen Sinnen und haben noch kein Konzept von Ordnung. Aufräumen bedeutet für sie, Dinge willkürlich von einem Ort zum anderen zu räumen. In dieser Phase geht es vor allem darum, die Neugierde der Kinder zu unterstützen und für Sicherheit zu sorgen.
@@ -31,9 +35,11 @@ Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu hab
 
 ## Die Rolle der Bonusmama
 
+Die Patchwork-Forscherin Dr. Patricia Papernow betont, dass Bonuselternteile in den ersten Jahren bewusst die Rolle des „freundlichen Erwachsenen" einnehmen sollten — statt direkt als Erziehungsautorität aufzutreten. Das gilt ganz besonders bei Alltagsthemen wie dem Aufräumen, bei denen Kinder schnell das Gefühl bekommen: *Die darf mir gar nichts sagen.*
+
 Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
-- Stimme dich mit dem leiblichen Elternteil ab: Gemeinsame Regeln und Konsequenzen sind wichtig, um den Kindern Sicherheit zu geben. Trefft Absprachen und zieht an einem [Strang.](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/)
+- **Stimme dich mit dem leiblichen Elternteil ab:** Gemeinsame Regeln und Konsequenzen sind wichtig, um den Kindern Sicherheit zu geben. Trefft Absprachen und zieht an einem [Strang.](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/)
 - **Zeige Verständnis für die Situation der Kinder:** Der Wechsel zwischen zwei Haushalten kann herausfordernd sein. Hab Geduld, wenn die Kinder Zeit brauchen, um sich an unterschiedliche Regeln zu gewöhnen.
 - **Sei flexibel und passe deine Vorstellungen an:** Vielleicht hast du selbst andere Ordnungsstandards als die Bonusfamilie. Sei bereit, Kompromisse einzugehen und deine Erwartungen anzupassen.
 - **Bleib konsequent und geduldig:** Veränderungen brauchen Zeit und Wiederholung. Bleib freundlich, aber bestimmt und feiere kleine Fortschritte.
@@ -76,7 +82,9 @@ Schulkinder (5-10 Jahre):
 - **Seid geduldig und konsequent:** Veränderungen brauchen Zeit und Wiederholung. Bleibt geduldig, auch wenn nicht immer alles perfekt läuft. Seid konsequent in euren Erwartungen, aber geht auch mit Humor und Gelassenheit an die Sache heran.
 - **Passt die Regeln an:** Mit der Zeit und den sich ändernden Bedürfnissen der Kinder müssen auch die Aufräum-Regeln angepasst werden. Bleibt flexibel und offen für Veränderungen. Sprecht regelmäßig darüber, was gut funktioniert und was verbessert werden kann.
 
-Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als Familie zusammenzuwachsen und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
+Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als [Familie zusammenzuwachsen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
+
+Wenn du dich als [Stiefmutter](/blog/stiefmutter/) in deiner Rolle manchmal unsicher fühlst — auch beim Thema Aufräumen — bist du damit nicht allein. Viele Bonusmamas fragen sich, wie viel sie einfordern dürfen.
 
 <!-- FAQ_START
 <dl>

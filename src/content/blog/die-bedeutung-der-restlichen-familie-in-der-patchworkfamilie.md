@@ -16,6 +16,10 @@ imageAlt: "Großeltern und Enkel beim gemeinsamen Spielen in einer Patchworkfami
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
 So sagen meine Bonuskinder, dass sie nun 8 Großeltern haben, anstatt der vorherigen 4. Sie haben mehr Personen in ihrem Leben dazugewonnen, als „nur" die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und mit jeder neuen Konstellation wächst auch die erweiterte Familie. Die Forschung von Bray und Kelly zeigt, dass Unterstützung durch die erweiterte Familie einer der stärksten Schutzfaktoren für das Gelingen einer Patchworkfamilie ist.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Die restliche Familie wird oft unterschätzt. Dabei können Großeltern, Tanten oder enge Freunde den entscheidenden Unterschied machen — als Brücke, als Puffer, als Zeichen: Du gehörst hierher."*
+
 Doch wie kann die Familienzusammenführung gelingen und wo liegt der Unterschied zwischen blutsverwandten Familienmitgliedern und die der Patchworkfamilie?
 
 ## Gibt es einen Unterschied?
@@ -39,6 +43,8 @@ Abschließend kann gesagt werden, dass alle weiteren Familienmitglieder in einer
 > „Ein Kind kann einem Erwachsenen immer drei Dinge lehren: grundlos fröhlich zu sein, immer mit irgendetwas beschäftigt zu sein und nachdrücklich das zu fordern, was es will." – Paulo Coelho
 
 ## Herausforderungen und Lösungen
+
+Dr. Patricia Papernow betont, dass die erweiterte Familie sowohl Ressource als auch Risikofaktor sein kann: Wenn [Stiefmütter](/blog/stiefmutter/) von der Familie des Partners abgelehnt werden, verstärkt das die ohnehin vorhandene Insider-Outsider-Dynamik erheblich.
 
 Eine mögliche Herausforderung besteht darin, dass jedes Familienmitglied **unterschiedliche Erwartungen und Bedürfnisse** hat. Es kann schwierig sein, einen Konsens zu finden und einen gemeinsamen Weg zu gehen. Um diese Herausforderung zu bewältigen, ist es wichtig, dass alle Beteiligten offen miteinander kommunizieren und ihre Bedürfnisse und Wünsche artikulieren. Durch den Austausch und das Verständnis füreinander können Lösungen gefunden werden, die für alle akzeptabel sind. So war es mir wichtig meinen Eltern zu erklären, dass ich mir wünsche, dass meine Bonuskinder ebenfalls Enkelkinder für sie darstellen.
 
@@ -70,3 +76,22 @@ Indem ihr solche Aktivitäten plant und umsetzt, könnt ihr als restliche Famili
 
 Herausforderungen wie Vorurteile oder Ablehnung können uns dabei begegnen. Diese zu überwinden, lohnt sich jedoch enorm.
 Mit gemeinsamen Ausflügen, Spielen und bleibenden Erinnerungen kann es gelingen, die restlichen Familienmitglieder mit einzubeziehen.
+
+<!-- FAQ_START
+<details><summary>Wie binde ich Großeltern in die Patchworkfamilie ein?</summary>
+
+Gib Großeltern Zeit, sich an die neue Konstellation zu gewöhnen. Lade sie zu gemeinsamen Aktivitäten ein, ohne Erwartungen zu stellen. Erkläre offen, dass du dir wünschst, dass alle Kinder — ob leiblich oder Bonuskinder — als Familie behandelt werden.
+
+</details>
+
+<details><summary>Was tun, wenn die Familie meines Partners mich ablehnt?</summary>
+
+Ablehnung durch die Schwieger-/Bonusfamilie ist schmerzhaft, aber nicht selten. Sprich offen mit deinem Partner darüber — er muss als Brücke fungieren. Hab Geduld, zeig dich authentisch und lass dich nicht verbiegen. Die meisten Beziehungen brauchen Zeit, um zu wachsen.
+
+</details>
+
+<details><summary>Wie erkläre ich meiner Familie die Patchworksituation?</summary>
+
+Sei ehrlich und direkt: Erkläre, dass die Bonuskinder Teil eures Lebens sind und du dir wünschst, dass sie dazugehören. Manche Familienmitglieder brauchen länger als andere — gib ihnen diese Zeit, aber mach deine Erwartungen klar.
+
+</details>

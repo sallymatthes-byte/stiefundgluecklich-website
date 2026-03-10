@@ -32,6 +32,10 @@ Es war nur eine Achterbahn. Aber das Gefühl war real. Und ich weiß, dass du di
 
 Was du erlebst, ist keine Einbildung. Es ist auch kein Zeichen dafür, dass du versagst oder dass dein Partner dich nicht liebt. **Es ist eine strukturelle Realität von Patchworkfamilien** — und die Forschung hat dafür klare Worte.
 
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und laut der Forschung von Bray und Kelly fühlen sich über 60 % der Bonuselternteile in den ersten Jahren als Außenseiter in der eigenen Familie.
+
+> **Sally Matthes, Coach für Bonusmamas:** *„Das Außenseiter-Gefühl ist das Thema Nummer eins in meinen Coachings. Nicht weil die Frauen schwach sind — sondern weil sie in ein System eintreten, das keinen Platz für sie eingeplant hat. Und das ist keine Einbildung. Das ist Struktur."*
+
 Dr. Patricia Papernow, eine der führenden Expertinnen für Stieffamilien, beschreibt die erste große Herausforderung so: In jeder Patchworkfamilie gibt es *Insider* und *Outsider*. Der leibliche Elternteil und seine Kinder sind die Insider — sie teilen eine Geschichte, Rituale, einen eigenen Rhythmus. Und du als Bonuselternteil? Du bist der Outsider. Nicht weil dich jemand absichtlich ausschließt. Sondern weil die anderen schon eine Einheit waren, bevor du dazukamst.
 
 Stell dir das so vor: **Dein Partner und seine Kinder sind ein eingespieltes Team.** Sie haben ihre Abläufe, ihre Sprache, ihre Art zu streiten und sich wieder zu versöhnen. Dann kommst du — voller guter Absichten, voller Liebe — und versuchst, dich in dieses System einzufügen. Aber das System hat keinen freien Platz für dich eingeplant.
@@ -85,7 +89,7 @@ Kinder in Patchworkfamilien haben oft schon eine Trennung erlebt. Sie haben gele
 
 Frag dich ehrlich: Was hast du dir vorgestellt, wie das hier laufen würde? Die meisten von uns sind mit einem Bild gestartet, das ungefähr so aussah: *Wir werden eine glückliche Familie, die Kinder werden mich mögen, und nach ein paar Monaten sind wir eingespielt.*
 
-**Die Realität sieht anders aus.** Der Prozess dauert — laut Forschung — im Durchschnitt fünf bis sieben Jahre. Das hat mit den [4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) zu tun, die jede Familie durchläuft. Ja, Jahre. Nicht Monate. Und das ist kein Versagen. Das ist normal.
+**Die Realität sieht anders aus.** Der Prozess dauert — laut Forschung von Dr. Patricia Papernow — im Durchschnitt fünf bis sieben Jahre. Wednesday Martin beschreibt in *Stepmonster*, dass [Stiefmütter](/blog/stiefmutter/) diesen Prozess besonders intensiv erleben, weil sie gleichzeitig Beziehung aufbauen und ihren Platz verteidigen müssen. Das hat mit den [4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) zu tun, die jede Familie durchläuft. Ja, Jahre. Nicht Monate. Und das ist kein Versagen. Das ist normal.
 
 ![Zwei Hände, die sich vorsichtig nähern, symbolisch für langsamen Vertrauensaufbau](/images/blog/bonusmama-aussenseiterin-3.jpg)
 
