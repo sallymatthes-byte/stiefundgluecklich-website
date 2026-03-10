@@ -117,21 +117,33 @@ Biancas Geschichte zeigt, was viele nicht sehen wollen: **Patchworkfamilien ents
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Kann eine Patchworkfamilie nach einer Affäre funktionieren?</summary>
+### Kann eine Patchworkfamilie nach einer Affäre funktionieren?
 
 Ja. Der Anfang ist schwieriger, weil Schuld, Scham und das Urteil des Umfelds zusätzliche Belastungen schaffen. Aber mit ehrlicher Kommunikation, Bereitschaft zur Selbstreflexion und professioneller Unterstützung kann eine stabile und liebevolle Familie entstehen — unabhängig von der Vorgeschichte.
-</details>
 
-<details>
-<summary>Wie gehe ich mit Schuldgefühlen um, wenn meine Beziehung aus einer Affäre entstanden ist?</summary>
+
+### Wie gehe ich mit Schuldgefühlen um, wenn meine Beziehung aus einer Affäre entstanden ist?
 
 Trenne die Tat von der Person: Du hast einen Fehler gemacht, aber du bist kein Fehler. Hör auf, dich durch Perfektion zu beweisen, und suche dir Unterstützung bei jemandem, der nicht urteilt. Schuld darf nicht zum Dauerzustand werden — sie verhindert, dass du die Partnerin und Bonusmama bist, die deine Familie braucht.
-</details>
 
-<details>
-<summary>Was sage ich, wenn mein Bonuskind sagt „Du hast unsere Familie zerstört"?</summary>
+
+### Was sage ich, wenn mein Bonuskind sagt „Du hast unsere Familie zerstört"?
 
 Nicht rechtfertigen, nicht verteidigen. Stattdessen: „Ich verstehe, dass du wütend bist. Deine Gefühle sind berechtigt." Kinder brauchen in solchen Momenten keine Erklärungen — sie brauchen das Gefühl, gehört zu werden. Mit der Zeit und durch deine konstante Präsenz kann sich die Beziehung verändern.
-</details>
-FAQ_END -->
+
+
+<!-- FAQ_START
+## Häufige Fragen
+
+### Darf ich als Bonusmama Schuldgefühle haben wegen einer Affäre?
+
+Ja. Schuld und Scham sind menschliche Reaktionen. Entscheidend ist, wie du damit umgehst — nicht ob du sie fühlst. Professionelle Begleitung kann helfen, diese Gefühle einzuordnen und loszulassen.
+
+### Wie gehe ich mit dem Urteil anderer um, wenn meine Beziehung aus einer Affäre entstanden ist?
+
+Du musst dich nicht vor jedem rechtfertigen. Wähle bewusst, wem du deine Geschichte erzählst. Und erinnere dich: Die gesellschaftliche Doppelmoral sagt mehr über die Gesellschaft als über dich.
+
+### Kann eine Beziehung, die aus einer Affäre entstanden ist, funktionieren?
+
+Ja, wenn beide Partner ehrlich miteinander umgehen und bereit sind, die Vergangenheit aufzuarbeiten. Biancas Geschichte zeigt: Es braucht Mut, Ehrlichkeit und die Bereitschaft, sich dem Schmerz zu stellen.
+

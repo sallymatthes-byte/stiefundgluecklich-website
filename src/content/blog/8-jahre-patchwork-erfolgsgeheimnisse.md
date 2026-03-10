@@ -114,21 +114,33 @@ Jessica und Pascal zeigen nach acht Jahren: **Patchwork gelingt nicht durch Harm
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Wie wichtig ist die Paarbeziehung in einer Patchworkfamilie?</summary>
+### Wie wichtig ist die Paarbeziehung in einer Patchworkfamilie?
 
 Die Qualität der Paarbeziehung ist laut Forschung der stärkste Faktor für das Gelingen einer Patchworkfamilie. Wenn das Paar stabil steht, profitieren alle — vor allem die Kinder. Regelmäßige Paarzeit sollte genauso geplant werden wie Arzttermine oder Elternabende.
-</details>
 
-<details>
-<summary>Was tun, wenn der Teenager sagt „Du bist nicht meine Mutter"?</summary>
+
+### Was tun, wenn der Teenager sagt „Du bist nicht meine Mutter"?
 
 Das gehört zum Testen von Grenzen dazu — besonders in Patchworkfamilien. Wichtig ist, ruhig zu bleiben und klar zu kommunizieren: Liebe ist nicht verhandelbar, aber Respekt schon. Der leibliche Elternteil sollte hier die Führung übernehmen und klare Erwartungen an respektvolles Verhalten aussprechen.
-</details>
 
-<details>
-<summary>Wie lange dauert es, bis eine Patchworkfamilie sich einspielt?</summary>
+
+### Wie lange dauert es, bis eine Patchworkfamilie sich einspielt?
 
 Die meisten Patchworkfamilien brauchen zwischen drei und sieben Jahren, um sich wirklich einzuspielen. In den ersten zwei bis drei Jahren sind Konflikte und Unsicherheit normal. Entscheidend ist, dranzubleiben und sich als Paar nicht aus den Augen zu verlieren.
-</details>
-FAQ_END -->
+
+
+<!-- FAQ_START
+## Häufige Fragen
+
+### Wie lange dauert es, bis eine Patchworkfamilie zusammenfindet?
+
+Forschung zeigt, dass Patchworkfamilien im Schnitt 4 bis 7 Jahre brauchen, um sich zu stabilisieren. Jessica und Pascal bestätigen: Die ersten Jahre waren die härtesten, aber das Durchhalten hat sich gelohnt.
+
+### Was ist das wichtigste Erfolgsgeheimnis in einer Patchworkfamilie?
+
+Die Paarbeziehung als Fundament zu pflegen. Wenn das Paar stark ist, kann es die Herausforderungen des Patchwork-Alltags gemeinsam tragen. Regelmäßige Paarzeit — auch nur 20 Minuten am Tag — macht einen großen Unterschied.
+
+### Wie geht man mit Teenagern in einer Patchworkfamilie um?
+
+Teenager brauchen Raum für ihre eigenen Gefühle und Loyalitätskonflikte. Erzwinge keine Nähe, aber zeige, dass du da bist. Und: Nimm es nicht persönlich, wenn sie dich ablehnen — das hat selten mit dir zu tun.
+

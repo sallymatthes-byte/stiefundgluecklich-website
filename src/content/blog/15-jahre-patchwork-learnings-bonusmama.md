@@ -118,21 +118,18 @@ Madeleine blickt auf 15 Jahre als Bonusmama zurück — mit all den Höhen und T
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Wird Patchwork mit der Zeit wirklich leichter?</summary>
+### Wird Patchwork mit der Zeit wirklich leichter?
 
 Nicht unbedingt leichter, aber anders. Die Herausforderungen verändern sich mit jeder Lebensphase der Kinder. Was sich verändert, ist dein Umgang damit — du wirst erfahrener, gelassener und klarer in deinen Grenzen.
-</details>
 
-<details>
-<summary>Wie lange dauert es, bis eine Patchworkfamilie zusammenwächst?</summary>
+
+### Wie lange dauert es, bis eine Patchworkfamilie zusammenwächst?
 
 Laut Forschung brauchen Patchworkfamilien im Schnitt fünf bis sieben Jahre, um sich zu stabilisieren. Das bedeutet nicht, dass es vorher nicht gut sein kann — aber dass tiefe Verbundenheit Zeit braucht und nicht erzwungen werden kann.
-</details>
 
-<details>
-<summary>Was ist der häufigste Fehler, den Bonusmamas in den ersten Jahren machen?</summary>
+
+### Was ist der häufigste Fehler, den Bonusmamas in den ersten Jahren machen?
 
 Sich selbst aufgeben, um die Harmonie zu wahren. Viele Bonusmamas stellen ihre eigenen Bedürfnisse zurück, weil sie denken, das gehöre zur Rolle. Langfristig führt das zu Erschöpfung und dem Gefühl, nie genug zu sein.
-</details>
-FAQ_END -->
+
+

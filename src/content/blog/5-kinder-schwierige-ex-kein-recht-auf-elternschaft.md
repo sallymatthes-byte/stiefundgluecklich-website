@@ -34,7 +34,7 @@ Die meisten Ratgeber sagen: Nimm dir Zeit. Lerne die Kinder langsam kennen. Übe
 
 > „Ich habe nicht darüber nachgedacht, ob ich bereit bin. Ich habe einfach gemacht. Und irgendwann war es unser Alltag." — Livia
 
-Das ist ein Muster, das ich oft sehe: Bonusmamas, die nicht nach dem Lehrbuch handeln, aber instinktiv das Richtige tun. **Nicht jede Patchworkfamilie braucht eine jahrelange Annäherungsphase.** Manche brauchen jemanden, der einfach anpackt.
+Das ist ein Muster, das ich oft sehe: Bonusmamas, die nicht nach dem Lehrbuch handeln, aber instinktiv das Richtige tun. **Nicht jede [Patchworkfamilie](/blog/patchworkfamilie/) braucht eine jahrelange Annäherungsphase.** Manche brauchen jemanden, der einfach anpackt.
 
 ---
 
@@ -44,7 +44,7 @@ Das ist ein Muster, das ich oft sehe: Bonusmamas, die nicht nach dem Lehrbuch ha
 
 Stell dir vor, du bist seit Jahren die Person, die das Kind zum Arzt bringt, bei der Einschulung sitzt, Hausaufgaben betreut. Und dann sagt dir jemand: **Du hast kein Recht, eine Entscheidung für dieses Kind zu treffen.** Keine Vollmacht für den Notfall. Kein Mitspracherecht in der Schule. Im schlimmsten Fall darfst du das Kind nicht einmal vom Krankenhaus abholen.
 
-Das ist die Realität vieler Bonusmamas in Deutschland. Das Familienrecht kennt keine Stiefmutter im rechtlichen Sinne — es sei denn, du adoptierst das Kind oder heiratest den leiblichen Elternteil (und selbst dann sind die [Rechte begrenzt](/blog/die-10-rechte-der-stiefmuetter/)).
+Das ist die Realität vieler Bonusmamas in Deutschland. Das Familienrecht kennt keine [Stiefmutter](/blog/stiefmutter/) im rechtlichen Sinne — es sei denn, du adoptierst das Kind oder heiratest den leiblichen Elternteil (und selbst dann sind die [Rechte begrenzt](/blog/die-10-rechte-der-stiefmuetter/)).
 
 Livia beschreibt es so: „Ich bin die Person, die jeden Tag da ist. Die funktioniert, die liebt, die hält. Aber auf dem Papier bin ich niemand. Und die leibliche Mutter nutzt das. *Jede* Chance."
 
@@ -105,6 +105,12 @@ Das trifft ins Mark. Denn genau da liegt das Problem: **Bonusmamas sind systemre
 
 ---
 
+
+
+> „Dein Wert als Bonusmama misst sich nicht in Paragraphen. Was du jeden Tag für diese Kinder tust, steht in keinem Gesetz — und ist trotzdem real.“ — Sally Matthes, Coach für Bonusmamas
+
+---
+
 ## Zusammenfassung
 
 Livias Geschichte ist kein Märchen und kein Ratgeber. Sie ist das echte Leben einer Frau, die fünf Kinder betreut, rechtlich nicht existiert und trotzdem jeden Morgen aufsteht und macht. **Nicht weil es einfach ist. Sondern weil diese Kinder ihr Grund sind.** Wenn du dich als Bonusmama manchmal unsichtbar fühlst — Livias Geschichte zeigt, dass Sichtbarkeit nicht vom Amt kommt. Sondern von den Menschen, die dich sehen. Jeden Tag.
@@ -112,21 +118,33 @@ Livias Geschichte ist kein Märchen und kein Ratgeber. Sie ist das echte Leben e
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Welche Rechte haben Stiefmütter in Deutschland?</summary>
+### Welche Rechte haben Stiefmütter in Deutschland?
 
 In Deutschland haben Stiefmütter nur eingeschränkte Rechte. Durch Heirat entsteht ein sogenanntes „kleines Sorgerecht" (§ 1687b BGB), das alltägliche Entscheidungen erlaubt. Ohne Ehe gibt es praktisch keine rechtliche Grundlage. Für medizinische Notfälle empfiehlt sich eine schriftliche Vollmacht vom leiblichen Elternteil.
-</details>
 
-<details>
-<summary>Wie gehe ich mit einer schwierigen Ex-Partnerin um?</summary>
+
+### Wie gehe ich mit einer schwierigen Ex-Partnerin um?
 
 Konzentriere dich auf das, was du kontrollieren kannst: deine Reaktion und die Beziehung zu den Kindern. Setze klare Grenzen, dokumentiere Absprachen schriftlich und vermeide es, die Kinder in Konflikte hineinzuziehen. Bei Hochkonflikt kann Parallel Parenting eine Lösung sein.
-</details>
 
-<details>
-<summary>Sollte ich als Bonusmama sofort mit den Bonuskindern zusammenziehen?</summary>
+
+### Sollte ich als Bonusmama sofort mit den Bonuskindern zusammenziehen?
 
 Es gibt kein richtig oder falsch. Manche Familien brauchen eine lange Annäherungsphase, andere funktionieren von Anfang an zusammen. Entscheidend ist nicht das Tempo, sondern ob die Bedürfnisse der Kinder im Mittelpunkt stehen und alle Beteiligten bereit sind.
-</details>
-FAQ_END -->
+
+
+<!-- FAQ_START
+## Häufige Fragen
+
+### Haben Bonusmamas rechtlich gesehen eine Elternrolle?
+
+Nein. In Deutschland haben Bonusmamas ohne Adoption keine gesetzlichen Rechte in Bezug auf die Kinder ihres Partners. Das kleine Sorgerecht nach § 1687b BGB greift nur bei Verheirateten und deckt lediglich Alltagsentscheidungen ab.
+
+### Was kann ich tun, wenn ich als Bonusmama keine Rechte habe?
+
+Dokumentiere deine Rolle im Alltag, besprich mit deinem Partner Vorsorgevollmachten und informiere dich über das kleine Sorgerecht. Im Notfall kann ein Familienrechtler beraten, welche Optionen es gibt.
+
+### Wie gehe ich mit dem Gefühl um, rechtlich unsichtbar zu sein?
+
+Erlaube dir die Wut und Trauer darüber. Gleichzeitig: Definiere deinen Wert nicht über Paragraphen. Deine Bedeutung für die Kinder zeigt sich im Alltag — nicht im Gesetz.
+

@@ -125,6 +125,9 @@ Diese zehn Lektionen sind keine Checkliste, die du in einem Monat abarbeiten kan
 Du bist schon weiter, als du denkst. Und du musst nicht perfekt sein. Du musst nur ehrlich mit dir selbst sein.
 
 <!-- FAQ_START
+
+---
+
 ## Häufige Fragen
 
 ### Wie lange dauert es, bis man sich als Bonusmutter wohlfühlt?
