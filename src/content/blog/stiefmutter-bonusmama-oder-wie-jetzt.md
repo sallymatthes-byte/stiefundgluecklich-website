@@ -3,7 +3,7 @@ title: "Stiefmutter, Bonusmama - oder wie jetzt?"
 description: "Allein schon den passenden Begriff für die neue Rolle zu finden ist herausfordernd: Stiefmutter, Bonusmama oder doch ganz anders?"
 category: "rolle-identitaet"
 date: 2023-12-03
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Bonusmama oder Stiefmutter? Bedeutung, Herkunft & Unterschied"
 metaDescription: "Bonusmama, Stiefmutter, Bonuseltern — was bedeuten die Begriffe wirklich? Woher sie kommen, was der Unterschied ist und warum der Name deine Rolle verändert."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
@@ -13,7 +13,9 @@ imageAlt: "Frau denkt nachdenklich nach - Stiefmutter oder Bonusmama, welcher Be
 
 **Eine Bonusmama ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat — der positive, moderne Begriff für Stiefmutter.** Während „Stiefmutter" durch Märchen negativ belastet ist, betont „Bonusmama", dass du ein Bonus für die Familie bist: eine zusätzliche Bezugsperson, kein Ersatz. In diesem Artikel erfährst du alle Patchwork-Begriffe und was sie bedeuten.
 
-Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die** Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich? Wenn du es lieber als Video anschauen möchtest, dann klick einfach auf das [Video.](https://www.youtube.com/watch?v=Lh445zyR1_I&t=42s)
+In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024). Immer mehr Familien in Deutschland leben in [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)n. Teilweise wird diese Form der Familie in Medien auch als **die** Familienform der Zukunft gesehen. Scheidungsraten steigen, alternative Familienformen entstehen und immer seltener wird die klassische Kernfamilie. Doch was bedeutet es eigentlich genau in einer Patchworkfamilie zu leben und wie betitel ich mich eigentlich? 
+
+---
 
 ## Woher kommt der Begriff Stiefmutter?
 In dieser Zeit war es üblich, dass es mehrere Kinder in der Familie gab - Verhütung war damals bekanntermaßen noch etwas schwierig.
@@ -29,6 +31,10 @@ Das Wort „Stief" stammt aus dem Germanischen und bedeutet so viel wie „berau
 
 ![Zwei Frauen sitzen zusammen und reden - verschiedene Rollen in der Patchworkfamilie](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-2.jpg)
 
+Wednesday Martin beschreibt in „Stepmonster" (2009), wie das Märchen von der bösen Stiefmutter reale Frauen bis heute unter Druck setzt — ein Erbe, das Bonusmamas in jeder neuen Generation spüren.
+
+---
+
 ## Was bedeutet Stiefmutter heute?
 Wenn ein neuer Partner hinzukommt, ist die Situation eine andere als früher. Trotzdem haftet dem Wort „Stiefmutter" oft noch etwas Negatives an, durch Märchen wie Schneewittchen oder Aschenputtel.
 Wir müssen mittlerweile niemanden ersetzen und dieser Anspruch besteht in den meisten Fällen auch nicht.
@@ -43,6 +49,10 @@ Es geht ja schon mit der Begrifflichkeit los: Es gibt den *biologischen Elternte
 
 ![Sally sitzt nachdenklich bei einer Tasse Kaffee - auf der Suche nach dem richtigen Begriff für die eigene Rolle](/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-3.jpg)
 
+> „Ob Stiefmutter, Bonusmama oder einfach du selbst — der Name ändert nicht, was du tust. Aber er kann ändern, wie du dich dabei fühlst. Und das zählt." — Sally Matthes, Coach für Bonusmamas
+
+---
+
 ## Stiefmutter oder Bonusmama — was ist der Unterschied?
 Jedoch finde ich das Mama darin blöd, denn Mama möchte ich eigentlich nicht sein.
 Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich **„belle-mère"** — was übersetzt „die schöne Mutter" bedeutet. Klingt wundervoll, allerdings finde ich die leibliche Mutter der Kinder auch schön - und ich will weder auf mein Äußeres beschränkt werden, noch eine Mutter sein. Was außer Bonus bin ich denn dann?
@@ -50,6 +60,10 @@ Da die Kinder meines Partners französischsprachig aufwachsen, nennen sie mich *
 Ich bin Sally, die Partnerin von Stéphane, dem Papa der beiden Mädchen. Vor allem bin ich Sally. Das gefällt mir. Ich bin ich, mit all meinen Seiten und Facetten. Eine Person in der Lebensrealität der Kinder, an der sie sich orientieren können, mit der sie Spaß haben können und die vielleicht eine Bezugs- oder Vertrauensperson ist. Alles kann sein, nichts muss.
 
 Das nimmt Druck raus - auf meiner Seite. Doch mit Sicherheit auch aufseiten der Mädchen. Denn als Sally müssen sie mich nicht mögen oder gar lieben. Aber ich bin Bestandteil ihrer Lebenswelt - und darum geht es doch: den Weg miteinander zu finden. Zu einem Zuhause, in dem sich alle wohlfühlen und sein können. Ganz unabhängig davon, wie wir das Konstrukt nennen.
+
+Mehr über die verschiedenen Facetten der [Stiefmutter-Rolle](/blog/stiefmutter/) und was eine gesunde [Patchworkfamilie](/blog/patchworkfamilie/) ausmacht, findest du in den Überblicksartikeln.
+
+---
 
 ## Zusammenfassung
 Doch welche Rolle nimmt man als Stiefmutter ein? Der Begriff „Stiefmutter" ist historisch negativ behaftet. Heute gibt es alternative Bezeichnungen wie „Bonusmutter". Persönlich finde ich diese aber auch nicht optimal.

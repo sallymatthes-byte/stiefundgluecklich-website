@@ -3,7 +3,7 @@ title: "Triggersituationen in Patchworkfamilien: So kommst du raus"
 description: "Lies hier, wie du Situationen erkennst, die alte Verletzungen in dir zeigen und wie du diese heilst, ohne unangemessen zu reagieren."
 category: "ex-und-system"
 date: 2024-03-15
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Trigger in der Patchworkfamilie: So kommst du raus"
 metaDescription: "Bestimmte Situationen triggern dich als Bonusmama jedes Mal? Wie du Triggersituationen erkennst und endlich durchbrichst."
 heroImage: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1.jpg"
@@ -11,15 +11,16 @@ image: "/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-1
 imageAlt: "Bonusmama sitzt nachdenklich am Fenster und reflektiert über eine Triggersituation in ihrer Patchworkfamilie"
 ---
 
-**Triggersituationen in Patchworkfamilien sind Momente, in denen du unverhältnismäßig stark reagierst — und hinterher nicht verstehst, warum.** Das Kind sagt einen Satz, und in dir explodiert etwas. Hier erfährst du, was hinter Triggern steckt und wie du in der Situation handlungsfähig bleibst.
+**Triggersituationen in Patchworkfamilien sind Momente, in denen du unverhältnismäßig stark reagierst — und hinterher nicht verstehst, warum.** Das Kind sagt einen Satz, und in dir explodiert etwas. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in jeder davon gibt es diese Momente. Hier erfährst du, was hinter Triggern steckt und wie du in der Situation handlungsfähig bleibst.
 
-
-Meine älteste Bonustochter kommt gerade in die Pubertät – und viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) mich gerade mehr als sonst. Das heißt, dass diese Situationen eine Reaktion in mir auslösen, die ich sonst nicht kenne.
+Als systemischer Coach und selbst Bonusmama kenne ich das aus erster Hand. Meine älteste Bonustochter kommt gerade in die Pubertät – und viele Situationen mit ihr [triggern](https://de.wikipedia.org/wiki/trigger_(medizin)) mich gerade mehr als sonst. Das heißt, dass diese Situationen eine Reaktion in mir auslösen, die ich sonst nicht kenne.
 Ein Beispiel: Sie kommentiert gerade vieles mit „das ist ja langweilig!". In mir wird dann sofort die 14-jährige Sally aktiviert, die damals genau so war. Ich werde sauer und ziehe mich dann zurück.
 Solche oder ähnliche Situationen kennen viele [Bonusmamas](/blog/stiefmutter-bonusmama-oder-wie-jetzt/). Nicht selten kommt es dann zu heftigen Auseinandersetzungen in der Patchworkfamilie.
 Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem Schmerz? Und wie kommt man da wieder raus?
 
 ![Frau atmet tief durch und versucht, in einer stressigen Familiensituation ruhig zu bleiben](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-2.jpg)
+
+---
 
 ## Was verstehen wir unter einem Trigger?
 
@@ -29,9 +30,11 @@ Sie können verschiedene Ursachen haben und werden oft durch bestimmte Auslöser
 Stell dir zum Beispiel vor, du hast das Gefühl, von der [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) nicht ernst genommen zu werden. Jedes Mal, wenn sie dich abwertend behandelt oder dir gegenüber respektlos ist, gerätst du in Rage.
 Diese Triggersituationen können dich aus der Bahn werfen und zu unangemessenen Reaktionen führen. Es ist wichtig, sie zu verstehen und angemessen damit umzugehen.
 
-> „Der Schmerz ist unvermeidlich, das Leiden ist optional." – Haruki Murakami
+> „Trigger sind keine Schwäche — sie sind Wegweiser. Jeder Trigger zeigt dir, wo eine alte Wunde sitzt, die noch heilen darf. In der Patchworkfamilie werden diese Wunden nur besonders oft berührt." — Sally Matthes, Coach für Bonusmamas
 
 ![Notizbuch mit Stift auf einem Tisch – Symbol für ein Trigger-Tagebuch zur Selbstreflexion](/images/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus-3.jpg)
+
+---
 
 ## Warum triggern uns bestimmte Situationen?
 
@@ -46,6 +49,10 @@ Achte auch auf **körperliche Reaktionen** wie Anspannung, Herzrasen oder Bauchs
 *Ein weiterer Tipp ist es, ein Trigger-Tagebuch zu führen.*
 Schreibe auf, wann und warum du dich getriggert fühlst. Welche Gedanken und Gefühle tauchen in diesen Momenten auf? Durch das Festhalten dieser Informationen kannst du Muster erkennen und Zusammenhänge besser verstehen. Es ist auch hilfreich, sich mit anderen Bonusmamas auszutauschen.
 Du wirst feststellen, dass du nicht allein mit diesen Triggersituationen bist und dass andere ähnliche Erfahrungen gemacht haben. Das kann dir helfen, deine eigenen Trigger besser zu erkennen und zu verstehen.
+
+Patricia Papernow (2013) beschreibt, dass Patchworkfamilien besonders anfällig für Triggersituationen sind, weil die Insider-Outsider-Dynamik alte Verletzungen rund um Zugehörigkeit und Ablehnung aktiviert.
+
+---
 
 ## Wie kann ich reagieren?
 
@@ -74,6 +81,10 @@ Manchmal ist es notwendig, klare Grenzen zu setzen, um sich selbst zu schützen.
 Vergiss nicht, gut für dich selbst zu sorgen. Triggersituationen können emotional und körperlich belastend sein. Nimm dir Zeit, um dich zu erholen und dich selbst zu verwöhnen. Das kann bedeuten, dass du dir einen Abend nur für dich nimmst, eine entspannende Massage buchst oder dich mit deinen Lieblingsaktivitäten verwöhnst. Indem du gut auf dich selbst achtest, stärkst du deine Resilienz und kommst gestärkt aus den Triggersituationen heraus.
 
 Denke daran, dass jeder Mensch anders ist und dass es keine einheitliche Lösung für den Umgang mit Triggersituationen gibt. Finde heraus, welche Handlungsweisen für dich persönlich am besten funktionieren und passe sie entsprechend an. Sei geduldig mit dir selbst und erlaube dir, Fehler zu machen und aus ihnen zu lernen.
+
+Mehr über die [Stiefmutter-Rolle](/blog/stiefmutter/) und typische Herausforderungen in der [Patchworkfamilie](/blog/patchworkfamilie/) findest du in den Überblicksartikeln. Auch der Blick auf deine [Glaubenssätze als Bonusmama](/blog/glaubenssaetze-als-bonusmama/) kann helfen, wiederkehrende Trigger besser zu verstehen.
+
+---
 
 ## Zusammenfassung
 

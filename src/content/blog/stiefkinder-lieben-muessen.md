@@ -82,7 +82,7 @@ Nicht jede Bonusmama-Bonuskind-Beziehung wird zu einer engen Bindung. Manche ble
 
 Was nicht in Ordnung ist: wenn du dich dafür zerstörst, dass du nicht das Unmögliche schaffst. Wenn du dich jeden Abend fragst, ob du genug bist. Wenn du ein Gefühl erzwingst, das nicht in deiner Macht liegt.
 
-Du bist genug. Nicht weil du liebst. Sondern weil du *da bist* — trotz allem.
+Du bist genug. Nicht weil du liebst. Sondern weil du *da bist* — trotz allem. Wenn du dich fragst, was es überhaupt heißt, [Stiefmutter](/blog/stiefmutter/) zu sein, oder wie eine gesunde [Patchworkfamilie](/blog/patchworkfamilie/) funktioniert, findest du dort weitere Orientierung.
 
 ---
 

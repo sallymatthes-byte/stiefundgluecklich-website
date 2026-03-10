@@ -3,42 +3,47 @@ title: "Selbstbewusst als Bonusmama: So meisterst du Veranstaltungen"
 description: "Erhalte jetzt wertvolle Tipps, wie du mit Unsicherheiten umgehst und gemeinsam mit deinem Partner strahlst!"
 category: "partnerschaft"
 date: 2024-07-12
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Veranstaltungen als Bonusmama: Selbstbewusst auftreten"
-metaDescription: "Schulfeste, Geburtstage, Familienfeiern — überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
+metaDescription: "Schulfeste, Geburtstage, Familienfeiern - überall die Ex? So meisterst du Veranstaltungen als Bonusmama mit Selbstbewusstsein."
 heroImage: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 image: "/images/blog/so-meisterst-du-veranstaltungen-1.jpg"
 imageAlt: "Bonusmama steht selbstbewusst bei einer Familienveranstaltung"
 ---
 
-**Veranstaltungen wie Elternabende, Schulfeste oder Kindergeburtstage sind für Bonusmamas oft emotional aufgeladen — weil dort die Frage „Wer gehört zur Familie?“ sichtbar wird.** Die Ex ist da, die Blicke anderer Eltern spürbar, deine Rolle unklar. Hier erfährst du, wie du solche Situationen selbstbewusst meisterst.
+**Veranstaltungen wie Elternabende, Schulfeste oder Kindergeburtstage sind für Bonusmamas oft emotional aufgeladen - weil dort die Frage "Wer gehört zur Familie?" sichtbar wird.** Die Ex ist da, die Blicke anderer Eltern spürbar, deine Rolle unklar. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) - und bei jeder Schulaufführung, jedem Elternabend stellt sich für die Bonusmama dieselbe Frage: Wo ist mein Platz? Hier erfährst du, wie du solche Situationen selbstbewusst meisterst.
 
-
-Neulich erzählte mir eine Bonusmama, dass sie eine von den hoch begehrten Eintrittskarten für den Schulanfang ihres Bonuskindes erhalten hat. Sie freute sich wahnsinnig darüber, gleichzeitig fragte sie sich: „Wie werden wir dort auftreten? Ich neben der Ex? Oder ich vielleicht irgendwo allein?"
+Als Coach für Bonusmamas höre ich dieses Thema ständig. Neulich erzählte mir eine Bonusmama, dass sie eine von den hoch begehrten Eintrittskarten für den Schulanfang ihres Bonuskindes erhalten hat. Sie freute sich wahnsinnig darüber, gleichzeitig fragte sie sich: "Wie werden wir dort auftreten? Ich neben der Ex? Oder ich vielleicht irgendwo allein?"
 Kita-Veranstaltungen, Schulveranstaltungen oder andere Aufführungen bringen genau diese Fragen mit sich.
 Genau deshalb betrachten wir heute mal diese Situationen und werfen einen Blick darauf, wie man diese als Bonusmama selbstbewusst erleben kann.
 
+---
+
 ## Wenn Unsicherheit und Selbstzweifel an der Seele nagen
 
-*„Bin ich hier überhaupt erwünscht? Wie sehen mich die anderen? Kann ich den Erwartungen gerecht werden?"*
+*"Bin ich hier überhaupt erwünscht? Wie sehen mich die anderen? Kann ich den Erwartungen gerecht werden?"*
 
 Die Angst, auf Ablehnung zu stoßen oder mit der leiblichen Mutter [verglichen](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) zu werden, lässt dich am liebsten unsichtbar werden. Auch die Unklarheit über deine Aufgaben als Bonusmama kann verunsichern:
 
-*„Wie weit darf ich gehen? Was ist meine Rolle?"*
+*"Wie weit darf ich gehen? Was ist meine Rolle?"*
 
 Neugierige Fragen oder Kommentare bringen dich zusätzlich aus dem Konzept. All diese Herausforderungen können dazu führen, dass du dich klein und unzulänglich fühlst und deine Kompetenzen als Bonusmama in Frage stellst.
 
 Doch lass dir eines sagen: *Du bist nicht allein mit diesen Gefühlen!* Es ist völlig normal, dass dich die neue Rolle zunächst überfordert. Viele Bonusmamas kämpfen mit ähnlichen Unsicherheiten und Selbstzweifeln.
 
-Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche – all das kann eine immense Belastung sein.
+Glaub mir, ich weiß, wie schwer es sein kann, sich bei Veranstaltungen wohlzufühlen und einen Platz zu finden. Die Blicke der anderen, die Fragen, die unausgesprochenen Vergleiche - all das kann eine immense Belastung sein.
 
 Aber du bist stark, auch wenn du dich gerade vielleicht nicht so fühlst. *Deine Gefühle sind valid und es ist wichtig, dass du sie wahrnimmst und ernst nimmst.* Sei nachsichtig mit dir selbst und erlaube dir, auch unsicher und verletzlich zu sein.
 
 ![Bonusmama atmet durch und sammelt Kraft vor einer Veranstaltung](/images/blog/so-meisterst-du-veranstaltungen-2.jpg)
 
+Patricia Papernow (2013) beschreibt diese Unsicherheit als Teil der "Insider-Outsider-Struktur" in Patchworkfamilien: Bei öffentlichen Anlässen wird die Frage, wer "drinnen" und wer "draußen" ist, besonders spürbar.
+
+---
+
 ## So holst du deinen Partner ins Boot
 
-Vielleicht hast du Angst, als schwach oder anstrengend zu wirken, wenn du sagst: *„Ich brauche deine Unterstützung"* oder *„Lass uns gemeinsam einen Plan machen".* Doch glaub mir, ein ehrliches Gespräch kann so befreiend sein und eure Beziehung stärken.
+Vielleicht hast du Angst, als schwach oder anstrengend zu wirken, wenn du sagst: *"Ich brauche deine Unterstützung"* oder *"Lass uns gemeinsam einen Plan machen".* Doch glaub mir, ein ehrliches Gespräch kann so befreiend sein und eure Beziehung stärken.
 
 Nimm dir die Zeit, in dich hineinzuhorchen: *Was brauchst du, um dich bei der nächsten Veranstaltung wohlzufühlen? Welche Rolle möchtest du einnehmen? Welche Ängste und Sorgen begleiten dich?*
 
@@ -48,13 +53,15 @@ Teile deine Gedanken mit deinem Partner und lade ihn ein, gemeinsam Lösungen zu
 
 Ein liebevoller Blick, eine ermutigende Berührung oder ein paar aufbauende Worte im richtigen Moment können Wunder wirken und dir helfen, gelassener zu bleiben.
 
-Scheue dich nicht, konkret um Unterstützung zu bitten. Sage: *„Es würde mir so viel bedeuten, wenn du mich den anderen vorstellen und in Gespräche einbeziehen könntest"* oder *„Lass uns vorher noch einmal in Ruhe über den Ablauf sprechen, das gibt mir Sicherheit".*
+Scheue dich nicht, konkret um Unterstützung zu bitten. Sage: *"Es würde mir so viel bedeuten, wenn du mich den anderen vorstellen und in Gespräche einbeziehen könntest"* oder *"Lass uns vorher noch einmal in Ruhe über den Ablauf sprechen, das gibt mir Sicherheit".*
 
 Dein Partner liebt dich und möchte, dass du dich wohlfühlst. Vertraue darauf, dass er für dich da ist und dich auffängt, wenn die Unsicherheit überhandnimmt.
 
 Gemeinsam seid ihr stark und könnt lernen, diese [Herausforderungen als Chance](/blog/patchworkfamilie-herausforderungen-und-chancen/) für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
 
-> „Wenn wir gemeinsam feiern, schaffen wir Erinnerungen, die uns ein Leben lang begleiten." – Sarah Weber
+> „Veranstaltungen sind der Moment, in dem Patchwork sichtbar wird. Und genau deshalb sind sie auch die Chance zu zeigen: Wir gehören zusammen — auf unsere eigene Art." — Sally Matthes, Coach für Bonusmamas
+
+---
 
 ## Selbstbewusst und strahlend: So meisterst du als Bonusmama jede Veranstaltung
 
@@ -67,6 +74,8 @@ Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausf�
 
 ![Patchworkfamilie feiert gemeinsam bei einem Schulfest](/images/blog/so-meisterst-du-veranstaltungen-3.jpg)
 
+---
+
 ## Hand in Hand durch herausfordernde Situationen
 
 - Sprich vorher mit deinem Partner über deine Sorgen und überlegt gemeinsam, wie ihr euch gegenseitig unterstützen könnt. Ein **geheimer Handschlag**, ein aufmunternder Blick oder ein Codewort können Wunder wirken, wenn die Unsicherheit überhandnimmt.
@@ -76,6 +85,10 @@ Mit jeder Veranstaltung wirst du sicherer werden und deine Rolle mit Stolz ausf�
 
 Vertraue darauf, dass dein Partner für dich da ist und an deiner Seite steht, komme was wolle. Ihr seid ein unschlagbares Team und werdet lernen, mit jeder Herausforderung umzugehen.
 
+Mehr darüber, wie du deinen Platz als [Stiefmutter](/blog/stiefmutter/) findest — auch in der Öffentlichkeit — erfährst du im Überblicksartikel. Und der Blick auf typische [Herausforderungen in der Patchworkfamilie](/blog/patchworkfamilie/) hilft, das große Ganze einzuordnen.
+
+---
+
 ## Zusammenfassung
 
-Veranstaltungen wie Schulfeste oder Familienfeiern können für Bonusmamas eine echte Herausforderung sein — Unsicherheit, Vergleiche mit der leiblichen Mutter und unklare Rollenerwartungen nagen am Selbstbewusstsein. Der Schlüssel liegt in guter Vorbereitung, offener Kommunikation mit dem Partner und einer bewussten inneren Haltung. Besprecht vorher gemeinsam, wie ihr euch gegenseitig unterstützen könnt, und gebt euch klare Zeichen für brenzlige Momente. Mit jeder Veranstaltung wächst dein Selbstvertrauen — und du wirst deine Rolle als Bonusmama mit immer mehr Leichtigkeit und Stolz ausfüllen.
+Veranstaltungen wie Schulfeste oder Familienfeiern können für Bonusmamas eine echte Herausforderung sein - Unsicherheit, Vergleiche mit der leiblichen Mutter und unklare Rollenerwartungen nagen am Selbstbewusstsein. Der Schlüssel liegt in guter Vorbereitung, offener Kommunikation mit dem Partner und einer bewussten inneren Haltung. Besprecht vorher gemeinsam, wie ihr euch gegenseitig unterstützen könnt, und gebt euch klare Zeichen für brenzlige Momente. Mit jeder Veranstaltung wächst dein Selbstvertrauen - und du wirst deine Rolle als Bonusmama mit immer mehr Leichtigkeit und Stolz ausfüllen.

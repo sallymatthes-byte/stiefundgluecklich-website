@@ -8,13 +8,13 @@ image: "/images/blog/taeglicher-kampf-bonusmama-1.jpg"
 imageAlt: "Erschöpfte Frau sitzt allein am Küchentisch — der unsichtbare Alltag als Bonusmama"
 metaTitle: "Der tägliche Kampf als Bonusmama: Was wirklich passiert"
 metaDescription: "Nicht die großen Krisen machen Bonusmamas fertig — sondern die kleinen unsichtbaren Momente. Was der tägliche Kampf wirklich bedeutet und was hilft."
-updated: 2026-03-07
+updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/2z6ZbjxrAUIz35SDlgXHzL"
 podcastTitle: "Der tägliche Kampf als Bonusmama: Was Bonusmamas wirklich erleben"
 podcastDescription: "Was erleben Bonusmamas wirklich jeden Tag? Sally spricht offen über den unsichtbaren Kampf — die kleinen Momente die wehtun, die Erschöpfung, und was du brauchst um durchzuhalten."
 ---
 
-**Der tägliche Kampf als Bonusmama hat nichts mit großen Dramen zu tun.** Es sind nicht die Scheidungskriege oder die Szenen mit der Ex, die dich langfristig fertigmachen. Es ist das Kleine. Das Unsichtbare. Die Momente, für die es kein Wort gibt — und die trotzdem *alles* kosten. Und ja — fast jede Frau in einer Patchworkfamilie kennt dieses Gefühl.
+**Der tägliche Kampf als Bonusmama hat nichts mit großen Dramen zu tun.** Es sind nicht die Scheidungskriege oder die Szenen mit der Ex, die dich langfristig fertigmachen. Es ist das Kleine. Das Unsichtbare. Die Momente, für die es kein Wort gibt — und die trotzdem *alles* kosten. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in den meisten davon kennt die Bonusmama genau dieses Gefühl. Wednesday Martin beschreibt in „Stepmonster" (2009), dass Stiefmütter eine der am wenigsten anerkannten Familienrollen überhaupt einnehmen.
 
 > „Ich sitze am Abendbrottisch, alle reden, und ich merke: Niemand hat mich was gefragt. Nicht eine einzige Frage. Und ich denke — zähle ich hier eigentlich?" – Eine Bonusmama
 
@@ -113,6 +113,10 @@ Und weißt du was? Diese Momente waren keine Schwäche. Sie waren ehrlich. Sie w
 
 **Du bist nicht verrückt**, weil dich die kleinen Dinge treffen. Du bist menschlich. Und du verdienst es, gesehen zu werden — nicht trotz deiner Rolle als Bonusmama, sondern *in* dieser Rolle. Auch deine [Glaubenssätze als Bonusmama](/blog/glaubenssaetze-als-bonusmama/) spielen dabei eine große Rolle — es lohnt sich, genauer hinzuschauen.
 
+
+---
+
+Wenn du mehr über die [Stiefmutter-Rolle](/blog/stiefmutter/) oder das Leben in einer [Patchworkfamilie](/blog/patchworkfamilie/) erfahren willst, findest du dort weitere Orientierung.
 
 ---
 

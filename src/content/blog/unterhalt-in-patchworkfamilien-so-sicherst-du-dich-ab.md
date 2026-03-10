@@ -3,7 +3,7 @@ title: "Unterhalt in Patchworkfamilien: So sicherst du dich ab!"
 description: "Finanzen und Unterhalt in Patchworkfamilien: Erfahre, wie du dich finanziell absicherst, ohne dich ausgenutzt zu fühlen – egal, wo du lebst!"
 category: "rolle-identitaet"
 date: 2025-04-18
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Unterhalt in Patchworkfamilien: Das musst du wissen"
 metaDescription: "Unterhalt, Kindergeld, Steuern — wie Finanzen deine Patchworkfamilie beeinflussen. Deutschland, Österreich, Schweiz im Vergleich."
 heroImage: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg"
@@ -11,12 +11,14 @@ image: "/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-1.jpg
 imageAlt: "Unterhalt in Patchworkfamilien"
 ---
 
-**Unterhalt ist in Patchworkfamilien ein Dauerthema — und als Bonusmama bist du finanziell oft stärker betroffen, als du denkst.** Wenn ein großer Teil des Familieneinkommens an Unterhaltszahlungen geht, bleibt für euch als Paar wenig übrig. Hier erfährst du, wie du dich absicherst.
+**Unterhalt ist in Patchworkfamilien ein Dauerthema — und als Bonusmama bist du finanziell oft stärker betroffen, als du denkst.** In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und in vielen davon bestimmen Unterhaltszahlungen maßgeblich den finanziellen Spielraum. Wenn ein großer Teil des Familieneinkommens an Unterhaltszahlungen geht, bleibt für euch als Paar wenig übrig. Hier erfährst du, wie du dich als Bonusmama in einer [Patchworkfamilie](/blog/patchworkfamilie/) finanziell absicherst.
 
 
 Warum bleibt bei euch als Paar so wenig übrig – obwohl dein Partner so viel zahlt?
 
 Kennst du das? Monat für Monat überweist dein Partner Unterhalt, das Kindergeld fließt zur Ex, und irgendwie bleibt für euch als Paar immer zu wenig übrig. Während andere Patchwork-Familien scheinbar finanziell gut zurechtkommen, fühlt es sich für euch an, als würdet ihr kaum vorankommen.
+
+---
 
 ## Das betrifft mich doch nicht!?
 
@@ -35,6 +37,10 @@ Hast du dir schon einmal Gedanken darüber gemacht, wie das Land, in dem du lebs
 Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und der Schweiz werfen.
 
 ![Unterhalt in Patchworkfamilien — Stimmungsbild](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-2.jpg)
+
+> „Finanzen in der Patchworkfamilie sind kein Tabuthema — sie sind das Fundament für alles andere. Wer darüber schweigt, riskiert nicht nur die Beziehung, sondern auch die eigene finanzielle Sicherheit." — Sally Matthes, Coach für Bonusmamas
+
+---
 
 ## Deutschland, Österreich, Schweiz – wer bekommt was?
 
@@ -64,6 +70,8 @@ Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und 
 
 ![Unterhalt in Patchworkfamilien — Stimmungsbild](/images/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab-3.jpg)
 
+---
+
 ## Warum du dich finanziell oft benachteiligt fühlst
 
 - **Fehlender finanzieller Spielraum** – Monat für Monat geht ein großer Teil des Einkommens an die Ex oder für die Kinder, während du dich fragst, warum für euch als Paar kaum etwas übrig bleibt.
@@ -72,6 +80,8 @@ Lass uns jetzt einen Blick auf die Unterschiede in Deutschland, Österreich und 
 - **Das Gefühl, zurückzustecken** – Vielleicht hast du das Gefühl, dass dein Leben von Verpflichtungen bestimmt wird, die du gar nicht selbst eingegangen bist – und dass deine eigenen Wünsche hintenanstehen.
 
 Aber: Du hast das Recht, deine [finanzielle Situation](/blog/finanzielle-beteiligung/) aktiv mitzugestalten!
+
+---
 
 ## Wie du als Bonusmama finanzielle Sicherheit gewinnst
 
@@ -84,6 +94,10 @@ Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend m
 **Der Schlüssel zu finanzieller Sicherheit in der Patchworkfamilie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
 
 Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) hat ihre eigenen finanziellen Herausforderungen.
+
+Mehr über die [Stiefmutter-Rolle](/blog/stiefmutter/) und typische Herausforderungen findest du im Überblicksartikel.
+
+---
 
 ## Zusammenfassung
 

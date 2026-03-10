@@ -96,7 +96,7 @@ Wenn der Teenager gegen seinen Papa rebelliert und du eingreifst, bist du raus. 
 
 Teenager in Patchworkfamilien brauchen vor allem drei Dinge: Verlässlichkeit, Raum und Erwachsene, die ihre eigenen Themen bearbeiten. Deine Aufgabe als Bonusmama ist nicht, die perfekte Stiefmutter zu sein. Deine Aufgabe ist, *präsent* zu bleiben — auch wenn es sich manchmal anfühlt, als würdest du gegen eine Wand reden.
 
-Die gute Nachricht: Teenager werden erwachsen. Und viele von ihnen kommen in ihren Zwanzigern zurück und sagen: „Danke, dass du geblieben bist."
+Die gute Nachricht: Teenager werden erwachsen. Und viele von ihnen kommen in ihren Zwanzigern zurück und sagen: „Danke, dass du geblieben bist." Mehr über die [Stiefmutter-Rolle](/blog/stiefmutter/) und was eine gesunde [Patchworkfamilie](/blog/patchworkfamilie/) ausmacht, findest du in den Überblicksartikeln.
 
 <!-- FAQ_START
 ## Häufige Fragen
