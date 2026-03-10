@@ -1,0 +1,40 @@
+---
+/**
+ * PodcastSeries Schema (JSON-LD)
+ * Tells Google this page represents a podcast show.
+ * Spec: https://schema.org/PodcastSeries
+ */
+---
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "Bonusgeflüster",
+  "description": "Der Podcast für Bonusmamas, die ihren eigenen Weg finden wollen. Jede Woche echte Geschichten, ehrliche Gespräche und praktische Impulse für Stiefmütter in Patchworkfamilien.",
+  "url": "https://stiefundgluecklich.de/podcast/",
+  "webFeed": "https://feeds.buzzsprout.com/2601695.rss",
+  "inLanguage": "de",
+  "genre": ["Parenting", "Self-Help", "Family"],
+  "author": {
+    "@type": "Person",
+    "name": "Sally Matthes",
+    "url": "https://stiefundgluecklich.de/about/",
+    "jobTitle": "Systemischer Coach & Erziehungswissenschaftlerin",
+    "sameAs": [
+      "https://www.instagram.com/stiefundgluecklich/",
+      "https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm",
+      "https://www.youtube.com/@stiefundgluecklich"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "StiefundGlücklich",
+    "url": "https://stiefundgluecklich.de/"
+  },
+  "image": "https://stiefundgluecklich.de/images/sally-portrait.jpg",
+  "sameAs": [
+    "https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm",
+    "https://podcasts.apple.com/podcast/bonusgefluester/id1234567890",
+    "https://www.youtube.com/@stiefundgluecklich"
+  ]
+})} />
