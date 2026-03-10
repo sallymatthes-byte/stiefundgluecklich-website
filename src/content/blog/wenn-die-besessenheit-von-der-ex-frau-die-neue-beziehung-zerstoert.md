@@ -3,7 +3,7 @@ title: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergan
 description: "Macht die Ex-Frau deine neue Beziehung kaputt? Erfahre, wie du die Kontrolle zurückgewinnst und endlich glücklich wirst"
 category: "ex-und-system"
 date: 2024-04-26
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Besessen von der Ex-Frau? So stoppst du den Kreislauf"
 metaDescription: "Ständig an die Ex-Frau deines Partners denken? Warum diese Besessenheit entsteht und wie du sie endlich loslässt."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
@@ -104,7 +104,9 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 
 ![Paar hält Händchen auf einem Waldweg - gemeinsam stark trotz Patchwork-Herausforderungen](/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-3.jpg)
 
-## Dein Weg zur harmonischen Patchworkfamilie
+---
+
+## Dein Weg zur harmonischen [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/)
 
 **Das ist keine Utopie.** Ich erlebe in meiner Arbeit jeden Tag, wie Bonusmamas genau diese Transformation durchlaufen:
 
@@ -112,6 +114,8 @@ Mit neuer Klarheit und innerer Stärke kannst du nun beginnen, die Kommunikation
 - Ihre Beziehung wird stärker als je zuvor
 - Sie finden ihren eigenen, selbstbewussten Platz in der Familie
 - Störversuche von außen prallen an ihnen ab
+
+---
 
 ## Durchbreche jetzt den Teufelskreis
 

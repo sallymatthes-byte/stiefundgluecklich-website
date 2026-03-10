@@ -8,13 +8,13 @@ image: "/images/blog/was-papas-in-patchworkfamilien-denken-1.jpg"
 imageAlt: "Paar geht zusammen durch herbstlichen Wald, warme Erdtöne"
 metaTitle: "Was Papas in Patchworkfamilien wirklich denken"
 metaDescription: "Zum ersten Mal spricht auch der Papa: Sascha erzählt ehrlich über seine Perspektive als Vater in einer Patchworkfamilie — was er dachte, fühlte und erst spät verstand."
-updated: 2026-03-07
+updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/5y8QkvhAj9cRsoOGYFUdTE"
 podcastTitle: "Was Papas in Patchwork-Familien wirklich denken"
 podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus Sicht des Papas anfühlt — und was der echte Wendepunkt in ihrer Beziehung war."
 ---
 
-**In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.
+**In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Laut Bray & Kelly (1998) scheitern viele Patchwork-Beziehungen daran, dass der Vater das Ausmaß der Veränderung für seine neue Partnerin unterschätzt. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024) — und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.
 
 
 ---
@@ -24,6 +24,8 @@ podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus
 Als systemischer Coach und Bonusmama spreche ich in meinem Podcast regelmäßig mit Bonusmamas. Mit Frauen, die sich öffnen, die erzählen, wie es sich anfühlt, in ein bestehendes Familiensystem zu kommen. Aber weißt du, was ich fast nie höre? **Die Seite des Papas.**
 
 Nicht weil Papas nichts zu sagen hätten. Sondern weil sie oft selbst nicht wissen, *was* sie sagen sollen. Weil sie das Gefühl haben, es läuft doch irgendwie. Weil sie nicht verstehen, warum ihre Partnerin manchmal so *verletzt* ist — obwohl sie doch alles geben.
+
+> „Der Papa sieht keine Veränderung, weil sich für ihn nichts verändert hat. Für dich hat sich alles verändert. Und genau diese Lücke müsst ihr überbrücken.“ — Sally Matthes, Coach für Bonusmamas
 
 Genau deshalb ist diese Folge mit Jani und Sascha so besonders. Jani war Coaching-Kundin bei mir. Und zum ersten Mal sitzt nicht nur die Bonusmama vor dem Mikro — sondern auch der Papa. Sascha erzählt offen, was er dachte, was er fühlte und was er erst spät verstanden hat. Das ist selten. Und es ist *wertvoll*.
 
@@ -135,6 +137,8 @@ Das klingt einfach. Ist es aber nicht. Denn als Bonusmama hast du oft das Gefüh
 
 Aber genau das stimmt nicht. Deine Beziehung zu deinem Partner und eure Beziehung zu den Kindern sind **zwei verschiedene Dinge**. Und wenn die Paarbeziehung stark ist, profitieren am Ende alle davon — auch die Kinder. Das ist kein Egoismus. Das ist die [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/), die eine Patchworkfamilie braucht.
 
+
+---
 
 ---
 

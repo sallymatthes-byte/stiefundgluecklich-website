@@ -66,7 +66,7 @@ Ich weiß, das ist ein heikles Thema. Und ja, es gibt Ex-Partnerinnen, die das S
 
 **Als ich aufgehört habe, sie als Gegnerin zu sehen, hat sich die Dynamik verändert.** Nicht über Nacht. Nicht dramatisch. Aber spürbar. Weniger Kampf, mehr Koexistenz.
 
-Das heißt nicht, dass du alles akzeptieren musst. Grenzen sind wichtig — besonders wenn die Ex toxisch agiert. Aber der Reflex, sie per se zur Feindin zu erklären, hat mir nur eines gebracht: *Erschöpfung*. Lies auch den Artikel über [die Rolle von Ex-Partnern in Patchworkfamilien](/blog/die-rolle-von-expartnern-in-patchworkfamilien/), um dieses Thema tiefer zu verstehen.
+Das heißt nicht, dass du alles akzeptieren musst. Grenzen sind wichtig — besonders wenn die Ex toxisch agiert. Aber der Reflex, sie per se zur Feindin zu erklären, hat mir nur eines gebracht: *Erschöpfung*. Als [Stiefmutter](/blog/stiefmutter/) musst du lernen, diese Grenzen bewusst zu setzen. Lies auch den Artikel über [die Rolle von Ex-Partnern in Patchworkfamilien](/blog/die-rolle-von-expartnern-in-patchworkfamilien/), um dieses Thema tiefer zu verstehen.
 
 ---
 

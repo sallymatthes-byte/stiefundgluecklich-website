@@ -3,7 +3,7 @@ title: "Konflikte mit der leiblichen Mutter"
 description: "Häufig gibt es Konflikte zwischen Bonusmama und leiblicher Mutter. Erfahre in diesem Beitrag, wie ein harmonisches Miteinander gelingt."
 category: "ex-und-system"
 date: 2023-12-04
-updated: 2026-03-07
+updated: 2026-03-10
 metaTitle: "Bonusmama & leibliche Mutter: Besser miteinander"
 metaDescription: "Ständig Konflikte mit der leiblichen Mutter? 5 Wege, wie Bonusmama und Kindsmutter besser miteinander auskommen."
 heroImage: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-1.jpg"
@@ -11,7 +11,7 @@ image: "/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-ausko
 imageAlt: "Bonusmama und leibliche Mutter im Gespräch über Erziehung"
 ---
 
-**Das Verhältnis zwischen Bonusmama und leiblicher Mutter bestimmt maßgeblich, wie friedlich der Patchwork-Alltag für alle Beteiligten verläuft.** Ein respektvolles Miteinander ist möglich — auch wenn ihr nicht beste Freundinnen werdet. Hier erfährst du, wie der erste Schritt gelingt.
+**Das Verhältnis zwischen Bonusmama und leiblicher Mutter bestimmt maßgeblich, wie friedlich der Patchwork-Alltag für alle Beteiligten verläuft.** In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und laut Patricia Papernow (2013) ist die Beziehung zwischen [Stiefmutter](/blog/stiefmutter/) und Kindsmutter einer der größten Hebel für das Familienklima. Als systemischer Coach erlebe ich: Ein respektvolles Miteinander ist möglich — auch wenn ihr nicht beste Freundinnen werdet.
 
 
 „Das hat sie jetzt nicht wirklich getan!", rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
@@ -22,11 +22,15 @@ Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) kann man sich manch
 
 In diesem Blogartikel möchte ich einen Blick auf diese weit verbreitete Herausforderung werfen.
 
+> „Ihr müsst keine Freundinnen werden. Aber wenn ihr es schafft, euch gegenseitig als Mutter und Bezugsperson zu respektieren, verändert das alles — vor allem für das Kind.“ — Sally Matthes, Coach für Bonusmamas
+
 Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchworkfamilie oder einfach nur jemand, der mehr über diese Familienkonstellationen erfahren möchte – ich lade dich ein, mit mir auf diese Reise der Erkenntnis zu gehen.
 
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt“ an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
+
+---
 
 ---
 
@@ -42,6 +46,8 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 
 ![Zwei Frauen führen ein offenes Gespräch an einem Tisch](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-2.jpg)
 
+---
+
 ## Ursachen für Konflikte
 
 1. **Unterschiedliche Erziehungsstile:** Jeder Mensch hat seine eigene Art, Kinder zu erziehen, und manchmal können diese Stile stark voneinander abweichen. Wenn die Bonusmama und die leibliche Mutter unterschiedliche Ansichten darüber haben, was das Beste für die Kinder ist, kann dies zu Konflikten führen.
@@ -50,6 +56,8 @@ Im nächsten Abschnitt werden wir uns die Ursachen dieser Konflikte genauer anse
 4. **Unsicherheiten und Rollenkonflikte:** Die Bonusmama kann sich unsicher fühlen, wie sie sich in das bestehende Familiengefüge einfügen soll, ohne Grenzen zu überschreiten. Sie könnte Schwierigkeiten haben, ihre Rolle in der Familie zu definieren und zu verstehen.
 
 Indem wir diese Ursachen erkennen und verstehen, können wir beginnen, effektive Strategien zur Lösung dieser Konflikte zu entwickeln. Im nächsten Abschnitt werden wir durch die systemische Brille schauen, um ein tieferes Verständnis für die Dynamik in Patchworkfamilien zu erlangen.
+
+---
 
 ## Durch die systemische Brille schauen
 
@@ -61,6 +69,8 @@ Ein weiterer wichtiger Punkt ist das Verständnis, dass Konflikte oft Symptome t
 
 Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte entstehen und wie sie sich auf die gesamte Familie auswirken. Dieses Verständnis ist ein erster Schritt hin zu effektiven Strategien zur Konfliktlösung.
 
+---
+
 ## Warum Kindsmütter sich bedroht fühlen können – und was Bonusmamas tun können
 
 - *Zeige Verständnis und Einfühlungsvermögen* für ihre Situation und Gefühle.
@@ -68,6 +78,8 @@ Durch den systemischen Ansatz können wir besser verstehen, warum Konflikte ents
 - *Betone, dass du ihre Rolle als Mutter respektierst* und sie nicht ersetzen möchtest.
 
 ![Mutter und Bonusmama reichen sich die Hand zum gemeinsamen Gespräch](/images/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen-3.jpg)
+
+---
 
 ## Tipps zur Verbesserung des Verhältnisses
 
@@ -78,6 +90,8 @@ Hier sind einige Tipps, die helfen können:
 - **Suche nach gemeinsamem Boden:** Konzentriert euch auf das, was ihr gemeinsam habt – vor allem die Liebe und Sorge für die Kinder. Es mag Unterschiede in Erziehungsstilen und Ansichten geben, aber am Ende des Tages wollen alle das Beste für die Kinder.
 - **Grenzen setzen:** Es ist wichtig, klare Grenzen zu setzen und die Rollen und Verantwortlichkeiten jeder Partei zu definieren. Dies kann helfen, Missverständnisse und Konflikte zu vermeiden.
 - **Unterstützung suchen:** Es kann hilfreich sein, Unterstützung von außen zu suchen, zum Beispiel von einem Coach, Therapeuten oder einer Selbsthilfegruppe. Diese können wertvolle Ratschläge und Perspektiven bieten und dir helfen, effektive Strategien zur Konfliktlösung zu entwickeln.
+
+---
 
 ## Zusammenfassung
 

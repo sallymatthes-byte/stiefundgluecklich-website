@@ -8,7 +8,7 @@ image: "/images/blog/warum-stiefmuetter-ausgedient-haben-1.jpg"
 imageAlt: "Frau und Kind lachen zusammen in der Natur, warme Erdtöne"
 metaTitle: "Stiefmutter war gestern | Moderne Begriffe für Bonusmamas"
 metaDescription: "Der Begriff Stiefmutter stammt aus dem Althochdeutschen und ist längst überholt. Entdecke moderne Alternativen wie Bonusmama, Herzensmama und Co-Parent."
-updated: 2026-03-07
+updated: 2026-03-10
 podcastEpisode: "https://open.spotify.com/episode/6nYEjVUKpR39Ku0am2rTqW"
 podcastTitle: "Warum Stiefmütter ausgedient haben - Neue Begriffe und Chancen für Patchworkfamilien"
 podcastDescription: "Weshalb der Begriff Stiefmutter ausgedient hat und welche modernen Alternativen es für Patchworkfamilien gibt."
@@ -17,6 +17,8 @@ podcastDescription: "Weshalb der Begriff Stiefmutter ausgedient hat und welche m
 **Der Begriff „Stiefmutter" stammt aus dem Althochdeutschen und bedeutet wörtlich „Ersatzmutter" — ein Konzept, das in modernen Patchworkfamilien keinen Platz mehr hat.** Heute lebt die leibliche Mutter in den allermeisten Fällen. Niemand muss ersetzt werden. Was es braucht, sind neue Worte, die beschreiben, was du *wirklich* bist: eine zusätzliche Bezugsperson im Leben eines Kindes.
 
 Du sitzt am Küchentisch, das Bonuskind macht Hausaufgaben, und jemand fragt: „Bist du die Stiefmutter?" Und du merkst, wie sich alles in dir zusammenzieht. Weil dieses Wort nicht beschreibt, wer du bist. Es beschreibt ein Märchenbild, das mit deinem Alltag *nichts* zu tun hat. Und trotzdem klebt es an dir wie ein Etikett, das jemand anderes aufgedruckt hat. Ich bin Sally, systemischer Coach und selbst Bonusmama — und dieses Thema liegt mir besonders am Herzen.
+
+> „Du bist keine Stiefmutter. Du bist eine Frau, die sich entschieden hat, für Kinder da zu sein, die nicht ihre eigenen sind. Das ist kein Märchen — das ist Mut.“ — Sally Matthes, Coach für Bonusmamas
 
 ---
 
