@@ -29,9 +29,9 @@ Laut Patricia Papernow (2013), einer der führenden Expertinnen für Stieffamili
 
 ---
 
-## Was die Insider-Outsider-Dynamik wirklich ist
-
 ![Frau steht nachdenklich am Fenster während im Hintergrund eine Familie zusammen spielt](/images/blog/aussenseiter-patchworkfamilie-2.jpg)
+
+## Was die Insider-Outsider-Dynamik wirklich ist
 
 Patricia Papernow beschreibt die Insider-Outsider-Dynamik als den strukturellen Kern jeder Stieffamilie. Die „Insider" — dein Partner und seine Kinder — teilen eine gemeinsame Geschichte: Rituale, Erinnerungen, Verluste, eine emotionale Sprache, die vor dir existierte.
 
@@ -73,9 +73,9 @@ Du hast eine Meinung zu [Erziehungsfragen](/blog/unterschiedliche-erziehungsmeth
 
 Elternabend. Schulaufführung. Geburtstag der Großeltern. Überall dieselbe Frage: *Wer bist du in dieser Familie?* Keine Mutter. Keine Tante. Keine Freundin. [Eine Rolle ohne Namen](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
 
-### 4. Im Bett: Die emotionale Distanz
-
 ![Paar sitzt auf einer Bank mit Abstand zueinander und schaut in verschiedene Richtungen](/images/blog/bleiben-oder-gehen-2.jpg)
+
+### 4. Im Bett: Die emotionale Distanz
 
 Abends liegt ihr nebeneinander. Aber die Nähe ist weg. Du bist *müde* vom Außenseitergefühl. Er ist *genervt*, weil du „schon wieder" ein Problem siehst. Die Insider-Outsider-Dynamik frisst sich in eure [Partnerschaft](/blog/zwischen-partnerschaft-und-bonusmama/) — leise, aber stetig.
 

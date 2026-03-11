@@ -31,9 +31,9 @@ Laut einer Analyse des Statistischen Bundesamts (2024) leben in Deutschland rund
 
 ---
 
-## Warum 50/50 in Patchworkfamilien nicht fair ist
-
 ![Paar plant gemeinsam das Familienbudget mit Notizbuch und Kaffee](/images/blog/finanzielle-beteiligung-2.jpg)
+
+## Warum 50/50 in Patchworkfamilien nicht fair ist
 
 In einer klassischen Beziehung ohne Kinder ist 50/50 oft der einfachste Weg. Aber in einer [Patchworkfamilie](/blog/patchworkfamilie/) bedeutet 50/50 etwas anderes:
 

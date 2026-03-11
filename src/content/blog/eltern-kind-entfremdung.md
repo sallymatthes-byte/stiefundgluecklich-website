@@ -29,9 +29,9 @@ Studien zeigen, dass Eltern-Kind-Entfremdung in etwa 11–15 % aller hochstritti
 
 ---
 
-## Was ist Eltern-Kind-Entfremdung — und was ist es nicht?
-
 ![Kind sitzt allein auf einer Treppe und blickt nachdenklich nach unten](/images/blog/eltern-kind-entfremdung-2.jpg)
+
+## Was ist Eltern-Kind-Entfremdung — und was ist es nicht?
 
 Der Begriff klingt klinisch. Die Realität ist alles andere als das. Eltern-Kind-Entfremdung bedeutet, dass ein Kind ohne nachvollziehbaren Grund einen Elternteil ablehnt — oft in einer Intensität, die nicht zum tatsächlichen Verhalten dieses Elternteils passt.
 
@@ -71,9 +71,9 @@ Du bist nicht schuld. Und du bist nicht machtlos. Aber du bist in einer Position
 
 ---
 
-## Was du als Bonusmama konkret tun kannst
-
 ![Zwei Hände halten behutsam ein zerbrochenes Herz zusammen — Symbol für Heilung in der Patchworkfamilie](/images/blog/eltern-kind-entfremdung-3.jpg)
+
+## Was du als Bonusmama konkret tun kannst
 
 ### 1. Erkenne die Grenzen deiner Rolle an
 

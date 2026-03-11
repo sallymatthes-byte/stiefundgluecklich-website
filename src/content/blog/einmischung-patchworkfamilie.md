@@ -109,20 +109,16 @@ Einmischung in der Patchworkfamilie ist mehr als lästig — sie greift deine Ro
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Wie gehe ich mit Einmischung der Schwiegereltern in der Patchworkfamilie um?</summary>
+## Häufige Fragen
+
+### Wie gehe ich mit Einmischung der Schwiegereltern in der Patchworkfamilie um?
 
 Unterscheide zuerst, ob es Unsicherheit oder Kontrolle ist. Bei Unsicherheit hilft Einladung: „Ihr seid wichtig — vertraut uns." Bei Grenzverletzungen setzt dein Partner die Grenze. Rechtfertigung verstärkt die Einmischung — ein klares, freundliches Stopp wirkt besser.
-</details>
 
-<details>
-<summary>Was mache ich, wenn die Ex sich ständig in unseren Haushalt einmischt?</summary>
+### Was mache ich, wenn die Ex sich ständig in unseren Haushalt einmischt?
 
 Dein Partner muss die Grenze setzen — nicht du. Die Botschaft: „Wir entscheiden, wie unser Haushalt läuft." Bei anhaltender Einmischung kann eine klare Kommunikationsregelung helfen (z. B. nur schriftlich, nur zu bestimmten Themen).
-</details>
 
-<details>
-<summary>Wie setze ich Grenzen, ohne als die Schwierige zu gelten?</summary>
+### Wie setze ich Grenzen, ohne als die Schwierige zu gelten?
 
 Grenzen setzen und gemocht werden schließen sich nicht aus. Der Schlüssel ist der Ton: freundlich, klar, ohne Rechtfertigung. „Danke für deine Meinung. Wir haben das besprochen." Wer darauf negativ reagiert, hat ein Problem mit Grenzen — nicht du.
-</details>

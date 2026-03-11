@@ -43,9 +43,9 @@ Patricia Papernow (2013) beschreibt das als typisches Muster in Stiefmutterfamil
 
 ---
 
-## Wie du erkennst, was du wirklich brauchst
-
 ![Leerer Stuhl an einem gedeckten Familientisch am Abend](/images/blog/rueckzug-als-bonusmama-2.jpg)
+
+## Wie du erkennst, was du wirklich brauchst
 
 Bevor du entscheidest, ob du mitgehst oder zu Hause bleibst, stell dir eine ehrliche Frage: **Gehe ich mit, weil ich will — oder weil ich Angst habe, was passiert, wenn ich nicht gehe?**
 
@@ -88,9 +88,9 @@ Rückzug ist keine Absage an die Familie. Aber es braucht die richtige Kommunika
 
 ---
 
-## Der Unterschied zwischen Rückzug und Abgrenzung
-
 ![Frau geht allein einen Waldweg im Herbst entlang, goldenes Licht](/images/blog/rueckzug-als-bonusmama-3.jpg)
+
+## Der Unterschied zwischen Rückzug und Abgrenzung
 
 Rückzug und Abgrenzung werden oft verwechselt — sind aber grundverschieden.
 

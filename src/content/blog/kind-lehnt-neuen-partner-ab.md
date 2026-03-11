@@ -108,20 +108,16 @@ Dein Kind lehnt deinen neuen Partner ab — und das fühlt sich an wie eine pers
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Wie lange dauert es, bis ein Kind den neuen Partner akzeptiert?</summary>
+## Häufige Fragen
+
+### Wie lange dauert es, bis ein Kind den neuen Partner akzeptiert?
 
 Studien zeigen, dass Kinder im Schnitt zwei bis fünf Jahre brauchen, um sich an eine neue Familienstruktur anzupassen. Manche Kinder sind schneller, andere brauchen länger. Entscheidend ist nicht die Dauer, sondern dass das Kind sich dabei sicher fühlt.
-</details>
 
-<details>
-<summary>Sollte ich mein Kind zwingen, nett zu meinem Partner zu sein?</summary>
+### Sollte ich mein Kind zwingen, nett zu meinem Partner zu sein?
 
 Nein. Respektvolles Verhalten darfst du einfordern — aber Zuneigung nicht erzwingen. Dein Kind darf seine Gefühle haben. Was hilft: klare Verhaltensregeln ohne emotionalen Druck.
-</details>
 
-<details>
-<summary>Was mache ich, wenn mein Partner die Ablehnung nicht aushält?</summary>
+### Was mache ich, wenn mein Partner die Ablehnung nicht aushält?
 
 Sprich offen mit deinem Partner über die Hintergründe der Ablehnung. Erkläre den Loyalitätskonflikt. Ein Partner, der versteht, dass es nicht persönlich ist, kann gelassener reagieren — und genau das braucht dein Kind.
-</details>

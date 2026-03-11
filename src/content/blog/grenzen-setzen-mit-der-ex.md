@@ -29,9 +29,9 @@ Laut Patricia Papernow (2013) gehören Grenzthemen rund um die Ex-Partnerin zu d
 
 ---
 
-## Warum Grenzen setzen mit der Ex so schwer fällt
-
 ![Zwei Frauen in einem schwierigen Gespräch draußen in herbstlicher Atmosphäre](/images/blog/grenzen-setzen-mit-der-ex-2.jpg)
+
+## Warum Grenzen setzen mit der Ex so schwer fällt
 
 Du willst keinen Streit. Du willst nicht die Böse sein. Und du willst auf keinen Fall, dass die Kinder darunter leiden. Also schluckst du runter — wieder und wieder.
 
@@ -77,9 +77,9 @@ Das ist vielleicht die härteste Lektion. Die Ex muss dich nicht mögen. Dein Pa
 
 Laut Wednesday Martin (2009) ist die gesellschaftliche Erwartung an Stiefmütter, „sich zurückzunehmen und es allen recht zu machen", einer der Hauptgründe für emotionale Erschöpfung in Patchworkfamilien.
 
-### 5. Erstellt gemeinsam Kommunikationsregeln
-
 ![Frau schreibt nachdenklich in ein Notizbuch am Küchentisch mit warmem Licht](/images/blog/grenzen-setzen-mit-der-ex-3.jpg)
+
+### 5. Erstellt gemeinsam Kommunikationsregeln
 
 Setzt euch hin — du und dein Partner — und legt fest:
 

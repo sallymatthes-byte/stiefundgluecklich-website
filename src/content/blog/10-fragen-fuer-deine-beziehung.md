@@ -38,6 +38,8 @@ Dieses Hin und Her war nicht nur für mich, sondern auch für die Kinder unglaub
 
 ![Paar sitzt zusammen und führt ein tiefes Gespräch über ihre Patchworkfamilie](/images/blog/10-fragen-fuer-deine-beziehung-2.jpg)
 
+---
+
 ## Tiefe Verbundenheit und Klarheit
 
 Ich war überrascht, wie tiefgründig unsere Gespräche wurden und welche Themen wir anschnitten, die bisher nie zur Sprache gekommen waren. Wir lernten uns noch einmal ganz neu kennen und schafften es, uns wieder als Paar zu verbinden. Dieses Gefühl der Verbundenheit und des Verständnisses weckte in mir den Wunsch, noch tiefer in unsere Beziehung einzutauchen.
@@ -50,6 +52,8 @@ Sie halfen uns, eine ehrliche Bestandsaufnahme zu machen, Veränderungen anzusto
 
 > „In meiner Coaching-Praxis erlebe ich immer wieder: Das Gespräch, das alles verändert, beginnt mit einer einzigen ehrlichen Frage — nicht mit einer Lösung." — Sally Matthes, Coach für Bonusmamas
 
+---
+
 ## Nicht immer eitel Sonnenschein
 
 Eine große Herausforderung war es, die Bedürfnisse aller Familienmitglieder unter einen Hut zu bringen. Jeder hatte seine eigenen Vorstellungen und Wünsche, die oft im Widerspruch zueinander standen. **Als Bonusmama musste ich lernen, meine eigenen Bedürfnisse zu erkennen und zu äußern, ohne dabei die Kinder oder meinen Partner zu vernachlässigen.** Auch die Rollenverteilung in unserer Patchworkfamilie war nicht immer klar. Laut dem Statistischen Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamilien in Deutschland — und in jeder einzelnen kämpfen [Stiefmütter](/blog/stiefmutter/) mit genau diesen Rollenfragen. Ich musste meinen Platz finden und herausfinden, welche Aufgaben und Verantwortlichkeiten ich übernehmen konnte und wollte. Gleichzeitig musste ich akzeptieren, dass es Bereiche gab, in denen ich als Bonusmama keinen Einfluss hatte und die allein zwischen meinem Partner und seiner [Ex-Partnerin](/blog/die-rolle-von-expartnern-in-patchworkfamilien/) geklärt werden mussten.
@@ -59,6 +63,8 @@ All diese Herausforderungen erforderten ein hohes Maß an Reflexion, Empathie un
 Und was wir dafür getan haben, erfährst du im nächsten Abschnitt.
 
 ![Bonusmama reflektiert über Herausforderungen in der Patchworkfamilie](/images/blog/10-fragen-fuer-deine-beziehung-3.jpg)
+
+---
 
 ## Die 10 Fragen, die alles verändern
 
@@ -89,6 +95,8 @@ Der dritte Schritt legt den Fokus auf eine verbesserte Kommunikation und ein tie
 
 Diese drei Schritte und die dazugehörigen Fragen bieten eine wertvolle Orientierung auf dem Weg zu einer erfüllten Partnerschaft als Bonusmama. Sie laden dazu ein, sich Zeit für tiefgründige Gespräche zu nehmen, offen und ehrlich miteinander zu kommunizieren und gemeinsam an einer positiven Zukunft für die Patchworkfamilie zu arbeiten.
 
+---
+
 ## Ein neues Miteinander
 
 **Die Fragen zur Analyse haben uns geholfen, uns unserer eigenen Prägungen und Verhaltensmuster bewusst zu werden.** Wir haben erkannt, welche Werte uns wichtig sind und wie wir diese an die Kinder weitergeben möchten. Auch das Ansprechen von Sorgen und Ängsten hat dazu beigetragen, dass wir uns näher gekommen sind und gemeinsam nach Lösungen suchen konnten.
@@ -102,35 +110,19 @@ Insgesamt hat die Beschäftigung mit den drei Schritten und den Fragen dazu gef�
 Nimm dir die Zeit, diese Fragen gemeinsam mit deinem Partner durchzugehen. Ihr werdet überrascht sein, wie viel Nähe und Klarheit daraus entstehen kann – selbst nach Jahren zusammen.
 
 <!-- FAQ_START
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Welche Fragen stärken die Beziehung in einer Patchworkfamilie?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fragen wie 'Welche Werte möchtest du den Kindern mitgeben?', 'Was ist deine größte Sorge in unserer Patchwork-Familie?' und 'Wie viel Paarzeit ist für dich genug?' helfen, tiefgründige Gespräche zu führen und die Beziehung zu stärken."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wie können Bonusmamas die Kommunikation mit dem Partner verbessern?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Durch gezielte Fragen, aktives Zuhören und regelmäßige Paargespräche. Es hilft, offen über Ängste und Wünsche zu sprechen, ohne in Schuldzuweisungen zu verfallen. Gemeinsame Rituale und feste Gesprächszeiten schaffen einen sicheren Rahmen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Warum ist Paarzeit in der Patchworkfamilie so wichtig?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Patchworkfamilien geht die Paarzeit oft unter, weil die Organisation des Alltags und die Bedürfnisse der Kinder im Vordergrund stehen. Bewusste Paarzeit stärkt die Verbindung und gibt beiden Partnern das Gefühl, als Paar wahrgenommen zu werden."
-      }
-    }
-  ]
-}
-</script>
+
+---
+
+## Häufige Fragen
+
+### Welche Fragen stärken die Beziehung in einer Patchworkfamilie?
+
+Fragen wie „Welche Werte möchtest du den Kindern mitgeben?", „Was ist deine größte Sorge in unserer Patchwork-Familie?" und „Wie viel Paarzeit ist für dich genug?" helfen, tiefgründige Gespräche zu führen und die Beziehung zu stärken.
+
+### Wie können Bonusmamas die Kommunikation mit dem Partner verbessern?
+
+Durch gezielte Fragen, aktives Zuhören und regelmäßige Paargespräche. Es hilft, offen über Ängste und Wünsche zu sprechen, ohne in Schuldzuweisungen zu verfallen. Gemeinsame Rituale und feste Gesprächszeiten schaffen einen sicheren Rahmen.
+
+### Warum ist Paarzeit in der Patchworkfamilie so wichtig?
+
+In Patchworkfamilien geht die Paarzeit oft unter, weil die Organisation des Alltags und die Bedürfnisse der Kinder im Vordergrund stehen. Bewusste Paarzeit stärkt die Verbindung und gibt beiden Partnern das Gefühl, als Paar wahrgenommen zu werden.

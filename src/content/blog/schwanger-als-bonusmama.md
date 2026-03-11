@@ -29,9 +29,11 @@ Studien zeigen, dass die Geburt eines gemeinsamen Kindes in Patchworkfamilien so
 
 ---
 
+![Schwangere Frau sitzt in einem Sessel und liest, warmes Zimmer mit Pflanzen und Decken](/images/blog/schwanger-als-bonusmama-2.jpg)
+
 ## Was sich wirklich ändert
 
-![Schwangere Frau sitzt in einem Sessel und liest, warmes Zimmer mit Pflanzen und Decken](/images/blog/schwanger-als-bonusmama-2.jpg)
+Ein gemeinsames Baby in einer Patchworkfamilie verändert die gesamte Familienarchitektur — nicht nur praktisch, sondern vor allem emotional.
 
 ### Die Rollen verschieben sich
 
@@ -43,7 +45,7 @@ Patricia Papernow (2013) beschreibt: Jede Veränderung im Familiensystem — und
 
 Dein Partner freut sich auf das Baby. Und plötzlich spürst du eine *Eifersucht*, die du nicht erwartet hast — nicht auf die Ex, sondern auf die Tatsache, dass er das alles schon einmal hatte. Die erste Schwangerschaft, das erste Kind, die ersten Schritte. Für ihn ist es Wiederholung. Für dich ist es das allererste Mal.
 
-In über 700 Coaching-Stunden habe ich gelernt: **Dieses Gefühl ist normal.** Du bist nicht undankbar. Du trauerst um eine Exklusivität, die es in einer Patchworkfamilie nicht gibt — und das darf sein.
+In über 700 Coaching-Stunden habe ich gelernt: **Dieses Gefühl ist normal.** Du bist nicht undankbar. Du trauerst um eine Exklusivität, die es in einer Patchworkfamilie nicht gibt — und das darf sein. Wenn du dich in dieser [Eifersucht als Bonusmama](/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz/) wiedererkennst, bist du nicht allein.
 
 ### Plötzlich hat jeder eine Meinung
 
@@ -61,6 +63,8 @@ Die Schwiegermutter. Die Ex. Die Nachbarin. „Jetzt wird ja alles anders" oder 
 
 ## Was dir hilft
 
+Es gibt keine Patentlösung — aber bewusste Entscheidungen, die den Unterschied machen.
+
 ### Sprich mit deinem Partner — ehrlich
 
 Sag ihm, wenn du Angst hast. Sag ihm, wenn die Eifersucht kommt. Sag ihm, wenn du dir mehr Exklusivität wünschst. Er kann nichts ändern, was er nicht kennt.
@@ -69,9 +73,9 @@ Sag ihm, wenn du Angst hast. Sag ihm, wenn die Eifersucht kommt. Sag ihm, wenn d
 
 Kinder brauchen keine PowerPoint-Präsentation über das neue Geschwisterkind. Sie brauchen die Sicherheit: *Du bist und bleibst wichtig.* Bindet sie ein, wo es natürlich passt — Namensideen, Babyzimmer einrichten. Aber lasst ihnen auch Raum für gemischte Gefühle.
 
-### Setz deine Grenzen — gerade jetzt
-
 ![Familienhände zusammen auf einem schwangeren Bauch, warmes weiches Licht](/images/blog/schwanger-als-bonusmama-3.jpg)
+
+### Setz deine Grenzen — gerade jetzt
 
 Die Schwangerschaft ist kein Freifahrtschein für alle, ihre Meinung abzuladen. Du darfst Kommentare abblocken. Du darfst sagen: „Das ist zwischen mir und meinem Partner." Du darfst dich schützen — das ist nicht egoistisch, das ist notwendig.
 

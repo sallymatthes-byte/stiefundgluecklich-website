@@ -47,9 +47,9 @@ Die Nachbarn mit ihren zwei Kindern und dem Labrador. Die Freundin, die nie übe
 
 Patricia Papernow (2013) betont: **Patchworkfamilien sind keine defekten Erstfamilien.** Sie sind eine eigene Familienform mit eigenen Stärken. Aber das zu sehen, braucht Zeit — und die bewusste Entscheidung, den Vergleich loszulassen.
 
-### Aufhören, auf Anerkennung zu warten
-
 ![Frau hält sich nachdenklich die Hand ans Herz und spürt ihren Gefühlen nach](/images/blog/innere-kind-heilung-1.jpg)
+
+### Aufhören, auf Anerkennung zu warten
 
 Von den Kindern: „Danke, dass du für uns da bist." Von der Ex: „Ich schätze, was du tust." Von der Gesellschaft: „Was für eine tolle [Stiefmutter](/blog/stiefmutter/)." Diese Sätze kommen vielleicht nie. Und wenn ich mein Glück daran hänge, werde ich *nie* zufrieden sein.
 
@@ -81,9 +81,9 @@ Coaching. Nicht weil ich kaputt war. Sondern weil ich nicht allein herausfand, w
 
 ---
 
-## Die 5 Wahrheiten, die mich verändert haben
-
 ![Sonnenlicht fällt durch Bäume auf einen ruhigen Waldweg als Symbol für inneren Frieden](/images/blog/innere-kind-heilung-2.jpg)
+
+## Die 5 Wahrheiten, die mich verändert haben
 
 **1. Es wird nicht perfekt — und das ist okay.** Patchwork hat immer Reibung. Die Frage ist nicht, ob es wehtut. Sondern ob du lernst, damit umzugehen.
 

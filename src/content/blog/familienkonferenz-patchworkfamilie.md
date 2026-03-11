@@ -39,9 +39,9 @@ Studien von Bray und Kelly (1998) zeigen: Patchworkfamilien, die regelmäßige F
 
 ---
 
-## Die 5 Elemente einer funktionierenden Familienkonferenz
-
 ![Flipchart mit bunten Familienregeln, Kinder- und Erwachsenenhandschrift gemischt](/images/blog/familienkonferenz-patchworkfamilie-2.jpg)
+
+## Die 5 Elemente einer funktionierenden Familienkonferenz
 
 ### 1. Fester Rhythmus — keine Krisenreaktion
 
@@ -92,9 +92,9 @@ Lass uns ehrlich sein: Wenn du sagst „Ab jetzt machen wir Familienkonferenzen!
 
 ---
 
-## Was die Familienkonferenz mit dir als Bonusmama macht
-
 ![Familienhände übereinander gestapelt als Team-Geste](/images/blog/familienkonferenz-patchworkfamilie-3.jpg)
+
+## Was die Familienkonferenz mit dir als Bonusmama macht
 
 Es geht nicht nur um Organisation. Es geht um deine Rolle in der Familie.
 

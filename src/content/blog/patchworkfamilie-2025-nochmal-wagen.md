@@ -31,11 +31,11 @@ In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamil
 
 ---
 
+![Frau steht am Fenster und schaut nach draußen, Morgenlicht, Aufbruchstimmung](/images/blog/warum-patchwork-scheitert-2.jpg)
+
 ## Was ich 2025 gelernt habe, das ich vorher nicht wusste
 
 ### Patchwork ist kein Sprint — es ist ein Ultra-Marathon
-
-![Frau steht am Fenster und schaut nach draußen, Morgenlicht, Aufbruchstimmung](/images/blog/warum-patchwork-scheitert-2.jpg)
 
 Studien zeigen, dass eine [Patchworkfamilie](/blog/patchworkfamilie/) im Durchschnitt 4–7 Jahre braucht, um zusammenzuwachsen (Bray & Kelly, 1998). Ich habe das immer gewusst — kognitiv. Aber *verstanden* habe ich es erst, als ich aufgehört habe, Meilensteine zu setzen. Kein „Bis Weihnachten wird es besser." Kein „Nach dem Urlaub läuft es." Sondern: Es wird besser. Irgendwann. In seinem eigenen Tempo.
 

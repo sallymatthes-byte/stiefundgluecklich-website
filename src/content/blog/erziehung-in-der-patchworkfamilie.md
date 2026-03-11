@@ -31,9 +31,9 @@ Patricia Papernow (2013), eine der führenden Forscherinnen für Stieffamilien, 
 
 ---
 
-## Warum klassische Erziehung in Patchworkfamilien scheitert
-
 ![Zwei Kinder sitzen auf dem Sofa und die Situation wirkt angespannt](/images/blog/konflikte-unter-kindern-2.jpg)
+
+## Warum klassische Erziehung in Patchworkfamilien scheitert
 
 In einer Erstfamilie ist Erziehung eingebettet in Bindung. Das Kind kennt dich seit der Geburt. Es weiß: *Mama liebt mich — auch wenn sie Nein sagt.* Diese Sicherheit fehlt in der Patchwork-Konstellation.
 

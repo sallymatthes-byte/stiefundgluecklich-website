@@ -33,9 +33,9 @@ Studien zeigen, dass People Pleasing besonders häufig bei Frauen auftritt, die 
 
 ---
 
-## Warum People Pleasing in Patchwork so verbreitet ist
-
 ![Frau hält lächelnd einen Stapel Teller, während hinter ihr Chaos herrscht](/images/blog/people-pleasing-als-bonusmama-2.jpg)
+
+## Warum People Pleasing in Patchwork so verbreitet ist
 
 Es gibt einen einfachen Grund, warum Bonusmamas häufiger People Pleasen als andere Frauen: **Das System belohnt Anpassung und bestraft Grenzen.**
 
@@ -89,9 +89,9 @@ Wenn du merkst, dass dein [Selbstwert als Bonusmama](/blog/unverstandene-bonusma
 
 ---
 
-## Was passiert, wenn du aufhörst zu pleasen
-
 ![Frau steht selbstbewusst im Sonnenlicht an einem Waldweg](/images/blog/people-pleasing-als-bonusmama-3.jpg)
+
+## Was passiert, wenn du aufhörst zu pleasen
 
 Erstmal: Irritation. Dein Partner wird sich wundern. Das Bonuskind wird protestieren. Die Ex wird vielleicht eine spitze Nachricht schreiben. Das System ist es gewohnt, dass du gibst. Und wenn der Strom plötzlich aufhört, ruckelt es.
 

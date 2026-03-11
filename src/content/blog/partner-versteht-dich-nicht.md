@@ -31,9 +31,9 @@ Studien zeigen: In [Patchworkfamilien](/blog/patchworkfamilie/) ist die Kommunik
 
 ---
 
-## Warum er dich nicht versteht
-
 ![Paar führt ein tiefes Gespräch am Küchentisch über Kaffee, warmes Licht](/images/blog/partner-versteht-dich-nicht-2.jpg)
+
+## Warum er dich nicht versteht
 
 ### Er kennt deine Perspektive nicht
 
@@ -82,9 +82,9 @@ Die meisten Männer *wollen* helfen. Aber sie brauchen konkrete Anweisungen stat
 
 15 Minuten. Ohne Kinder. Ohne Handy. Jeder sagt, wie die Woche sich angefühlt hat. Keine Vorwürfe, keine Diskussion — nur zuhören. Das klingt simpel, verändert aber die Dynamik grundlegend.
 
-### 4. Holt euch eine Übersetzerin
-
 ![Frau steht am Fenster und schaut hoffnungsvoll nach draußen in den Garten](/images/blog/partner-versteht-dich-nicht-3.jpg)
+
+### 4. Holt euch eine Übersetzerin
 
 Paartherapie oder Coaching — nicht weil die Beziehung kaputt ist, sondern weil ihr eine neutrale Person braucht, die zwischen euren Welten übersetzt. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und in den wenigsten wird professionelle Hilfe als normal betrachtet. Dabei ist genau das der Gamechanger.
 

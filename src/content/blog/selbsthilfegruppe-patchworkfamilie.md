@@ -31,9 +31,9 @@ Laut einer Studie von Wednesday Martin (2009) berichten über 60 % der [Stiefmü
 
 ---
 
-## Warum Bonusmamas so isoliert sind
-
 ![Frau sitzt allein auf dem Sofa und denkt über ihre Patchworkfamilie nach](/images/blog/das-gefuehl-des-scheiterns-als-bonusmama-1.jpg)
+
+## Warum Bonusmamas so isoliert sind
 
 Es ist nicht so, dass du keine Freunde hast. Es ist, dass dein Alltag für die meisten Menschen nicht nachvollziehbar ist.
 
@@ -67,9 +67,9 @@ In über 700 Coaching-Stunden habe ich erlebt: Das tiefste Bedürfnis einer Bonu
 
 ---
 
-## Wie du die richtige Gruppe findest
-
 ![Frau genießt eine Auszeit in der Natur als Selbstfürsorge-Ritual](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-2.jpg)
+
+## Wie du die richtige Gruppe findest
 
 ### Online-Gruppen
 

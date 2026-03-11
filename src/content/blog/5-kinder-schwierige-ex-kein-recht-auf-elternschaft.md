@@ -118,23 +118,22 @@ Livias Geschichte ist kein Märchen und kein Ratgeber. Sie ist das echte Leben e
 ---
 
 <!-- FAQ_START
+
+---
+
+## Häufige Fragen
+
 ### Welche Rechte haben Stiefmütter in Deutschland?
 
 In Deutschland haben Stiefmütter nur eingeschränkte Rechte. Durch Heirat entsteht ein sogenanntes „kleines Sorgerecht" (§ 1687b BGB), das alltägliche Entscheidungen erlaubt. Ohne Ehe gibt es praktisch keine rechtliche Grundlage. Für medizinische Notfälle empfiehlt sich eine schriftliche Vollmacht vom leiblichen Elternteil.
-
 
 ### Wie gehe ich mit einer schwierigen Ex-Partnerin um?
 
 Konzentriere dich auf das, was du kontrollieren kannst: deine Reaktion und die Beziehung zu den Kindern. Setze klare Grenzen, dokumentiere Absprachen schriftlich und vermeide es, die Kinder in Konflikte hineinzuziehen. Bei Hochkonflikt kann Parallel Parenting eine Lösung sein.
 
-
 ### Sollte ich als Bonusmama sofort mit den Bonuskindern zusammenziehen?
 
 Es gibt kein richtig oder falsch. Manche Familien brauchen eine lange Annäherungsphase, andere funktionieren von Anfang an zusammen. Entscheidend ist nicht das Tempo, sondern ob die Bedürfnisse der Kinder im Mittelpunkt stehen und alle Beteiligten bereit sind.
-
-
-<!-- FAQ_START
-## Häufige Fragen
 
 ### Haben Bonusmamas rechtlich gesehen eine Elternrolle?
 

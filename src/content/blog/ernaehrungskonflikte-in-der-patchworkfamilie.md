@@ -112,20 +112,16 @@ Ernährungskonflikte in der Patchworkfamilie sind nie nur Ernährungskonflikte. 
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Darf ich als Bonusmama beim Essen Regeln aufstellen?</summary>
+## Häufige Fragen
+
+### Darf ich als Bonusmama beim Essen Regeln aufstellen?
 
 Ja. In eurem Haushalt gelten eure Regeln — aber idealerweise als gemeinsame Entscheidung mit deinem Partner. Formuliere sie als Haushaltssache und nicht als persönliche Forderung an das Kind.
-</details>
 
-<details>
-<summary>Was mache ich, wenn im anderen Haushalt komplett anders gegessen wird?</summary>
+### Was mache ich, wenn im anderen Haushalt komplett anders gegessen wird?
 
 Akzeptiere, dass du den anderen Haushalt nicht kontrollieren kannst. Konzentriere dich auf das, was in deiner Küche passiert. Kinder können mit unterschiedlichen Regeln in verschiedenen Haushalten umgehen — das überfordert sie weniger als du denkst.
-</details>
 
-<details>
-<summary>Mein Bonuskind verweigert mein Essen — ist das persönlich gemeint?</summary>
+### Mein Bonuskind verweigert mein Essen — ist das persönlich gemeint?
 
 In den meisten Fällen nein. Kinder nutzen Essensverweigerung oft als Ausdruck von Übergangsstress oder Loyalitätskonflikten. Reagiere gelassen, biete Alternativen an und sprich mit deinem Partner über mögliche tieferliegende Ursachen.
-</details>

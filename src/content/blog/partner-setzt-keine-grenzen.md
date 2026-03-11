@@ -30,9 +30,9 @@ Laut Patricia Papernow (2013) ist die Erwartung, dass der leibliche Elternteil a
 
 ---
 
-## Die drei Muster, in denen Bonusmamas feststecken
-
 ![Frau schreibt entschlossen in ein Journal an einem Holztisch](/images/blog/partner-setzt-keine-grenzen-2.jpg)
+
+## Die drei Muster, in denen Bonusmamas feststecken
 
 Wenn dein Partner keine Grenzen setzt, reagierst du — ob du willst oder nicht. Und die meisten Bonusmamas fallen in eines dieser drei Muster:
 
@@ -66,9 +66,9 @@ Bevor du ihn verurteilst: Versteh, warum er so handelt. Nicht um es zu entschuld
 
 ---
 
-## Was du tun kannst — ohne ihn zu verändern
-
 ![Paar sitzt einander zugewandt auf dem Sofa und führt ein ehrliches Gespräch](/images/blog/partner-setzt-keine-grenzen-3.jpg)
+
+## Was du tun kannst — ohne ihn zu verändern
 
 Hier wird es unbequem. Denn der Ausweg liegt nicht darin, dass er sich ändert. **Der Ausweg liegt darin, dass du dich änderst.**
 

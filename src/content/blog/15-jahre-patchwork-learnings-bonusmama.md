@@ -118,6 +118,11 @@ Madeleine blickt auf 15 Jahre als Bonusmama zurück — mit all den Höhen und T
 ---
 
 <!-- FAQ_START
+
+---
+
+## Häufige Fragen
+
 ### Wird Patchwork mit der Zeit wirklich leichter?
 
 Nicht unbedingt leichter, aber anders. Die Herausforderungen verändern sich mit jeder Lebensphase der Kinder. Was sich verändert, ist dein Umgang damit — du wirst erfahrener, gelassener und klarer in deinen Grenzen.

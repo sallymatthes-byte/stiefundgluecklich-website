@@ -132,20 +132,16 @@ Die Aufgabenverteilung im Haushalt ist in Patchworkfamilien ein emotionales Them
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Ab welchem Alter sollte ein Bonuskind im Haushalt helfen?</summary>
+## Häufige Fragen
+
+### Ab welchem Alter sollte ein Bonuskind im Haushalt helfen?
 
 Schon ab 3 Jahren können Kinder einfache Aufgaben übernehmen — Spielzeug aufräumen, Wäsche in den Korb legen. Passe die Aufgaben dem Alter und der Entwicklung des Kindes an. Es geht nicht um Arbeit, sondern um Zugehörigkeit.
-</details>
 
-<details>
-<summary>Was mache ich, wenn mein Bonuskind sagt: Das ist nicht mein Zuhause?</summary>
+### Was mache ich, wenn mein Bonuskind sagt: Das ist nicht mein Zuhause?
 
 Nimm den Druck raus und diskutiere nicht über die Definition von Zuhause. Sag stattdessen: „Solange du hier bist, gehörst du dazu." Dahinter steckt oft ein Loyalitätskonflikt — das Kind fühlt sich zerrissen. Geduld und Gelassenheit helfen mehr als Argumente.
-</details>
 
-<details>
-<summary>Mein Partner findet, die Kinder sollten am Wochenende nicht helfen müssen. Was nun?</summary>
+### Mein Partner findet, die Kinder sollten am Wochenende nicht helfen müssen. Was nun?
 
 Besprecht gemeinsam, welche Werte euch wichtig sind. Erkläre, warum dir Mitarbeit wichtig ist — nicht als Arbeitslast, sondern als Zugehörigkeitssignal. Findet einen Kompromiss: vielleicht weniger Aufgaben am Wochenende, aber die wichtigsten bleiben.
-</details>

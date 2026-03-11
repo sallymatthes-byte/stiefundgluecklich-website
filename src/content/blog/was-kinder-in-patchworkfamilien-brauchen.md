@@ -89,11 +89,16 @@ Und genau darin liegt deine Stärke als Bonusmama: Du hast dich *entschieden*, T
 Lies auch: [Co-Regulation in Patchworkfamilien](/blog/co-regulation-patchworkfamilien/) und [Starke Gefühle beim Bonuskind begleiten](/blog/bonuskind-starke-gefuehle-begleiten/).
 
 <!-- FAQ_START
-<dl>
-<dt>Wie lange dauert es, bis ein Kind den neuen Partner akzeptiert?</dt>
-<dd>Laut Forschung brauchen Patchworkfamilien 4–7 Jahre, um zusammenzuwachsen. Das bedeutet nicht, dass das Kind dich so lange ablehnt — aber die volle Integration braucht Zeit. Jede erzwungene Beschleunigung erzeugt Widerstand.</dd>
-<dt>Was ist das Wichtigste für Kinder in Patchworkfamilien?</dt>
-<dd>Sicherheit und Vorhersehbarkeit. Kinder brauchen die Gewissheit, dass ihr Platz nicht bedroht ist und dass die Erwachsenen um sie herum stabil und verlässlich sind. Die Qualität der Beziehung zwischen den biologischen Eltern ist dabei der entscheidende Faktor.</dd>
-<dt>Soll ich als Bonusmama das Kind erziehen?</dt>
-<dd>In den ersten Jahren ist es effektiver, über die Beziehung zu steuern statt über Autorität. Erziehung sollte primär beim biologischen Elternteil liegen. Du kannst unterstützen, aber klare Grenzen setzt am besten der Papa — in Absprache mit dir.</dd>
-</dl>
+## Häufige Fragen
+
+### Wie lange dauert es, bis ein Kind den neuen Partner akzeptiert?
+
+Laut Forschung brauchen Patchworkfamilien 4–7 Jahre, um zusammenzuwachsen. Das bedeutet nicht, dass das Kind dich so lange ablehnt — aber die volle Integration braucht Zeit. Jede erzwungene Beschleunigung erzeugt Widerstand.
+
+### Was ist das Wichtigste für Kinder in Patchworkfamilien?
+
+Sicherheit und Vorhersehbarkeit. Kinder brauchen die Gewissheit, dass ihr Platz nicht bedroht ist und dass die Erwachsenen um sie herum stabil und verlässlich sind. Die Qualität der Beziehung zwischen den biologischen Eltern ist dabei der entscheidende Faktor.
+
+### Soll ich als Bonusmama das Kind erziehen?
+
+In den ersten Jahren ist es effektiver, über die Beziehung zu steuern statt über Autorität. Erziehung sollte primär beim biologischen Elternteil liegen. Du kannst unterstützen, aber klare Grenzen setzt am besten der Papa — in Absprache mit dir.

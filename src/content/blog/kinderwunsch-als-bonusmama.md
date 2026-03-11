@@ -31,9 +31,9 @@ Laut dem Statistischen Bundesamt (2024) hat jede fünfte Frau in einer Patchwork
 
 ---
 
-## Warum Kinderwunsch in Patchwork so kompliziert wird
-
 ![Paar sitzt auf einer Bank am See und blickt nachdenklich in verschiedene Richtungen](/images/blog/kinderwunsch-als-bonusmama-2.jpg)
+
+## Warum Kinderwunsch in Patchwork so kompliziert wird
 
 In einer „normalen" Beziehung ist Kinderwunsch schon ein großes Thema. In Patchwork kommt eine ganze Schicht dazu, die alles verkompliziert:
 
@@ -89,9 +89,9 @@ In meiner Coaching-Praxis mit über 100 Bonusmamas habe ich das DECIDE-Framework
 
 ---
 
-## Wenn das Baby dann wirklich kommt
-
 ![Schwangere Frau steht im Sonnenlicht und hält liebevoll ihren Bauch](/images/blog/kinderwunsch-als-bonusmama-3.jpg)
+
+## Wenn das Baby dann wirklich kommt
 
 Die Schwangerschaft als Bonusmama ist ein eigenes Kapitel. Plötzlich bist du nicht mehr „nur" die Partnerin — du bist die werdende Mutter. Und das verschiebt die Tektonik der gesamten Familie.
 

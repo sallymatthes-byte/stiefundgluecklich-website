@@ -102,20 +102,16 @@ Großeltern und Verwandte in der [Patchworkfamilie](/blog/patchworkfamilie/) hab
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Was mache ich, wenn die Großeltern meines Partners mein Kind ignorieren?</summary>
+## Häufige Fragen
+
+### Was mache ich, wenn die Großeltern meines Partners mein Kind ignorieren?
 
 Sprich es einmal sachlich an — idealerweise zusammen mit deinem Partner. Erwarte keine sofortige Veränderung, aber mach klar, dass Ungleichbehandlung für dich und die Kinder nicht akzeptabel ist. Wenn es anhält, schütze dein Kind, indem du den Kontakt dosierst.
-</details>
 
-<details>
-<summary>Muss ich zu jeder Familienfeier meines Partners mitgehen?</summary>
+### Muss ich zu jeder Familienfeier meines Partners mitgehen?
 
 Nein. Du darfst auswählen, welche Treffen dir guttun und welche nicht. Wenn Familienfeiern für dich regelmäßig mit Schmerz verbunden sind, besprich mit deinem Partner, wie ihr das als Team lösen könnt.
-</details>
 
-<details>
-<summary>Wie bringe ich meinen Partner dazu, mich vor seiner Familie zu verteidigen?</summary>
+### Wie bringe ich meinen Partner dazu, mich vor seiner Familie zu verteidigen?
 
 Formuliere es als Bedürfnis, nicht als Vorwurf: „Ich brauche, dass du mich einbeziehst und für uns eintrittst." Es ist die Aufgabe deines Partners, in seiner Familie Brücken zu bauen — nicht deine. Wenn er das nicht tut, geht es um eure Partnerschaft, nicht um die Verwandten.
-</details>

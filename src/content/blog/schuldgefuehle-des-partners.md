@@ -31,9 +31,9 @@ Studien zeigen, dass väterliche Schuldgefühle nach einer Trennung in über 60 
 
 ---
 
-## Wie sich seine Schuldgefühle in eurem Alltag zeigen
-
 ![Mann sitzt nachdenklich allein auf einer Parkbank in herbstlicher Atmosphäre](/images/blog/schuldgefuehle-des-partners-2.jpg)
+
+## Wie sich seine Schuldgefühle in eurem Alltag zeigen
 
 Du erkennst sie nicht immer sofort. Aber wenn du genau hinschaust, siehst du die Muster:
 
@@ -88,9 +88,9 @@ Seine Schuldgefühle sind *sein* Prozess. Du kannst ihn begleiten, aber du kanns
 
 Die Kinder sind oft nur die Bühne. Das eigentliche Stück handelt von eurer Beziehung: Vertrauen, Loyalität, Zugehörigkeit. Wenn ihr nur über Erziehungsfragen streitet, kommt ihr nie zum Kern.
 
-### 4. Holt euch Unterstützung
-
 ![Paar geht zusammen durch einen Wald, Herbstlicht fällt durch die Bäume](/images/blog/schuldgefuehle-des-partners-3.jpg)
+
+### 4. Holt euch Unterstützung
 
 Paartherapie ist kein Zeichen von Scheitern — es ist ein Zeichen von Mut. Ein neutraler Raum, in dem er seine Schuld aussprechen darf und du deine *Wut* — ohne dass es den anderen zerstört.
 

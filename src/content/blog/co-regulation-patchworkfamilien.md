@@ -34,6 +34,8 @@ Laut einer Studie des Deutschen Jugendinstituts (DJI, 2022) können Kinder ihre 
 
 ![Zwei Hände halten ein kleines Holzhaus in warmem Licht — Sicherheit und Geborgenheit](/images/blog/bonuskinder-und-konflikte-2.jpg)
 
+---
+
 ## Selbstregulation kommt zuerst
 
 Bevor du ein Kind co-regulieren kannst, musst du dich *selbst* regulieren können. Das klingt offensichtlich — ist es aber nicht. Gerade als [Bonusmama](/blog/stiefmutter/) steckst du oft in Situationen, die dich triggern:
@@ -49,6 +51,8 @@ In solchen Momenten brauchst du Strategien, um *deinen* emotionalen Zustand zu r
 1. **Pause nehmen.** Atme dreimal tief durch. Das klingt banal, aber es aktiviert dein parasympathisches Nervensystem und bringt dich aus dem Kampf-oder-Flucht-Modus.
 2. **Benennen, was du fühlst.** „Ich bin gerade wütend" oder „Ich fühle mich abgelehnt." Allein das Benennen reduziert die Intensität des Gefühls — das belegen Studien der UCLA (Lieberman et al., 2007).
 3. **Entscheiden, nicht reagieren.** Zwischen Reiz und Reaktion gibt es einen Raum. In diesem Raum liegt deine Kraft.
+
+---
 
 ## Wie Co-Regulation in der Praxis aussieht
 
@@ -74,11 +78,15 @@ Das Kind fühlt sich zerrissen zwischen Mama und Papa — und zwischen dir und d
 
 ![Familie spaziert auf einem Waldweg im Herbst, warmes Licht fällt durch die Baumkronen](/images/blog/bonuskinder-und-konflikte-3.jpg)
 
+---
+
 ## Was Co-Regulation NICHT ist
 
 - **Nicht: die Gefühle des Kindes wegnehmen.** „Ist doch nicht so schlimm" oder „Hör auf zu weinen" sind das Gegenteil von Co-Regulation.
 - **Nicht: perfekt ruhig sein müssen.** Du darfst zeigen, dass auch du Gefühle hast. Der Unterschied ist, dass du sie *benennen* und *halten* kannst.
 - **Nicht: Erziehung ersetzen.** Co-Regulation ersetzt keine Regeln. Aber sie schafft die emotionale Basis, auf der Regeln überhaupt greifen können.
+
+---
 
 ## Warum Co-Regulation für Bonusmamas besonders wertvoll ist
 
@@ -88,6 +96,8 @@ Patricia Papernow betont: Die Beziehung zwischen [Bonuseltern](/blog/stiefmutter
 
 Und das ist mehr wert als jede Erziehungsregel.
 
+---
+
 ## Zusammenfassung
 
 Co-Regulation ist keine Technik — sie ist eine Haltung. Als Bonusmama in einer [Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) bist du oft die Person, die Stabilität geben kann, auch wenn die emotionale Landschaft rund um dich stürmisch ist. Der Schlüssel liegt in deiner eigenen Regulation: Wenn du ruhig bleibst, hilfst du dem Kind, ebenfalls ruhig zu werden. Nicht durch Worte, sondern durch deine Präsenz.
@@ -95,11 +105,16 @@ Co-Regulation ist keine Technik — sie ist eine Haltung. Als Bonusmama in einer
 Lies auch: [Konflikte unter Kindern in Patchworkfamilien](/blog/konflikte-unter-kindern/) und [Bonuskind klebt nur am Papa](/blog/wenn-das-bonuskind-nur-am-papa-klebt/).
 
 <!-- FAQ_START
-<dl>
-<dt>Was ist der Unterschied zwischen Co-Regulation und Selbstregulation?</dt>
-<dd>Selbstregulation bedeutet, die eigenen Emotionen eigenständig zu steuern. Co-Regulation ist der Prozess, bei dem ein Erwachsener einem Kind hilft, seine Emotionen zu regulieren — durch Ruhe, Präsenz und emotionale Sicherheit. Kinder lernen Selbstregulation erst durch wiederholte Co-Regulation.</dd>
-<dt>Kann ich als Bonusmama co-regulieren, auch wenn das Kind mich ablehnt?</dt>
-<dd>Ja. Co-Regulation hängt nicht davon ab, ob das Kind dich als Bezugsperson akzeptiert. Deine Ruhe und Verlässlichkeit wirken auch dann, wenn die Beziehung noch im Aufbau ist. Gib dem Kind Zeit und dränge nichts auf.</dd>
-<dt>Ab welchem Alter können Kinder sich selbst regulieren?</dt>
-<dd>Die Fähigkeit zur Selbstregulation entwickelt sich schrittweise ab etwa 6–8 Jahren, ist aber erst im jungen Erwachsenenalter vollständig ausgereift. Bis dahin brauchen Kinder regelmäßig Co-Regulation durch verlässliche Bezugspersonen.</dd>
-</dl>
+## Häufige Fragen
+
+### Was ist der Unterschied zwischen Co-Regulation und Selbstregulation?
+
+Selbstregulation bedeutet, die eigenen Emotionen eigenständig zu steuern. Co-Regulation ist der Prozess, bei dem ein Erwachsener einem Kind hilft, seine Emotionen zu regulieren — durch Ruhe, Präsenz und emotionale Sicherheit. Kinder lernen Selbstregulation erst durch wiederholte Co-Regulation.
+
+### Kann ich als Bonusmama co-regulieren, auch wenn das Kind mich ablehnt?
+
+Ja. Co-Regulation hängt nicht davon ab, ob das Kind dich als Bezugsperson akzeptiert. Deine Ruhe und Verlässlichkeit wirken auch dann, wenn die Beziehung noch im Aufbau ist. Gib dem Kind Zeit und dränge nichts auf.
+
+### Ab welchem Alter können Kinder sich selbst regulieren?
+
+Die Fähigkeit zur Selbstregulation entwickelt sich schrittweise ab etwa 6–8 Jahren, ist aber erst im jungen Erwachsenenalter vollständig ausgereift. Bis dahin brauchen Kinder regelmäßig Co-Regulation durch verlässliche Bezugspersonen.

@@ -96,20 +96,16 @@ Verlobung in einer Patchworkfamilie ist kein Märchen — es ist eine bewusste E
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Ist es normal, dass ich als Bonusmama trotz Verlobung Zweifel habe?</summary>
+## Häufige Fragen
+
+### Ist es normal, dass ich als Bonusmama trotz Verlobung Zweifel habe?
 
 Ja, absolut. Zweifel gehören zu Patchwork dazu — sie verschwinden nicht durch einen Ring. Entscheidend ist, ob du die Beziehung trotz Zweifeln aktiv wählst und ob ihr als Paar darüber sprechen könnt.
-</details>
 
-<details>
-<summary>Wie reagieren Kinder auf eine Verlobung in der Patchworkfamilie?</summary>
+### Wie reagieren Kinder auf eine Verlobung in der Patchworkfamilie?
 
 Kinder reagieren unterschiedlich — von Freude bis Verunsicherung. Manche fürchten, dass sich wieder alles ändert. Gebt ihnen Raum für ihre Gefühle und bezieht sie ein, ohne Druck auszuüben.
-</details>
 
-<details>
-<summary>Lohnt es sich, in einer Patchworkfamilie durchzuhalten?</summary>
+### Lohnt es sich, in einer Patchworkfamilie durchzuhalten?
 
 Wenn die Grundlage eurer Beziehung stimmt, ja. Studien zeigen, dass Stieffamilien nach 4–7 Jahren eine ebenso hohe Zufriedenheit erreichen können wie Erstfamilien. Aber Durchhalten ist kein Wert an sich — wenn die Beziehung nicht mehr trägt, ist Gehen ebenfalls eine starke Entscheidung.
-</details>

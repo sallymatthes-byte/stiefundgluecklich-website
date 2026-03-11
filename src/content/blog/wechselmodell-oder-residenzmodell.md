@@ -29,9 +29,9 @@ Laut dem Statistischen Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamili
 
 ---
 
-## Welche Betreuungsmodelle gibt es?
-
 ![Kalender an einer Küchenwand mit farbigen Markierungen für verschiedene Tage](/images/blog/wechselmodell-oder-residenzmodell-2.jpg)
+
+## Welche Betreuungsmodelle gibt es?
 
 Bevor wir tiefer einsteigen — ein klarer Überblick über die Modelle, die in Deutschland praktiziert werden:
 
@@ -84,9 +84,9 @@ Das heißt nicht, dass du keinen Einfluss hast. Aber dein Einfluss läuft über 
 
 ---
 
-## Wenn sich das Modell ändern muss
-
 ![Paar sitzt zusammen am Tisch mit Notizbuch und plant gemeinsam](/images/blog/wechselmodell-oder-residenzmodell-3.jpg)
+
+## Wenn sich das Modell ändern muss
 
 Betreuungsmodelle sind nicht in Stein gemeißelt. Kinder wachsen. Lebensumstände ändern sich. Manchmal kommt der Punkt, an dem das aktuelle Modell einfach nicht mehr passt.
 

@@ -27,9 +27,9 @@ Studien von Patricia Papernow (2013) zeigen, dass die erweiterte Familie in [Pat
 
 ---
 
-## Warum Schwiegereltern in Patchwork so schwierig sein können
-
 ![Älteres Paar und jüngere Frau sitzen an einem Tisch, angespannte Atmosphäre](/images/blog/schwiegereltern-in-patchworkfamilien-2.jpg)
+
+## Warum Schwiegereltern in Patchwork so schwierig sein können
 
 In einer „normalen" Beziehung sind Schwiegereltern schon eine Herausforderung. In einer Patchworkkonstellation kommt eine ganze Schicht dazu:
 
@@ -85,9 +85,9 @@ Du bist nicht verpflichtet, dich regelmäßig verletzen zu lassen, nur weil jema
 
 ---
 
-## Wenn die Schwiegermutter die Ex bevorzugt
-
 ![Frau steht mit verschränkten Armen selbstbewusst in ihrem Wohnzimmer](/images/blog/schwiegereltern-in-patchworkfamilien-3.jpg)
+
+## Wenn die Schwiegermutter die Ex bevorzugt
 
 Das passiert häufiger als erwartet — und es ist eine der schmerzhaftesten Dynamiken. Die Schwiegermutter trifft sich mit der Ex zum Kaffee, tauscht Fotos vom Enkelkind aus, spricht von „der Familie" und meint damit die alte Konstellation.
 

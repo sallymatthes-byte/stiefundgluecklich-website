@@ -29,9 +29,9 @@ Laut Patricia Papernow (2013) ist die „Insider-Outsider"-Dynamik das zentrale 
 
 ---
 
-## Warum du dich als Bonusmama unsichtbar fühlst
-
 ![Frau sitzt nachdenklich auf dem Sofa, während im Hintergrund ihr Partner telefoniert](/images/blog/sichtbar-in-der-beziehung-2.jpg)
+
+## Warum du dich als Bonusmama unsichtbar fühlst
 
 Es beginnt schleichend. Am Anfang war da die Verliebtheit, die alles überstrahlte. Dann kamen die Kinder jedes zweite Wochenende. Dann die Ex mit ihren Nachrichten. Dann der Alltag mit Schule, Arzttermine, Umgangsregelungen. Und irgendwo zwischen all dem bist du verschwunden.
 
@@ -90,9 +90,9 @@ Wenn du merkst, dass die [Schuldgefühle deines Partners](/blog/schuldgefuehle-d
 
 ---
 
-## Was du sofort tun kannst — heute Abend
-
 ![Paar hält Hände im warmen Abendlicht auf einer Holzbank](/images/blog/sichtbar-in-der-beziehung-3.jpg)
+
+## Was du sofort tun kannst — heute Abend
 
 Warte nicht auf den perfekten Moment. Der kommt nicht. Stattdessen:
 

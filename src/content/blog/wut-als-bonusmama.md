@@ -122,20 +122,16 @@ Deine Wut als Bonusmama ist nicht dein Problem — sie ist dein Kompass. **Sie z
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Ist es normal, als Bonusmama wütend zu sein?</summary>
+## Häufige Fragen
+
+### Ist es normal, als Bonusmama wütend zu sein?
 
 Ja, absolut. Wut ist eine natürliche Reaktion auf Grenzverletzungen, Unsichtbarkeit und Ungleichgewicht — alles Dinge, die Bonusmamas häufig erleben. Das Problem ist nicht die Wut selbst, sondern wenn sie chronisch unterdrückt wird.
-</details>
 
-<details>
-<summary>Wie unterscheide ich berechtigte Wut von Überreaktion?</summary>
+### Wie unterscheide ich berechtigte Wut von Überreaktion?
 
 Frag dich: Wird hier eine Grenze verletzt? Wenn ja, ist deine Wut berechtigt — egal wie klein der Auslöser wirkt. Muster erkennen hilft: Wenn dich immer wieder die gleiche Situation triggert, steckt ein echtes Bedürfnis dahinter.
-</details>
 
-<details>
-<summary>Was mache ich, wenn mein Partner sagt, ich soll mich nicht so anstellen?</summary>
+### Was mache ich, wenn mein Partner sagt, ich soll mich nicht so anstellen?
 
 Dieser Satz ist selbst eine Grenzverletzung. Du kannst antworten: „Ich stelle mich nicht an — ich sage dir, was ich fühle. Und ich brauche, dass du das hörst." Wenn er das wiederholt nicht kann, ist das ein Thema für eine gemeinsame Beratung.
-</details>

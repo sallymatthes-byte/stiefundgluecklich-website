@@ -92,7 +92,7 @@ Kristin nutzt heute genau diese Erfahrungen. Nicht als Last, sondern als Kompass
 
 ## Häufig gestellte Fragen
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 
 ### Beeinflusst meine eigene Trennung als Kind meine Rolle als Bonusmama?
 
@@ -110,4 +110,4 @@ Achte auf unverhältnismäßig starke emotionale Reaktionen. Wenn eine Situation
 
 Absolut. Bonusmamas mit eigener Trennungserfahrung verstehen die Perspektive der Bonuskinder oft intuitiv. Sie spüren Loyalitätskonflikte und emotionale Bedürfnisse schneller. Wenn du diese Empathie bewusst einsetzt — ohne dich darin zu verlieren — wird sie zur echten Stärke in deiner Patchworkfamilie.
 
-<!-- FAQ_END -->
+

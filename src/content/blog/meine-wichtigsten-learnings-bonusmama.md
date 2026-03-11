@@ -27,9 +27,9 @@ Hier sind die Wahrheiten, die mich verändert haben.
 
 ---
 
-## Learning 1: Du kannst nicht für die Stimmung aller verantwortlich sein
-
 ![Frau blickt nachdenklich aus dem Fenster, warmes Licht fällt auf ihr Gesicht](/images/blog/vom-micromanagement-zum-loslassen-1.jpg)
+
+## Learning 1: Du kannst nicht für die Stimmung aller verantwortlich sein
 
 Das war das Schwerste. Weil ich *wollte*, dass alle glücklich sind. Die Kinder. Mein Partner. Die [Ex](/blog/die-rolle-von-expartnern-in-patchworkfamilien/). Ich habe mich verrenkt, um Konflikte zu vermeiden, [Stimmungen zu managen](/blog/people-pleasing-als-bonusmama/), allen gerecht zu werden. Und bin dabei draufgegangen.
 
@@ -76,9 +76,9 @@ Studien zeigen, dass [Bonuskinder](/blog/bonuskind/) durchschnittlich 2–4 Jahr
 
 ---
 
-## Learning 5: Selbstfürsorge ist nicht egoistisch — sie ist überlebenswichtig
-
 ![Frau genießt eine Auszeit in der Natur als Selbstfürsorge](/images/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest-2.jpg)
+
+## Learning 5: Selbstfürsorge ist nicht egoistisch — sie ist überlebenswichtig
 
 Kein Bubble Bath. Keine Gesichtsmaske. Ich rede von *echter* Selbstfürsorge:
 

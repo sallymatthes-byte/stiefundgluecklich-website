@@ -43,9 +43,9 @@ Seine Kinder brauchten ihn. Seine Ex stellte Forderungen. Judith wollte mehr Zei
 
 Laut Patricia Papernow (2013) ist der leibliche Elternteil in einer Patchworkfamilie in der „Mittleren-Position": Er spürt die Bedürfnisse aller Seiten — und kann keiner gerecht werden. Das ist nicht Schwäche. Das ist systemischer Druck.
 
-### Sie haben aufgehört zu reden
-
 ![Paar sitzt auf dem Sofa in nachdenklicher Stimmung im warmen Licht](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg)
+
+### Sie haben aufgehört zu reden
 
 Nicht schlagartig. Schleichend. Erst wurde „Wie geht es dir?" zu „Alles okay?" Dann zu gar nichts. Sie sprachen über Logistik. Über die Kinder. Über den Einkauf. Aber nicht mehr über *sich*. Nicht mehr über das, was wehtut. Nicht mehr über die Frage: *Schaffen wir das?*
 

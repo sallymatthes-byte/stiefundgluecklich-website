@@ -29,9 +29,9 @@ Studien zeigen, dass es durchschnittlich 4–7 Jahre dauert, bis eine [Patchwork
 
 ---
 
-## Warum das Familiengericht für Patchworkfamilien anders ist
-
 ![Paar sitzt zusammen auf einer Bank im Herbstwald und bespricht ernste Themen](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
+
+## Warum das Familiengericht für Patchworkfamilien anders ist
 
 In einer klassischen Trennung stehen sich zwei Elternteile gegenüber. In einer [Patchworkfamilie](/blog/patchworkfamilie/) sitzt du als Bonusmama am Rand — betroffen, aber unsichtbar. Das Gericht kennt leibliche Eltern, Kinder und Anwälte. Für deine Rolle gibt es keinen Platz im System.
 
@@ -63,9 +63,9 @@ Was viele nicht wissen: Als Ehepartnerin kannst du unter bestimmten Umständen f
 
 ---
 
-## Wenn der Gerichtsprozess eure Beziehung belastet
-
 ![Frau steht nachdenklich am Fenster, warmes Licht fällt auf ihr Gesicht](/images/blog/vom-micromanagement-zum-loslassen-1.jpg)
+
+## Wenn der Gerichtsprozess eure Beziehung belastet
 
 Der eigentliche Schmerz sitzt nicht im Gerichtssaal. Er sitzt abends auf dem Sofa, wenn dein Partner erschöpft von der Verhandlung kommt. Er sitzt in den Momenten, wo du merkst: *Ich bin hier die Einzige, die keinen Stuhl hat.*
 

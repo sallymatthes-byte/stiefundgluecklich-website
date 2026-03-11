@@ -109,20 +109,16 @@ Ferien in der Patchworkfamilie sind für Bonusmamas oft kein Urlaub, sondern ein
 ---
 
 <!-- FAQ_START
-<details>
-<summary>Wie schaffe ich es, in den Ferien auch mal abzuschalten?</summary>
+## Häufige Fragen
+
+### Wie schaffe ich es, in den Ferien auch mal abzuschalten?
 
 Plane feste Zeiten nur für dich ein — morgens eine Stunde, ein Nachmittag pro Woche. Sag deinem Partner konkret, wann du Pause brauchst. Abschalten funktioniert nicht nebenbei, es braucht einen bewussten Rahmen.
-</details>
 
-<details>
-<summary>Ist es normal, dass ich erleichtert bin, wenn die Bonuskinder wieder gehen?</summary>
+### Ist es normal, dass ich erleichtert bin, wenn die Bonuskinder wieder gehen?
 
 Ja, absolut. Erleichterung bedeutet nicht, dass du die Kinder nicht magst. Es bedeutet, dass du Raum brauchst — und das ist menschlich. Gemischte Gefühle gehören zur Bonusmama-Rolle dazu.
-</details>
 
-<details>
-<summary>Was mache ich, wenn mein Partner nicht versteht, warum Ferien für mich so anstrengend sind?</summary>
+### Was mache ich, wenn mein Partner nicht versteht, warum Ferien für mich so anstrengend sind?
 
 Erkläre ihm konkret, was dich belastet — nicht in Vorwürfen, sondern in Ich-Botschaften. „Ich fühle mich erschöpft, weil ich das Gefühl habe, alles allein zu planen." Oft fehlt Partnern einfach der Einblick in die unsichtbare Arbeit.
-</details>

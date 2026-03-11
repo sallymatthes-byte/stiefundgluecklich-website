@@ -31,9 +31,9 @@ Laut Wednesday Martin (2009), Autorin von „Stepmonster", berichten über 70 % 
 
 ---
 
-## Warum Wertschätzung in Patchwork so oft fehlt
-
 ![Paar steht Rücken an Rücken in einer Küche, symbolisch für emotionale Distanz](/images/blog/wertschaetzung-in-patchwork-2.jpg)
+
+## Warum Wertschätzung in Patchwork so oft fehlt
 
 Es ist selten böse Absicht. In den meisten Fällen ist es ein Mix aus Überforderung, Schuldgefühlen und einem blinden Fleck.
 
@@ -85,9 +85,9 @@ Wenn ein Mann dich liebt, aber nicht wertschätzt, ist das therapierbar. Wenn er
 
 ---
 
-## Wenn sich trotzdem nichts ändert
-
 ![Frau schreibt in ein Notizbuch bei Kerzenlicht — Selbstreflexion und innere Klarheit](/images/blog/wertschaetzung-in-patchwork-3.jpg)
+
+## Wenn sich trotzdem nichts ändert
 
 Du hast gesprochen. Du hast dich zurückgezogen. Du hast gewartet. Und es passiert — nichts.
 

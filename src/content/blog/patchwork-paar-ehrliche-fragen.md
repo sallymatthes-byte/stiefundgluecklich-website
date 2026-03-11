@@ -26,7 +26,7 @@ In dieser besonderen Podcastfolge habe ich meinen Partner zu Gast. Wir beantwort
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Patchwork-Paar: Ehrliche Fragen, die sich keiner traut zu stellen" an — auf [YouTube](https://www.youtube.com/watch?v=rn3NUfkkUN4) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Patchwork-Paar: Ehrliche Fragen, die sich keiner traut zu stellen" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -41,6 +41,8 @@ Die Ex. Die Umgangsregelung. Das Bonuskind, das dich ablehnt. Das eigene Kind, d
 > **Sally Matthes, Coach für Bonusmamas:** *„Ich sage meinen Klientinnen immer: Eure Beziehung ist nicht die Priorität Nummer eins — sie ist die Grundlage für alles andere. Wenn die Beziehung bröckelt, bröckelt die ganze Familie. Und Beziehungen bröckeln nicht durch Streit — sie bröckeln durch Schweigen."*
 
 ![Paar sitzt zusammen auf dem Sofa und führt ein offenes Gespräch über Patchwork-Herausforderungen](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
+
+---
 
 ## Die 7 Fragen, die Patchwork-Paare sich stellen sollten
 
@@ -74,6 +76,8 @@ Kein abstrakter Vorsatz, sondern ein konkreter Plan: Wann, wie oft, was tun wir,
 
 Nicht nur die Probleme benennen. Auch das, was funktioniert. Was euch zusammenhält. Warum ihr euch jeden Tag wieder füreinander entscheidet. **Dankbarkeit ist kein Weichspüler — sie ist ein Anker.**
 
+---
+
 ## Wie Papa die Bonusmama-Rolle wirklich erlebt
 
 In unserem Gespräch hat mein Partner etwas gesagt, das mich überrascht hat: Er sieht viel mehr, als er zeigt. Die kleinen Gesten. Die Momente, in denen ich für seine Kinder da bin, obwohl es mir schwerfällt. Die Abende, an denen ich zurückstecke, obwohl ich lieber weggehen würde.
@@ -83,6 +87,8 @@ In unserem Gespräch hat mein Partner etwas gesagt, das mich überrascht hat: Er
 Das ist keine Entschuldigung. Aber es ist eine Erklärung. Und Erklärungen können Brücken bauen, wo Vorwürfe Mauern errichten.
 
 ![Paar geht gemeinsam durch einen herbstlichen Park, Hand in Hand](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-3.jpg)
+
+---
 
 ## Der Schlüssel: Regelmäßige, geplante Ehrlichkeit
 
@@ -100,7 +106,7 @@ Die Fragen, die du nicht stellst, verschwinden nicht. Sie werden zu Gräben. **U
 
 ## Häufig gestellte Fragen
 
-<!-- FAQ_START -->
+<!-- FAQ_START
 
 ### Wie starte ich ein ehrliches Gespräch mit meinem Patchwork-Partner?
 
@@ -118,4 +124,4 @@ Mindestens einmal pro Woche ein kurzes Check-in von 15-20 Minuten. Laut dem Deut
 
 Absolut. Laut Forschung durchlaufen Stieffamilien in den ersten 4-7 Jahren intensive Anpassungsphasen. Zweifel gehören dazu und sind kein Zeichen von Versagen. Problematisch werden sie erst, wenn sie unausgesprochen bleiben und sich zu Resignation verfestigen.
 
-<!-- FAQ_END -->
+

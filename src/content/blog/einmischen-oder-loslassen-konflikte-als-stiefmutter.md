@@ -24,7 +24,7 @@ Die Forschung zeigt: In Deutschland leben rund 1,1 Millionen Patchworkfamilien (
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Einmischen oder loslassen? Konflikte als Stiefmutter navigieren" an — auf Spotify oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Einmischen oder loslassen? Konflikte als Stiefmutter navigieren" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -41,9 +41,9 @@ Du bist nicht irrational, wenn du helfen willst. Im Gegenteil — es zeigt, wie 
 
 ---
 
-## Wann Rückzug Stärke ist
-
 ![Frau sitzt ruhig auf dem Sofa mit einer Tasse Tee, während im Hintergrund verschwommen eine Gesprächssituation stattfindet](/images/blog/einmischen-oder-loslassen-konflikte-als-stiefmutter-2.jpg)
+
+## Wann Rückzug Stärke ist
 
 Es gibt Situationen, in denen das Beste, was du tun kannst, *nichts tun* ist. Nicht aus Gleichgültigkeit — sondern aus Klarheit.
 

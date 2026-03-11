@@ -152,6 +152,8 @@ In der Patchworkfamilie passieren selten die großen Hallmark-Momente. Kein „I
 
 **Diese Momente sind dein Beweis, dass es funktioniert.** Nicht perfekt. Nicht wie im Film. Aber echt. Und echt ist besser als perfekt.
 
+> „Patchworkfamilien brauchen keine Perfektion — sie brauchen Klarheit, Geduld und den Mut, immer wieder miteinander zu reden." — Sally Matthes, Coach für Bonusmamas
+
 ---
 
 ## Zusammenfassung: Die 10 Regeln auf einen Blick

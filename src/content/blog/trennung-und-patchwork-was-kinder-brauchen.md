@@ -29,9 +29,9 @@ Laut Bray & Kelly (1998) braucht der Übergang von der Kernfamilie zur Patchwork
 
 ---
 
-## Was die Trennung mit Kindern macht
-
 ![Mutter und Kind halten Hände, Rückenansicht, warme Farben](/images/blog/narzissmus-in-patchworkfamilien-2.jpg)
+
+## Was die Trennung mit Kindern macht
 
 Es ist nicht die Trennung selbst, die Kinder belastet. Es ist das *Wie*.
 

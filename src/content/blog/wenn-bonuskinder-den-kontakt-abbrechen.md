@@ -43,9 +43,9 @@ Wenn du ähnliche Dynamiken mit der Ex erlebst, lies auch: [Aus dem Schatten der
 
 ---
 
-## Wie die eigene Kindheit die Bonusmama-Rolle prägt
-
 ![Frau hält sich die Hand ans Herz und schließt die Augen — innere Arbeit und Heilung als Bonusmama](/images/blog/wenn-bonuskinder-den-kontakt-abbrechen-2.jpg)
+
+## Wie die eigene Kindheit die Bonusmama-Rolle prägt
 
 Im Interview erzählt Fleur etwas, das vielen Bonusmamas die Augen öffnet: Ihre Reaktion auf den Kontaktabbruch hatte nicht nur mit der aktuellen Situation zu tun — sondern auch mit ihrer eigenen Geschichte.
 
@@ -108,9 +108,6 @@ Mehr Orientierung findest du in der [Stiefmutter-Rolle](/blog/stiefmutter/) und 
 Der Kontaktabbruch durch Bonuskinder ist eine der schmerzhaftesten Erfahrungen als Bonusmama. Fleurs Geschichte zeigt: Es ist möglich, daran nicht zu zerbrechen — sondern zu wachsen. Der Schlüssel liegt darin, den Schmerz zuzulassen, die eigene Geschichte zu reflektieren, professionelle Hilfe anzunehmen und den eigenen Wert nicht an der Beziehung zu den Kindern festzumachen. Du bist nicht gescheitert, wenn die Kinder gehen. Du hast gegeben, was du konntest — und das zählt.
 
 <!-- FAQ_START
-
----
-
 ## Häufige Fragen
 
 ### Ist es meine Schuld, wenn Bonuskinder den Kontakt abbrechen?
