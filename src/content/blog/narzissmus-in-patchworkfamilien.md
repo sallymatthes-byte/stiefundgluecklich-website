@@ -79,7 +79,7 @@ Das betrifft dich als Bonusmama ganz direkt:
 
 Diese Belastung ist *real*. Du bildest dir das nicht ein. Und du bist nicht „zu empfindlich", wenn dich das mitnimmt. Es ist eine Situation, die selbst die stabilsten Menschen an ihre Grenzen bringt.
 
-Wenn du dich fragst, wo deine Grenzen in diesem System sein dürfen: Lies auch meinen Artikel über [Grenzen setzen in der Patchworkfamilie](/blog/grenzen-setzen-in-der-patchworkfamilie/).
+Wenn du dich fragst, wo deine Grenzen in diesem System sein dürfen: Lies auch meinen Artikel über [Grenzen setzen mit der Ex](/blog/grenzen-setzen-mit-der-ex/).
 
 
 ---
@@ -126,7 +126,7 @@ Konkret bedeutet das:
 
 **Nur Fakten, nur die Kinder betreffend.** Keine persönlichen Themen, keine Vergangenheitsbewältigung, keine Diskussionen über die Beziehung. BIFF-Methode: Brief (kurz), Informative (informativ), Friendly (freundlich), Firm (bestimmt).
 
-Wenn du tiefer ins Thema Kommunikation einsteigen willst, schau dir meinen Artikel über [Kommunikation in Patchworkfamilien](/blog/kommunikation-in-patchworkfamilien/) an.
+Wenn du tiefer ins Thema Kommunikation einsteigen willst, schau dir meinen Artikel über [aktives Zuhören in Patchworkfamilien](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) an.
 
 ### Dokumentation als Schutzschild
 

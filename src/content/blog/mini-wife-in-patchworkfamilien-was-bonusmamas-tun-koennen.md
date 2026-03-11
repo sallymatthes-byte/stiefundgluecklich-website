@@ -51,6 +51,8 @@ Diese Erkenntnis hat etwas in mir verändert. Nicht, weil es sofort leicht wurde
 
 ![Nachdenkliche Bonusmama sitzt allein auf dem Sofa im warmen Licht](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-2.jpg)
 
+---
+
 ## Was steckt wirklich hinter dem Mini-Wife-Syndrom?
 
 Der Begriff „Mini-Wife" stammt aus der englischsprachigen Patchwork-Community und beschreibt eine Form der Parentifizierung — ein Kind übernimmt Aufgaben und Verhaltensweisen, die eigentlich der erwachsenen Partnerin zustehen. In der Familienpsychologie ist dieses Phänomen gut dokumentiert (Papernow, 2013; Bray & Kelly, 1998): Kinder füllen nach einer Trennung unbewusst die emotionale Lücke, die der fehlende Elternteil hinterlässt.
@@ -73,6 +75,8 @@ Und was du als Bonusmama erlebst, ist mehr als unangenehm:
 
 ![Patchworkfamilie findet gemeinsam neue Verbundenheit](/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-3.jpg)
 
+---
+
 ## Was mich so lange davon abgehalten hat, etwas zu sagen
 
 Da war zum Beispiel diese leise Stimme in mir, die sagte: "Du willst dich doch nicht mit einem Kind vergleichen, oder?" Ich schämte mich für meine Gedanken. Für das Gefühl, dass ich mich in meiner eigenen Beziehung wie eine Außenseiterin fühlte - und dass ich ausgerechnet sie, die Tochter, als Grund dafür empfand.
@@ -88,6 +92,8 @@ Und vielleicht das größte Hindernis: Ich wusste gar nicht, wie ich das Thema a
 Erst als ich verstand, dass es nicht um Schuld oder Rechtfertigung geht, sondern um Beziehung, um gesunde Strukturen und emotionale Sicherheit für alle Beteiligten, konnte ich die Dynamik wirklich benennen.
 
 Und du darfst das auch. Du darfst sagen: "So wie es ist, fühlt es sich nicht gut an." Ohne Drama. Aber mit Klarheit.
+
+---
 
 ## Die Bonusmama-Formel: Was du konkret tun kannst
 
@@ -121,6 +127,8 @@ Suche kleine Rituale, in denen Nähe entstehen darf - ohne Zwang, ohne Konkurren
 
 Und wenn's nicht klappt? Dann ist auch das okay. Nähe darf wachsen. Und braucht oft Zeit.
 
+---
+
 ## Du darfst deinen Platz einnehmen - ohne Schuld, ohne Konkurrenz
 
 Die Tochter deines Partners ist kein Gegner. Sie ist ein Kind, das seinen Platz sucht.
@@ -133,7 +141,13 @@ Die Tochter deines Partners ist kein Gegner. Sie ist ein Kind, das seinen Platz 
 
 Und genau dafür bin ich da.
 
-Du denkst vielleicht: "Ich will kein Drama machen." Oder: "Ich will dem Kind nichts wegnehmen." Aber was, wenn es nicht um Wegnehmen geht - sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht - sondern für das ganze System gut ist?
+Du denkst vielleicht: „Ich will kein Drama machen." Oder: „Ich will dem Kind nichts wegnehmen." Aber was, wenn es nicht um Wegnehmen geht - sondern ums Ergänzen? Was, wenn dein Platz nicht auf Kosten anderer entsteht - sondern für das ganze System gut ist?
+
+---
+
+## Zusammenfassung
+
+Das Mini-Wife-Syndrom ist keine böswillige Aktion eines Kindes — es ist ein Zeichen dafür, dass Rollen und Grenzen in der Familie unklar sind. Als Bonusmama darfst du das benennen, ohne Schuld zuzuweisen. Der Schlüssel liegt im offenen Gespräch mit deinem Partner, in klaren Strukturen und in der Erkenntnis: Du bist die Partnerin, nicht die Konkurrentin. Und das Kind braucht die Erlaubnis, Kind zu sein.
 
 <!-- FAQ_START
 

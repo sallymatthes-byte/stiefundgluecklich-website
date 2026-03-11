@@ -51,7 +51,7 @@ Erinnern wir uns daran, dass wir Teil einer wunderbaren Familie sind - auch wenn
 Sprechen wir mit unserem Partner über unsere Gefühle und suchen gemeinsam nach Wegen, wie wir uns gegenseitig noch besser unterstützen und wertschätzen können.
 Und geben wir auch den Kindern die Chance, ihre Dankbarkeit auf ihre eigene Art und Weise auszudrücken. Auch wenn es nicht am Muttertag ist.
 
-> „Der Muttertag gehört nicht einer bestimmten Person — er gehört den Beziehungen. Und als Bonusmama darfst du dich fragen: Was bedeutet dieser Tag für *mich*? Nicht was er laut Kalender bedeuten soll." — Sally Matthes, Coach für Bonusmamas
+> "Der Muttertag gehört nicht einer bestimmten Person - er gehört den Beziehungen. Und als Bonusmama darfst du dich fragen: Was bedeutet dieser Tag für *mich*? Nicht was er laut Kalender bedeuten soll." - Sally Matthes, Coach für Bonusmamas
 
 > „Man ist nicht enttäuscht von dem, was ein anderer tut (oder nicht tut), sondern nur über die eigene Erwartung an den anderen." – Mark Twain
 
@@ -85,7 +85,7 @@ Wie können wir also den Muttertag in unserer Patchworkfamilie zu einem harmonis
 
 Denk immer daran: Du bist ein wertvoller Teil eurer Patchworkfamilie und leistest jeden Tag Großartiges. Genieße die gemeinsame Zeit, lache, spiele und zeige deiner Familie, wie sehr du sie liebst.
 
-Mehr dazu, wie du deinen eigenen Platz in der [Patchworkfamilie](/blog/patchworkfamilie/) findest — auch an emotional aufgeladenen Tagen — erfährst du im Überblicksartikel zur [Stiefmutter-Rolle](/blog/stiefmutter/).
+Mehr dazu, wie du deinen eigenen Platz in der [Patchworkfamilie](/blog/patchworkfamilie/) findest - auch an emotional aufgeladenen Tagen - erfährst du im Überblicksartikel zur [Stiefmutter-Rolle](/blog/stiefmutter/).
 
 ---
 
