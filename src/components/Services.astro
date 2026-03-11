@@ -2,7 +2,7 @@
 const services = [
   {
     badge: "Dein Einstieg",
-    icon: "🌱",
+    iconSvg: `<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1.5M12 19.5V21M4.22 4.22l1.06 1.06M17.72 17.72l1.06 1.06M3 12h1.5M19.5 12H21M4.22 19.78l1.06-1.06M17.72 6.28l1.06-1.06" /><circle cx="12" cy="12" r="4" /></svg>`,
     title: "ITS Bundle",
     price: "59 €",
     description: "Für die Nächte, in denen du dich fragst: Bin ich hier richtig? Drei Impulse, die dir sofort helfen — Zugehörigkeit, Kommunikation und Grenzen.",
@@ -12,29 +12,26 @@ const services = [
       "Setting limits (Übungen mit denen du lernst Grenzen zu setzen)",
       "Sofort verfügbar",
     ],
-    highlight: false,
     link: "/its-bundle",
     linkLabel: "Starte jetzt",
   },
   {
     badge: "Das Intensivprogramm",
-    icon: "🔥",
+    iconSvg: `<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15.362 5.214A8.252 8.252 0 0112 21 8.25 8.25 0 016.038 7.048 6.51 6.51 0 009 11.5a3 3 0 105.618-1.49A4.49 4.49 0 0015.362 5.214z" /></svg>`,
     title: "BeyondBonus",
     price: "497 €",
     description: "Du willst nicht nur verstehen, sondern wirklich etwas verändern? In 10 Wochen findest du deinen Platz in der Patchworkfamilie — mit Begleitung, nicht allein.",
     features: ["10 Wochen Programm", "12 Monate Zugang", "Video-Module & Worksheets"],
-    highlight: true,
     link: "/beyondbonus",
     linkLabel: "Mehr erfahren",
   },
   {
     badge: "Persönliche Begleitung",
-    icon: "💎",
+    iconSvg: `<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z" /></svg>`,
     title: "1:1 Coaching",
     price: "Warteliste",
     description: "Für Bonusmamas, die bereit sind, in die Tiefe zu gehen. Du und ich, deine Situation, dein Weg — kein Schema F.",
     features: ["6 intensive Sessions", "Telegram-Betreuung dazwischen", "100% auf dich zugeschnitten"],
-    highlight: false,
     link: "/warteliste",
     linkLabel: "Auf die Warteliste",
   },
@@ -57,28 +54,21 @@ const services = [
     <!-- Services Grid -->
     <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
       {services.map((service) => (
-        <div class={`relative overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-1 border bg-card p-6 flex flex-col ${
-          service.highlight ? 'border-primary bg-gradient-to-b from-primary/5 to-transparent' : 'border-border'
-        }`}>
-          {service.highlight && (
-            <div class="absolute top-0 left-0 right-0 h-1 bg-primary"></div>
-          )}
+        <div class="relative overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-1 border border-border bg-card p-6 flex flex-col">
 
           <span class="text-xs font-medium text-primary uppercase tracking-wider mb-3">
             {service.badge}
           </span>
 
-          <div class={`w-12 h-12 flex items-center justify-center mb-4 text-2xl ${
-            service.highlight ? 'bg-primary text-primary-foreground' : 'bg-secondary text-primary'
-          }`}>
-            {service.icon}
+          <div class="w-12 h-12 flex items-center justify-center mb-4 bg-secondary text-primary">
+            <Fragment set:html={service.iconSvg} />
           </div>
 
           <h3 class="font-serif text-xl font-semibold text-foreground mb-1">
             {service.title}
           </h3>
 
-          <p class="font-serif text-2xl text-primary font-semibold mb-3">
+          <p class="font-serif text-xl text-primary font-semibold mb-3">
             {service.price}
           </p>
 
