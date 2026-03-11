@@ -13,7 +13,7 @@ youtubeId: "HFjX51__zYc"
 buzzsproutId: 18809787
 ---
 
-**Die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden, ist eine der größten Daueraufgaben in der Patchworkfamilie.** Laut Patricia Papernow (2013) ist die häufigste Falle für [Stiefmütter](/blog/stiefmutter/), die Mutterrolle zu übernehmen und dabei die Partnerschaft zu verlieren. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024) — und in vielen davon kämpfen Bonusmamas genau mit dieser Balance.
+**Die Balance zwischen Partnerschaft und Bonusmama-Sein zu finden, ist eine der größten Daueraufgaben in der Patchworkfamilie.** Laut Patricia Papernow (2013) ist die häufigste Falle für [Stiefmütter](/blog/stiefmutter/), die Mutterrolle zu übernehmen und dabei die Partnerschaft zu verlieren. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024) — und in vielen davon kämpfen Bonusmamas genau mit dieser Balance.
 
 
 Kennst du das Gefühl, als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) immer mehr in die [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) der Mutter zu schlüpfen und dabei die Partnerschaft zu vernachlässigen? Du bist nicht allein! Viele Frauen in Patchwork-Familien stehen vor der Herausforderung, die richtige Balance zwischen der Verantwortung für die Kinder und den Bedürfnissen der Beziehung zu finden.
@@ -25,8 +25,6 @@ In diesem Artikel möchte ich meine persönlichen Erfahrungen mit dir teilen und
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Warum es normal ist, wenn dein Bonuskind nur Papa will“ an — auf [Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) oder überall, wo du Podcasts hörst.
-
----
 
 ---
 

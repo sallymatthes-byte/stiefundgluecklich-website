@@ -11,7 +11,7 @@ image: "/images/blog/wenn-der-partner-zoegert-1.jpg"
 imageAlt: "Paar sitzt nachdenklich auf dem Sofa und spricht über die gemeinsame Zukunft"
 ---
 
-**Wenn dein Partner beim nächsten Schritt zögert — ob zusammenziehen, heiraten oder ein gemeinsames Kind — kann das in einer Patchworkfamilie besonders schmerzhaft sein.** Laut Bray & Kelly (1998) bringen Partner in Patchworkfamilien fast immer unverarbeitete Verlustangst aus der Vorbeziehung mit — und die bremst neue Schritte. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Sein Zögern hat oft weniger mit dir zu tun als mit seinen Erfahrungen.
+**Wenn dein Partner beim nächsten Schritt zögert — ob zusammenziehen, heiraten oder ein gemeinsames Kind — kann das in einer Patchworkfamilie besonders schmerzhaft sein.** Laut Bray & Kelly (1998) bringen Partner in Patchworkfamilien fast immer unverarbeitete Verlustangst aus der Vorbeziehung mit — und die bremst neue Schritte. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Sein Zögern hat oft weniger mit dir zu tun als mit seinen Erfahrungen.
 
 
 Wir alle bringen unsere Erfahrungen mit in eine Beziehung. Doch in einer Patchworkfamilie scheinen die manchmal tiefgreifender zu sein. „Ich möchte noch nicht [zusammenziehen](/blog/gemeinsame-wohnung-patchworkfamilie/)", „Ich will nicht noch einmal heiraten" oder „Ich will keine Kinder mehr" sind oft Aussagen, die Bonusmamas vor den Kopf stoßen. Doch wie kannst du damit umgehen, wenn dein Partner zögert und den nächsten Schritt nicht wagen will?

@@ -16,7 +16,7 @@ imageAlt: "Bonusmama und leibliche Mutter im Gespräch über Erziehung"
 
 „Das hat sie jetzt nicht wirklich getan!", rief Bonusmama Laura, als ihr Partner ihr erzählte, dass die leibliche Mutter Sabine das gemeinsame Kind zum Fußballcamp angemeldet hat. Ausgerechnet in der Zeit, in der Laura und Paul schon Urlaub mit dem Kind geplant hatten.
 
-Eine Situation, die es so in vielen Patchworkfamilien gibt. Das Leben in einer Patchworkfamilie kann eine bereichernde Erfahrung sein, voller Liebe, Lernen und Wachstum. Es ist jedoch auch komplex und birgt eigene [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) – insbesondere, wenn es um das Verhältnis zwischen Bonusmama und leiblicher Mutter geht. Oftmals ist dieses Verhältnis von Missverständnissen, Konflikten und Unsicherheiten geprägt.
+Eine Situation, die es so in vielen Patchworkfamilien gibt. Das Leben in einer Patchworkfamilie kann eine bereichernde Erfahrung sein, voller Liebe, Lernen und Wachstum. Es ist jedoch auch komplex und birgt eigene [Herausforderungen](/blog/patchworkfamilie/) – insbesondere, wenn es um das Verhältnis zwischen Bonusmama und leiblicher Mutter geht. Oftmals ist dieses Verhältnis von Missverständnissen, Konflikten und Unsicherheiten geprägt.
 
 Als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) kann man sich manchmal wie eine Drahtseilartistin fühlen, die versucht, den Balanceakt zwischen Respekt für die leibliche Mutter und dem Wunsch, eine authentische Beziehung zu den Kindern aufzubauen, zu meistern.
 
@@ -29,8 +29,6 @@ Egal, ob du selbst eine Bonusmama bist, eine leibliche Mutter in einer Patchwork
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin? Wie ihr besser miteinander auskommt“ an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
-
----
 
 ---
 

@@ -13,7 +13,7 @@ youtubeId: "eaOdyda7YTQ"
 buzzsproutId: 18809772
 ---
 
-**Das Eisberg-Modell zeigt, dass in Patchworkfamilien das meiste unter der Oberfläche passiert — und dass die sichtbaren Konflikte nur die Spitze sind.** In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) sind die meisten Konflikte in Stieffamilien Symptome tieferliegender Bedürfnisse. Patricia Papernow (2013) beschreibt das als die „Insider-Outsider“-Dynamik. Hier erfährst du, wie du unter die Oberfläche schaust.
+**Das Eisberg-Modell zeigt, dass in Patchworkfamilien das meiste unter der Oberfläche passiert — und dass die sichtbaren Konflikte nur die Spitze sind.** In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) sind die meisten Konflikte in Stieffamilien Symptome tieferliegender Bedürfnisse. Patricia Papernow (2013) beschreibt das als die „Insider-Outsider“-Dynamik. Hier erfährst du, wie du unter die Oberfläche schaust.
 
 
 Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das oft verwendet wird, um zu veranschaulichen, dass viele unserer Verhaltensweisen, Reaktionen und Entscheidungen von unbewussten Gedanken, Gefühlen und Motivationen beeinflusst werden, die unter der Oberfläche liegen. Und wir schauen uns heute mal an, wie das Eisberg-Modell einer Patchworkfamilie helfen kann.
@@ -21,8 +21,6 @@ Vermutlich kennst du das Eisberg-Modell. Es ist ein psychologisches Konzept, das
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Wie das Eisbergmodell dir hilft, dein Bonuskind zu verstehen“ an — auf [Spotify](https://open.spotify.com/episode/25NGmWb7iGxTTBFN0SlMhk) oder überall, wo du Podcasts hörst.
-
----
 
 ---
 
