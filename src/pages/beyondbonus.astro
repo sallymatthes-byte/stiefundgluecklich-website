@@ -17,10 +17,10 @@ import Layout from '../layouts/Layout.astro'
           <span class="text-sm font-medium text-primary">Online-Intensivprogramm – Starte sofort</span>
         </div>
         <p class="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Das Programm für Bonusmamas</p>
-        <h1 class="text-5xl md:text-6xl lg:text-7xl mb-6 leading-tight">BEYOND BONUS</h1>
-        <p class="text-lg md:text-xl mb-4 leading-relaxed">Du funktionierst. Du schluckst. Du fragst dich abends, ob das hier jemals dein Zuhause wird.</p>
-        <p class="text-xl md:text-2xl font-serif text-muted-foreground mb-8">17+ Stunden. 9 Module. Ein System.<br /><span class="text-foreground font-medium">Damit du aufhörst zu grübeln – und anfängst, etwas zu verändern.</span></p>
-        <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity mb-8">Jetzt Zugang sichern – 497 €</a>
+        <h1 class="text-3xl md:text-5xl lg:text-6xl mb-6 leading-tight">BEYOND BONUS</h1>
+        <p class="text-base md:text-lg mb-4 leading-relaxed">Du funktionierst. Du schluckst. Du fragst dich abends, ob das hier jemals dein Zuhause wird.</p>
+        <p class="text-base md:text-lg font-serif text-muted-foreground mb-8">17+ Stunden. 9 Module. Ein System.<br /><span class="text-foreground font-medium">Damit du aufhörst zu grübeln – und anfängst, etwas zu verändern.</span></p>
+        <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity mb-8">Jetzt Zugang sichern – 497 €</a>
         <div class="flex flex-wrap gap-6 text-sm text-muted-foreground">
           <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 17+ Stunden Video-Module</div>
           <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 10-Wochen E-Mail-Begleitung</div>
@@ -34,18 +34,18 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- Problem -->
-  <section class="py-20">
+  <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6">
       <div class="grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <h2 class="text-3xl md:text-4xl lg:text-5xl mb-8 leading-tight">„Du hast schon alles versucht – Podcasts, Blogs, Instagram-Tipps. Und trotzdem ändert sich nichts."</h2>
-          <div class="space-y-4 text-lg text-muted-foreground">
+          <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-8 leading-snug">„Du hast schon alles versucht – Podcasts, Blogs, Instagram-Tipps. Und trotzdem ändert sich nichts."</h2>
+          <div class="space-y-4 text-base text-muted-foreground">
             <p>Du liest. Du hörst zu. Du probierst aus.</p>
             <p>Aber abends liegst du trotzdem wach und fragst dich, ob du jemals wirklich dazugehören wirst.</p>
             <p>Das Problem ist nicht, dass du zu wenig weißt. Das Problem ist: Es fehlt die Reihenfolge, die Tiefe und ein System, das dich Schritt für Schritt durchführt.</p>
             <p class="text-foreground font-medium pt-4">Beyond Bonus ist dieses System.</p>
           </div>
-          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt dein System holen</a>
+          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity">Jetzt dein System holen</a>
         </div>
         <div class="hidden md:block">
           <img src="/images/warteliste/sally-creek.jpg" alt="Sally am Bach" class="w-full aspect-[4/5] object-cover" />
@@ -55,11 +55,11 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- Transformations -->
-  <section class="py-20 bg-secondary">
+  <section class="py-16 md:py-28 bg-secondary">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center mb-16">
-        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">Deine Transformation</h2>
-        <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Von der Grübelspirale zum klaren System – in deinem Tempo</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Deine Transformation</h2>
+        <p class="text-base text-muted-foreground max-w-2xl mx-auto">Von der Grübelspirale zum klaren System – in deinem Tempo</p>
       </div>
       <div class="max-w-4xl mx-auto space-y-6">
         {[
@@ -70,9 +70,9 @@ import Layout from '../layouts/Layout.astro'
           ["Ich weiß nicht, wo ich anfangen soll, etwas zu ändern", "Ich habe einen klaren Fahrplan, dem ich Woche für Woche folge"],
         ].map(([before, after]) => (
           <div class="grid md:grid-cols-[1fr,auto,1fr] gap-4 items-center bg-background border border-border p-6">
-            <div class="text-muted-foreground italic">„{before}"</div>
+            <div class="text-muted-foreground text-base">„{before}"</div>
             <div class="hidden md:flex justify-center"><svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></div>
-            <div class="text-foreground font-medium">„{after}"</div>
+            <div class="text-foreground font-medium text-base">„{after}"</div>
           </div>
         ))}
       </div>
@@ -80,11 +80,11 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- 9 Module -->
-  <section class="py-20">
+  <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center mb-16">
-        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">9 Module. 17+ Stunden. Ein System.</h2>
-        <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Kein Sammelsurium aus Tipps, sondern ein strukturierter Fahrplan – in der richtigen Reihenfolge, mit der nötigen Tiefe.</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">9 Module. 17+ Stunden. Ein System.</h2>
+        <p class="text-base text-muted-foreground max-w-2xl mx-auto">Kein Sammelsurium aus Tipps, sondern ein strukturierter Fahrplan – in der richtigen Reihenfolge, mit der nötigen Tiefe.</p>
       </div>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-20">
         {[
@@ -111,7 +111,7 @@ import Layout from '../layouts/Layout.astro'
       <!-- What's included -->
       <div class="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
         <div>
-          <h3 class="text-2xl md:text-3xl mb-8">Das bekommst du:</h3>
+          <h3 class="font-serif text-xl md:text-2xl mb-8">Das bekommst du:</h3>
           <div class="space-y-6">
             {[
               ["17+ Stunden Video-Module", "Unterwegs anhörbar wie intensive Podcastfolgen – aber mit System und Reihenfolge."],
@@ -123,7 +123,7 @@ import Layout from '../layouts/Layout.astro'
               <div class="flex gap-4">
                 <div class="flex-shrink-0 w-1 bg-primary"></div>
                 <div>
-                  <h4 class="font-semibold mb-1">{title}</h4>
+                  <h4 class="font-semibold mb-1 text-base">{title}</h4>
                   <p class="text-sm text-muted-foreground">{desc}</p>
                 </div>
               </div>
@@ -138,14 +138,14 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- For You -->
-  <section class="py-20 bg-secondary">
+  <section class="py-16 md:py-28 bg-secondary">
     <div class="container mx-auto px-5 md:px-6">
       <div class="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
         <div class="order-2 md:order-1">
           <img src="/images/warteliste/sally-moss.jpg" alt="Sally in der Natur" class="w-full aspect-[4/5] object-cover" />
         </div>
         <div class="order-1 md:order-2">
-          <h2 class="text-3xl md:text-4xl mb-8">Beyond Bonus ist für dich, wenn du...</h2>
+          <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-8 leading-snug">Beyond Bonus ist für dich, wenn du...</h2>
           <ul class="space-y-4">
             {[
               "...abends wach liegst und dich fragst, ob du jemals wirklich dazugehören wirst",
@@ -159,37 +159,37 @@ import Layout from '../layouts/Layout.astro'
                 <div class="flex-shrink-0 w-6 h-6 bg-primary flex items-center justify-center mt-0.5">
                   <svg class="w-4 h-4 text-primary-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
                 </div>
-                <span class="text-lg">{point}</span>
+                <span class="text-base">{point}</span>
               </li>
             ))}
           </ul>
-          <p class="mt-8 text-lg font-medium">Du brauchst keine schnellen Tipps. Du brauchst ein System.</p>
-          <p class="mt-2 text-lg text-primary font-serif italic">Beyond Bonus ist dieses System.</p>
-          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Ich bin dabei – 497 €</a>
+          <p class="mt-8 text-base font-medium">Du brauchst keine schnellen Tipps. Du brauchst ein System.</p>
+          <p class="mt-2 text-base text-primary font-serif">Beyond Bonus ist dieses System.</p>
+          <a href="#pricing" class="inline-block mt-8 bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity">Ich bin dabei – 497 €</a>
         </div>
       </div>
     </div>
   </section>
 
   <!-- About Sally -->
-  <section class="py-20">
+  <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6">
       <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center max-w-5xl mx-auto">
         <div class="relative">
           <img src="/images/sally-smiling.jpeg" alt="Sally – Dein Coach für Bonusmamas" class="shadow-2xl w-full max-w-md mx-auto" />
         </div>
         <div>
-          <p class="text-primary font-medium mb-4">Dein Coach</p>
-          <h2 class="text-3xl md:text-4xl lg:text-5xl mb-6"><span class="italic text-gold">Hallo,</span> ich bin Sally</h2>
-          <div class="space-y-4 text-muted-foreground leading-relaxed">
+          <p class="text-primary font-medium mb-4 text-sm">Dein Coach</p>
+          <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5"><span class="italic text-gold">Hallo,</span> ich bin Sally</h2>
+          <div class="space-y-4 text-muted-foreground leading-relaxed text-base">
             <p>Ich bin selbst Bonusmama. Seit über 6 Jahren.</p>
             <p>Ich weiß, wie es ist, abends wach zu liegen und sich zu fragen: Gehöre ich hier wirklich hin?</p>
             <p>Beyond Bonus ist alles, was ich in 6 Jahren als Bonusmama und Coach gelernt habe – strukturiert, in der richtigen Reihenfolge und so aufbereitet, dass du es in deinem Tempo durcharbeiten kannst. <strong class="text-foreground">Kein Rätselraten. Sondern ein System.</strong></p>
           </div>
           <div class="mt-8 grid grid-cols-3 gap-4">
-            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">100+</p><p class="text-sm text-muted-foreground">Begleitete Bonusmamas</p></div>
-            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">6+</p><p class="text-sm text-muted-foreground">Jahre Erfahrung</p></div>
-            <div class="text-center"><p class="font-serif text-3xl font-semibold text-primary">17+</p><p class="text-sm text-muted-foreground">Stunden Kursmaterial</p></div>
+            <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">100+</p><p class="text-xs md:text-sm text-muted-foreground">Begleitete Bonusmamas</p></div>
+            <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">6+</p><p class="text-xs md:text-sm text-muted-foreground">Jahre Erfahrung</p></div>
+            <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">17+</p><p class="text-xs md:text-sm text-muted-foreground">Stunden Kursmaterial</p></div>
           </div>
         </div>
       </div>
@@ -197,12 +197,12 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- Testimonials -->
-  <section class="py-20 bg-secondary">
+  <section class="py-16 md:py-28 bg-secondary">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center max-w-3xl mx-auto mb-12">
-        <p class="text-primary font-medium mb-4">Erfahrungen</p>
-        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-6">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
-        <p class="text-lg text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
+        <p class="text-primary font-medium mb-4 text-sm">Erfahrungen</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
+        <p class="text-base text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
       </div>
       <div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
         {[
@@ -225,11 +225,11 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- FAQ -->
-  <section class="py-20">
+  <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6 max-w-3xl">
       <div class="text-center mb-12">
-        <p class="text-primary font-medium mb-4">Häufige Fragen</p>
-        <h2 class="text-3xl md:text-4xl mb-4">Alles, was du wissen musst</h2>
+        <p class="text-primary font-medium mb-4 text-sm">Häufige Fragen</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Alles, was du wissen musst</h2>
       </div>
       <div class="space-y-0 divide-y divide-border">
         {[
@@ -241,31 +241,31 @@ import Layout from '../layouts/Layout.astro'
           ["Gibt es eine Ratenzahlung?", "Nein, Beyond Bonus ist als einmalige Zahlung von 497 € verfügbar. Kein Abo, keine versteckten Kosten."],
         ].map(([q, a]) => (
           <details class="group py-5">
-            <summary class="flex justify-between items-center cursor-pointer list-none font-serif text-lg"><span>{q}</span><span class="text-muted-foreground group-open:rotate-180 transition-transform">▾</span></summary>
-            <p class="mt-4 text-muted-foreground leading-relaxed">{a}</p>
+            <summary class="flex justify-between items-center cursor-pointer list-none font-serif text-base md:text-lg"><span>{q}</span><span class="text-muted-foreground group-open:rotate-180 transition-transform">▾</span></summary>
+            <p class="mt-4 text-base text-muted-foreground leading-relaxed">{a}</p>
           </details>
         ))}
       </div>
       <div class="text-center mt-12">
-        <p class="text-lg mb-2">Noch unsicher?</p>
-        <p class="text-muted-foreground mb-6">Schreib mir eine E-Mail an <a href="mailto:willkommen@sallymatthes.com" class="text-primary hover:underline">willkommen@sallymatthes.com</a> – ich antworte persönlich.</p>
+        <p class="text-base mb-2">Noch unsicher?</p>
+        <p class="text-base text-muted-foreground mb-6">Schreib mir eine E-Mail an <a href="mailto:willkommen@sallymatthes.com" class="text-primary hover:underline">willkommen@sallymatthes.com</a> – ich antworte persönlich.</p>
       </div>
     </div>
   </section>
 
   <!-- Pricing -->
-  <section id="pricing" class="py-20 bg-secondary">
+  <section id="pricing" class="py-16 md:py-28 bg-secondary">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center mb-12">
         <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Deine Investition</p>
-        <h2 class="text-3xl md:text-4xl lg:text-5xl mb-4">Starte jetzt mit Beyond Bonus</h2>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Starte jetzt mit Beyond Bonus</h2>
       </div>
       <div class="max-w-md mx-auto">
         <div class="bg-background p-8 ring-2 ring-primary relative">
           <div class="absolute -top-4 left-1/2 -translate-x-1/2 bg-primary text-primary-foreground px-4 py-1 text-sm">Einmalzahlung</div>
           <div class="text-center mb-6">
-            <h3 class="text-xl font-serif mb-2">Beyond Bonus</h3>
-            <div class="text-5xl font-serif">497€</div>
+            <h3 class="text-lg font-serif mb-2">Beyond Bonus</h3>
+            <div class="text-4xl font-serif">497€</div>
             <p class="text-sm text-muted-foreground mt-2">Einmalig – kein Abo</p>
           </div>
           <ul class="space-y-3 mb-8">
@@ -280,7 +280,7 @@ import Layout from '../layouts/Layout.astro'
               <input type="checkbox" id="bb-consent" required class="mt-1 w-4 h-4 accent-primary flex-shrink-0" />
               <span class="text-xs text-muted-foreground leading-relaxed">Ich stimme zu, dass mit der Bereitstellung der digitalen Inhalte sofort begonnen wird, und weiß, dass ich dadurch mein 14-tägiges Widerrufsrecht verliere.</span>
             </label>
-            <button type="submit" id="bb-submit-btn" disabled class="w-full py-4 text-lg font-medium bg-primary text-primary-foreground hover:opacity-90 transition-opacity disabled:opacity-50">Weiter zur Zahlung</button>
+            <button type="submit" id="bb-submit-btn" disabled class="w-full py-4 text-base md:text-lg font-medium bg-primary text-primary-foreground hover:opacity-90 transition-opacity disabled:opacity-50">Weiter zur Zahlung</button>
           </form>
           <p class="text-xs text-muted-foreground text-center mt-3">Sichere Bezahlung über Stripe.</p>
         </div>
@@ -289,12 +289,12 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- Final CTA -->
-  <section class="py-20">
+  <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6 max-w-3xl text-center">
-      <h2 class="text-3xl md:text-4xl mb-6">Du weißt, dass sich etwas ändern muss.</h2>
-      <p class="text-lg text-muted-foreground mb-4 leading-relaxed">Kein weiterer Podcast. Kein weiterer Tipp. Sondern ein System, das dich Schritt für Schritt durchführt.</p>
-      <p class="text-lg text-muted-foreground mb-8 leading-relaxed">17+ Stunden. 9 Module. Workbooks. E-Mail-Begleitung.<br />In deinem Tempo. Ab sofort.</p>
-      <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt loslegen – 497 €</a>
+      <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-6">Du weißt, dass sich etwas ändern muss.</h2>
+      <p class="text-base text-muted-foreground mb-4 leading-relaxed">Kein weiterer Podcast. Kein weiterer Tipp. Sondern ein System, das dich Schritt für Schritt durchführt.</p>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed">17+ Stunden. 9 Module. Workbooks. E-Mail-Begleitung.<br />In deinem Tempo. Ab sofort.</p>
+      <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity">Jetzt loslegen – 497 €</a>
     </div>
   </section>
 </Layout>
