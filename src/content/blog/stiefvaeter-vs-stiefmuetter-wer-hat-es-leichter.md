@@ -15,6 +15,12 @@ buzzsproutId: 18809788
 
 **Stiefmütter haben es in Patchworkfamilien nachweislich schwerer als Stiefväter — und das liegt nicht an mangelndem Einsatz, sondern an gesellschaftlichen Erwartungen.** Von Frauen wird erwartet, dass sie automatisch die Mutterrolle übernehmen. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — in 47 % davon leben Stiefväter, aber nur in 27 % Stiefmütter. Und trotzdem sind es die Stiefmütter, die unter mehr Druck stehen. Hier erfährst du, warum das so ist und was das für dich bedeutet.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Stiefväter vs. Stiefmütter: Wer hat es leichter?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 Als Coach für Bonusmamas in [Patchworkfamilien](/blog/patchworkfamilie/) werde ich immer wieder gefragt, weshalb ich mein Angebot nicht auch für Stiefväter ausweite.
 Wenn wir in die Literatur schauen, gibt es jetzt schon mehr Ratgeber für [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s als für Bonuspapas. Und den Ausdruck des „bösen Stiefvaters" gibt es erst recht nicht.
 Genauso wenig wie die Aussage etwas „stiefväterlich" zu behandeln. Stiefmütterlich ist jedoch eine weit verbreite Beschreibung, wenn es darum geht, etwas zu vernachlässigen.

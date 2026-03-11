@@ -44,6 +44,8 @@ Das Problem war, dass wir nie bewusst entschieden hatten, wie wir unsere Beziehu
 
 Denn genau das ist der Knackpunkt: In vielen Patchwork-Familien wird die [Paarbeziehung](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) nicht aktiv gestaltet. Sie wird von alten Mustern überrollt — und das führt dazu, dass du dich unsichtbar fühlst.
 
+---
+
 ## Warum du in den Hintergrund rutschst — und was du tun kannst
 
 Es gibt drei unbewusste Dynamiken, die dazu führen, dass du dich in deiner Beziehung unsichtbar fühlst:
@@ -60,6 +62,8 @@ Viele Eltern rutschen automatisch in Verhaltensweisen aus ihrer vorherigen Famil
 
 Viele denken: „Wir verbringen doch Zeit zusammen als Familie — das ist doch genug." Aber nein! Familienzeit ist nicht gleich Paarzeit. Wenn eure Beziehung nur noch aus Alltag, Hausaufgaben und To-do-Listen besteht, geht die emotionale Verbindung verloren.
 
+---
+
 ## Warum du in den Hintergrund rutschst — und was dich davon abhält, es zu ändern
 
 Du hast das Problem erkannt. Du fühlst dich unsichtbar und möchtest wieder als Partnerin wahrgenommen werden. Doch warum ist es so schwer, das zu ändern? Warum fällt es dir schwer, das Gespräch mit deinem Partner zu führen oder aktiv etwas zu verändern?
@@ -71,6 +75,8 @@ Dazu kommt oft eine tiefe Unsicherheit: Was, wenn mein Partner mich nicht verste
 Hinzu kommt, dass die Dynamik oft unbewusst festgefahren ist. Dein Partner ist sich möglicherweise nicht einmal bewusst, dass du dich zurückgesetzt fühlst — denn für ihn läuft alles „ganz normal". Das bedeutet, dass du nicht nur deine eigenen Zweifel überwinden musst, sondern auch eine ungesunde Beziehungsroutine durchbrechen darfst.
 
 Doch genau hier liegt deine Chance: Du kannst diese Dynamik verändern — ohne Schuldgefühle, ohne Konflikte, sondern mit Klarheit und Strategie.
+
+---
 
 ## Wie du wieder sichtbar wirst
 
@@ -130,6 +136,8 @@ Wenn du das Gefühl hast, dein Partner versteht dich nicht oder blockt ab, dann 
 Doch stell dir vor, wie es sich anfühlen würde, nicht mehr nur [Zuschauerin](/blog/aussenseiter-patchworkfamilie/) zu sein, sondern eine gleichwertige Partnerin in eurer Beziehung. Stell dir vor, dein Partner nimmt dich wieder bewusst wahr — nicht nur als „die Erwachsene, die eben auch da ist", sondern als seine wichtigste Verbündete.
 
 Stell dir vor, du wüsstest einfach: Dein Platz in der Familie ist sicher — unabhängig davon, ob die Kinder da sind oder nicht. Dieses Gefühl ist möglich. Und wenn du tiefer einsteigen willst, schau dir auch an, warum du dich manchmal fühlst, als würdest du [in der zweiten Reihe](/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe/) stehen.
+
+---
 
 ## Zusammenfassung
 

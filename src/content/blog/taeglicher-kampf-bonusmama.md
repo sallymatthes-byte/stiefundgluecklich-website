@@ -9,9 +9,6 @@ imageAlt: "Erschöpfte Frau sitzt allein am Küchentisch — der unsichtbare All
 metaTitle: "Der tägliche Kampf als Bonusmama: Was wirklich passiert"
 metaDescription: "Nicht die großen Krisen machen Bonusmamas fertig — sondern die kleinen unsichtbaren Momente. Was der tägliche Kampf wirklich bedeutet und was hilft."
 updated: 2026-03-10
-podcastEpisode: "https://open.spotify.com/episode/2z6ZbjxrAUIz35SDlgXHzL"
-podcastTitle: "Der tägliche Kampf als Bonusmama: Was Bonusmamas wirklich erleben"
-podcastDescription: "Was erleben Bonusmamas wirklich jeden Tag? Sally spricht offen über den unsichtbaren Kampf — die kleinen Momente die wehtun, die Erschöpfung, und was du brauchst um durchzuhalten."
 youtubeId: "JGToCexQu_k"
 buzzsproutId: 18809813
 ---

@@ -24,7 +24,7 @@ Doch was ist eigentlich mein Anteil daran? Was ist das Bedürfnis hinter meinem 
 
 ## Was verstehen wir unter einem Trigger?
 
-Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/blog/patchworkfamilie-herausforderungen-und-chancen/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.
+Du bist gerade in einer harmonischen Situation mit deiner Patchworkfamilie und plötzlich passiert es: Eine [Situation](/blog/patchworkfamilie/), ein Kommentar oder eine Geste löst in dir eine starke emotionale Reaktion aus. Du wirst wütend, frustriert oder verletzt.
 *Diese Momente, in denen dich etwas aus dem Gleichgewicht bringt, nennen wir Triggersituationen.*
 Sie können verschiedene Ursachen haben und werden oft durch bestimmte Auslöser hervorgerufen.
 Stell dir zum Beispiel vor, du hast das Gefühl, von der [Ex-Frau](/blog/wie-bonusmama-und-leibliche-mutter-besser-miteinander-auskommen/) nicht ernst genommen zu werden. Jedes Mal, wenn sie dich abwertend behandelt oder dir gegenüber respektlos ist, gerätst du in Rage.
