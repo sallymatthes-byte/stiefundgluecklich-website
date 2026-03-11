@@ -126,7 +126,7 @@ Die Forschung sagt: Fünf bis sieben Jahre, bis eine Patchworkfamilie wirklich z
 
 Das Problem ist: Niemand sagt dir das. Nicht deine Freundinnen, nicht deine Familie, nicht die Gesellschaft. Alle erwarten, dass ihr euch zusammenrauft und glücklich seid. Und wenn es nicht so läuft, muss wohl jemand schuld sein — und dieser Jemand bist meistens du, die Bonusmama.
 
-**Du bist nicht schuld.** Du navigierst eine der komplexesten Familienformen, die es gibt. Ohne Anleitung, ohne Anerkennung, oft ohne Unterstützung. Als [Stiefmutter](/blog/stiefmutter/) in einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) bist du mit Herausforderungen konfrontiert, für die es kein Handbuch gibt. Und dass du diesen Artikel liest, zeigt mir: Du gibst nicht auf. Du suchst nach Wegen. Das ist mehr als die meisten tun.
+**Du bist nicht schuld.** Du navigierst eine der komplexesten Familienformen, die es gibt. Ohne Anleitung, ohne Anerkennung, oft ohne Unterstützung. Als [Stiefmutter](/blog/stiefmutter/) in einer [Patchworkfamilie](/blog/patchworkfamilie/) bist du mit Herausforderungen konfrontiert, für die es kein Handbuch gibt. Und dass du diesen Artikel liest, zeigt mir: Du gibst nicht auf. Du suchst nach Wegen. Das ist mehr als die meisten tun.
 
 <!-- FAQ_START
 

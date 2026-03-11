@@ -33,6 +33,8 @@ Du fragst dich:
 
 Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich selbst kaum noch wiedererkennst. Die starke, selbstbewusste Frau, die du eigentlich bist, verschwindet hinter einem Schleier von Zweifeln und Unsicherheiten. Laut Wednesday Martin (2009) ist Eifersucht auf die Ex-Partnerin eine der häufigsten und am meisten tabuisierten Emotionen von [Stiefmüttern](/blog/stiefmutter/) — und trotzdem spricht kaum jemand offen darüber.
 
+---
+
 ![Frau sitzt nachdenklich auf einer Parkbank im Herbstwald — Eifersucht verarbeiten](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-2.jpg)
 
 ## Was steckt wirklich hinter der Eifersucht?
@@ -46,6 +48,8 @@ Diese Gedanken können wie ein Karussell in deinem Kopf kreisen, bis du dich sel
 > „Eifersucht auf die Ex ist kein Zeichen von Schwäche — sie ist ein Zeichen dafür, dass du in einem System angekommen bist, das dir keinen klaren Platz gibt. Und genau das darfst du ändern." — Sally Matthes, Coach für Bonusmamas
 
 ![Sonnenlicht durchbricht Bäume auf einem Waldweg — Hoffnung und Veränderung](/images/blog/eifersucht-als-bonusmama-die-ex-als-konkurrenz-3.jpg)
+
+---
 
 ## Wie findest du den Weg aus der Eifersucht?
 
@@ -87,6 +91,8 @@ Mit dieser neuen Klarheit kannst du beginnen, echte Veränderung anzustoßen. Da
 - Bleibe auch in schwierigen Situationen verbindend
 
 Diese drei Schritte bauen aufeinander auf und bilden einen **bewährten Weg aus der Eifersuchtsfalle**. Es ist ein Prozess, der Zeit braucht und manchmal herausfordernd sein kann. Aber ich verspreche dir: *Mit der richtigen Unterstützung und den passenden Werkzeugen kannst du diesen Weg gehen.*
+
+---
 
 ## Was hilft langfristig gegen Eifersucht als Bonusmama?
 

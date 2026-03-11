@@ -22,7 +22,7 @@ Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Pa
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Der Ex-Partner ist das Thema, bei dem ich in Coachings den meisten Schmerz sehe — und gleichzeitig das größte Wachstumspotenzial. Wenn du lernst, den Ex als Teil des Systems zu akzeptieren statt gegen ihn zu kämpfen, verändert sich alles."*
 
-Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
+Dies ist eine der 5 Herausforderungen in [Patchworkfamilien](/blog/patchworkfamilie/), die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
 
 ---
 
@@ -44,6 +44,8 @@ Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanisch
 
 Lass uns nun direkt mal tiefer in die fünfte Herausforderung einsteigen.
 
+---
+
 ![Mutter und Bonusmutter als unsichtbare Verbindung in der Patchworkfamilie](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-2.jpg)
 
 ## Die Bedeutung von Expartnerinnen
@@ -58,6 +60,8 @@ Ja, es ist nicht immer einfach. Aber denk daran: deine Akzeptanz und dein Verst�
 
 > „Wer Konflikten aus dem Weg geht, kommt darin um." – Anke Maggauer-Kirsche
 
+---
+
 ## Wie Konflikte den Bonuskindern schaden
 
 *Je höher das Konfliktlevel, desto gravierender sind die Folgen.* Kinder, die ständigem Streit ausgesetzt sind, haben ein erhöhtes Risiko für Angststörungen, Depressionen, Verhaltensauffälligkeiten und Probleme in sozialen Beziehungen. Die negativen Effekte können bis ins Erwachsenenalter reichen.
@@ -68,6 +72,8 @@ Die oberste Priorität sollte sein, die Kinder so weit wie möglich aus den Ause
 
 ![Parallel Parenting als Strategie für getrennte Eltern in der Patchworkfamilie](/images/blog/die-rolle-von-expartnern-in-patchworkfamilien-3.jpg)
 
+---
+
 ## Parallel Parenting
 
 Nicht immer ist es möglich, eng und harmonisch mit der Expartnerin zusammenzuarbeiten. Wenn eine echte Kooperation nicht funktioniert, gibt es eine Alternative: das sogenannte "Parallel Parenting". Dabei organisieren beide Elternteile ihren Bereich eigenständig, ohne ständig aufeinander abgestimmt sein zu müssen.
@@ -75,7 +81,7 @@ Nicht immer ist es möglich, eng und harmonisch mit der Expartnerin zusammenzuar
 Beim Parallel Parenting geht es darum:
 
 - Die Elternschaft so zu organisieren, dass beide Seiten ihre Verantwortung wahrnehmen können, ohne ständig miteinander in Kontakt zu sein
-- Klare Regeln und Zuständigkeiten festzulegen, statt gemeinsam Entscheidungen zu Treffen
+- Klare Regeln und Zuständigkeiten festzulegen, statt gemeinsam Entscheidungen zu treffen
 - Sich darauf zu konzentrieren, den eigenen Teil gutzumachen, ohne sich gegenseitig hineinzureden
 
 *Parallel Parenting bedeutet auch:*
@@ -98,25 +104,24 @@ Beim Parallel Parenting geht es darum:
 
 Mit Parallel Parenting hast du die Chance, den Kindern inmitten der Differenzen eine liebevolle, stabile Bonusmama zu sein. Und glaub mir, das ist ein Geschenk, für das sie dir ein Leben lang dankbar sein werden.
 
+---
+
 ## Zusammenfassung
 
 Der Expartner bleibt ein fester Bestandteil jeder Patchworkfamilie — ob lebend oder verstorben. Für die Kinder ist die Bindung an beide Elternteile unveränderlich wichtig, und als [Stiefmutter](/blog/stiefmutter/) liegt deine Stärke darin, das zu akzeptieren statt dagegen anzukämpfen. Wenn eine direkte Zusammenarbeit mit der Expartnerin nicht möglich ist, bietet Parallel Parenting einen Weg, die Elternschaft geordnet und konfliktarm zu gestalten. Entscheidend ist, die Kinder aus Konflikten herauszuhalten und ihnen in eurem Zuhause Stabilität und Geborgenheit zu geben.
 
 <!-- FAQ_START
-<details><summary>Muss ich als Bonusmama mit der Ex-Partnerin auskommen?</summary>
+
+## Häufige Fragen
+
+### Muss ich als Bonusmama mit der Ex-Partnerin auskommen?
 
 Nicht unbedingt. Wenn eine harmonische Zusammenarbeit nicht möglich ist, bietet Parallel Parenting eine Alternative: Beide Elternteile organisieren ihren Bereich eigenständig, kommunizieren sachlich und nur wenn nötig. Entscheidend ist, dass die Kinder nicht zwischen die Fronten geraten.
 
-</details>
-
-<details><summary>Was ist Parallel Parenting?</summary>
+### Was ist Parallel Parenting?
 
 Parallel Parenting bedeutet, dass beide Elternteile ihre Elternschaft unabhängig voneinander organisieren. Die Kommunikation wird auf das Nötigste beschränkt, ist schriftlich und sachlich. Persönliche Treffen werden vermieden, um das Konfliktpotenzial gering zu halten.
 
-</details>
-
-<details><summary>Wie gehe ich damit um, dass mein Partner noch Kontakt zur Ex hat?</summary>
+### Wie gehe ich damit um, dass mein Partner noch Kontakt zur Ex hat?
 
 Der Kontakt zur Ex ist als Elternteil unvermeidbar und sogar wichtig für die Kinder. Sprich offen mit deinem Partner über deine Gefühle und Grenzen. Unterscheide zwischen notwendiger Elternkommunikation und persönlicher Nähe — und vertraue darauf, dass er sich für euch entschieden hat.
-
-</details>

@@ -16,11 +16,15 @@ imageAlt: "Bonusmama schreibt einen persönlichen Liebesbrief an ihren Partner"
 
 Wir feiern dieses Jahr unser 5-jähriges Zusammensein und ich möchte an dieser Stelle mal das Wort direkt an den Mann an meiner Seite richten. Und dir als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) die Möglichkeit geben, dich so ein bisschen in meine Gefühlswelt hineinzudenken.
 
+---
+
 ## Lieber Stéphane,
 
 Während ich weiter durch Südostasien reiste, schrieben wir täglich und ich verliebte mich jeden Tag ein bisschen mehr. Als ich nach Deutschland zurückkehrte und du wenige Tage später vor meiner Tür standest, ahnten wir noch nicht, dass du nicht nur mein Herz, sondern auch München im Sturm erobern würdest. Und alle dachten damals, ich wäre verrückt – meinen Tauchlehrer zu mir nach Hause einzuladen – das konnte doch keine Zukunft haben?
 
 ![Bonusmama erinnert sich an die ersten gemeinsamen Momente mit den Bonuskindern](/images/blog/ein-offener-liebesbrief-einer-bonusmama-2.jpg)
+
+---
 
 ## Die ersten Schritte als Bonusfamilie
 
@@ -32,15 +36,19 @@ Es war eine Herausforderung für mich, meinen Platz in dieser neuen Konstellatio
 
 Kommentare wie „Die Kinder sind doch so süß, wie kann es denn anstrengend sein?" oder „Du als Pädagogin solltest doch damit gut zurechtkommen!" setzten mich zusätzlich unter Druck. Wenn die Mädchen mich ablehnten oder sich mir gegenüber distanziert verhielten, fühlte ich mich hilflos und fragte mich, was ich falsch machte. Ich fühlte mich allein mit all diesen Fragen und schämte mich. Manchmal, wenn die Mädchen bei uns waren und ich erschöpft von den Herausforderungen des Alltags war, sehnte ich mich nach einem ruhigen Abend nur mit dir. Dann plagte mich das schlechte Gewissen.
 
-Die ersten Jahre waren geprägt von viel Frust, Zweifeln und Tränen. Nicht nur einmal fragten wir uns: „Ist es das wirklich alles wert?" Laut Dr. Patricia Papernow brauchen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) im Durchschnitt fünf bis sieben Jahre, um zusammenzuwachsen. Wir waren mittendrin — und wussten es damals nicht.
+Die ersten Jahre waren geprägt von viel Frust, Zweifeln und Tränen. Nicht nur einmal fragten wir uns: „Ist es das wirklich alles wert?" Laut Dr. Patricia Papernow brauchen [Patchworkfamilien](/blog/patchworkfamilie/) im Durchschnitt fünf bis sieben Jahre, um zusammenzuwachsen. Wir waren mittendrin — und wussten es damals nicht.
+
+---
 
 ## Der Wendepunkt
 
-Doch mit der Zeit lernte ich, dass ich für mich selbst sorgen muss, damit es auch unserer Bonusfamilie gut geht. Ich nahm mir Auszeiten, um aufzutanken und zu reflektieren. Ich hinterfragte meine Erwartungen und erkannte, dass ich nicht perfekt sein muss. Ich führte unzählige Gespräche mit dir, um unsere Wünsche, Ängste und Hoffnungen zu teilen. Gemeinsam erschufen wir den Rahmen für unser harmonisches [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/)leben.
+Doch mit der Zeit lernte ich, dass ich für mich selbst sorgen muss, damit es auch unserer Bonusfamilie gut geht. Ich nahm mir Auszeiten, um aufzutanken und zu reflektieren. Ich hinterfragte meine Erwartungen und erkannte, dass ich nicht perfekt sein muss. Ich führte unzählige Gespräche mit dir, um unsere Wünsche, Ängste und Hoffnungen zu teilen. Gemeinsam erschufen wir den Rahmen für unser harmonisches [Patchworkfamilien](/blog/patchworkfamilie/)leben.
 
 Weißt du noch, wie wir anfingen, eigene Rituale mit den Mädchen zu entwickeln? Unsere Spieleabende, die Ausflüge in die Natur, das gemeinsame Kochen? Schritt für Schritt fanden wir unseren Weg als Bonusfamilie.
 
 ![Bonusfamilie findet ihren gemeinsamen Weg mit eigenen Ritualen](/images/blog/ein-offener-liebesbrief-einer-bonusmama-3.jpg)
+
+---
 
 ## Heute angekommen
 
@@ -53,6 +61,8 @@ Du bist mein Fels in der Brandung, mein Partner, mein bester Freund. Ich liebe d
 In tiefer Liebe und Verbundenheit,
 Sally
 
+---
+
 ## Zusammenfassung
 
 Dieser offene Liebesbrief zeigt den ehrlichen Weg einer [Stiefmutter](/blog/stiefmutter/) — von den ersten unsicheren Schritten über Selbstzweifel und Überforderung bis hin zu einem erfüllten Leben als Patchworkfamilie. Er macht Mut, dass es sich lohnt, dranzubleiben, eigene Grenzen zu setzen und den eigenen Platz in der Bonusfamilie zu finden.
@@ -60,14 +70,13 @@ Dieser offene Liebesbrief zeigt den ehrlichen Weg einer [Stiefmutter](/blog/stie
 > **Sally Matthes, Coach für Bonusmamas:** *„Dieser Brief ist aus meinem Herzen geschrieben — und er zeigt, dass es okay ist, den Weg nicht sofort zu sehen. Die schönsten Patchwork-Geschichten sind die, die mit Zweifeln begonnen haben."*
 
 <!-- FAQ_START
-<details><summary>Ist es normal, als Bonusmama zu zweifeln?</summary>
+
+## Häufige Fragen
+
+### Ist es normal, als Bonusmama zu zweifeln?
 
 Ja, absolut. Die allermeisten Bonusmamas durchleben Phasen tiefer Zweifel — an sich selbst, an der Beziehung, an der ganzen Konstellation. Das gehört zum Prozess und ist kein Zeichen dafür, dass etwas falsch läuft. Entscheidend ist, ob ihr als Paar über diese Gefühle sprecht.
 
-</details>
-
-<details><summary>Wie finde ich als Bonusmama meinen Platz in der Familie?</summary>
+### Wie finde ich als Bonusmama meinen Platz in der Familie?
 
 Dein Platz entsteht nicht durch Perfektionismus oder Aufopferung, sondern durch Authentizität. Sei ehrlich darüber, was du brauchst, was dich überfordert und was dir Freude macht. Es dauert — aber wenn du dich nicht verstellst, wächst eine echte Verbindung.
-
-</details>
