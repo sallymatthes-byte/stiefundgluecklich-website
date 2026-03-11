@@ -92,6 +92,16 @@ Laut dem Statistischen Bundesamt (2023) gibt es in Deutschland rund **1,1 Millio
 
 Lies auch: [Triggersituationen in Patchworkfamilien](/blog/triggersituationen-in-patchworkfamilien-so-kommst-du-raus/) und [People Pleasing als Bonusmama](/blog/people-pleasing-als-bonusmama/).
 
+---
+
+## Zusammenfassung
+
+- **ADHS und Patchwork** sind eine besonders anspruchsvolle Kombination — dein Gehirn verarbeitet Reize anders, und der Patchwork-Alltag liefert davon reichlich
+- **Rejection Sensitivity** trifft auf die typische Bonusmama-Ablehnung: ein doppelter Schmerz, der oft unsichtbar bleibt
+- **5 Strategien helfen:** Nervensystem verstehen, offen kommunizieren, Puffer einbauen, Grenzen setzen, professionelle Unterstützung holen
+- **Dein Partner** kann dich unterstützen, indem er nicht wertet, Struktur mitträgt und deine Pausen respektiert
+- **Du bist nicht „zu viel"** — du managst eine der komplexesten Familienformen mit einem Gehirn, das anders verdrahtet ist
+
 <!-- FAQ_START
 
 ---

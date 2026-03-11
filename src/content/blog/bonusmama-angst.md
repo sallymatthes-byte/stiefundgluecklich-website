@@ -16,6 +16,8 @@ buzzsproutId: 18809755
 **Angst und Unsicherheit gehören zu den häufigsten Gefühlen von Bonusmamas — und trotzdem spricht fast niemand darüber.** Die Angst, nicht dazuzugehören, abgelehnt zu werden oder es einfach nicht zu schaffen, begleitet viele Stiefmütter still und hartnäckig. Hier erfährst du, warum das normal ist und was hilft.
 
 
+---
+
 ## „Ich bin hier – aber ich gehöre nicht ganz dazu"
 
 Vielleicht ist da diese ständige Anspannung. Kein offener Konflikt, aber auch keine Selbstverständlichkeit. Du willst dazugehören, du gibst dein Bestes – doch gleichzeitig hast du das Gefühl, du „stehst daneben". Und mit dieser Unsicherheit kommt ein weiteres Gefühl: *Angst*.
@@ -34,7 +36,7 @@ In diesem Artikel erfährst du, warum Angst in Patchworkfamilien so präsent ist
 
 ---
 
-![Frau steht allein zwischen hohen Bäumen im nebligen Wald und blickt nach oben](/images/blog/bonusmama-angst-1.jpg)
+---
 
 ## Mein Aha-Moment als [Stiefmutter](/blog/stiefmutter/) und Bonusmama: Warum Angst so tief sitzt
 
@@ -47,6 +49,8 @@ In der Evolution bedeutete **Zugehörigkeit Sicherheit.** Wer zur Gruppe gehört
 Und genau das ist in vielen Patchworkkonstellationen der Fall: unausgesprochene Rollen, unklare Grenzen, verschiedene Loyalitäten. Kein Wunder also, dass dein System ständig auf „Scannen" eingestellt ist. Und kein Wunder, dass du dich dadurch erschöpft, überreizt oder wie auf einem Prüfstand fühlst.
 
 Aber: Du bist nicht allein. Und vor allem – du bist nicht falsch. Du bist nicht „zu sensibel". Du bist verbunden mit deinem tiefen Bedürfnis nach Sicherheit und Beziehung. Und genau da setzen wir an.
+
+---
 
 ## Warum so viele Bonusmamas Angst empfinden – und wie sie sich zeigt
 
@@ -61,6 +65,8 @@ Dauerhafte Wachsamkeit erschöpft. Sie macht müde, dünnhäutig, *emotional dur
 **Wichtig zu wissen:** Diese Angst kann sich unterschiedlich zeigen – je nach Persönlichkeit, Beziehungserfahrungen und inneren Mustern. Deshalb lohnt sich ein Blick auf die typischen [Angst-Typen von Bonusmamas](/blog/archetypen-einer-bonusmama/).
 
 ![Zwei Hände halten eine Tasse Tee auf einer Holzveranda mit Blick in einen herbstlichen Garten](/images/blog/bonusmama-angst-2.jpg)
+
+---
 
 ## Bonusmama-Angsttypen: Welcher Archetyp zeigt sich bei dir?
 
@@ -89,6 +95,8 @@ Sie will beweisen, dass Patchwork mit ihr klappt. Sie gibt Vollgas – organisie
 > „Du bist keine Projektleiterin. Du bist ein Mensch in Beziehung. Es ist okay, zu fühlen, statt zu funktionieren."
 
 In welchem Muster erkennst du dich am stärksten? Und welches Bedürfnis steckt dahinter? Wenn du tiefer einsteigen möchtest, lies auch den Artikel über [Glaubenssätze als Bonusmama](/blog/glaubenssaetze-als-bonusmama/).
+
+---
 
 ## Die Bonusmama-Formel gegen Angst: Wie du innere Sicherheit aufbaust
 
@@ -128,6 +136,8 @@ Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht p
 
 **Du darfst weich und klar zugleich sein.** Du darfst für dich sorgen, ohne egoistisch zu sein. Und du darfst dir Unterstützung holen – nicht, weil du schwach bist, sondern weil du mutig genug bist, es nicht mehr allein machen zu wollen.
 
+---
+
 ## Zusammenfassung
 
 - Angst als Bonusmama ist **keine Schwäche** – sie ist eine natürliche Reaktion deines Nervensystems auf unklare Zugehörigkeit
@@ -137,20 +147,17 @@ Doch du musst dich nicht zerreißen, um geliebt zu werden. Du musst dich nicht p
 - Du musst nicht perfekt sein, um dazuzugehören – du darfst weich und klar zugleich sein
 
 <!-- FAQ_START
-<details><summary>Ist Angst als Bonusmama normal?</summary>
+
+## Häufige Fragen
+
+### Ist Angst als Bonusmama normal?
 
 Ja, absolut. Angst und Unsicherheit sind laut Forschung die häufigsten Gefühle von Stiefmüttern. Dein Nervensystem reagiert auf die unklare Zugehörigkeit in einer Patchworkfamilie — das ist keine Schwäche, sondern eine biologische Schutzreaktion.
 
-</details>
-
-<details><summary>Woher kommt die ständige Anspannung als Stiefmutter?</summary>
+### Woher kommt die ständige Anspannung als Stiefmutter?
 
 Dein Nervensystem scannt permanent, ob du zur Gruppe gehörst und sicher bist. In Patchworkfamilien sind Rollen und Zugehörigkeit oft unklar — das hält dein System in Daueralarmbereitschaft und führt zu Erschöpfung, Dünnhäutigkeit und Überreizung.
 
-</details>
-
-<details><summary>Was kann ich gegen die Angst als Bonusmama tun?</summary>
+### Was kann ich gegen die Angst als Bonusmama tun?
 
 Drei Schritte helfen: Erstens, erkenne deine Trigger und Bedürfnisse (Klarheit). Zweitens, schaffe bewusst sichere Momente im Alltag (sichere Inseln). Drittens, sprich ehrlich über deine Gefühle — mit Ich-Botschaften statt Vorwürfen (verbindende Kommunikation).
-
-</details>
