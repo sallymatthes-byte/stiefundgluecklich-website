@@ -22,7 +22,9 @@ Doch, was können wir eigentlich von den Kindern verlangen?
 
 Laut dem Statistischen Bundesamt lebt in Deutschland jede siebte Familie als Patchworkfamilie — und das Thema Ordnung ist in fast allen ein Dauerbrenner. Denn Aufräumen ist in Patchworkfamilien nie nur eine Frage der Sauberkeit. Es geht um Zugehörigkeit, um Regeln und darum, wessen Standards gelten.
 
-> **Sally Matthes, Coach für Bonusmamas:** *„Aufräumen ist eines der Themen, bei dem Bonusmamas am schnellsten merken: Hier prallen zwei Familienkulturen aufeinander. Und plötzlich geht es nicht mehr um Spielsachen auf dem Boden, sondern um die Frage: Darf ich hier mitbestimmen?"*
+> „Aufräumen ist eines der Themen, bei dem Bonusmamas am schnellsten merken: Hier prallen zwei Familienkulturen aufeinander. Und plötzlich geht es nicht mehr um Spielsachen auf dem Boden, sondern um die Frage: Darf ich hier mitbestimmen?" — Sally Matthes, Coach für Bonusmamas
+
+---
 
 ## Ordnung und Chaos in verschiedenen Phasen
 
@@ -32,6 +34,8 @@ Laut dem Statistischen Bundesamt lebt in Deutschland jede siebte Familie als Pat
 - **In der Pubertät** wird das eigene Chaos oft als Ausdruck von Individualität und Abgrenzung gesehen. Jugendliche wollen ihr Reich nach eigenen Vorstellungen gestalten, auch wenn diese nicht immer mit der elterlichen Ordnung übereinstimmen. Hier gilt es, Verständnis zu zeigen und gleichzeitig gemeinsam Kompromisse zu finden.
 
 Für dich als Bonusmama ist es wichtig, diese Entwicklungsphasen im Blick zu haben und die Kinder dort abzuholen, wo sie stehen. Denn schnell entsteht Überforderung und Frustration – und dann wird Aufräumen einfach noch anstrengender.
+
+---
 
 ## Die Rolle der Bonusmama
 
@@ -46,7 +50,9 @@ Hier sind einige Punkte, die dir als Bonusmama helfen können:
 
 Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
-> Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus. – Aus China
+> „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus." – Aus China
+
+---
 
 ![Mutter und Kind sortieren gemeinsam Spielsachen nach Farben in Kisten](/images/blog/aufraeumen-mit-spass-und-verstaendnis-3.jpg)
 
@@ -72,6 +78,8 @@ Schulkinder (5-10 Jahre):
 
 *Wichtig ist, dass du die Methoden an die individuellen Vorlieben und Fähigkeiten deiner Bonuskinder anpasst.* Experimentiere mit verschiedenen Ansätzen und finde heraus, was für eure Familie am besten funktioniert. Mit Spaß und Fantasie wird das Aufräumen zu einer positiven Erfahrung für alle Beteiligten.
 
+---
+
 ## Tipps für eine aufgeräumte Patchwork-Wohnung
 
 - **Vereinbart altersangemessene Regeln:** Setze dich mit deinem Partner zusammen und legt fest, welche Aufräum-Regeln für eure Familie gelten sollen. Achtet darauf, dass sie klar, verständlich und dem Alter der Kinder angemessen sind.
@@ -84,19 +92,26 @@ Schulkinder (5-10 Jahre):
 
 Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als [Familie zusammenzuwachsen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
 
-Wenn du dich als [Stiefmutter](/blog/stiefmutter/) in deiner Rolle manchmal unsicher fühlst — auch beim Thema Aufräumen — bist du damit nicht allein. Viele Bonusmamas fragen sich, wie viel sie einfordern dürfen.
+Wenn du dich als [Stiefmutter](/blog/stiefmutter/) in deiner Rolle manchmal unsicher fühlst — auch beim Thema Aufräumen — bist du damit nicht allein. Viele Bonusmamas in [Patchworkfamilien](/blog/patchworkfamilie/) fragen sich, wie viel sie einfordern dürfen.
+
+---
+
+## Zusammenfassung
+
+Aufräumen mit Bonuskindern muss kein Dauerkampf sein. Wenn du die Entwicklungsphase der Kinder berücksichtigst, dich mit deinem Partner abstimmst und kreative Methoden einsetzt, wird Ordnung zu einem gemeinsamen Projekt statt zu einem Streitthema. Und denk dran: Es geht nicht um Perfektion — sondern darum, als Familie zusammenzuwachsen.
 
 <!-- FAQ_START
-<dl>
-<dt>Ab welchem Alter können Kinder beim Aufräumen helfen?</dt>
-<dd>Schon Kleinkinder ab etwa zwei Jahren können spielerisch beim Aufräumen einbezogen werden — zum Beispiel durch Farbsortierung oder ein Aufräum-Lied. Wichtig ist, die Erwartungen altersgerecht anzupassen.</dd>
 
-<dt>Was tun, wenn mein Bonuskind sich weigert aufzuräumen?</dt>
-<dd>Vermeide Machtkämpfe. Sprich mit deinem Partner über gemeinsame Regeln und versuche kreative Methoden wie Wettbewerbe oder Aufgabenlisten. Konsequenz und Geduld sind wichtiger als Strenge.</dd>
+## Häufige Fragen
 
-<dt>Wie gehe ich damit um, dass im anderen Haushalt andere Regeln gelten?</dt>
-<dd>Das ist völlig normal in Patchworkfamilien. Konzentriere dich auf eure eigenen Hausregeln und erkläre den Kindern ruhig, dass verschiedene Orte verschiedene Regeln haben können.</dd>
+### Ab welchem Alter können Kinder beim Aufräumen helfen?
+Schon Kleinkinder ab etwa zwei Jahren können spielerisch beim Aufräumen einbezogen werden — zum Beispiel durch Farbsortierung oder ein Aufräum-Lied. Wichtig ist, die Erwartungen altersgerecht anzupassen.
 
-<dt>Wie motiviere ich Teenager zum Aufräumen?</dt>
-<dd>Teenager brauchen Mitsprache. Erstellt gemeinsam eine Aufgabenliste oder startet eine Challenge. Ein gewisses Chaos im eigenen Zimmer zu akzeptieren gehört dazu — Gemeinschaftsräume sollten aber für alle ordentlich bleiben.</dd>
-</dl>
+### Was tun, wenn mein Bonuskind sich weigert aufzuräumen?
+Vermeide Machtkämpfe. Sprich mit deinem Partner über gemeinsame Regeln und versuche kreative Methoden wie Wettbewerbe oder Aufgabenlisten. Konsequenz und Geduld sind wichtiger als Strenge.
+
+### Wie gehe ich damit um, dass im anderen Haushalt andere Regeln gelten?
+Das ist völlig normal in Patchworkfamilien. Konzentriere dich auf eure eigenen Hausregeln und erkläre den Kindern ruhig, dass verschiedene Orte verschiedene Regeln haben können.
+
+### Wie motiviere ich Teenager zum Aufräumen?
+Teenager brauchen Mitsprache. Erstellt gemeinsam eine Aufgabenliste oder startet eine Challenge. Ein gewisses Chaos im eigenen Zimmer zu akzeptieren gehört dazu — Gemeinschaftsräume sollten aber für alle ordentlich bleiben.

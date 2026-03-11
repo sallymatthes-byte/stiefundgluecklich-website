@@ -27,6 +27,8 @@ Und gleichzeitig weiß ich, dass man das eine nicht mit dem anderen vergleichen 
 Und auch wenn ich das logisch verstehen kann, so geht das Gefühl doch nicht ganz weg.
 Also, wie kann man damit umgehen?
 
+---
+
 ![Frau sitzt nachdenklich am Fenster und blickt nach draußen](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-2.jpg)
 
 ## Aus dem Schatten heraus treten
@@ -39,7 +41,9 @@ Also, wie kann man damit umgehen?
 *Denke daran, du bist wertvoll und wichtig. Du hast das Recht, dich geliebt und anerkannt zu fühlen.*
 Indem du deine eigene Priorität stärkst, kannst du dazu beitragen, eine harmonische Beziehung in deiner Patchworkfamilie aufzubauen. Wie das gelingt, erfährst du im nächsten Abschnitt.
 
-> Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren. – Buddha
+> „Die größte Anerkennung, die sich jemand geben kann, ist die, sich selbst zu akzeptieren." – Buddha
+
+---
 
 ![Paar sitzt gemeinsam auf dem Sofa und führt ein offenes Gespräch](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-3.jpg)
 
@@ -49,13 +53,15 @@ Wir suchen nach Bestätigung von unserem Partner, den Kindern oder sogar der Ex-
 
 Indem wir uns selbst lieben und uns selbst wichtig nehmen, schaffen wir die Grundlage für eine gesunde Beziehung zu anderen. Denn nur wenn wir uns selbst anerkennen und wertschätzen, können wir auch von anderen Menschen in unserer Umgebung Anerkennung und [Wertschätzung](https://gedankenwelt.de/zehn-schritte-um-dir-selbst-die-prioritaet-zu-geben/) erhalten.
 
-Also fang an, dir selbst diese Wertschätzung zu geben, die du verdienst, und beobachte, wie sich deine Beziehungen zu anderen Menschen, einschließlich deiner Patchworkfamilie, positiv verändern.
+Also fang an, dir selbst diese Wertschätzung zu geben, die du verdienst, und beobachte, wie sich deine Beziehungen zu anderen Menschen, einschließlich deiner [Patchworkfamilie](/blog/patchworkfamilie/), positiv verändern.
 
-![Frau lächelt selbstbewusst in den Spiegel als Zeichen der Selbstfürsorge](/images/blog/als-bonusmama-hinter-dem-bonuskind-ewig-in-der-zweiten-reihe-1.jpg)
+---
 
 ## Du bist wichtig!
 
 Indem du dir selbst Anerkennung und Wertschätzung gibst, stärkst du dein Selbstwertgefühl und deine innere Stärke als [Stiefmutter](/blog/ab-wann-ist-man-stiefmutter/). Du wirst feststellen, dass du in der Lage bist, eine erfüllende Beziehung zur Patchworkfamilie aufzubauen, ohne dich selbst dabei zu vernachlässigen. Und dass das Gefühl, in zweiter Reihe zu stehen, in den Hintergrund rückt.
+
+---
 
 ## Zusammenfassung
 

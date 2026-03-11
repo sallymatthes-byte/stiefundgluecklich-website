@@ -54,7 +54,7 @@ Der erste Moment war wie aus einem Film: Sie holten mich ab, und noch bevor ich 
 
 In diesem Moment wurde mir klar: Ich betrat hier Neuland, und meine bisherigen Erfahrungen würden mir nur bedingt helfen.
 
-> Nur wer sein Ziel kennt, findet den Weg. – Laozi
+> „Nur wer sein Ziel kennt, findet den Weg." – Laozi
 
 ---
 
@@ -107,7 +107,9 @@ Unsere Kommunikationsregeln entwickelten sich organisch:
 
 ---
 
-## Was hilft auf dem Weg zur harmonischen Patchworkfamilie?
+---
+
+## Was hilft auf dem Weg zur harmonischen [Patchworkfamilie](/blog/patchworkfamilie/)?
 Lass mich dir eines sagen: **Du bist nicht allein.** Jede von uns Bonusmamas hat diese Momente der Zweifel, der Überforderung und manchmal auch der Verzweiflung. Aber es gibt einen Weg zu einer erfüllenden, harmonischen Patchworkfamilie – einen Weg, bei dem du ganz du selbst sein kannst.
 
 <!-- FAQ_START
