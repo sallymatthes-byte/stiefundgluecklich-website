@@ -1,0 +1,74 @@
+---
+const articles = [
+  {
+    slug: "unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen",
+    title: "Unsichtbar als Bonusmama? So wirst du wieder gesehen",
+    description: "Fühlst du dich unsichtbar, sobald die Kinder da sind? Warum das passiert — und was du dagegen tun kannst.",
+    image: "/images/blog/unsichtbar-als-bonusmama-so-wirst-du-wieder-gesehen-1.jpg",
+  },
+  {
+    slug: "grenzen-setzen-mit-der-ex",
+    title: "Grenzen setzen mit der Ex — ohne Drama",
+    description: "Konkrete Strategien, wie du klar bleibst, ohne dass es jedes Mal eskaliert.",
+    image: "/images/blog/grenzen-setzen-mit-der-ex-1.jpg",
+  },
+  {
+    slug: "bonusmama-aussenseiterin",
+    title: "Warum du dich wie eine Außenseiterin fühlst",
+    description: "Was dahintersteckt, wenn du dich in deiner eigenen Familie ausgeschlossen fühlst — und was wirklich hilft.",
+    image: "/images/blog/bonusmama-aussenseiterin-1.jpg",
+  },
+];
+---
+
+<section class="py-14 md:py-24 bg-secondary">
+  <div class="container mx-auto px-5 md:px-6">
+    <!-- Header -->
+    <div class="text-center max-w-3xl mx-auto mb-12">
+      <p class="text-primary font-medium mb-4">Lies dich rein</p>
+      <h2 class="font-serif text-2xl md:text-4xl lg:text-5xl text-foreground mb-4 md:mb-6">
+        Wenn du noch nicht bereit bist — <span class="italic text-primary">fang hier an</span>
+      </h2>
+      <p class="text-lg text-muted-foreground">
+        Ehrliche Artikel über das, was dich als Bonusmama wirklich beschäftigt.
+      </p>
+    </div>
+
+    <!-- Article Cards -->
+    <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+      {articles.map((article) => (
+        <a href={`/blog/${article.slug}`} class="group bg-card border border-border overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 flex flex-col">
+          <div class="aspect-[16/10] overflow-hidden">
+            <img
+              src={article.image}
+              alt={article.title}
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+              loading="lazy"
+            />
+          </div>
+          <div class="p-5 flex flex-col flex-1">
+            <h3 class="font-serif text-lg md:text-xl text-foreground mb-2 leading-tight group-hover:text-primary transition-colors">
+              {article.title}
+            </h3>
+            <p class="text-sm text-muted-foreground leading-relaxed mb-4 flex-1">
+              {article.description}
+            </p>
+            <span class="text-sm text-primary font-medium inline-flex items-center gap-1">
+              Weiterlesen
+              <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <!-- Link to full blog -->
+    <div class="text-center mt-10">
+      <a href="/blog" class="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary/10 px-6 py-2.5 font-medium transition-colors">
+        Alle Artikel entdecken →
+      </a>
+    </div>
+  </div>
+</section>
