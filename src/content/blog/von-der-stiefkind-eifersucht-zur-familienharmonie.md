@@ -18,7 +18,7 @@ buzzsproutId: 18809792
 > „Die Eifersucht auf sein Kind ist keine Schwäche. Sie ist der Schrei deines Herzens nach einem sicheren Platz in dieser Familie." — Sally Matthes, Coach für Bonusmamas
 
 
-Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
+Es war ein ganz normaler Sonntagmorgen, einer von vielen in unserer [Patchworkfamilie](/blog/patchworkfamilie/). Die Sonne schien durch die Küchenfenster, der Duft von frischem Kaffee lag in der Luft, und eigentlich hätte es perfekt sein können. Doch als ich beobachtete, wie mein Partner liebevoll mit seinem Kind scherzte, durchfuhr mich dieser altbekannte, stechende Schmerz. Die Eifersucht auf Stiefkind – ein Gefühl, das ich so gerne verdrängt hätte, das sich aber immer wieder seinen Weg in mein Herz bahnte.
 
 Ihre vertraute Art miteinander, die gemeinsamen Insider-Witze, diese ganz besondere Verbindung zwischen Vater und Kind – all das löste in mir einen Sturm widersprüchlicher Gefühle aus. Einerseits wusste ich, wie wichtig und wertvoll diese Beziehung war. **Andererseits nagte die Eifersucht an mir wie ein hungriges Tier,** das sich von meinen tiefsten Ängsten und Unsicherheiten nährte.
 
@@ -34,6 +34,8 @@ Besonders schmerzhaft waren die kleinen, alltäglichen Situationen: Wenn sie in 
 
 *An diesem Sonntagmorgen wurde mir klar: Wenn ich jetzt nicht aktiv gegensteuere, wird die Eifersucht auf das Stiefkind nicht nur mich zerfressen, sondern auch unsere Beziehung und den Familienfrieden zerstören.* Es war dieser Moment der schmerzhaften Erkenntnis, der gleichzeitig den Wendepunkt markierte.
 
+---
+
 ## Ein steiniger Weg
 
 Obwohl die Kinder wunderbar waren, fiel es mir schwer, meine [Rolle](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) zu finden. *Ich wollte weder als Ersatzmutter auftreten noch das Kind als Konkurrenz sehen, aber genau in diese Richtung entwickelten sich meine Gedanken.* Kleine Alltagssituationen reichten aus, um meine Unsicherheit zu befeuern:
@@ -48,17 +50,23 @@ Doch inmitten all dieser schmerzhaften Gefühle gab es etwas, das stärker war a
 
 ![Frau steht allein am Waldrand und blickt nachdenklich in die Ferne — Eifersucht in der Patchworkfamilie](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-2.jpg)
 
+---
+
 ## Die unsichtbaren Mauern der Eifersucht
 
 Die Kommunikation mit meinem Partner wurde dadurch immer schwieriger. *Wie sollte ich ihm erklären, dass ausgerechnet seine liebevolle Art mit den Kindern, die ich eigentlich bewunderte, mir solche Schmerzen bereitete?* Dass jede innige Umarmung, jedes gemeinsame Lachen meine Unsicherheiten triggerte? Ich fürchtete mich davor, diese Gefühle auszusprechen – aus Angst, als eifersüchtige, kleinliche Person dazustehen, die seinem Kind die Vaterliebe nicht gönnte.
 
 ![Warmes Licht fällt durch Bäume auf einen Waldweg — der Weg zur Veränderung beginnt](/images/blog/von-der-stiefkind-eifersucht-zur-familienharmonie-3.jpg)
 
+---
+
 ## Der Wendepunkt: Als ich aufhörte zu kämpfen
 
 In diesem unscheinbaren Moment verstand ich etwas Grundlegendes: **Diese Fähigkeit zu lieben, die ich hier sah, war genau das, was mich damals zu ihm hingezogen hatte.** Seine Art, wie er sich seinem Kind zuwandte, mit dieser Mischung aus Fürsorge und absoluter Präsenz — das war der Mann, in den ich mich verliebt hatte. Seine Liebe zu seinen Kindern machte ihn nicht zu einem schlechteren Partner, sie zeigte mir die Tiefe seines Herzens. Diese Erkenntnis veränderte alles. All die Zeit hatte ich diese Liebe als Konkurrenz gesehen, als etwas, das mir etwas wegnahm. Dabei war sie ein wesentlicher Teil des Menschen, den ich liebte.
 
 Es war der Moment, in dem ich aufhörte zu kämpfen — gegen die Liebe zwischen Vater und Kind, gegen meine eigenen Gefühle, gegen die Realität unserer Patchworkfamilie. Dieser neue Blickwinkel öffnete mir die Augen dafür, dass es in der Liebe nicht um Konkurrenz ging, nicht um ein „entweder-oder", sondern um ein „sowohl-als-auch".
+
+---
 
 ## Die Bonusmama-Formel: Mein Weg aus der Eifersucht auf das Stiefkind
 
@@ -76,6 +84,8 @@ Der dritte Schritt war der vielleicht herausforderndste, aber auch wirkungsvolls
 
 Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere gesamte Familiendynamik. Die Eifersucht verlor nach und nach ihre Macht über mich, und an ihre Stelle trat ein neues Gefühl von *Sicherheit* und *Zugehörigkeit*. Es war ein ähnlicher Prozess wie bei vielen Bonusmamas, die lernen, [ihre Selbstzweifel zu überwinden](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) — nicht gegen die anderen, sondern für sich selbst.
 
+---
+
 ## Durchbrich den Teufelskreis der Eifersucht auf das Stiefkind
 
 - Werde ich diese nagenden Gefühle jemals los?
@@ -92,7 +102,7 @@ Diese drei Schritte veränderten nicht nur meine Gefühlswelt, sondern unsere ge
 Ja, absolut. Eifersucht auf das Stiefkind ist eines der häufigsten Gefühle bei Bonusmamas — und gleichzeitig eines der am meisten tabuisierten. Es bedeutet nicht, dass du das Kind nicht magst. Es zeigt, dass du dir mehr Nähe und Sicherheit in deiner Beziehung wünschst.
 
 ### Warum bin ich eifersüchtig auf die Beziehung zwischen meinem Partner und seinem Kind?
-Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst, ob du jemals so dazugehören wirst. Die Eifersucht richtet sich nicht wirklich gegen das Kind, sondern gegen das Gefühl, außen vor zu sein. Dieses Gefühl ist in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) besonders häufig.
+Weil du siehst, wie selbstverständlich ihre Verbindung ist — und dich fragst, ob du jemals so dazugehören wirst. Die Eifersucht richtet sich nicht wirklich gegen das Kind, sondern gegen das Gefühl, außen vor zu sein. Dieses Gefühl ist in [Patchworkfamilien](/blog/patchworkfamilie/) besonders häufig.
 
 ### Was kann ich gegen Stiefkind-Eifersucht tun?
 Erkenne die Eifersucht als Signal, nicht als Charakterfehler. Frag dich: Was brauche ich gerade wirklich? Meistens geht es um Zeit zu zweit mit deinem Partner, Anerkennung oder das Gefühl, einen festen Platz zu haben. Sprich das offen an — nicht als Vorwurf, sondern als Bedürfnis.

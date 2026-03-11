@@ -13,7 +13,7 @@ youtubeId: "wG-4vW_NYq8"
 buzzsproutId: 18809785
 ---
 
-**Wenn du vorher die beste Freundin der leiblichen Mutter warst und jetzt mit ihrem Ex zusammen bist, stehst du vor einer der komplexesten Patchwork-Konstellationen überhaupt.** Laut Bray & Kelly (1998) sind Loyalitätskonflikte der häufigste Auslöser für Spannungen in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und in dieser Konstellation sind sie besonders intensiv. In Deutschland betrifft das rund 1,1 Millionen Familien (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Je enger die Vorbeziehung, desto schwieriger der Rollenwechsel.
+**Wenn du vorher die beste Freundin der leiblichen Mutter warst und jetzt mit ihrem Ex zusammen bist, stehst du vor einer der komplexesten Patchwork-Konstellationen überhaupt.** Laut Bray & Kelly (1998) sind Loyalitätskonflikte der häufigste Auslöser für Spannungen in [Patchworkfamilien](/blog/patchworkfamilie/) — und in dieser Konstellation sind sie besonders intensiv. In Deutschland betrifft das rund 1,1 Millionen Familien (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Je enger die Vorbeziehung, desto schwieriger der Rollenwechsel.
 
 
 Du warst früher die beste Freundin der Kindsmutter und bist jetzt plötzlich die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) in der Patchwork-Familie. *Ein [Rollenwechsel](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/), der nicht nur für dich, sondern auch für das gesamte Umfeld eine große Herausforderung darstellt.* Auf einmal bist du mit Gerüchten konfrontiert, fühlst dich angegriffen und zweifelst daran, ob du wirklich das Richtige tust.
@@ -27,8 +27,6 @@ Bist du bereit, dich von Marions Geschichte inspirieren zu lassen? Dann lass uns
 ---
 
 🎙 **Passend dazu:** Hör dir die Podcastfolge „Von der Ex zur besten Freundin – wie Bonusmama & Kindsmama gemeinsam wachsen“ an — auf [Spotify](https://open.spotify.com/episode/4wRRI5gwuve2X237w1djxT) oder überall, wo du Podcasts hörst.
-
----
 
 ---
 

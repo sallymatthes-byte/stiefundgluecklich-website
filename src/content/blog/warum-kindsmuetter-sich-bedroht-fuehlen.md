@@ -11,7 +11,7 @@ image: "/images/blog/warum-kindsmuetter-sich-bedroht-fuehlen-1.jpg"
 imageAlt: "Nachdenkliche Frau am Fenster, die über die Dynamik in ihrer Patchworkfamilie reflektiert"
 ---
 
-**Viele Kindsmütter empfinden die neue Partnerin ihres Ex als Bedrohung — nicht aus Bosheit, sondern aus tiefer Angst, ersetzt zu werden.** Patricia Papernow (2013) beschreibt diese Dynamik als „Insider-Outsider“-Muster: Die Mutter fürchtet, ihren Platz zu verlieren. In Deutschland betrifft das rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Wenn du verstehst, warum die Kindsmutter so reagiert, kannst du die Dynamik verändern — auch ohne dass sie sich ändert.
+**Viele Kindsmütter empfinden die neue Partnerin ihres Ex als Bedrohung — nicht aus Bosheit, sondern aus tiefer Angst, ersetzt zu werden.** Patricia Papernow (2013) beschreibt diese Dynamik als „Insider-Outsider“-Muster: Die Mutter fürchtet, ihren Platz zu verlieren. In Deutschland betrifft das rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024). Als systemischer Coach erlebe ich: Wenn du verstehst, warum die Kindsmutter so reagiert, kannst du die Dynamik verändern — auch ohne dass sie sich ändert.
 
 
 In den letzten Wochen hat mich das Thema „Konkurrenz zwischen Kindsmutter und Bonusmama“ sehr beschäftigt.

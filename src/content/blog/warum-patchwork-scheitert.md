@@ -9,9 +9,6 @@ imageAlt: "Frau sitzt nachdenklich am Fenster, warmes Licht, Erdtöne"
 metaTitle: "Warum Patchwork scheitert | Die unsichtbaren Dynamiken"
 metaDescription: "Patchworkfamilien scheitern nicht an fehlender Liebe — sondern an unsichtbaren Dynamiken. So holst du dir als Bonusmama deinen Platz zurück."
 updated: 2026-03-10
-podcastEpisode: "https://open.spotify.com/episode/1aR8YGVxQfQfqzZsEccdGZ"
-podcastTitle: "Das ist der wahre Grund für das Scheitern von Patchwork"
-podcastDescription: "Warum Patchwork so oft emotional auf der Kippe steht und wie du es schaffst, wieder klar zu sehen und dich zurückzuholen."
 youtubeId: "ylbuMHdROZo"
 buzzsproutId: 18809746
 ---
@@ -94,7 +91,7 @@ Klarheit bedeutet nicht, alles zu verstehen. Es bedeutet, ehrlich hinzuschauen. 
 
 Wandel klingt groß, ist aber klein. Es sind *Mikroentscheidungen*. Eine Klientin von mir hat angefangen, sich jeden Freitagabend zu blockieren — nur für sich. Kein Familienabend, keine Orga, keine Erreichbarkeit. Das war ihr erster Wandel-Moment. Klein. Konkret. Mutig.
 
-Es geht darum, [Grenzen zu setzen](/blog/grenzen-setzen-in-der-patchworkfamilie/) — nicht gegen jemanden, sondern für dich.
+Es geht darum, [Grenzen zu setzen](/blog/grenzen-setzen-mit-der-ex/) — nicht gegen jemanden, sondern für dich.
 
 ### 3. Verbindung
 
@@ -103,7 +100,7 @@ Verbindung heißt nicht Harmonie. Verbindung heißt: *kommunizieren statt schluc
 - „Ich merke, dass ich gerade sehr viel halte."
 - „Ich möchte Teil des Systems sein, aber nicht unter Bedingungen, die mich auslaugen."
 
-Das ist [Kommunikation in Patchworkfamilien](/blog/kommunikation-in-patchworkfamilien/), die wirklich etwas verändert. Nicht perfekt formuliert. Nicht diplomatisch abgeschliffen. Sondern ehrlich.
+Das ist [Kommunikation in Patchworkfamilien](/blog/aktives-zuhoeren-in-der-patchworkfamilie/), die wirklich etwas verändert. Nicht perfekt formuliert. Nicht diplomatisch abgeschliffen. Sondern ehrlich.
 
 
 ---
@@ -117,17 +114,14 @@ Du bist nicht falsch. Du bist nicht zu viel und nicht zu wenig. Dir fehlt ein Ra
 Das Erste, was du tun kannst: Hör auf, „ist schon gut" zu sagen. Und fang an, hinzuschauen.
 
 <!-- FAQ_START
-<details>
-<summary>Warum scheitern so viele Patchworkfamilien?</summary>
+
+## Häufige Fragen
+
+### Warum scheitern so viele Patchworkfamilien?
 Patchworkfamilien scheitern nicht an fehlender Liebe, sondern an unsichtbaren Dynamiken: fehlende gesellschaftliche Vorbilder, unklare Rollen, Loyalitätskonflikte der Kinder und die Illusion, es alleine schaffen zu müssen. Studien zeigen, dass es 4 bis 7 Jahre dauert, bis eine Patchworkfamilie zusammenwächst.
-</details>
 
-<details>
-<summary>Wie hoch ist die Trennungsrate bei Patchworkfamilien?</summary>
+### Wie hoch ist die Trennungsrate bei Patchworkfamilien?
 Die Trennungsrate bei Zweitbeziehungen mit Kindern aus früheren Beziehungen liegt höher als bei Erstfamilien. Der Hauptgrund ist nicht mangelnde Zuneigung, sondern die Komplexität des Systems — mehrere Erwachsene, unterschiedliche Erziehungsstile, Ex-Partner als Teil der Dynamik.
-</details>
 
-<details>
-<summary>Was kann ich als Bonusmama tun, damit unsere Patchworkfamilie nicht scheitert?</summary>
+### Was kann ich als Bonusmama tun, damit unsere Patchworkfamilie nicht scheitert?
 Drei Dinge helfen am meisten: Klarheit über deine eigenen Bedürfnisse, der Mut zu kleinen Veränderungen im Alltag und ehrliche Kommunikation statt „ist schon gut". Professionelle Unterstützung durch Coaching kann den Unterschied machen — du musst das nicht alleine schaffen.
-</details>

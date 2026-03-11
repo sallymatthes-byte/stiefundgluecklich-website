@@ -30,8 +30,6 @@ Wenn du ähnliche Erfahrungen machst, lass uns herausfinden, warum Micromanageme
 
 ---
 
----
-
 ## Was ist Micromanagement?
 
 - Du überprüfst nicht nur, ob die Hausaufgaben gemacht werden, sondern auch wie.
@@ -103,4 +101,4 @@ Loslassen hat nicht nur meine Familie verändert, sondern auch mich selbst. Ich 
 
 ## Zusammenfassung
 
-Micromanagement in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) entsteht oft aus dem Wunsch, alles richtig zu machen — doch es frisst deine Energie, blockiert die Eigenverantwortung deiner Stiefkinder und belastet deine Partnerschaft. Der Weg raus führt über drei Schritte: Verstehen, warum du kontrollierst, Schritt für Schritt loslassen und offen mit deiner Familie über Vertrauen und Aufgabenteilung sprechen. Loslassen bedeutet nicht, dass dir alles egal ist — es bedeutet, dass du deiner Familie zutraust, ihren eigenen Weg zu finden.
+Micromanagement in der [Patchworkfamilie](/blog/patchworkfamilie/) entsteht oft aus dem Wunsch, alles richtig zu machen — doch es frisst deine Energie, blockiert die Eigenverantwortung deiner Stiefkinder und belastet deine Partnerschaft. Der Weg raus führt über drei Schritte: Verstehen, warum du kontrollierst, Schritt für Schritt loslassen und offen mit deiner Familie über Vertrauen und Aufgabenteilung sprechen. Loslassen bedeutet nicht, dass dir alles egal ist — es bedeutet, dass du deiner Familie zutraust, ihren eigenen Weg zu finden.
