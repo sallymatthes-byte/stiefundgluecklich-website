@@ -20,9 +20,9 @@ imageAlt: "Bonusmama sitzt nachdenklich am Fenster mit Schuldgefühlen"
 ---
 
 
-"Ich wünsche mir manchmal, dass es die Kinder nicht gäbe."
-"Es tut mir so leid, dass ich die Kinder nicht lieben kann."
-"Ich schäme mich dafür, dass ich die Kinder meines Partners anders als meine behandel."
+„Ich wünsche mir manchmal, dass es die Kinder nicht gäbe."
+„Es tut mir so leid, dass ich die Kinder nicht lieben kann."
+„Ich schäme mich dafür, dass ich die Kinder meines Partners anders als meine behandle."
 
 All das sind Sätze, die ich immer wieder von Bonusmamas höre. Und auch ich kenne sie. Diese sich selbst einzugestehen und dann laut auszusprechen, ist unglaublich schmerzhaft. Schuld und Scham begleiten sie und oftmals geht das Gefühl damit einher, nicht gut genug zu sein.
 Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und weshalb es okay ist, dass du sie hast. Denn eines vorweg: In über 700 Coaching-Stunden mit mehr als 100 Bonusmamas habe ich gelernt - *du bist damit nicht allein*. Und es macht dich nicht zu einer schlechten Person.
@@ -41,9 +41,11 @@ Lass uns heute mal schauen, wie du mit diesen Gedanken umgehen kannst. Und wesha
 
 Dies sind nur beispielhafte Situationen, in denen Stiefmamis häufig von Schuldgefühlen berichten. Laut Patricia Papernow (2013) gehören Schuldgefühle zu den fünf zentralen Herausforderungen in [Patchworkfamilien](/blog/patchworkfamilie/) - sie sind kein individuelles Versagen, sondern ein systemisches Phänomen. Doch wie entsteht eigentlich das Gefühl der Schuld?
 
-> "Schuldgefühle sind der Beweis dafür, dass dir diese Familie nicht egal ist. Aber sie dürfen nicht der Preis sein, den du dafür zahlst, dazuzugehören." - Sally Matthes, Coach für Bonusmamas
+> „Schuldgefühle sind der Beweis dafür, dass dir diese Familie nicht egal ist. Aber sie dürfen nicht der Preis sein, den du dafür zahlst, dazuzugehören." — Sally Matthes, Coach für Bonusmamas
 
 ![Frau hält sich die Hände vors Gesicht und fühlt sich schuldig](/images/blog/bonusmamas-und-schuldgefuehle-2.jpg)
+
+---
 
 ## Woher kommen die Schuldgefühle als Bonusmama?
 
@@ -56,28 +58,32 @@ Lass uns nun mal schauen, wie du mit ihnen umgehen kannst.
 
 ![Zwei Hände reichen einander als Zeichen der Unterstützung](/images/blog/bonusmamas-und-schuldgefuehle-3.jpg)
 
+---
+
 ## Wie gehst du mit Schuldgefühlen als Bonusmama um?
 
 *Kommunikation ist ebenfalls ein Schlüsselfaktor*. [Offene Gespräche](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) mit dem Partner und den Kindern über Erwartungen, Bedürfnisse und Gefühle können helfen, Missverständnisse und Konflikte zu reduzieren. **Ein weiterer hilfreicher Schritt ist die Selbstreflexion.** Woher kommen meine Schuldgefühle? Sind meine Erwartungen an mich selbst realistisch? Projiziere ich eigene Ängste oder Erfahrungen auf die Situation? Indem man sich diese Fragen stellt, kann man lernen, besser mit Schuldgefühlen umzugehen.
 
 *Nicht zuletzt ist es wichtig, sich Unterstützung zu suchen*. Der Austausch mit anderen Stiefmüttern, die ähnliche Erfahrungen machen, kann entlastend wirken. Auch professionelle Hilfe, etwa durch eine Therapie oder ein Coaching, kann sinnvoll sein, wenn die Schuldgefühle zu überwältigend werden. Wenn du merkst, dass dich [Selbstzweifel](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) immer weiter runterziehen, ist das ein klares Zeichen, dir Unterstützung zu holen.
 
+---
+
 ## Zusammenfassung
 
 Schuldgefühle gehören für viele Bonusmamas zum Alltag - ob wegen Grenzen, Gefühlen oder dem Wunsch nach Zeit für sich selbst. Diese Gefühle sind normal und zeigen, dass dir die Familie am Herzen liegt. Entscheidend ist, dass du lernst, zwischen berechtigter Selbstreflexion und überzogenen Erwartungen zu unterscheiden. Offene Kommunikation, ehrliche Selbstreflexion und der Mut, dir Unterstützung zu suchen, sind die wichtigsten Schritte raus aus der Schuldfalle.
 
 <!-- FAQ_START
-<details>
-<summary>Sind Schuldgefühle als Bonusmama normal?</summary>
-Ja, Schuldgefühle gehören zu den häufigsten emotionalen Belastungen in Patchworkfamilien. Sie zeigen, dass dir die Familie wichtig ist - aber sie sollten dich nicht dauerhaft belasten. Wenn sie überhandnehmen, ist das ein Zeichen, dir Unterstützung zu holen.
-</details>
 
-<details>
-<summary>Was kann ich tun, wenn ich mein Bonuskind nicht lieben kann?</summary>
-Du musst dein Bonuskind nicht lieben wie dein eigenes - das ist eine unrealistische Erwartung. Respekt, Wohlwollen und eine verlässliche Beziehung sind völlig ausreichend. Liebe kann mit der Zeit wachsen, muss aber nicht erzwungen werden.
-</details>
+## Häufige Fragen
 
-<details>
-<summary>Wann sollte ich mir als Bonusmama professionelle Hilfe holen?</summary>
+### Sind Schuldgefühle als Bonusmama normal?
+
+Ja, Schuldgefühle gehören zu den häufigsten emotionalen Belastungen in Patchworkfamilien. Sie zeigen, dass dir die Familie wichtig ist — aber sie sollten dich nicht dauerhaft belasten. Wenn sie überhandnehmen, ist das ein Zeichen, dir Unterstützung zu holen.
+
+### Was kann ich tun, wenn ich mein Bonuskind nicht lieben kann?
+
+Du musst dein Bonuskind nicht lieben wie dein eigenes — das ist eine unrealistische Erwartung. Respekt, Wohlwollen und eine verlässliche Beziehung sind völlig ausreichend. Liebe kann mit der Zeit wachsen, muss aber nicht erzwungen werden.
+
+### Wann sollte ich mir als Bonusmama professionelle Hilfe holen?
+
 Wenn die Schuldgefühle dein Denken und Handeln dauerhaft bestimmen, du dich zurückziehst oder körperliche Symptome wie Schlafstörungen auftreten, ist professionelle Unterstützung sinnvoll. Ein Coaching oder eine Therapie kann dir helfen, die Muster zu durchbrechen.
-</details>

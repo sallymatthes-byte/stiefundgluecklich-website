@@ -79,8 +79,6 @@ Die Frage ist nicht, ob du darfst. Sondern: **Was bringt es — dir, dem Kind un
 
 ---
 
----
-
 ## Wenn die leibliche Mutter deinen Einsatz nicht will
 
 Das ist einer der schmerzhaftesten Punkte. Du machst die Arbeit — aber offiziell sollst du unsichtbar bleiben. Die Kindsmutter sagt zur Lehrerin: „Die hat da nichts zu suchen." Oder: „Nur *ich* hole mein Kind ab."
@@ -92,8 +90,6 @@ Laut einer Studie des Deutschen Jugendinstituts (2020) erleben über 40 % der St
 2. **Über deinen Partner kommunizieren.** Er spricht mit der Ex: „[Partnerin] holt die Kinder ab, wenn ich arbeite. Das ist logistisch notwendig."
 3. **Die Schule informieren.** Eine kurze, sachliche Info an die Lehrerin: „Ich bin die Partnerin von [Name], wir leben zusammen. Hier ist meine Nummer für Notfälle." Mehr muss nicht sein.
 4. **Dich nicht einschüchtern lassen.** Wenn die Kindsmutter verlangt, dass die Schule dich nicht auf das Gelände lässt — das hat sie rechtlich nicht in der Hand, solange du vom sorgeberechtigten Elternteil bevollmächtigt bist.
-
----
 
 ---
 

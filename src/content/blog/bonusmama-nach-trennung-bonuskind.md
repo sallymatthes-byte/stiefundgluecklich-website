@@ -30,8 +30,6 @@ Ihre Geschichte trifft einen Nerv, über den kaum gesprochen wird: **Was passier
 
 ---
 
----
-
 ## Die unsichtbare Trauer der Bonusmama
 
 Über Trennungen wird viel gesprochen. Über den Schmerz der Kinder. Über die Ex. Über die Logistik. Aber über die Bonusmama, die plötzlich kein Bonusmama mehr ist? **Darüber schweigt man.**

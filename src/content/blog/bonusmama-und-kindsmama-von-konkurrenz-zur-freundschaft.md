@@ -75,8 +75,6 @@ Patricia Papernow (2013) betont: Der Übergang von Phase 1 zu Phase 3 ist der en
 
 ---
 
----
-
 ## Was du konkret tun kannst
 
 ### Hör auf, sie über ihn zu definieren
