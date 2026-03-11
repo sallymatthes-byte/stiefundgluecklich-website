@@ -30,8 +30,6 @@ Bevor wir starten, möchte ich eines klarstellen: Es geht in diesem Artikel nich
 
 ---
 
----
-
 ## Das Bonuskind im Elternbett — zwischen Verzweiflung und Durchbruch
 
 „In diesem Moment fühlte ich mich zum ersten Mal, als wäre ich das fünfte Rad am Wagen," gestand Mara. „Ich lag wach, starrte an die Decke und dachte: Vielleicht wäre alles einfacher, wenn ich keine Bonusmama wäre."
@@ -134,6 +132,12 @@ Falls das Kind schon älter ist, kannst du es in altersgerechter Weise in das Ge
 Diese drei Schritte haben nicht nur Mara geholfen, sondern zahlreichen Bonusmamas, die mit der Situation „Bonuskind im Elternbett" kämpften. Sie könnten auch dein Weg zu mehr Harmonie in eurer [Patchworkfamilie](/blog/unverstandene-bonusmamas-wie-du-selbstzweifel-ueberwindest/) sein.
 
 **Du darfst deine Bedürfnisse ernst nehmen.** Eine Lösung für das Bonuskind im Elternbett zu finden bedeutet nicht, dass du das Kind ausschließt — sondern dass du für ein stabiles und harmonisches Familienleben sorgst.
+
+---
+
+## Zusammenfassung
+
+Wenn das Bonuskind im Elternbett zur Dauereinrichtung wird, leidet oft die Paarbeziehung — und damit die ganze [Patchworkfamilie](/blog/patchworkfamilie/). Der Schlüssel liegt nicht darin, das Kind auszuschließen, sondern die eigenen Bedürfnisse klar zu benennen. Mit der 3-Schritte-Strategie — Klarheit schaffen, Wandel einleiten, verbindend kommunizieren — findest du einen Weg, der für alle funktioniert. Dein Bedürfnis nach Schlaf und Nähe ist kein Egoismus, sondern die Grundlage für ein harmonisches Familienleben.
 
 <!-- FAQ_START
 <h2>Häufig gestellte Fragen</h2>

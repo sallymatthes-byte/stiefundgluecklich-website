@@ -9,14 +9,11 @@ imageAlt: "Paar geht zusammen durch herbstlichen Wald, warme Erdtöne"
 metaTitle: "Was Papas in Patchworkfamilien wirklich denken"
 metaDescription: "Zum ersten Mal spricht auch der Papa: Sascha erzählt ehrlich über seine Perspektive als Vater in einer Patchworkfamilie — was er dachte, fühlte und erst spät verstand."
 updated: 2026-03-10
-podcastEpisode: "https://open.spotify.com/episode/5y8QkvhAj9cRsoOGYFUdTE"
-podcastTitle: "Was Papas in Patchwork-Familien wirklich denken"
-podcastDescription: "Jani und Sascha erzählen gemeinsam, wie sich Patchwork aus Sicht des Papas anfühlt — und was der echte Wendepunkt in ihrer Beziehung war."
 youtubeId: "O5yvydPSbHI"
 buzzsproutId: 18809744
 ---
 
-**In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Laut Bray & Kelly (1998) scheitern viele Patchwork-Beziehungen daran, dass der Vater das Ausmaß der Veränderung für seine neue Partnerin unterschätzt. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024) — und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.
+**In einer Patchworkfamilie wird oft über die Perspektive der Bonusmama gesprochen — aber selten über das, was der Papa wirklich denkt und fühlt.** Dabei ist seine Sicht entscheidend: Er steht zwischen seinen Kindern und der neuen Partnerin, zwischen altem System und neuem Anfang. Laut Bray & Kelly (1998) scheitern viele Patchwork-Beziehungen daran, dass der Vater das Ausmaß der Veränderung für seine neue Partnerin unterschätzt. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024) — und oft hat er selbst keine Ahnung, wie viel von dem, was er als „normal" empfindet, für seine Partnerin alles andere als selbstverständlich ist. In diesem Artikel erfährst du, was Sascha — ein Papa in einer Patchworkfamilie — ehrlich über seine Perspektive erzählt.
 
 
 ---
@@ -79,7 +76,7 @@ Kennst du diesen Satz? **„Du wusstest doch, worauf du dich einlässt."** Er is
 
 Die Wahrheit ist: Niemand weiß vorher, wie sich Patchwork *wirklich* anfühlt. Du kannst es dir vorstellen. Aber das Gefühl, wenn dein Partner zum dritten Mal den gemeinsamen Abend absagt, weil sein Kind nicht einschlafen kann — das kannst du dir nicht anlesen. Das musst du durchleben.
 
-Wie du in solchen Momenten [klare Grenzen setzen](/blog/grenzen-setzen-in-der-patchworkfamilie/) kannst, ohne die Beziehung zu gefährden, ist eine der wichtigsten Fähigkeiten als Bonusmama.
+Wie du in solchen Momenten [klare Grenzen setzen](/blog/grenzen-setzen-mit-der-ex/) kannst, ohne die Beziehung zu gefährden, ist eine der wichtigsten Fähigkeiten als Bonusmama.
 
 
 ---
@@ -126,7 +123,7 @@ Jani war kurz davor aufzugeben. Das hat sie im Gespräch offen gesagt. **Ohne da
 
 Was sich durch das Coaching verändert hat: Jani hat gelernt, ihre Bedürfnisse zu benennen. Nicht aggressiv, nicht vorwurfsvoll — sondern klar. Sie hat verstanden, dass ihr Wunsch nach Priorität keine Schwäche ist. Und Sascha hat verstanden, dass seine Perspektive — „für mich hat sich nicht viel verändert" — nicht die ganze Wahrheit war.
 
-Das ist vielleicht die wichtigste Erkenntnis aus diesem Gespräch: **Es geht nicht darum, wer recht hat.** Es geht darum, dass beide Perspektiven gleichzeitig wahr sein können. Für Sascha war der Schritt klein. Für Jani war er riesig. Beides stimmt. Und erst wenn beide das anerkennen, kann [echte Kommunikation in der Patchworkfamilie](/blog/kommunikation-in-patchworkfamilien/) entstehen.
+Das ist vielleicht die wichtigste Erkenntnis aus diesem Gespräch: **Es geht nicht darum, wer recht hat.** Es geht darum, dass beide Perspektiven gleichzeitig wahr sein können. Für Sascha war der Schritt klein. Für Jani war er riesig. Beides stimmt. Und erst wenn beide das anerkennen, kann [echte Kommunikation in der Patchworkfamilie](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) entstehen.
 
 
 ---
@@ -139,12 +136,9 @@ Das klingt einfach. Ist es aber nicht. Denn als Bonusmama hast du oft das Gefüh
 
 Aber genau das stimmt nicht. Deine Beziehung zu deinem Partner und eure Beziehung zu den Kindern sind **zwei verschiedene Dinge**. Und wenn die Paarbeziehung stark ist, profitieren am Ende alle davon — auch die Kinder. Das ist kein Egoismus. Das ist die [Balance in der Verantwortung](/blog/balance-in-der-verantwortung/), die eine Patchworkfamilie braucht.
 
-
 ---
 
----
-
-## Zusammenfassung: Was du aus dieser Geschichte mitnehmen kannst
+## Zusammenfassung Was du aus dieser Geschichte mitnehmen kannst
 
 Dieses Gespräch hat gezeigt, was passiert, wenn beide Seiten ehrlich sind. Wenn der Papa ausspricht, dass er vieles erst spät verstanden hat. Wenn die Bonusmama sagt, dass sie kurz davor war zu gehen. Und wenn beide trotzdem — oder gerade deshalb — noch zusammen sind.
 

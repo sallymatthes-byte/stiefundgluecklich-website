@@ -13,19 +13,19 @@ youtubeId: "nqj2e5MIsFY"
 buzzsproutId: 18809795
 ---
 
-**Wenn das [Bonuskind](/blog/stiefkind/) nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten laut Patricia Papernow (2013) in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit — das Kind versucht, sein vertrautes System zu schützen. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Studien zeigen, dass es 4–7 Jahre dauert, bis Bindungen in Stieffamilien stabil werden (Bray & Kelly, 1998). Hier erfährst du, was wirklich dahintersteckt.
+**Wenn das [Bonuskind](/blog/stiefkind/) nur am Papa klebt und dich als Bonusmama ignoriert oder ablehnt, fühlt sich das wie persönliche Zurückweisung an.** Dabei ist dieses Verhalten laut Patricia Papernow (2013) in den meisten Fällen kein Zeichen von Ablehnung, sondern ein Zeichen von Unsicherheit - das Kind versucht, sein vertrautes System zu schützen. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024). Studien zeigen, dass es 4-7 Jahre dauert, bis Bindungen in Stieffamilien stabil werden (Bray & Kelly, 1998). Hier erfährst du, was wirklich dahintersteckt.
 
 
 Kennst du das Gefühl, als Bonusmama unsichtbar zu sein, während dein Bonuskind nur Augen für den Papa hat?
 Sitzt du auch manchmal auf der Rückbank, während die Kinder links und rechts neben dem Papa sitzen und du dich fragst, ob deine Anwesenheit überhaupt notwendig ist? **Mir ist dieses Gefühl des Ausgeschlossenseins nur allzu vertraut.**
 
-> „Das Kind lehnt nicht dich ab — es schützt das, was es kennt. Und das ist eigentlich ein gesundes Zeichen.“ — Sally Matthes, Coach für Bonusmamas Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
+> „Das Kind lehnt nicht dich ab — es schützt das, was es kennt. Und das ist eigentlich ein gesundes Zeichen." — Sally Matthes, Coach für Bonusmamas
+
+Ich sehnte mich danach, von meinen Bonuskindern wahrgenommen und in die Familie integriert zu werden. Der Wunsch, dass sie auch mal meine Hand nehmen oder neben mir sitzen wollen, wurde immer größer. Stattdessen erlebte ich jedoch häufig Momente, in denen ich mich [überflüssig fühlte](/blog/aussenseiter-patchworkfamilie/) und am liebsten im Boden versunken wäre. Wie ich damit umgegangen bin, erfährst du in diesem Artikel.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Warum es normal ist, wenn das Bonuskind nur Papa will“ an — auf [Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) oder überall, wo du Podcasts hörst.
-
----
+🎙 **Passend dazu:** Hör dir die Podcastfolge "Warum es normal ist, wenn das Bonuskind nur Papa will" an - auf [Spotify](https://open.spotify.com/episode/1IIc7Oia8FJKdXK7WyNabw) oder überall, wo du Podcasts hörst.
 
 ---
 
@@ -43,14 +43,14 @@ Doch statt mich der Situation zu stellen und aktiv nach Lösungen zu suchen, zog
 
 ## Eigentlich wollte ich nur dazugehören
 
-Ich stellte mir vor, wie wir gemeinsam lachen, spielen und Erinnerungen schaffen würden. Ich sehnte mich nach den kleinen Gesten der Zuneigung, wie einer Umarmung oder einem „ich hab dich lieb" von den Kindern. **Mein Herz verlangte danach, bedingungslos geliebt und akzeptiert zu werden, so wie ich war.** Gleichzeitig wünschte ich mir auch, von meinem Partner in meiner Rolle als Bonusmama unterstützt und wertgeschätzt zu werden. Ich hoffte, dass er mir den Rücken stärken und den Kindern vermitteln würde, dass ich ein ebenso wichtiger Teil der Familie bin wie er.
+Ich stellte mir vor, wie wir gemeinsam lachen, spielen und Erinnerungen schaffen würden. Ich sehnte mich nach den kleinen Gesten der Zuneigung, wie einer Umarmung oder einem "ich hab dich lieb" von den Kindern. **Mein Herz verlangte danach, bedingungslos geliebt und akzeptiert zu werden, so wie ich war.** Gleichzeitig wünschte ich mir auch, von meinem Partner in meiner Rolle als Bonusmama unterstützt und wertgeschätzt zu werden. Ich hoffte, dass er mir den Rücken stärken und den Kindern vermitteln würde, dass ich ein ebenso wichtiger Teil der Familie bin wie er.
 
 Ich träumte von einer Patchworkfamilie, in der jeder seinen Platz hatte und sich geborgen fühlte. Eine Familie, in der wir füreinander einstehen, uns gegenseitig unterstützen und gemeinsam durch dick und dünn gehen würden. Ich sehnte mich nach einem Zuhause voller Liebe, Verständnis und Zusammenhalt.
 
 
 ---
 
-## Rückzug und Distanz – direkt in die Sackgasse
+## Rückzug und Distanz - direkt in die Sackgasse
 
 Doch diese Strategie führte nur dazu, dass ich noch mehr von der Familie abgekapselt wurde. **Ich baute eine Mauer um mich herum auf und konnte in diesen Momenten keine Verbindung zu meinen Lieben aufrechterhalten.** Stattdessen gab ich mich meinen negativen Gedanken hin und malte mir aus, wie schrecklich es war, nicht dazuzugehören. *Ich fühlte mich einsam und unverstanden.*
 
@@ -81,12 +81,12 @@ Mit der Zeit zeigten die Veränderungen Wirkung. Die Kinder begannen, auch meine
 
 Durch die bewusste Entscheidung, auf meine Bonuskinder zuzugehen und an unserer Beziehung zu arbeiten, hat sich unser Familienleben grundlegend verändert. Die anfängliche Distanz und das Gefühl des Ausgeschlossenseins sind einer tiefen Verbundenheit und gegenseitigen Wertschätzung gewichen. **Heute erlebe ich Momente, in denen die Kinder von sich aus meine Nähe suchen und mir ihr Vertrauen schenken.** Sie erzählen mir von ihren Erlebnissen, teilen ihre Sorgen und Ängste mit mir und lassen sich von mir trösten, wenn sie traurig sind. Wir lachen gemeinsam, spielen und schaffen wertvolle Erinnerungen, die uns als Familie zusammenschweißen. **Auch die Beziehung zu meinem Partner hat sich vertieft.** Er schätzt mich in meiner Rolle als Bonusmama und unterstützt mich dabei, eine enge Bindung zu den Kindern aufzubauen. Gemeinsam gestalten wir ein harmonisches Familienumfeld, in dem jeder seinen Platz hat und sich geborgen fühlt.
 
-Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen die Kinder bevorzugt zum Papa gehen. Doch anstatt mich dadurch verletzt zu fühlen, kann ich dies nun mit Verständnis und Gelassenheit annehmen. Ich weiß, dass es nicht bedeutet, dass sie mich weniger lieben oder wertschätzen. **Unsere Patchworkfamilie ist zu einem Ort geworden, an dem Liebe, Vertrauen und Zusammenhalt an erster Stelle stehen.** Wir haben gelernt, einander zu akzeptieren, zu unterstützen und füreinander da zu sein – in guten wie in schlechten Zeiten. Und auch wenn unsere Familie vielleicht nicht dem traditionellen Bild entspricht, so ist sie doch genau das, was wir uns immer gewünscht haben: ein Zuhause voller Wärme und Geborgenheit.
+Natürlich gibt es auch weiterhin Herausforderungen und Situationen, in denen die Kinder bevorzugt zum Papa gehen. Doch anstatt mich dadurch verletzt zu fühlen, kann ich dies nun mit Verständnis und Gelassenheit annehmen. Ich weiß, dass es nicht bedeutet, dass sie mich weniger lieben oder wertschätzen. **Unsere Patchworkfamilie ist zu einem Ort geworden, an dem Liebe, Vertrauen und Zusammenhalt an erster Stelle stehen.** Wir haben gelernt, einander zu akzeptieren, zu unterstützen und füreinander da zu sein - in guten wie in schlechten Zeiten. Und auch wenn unsere Familie vielleicht nicht dem traditionellen Bild entspricht, so ist sie doch genau das, was wir uns immer gewünscht haben: ein Zuhause voller Wärme und Geborgenheit.
 
-Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen – als Familie.
+Ich bin dankbar für den Weg, den wir gemeinsam gegangen sind, und für die wunderbare Beziehung, die ich heute zu meinen Bonuskindern habe. Sie haben mir gezeigt, dass Liebe keine Grenzen kennt und dass es möglich ist, auch als Bonusmama einen wichtigen Platz im Herzen der Kinder einzunehmen. Mit Geduld, Verständnis und dem Willen, füreinander da zu sein, können wir alles erreichen - als Familie.
 
 ---
 
 ## Zusammenfassung
 
-Wenn das [Bonuskind](/blog/stiefkind/) nur am Papa klebt, fühlt sich das als Bonusmama oft schmerzhaft und ausgrenzend an. Doch dieses Verhalten ist völlig normal — Kinder suchen nach einer Trennung Sicherheit beim vertrauten Elternteil. Der Schlüssel liegt darin, den eigenen Rückzug zu durchbrechen und stattdessen aktiv auf die Kinder zuzugehen: mit Geduld, kleinen Gesten und offener Kommunikation mit dem Partner. Schritt für Schritt entsteht so eine Verbindung, die auf Vertrauen statt auf Druck basiert. Eine Patchworkfamilie braucht Zeit — aber mit Verständnis und Beharrlichkeit findet jeder seinen Platz.
+Wenn das [Bonuskind](/blog/stiefkind/) nur am Papa klebt, fühlt sich das als Bonusmama oft schmerzhaft und ausgrenzend an. Doch dieses Verhalten ist völlig normal - Kinder suchen nach einer Trennung Sicherheit beim vertrauten Elternteil. Der Schlüssel liegt darin, den eigenen Rückzug zu durchbrechen und stattdessen aktiv auf die Kinder zuzugehen: mit Geduld, kleinen Gesten und offener Kommunikation mit dem Partner. Schritt für Schritt entsteht so eine Verbindung, die auf Vertrauen statt auf Druck basiert. Eine Patchworkfamilie braucht Zeit - aber mit Verständnis und Beharrlichkeit findet jeder seinen Platz.

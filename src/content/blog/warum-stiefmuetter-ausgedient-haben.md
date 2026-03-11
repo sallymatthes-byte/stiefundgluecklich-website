@@ -9,9 +9,6 @@ imageAlt: "Frau und Kind lachen zusammen in der Natur, warme Erdtöne"
 metaTitle: "Stiefmutter war gestern | Moderne Begriffe für Bonusmamas"
 metaDescription: "Der Begriff Stiefmutter stammt aus dem Althochdeutschen und ist längst überholt. Entdecke moderne Alternativen wie Bonusmama, Herzensmama und Co-Parent."
 updated: 2026-03-10
-podcastEpisode: "https://open.spotify.com/episode/6nYEjVUKpR39Ku0am2rTqW"
-podcastTitle: "Warum Stiefmütter ausgedient haben - Neue Begriffe und Chancen für Patchworkfamilien"
-podcastDescription: "Weshalb der Begriff Stiefmutter ausgedient hat und welche modernen Alternativen es für Patchworkfamilien gibt."
 ---
 
 **Der Begriff „Stiefmutter" stammt aus dem Althochdeutschen und bedeutet wörtlich „Ersatzmutter" — ein Konzept, das in modernen Patchworkfamilien keinen Platz mehr hat.** Heute lebt die leibliche Mutter in den allermeisten Fällen. Niemand muss ersetzt werden. Was es braucht, sind neue Worte, die beschreiben, was du *wirklich* bist: eine zusätzliche Bezugsperson im Leben eines Kindes.
@@ -111,7 +108,7 @@ Dein Partner erwartet vielleicht, dass du dich um seine Kinder kümmerst wie um 
 
 Dieser Rollenkonflikt lässt sich nicht mit einem neuen Etikett lösen. Aber ein bewusst gewählter Begriff kann dir helfen, deine *eigene* Definition zu finden. Du bist keine Stiefmutter, die eine Rolle ausfüllen muss, die jemand anderes geschrieben hat. Du bist eine Bonusmama, die ihre Rolle *selbst* gestaltet.
 
-Mehr darüber, wie du mit den verschiedenen Erwartungen umgehen kannst, findest du im Artikel über [die größten Fehler in Patchworkfamilien](/blog/die-groessten-fehler-patchworkfamilien/).
+Mehr darüber, wie du mit den verschiedenen Erwartungen umgehen kannst, findest du im Artikel über [die größten Fehler in Patchworkfamilien](/blog/die-groessten-fehler-patchworkfamilien/). Einen umfassenden Überblick über die [Stiefmutter-Rolle](/blog/stiefmutter/) findest du auf unserer Themenseite.
 
 
 ---
