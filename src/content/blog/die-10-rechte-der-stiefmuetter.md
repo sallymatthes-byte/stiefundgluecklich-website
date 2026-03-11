@@ -35,7 +35,9 @@ Bist du bereit, deine Rechte als [Stiefmutter](/blog/stiefmutter/) zu entdecken 
 Du sehnst dich danach, respektiert und wertgeschätzt zu werden - sowohl von deinem Partner als auch von den Kindern und anderen Familienmitgliedern. **Du möchtest deine Rolle aktiv gestalten, anstatt dich ständig anzupassen und zurückzustecken.** Doch der Weg dorthin ist nicht immer einfach. Manchmal scheint es, als würdest du gegen unsichtbare Widerstände ankämpfen - sei es durch festgefahrene Rollenbilder, ein [Mini-Wife-Syndrom](/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/), Konflikte mit der Ex-Partnerin oder mangelnde Unterstützung von außen.
 
 
-> Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen. – J. W. von Goethe
+> „Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte zugestehen will, muss man sie gut bezahlen." – J. W. von Goethe
+
+---
 
 ## #1 „Unsere Ehe ist unsere erste Priorität, und wir werden alle Themen gemeinsam angehen."
 
@@ -43,9 +45,13 @@ Stell dir vor, du hast ein Date mit deinem Partner geplant, aber seine Ex ruft a
 
 *Es bleibt eine Herausforderung, wenn der Partner die Prioritäten anders setzt oder sich aus Schuldgefühlen gegenüber den Kindern oder der Ex-Partnerin schwer abgrenzen kann.* Hier ist gegenseitiges Verständnis, klare Kommunikation und manchmal auch professionelle Unterstützung gefragt, um einen gemeinsamen Weg zu finden.
 
+---
+
 ## #2 „Ich werde immer in den Entscheidungsprozess meiner Ehe und Familie einbezogen."
 
 Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, die ihr Leben und das der Familie betreffen. **Nur so kann sie sich als vollwertiges Familienmitglied fühlen und Verantwortung übernehmen.** Gleichzeitig musst du akzeptieren, dass es Entscheidungen gibt, die letztlich nur zwischen den leiblichen Eltern getroffen werden können.
+
+---
 
 ## #3 „Ex-Partner, Schwiegereltern und erwachsene Kinder dürfen keine Pläne machen, die mein Leben betreffen, ohne meine Zustimmung."
 
@@ -53,11 +59,15 @@ Es ist wichtig und fair, die Stiefmutter in Entscheidungsprozesse einzubinden, d
 
 ![Frau steht selbstbewusst in einem sonnendurchfluteten Raum - eigene Rechte kennen und einfordern](/images/blog/die-10-rechte-der-stiefmuetter-2.jpg)
 
+---
+
 ## #4 „Ich bin nicht verantwortlich für die Kinder, über die ich keine Grenzen setzen darf."
 
 Studien (Papernow, 2013) zur Bedeutung der Rechte der Stiefmütter zeigen, dass klare Rollen und Grenzen enorm wichtig sind, um Stress und Konflikte in der Stieffamilie zu reduzieren. Wenn alle Beteiligten wissen, was von ihnen erwartet wird und welche Entscheidungsspielräume sie haben, fällt das Zusammenleben deutlich leichter.
 
 *Ohne das Recht, Grenzen zu setzen und Konsequenzen zu verhängen, sollte auch keine Verantwortung für die Kinder übertragen werden.* Es ist wichtig, dass du offen mit deinem Partner über dieses Thema sprichst und ihr gemeinsam eine Lösung findet.
+
+---
 
 ## #5 „Ich werde bei der Entscheidung konsultiert, welche Kinder bei uns leben, wann sie zu Besuch kommen und wie lange sie bleiben."
 
@@ -65,10 +75,14 @@ Studien (Papernow, 2013) zur Bedeutung der Rechte der Stiefmütter zeigen, dass 
 
 Natürlich geht es nicht darum, den Kindern deines Partners den Kontakt zu verwehren. Aber es muss einen offenen Dialog darüber geben, was für alle Beteiligten gut funktioniert und wo vielleicht Anpassungen nötig sind.
 
+---
+
 ## #6 „Ich bin nicht allein für den Haushalt verantwortlich; die Aufgaben werden fair verteilt."
 *Deshalb ist es so wichtig, von Anfang an klare Absprachen über die Verteilung der Hausarbeit zu treffen.* Jedes Familienmitglied sollte entsprechend seinem Alter und seinen Fähigkeiten eingebunden werden.
 
 Es geht nicht darum, penibel jede Minute aufzurechnen, sondern Hand in Hand zu arbeiten und sich gegenseitig zu unterstützen. **Wenn die Aufgaben gerecht verteilt sind, bleibt dir auch genug Zeit und Energie, um dich selbst und deine Partnerschaft zu pflegen.**
+
+---
 
 ## #7 „Ich werde in alle finanziellen Angelegenheiten der Familie einbezogen."
 
@@ -80,9 +94,13 @@ Die Verantwortung für Unterhaltszahlungen liegt hauptsächlich bei deinem Partn
 
 ![Paar sitzt entspannt zusammen am Tisch - finanzielle Offenheit und gemeinsame Entscheidungen](/images/blog/die-10-rechte-der-stiefmuetter-3.jpg)
 
+---
+
 ## #8 „Mein privater Raum und meine Besitztümer werden respektiert."
 
 Hier liegt es an den Eltern - und vor allem an deinem Partner -, die Regeln klar zu kommunizieren und konsequent durchzusetzen. Indem ihr als Team auftretet, kann dein Zuhause zu einem Ort werden, an dem sich alle wohlfühlen.
+
+---
 
 ## #9 „Ich werde in meinem eigenen Zuhause nicht als Außenseiterin behandelt."
 
@@ -90,11 +108,15 @@ Hier liegt es an den Eltern - und vor allem an deinem Partner -, die Regeln klar
 
 Es erfordert Geduld, Vertrauen und Zuneigung zu gewinnen. Aber es ist die Aufgabe von dir und deinem Partner, beharrlich daran zu arbeiten, dass du deinen Platz in der Familie findest.
 
+---
+
 ## #10 „Mein Partner und seine Kinder werden mich respektvoll behandeln."
 
 **Respekt ist nicht verhandelbar.** Natürlich dürfen Kinder ihre Gefühle ausdrücken, auch wenn sie negativ sind. Aber das rechtfertigt niemals respektloses Verhalten.
 
 Die Kinder müssen dich nicht von Anfang an lieben, aber sie müssen dich in jedem Fall respektvoll behandeln. Indem dein Partner unmissverständlich deine Seite ergreift, schafft er die Basis für ein harmonisches Miteinander.
+
+---
 
 ## Was sind deine nächsten Schritte als Stiefmutter?
 
