@@ -44,6 +44,8 @@ Geholfen hat mir dabei, mir bewusst zu machen, dass ich als Bonusmama eine einzi
 
 ![Paar sitzt zusammen auf dem Sofa und spricht offen über Bedürfnisse in der Patchworkfamilie](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-2.jpg)
 
+---
+
 ## Wie kommunizieren wir das?
 
 Es ist wichtig, dass wir als Paar *offen* miteinander über unsere unterschiedlichen Voraussetzungen und Bedürfnisse sprechen, um eine harmonische Beziehung zu schaffen.
@@ -58,6 +60,8 @@ Es ist wichtig, dass wir als Paar *offen* miteinander über unsere unterschiedli
 
 ![Bonusmama spielt entspannt mit den Bonuskindern im Garten](/images/blog/harmonische-patchworkfamilie-trotz-eigener-kinderlosigkeit-3.jpg)
 
+---
+
 ## Wie habe ich mich den Kindern gegenüber geöffnet?
 
 Als Bonusmama war es für mich ein wichtiger Schritt, mich den Kindern gegenüber zu öffnen und sie als einen *Bestandteil meines Lebens* anzunehmen. Anfangs war es nicht immer leicht, da ich nie eigene Kinder wollte und sich dadurch eine gewisse Distanz aufbaute. Doch mit der Zeit habe ich erkannt, dass eine liebevolle Beziehung zu den Kindern nicht bedeutet, meine eigenen Wünsche aufzugeben. Es bedeutet, sie als Teil meines Lebens zu akzeptieren und ihnen mit *Offenheit* und Respekt zu begegnen.
@@ -68,25 +72,24 @@ Als Bonusmama war es für mich ein wichtiger Schritt, mich den Kindern gegenübe
 
 - Die Öffnung und Akzeptanz der Kinder als Teil meines Lebens als Bonusmama war ein Prozess, der *Zeit und Geduld* erforderte. Doch durch meine Offenheit und Bereitschaft, mich auf die Kinder einzulassen, habe ich eine tiefere Verbindung zu ihnen aufgebaut und eine harmonische Beziehung geschaffen. Es ist ein wundervolles Gefühl zu wissen, dass ich als Bonusmama einen positiven Einfluss auf ihr Leben habe.
 
+---
+
 ## Zusammenfassung
 
+**Kinderlos und trotzdem Bonusmama** – das klingt wie ein Widerspruch, ist aber keiner. Der Schlüssel liegt darin, die eigene Entscheidung zur Kinderlosigkeit zu akzeptieren und gleichzeitig offen für die Beziehung zu den Bonuskindern zu sein. Offene Kommunikation mit dem Partner über unterschiedliche Bedürfnisse und Prioritäten schafft die Grundlage für ein harmonisches Miteinander in der [Patchworkfamilie](/blog/patchworkfamilie/). Die Öffnung gegenüber den Kindern ist ein Prozess, der *Zeit und Geduld* braucht – aber er lohnt sich. Du darfst beides fühlen – die Freude über die Bonuskinder und die Trauer um den eigenen Kinderwunsch. **Beides ist erlaubt, und beides macht dich nicht weniger zur Familie.**
+
 <!-- FAQ_START
-<details><summary>Kann ich eine gute Bonusmama sein, wenn ich nie eigene Kinder wollte?</summary>
+
+## Häufige Fragen
+
+### Kann ich eine gute Bonusmama sein, wenn ich nie eigene Kinder wollte?
 
 Ja, absolut. Dein Wert als Bonusmama hängt nicht davon ab, ob du eigene Kinder hast oder willst. Was zählt, ist deine Bereitschaft, dich auf die Kinder einzulassen, authentisch zu sein und deine eigenen Grenzen zu wahren. Viele kinderlose Bonusmamas bauen wunderbare Beziehungen zu ihren Bonuskindern auf.
 
-</details>
-
-<details><summary>Wie gehe ich mit Kommentaren um wie „Du verstehst das nicht, du hast ja keine Kinder"?</summary>
+### Wie gehe ich mit Kommentaren um wie „Du verstehst das nicht, du hast ja keine Kinder"?
 
 Solche Kommentare tun weh — und sie sind unfair. Du musst keine leibliche Mutter sein, um Empathie, Liebe und Verständnis für Kinder zu haben. Setze ruhig, aber bestimmt Grenzen: „Ich habe vielleicht keine eigenen Kinder, aber ich bin Teil dieser Familie und meine Perspektive zählt."
 
-</details>
-
-<details><summary>Ist es okay, manchmal zu trauern, obwohl ich bewusst kinderlos bin?</summary>
+### Ist es okay, manchmal zu trauern, obwohl ich bewusst kinderlos bin?
 
 Ja, das ist vollkommen normal. Trauer und bewusste Entscheidung schließen sich nicht aus. Du darfst trauern über das, was du „aufgibst", und gleichzeitig bei deiner Entscheidung bleiben. Beides ist erlaubt — und beides macht dich nicht weniger zur Familie.
-
-</details>
-
-**Kinderlos und trotzdem Bonusmama** – das klingt wie ein Widerspruch, ist aber keiner. Der Schlüssel liegt darin, die eigene Entscheidung zur Kinderlosigkeit zu akzeptieren und gleichzeitig offen für die Beziehung zu den Bonuskindern zu sein. Offene Kommunikation mit dem Partner über unterschiedliche Bedürfnisse und Prioritäten schafft die Grundlage für ein harmonisches Miteinander. Die Öffnung gegenüber den Kindern ist ein Prozess, der *Zeit und Geduld* braucht – aber er lohnt sich. Du darfst beides fühlen – die Freude über die Bonuskinder und die Trauer um den eigenen Kinderwunsch. **Beides ist erlaubt, und beides macht dich nicht weniger zur Familie.**

@@ -44,6 +44,8 @@ Du siehst: Es gibt keine allgemeingültige Regel für die finanzielle Beteiligun
 
 ![Nachdenkliche Frau blickt auf Kontoauszüge und überlegt](/images/blog/finanzielle-beteiligung-2.jpg)
 
+---
+
 ## Was, wenn du das Gefühl hast verzichten zu müssen?
 
 Diese Gefühle sind absolut verständlich und menschlich. **Du bist nicht egoistisch oder herzlos, wenn du manchmal hadert.** Es ist eine große Herausforderung, plötzlich nicht mehr nur für die eigenen Bedürfnisse, sondern auch für die von Kindern verantwortlich zu sein, die nicht deine eigenen sind.
@@ -53,6 +55,8 @@ Wichtig ist, dass du diese Gefühle ernst nimmst und nicht versuchst, sie zu unt
 Wir haben bei uns in der Familie die Regelung getroffen, dass der Papa etwas mehr auf unser gemeinsames Konto überweist, wenn die Kinder da sind. So können wir Lebensmittel, Geschenke und Ausflüge gemeinsam bezahlen und müssen nicht alles kleinteilig aufrechnen. Das war für mich schon immer ein No-Go: ich wollte nie vor den Kindern darüber diskutieren und ihnen das Gefühl geben nicht für sie zahlen zu wollen. Gleichzeitig möchte ich große Investitionen in Zahnspangen etc. nicht mittragen müssen. Ich tue es öfter, dann aber weil ich es möchte und nicht weil es erwartet wird.
 
 > „Hüte dich vor kleinen Ausgaben. Ein kleines Leck kann ein großes Schiff zum Sinken bringen." – Benjamin Franklin
+
+---
 
 ## Mit dem Partner über Geld sprechen
 
@@ -80,6 +84,8 @@ Gerade in Patchworkfamilien ist es wichtig, im Gespräch zu bleiben – auch wen
 
 ![Paar plant gemeinsam das Familienbudget mit Notizbuch und Kaffee](/images/blog/finanzielle-beteiligung-3.jpg)
 
+---
+
 ## Wahre deine finanzielle Unabhängigkeit
 
 **Als Bonusmama ist es leicht, sich selbst zu vergessen.** Die Bedürfnisse der Kinder und des Partners stehen oft an erster Stelle. Doch gerade beim Thema Finanzen ist es wichtig, dass du auch an dich selbst denkst. Daher hier eine in meinen Augen sehr wichtige Faustregel: Bewahre dir ein Stück finanzielle Unabhängigkeit.
@@ -96,29 +102,28 @@ Ein eigenes Konto ist dafür eine gute Basis. So kannst du, unabhängig von der 
 
 Auch für die [Beziehung](/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/) kann es entlastend sein, wenn nicht jeder Cent gemeinsam verwaltet werden muss. Kleine persönliche Ausgaben müssen nicht ständig diskutiert und gerechtfertigt werden. Das schafft Freiraum und vermeidet Konfliktpotenzial.
 
-Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun. Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre Familie glücklich machen.
+Deine finanzielle Unabhängigkeit hat nichts mit mangelndem Vertrauen oder fehlendem Engagement für die Familie zu tun. Im Gegenteil: nur wenn du dich selbst nicht aus dem Blick verlierst, kannst du auf Dauer eine starke und liebevolle Bonusmama sein. Denn nur eine Bonusmama, der es selbst gut geht, kann auch ihre [Patchworkfamilie](/blog/patchworkfamilie/) glücklich machen.
 
-<!-- FAQ_START
-<details><summary>Muss ich als Bonusmama für die Bonuskinder mitbezahlen?</summary>
-
-Nein, es gibt keine gesetzliche Pflicht. Wie ihr die Kosten aufteilt, ist eine Entscheidung als Paar. Wichtig ist, dass ihr offen darüber sprecht, was sich für beide fair anfühlt — unter Berücksichtigung von Einkommen, Unterhaltszahlungen und Betreuungszeiten.
-
-</details>
-
-<details><summary>Wie spreche ich mit meinem Partner über Geld?</summary>
-
-Wähle einen ruhigen Moment ohne Druck. Nutze Ich-Botschaften: „Ich fühle mich unwohl, wenn..." statt „Du gibst immer..." Schlagt vor, regelmäßige Finanzmeetings einzuführen — das nimmt dem Thema die Schärfe und macht es zur gemeinsamen Aufgabe.
-
-</details>
-
-<details><summary>Sollte ich als Bonusmama ein eigenes Konto behalten?</summary>
-
-Ja, unbedingt. Ein eigenes Konto gibt dir Sicherheit und Unabhängigkeit — das ist kein Zeichen von Misstrauen, sondern von gesundem Selbstschutz. Sprich offen mit deinem Partner darüber, damit es nicht als Geheimnis wirkt.
-
-</details>
+---
 
 ## Zusammenfassung
 
 Wenn du als [Stiefmutter](/blog/stiefmutter/) unsicher bist, wie du das Finanzthema ansprechen sollst — du bist damit nicht allein. Es ist eines der am meisten verschwiegenen Themen in Patchworkfamilien.
 
 Finanzielle Beteiligung als Bonusmama ist ein sensibles Thema ohne Patentlösung. Eine hälftige Kostenteilung ist nicht automatisch fair — Einkommen, Unterhaltszahlungen und Betreuungszeiten spielen eine Rolle. Sprich offen mit deinem Partner über Geld, legt gemeinsame Regeln fest und haltet regelmäßige Finanzmeetings ab. Bewahre dir dabei unbedingt ein Stück finanzielle Unabhängigkeit: Ein eigenes Konto und freies Budget sind kein Zeichen von Misstrauen, sondern stärken dich und eure Beziehung langfristig.
+
+<!-- FAQ_START
+
+## Häufige Fragen
+
+### Muss ich als Bonusmama für die Bonuskinder mitbezahlen?
+
+Nein, es gibt keine gesetzliche Pflicht. Wie ihr die Kosten aufteilt, ist eine Entscheidung als Paar. Wichtig ist, dass ihr offen darüber sprecht, was sich für beide fair anfühlt — unter Berücksichtigung von Einkommen, Unterhaltszahlungen und Betreuungszeiten.
+
+### Wie spreche ich mit meinem Partner über Geld?
+
+Wähle einen ruhigen Moment ohne Druck. Nutze Ich-Botschaften: „Ich fühle mich unwohl, wenn..." statt „Du gibst immer..." Schlagt vor, regelmäßige Finanzmeetings einzuführen — das nimmt dem Thema die Schärfe und macht es zur gemeinsamen Aufgabe.
+
+### Sollte ich als Bonusmama ein eigenes Konto behalten?
+
+Ja, unbedingt. Ein eigenes Konto gibt dir Sicherheit und Unabhängigkeit — das ist kein Zeichen von Misstrauen, sondern von gesundem Selbstschutz. Sprich offen mit deinem Partner darüber, damit es nicht als Geheimnis wirkt.
