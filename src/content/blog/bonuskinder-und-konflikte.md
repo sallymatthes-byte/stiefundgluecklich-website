@@ -23,7 +23,7 @@ Daher möchte ich dich heute einmal mit durch meine Gedanken und Überlegungen n
 
 Die Forschung von Bray und Kelly zeigt: Konflikte zwischen Bonuselternteilen und Bonuskindern sind einer der häufigsten Gründe, warum Patchworkfamilien in den ersten fünf Jahren scheitern. Doch es sind nicht die Konflikte selbst, die gefährlich sind — sondern der Umgang damit.
 
-> **Sally Matthes, Coach für Bonusmamas:** *„In meinen Coachings erlebe ich immer wieder: Der Konflikt mit dem Bonuskind ist selten das eigentliche Problem. Dahinter steckt meistens ein unausgesprochenes Bedürfnis — beim Kind und bei dir."*
+> „In meinen Coachings erlebe ich immer wieder: Der Konflikt mit dem Bonuskind ist selten das eigentliche Problem. Dahinter steckt meistens ein unausgesprochenes Bedürfnis — beim Kind und bei dir." — Sally Matthes, Coach für Bonusmamas
 
 Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, **Konflikte mit den Bonuskindern zu minimieren** und eine harmonische Beziehung aufzubauen. Wir werden uns außerdem mit dem Verständnis für die Situation der Kinder, dem setzen und respektieren von Grenzen, der Bedeutung der Kommunikation und der Schaffung gemeinsamer Aktivitäten und Rituale beschäftigen.
 
@@ -33,8 +33,6 @@ Wir werden uns mit verschiedenen Aspekten befassen, die dazu beitragen können, 
 
 ---
 
-![Mutter und Kind sitzen auf einer Waldlichtung im warmen Abendlicht und reden miteinander](/images/blog/bonuskinder-und-konflikte-1.jpg)
-
 ## Weshalb entstehen Konflikte?
 
 Mir ist es wichtig, dass ich versuche mich in die Rolle der Kinder hineinzuversetzen und ihre *Sichtweise* verstehen. Kinder in Patchworkfamilien müssen oft mit verschiedenen Veränderungen und Herausforderungen umgehen, wie dem Gefühl des Verlustes, der Anpassung an neue Regeln und Dynamiken oder der Beziehung zu ihrem leiblichen Elternteil. Indem ich mich bemühe, die Gefühle und Bedürfnisse zu verstehen, kann ich eine Atmosphäre des **Verständnisses und der Empathie** schaffen.
@@ -43,11 +41,15 @@ Ein erster Schritt, um Verständnis aufzubauen, ist das *offene Gespräch* mit d
 
 Es ist auch wichtig, dass wir als Bonuseltern unsere *eigenen Erwartungen* und Vorstellungen überdenken. Jedes Kind ist einzigartig und hat seine eigene Art, Beziehungen aufzubauen. Manche Kinder sind vielleicht von Anfang an offen und bereit, eine enge Beziehung zu uns aufzubauen, während andere möglicherweise mehr Zeit und Raum benötigen. Indem wir unsere Erwartungen anpassen und den Kindern Raum geben, ihre eigene Beziehung zu uns zu gestalten, können wir **Konflikte vermeiden und authentische Verbindung** aufbauen.
 
+---
+
 ## Aus Sicht der Entwicklungspsychologie
 
-Laut Dr. Patricia Papernow durchlaufen Kinder in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) eine intensive Anpassungsphase, die im Durchschnitt fünf bis sieben Jahre dauert. In dieser Zeit reagieren sie auf neue Bezugspersonen häufig mit Abwehr — nicht aus Ablehnung, sondern aus Selbstschutz.
+Laut Dr. Patricia Papernow durchlaufen Kinder in [Patchworkfamilien](/blog/patchworkfamilie/) eine intensive Anpassungsphase, die im Durchschnitt fünf bis sieben Jahre dauert. In dieser Zeit reagieren sie auf neue Bezugspersonen häufig mit Abwehr — nicht aus Ablehnung, sondern aus Selbstschutz.
 
 Im nächsten Abschnitt werden wir uns mit einem weiteren wichtigen Punkt beschäftigen: dem setzen und respektieren von Grenzen. Denn klare und angemessene Grenzen sind entscheidend für eine gesunde und respektvolle Beziehung zu den Bonuskindern. Wie du als Bonusmama generell [eine gute Beziehung zu deinem Bonuskind aufbaust](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/), ist dabei eine wichtige Grundlage.
+
+---
 
 ![Zwei Hände halten ein kleines Holzhaus in warmem Licht, umgeben von Herbstlaub](/images/blog/bonuskinder-und-konflikte-2.jpg)
 
@@ -61,11 +63,15 @@ Auch in Bezug auf die *Beziehungsdynamik* ist es wichtig, Grenzen zu setzen — 
 
 > „Ein echter Dialog entsteht erst, wenn man bereit ist, auch die Perspektive des anderen zu verstehen." – Thich Nhat Hanh
 
+---
+
 ## Wie kommuniziere ich diese?
 
 Indem wir Grenzen setzen und diese auch respektieren, schaffen wir eine Atmosphäre des Respekts und der gegenseitigen Achtung. Die Kinder lernen, was angemessenes Verhalten ist und wie sie ihre eigenen Grenzen wahren können. Gleichzeitig stärken wir unsere [Rolle als Bonusmama](/blog/ab-wann-ist-man-stiefmutter/) und haben eine gesunde Basis für eine liebevolle und harmonische Beziehung zu den [Bonuskindern](/blog/stiefkind/).
 
 Im nächsten Abschnitt schauen wir uns Notfallstrategien an, die dabei helfen können, wenn es doch mal brenzlig wird. Gerade wenn du dich manchmal als [Außenseiterin in der Patchworkfamilie](/blog/aussenseiter-patchworkfamilie/) fühlst, können solche Momente besonders herausfordernd sein.
+
+---
 
 ![Familie spaziert auf einem Waldweg im Herbst, warmes Licht fällt durch die Baumkronen](/images/blog/bonuskinder-und-konflikte-3.jpg)
 
@@ -78,6 +84,8 @@ Wenn es zu einem Streit mit den Bonuskindern kommt, ist es wichtig, einen kühle
 - **Gemeinsame Lösungen finden:** Statt den Streit zu eskalieren, arbeite mit den Kindern zusammen, um eine gemeinsame Lösung zu finden. Frage nach ihren Ideen und Vorschlägen, wie das Problem gelöst werden könnte. Zum Beispiel könntest du sagen: „Wie könnten wir gemeinsam dafür sorgen, dass das Zimmer aufgeräumt bleibt? Habt ihr Vorschläge, wie wir das besser organisieren können?" Indem du die Kinder in den Lösungsprozess einbeziehst, ermöglichst du ihnen, Verantwortung zu übernehmen und ihre Fähigkeiten zur Problemlösung zu entwickeln.
 
 Diese Tipps helfen dir dabei, Konflikte mit den Bonuskindern auf eine respektvolle und pädagogisch wertvolle Weise anzugehen.
+
+---
 
 ## Zusammenfassung
 

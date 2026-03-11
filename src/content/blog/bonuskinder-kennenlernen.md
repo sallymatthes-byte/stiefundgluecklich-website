@@ -104,7 +104,7 @@ In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamil
 
 Drei Jahre nach dem ersten Kennenlernen erzählt Marie: „Das Jahr Warten war das Geschenk, das ich dieser Familie gemacht habe. Ich kannte meinen Partner. Ich kannte meine Grenzen. Und die Kinder haben mich kennengelernt, als ich bereit war — nicht als ich nervös war."
 
-Ihre Beziehung zum jüngeren Kind ist heute eng und vertrauensvoll. Das ältere Kind hält mehr Distanz — und Marie lässt es zu. Weil sie verstanden hat: [Bindung zum Bonuskind aufbauen](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) ist ein Marathon. Kein Sprint.
+Ihre Beziehung zum jüngeren Kind ist heute eng und vertrauensvoll. Das ältere Kind hält mehr Distanz — und Marie lässt es zu. Weil sie verstanden hat: [Bindung zum Bonuskind aufbauen](/blog/so-baust-du-als-stiefmami-eine-gute-beziehung-zu-deinem-bonuskind-auf/) ist ein Marathon. Kein Sprint. Mehr darüber, was es bedeutet, [Stiefmutter](/blog/stiefmutter/) zu werden, findest du in unserer Hub-Übersicht.
 
 ---
 

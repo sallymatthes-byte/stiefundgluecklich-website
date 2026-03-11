@@ -21,6 +21,8 @@ Am Anfang unserer Beziehung überwog das Verliebt-Sein und ich fand es toll und 
 
 Und immer wieder lese ich in Social Media davon, dass es vielen [Stiefmüttern](/blog/stiefmutter/) so geht. Irgendwann scheinen die Belastungen zu viel zu werden und man würde alles am liebsten hinschmeißen. Das ist auch nicht überraschend: Studien zeigen, dass es durchschnittlich 4 bis 7 Jahre dauert, bis eine [Patchworkfamilie](/blog/patchworkfamilie/) wirklich zusammenwächst (Bray & Kelly, 1998). In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024) — und viele davon kämpfen im Stillen mit genau diesen Gedanken. Lass uns mal ein paar praktische Beispiele betrachten, in denen das noch klarer wird.
 
+---
+
 ## Ist das noch „Normal"?
 
 Oder wenn du versuchst, dich in die Erziehung einzubringen, aber immer wieder auf Widerstand stößt. Eigentlich würdest du es ja ganz anders machen, wenn die Kinder deine eigenen wären. Die Frustration und Hilflosigkeit, nicht zu wissen, wie du dich einbringen kannst und gleichzeitig den Frieden bewahrst, sind überwältigend.
@@ -29,12 +31,16 @@ Und nicht zu vergessen, die Momente, in denen du dich zwischen deinem Partner un
 
 Schließlich fragst du dich, ob es nicht mit einem Partner ohne Kinder viel einfacher wäre. Kennst du das auch?
 
+---
+
 ![Frau sitzt allein auf dem Sofa und blickt nachdenklich aus dem Fenster](/images/blog/bleiben-oder-gehen-2.jpg)
 
 ## Aber dann gibt es ja auch noch diese Momente…
 
 Du genießt diese kostbaren Augenblicke, in denen die Kinder nicht da sind und ihr euch auf eure Beziehung konzentrieren könnt.
 Es sind diese kleinen Auszeiten, die dir Kraft geben und dir zeigen, dass es die Mühe wert ist, für diese Beziehung zu kämpfen. Du spürst, wie die Liebe zwischen dir und deinem Partner stark ist und dass ihr gemeinsam diese Herausforderungen meistern könnt. In solchen Momenten fühlst du dich geliebt und bestärkt, und es gibt dir den Mut, weiterzumachen und an eurer Patchworkfamilie zu arbeiten.
+
+---
 
 ## Wenn nur die Kinder nicht wären
 
@@ -45,11 +51,15 @@ Das führt letztendlich dazu, dass du dich in deinem Zuhause nur zu Gast fühlst
 
 > „Die Frage ‚Bleiben oder gehen?' ist oft gar nicht die richtige Frage. Die richtige Frage ist: Bin ich bereit, mir die Unterstützung zu holen, die ich brauche — bevor ich eine Entscheidung treffe, die ich nicht mehr zurücknehmen kann?" — Sally Matthes, Coach für Bonusmamas
 
+---
+
 ## Lösungsversuche
 
 Möglicherweise streitet ihr euch aber auch, weil dein Partner deine Gefühle nicht verstehen kann.
 Und obwohl du so gern eine Lösung finden würdest, hast du den Eindruck, dass es keine gibt.
 Und so geht die Abwärtsspirale weiter: Du distanzierst dich von deinem Partner und es wird immer schwerer, diese Distanz in der kinderfreien Zeit zu überwinden.
+
+---
 
 ![Paar sitzt auf einer Bank mit Abstand zueinander und schaut in verschiedene Richtungen](/images/blog/bleiben-oder-gehen-3.jpg)
 
@@ -59,23 +69,24 @@ Ich habe an diesem Punkt mich aktiv dagegen entschieden und habe mich auf den We
 Und für mich verhält es sich an dieser Stelle wie mit einer [inneren Kündigung](https://www.personio.de/hr-lexikon/innere-kuendigung/): Wenn man innerlich schon gekündigt hat, kann man das Ruder nicht mehr herumreißen. Doch vorher ist noch so viel möglich.
 Laut Patricia Papernow (2013) ist genau diese Phase — wenn die Konflikte am größten sind — oft der Wendepunkt, an dem sich entscheidet, ob eine Patchworkfamilie wächst oder zerbricht. In über 700 Coaching-Stunden habe ich erlebt: Die meisten Bonusmamas, die sich Hilfe geholt haben, bereuen es nicht. Wo stehst du gerade?
 
+---
+
 ## Zusammenfassung
 
 Diese ambivalenten Gefühle sind sehr belastend und führen zu Rückzug oder Distanz zu den Bonuskindern und dem Partner.
 Du bist nicht allein mit diesen Gefühlen und es gibt Unterstützung und Möglichkeiten, um diese Herausforderungen zu meistern. Du bist eine wertvolle Bonusmama und du kannst diese Herausforderungen meistern, wenn du dir dabei Hilfe holst.
 
 <!-- FAQ_START
-<details>
-<summary>Ist es normal, als Bonusmama ans Gehen zu denken?</summary>
+## Häufige Fragen
+
+### Ist es normal, als Bonusmama ans Gehen zu denken?
+
 Ja, viele Bonusmamas kennen diesen Gedanken. Die Belastungen in einer Patchworkfamilie sind real und es ist kein Zeichen von Schwäche, wenn du dich fragst, ob du bleiben oder gehen sollst.
-</details>
 
-<details>
-<summary>Wann sollte ich als Stiefmutter die Beziehung beenden?</summary>
+### Wann sollte ich als Stiefmutter die Beziehung beenden?
+
 Solange du innerlich noch nicht aufgegeben hast, gibt es Möglichkeiten. Erst wenn die innere Kündigung bereits vollzogen ist, wird es schwer, das Ruder herumzureißen. Hol dir vorher Unterstützung.
-</details>
 
-<details>
-<summary>Was kann ich tun, wenn ich mich in der Patchworkfamilie nicht zugehörig fühle?</summary>
+### Was kann ich tun, wenn ich mich in der Patchworkfamilie nicht zugehörig fühle?
+
 Sprich offen mit deinem Partner über deine Gefühle. Suche dir Unterstützung bei anderen Bonusmamas oder einem Coach. Du musst das nicht allein durchstehen.
-</details>
