@@ -13,7 +13,8 @@
 | Element | Mobile | Tablet (md) | Desktop (lg) | Beispiel |
 |---------|--------|-------------|---------------|----------|
 | **h1** (Hero) | `text-2xl` | `text-4xl` | `text-5xl` | "Du gibst alles..." |
-| **h2** (Section) | `text-xl` | `text-3xl` | `text-4xl` | "Es ist 23 Uhr..." |
+| **h2** (kurz, 1-2 Zeilen) | `text-xl` | `text-3xl` | `text-4xl` | "Es ist 23 Uhr..." |
+| **h2** (lang, 3+ Zeilen) | `text-lg` | `text-2xl` | `text-3xl` | "Stell dir vor, du sitzt am..." |
 | **h3** (Karten) | `text-lg` | `text-xl` | — | Podcast-Episodentitel |
 
 ### Fließtext (font-sans / Raleway)
@@ -62,4 +63,4 @@
 
 ---
 
-*Stand: 11.03.2026 — gilt aktuell für die Startseite. Bei Gefallen auf alle Seiten ausrollen.*
+*Stand: 11.03.2026 — angewendet auf alle Seiten (Startseite, About, BeyondBonus, ITS Bundle, Warteliste, Podcast, 404).*
