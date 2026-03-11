@@ -15,8 +15,13 @@ buzzsproutId: 18809781
 
 **Paarzeit ist in Patchworkfamilien keine Selbstverständlichkeit — sondern etwas, das aktiv erkämpft werden muss.** Zwischen Umgangswochenenden, Kinderbedürfnissen und Ex-Themen bleibt die Beziehung oft auf der Strecke. In Deutschland leben rund 1,1 Millionen Patchworkfamilien (Statistisches Bundesamt, 2024), und laut Bray & Kelly (1998) ist die Paarbeziehung der stärkste Prädiktor dafür, ob eine Patchworkfamilie langfristig zusammenbleibt. Hier erfährst du, wie ihr zurück zur Zweisamkeit findet.
 
+---
 
-Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte Mal wirklich wahrgenommen hast — nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) scheint wie Sand zwischen den Fingern zu zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit verschluckt.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Paarzeit in der Patchworkfamilie" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
+Kennst du diesen Moment? Die Kinder sind endlich im Bett, du sinkst erschöpft aufs Sofa und merkst plötzlich: Du kannst dich nicht einmal mehr daran erinnern, wann du deinen Partner das letzte Mal wirklich wahrgenommen hast — nicht als Miterzieher, sondern als Mann an deiner Seite. Die Zeit als Paar in der [Patchworkfamilie](/blog/patchworkfamilie/) scheint wie Sand zwischen den Fingern zu zerrinnen, während der Alltag mit den Kindern jeden Raum für Zweisamkeit verschluckt.
 
 ![Paar auf dem Sofa in der Patchworkfamilie — nachdenkliche Szene im warmen Licht](/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-2.jpg)
 
@@ -74,7 +79,11 @@ Patricia Papernow (2013) betont, dass Paare in Patchworkfamilien aktiv in ihre B
 
 ## Dein Weg zu mehr Nähe und Verbundenheit
 
-Vielleicht erkennst du dich in dieser Geschichte wieder. Vielleicht sehnst du dich nach echten Momenten der Zweisamkeit, nach tieferer emotionaler Verbindung trotz Familienalltag oder nach einem Weg, Partnerschaft und Familie endlich in Balance zu bringen. Dann wisse: Du bist nicht allein mit diesem Gefühl — und es gibt einen Weg zurück zueinander.
+---
+
+## Zusammenfassung
+
+Vielleicht erkennst du dich in dieser Geschichte wieder. Vielleicht sehnst du dich nach echten Momenten der Zweisamkeit, nach tieferer emotionaler Verbindung trotz Familienalltag oder nach einem Weg, Partnerschaft und Familie endlich in Balance zu bringen. Dann wisse: Du bist nicht allein mit diesem Gefühl — und es gibt einen Weg zurück zueinander. **Paarzeit in der Patchworkfamilie ist kein Luxus, sondern das Fundament.** Beginne mit kleinen, bewussten Momenten — und sprich offen mit deinem Partner über eure Sehnsucht nach Nähe.
 
 <!-- FAQ_START
 

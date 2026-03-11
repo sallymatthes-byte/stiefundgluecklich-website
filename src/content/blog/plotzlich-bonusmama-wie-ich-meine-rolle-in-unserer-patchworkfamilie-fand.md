@@ -24,7 +24,7 @@ Drei Monate später, bei unserem ersten Besuch in Frankreich, stand ich seinen b
 
 Die Realität als [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) traf mich mit voller Wucht. An manchen Tagen fühlte ich mich wie eine Außenseiterin im eigenen Zuhause, beobachtete die eingespielten Rituale zwischen Vater und Kindern und fragte mich, ob ich jemals wirklich dazugehören würde.
 
-*Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) lag ein Ozean, den ich erst noch überbrücken musste.*
+*Zwischen meinem theoretischen Wissen über Kindererziehung und der emotionalen Realität einer [Patchworkfamilie](/blog/patchworkfamilie/) lag ein Ozean, den ich erst noch überbrücken musste.*
 
 ---
 

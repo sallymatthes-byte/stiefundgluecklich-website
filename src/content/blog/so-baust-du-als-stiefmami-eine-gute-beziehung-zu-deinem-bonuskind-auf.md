@@ -26,8 +26,6 @@ Doch wie kann dieser Beziehungsaufbau gelingen? Lass uns dies mal gemeinsam betr
 
 ---
 
----
-
 ## Warum ist eine positive Beziehung so wichtig?
 Eine positive Verbindung zwischen euch beiden schafft *Vertrauen, Zugehörigkeit und Sicherheit*. Sie ist das Fundament, auf dem eure Beziehung aufbauen kann.
 

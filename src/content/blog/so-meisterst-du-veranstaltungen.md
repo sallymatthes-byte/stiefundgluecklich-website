@@ -57,7 +57,7 @@ Scheue dich nicht, konkret um Unterstützung zu bitten. Sage: *"Es würde mir so
 
 Dein Partner liebt dich und möchte, dass du dich wohlfühlst. Vertraue darauf, dass er für dich da ist und dich auffängt, wenn die Unsicherheit überhandnimmt.
 
-Gemeinsam seid ihr stark und könnt lernen, diese [Herausforderungen als Chance](/blog/patchworkfamilie-herausforderungen-und-chancen/) für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
+Gemeinsam seid ihr stark und könnt lernen, diese [Herausforderungen als Chance](/blog/patchworkfamilie/) für euer Zusammenwachsen als Patchwork-Familie zu sehen. Also ran an den Tisch, raus mit den Gedanken und rein ins Teamwork!
 
 > „Veranstaltungen sind der Moment, in dem Patchwork sichtbar wird. Und genau deshalb sind sie auch die Chance zu zeigen: Wir gehören zusammen — auf unsere eigene Art." — Sally Matthes, Coach für Bonusmamas
 

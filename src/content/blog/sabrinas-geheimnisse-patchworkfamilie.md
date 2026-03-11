@@ -9,9 +9,6 @@ imageAlt: "Familie beim Spaziergang im Herbstwald, Rückenansicht, warme Erdtön
 metaTitle: "Sabrinas Patchwork-Geheimnisse | 5 Mädchen, 1 Familie"
 metaDescription: "5 Mädchen, 2 Betreuungsmodelle, 1 Haushalt: Sabrina teilt ihre ehrlichsten Learnings als Bonusmama — vom Kennenlernen bis zum Alltag mit Teenies."
 updated: 2026-03-10
-podcastEpisode: "https://open.spotify.com/episode/6CxnZVzwBhniHWWUbjGpjb"
-podcastTitle: "Sabrinas Geheimnisse für eine erfüllte Patchworkfamilie"
-podcastDescription: "Sabrina lebt mit 5 Mädchen in einer Patchworkfamilie und teilt ihre ehrlichsten Erfahrungen — vom Zoo-Kennenlernen bis zum Haushalt mit Teenies."
 youtubeId: "8_1GXeRmW0M"
 buzzsproutId: 18809804
 ---
