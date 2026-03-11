@@ -46,6 +46,8 @@ Lass uns nun direkt Mal tiefer in die zweite Herausforderung einsteigen.
 
 ![Nachdenkliches Kind im warmen Licht, Loyalitätskonflikte in der Patchworkfamilie](/images/blog/loyalitaetskonflikte-von-bonuskindern-2.jpg)
 
+---
+
 ## Zwischen den Stühlen
 
 Es ist, als würde sie ihren Vater *verlieren* — an diese andere Frau, die plötzlich so viel Zeit mit ihm verbringt. Gleichzeitig hat sie das Gefühl, ihre Mutter zu *verraten*, wenn sie sich zu sehr auf Lisa einlässt. Sie fühlt sich hin- und hergerissen, **zwischen zwei Stühlen**.
@@ -56,7 +58,9 @@ Der **Loyalitätskonflikt** — das Gefühl, Mama oder Papa zu verraten, wenn ma
 
 Während Erwachsene oft schnell vorwärtsgehen wollen, brauchen Kinder mehr Zeit, um sich an die neue Situation anzupassen. *Gerade Teenager wie Emma, Kinder mit tieferen Loyalitätskonflikten und Kinder, die bereits andere Verluste erlebt haben, benötigen ein langsameres Tempo, viel Eins-zu-eins-Zeit mit Mama oder Papa und weniger Aktivitäten mit der ganzen Patchworkfamilie.*
 
-> Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter. – Unbekannt
+> „Wahre Loyalität kennt keine Geheimnisse, keine Heimlichkeiten und keine doppelten Gesichter." – Unbekannt
+
+---
 
 ## Das Leben in der Schneekugel
 
@@ -69,6 +73,8 @@ Emmas Vater wünscht sich, dass sie die Veränderungen genauso positiv sieht wie
 *Als Eltern und Bonuseltern ist es unsere Aufgabe, Verständnis für diese Überforderung zu haben.* Anstatt Begeisterung und schnelle Anpassung zu erwarten, sollten wir den Kindern den Raum geben, den sie brauchen, um mit den Veränderungen Schritt für Schritt klarzukommen. Nur wenn wir ihr Tempo respektieren und ihre Gefühle ernst nehmen, können sie nach und nach in ihrem neuen Leben ankommen.
 
 ![Elternteil und Kind halten Hände, Hoffnung und Verbundenheit in der Patchworkfamilie](/images/blog/loyalitaetskonflikte-von-bonuskindern-3.jpg)
+
+---
 
 ## Strategien, um das Kind zu unterstützen
 
@@ -87,6 +93,10 @@ Wenn wir als Eltern und Bonuseltern erleben, wie unsere Kinder mit Verlusten, Lo
 - **Erlaubt Ambivalenzen:** Macht den Kindern klar, dass es okay ist, wenn sie gemischte Gefühle gegenüber der neuen Familiensituation haben. Sie dürfen die Bonuseltern nett finden und gleichzeitig ihre leiblichen Eltern vermissen. Sie dürfen sich auf das Neue freuen und gleichzeitig das Alte betrauern. Widersprüchliche Emotionen sind normal und müssen nicht aufgelöst werden.
 
 Wednesday Martin (2009) betont: [Stiefmütter](/blog/stiefmutter/), die den Loyalitätskonflikt des Kindes verstehen, haben deutlich bessere Beziehungen zu ihren Bonuskindern — weil sie das Verhalten nicht persönlich nehmen, sondern als das erkennen, was es ist: ein kindlicher Überlebensmechanismus.
+
+---
+
+## Zusammenfassung
 
 Mit Einfühlungsvermögen, Geduld und liebevoller Zuwendung können wir unseren Kindern helfen, ihre Verluste zu verarbeiten, Loyalitätskonflikte zu überwinden und in der Patchworkfamilie anzukommen. Vertraut darauf, dass jedes Kind seinen eigenen Weg und sein eigenes Tempo finden wird — und begleitet es dabei ohne Druck und Erwartungen.
 

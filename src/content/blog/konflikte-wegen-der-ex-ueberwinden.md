@@ -38,6 +38,8 @@ Ihre Geschichte ist kein Einzelfall. Egal ob unterschiedliche Erziehungsstile, o
 
 ![Frau schaut nachdenklich aus dem Fenster in den Wald — Abgrenzung und innere Stärke finden](/images/blog/konflikte-wegen-der-ex-ueberwinden-2.jpg)
 
+---
+
 ## Yvonne träumte davon…
 
 Ihr Verlangen war klar: Sie wollte als Teil der Familie anerkannt werden — mit allen Rechten und Pflichten, die dazugehören. Doch immer wieder sah sie sich mit kurzfristigen Änderungen konfrontiert, fühlte sich ausgebootet, wenn ihr Partner Entscheidungen traf, ohne sie einzubeziehen. Gleichzeitig wollte sie nicht ständig nachgeben müssen, sondern als gleichwertige Partnerin mit ihren eigenen Vorstellungen ernst genommen werden — auch und gerade von der Ex.
@@ -47,6 +49,8 @@ Mit ihrer Sichtweise stand Yvonne nicht allein da. Viele Stiefeltern wünschen s
 Yvonne aber wollte sich damit nicht abfinden. Sie war entschlossen, die Situation zu verbessern. Dafür war sie bereit, alte Denkmuster über Bord zu werfen und neue Wege zu gehen — damit nicht nur in ihrer Patchworkfamilie endlich Frieden einkehren, sondern auch ihre Partnerschaft wieder aufblühen konnte.
 
 > „Du kannst die Ex nicht ändern. Aber du kannst ändern, wie viel Raum sie in deinem Kopf und in eurer Beziehung einnimmt." — Sally Matthes, Coach für Bonusmamas
+
+---
 
 ## Doch das erschien schwerer als angenommen
 
@@ -64,6 +68,8 @@ Und wie sie das geschafft hat, erfährst du im nächsten Abschnitt.
 
 ![Paar sitzt zusammen auf einer Bank im Herbstwald — gemeinsam als Team auftreten](/images/blog/konflikte-wegen-der-ex-ueberwinden-3.jpg)
 
+---
+
 ## Zeit für Veränderung
 
 **Schritt 1: Reflexion — die Situation verstehen.** Gemeinsam mit mir begann Yvonne, die Konflikte aus einer anderen Perspektive zu betrachten. Statt die Ex als Feindbild zu sehen, lernte sie, die Dynamiken hinter den Streitereien zu verstehen.
@@ -80,6 +86,8 @@ Gleichzeitig suchte sie das offene Gespräch mit ihrem Partner. Gemeinsam defini
 
 Mit der Zeit etablierten sie eine neue Gesprächskultur: Probleme klärten sie erst als Paar, dann mit der Ex. Rückschläge entmutigten sie nicht, sondern dienten als Chance, weiter an sich zu arbeiten. So fanden sie zu der liebevollen Beziehung, die Yvonne sich gewünscht hatte.
 
+---
+
 ## Yvonnes Verwandlung
 
 Yvonnes Weg war kein leichter — doch er hat sich gelohnt. Durch die intensive Auseinandersetzung mit sich selbst und den Konflikten in ihrer Patchworkfamilie hat sie nicht nur ihre Beziehung gerettet, sondern auch eine tiefgreifende persönliche Verwandlung erlebt.
@@ -89,6 +97,8 @@ Yvonnes Weg war kein leichter — doch er hat sich gelohnt. Durch die intensive 
 Dieses Bewusstsein hat Yvonne in ihrer Identität gestärkt. **Sie fühlt sich nicht mehr fremdbestimmt, sondern als aktive Gestalterin ihrer Beziehungen.** Statt in Vorwürfen zu verharren, geht sie konstruktiv mit Problemen um. Sie reflektiert ihr eigenes Verhalten, äußert ihre Bedürfnisse klar und respektvoll. Sie hat gelernt, [loszulassen](/blog/loslassen-lernen/) und erkannt, dass sie für ihr Glück selbst verantwortlich ist.
 
 Das bedeutet nicht, dass nun alles perfekt ist. Natürlich gibt es immer noch Situationen, die herausfordernd sind. Doch Yvonne lässt sich davon nicht mehr aus der Bahn werfen. Durch die Arbeit an sich selbst hat sie innere Stärke und Gelassenheit gewonnen. **So ist aus der hilflosen Yvonne eine selbstbewusste Frau geworden, die für sich und ihre Beziehungen einsteht** — eine Frau, die Probleme als Chancen begreift und aktiv an Lösungen arbeitet.
+
+---
 
 ## Zusammenfassung
 
