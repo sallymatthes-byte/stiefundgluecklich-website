@@ -67,7 +67,7 @@ Das ist die Ambivalenz, die jede Bonusmama kennt. Du liebst deinen Partner. Du g
 
 **Das ist kein Verrat. Das ist ehrlich.** Und ehrlich ist das Einzige, was in Patchwork auf Dauer funktioniert.
 
-Es sind nun mal nicht unsere leiblichen Kinder. Das heißt nicht, dass wir ihnen etwas Böses wollen. Es heißt, dass diese Beziehung eine andere Qualität hat — und das ist okay. Wer dir erzählt, du müsstest dein [Bonuskind lieben wie dein eigenes](/blog/muss-ich-mein-bonuskind-lieben/), hat Patchwork nicht verstanden.
+Es sind nun mal nicht unsere leiblichen Kinder. Das heißt nicht, dass wir ihnen etwas Böses wollen. Es heißt, dass diese Beziehung eine andere Qualität hat — und das ist okay. Wer dir erzählt, du müsstest dein [Bonuskind lieben wie dein eigenes](/blog/stiefkinder-lieben-muessen/), hat Patchwork nicht verstanden.
 
 ---
 
@@ -111,7 +111,7 @@ Katharina hat für sich drei Fragen gefunden, die ihr helfen:
 
 > „Irgendwann ist Patchwork nicht mehr relevant. Aber meine Ehe besteht noch. Und warum sollte ich den Menschen, mit dem ich ein Team bin, dieses Thema kaputtmachen lassen?" – Katharina
 
-Sie hat recht. Patchwork ist ein Kapitel. Die [Partnerschaft](/blog/partnerin-oder-stiefmutter/) ist das Buch.
+Sie hat recht. Patchwork ist ein Kapitel. Die [Partnerschaft](/blog/zwischen-partnerschaft-und-bonusmama/) ist das Buch.
 
 ---
 

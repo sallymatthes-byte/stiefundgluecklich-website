@@ -39,6 +39,8 @@ All diese Faktoren tragen dazu bei, dass Vergleiche entstehen. Laut einer Studie
 
 Aber diese Vergleiche sagen nichts über deinen Wert als [Stiefmutter](/blog/stiefmutter/) aus. Und dennoch tut es weh – wie kannst du diese Gefühle also annehmen?
 
+---
+
 ![Bonusmama reflektiert ihre Gefühle und nimmt sich Zeit für sich selbst](/images/blog/aus-dem-schatten-der-kindsmutter-treten-2.jpg)
 
 ## Deine Gefühle wahrnehmen und annehmen
@@ -51,6 +53,8 @@ Es ist ein Prozess, die Selbstzweifel und Unsicherheiten zu überwinden. Aber je
 
 Doch wie kannst du deine Gefühle auch deinen Liebsten mitteilen?
 
+---
+
 ## Klar und selbstbewusst kommunizieren
 
 Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und selbstbewusst zu kommunizieren. Denn nur wenn du deine Rolle und Bedürfnisse deutlich machst, können die anderen sie auch verstehen und respektieren.
@@ -61,7 +65,9 @@ Jetzt, da du deine Gefühle annimmst und verstehst, ist es an der Zeit, klar und
 
 Denke daran: Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, gehört zu werden. Je klarer und selbstbewusster du kommunizierst, desto leichter fällt es den anderen, dich als eigenständige und wertvolle Bonusmama wahrzunehmen. Du musst dich nicht kleinmachen oder verstecken – trete mit Stolz und Klarheit für dich ein!
 
-> Ein gefällter Baum wirft keinen Schatten. – Unbekannt
+> „Ein gefällter Baum wirft keinen Schatten." – Unbekannt
+
+---
 
 ## Deinen eigenen Platz finden
 
@@ -72,6 +78,8 @@ Denke daran: Deine Gefühle und Bedürfnisse sind wichtig und verdienen es, geh�
 Laut dem Statistischen Bundesamt (2023) leben rund **1,1 Millionen Patchworkfamilien** in Deutschland — und in jeder davon gibt es eine Bonusmama, die ihren Platz finden muss.
 
 Indem du deinen [eigenen Platz](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) findest und ausfüllst, wirst du nicht nur selbstbewusster und zufriedener, sondern zeigst auch dem Bonuskind und der Familie, wie wertvoll und einzigartig du bist. Du bist ein unverzichtbarer Teil des Familiengefüges – nicht als Ersatz, sondern als bereichernde und liebevolle Bonusmama.
+
+---
 
 ![Patchworkfamilie wächst gemeinsam zusammen und stärkt den Zusammenhalt](/images/blog/aus-dem-schatten-der-kindsmutter-treten-3.jpg)
 
@@ -92,17 +100,24 @@ Der Weg zu einer harmonischen Patchwork-Familie ist nicht immer einfach, aber er
 
 Als Patchwork-Familie zu wachsen bedeutet, füreinander einzustehen, auch wenn es mal Herausforderungen gibt. Es bedeutet, die Einzigartigkeit jedes Einzelnen wertzuschätzen und zu erkennen, dass ihr zusammen ein starkes Team seid. Mit Liebe, Verständnis und Zusammenhalt könnt ihr alles schaffen und eine wundervolle Bonus-Familie sein.
 
+---
+
 ## Zusammenfassung
 
 Als Bonusmama ständig mit der Kindsmutter verglichen zu werden, kann verletzend sein, doch es ist wichtig, die Gründe dafür zu verstehen und sich bewusst zu machen, dass diese Vergleiche oft aus Unsicherheiten und Ängsten der Beteiligten entstehen. Es ist essenziell, die eigenen Gefühle wahrzunehmen, anzunehmen und mit Mitgefühl und Verständnis sich selbst zu begegnen. Durch klare und selbstbewusste Kommunikation der eigenen Rolle und Bedürfnisse sowie das Setzen von Grenzen und das Einfordern von Respekt kann man seinen Platz in der Familie finden und ausfüllen. Dabei ist es wichtig, die eigenen einzigartigen Stärken und Qualitäten zu erkennen, die Beziehung zum Bonuskind aktiv zu gestalten und sich als wertvolle Bonusmama anerkennen zu lassen.
 
 <!-- FAQ_START
-<dl>
-<dt>Wie gehe ich damit um, wenn mein Bonuskind mich ständig mit seiner Mama vergleicht?</dt>
-<dd>Vergleiche entstehen oft aus einem Loyalitätskonflikt des Kindes. Nimm es nicht persönlich, sondern zeige Verständnis. Baue eine eigenständige Beziehung zum Kind auf, die auf gemeinsamen Interessen und Ritualen basiert – ohne die Rolle der Mama ersetzen zu wollen.</dd>
-<dt>Darf ich verletzt sein, wenn die Schwiegereltern mich mit der Ex vergleichen?</dt>
-<dd>Ja, absolut. Deine Gefühle sind berechtigt. Sprich es ruhig, aber klar an und setze Grenzen. Oft sind sich die Schwiegereltern gar nicht bewusst, wie verletzend solche Vergleiche sind.</dd>
-<dt>Wie finde ich als Bonusmama meinen eigenen Platz in der Familie?</dt>
-<dd>Indem du deine Stärken erkennst, deine Rolle bewusst definierst und offen mit deinem Partner darüber sprichst. Du bist kein Ersatz für die Kindsmutter, sondern eine eigenständige Bereicherung für die Familie.</dd>
-</dl>
+## Häufige Fragen
+
+### Wie gehe ich damit um, wenn mein Bonuskind mich ständig mit seiner Mama vergleicht?
+
+Vergleiche entstehen oft aus einem Loyalitätskonflikt des Kindes. Nimm es nicht persönlich, sondern zeige Verständnis. Baue eine eigenständige Beziehung zum Kind auf, die auf gemeinsamen Interessen und Ritualen basiert – ohne die Rolle der Mama ersetzen zu wollen.
+
+### Darf ich verletzt sein, wenn die Schwiegereltern mich mit der Ex vergleichen?
+
+Ja, absolut. Deine Gefühle sind berechtigt. Sprich es ruhig, aber klar an und setze Grenzen. Oft sind sich die Schwiegereltern gar nicht bewusst, wie verletzend solche Vergleiche sind.
+
+### Wie finde ich als Bonusmama meinen eigenen Platz in der Familie?
+
+Indem du deine Stärken erkennst, deine Rolle bewusst definierst und offen mit deinem Partner darüber sprichst. Du bist kein Ersatz für die Kindsmutter, sondern eine eigenständige Bereicherung für die Familie.
 

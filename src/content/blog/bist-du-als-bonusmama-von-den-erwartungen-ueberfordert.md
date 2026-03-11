@@ -25,6 +25,12 @@ Ich sollte ihnen gesunde Lebensmittel servieren.
 Ich könnte diese Reihe noch ewig lang fortsetzen, mit all den Erwartungen, die mir als Bonusmama schon begegnet sind.
 Lass uns daher mal genauer einen Blick darauf werfen.
 
+---
+
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Bist du als Bonusmama von den Erwartungen überfordert?" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+
+---
+
 ## „Ich sollte" — Gedanken von Bonusmamas
 
 *„Ich sollte die Kinder doch eigentlich lieben wie meine eigenen."*
@@ -47,17 +53,19 @@ Lass uns daher mal genauer einen Blick darauf werfen.
 
 *„Ich sollte einfach alles besser machen und eine perfekte Bonusmama sein!"*
 
-Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst stellt, oder? Laut der Autorin Wednesday Martin erleben [Stiefmütter](/blog/stiefmutter/) ein signifikant höheres Stressniveau als Mütter in Erstfamilien — und ein großer Teil dieses Stresses kommt nicht von außen, sondern von den eigenen Erwartungen. Fast erscheint es als „normal", dass wir Bonusmamas uns solche Sätze täglich aufsagen. Als müssten wir einem ungeschriebenen Verhaltenskodex folgen, der uns vorgibt, wie wir zu sein und zu handeln haben.
+Puh, ganz schön viele Erwartungen und Ansprüche, die man da an sich selbst stellt, oder? Laut der Autorin Wednesday Martin (2009) erleben [Stiefmütter](/blog/stiefmutter/) ein signifikant höheres Stressniveau als Mütter in Erstfamilien — und ein großer Teil dieses Stresses kommt nicht von außen, sondern von den eigenen Erwartungen. Fast erscheint es als „normal", dass wir Bonusmamas uns solche Sätze täglich aufsagen. Als müssten wir einem ungeschriebenen Verhaltenskodex folgen, der uns vorgibt, wie wir zu sein und zu handeln haben.
 
 Aber mal ehrlich: Wer sagt eigentlich, dass wir all das „sollten"? Woher kommen diese ganzen Erwartungen? Und was machen sie mit uns, mit unserer Psyche, unseren Beziehungen und letztlich mit unserer Patchworkfamilie?
 
 Höchste Zeit, dem auf den Grund zu gehen! Denn eines ist sicher: Ein Leben, in dem man ständig das Gefühl hat, irgendetwas zu „sollen", ist auf Dauer wenig erfüllend und macht garantiert nicht glücklich. Lass uns gemeinsam herausfinden, was wirklich hinter den „Ich sollte"-Sätzen steckt – und wie du dich davon frei machen kannst.
 
-> **Sally Matthes, Coach für Bonusmamas:** *„In meinen Coachings höre ich diese ‚Ich sollte'-Sätze in jeder einzelnen Session. Und weißt du, was ich dann sage? Streich das ‚sollte' und setz ein ‚möchte' ein. Wenn sich der Satz dann falsch anfühlt, war es nie dein eigener Anspruch."*
+> „In meinen Coachings höre ich diese ‚Ich sollte'-Sätze in jeder einzelnen Session. Und weißt du, was ich dann sage? Streich das ‚sollte' und setz ein ‚möchte' ein. Wenn sich der Satz dann falsch anfühlt, war es nie dein eigener Anspruch." — Sally Matthes, Coach für Bonusmamas
+
+---
 
 ## Ursachen dieser Gedanken
 
-Das Statistische Bundesamt zeigt: Jede siebte Familie in Deutschland ist eine [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — doch gesellschaftliche Vorbilder und Unterstützungsstrukturen hinken dieser Realität weit hinterher. Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine „gute Mutter" sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
+Das Statistische Bundesamt (2023) zeigt: Jede siebte Familie in Deutschland ist eine [Patchworkfamilie](/blog/patchworkfamilie/) — doch gesellschaftliche Vorbilder und Unterstützungsstrukturen hinken dieser Realität weit hinterher. Zum einen spielen **gesellschaftliche Vorstellungen und Normen** eine Rolle. Die Idee, dass eine „gute Mutter" sich aufopfert und bedingungslos liebt, hält sich hartnäckig. Als Stiefmutter kommt hinzu, dass man oft das Gefühl hat, sich erst beweisen zu müssen.
 
 Auch **familiäre Prägungen und eigene Kindheitserfahrungen** tragen zu den hohen Erwartungen als Bonusmama bei. Vielleicht haben wir selbst erlebt, wie unsere Mütter sich aufgerieben haben. Oder wir tragen ungelöste Konflikte mit uns herum, die nun wieder aufbrechen.
 
@@ -67,7 +75,9 @@ Nicht zuletzt spielt die **Angst, zu versagen oder nicht zu genügen**, eine Rol
 
 All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles „sollten". Doch damit tun wir uns keinen Gefallen, denn die „Ich sollte"-Sätze führen oft zu Überforderung und Schuldgefühlen.
 
-> Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben. – Katharine Hepburn
+> „Liebe ist nicht das, was man erwartet zu bekommen, sondern das, was man bereit ist zu geben." – Katharine Hepburn
+
+---
 
 ![Bonusmama sitzt erschöpft auf dem Sofa und reflektiert über den Erwartungsdruck in ihrer Patchworkfamilie](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-2.jpg)
 
@@ -78,6 +88,8 @@ All diese Faktoren führen dazu, dass wir uns ständig sagen, was wir alles „s
 - Die Beziehung zu den Kindern wird ebenfalls belastet. Wenn wir uns ständig verbiegen und verstellen, merken die Kinder das. Sie spüren, dass wir nicht authentisch sind. Das kann zu **Misstrauen und Distanz** führen.
 - Auch die Partnerschaft leidet unter dem „Ich sollte"-Denken. Wenn wir uns ständig unter Druck setzen, sind wir gereizt und unausgeglichen. Wir haben wenig Zeit und Energie für die Beziehung. **Konflikte sind vorprogrammiert.**
 - Nicht zuletzt beeinflusst unser Verhalten die gesamte Patchwork-Dynamik. Wenn wir uns ständig anpassen und zurücknehmen, vermitteln wir den Eindruck, dass unsere Bedürfnisse unwichtig sind. Das kann zu **Ungleichgewichten und Spannungen** in der Familie führen.
+
+---
 
 ![Frau schreibt in ein Notizbuch und arbeitet daran, sich von inneren Erwartungen als Stiefmutter zu befreien](/images/blog/bist-du-als-bonusmama-von-den-erwartungen-ueberfordert-3.jpg)
 
@@ -95,27 +107,25 @@ Wenn du tiefer in das Thema einsteigen und individuelle Unterstützung auf deine
 
 Du bist einzigartig — und so ist auch dein Weg als [Bonusmama](/blog/stiefmutter/). Mit der richtigen Unterstützung findest du genau den Weg, der zu dir und deiner Familie passt. Schritt für Schritt. ***Von „Ich sollte" zu „Ich möchte".***
 
+---
+
 ## Zusammenfassung
 
 Viele Bonusmamas plagen sich mit „Ich sollte"-Gedanken, die zu Überforderung, Selbstzweifeln und Beziehungsproblemen führen können. Die Ursachen dafür sind vielfältig – von gesellschaftlichen Erwartungen über familiäre Prägungen bis hin zur Angst, nicht zu genügen. Sich von diesen Gedanken zu befreien, ist ein Prozess, der Selbstreflexion, Selbstfürsorge und oft auch Unterstützung von außen erfordert. Ein Coaching kann dabei helfen, individuelle Lösungen zu finden und Schritt für Schritt zu einem erfüllteren Leben als Bonusmama zu gelangen.
 
 <!-- FAQ_START
-<details><summary>Warum habe ich als Bonusmama ständig das Gefühl, nicht zu genügen?</summary>
+## Häufige Fragen
+
+### Warum habe ich als Bonusmama ständig das Gefühl, nicht zu genügen?
 
 Dieses Gefühl entsteht oft durch eine Kombination aus gesellschaftlichen Erwartungen, eigenen Prägungen und dem Wunsch, es allen recht zu machen. Als Bonusmama stehst du in einer Rolle, für die es kein Drehbuch gibt – und trotzdem glaubst du, perfekt funktionieren zu müssen. Das erzeugt enormen Druck.
 
-</details>
-
-<details><summary>Woher kommen die „Ich sollte"-Gedanken?</summary>
+### Woher kommen die „Ich sollte"-Gedanken?
 
 Sie stammen aus verschiedenen Quellen: gesellschaftliche Normen rund um Mutterschaft, familiäre Prägungen aus der eigenen Kindheit, Vergleiche mit anderen Müttern und der innere Wunsch nach Kontrolle in einer komplexen Familiensituation.
 
-</details>
-
-<details><summary>Wie kann ich mich von unrealistischen Erwartungen befreien?</summary>
+### Wie kann ich mich von unrealistischen Erwartungen befreien?
 
 Der erste Schritt ist, dir bewusst zu machen, welche Erwartungen du an dich stellst – und woher sie kommen. Hinterfrage kritisch, ob sie realistisch sind. Übe Selbstmitgefühl, tausche dich mit anderen Bonusmamas aus und hole dir bei Bedarf professionelle Unterstützung.
-
-</details>
 
 
