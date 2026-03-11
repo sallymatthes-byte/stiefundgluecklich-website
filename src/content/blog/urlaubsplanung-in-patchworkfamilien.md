@@ -23,8 +23,6 @@ Lass uns all diese Fragen gleich einmal genauer betrachten.
 
 ---
 
----
-
 ## So kommen alle auf ihre Kosten
 
 *Hier ist es wichtig, dass du offen mit deinem Partner und den Kindern [sprichst](/blog/aktives-zuhoeren-in-der-patchworkfamilie/) – dafür eignet sich hervorragend eine Familienkonferenz.* Finde heraus, was sich jeder vom Urlaub erhofft. Vielleicht wünschen sich die Kinder actionreiche Aktivitäten, während du und dein Partner auch mal Ruhe und Zweisamkeit genießen möchtet. In diesem Fall könntet ihr den Urlaub in Abschnitte unterteilen: eine gemeinsame Familienzeit und Auszeiten für euch als Paar, in denen die Kinder bei den Großeltern oder im Kinderclub gut aufgehoben sind.
@@ -34,6 +32,8 @@ Lass uns all diese Fragen gleich einmal genauer betrachten.
 Mit gegenseitigem Verständnis und einem liebevollen Blick für die Bedürfnisse aller kann der Patchwork-Urlaub für jeden zu einer wertvollen Auszeit werden. Eine Zeit, in der jeder auftanken und schöne Erinnerungen sammeln kann. So stärkt ihr eure Familienbande und schafft Momente, die euch verbinden – auch wenn nicht immer alle gemeinsam verreisen.
 
 ![Familie plant gemeinsam den Urlaub am Tisch](/images/blog/urlaubsplanung-in-patchworkfamilien-2.jpg)
+
+---
 
 ## Ideen für unvergessliche Momente
 Wie wäre es mit einem **Besuch im Freizeitpark**, bei dem ihr gemeinsam Achterbahn fahrt, euch von Zuckerwatte verklebte Finger holt und über die lustigen Grimassen auf den Fotos lacht?
@@ -50,7 +50,7 @@ Ganz egal, ob ihr sportlich aktiv seid, kreativ werdet oder einfach nur entspann
 
 ## Was, wenn es doch mal zu viel wird?
 
-**1. Gönn dir eine „Ich-Stunde" am Tag.** Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – Meditiere, Lies ein paar Seiten in deinem Lieblingsbuch oder Mach einen Spaziergang am Strand. Du musst nicht immer für alle verfügbar sein.
+**1. Gönn dir eine „Ich-Stunde" am Tag.** Steh eine Stunde früher auf als die anderen oder zieh dich nach dem Abendessen zurück. Nutze diese Zeit ganz für dich – meditiere, lies ein paar Seiten in deinem Lieblingsbuch oder mach einen Spaziergang am Strand. Du musst nicht immer für alle verfügbar sein.
 
 **2. Verwandle einen Gegenstand in dein persönliches „Auszeit-Symbol".** Das kann ein besonderer Stein, eine Muschel oder ein Armband sein. Immer, wenn du diesen Gegenstand bei dir trägst oder in der Hand hältst, ist das ein Zeichen für dich und deine Familie, dass du gerade eine kleine Pause brauchst.
 
@@ -72,7 +72,7 @@ Oder ihr überlegt, welche Urlaubsrituale ihr in euren Alltag integrieren könnt
 
 So haltet ihr das Gefühl der Verbundenheit aufrecht und stärkt euer Familiengefühl. Der Urlaub kann auch ein guter Anlass sein, um in einer Familienkonferenz darüber zu sprechen, was gut gelaufen ist und was ihr in Zukunft anders machen wollt. So profitiert ihr langfristig von den Erfahrungen und könnt euren nächsten Urlaub noch bewusster gestalten.
 
-Mit ein bisschen Kreativität und dem Willen, die positiven Urlaubsenergien in den Alltag mitzunehmen, kann euch das Familienabenteuer noch lange beflügeln. Wenn ihr generell nach Wegen sucht, als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) zusammenzuwachsen, schaut euch auch die [4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) an — sie erklären, warum manche Urlaube leichter werden als andere.
+Mit ein bisschen Kreativität und dem Willen, die positiven Urlaubsenergien in den Alltag mitzunehmen, kann euch das Familienabenteuer noch lange beflügeln. Wenn ihr generell nach Wegen sucht, als [Patchworkfamilie](/blog/patchworkfamilie/) zusammenzuwachsen, schaut euch auch die [4 Phasen der Patchworkfamilie](/blog/die-4-phasen-der-patchworkfamilie/) an — sie erklären, warum manche Urlaube leichter werden als andere.
 
 ---
 

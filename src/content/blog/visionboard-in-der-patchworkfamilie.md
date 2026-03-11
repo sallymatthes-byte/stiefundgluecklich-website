@@ -15,14 +15,14 @@ imageAlt: "Gemeinsam träumen"
 
 
 Seit einigen Monaten treibt uns immer wieder der Gedanke um, nach Frankreich zu ziehen, um den Kindern näher zu sein.
-Gleichzeitig ist das natürlich für mich eine riesige Umstellung. Also entschieden wir uns vor kurzem dazu, ein gemeinsames Visionboard für unsere [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) zu erstellen, um konkret unsere gemeinsamen Ziele zu erarbeiten.
+Gleichzeitig ist das natürlich für mich eine riesige Umstellung. Also entschieden wir uns vor kurzem dazu, ein gemeinsames Visionboard für unsere [Patchworkfamilie](/blog/patchworkfamilie/) zu erstellen, um konkret unsere gemeinsamen Ziele zu erarbeiten.
 Ein Prozess, der sich über mehrere Wochen hinweggezogen hat und uns noch einmal mit tiefgreifenden Fragen konfrontiert hat: Wofür sind wir dankbar und was darf so bleiben? Welche Werte sind uns beiden wichtig? Was erträumen wir uns? Und was bedeutet das konkret?
 
 Lass uns gleich mal einen Blick darauf werfen, welche Vorteile es noch mit sich gebracht hat.
 
 ---
 
-## So hat das Visionboard unserer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) geholfen
+## So hat das Visionboard unserer Patchworkfamilie geholfen
 
 Indem wir uns gemeinsam Zeit nehmen, um unsere Vision für unsere Beziehung und Patchworkfamilie zu definieren, schaffen wir eine starke Basis, auf der wir aufbauen können. Denn wenn wir uns vorstellen, wie wir als Familie harmonisch zusammenleben, Konflikte friedlich lösen und unsere Kinder unterstützen, entsteht eine emotionale Verbindung zu unseren Zielen. Diese Verbindung gibt uns die Motivation, an schwierigen Tagen nicht aufzugeben und an unserer Harmonie zu arbeiten.
 

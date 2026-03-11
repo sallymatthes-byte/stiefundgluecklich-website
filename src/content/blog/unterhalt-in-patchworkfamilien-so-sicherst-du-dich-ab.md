@@ -93,7 +93,7 @@ Doch all diese Veränderungen sind nur möglich, wenn ihr offen und verbindend m
 
 **Der Schlüssel zu finanzieller Sicherheit in der Patchworkfamilie ist nicht, sich anzupassen oder zu verzichten – sondern bewusst zu entscheiden, wie ihr eure Finanzen gemeinsam gestalten wollt.** Je klarer ihr euch über eure Situation seid und je offener ihr darüber sprecht, desto weniger Konflikte und Unsicherheiten wird es geben.
 
-Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) hat ihre eigenen finanziellen Herausforderungen.
+Wenn du jetzt denkst: „Das klingt gut, aber wie setze ich das in meiner speziellen Situation um?" – dann bist du nicht allein. Jede [Patchworkfamilie](/blog/patchworkfamilie/) hat ihre eigenen finanziellen Herausforderungen.
 
 Mehr über die [Stiefmutter-Rolle](/blog/stiefmutter/) und typische Herausforderungen findest du im Überblicksartikel.
 
