@@ -13,7 +13,7 @@ interface Props {
 }
 
 const { buzzsproutId, title, description, date } = Astro.props;
-const datePublished = date.toISOString().split('T')[0];
+const datePublished = date.toISOString();
 const episodeUrl = `https://www.buzzsprout.com/2601695/episodes/${buzzsproutId}`;
 ---
 
