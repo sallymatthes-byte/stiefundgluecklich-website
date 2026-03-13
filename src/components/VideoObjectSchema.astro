@@ -14,7 +14,7 @@ interface Props {
 }
 
 const { youtubeId, title, description, date, updated } = Astro.props;
-const uploadDate = date.toISOString().split('T')[0];
+const uploadDate = date.toISOString();
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify({
