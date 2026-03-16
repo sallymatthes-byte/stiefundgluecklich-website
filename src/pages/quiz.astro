@@ -350,9 +350,9 @@ import Layout from '../layouts/Layout.astro'
     const itsLink = document.getElementById('its-link');
     const bbLink = document.getElementById('bb-link');
     const wlItsLink = document.getElementById('wl-its-link');
-    if (itsLink) itsLink.href = '/its-bundle' + suffix;
-    if (bbLink) bbLink.href = '/beyondbonus' + suffix;
-    if (wlItsLink) wlItsLink.href = '/its-bundle' + suffix;
+    if (itsLink) itsLink.href = '/its-bundle' + suffix + '#checkout';
+    if (bbLink) bbLink.href = '/beyondbonus' + suffix + '#pricing';
+    if (wlItsLink) wlItsLink.href = '/its-bundle' + suffix + '#checkout';
 
     // Show result regardless
     showStep('result-' + result);
