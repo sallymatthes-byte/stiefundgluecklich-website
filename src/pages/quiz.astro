@@ -205,9 +205,14 @@ import Layout from '../layouts/Layout.astro'
           <p class="text-muted-foreground mb-10">
             Kein Wohlfühl-Programm. Sondern echte Arbeit, die echte Ergebnisse bringt.
           </p>
-          <a id="bb-link" href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
-            Mehr über BeyondBonus erfahren
-          </a>
+          <div class="flex flex-col sm:flex-row gap-4">
+            <a id="bb-link" href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
+              Jetzt buchen – 497 €
+            </a>
+            <a id="bb-info-link" href="/beyondbonus" class="inline-block border border-primary text-primary px-8 py-4 text-base font-medium hover:bg-primary/5 transition-colors text-center">
+              Mehr erfahren
+            </a>
+          </div>
         </div>
 
         <!-- ERGEBNIS: 1:1 WARTELISTE -->
@@ -352,6 +357,8 @@ import Layout from '../layouts/Layout.astro'
     const wlItsLink = document.getElementById('wl-its-link');
     if (itsLink) itsLink.href = '/its-bundle' + suffix + '#checkout';
     if (bbLink) bbLink.href = '/beyondbonus' + suffix + '#pricing';
+    const bbInfoLink = document.getElementById('bb-info-link');
+    if (bbInfoLink) bbInfoLink.href = '/beyondbonus' + suffix;
     if (wlItsLink) wlItsLink.href = '/its-bundle' + suffix + '#checkout';
 
     // Show result regardless
