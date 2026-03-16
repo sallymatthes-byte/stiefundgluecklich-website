@@ -37,8 +37,10 @@ export async function onRequestPost(context) {
     params.append('line_items[0][price_data][product_data][description]', 'I Belong + Talk like a Team + Setting Limits');
     params.append('line_items[0][quantity]', '1');
     params.append('payment_method_types[0]', 'card');
-    params.append('payment_method_types[1]', 'klarna');
-    params.append('payment_method_types[2]', 'sepa_debit');
+    params.append('payment_method_types[1]', 'sepa_debit');
+    params.append('payment_method_types[2]', 'klarna');
+    params.append('payment_method_types[3]', 'link');
+    params.append('allow_promotion_codes', 'true');
     params.append('metadata[product]', 'its-bundle');
     params.append('metadata[customer_name]', name);
 

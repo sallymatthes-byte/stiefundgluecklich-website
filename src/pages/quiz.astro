@@ -171,7 +171,7 @@ import Layout from '../layouts/Layout.astro'
           <p class="text-muted-foreground mb-10">
             Kein Wohlfühl-Fluff. Sondern das, was im echten Patchwork-Alltag funktioniert.
           </p>
-          <a href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+          <a id="its-link" href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
             ITS Bundle sichern — €59 →
           </a>
         </div>
@@ -205,7 +205,7 @@ import Layout from '../layouts/Layout.astro'
           <p class="text-muted-foreground mb-10">
             Kein Wohlfühl-Programm. Sondern echte Arbeit, die echte Ergebnisse bringt.
           </p>
-          <a href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
+          <a id="bb-link" href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
             Mehr über BeyondBonus erfahren →
           </a>
         </div>
@@ -226,7 +226,7 @@ import Layout from '../layouts/Layout.astro'
             In der Zwischenzeit: Starte mit dem <strong class="text-foreground">ITS Bundle (€59)</strong> — damit hast du sofort erste Tools an der Hand, die du nutzen kannst, bis wir zusammenarbeiten.
           </p>
           <div class="flex flex-col sm:flex-row gap-4">
-            <a href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
+            <a id="wl-its-link" href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
               ITS Bundle als Soforthilfe — €59 →
             </a>
           </div>
@@ -343,6 +343,16 @@ import Layout from '../layouts/Layout.astro'
     } catch (err) {
       console.error('AC submission error:', err);
     }
+
+    // Update salespage links with email+name for pre-fill
+    const params = new URLSearchParams({ name: firstname, email: email });
+    const suffix = '?' + params.toString();
+    const itsLink = document.getElementById('its-link');
+    const bbLink = document.getElementById('bb-link');
+    const wlItsLink = document.getElementById('wl-its-link');
+    if (itsLink) itsLink.href = '/its-bundle' + suffix;
+    if (bbLink) bbLink.href = '/beyondbonus' + suffix;
+    if (wlItsLink) wlItsLink.href = '/its-bundle' + suffix;
 
     // Show result regardless
     showStep('result-' + result);
