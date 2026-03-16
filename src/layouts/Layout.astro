@@ -116,7 +116,15 @@ const fullTitle = title === 'Startseite'
     <main class="flex-1">
       <slot />
     </main>
-    {!noFooter && <Footer />}
+    {noHeader ? (
+      <footer class="py-6 text-center text-sm text-muted-foreground">
+        <div class="flex justify-center gap-6">
+          <a href="/impressum" class="hover:text-foreground transition-colors">Impressum</a>
+          <a href="/datenschutz" class="hover:text-foreground transition-colors">Datenschutz</a>
+          <a href="/agb" class="hover:text-foreground transition-colors">AGB</a>
+        </div>
+      </footer>
+    ) : !noFooter && <Footer />}
     <CookieConsent />
   </body>
 </html>
