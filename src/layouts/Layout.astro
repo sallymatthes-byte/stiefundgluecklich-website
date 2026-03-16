@@ -9,6 +9,7 @@ interface Props {
   description?: string;
   canonical?: string;
   noFooter?: boolean;
+  noHeader?: boolean;
 }
 
 const { 
@@ -16,6 +17,7 @@ const {
   description = 'Coaching für Bonusmamas in Patchworkfamilien — klar, direkt, empathisch. Sally Matthes begleitet dich zu mehr Leichtigkeit.',
   canonical,
   noFooter = false,
+  noHeader = false,
 } = Astro.props;
 
 const siteUrl = 'https://stiefundgluecklich.de';
@@ -110,7 +112,7 @@ const fullTitle = title === 'Startseite'
     </script>
   </head>
   <body class="min-h-screen flex flex-col">
-    <Header />
+    {!noHeader && <Header />}
     <main class="flex-1">
       <slot />
     </main>
