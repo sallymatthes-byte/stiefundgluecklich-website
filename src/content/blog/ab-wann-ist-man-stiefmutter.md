@@ -1,6 +1,6 @@
 ---
 title: "Ab wann ist man eigentlich Stiefmutter?"
-description: "Du fragst dich, ab wann du Stiefmutter bist? Was diese Rolle wirklich bedeutet – und warum die Antwort komplizierter ist als du denkst."
+description: "Es gibt keinen Stichtag. Aber es gibt den Moment, in dem du es spürst. Was die Rolle als Stiefmutter wirklich bedeutet — ehrlich, aus echten Erfahrungen als Bonusmama."
 category: "rolle-identitaet"
 date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
