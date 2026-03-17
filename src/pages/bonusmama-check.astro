@@ -1,0 +1,739 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout title="Bonusmama-Check — Welcher Fehler sabotiert deine Patchwork-Beziehung?" description="Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung belastet. Kostenloser Selbsttest für Bonusmamas." canonical="https://stiefundgluecklich.de/bonusmama-check/" noHeader={true}>
+
+  <section class="pt-20 md:pt-24 pb-16 md:pb-24 min-h-[80vh] flex items-start">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-[680px] mx-auto">
+
+        <!-- Progress Bar -->
+        <div id="progress-bar" class="mb-8 hidden">
+          <div class="flex justify-between text-xs text-muted-foreground mb-2">
+            <span id="progress-label">Bereich 1 von 5</span>
+            <span id="progress-percent">0%</span>
+          </div>
+          <div class="w-full h-1.5 bg-cream rounded-full overflow-hidden">
+            <div id="progress-fill" class="h-full bg-primary transition-all duration-500 ease-out" style="width: 0%"></div>
+          </div>
+          <!-- Area indicators -->
+          <div id="area-indicators" class="flex justify-between mt-3 text-[11px] text-muted-foreground">
+            <span data-area="0" class="area-dot font-medium">Grenzen</span>
+            <span data-area="1" class="area-dot">Kommunikation</span>
+            <span data-area="2" class="area-dot">Rolle</span>
+            <span data-area="3" class="area-dot">Ex</span>
+            <span data-area="4" class="area-dot">Selbstfürsorge</span>
+          </div>
+        </div>
+
+        <!-- ===================== WELCOME ===================== -->
+        <div id="step-welcome" class="check-step animate-fade-in">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Kostenloser Selbsttest</p>
+          <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">
+            Welcher unsichtbare Fehler sabotiert<br />
+            <span class="text-gold">deine Patchwork-Beziehung?</span>
+          </h1>
+          <p class="text-lg text-muted-foreground leading-relaxed mb-6">
+            26 Fragen. 3 Minuten. 1 Erkenntnis, die alles verändert.
+          </p>
+          <p class="text-muted-foreground mb-4">
+            Du gibst jeden Tag alles für eine Familie, die du nicht von Anfang an mitgestaltet hast. Aber irgendetwas dreht sich im Kreis — und du weißt nicht genau, was.
+          </p>
+          <p class="text-muted-foreground mb-10">
+            Dieser Check zeigt dir, welches Muster sich unbemerkt eingeschlichen hat — und was du konkret tun kannst, um es zu durchbrechen.
+          </p>
+          <button onclick="startCheck()" class="bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
+            Jetzt herausfinden →
+          </button>
+          <p class="text-xs text-muted-foreground mt-6">Kein Horoskop. Kein Wellness-Test. Eine ehrliche Diagnose.</p>
+        </div>
+
+        <!-- ===================== EINSTIEGSFRAGE ===================== -->
+        <div id="step-intro" class="check-step hidden">
+          <p class="text-sm font-medium text-muted-foreground mb-3">Bevor wir starten:</p>
+          <h2 class="text-2xl md:text-3xl mb-8">Wie lange bist du schon Bonusmama?</h2>
+          <div class="space-y-3">
+            <button onclick="answerIntro('unter1')" class="check-option">Weniger als 1 Jahr</button>
+            <button onclick="answerIntro('1bis3')" class="check-option">1–3 Jahre</button>
+            <button onclick="answerIntro('ueber3')" class="check-option">Mehr als 3 Jahre</button>
+          </div>
+        </div>
+
+        <!-- ===================== AUSSAGEN (26 Fragen) ===================== -->
+        <div id="step-statements" class="check-step hidden">
+          <div id="area-title" class="mb-2">
+            <p class="text-sm font-medium tracking-wider text-primary uppercase" id="area-label">Bereich: Grenzen & Selbstschutz</p>
+          </div>
+          <h2 class="text-xl md:text-2xl mb-8 leading-snug" id="statement-text"></h2>
+          
+          <div class="space-y-3" id="rating-buttons">
+            <button onclick="rate(1)" class="check-rating">Stimmt gar nicht</button>
+            <button onclick="rate(2)" class="check-rating">Stimmt eher nicht</button>
+            <button onclick="rate(3)" class="check-rating">Stimmt eher</button>
+            <button onclick="rate(4)" class="check-rating">Stimmt voll</button>
+          </div>
+
+          <p class="text-xs text-muted-foreground mt-6" id="statement-counter">Frage 1 von 26</p>
+        </div>
+
+        <!-- ===================== AUSWERTUNG (Radar + Ergebnis) ===================== -->
+        <div id="step-result" class="check-step hidden">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Deine Auswertung</p>
+          
+          <!-- Radar Chart -->
+          <div class="bg-white border border-border p-4 md:p-6 mb-8">
+            <canvas id="radar-chart" width="400" height="400" class="mx-auto max-w-[360px]"></canvas>
+          </div>
+
+          <!-- Score Summary -->
+          <div id="score-summary" class="mb-8">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-lg font-medium">Dein Gesamtscore</span>
+              <span id="total-score" class="text-2xl font-serif font-medium text-primary"></span>
+            </div>
+            <div id="area-scores" class="space-y-3"></div>
+          </div>
+
+          <!-- Pattern Result -->
+          <div id="pattern-result" class="mb-8">
+            <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6" id="pattern-title"></h2>
+            <div id="pattern-body" class="prose-custom"></div>
+          </div>
+
+          <!-- CTA: Email -->
+          <div class="bg-cream border border-border p-6 md:p-8">
+            <h3 class="text-xl md:text-2xl mb-4">Deine persönliche Auswertung — kostenlos per Mail</h3>
+            <div id="pattern-prescribe" class="text-muted-foreground text-sm mb-6 space-y-2"></div>
+            
+            <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
+              <div>
+                <label for="firstname" class="block text-sm font-medium mb-2">Vorname</label>
+                <input type="text" id="firstname" name="firstname" required
+                  class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors"
+                  placeholder="Dein Vorname" />
+              </div>
+              <div>
+                <label for="email" class="block text-sm font-medium mb-2">E-Mail-Adresse</label>
+                <input type="email" id="email" name="email" required
+                  class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors"
+                  placeholder="deine@email.de" />
+              </div>
+              <p class="text-xs text-muted-foreground">
+                Deine Daten sind sicher. Du bekommst deine Auswertung per Mail — und kannst dich jederzeit abmelden.
+              </p>
+              <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
+                Auswertung erhalten →
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <!-- ===================== WUNDERFRAGE (nach Email) ===================== -->
+        <div id="step-wonder" class="check-step hidden">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Noch eine Sache…</p>
+          <h2 class="text-2xl md:text-3xl mb-4">
+            Stell dir vor, du wachst morgen auf und in deiner Patchworkfamilie ist alles genau so, wie du es dir wünschst.
+          </h2>
+          <p class="text-xl text-gold mb-8">Was wäre anders?</p>
+          <p class="text-muted-foreground mb-6">
+            Beschreib es in 1–2 Sätzen. Deine Antwort hilft mir, dich noch besser zu unterstützen.
+          </p>
+          <textarea id="wonder-answer" rows="4" 
+            class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors mb-4 resize-none"
+            placeholder="Mein Partner und ich würden…"></textarea>
+          <div class="flex gap-3">
+            <button onclick="submitWonder()" id="wonder-btn" class="bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
+              Absenden
+            </button>
+            <button onclick="skipWonder()" class="border border-border text-muted-foreground px-6 py-4 text-base hover:text-foreground transition-colors cursor-pointer">
+              Überspringen
+            </button>
+          </div>
+        </div>
+
+        <!-- ===================== DANKE ===================== -->
+        <div id="step-thanks" class="check-step hidden">
+          <div class="text-center">
+            <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Geschafft!</p>
+            <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
+              Deine Auswertung ist auf dem Weg <span class="text-gold">in dein Postfach</span> ✉️
+            </h2>
+            <p class="text-muted-foreground leading-relaxed mb-6">
+              Check am besten auch deinen Spam-Ordner — manchmal landen Mails dort.
+            </p>
+            <p class="text-muted-foreground leading-relaxed mb-10">
+              In den nächsten Tagen bekommst du außerdem konkrete Tipps und Übungen, die genau zu deinem Muster passen. 
+              Kein Spam, nur Substanz.
+            </p>
+            <a href="/podcast" class="inline-block border border-primary text-primary px-8 py-4 text-base font-medium hover:bg-primary/5 transition-colors">
+              Jetzt den Bonusgeflüster-Podcast entdecken
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .check-option {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid hsl(45, 25%, 85%);
+    background: white;
+    font-size: 1rem;
+    line-height: 1.5;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .check-option:hover {
+    border-color: hsl(107, 57%, 21%);
+    background: hsl(107, 57%, 21%, 0.03);
+  }
+  .check-option:active {
+    background: hsl(107, 57%, 21%, 0.08);
+  }
+
+  .check-rating {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 1rem 1.5rem;
+    border: 1px solid hsl(45, 25%, 85%);
+    background: white;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .check-rating:hover {
+    border-color: hsl(107, 57%, 21%);
+    background: hsl(107, 57%, 21%, 0.03);
+  }
+  .check-rating:active {
+    background: hsl(107, 57%, 21%, 0.08);
+  }
+
+  .check-step {
+    animation: fade-in 0.4s ease-out forwards;
+  }
+
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .prose-custom p {
+    color: hsl(0, 0%, 40%);
+    line-height: 1.75;
+    margin-bottom: 1rem;
+  }
+  .prose-custom strong {
+    color: hsl(0, 0%, 0%);
+  }
+
+  .area-bar {
+    height: 8px;
+    border-radius: 4px;
+    transition: width 0.8s ease-out;
+  }
+  .area-bar-bg {
+    height: 8px;
+    border-radius: 4px;
+    background: hsl(45, 48%, 91%);
+    width: 100%;
+  }
+</style>
+
+<!-- Chart.js from CDN -->
+<script is:inline src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+
+<script is:inline>
+// ============================================
+// BONUSMAMA-CHECK — Scoring & Logic
+// ============================================
+
+// === DATA ===
+const AREAS = [
+  { id: 'grenzen', name: 'Grenzen & Selbstschutz', count: 5 },
+  { id: 'kommunikation', name: 'Kommunikation & Partnerschaft', count: 5 },
+  { id: 'rolle', name: 'Rolle & Identität', count: 6 },
+  { id: 'ex', name: 'Umgang mit der Ex', count: 5 },
+  { id: 'selbstfuersorge', name: 'Selbstfürsorge & Energie', count: 5 },
+];
+
+const STATEMENTS = [
+  // Grenzen & Selbstschutz (1-5)
+  "Wenn mein Partner erwartet, dass ich sein Kind betreue oder bespasse, kann ich sagen: „Das ist gerade nicht meine Aufgabe."",
+  "Wenn sein Kind am Esstisch provoziert und mein Partner nichts sagt, spreche ich es danach an — statt es runterzuschlucken.",
+  "Ich übernehme nur Aufgaben für die Bonuskinder, die ich freiwillig mache — nicht weil ich Angst habe, sonst nicht dazuzugehören.",
+  "Wenn mich das Verhalten meines Bonuskindes verletzt, kann ich das benennen — ohne mich dafür zu schämen.",
+  "Ich erlaube mir, mich aus Situationen mit den Bonuskindern zurückzuziehen, wenn ich an meine Grenze komme.",
+  // Kommunikation & Partnerschaft (6-10)
+  "Wenn mein Partner Entscheidungen über die Kinder trifft ohne mich einzubeziehen, sage ich klar: „Ich möchte da mitentscheiden."",
+  "Ich kann meinem Partner sagen, was mich belastet, ohne Angst dass er sagt: „Du übertreibst."",
+  "Mein Partner versteht meine Rolle als Bonusmama — ich muss ihm nicht ständig erklären, warum mich Dinge treffen.",
+  "Wenn wir uns streiten, geht es danach wirklich weiter — statt dass einer von uns tagelang schweigt.",
+  "Wir reden regelmäßig über uns als Paar — nicht nur über die Kinder, die Ex oder den nächsten Wechseltag.",
+  // Rolle & Identität (11-16)
+  "Ich weiß, welche Art von Beziehung ich zu meinem Bonuskind haben will — und welche nicht.",
+  "Wenn mein Bonuskind „Mama" sagt und seine leibliche Mutter meint, tut mir das nicht mehr weh.",
+  "Ich versuche nicht mehr, die perfekte Bonusmama zu sein — ich bin die Bonusmama, die zu mir passt.",
+  "Ich fühle mich in meinem eigenen Zuhause zu Hause — auch wenn die Bonuskinder da sind.",
+  "Ich habe aufgehört, mir meinen Platz in der Familie zu verdienen — ich nehme ihn ein.",
+  "Wenn mein Bonuskind mich ablehnt oder ignoriert, kann ich das einordnen — ohne es persönlich zu nehmen.",
+  // Umgang mit der Ex (17-21)
+  "Wenn die Ex meines Partners eine provozierende Nachricht schickt, kann ich das an mir vorbeiziehen lassen.",
+  "Wenn die Ex bei meinem Partner anruft, löst das bei mir keinen Stich mehr aus.",
+  "Ich kann akzeptieren, dass die Ex Teil unseres Lebens ist — ohne mich davon auffressen zu lassen.",
+  "Ich mische mich nicht mehr in Dinge ein, die zwischen meinem Partner und seiner Ex laufen — das ist sein Thema.",
+  "Ich definiere mich nicht über den Vergleich mit der Ex — ich bin nicht „die Bessere" oder „die Andere", ich bin ich.",
+  // Selbstfürsorge & Energie (22-26)
+  "Wenn die Bonuskinder ein Wochenende bei der Mama sind, genieße ich die Ruhe — ohne schlechtes Gewissen.",
+  "Ich erkenne früh genug, wenn ich am Limit bin — bevor ich komplett zusammenbreche.",
+  "In meinem Alltag gibt es Dinge, die nur mir gehören — die nichts mit Patchwork zu tun haben.",
+  "Ich habe nicht das Gefühl, ständig funktionieren zu müssen, damit diese Familie zusammenhält.",
+  "Wenn ich an mein Leben als Bonusmama denke, überwiegen die guten Momente — nicht die schweren.",
+];
+
+// Pattern matching: 2 weakest areas → pattern
+// Key = "areaIdx-areaIdx" (sorted, lower first)
+const PATTERN_MAP = {
+  '2-0': 1, // Rolle + Grenzen → Muster 1
+  '3-1': 2, // Ex + Kommunikation → Muster 2
+  '0-4': 3, // Grenzen + Selbstfürsorge → Muster 3
+  '2-4': 4, // Rolle + Selbstfürsorge → Muster 4
+  '1-0': 5, // Kommunikation + Grenzen → Muster 5
+  '3-0': 6, // Ex + Grenzen → Muster 6
+  // Fallbacks for remaining combos
+  '2-1': 1, // Rolle + Kommunikation → Muster 1 (Rolle-dominant)
+  '3-4': 6, // Ex + Selbstfürsorge → Muster 6 (Ex-dominant)
+  '1-4': 3, // Kommunikation + Selbstfürsorge → Muster 3 (Energie-dominant)
+  '2-3': 2, // Rolle + Ex → Muster 2 (Paar-/Ex-Fokus)
+};
+
+const PATTERNS = {
+  1: {
+    title: 'Dein Muster: Du wartest darauf, dass dir jemand deinen Platz gibt',
+    body: `<p>Freitagabend, die Bonuskinder sind da. Dein Partner und sein Sohn sitzen am Esstisch und reden über das Fußballspiel am Samstag. Du stehst in der Küche und überlegst, ob du dich dazusetzen sollst. Aber du weißt, wie es läuft: Du setzt dich hin, sie reden weiter, du sitzt daneben und fühlst dich wie der Gast, der aus Höflichkeit noch da ist. Also bleibst du in der Küche.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Dein Partner merkt, dass du dich zurückziehst. Aber er versteht nicht warum. Er sieht eine Partnerin, die "keinen Bock hat" oder "immer beleidigt ist". Zwischen euch entsteht eine Distanz, die keiner von euch benennen kann. Ihr lebt nebeneinander statt miteinander.</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Du weißt nicht genau, wer du in dieser Familie bist — nicht Mutter, nicht nur Partnerin, irgendwas dazwischen. Und weil du deine Rolle nicht kennst, weißt du auch nicht, worauf du Anspruch hast. Also sagst du nichts und ziehst dich zurück. Und weil du dich zurückziehst, bekommst du nie die Bestätigung, dass du hier hingehörst.</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>Du liegst abends im Bett und fragst dich, ob es für alle einfacher wäre ohne dich. Du fühlst dich wie ein Gast in deinem eigenen Zuhause — du weißt wo die Teller stehen und wann der Müll rauskommt, aber irgendwie ist das nicht genug, um zu sagen: Das hier ist auch meins.</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Du sitzt am Esstisch — nicht weil jemand dich eingeladen hat, sondern weil das dein Platz ist. Du sagst deinem Partner, was du brauchst, und es fühlt sich nicht an wie eine Bitte um Erlaubnis, sondern wie etwas, das selbstverständlich ist. Und dieses Gefühl, nicht dazuzugehören? Es kommt vielleicht noch mal. Aber es bestimmt nicht mehr deinen Alltag.</p>`,
+    prescribe: [
+      'Eine Schritt-für-Schritt-Analyse deines Rückzugsmusters — wann genau es anfängt und warum Rückzug sich sicherer anfühlt als Sichtbarkeit',
+      'Die "Platz-einnehmen-Übung" — eine konkrete Methode, mit der du diese Woche anfängst, Raum einzunehmen',
+      'Drei Sätze, die du deinem Partner sagen kannst, wenn es um deine Rolle geht — formuliert so, dass er versteht statt sich angegriffen fühlt',
+      'Eine Reflexionsfrage, die dir in 5 Minuten mehr Klarheit gibt als monatelanges Grübeln',
+    ],
+  },
+  2: {
+    title: 'Dein Muster: Ihr redet übereinander statt miteinander',
+    body: `<p>Wenn ihr allein seid, funktioniert alles. Dann seid ihr ein Paar, das sich liebt, das lacht, das Pläne macht. Und dann klingelt das Handy. Oder es ist Wechseltag. Oder die Kinder erzählen am Abendessen, was Mama am Wochenende Tolles gemacht hat. Und du spürst, wie sich etwas verschiebt.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Ihr streitet nicht über euch — ihr streitet über die Ex, die Kinder, den Wechseltag. Euer eigentliches Thema kommt nie auf den Tisch. Was du wirklich sagen willst: "Ich fühle mich nicht sicher in unserer Beziehung, wenn sie jederzeit alles durcheinanderbringen kann." Aber das sagst du nicht. Also wird aus dem Paar-Problem ein Ex-Problem — und Ex-Probleme kann man nicht lösen, weil die Ex nicht am Tisch sitzt.</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Die Ex triggert dich — und du willst darüber reden. Aber du erinnerst dich an das letzte Gespräch: Streit, Vorwürfe, tagelange Eiszeit. Also schluckst du. Und was du schluckst, sammelt sich. Beim nächsten Trigger kommt nicht nur der aktuelle Stich — sondern alles davor. Du reagierst "über". Er sagt: "Siehst du, du übertreibst."</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>Die Ex hat vor einer Stunde geschrieben, und seitdem ist der Abend gelaufen. Du liegst neben deinem Partner im Bett und fühlst dich weiter weg von ihm als je zuvor — obwohl er direkt neben dir liegt. Du würdest gerne sagen, was dich beschäftigt. Aber du weißt, wie das letzte Mal gelaufen ist.</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Die Ex schreibt — und du merkst, dass dein Puls nicht mehr hochgeht. Nicht weil es dir egal geworden ist, sondern weil du gelernt hast, ihren Nachrichten den Platz zu geben, den sie verdienen: seinen. Du drehst dich zu deinem Partner und sagst ruhig, was du brauchst. Und er hört zu — weil du gelernt hast, es so zu sagen, dass es bei ihm ankommt statt gegen ihn prallt.</p>`,
+    prescribe: [
+      'Die "Paar-Raum-Analyse" — eine ehrliche Bestandsaufnahme, wie viel Platz die Ex in eurer Beziehung tatsächlich einnimmt',
+      'Das "Übersetzungs-Tool" — drei konkrete Formulierungen, mit denen du sagst was du fühlst, ohne dass er "Du greifst mich an" hört',
+      'Die eine Frage, die euer nächstes schwieriges Gespräch vom Ex-Problem zum Paar-Thema macht',
+      'Ein 5-Minuten-Check vor jedem schwierigen Gespräch, damit es nicht eskaliert',
+    ],
+  },
+  3: {
+    title: 'Dein Muster: Du verwechselst Leistung mit Zugehörigkeit',
+    body: `<p>Du stehst in der Küche, der Esstisch ist abgeräumt, die Sporttasche gepackt, die Kinder versorgt. Dein Partner sitzt auf der Couch und schaut eine Serie. Du bist so müde, dass du dich nicht mal mehr ärgern kannst. Und der eine Gedanke, der immer wieder kommt: Wenn ich aufhöre, bricht alles zusammen. Also machst du weiter.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Dein Partner sieht nicht was du alles trägst — weil es unsichtbar ist. Und du sagst es ihm nicht — weil es sich anfühlt wie Betteln um Anerkennung. Also machst du weiter, bis nichts mehr geht. Und wenn es dann knallt, versteht er nicht was passiert. "Gestern war doch noch alles okay?"</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Tief drinnen glaubst du: Wenn du genug machst, gehörst du dazu. Wenn du funktionierst, bist du wertvoll. Also tust du immer mehr — und merkst nicht, dass Zugehörigkeit nichts ist, was man sich erarbeitet. Je mehr du machst, desto unsichtbarer wirst du. Weil alle sich daran gewöhnen.</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>Du bist so müde, dass du dich nicht mal mehr ärgern kannst. Dein Partner sitzt auf der Couch und du packst die dritte Sporttasche. Und der eine Gedanke: Wenn ich aufhöre, bricht alles zusammen. Also machst du weiter. Morgen, übermorgen, nächste Woche.</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Du kommst nach Hause und die Spülmaschine ist nicht ausgeräumt. Und statt sie selbst auszuräumen, gehst du ins Wohnzimmer und setzt dich hin. Nicht aus Trotz — sondern weil du weißt, dass es nicht deine Aufgabe ist. Und am Wochenende genießt du die Ruhe — ohne schlechtes Gewissen. Weil du verstanden hast: Durchatmen ist kein Verrat an der Familie.</p>`,
+    prescribe: [
+      'Den "Funktionsmodus-Scanner" — 10 typische Anzeichen, dass du im Autopilot läufst',
+      'Die "Aufgaben-Inventur" — in 15 Minuten herausfinden, welche 3 Aufgaben du sofort abgeben kannst',
+      'Das "Sichtbar-machen-Gespräch" — ein Leitfaden, wie du deinem Partner zeigst was du trägst, ohne Vorwurf',
+      'Eine Sofort-Übung für den Moment, wenn du gerade wieder Ja sagst, obwohl du Nein meinst',
+    ],
+  },
+  4: {
+    title: 'Dein Muster: Du hast dich an alle angepasst — außer an dich selbst',
+    body: `<p>Jemand fragt dich: "Und was machst du so für dich?" Und du merkst, dass dir keine Antwort einfällt. Nicht weil du keine Interessen hast — sondern weil alles, was mal nur deins war, irgendwann dem Patchwork-Alltag gewichen ist. Du funktionierst von Tag zu Tag, machst was gerade ansteht, füllst die Lücken die andere lassen.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Dein Partner hat sich in eine Frau verliebt, die wusste was sie wollte. Und jetzt sieht er jemanden, der nur noch mitfunktioniert. Er spürt, dass etwas fehlt — aber er weiß nicht was. Und du? Du weißt es auch nicht mehr. Weil du vergessen hast, was dich eigentlich ausmacht.</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Du hast dich angepasst — an die Kinder, an die Ex-Dynamik, an den Rhythmus einer Familie, die schon vor dir existierte. Stück für Stück hast du Teile von dir aufgegeben, immer mit guten Gründen. Und irgendwann war nichts mehr übrig, das nur dir gehört.</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>"Und was machst du so für dich?" — und dir fällt keine Antwort ein. Du funktionierst von Tag zu Tag. Und manchmal fragst du dich: Sieht mein Partner eigentlich noch die Frau, in die er sich verliebt hat? Oder sieht er nur noch die, die mitfunktioniert?</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Du hast wieder etwas, das nur dir gehört. Vielleicht der Lauf am Samstagmorgen, vielleicht der Töpferkurs am Dienstagabend. Aber es gehört dir. Und wenn dein Partner fragt "Was brauchst du?", hast du eine Antwort. Nicht weil du egoistisch geworden bist — sondern weil du wieder weißt, wer du bist.</p>`,
+    prescribe: [
+      'Die "Vorher-Nachher-Reflexion" — drei Fragen, die dir zeigen was dich ausgemacht hat bevor Patchwork kam',
+      'Die "20-Minuten-Methode" — wie du dir Raum zurückholst, ohne dass es sich egoistisch anfühlt',
+      'Das "So-bin-ich-Gespräch" — ein Leitfaden, wie du deinem Partner sagst, welche Art von Bonusmama du sein willst',
+      '5 Warnsignale, die dir zeigen, dass du dich gerade wieder verlierst — bevor es zu spät ist',
+    ],
+  },
+  5: {
+    title: 'Dein Muster: Du sagst die richtigen Dinge auf die falsche Art',
+    body: `<p>Du liegst abends wach und formulierst Gespräche, die du nie führen wirst. Du weißt genau, was du sagen willst — Wort für Wort. Aber du weißt auch, wie es enden wird: Er wird sich angegriffen fühlen, es gibt Streit, und danach redet ihr tagelang nur das Nötigste. Also behältst du es für dich. Wieder.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Jedes ungefragte Thema sammelt sich. Wie Wasser hinter einem Damm. Und irgendwann reicht eine Kleinigkeit — ein Kommentar, ein vergessener Termin — und alles bricht durch. Dann sagst du in 10 Minuten, was sich seit Monaten angestaut hat. Er versteht nur: Angriff. Und ihr seid wieder am Anfang.</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Du hast gelernt, dass Ansprechen zu Streit führt und Schweigen zum Frieden. Aber der Frieden ist nicht echt — er ist nur Stille. Und die Stille frisst eure Verbindung auf. Was du nicht weißt: Es liegt meistens nicht daran WAS du sagst, sondern WANN und WIE.</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>Du formulierst Gespräche im Kopf, die du nie führst. Du weißt genau was du sagen willst. Aber du weißt auch, wie es endet. Also behältst du es für dich. Und morgen wird ein Tag wie heute.</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Du sitzt deinem Partner gegenüber und sagst: "Ich möchte, dass wir das vorher besprechen." Und er nickt. Nicht weil er ein anderer Mensch geworden ist — sondern weil du gelernt hast, WARUM er bei bestimmten Themen dichtmacht. Eure Gespräche enden nicht mehr in Vorwürfen. Sie enden in: "Okay, das verstehe ich."</p>`,
+    prescribe: [
+      'Die "Trigger-Landkarte" — warum Patchwork-Väter bei bestimmten Themen dichtmachen und was in ihnen passiert',
+      'Drei "Patchwork-Formulierungen" für die häufigsten Streitthemen (Erziehung, Zeitaufteilung, Rolle) — zum Ausdrucken',
+      'Die "Zeitpunkt-Strategie" — wann du schwierige Themen ansprichst und wann auf keinen Fall',
+      'Ein konkreter Gesprächseinstieg für das EINE Thema, das du am längsten runterschluckst',
+    ],
+  },
+  6: {
+    title: 'Dein Muster: Du trägst Verantwortung für etwas, das nicht deins ist',
+    body: `<p>Du gehst ins Bett und dein letzter Gedanke ist nicht an deinen Partner, nicht an dich — sondern an sie. Was wird sie morgen wieder anstellen? Wie wird er reagieren? Was bedeutet das für euer Wochenende? Du verbringst mehr Zeit in deinem Kopf mit der Ex als mit deinem eigenen Leben.</p>
+<p><strong>Was das mit eurer Beziehung macht:</strong></p>
+<p>Du bist gedanklich ständig beim Thema Ex — und emotional nicht mehr bei deinem Partner. Er spürt, dass du angespannt bist, dass du an ihm vorbei schaust. Und wenn er fragt was los ist, sagst du: "Nichts." Oder ihr streitet darüber. Die Ex ist nicht in eurem Schlafzimmer — aber sie nimmt trotzdem den ganzen Raum ein.</p>
+<p><strong>Das Muster dahinter:</strong></p>
+<p>Du glaubst, wenn du die Dinge im Blick behältst, kannst du sie kontrollieren. Wenn du mitliest, bist du vorbereitet. Wenn du eingreifst, verhinderst du Schlimmeres. Aber in Wahrheit macht dich das kaputt. Weil du Verantwortung trägst für etwas, das nicht in deiner Macht liegt.</p>
+<p><strong>Wo du gerade stehst:</strong></p>
+<p>Dein letzter Gedanke vor dem Einschlafen ist an die Ex. Du verbringst mehr Zeit in deinem Kopf mit ihr als mit deinem eigenen Leben. Und das Schlimmste: Du weißt, dass es so nicht weitergehen kann. Aber aufhören fühlt sich an wie aufgeben.</p>
+<p><strong>Wo du stehen kannst:</strong></p>
+<p>Die Ex schreibt — und du liest es nicht. Nicht weil es dir egal ist, sondern weil du weißt: Das ist eine Sache zwischen deinem Partner und ihr. Du gehst ins Bett und dein letzter Gedanke ist: Was machen wir am Wochenende Schönes? Dein Partner regelt seine Sachen — vielleicht nicht perfekt, aber es ist seine Verantwortung.</p>`,
+    prescribe: [
+      'Der "Nicht-mein-Thema-Test" — 5 Fragen, mit denen du sofort erkennst ob das gerade dein Problem ist oder seins',
+      'Die "Loslassen-Übung" — 60 Sekunden, unterbricht das Muster wenn du merkst dass du wieder mitliest',
+      'Drei Sätze für "Das ist zwischen dir und ihr" — formuliert so, dass es nach Vertrauen klingt, nicht nach Kälte',
+      'Der "Kopf-frei-Abend" — Schritt-für-Schritt-Anleitung für einen Abend ohne Ex im Kopf',
+    ],
+  },
+};
+
+// === STATE ===
+let introAnswer = '';
+let currentStatement = 0;
+let scores = new Array(26).fill(0);
+let contactId = null;
+let patternId = null;
+
+// === HELPERS ===
+function showStep(id) {
+  document.querySelectorAll('.check-step').forEach(el => el.classList.add('hidden'));
+  const step = document.getElementById(id);
+  step.classList.remove('hidden');
+  step.style.animation = 'none';
+  step.offsetHeight;
+  step.style.animation = '';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function getAreaForStatement(idx) {
+  let sum = 0;
+  for (let i = 0; i < AREAS.length; i++) {
+    sum += AREAS[i].count;
+    if (idx < sum) return i;
+  }
+  return AREAS.length - 1;
+}
+
+function getAreaStartIndex(areaIdx) {
+  let sum = 0;
+  for (let i = 0; i < areaIdx; i++) sum += AREAS[i].count;
+  return sum;
+}
+
+function updateProgress() {
+  const bar = document.getElementById('progress-bar');
+  const fill = document.getElementById('progress-fill');
+  const label = document.getElementById('progress-label');
+  const percent = document.getElementById('progress-percent');
+  const areaIdx = getAreaForStatement(currentStatement);
+  const pct = Math.round((currentStatement / 26) * 100);
+
+  bar.classList.remove('hidden');
+  fill.style.width = pct + '%';
+  label.textContent = 'Bereich ' + (areaIdx + 1) + ' von 5';
+  percent.textContent = pct + '%';
+
+  // Update area dots
+  document.querySelectorAll('.area-dot').forEach((dot, i) => {
+    if (i < areaIdx) {
+      dot.style.color = 'hsl(107, 57%, 21%)';
+      dot.style.fontWeight = '600';
+    } else if (i === areaIdx) {
+      dot.style.color = 'hsl(0, 0%, 0%)';
+      dot.style.fontWeight = '600';
+    } else {
+      dot.style.color = '';
+      dot.style.fontWeight = '';
+    }
+  });
+}
+
+function showStatement() {
+  const areaIdx = getAreaForStatement(currentStatement);
+  document.getElementById('area-label').textContent = 'Bereich: ' + AREAS[areaIdx].name;
+  document.getElementById('statement-text').textContent = STATEMENTS[currentStatement];
+  document.getElementById('statement-counter').textContent = 'Frage ' + (currentStatement + 1) + ' von 26';
+  updateProgress();
+}
+
+// === SCORING ===
+function calculateResults() {
+  const areaScores = [];
+  let idx = 0;
+  for (const area of AREAS) {
+    let sum = 0;
+    for (let i = 0; i < area.count; i++) {
+      sum += scores[idx++];
+    }
+    const maxPoints = area.count * 4;
+    const pct = Math.round((sum / maxPoints) * 100);
+    areaScores.push({ ...area, sum, maxPoints, pct });
+  }
+
+  const totalSum = scores.reduce((a, b) => a + b, 0);
+  const totalPct = Math.round((totalSum / 104) * 100);
+
+  // Find 2 weakest areas
+  const sorted = areaScores.map((a, i) => ({ ...a, idx: i })).sort((a, b) => a.pct - b.pct);
+  const weak1 = sorted[0].idx;
+  const weak2 = sorted[1].idx;
+
+  // Map to pattern
+  const key1 = Math.min(weak1, weak2) + '-' + Math.max(weak1, weak2);
+  const key2 = weak1 + '-' + weak2;
+  patternId = PATTERN_MAP[key1] || PATTERN_MAP[key2] || 1;
+
+  return { areaScores, totalSum, totalPct, weak1, weak2, patternId };
+}
+
+function renderRadarChart(areaScores) {
+  const ctx = document.getElementById('radar-chart').getContext('2d');
+  new Chart(ctx, {
+    type: 'radar',
+    data: {
+      labels: areaScores.map(a => a.name.split(' & ')[0]),
+      datasets: [{
+        data: areaScores.map(a => a.pct),
+        backgroundColor: 'hsla(107, 57%, 21%, 0.15)',
+        borderColor: 'hsl(107, 57%, 21%)',
+        borderWidth: 2,
+        pointBackgroundColor: 'hsl(107, 57%, 21%)',
+        pointBorderColor: '#fff',
+        pointBorderWidth: 2,
+        pointRadius: 5,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: true,
+      plugins: {
+        legend: { display: false },
+      },
+      scales: {
+        r: {
+          beginAtZero: true,
+          max: 100,
+          ticks: {
+            stepSize: 25,
+            font: { family: 'Raleway', size: 10 },
+            backdropColor: 'transparent',
+            color: 'hsl(0, 0%, 70%)',
+          },
+          pointLabels: {
+            font: { family: 'Raleway', size: 12, weight: '500' },
+            color: 'hsl(0, 0%, 20%)',
+          },
+          grid: {
+            color: 'hsl(45, 25%, 88%)',
+          },
+          angleLines: {
+            color: 'hsl(45, 25%, 88%)',
+          },
+        }
+      }
+    }
+  });
+}
+
+function renderScoreSummary(areaScores, totalPct) {
+  document.getElementById('total-score').textContent = totalPct + ' %';
+
+  const container = document.getElementById('area-scores');
+  container.innerHTML = areaScores.map(a => {
+    const color = a.pct <= 45 ? 'hsl(0, 65%, 55%)' : a.pct <= 70 ? 'hsl(42, 75%, 50%)' : 'hsl(107, 57%, 35%)';
+    const label = a.pct <= 45 ? 'Dein größter Hebel' : a.pct <= 70 ? 'Auf dem Weg' : 'Deine Stärke';
+    return `
+      <div class="flex items-center gap-3">
+        <span class="text-sm w-28 flex-shrink-0">${a.name.split(' & ')[0]}</span>
+        <div class="flex-1 area-bar-bg">
+          <div class="area-bar" style="width: ${a.pct}%; background: ${color};"></div>
+        </div>
+        <span class="text-sm font-medium w-10 text-right">${a.pct}%</span>
+        <span class="text-xs w-28 text-right" style="color: ${color}">${label}</span>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderPattern(id) {
+  const p = PATTERNS[id];
+  document.getElementById('pattern-title').textContent = p.title;
+  document.getElementById('pattern-body').innerHTML = p.body;
+  
+  const prescribeEl = document.getElementById('pattern-prescribe');
+  prescribeEl.innerHTML = '<p class="font-medium text-foreground mb-2">In deiner persönlichen Auswertung bekommst du:</p>' +
+    p.prescribe.map(item => `<p>✓ ${item}</p>`).join('');
+}
+
+// === FLOW ===
+function startCheck() {
+  showStep('step-intro');
+  // Track start
+  if (typeof gtag === 'function') gtag('event', 'check_started', { event_category: 'bonusmama_check' });
+  if (typeof posthog !== 'undefined') posthog.capture('check_started');
+}
+
+function answerIntro(value) {
+  introAnswer = value;
+  currentStatement = 0;
+  showStep('step-statements');
+  showStatement();
+}
+
+function rate(value) {
+  scores[currentStatement] = value;
+  currentStatement++;
+
+  if (currentStatement < 26) {
+    // Animate transition
+    const stmtEl = document.getElementById('statement-text');
+    stmtEl.style.opacity = '0';
+    stmtEl.style.transform = 'translateY(8px)';
+    setTimeout(() => {
+      showStatement();
+      stmtEl.style.opacity = '1';
+      stmtEl.style.transform = 'translateY(0)';
+    }, 150);
+  } else {
+    // Done — show results
+    const results = calculateResults();
+    document.getElementById('progress-bar').classList.add('hidden');
+    showStep('step-result');
+    
+    // Small delay for animation
+    setTimeout(() => {
+      renderRadarChart(results.areaScores);
+      renderScoreSummary(results.areaScores, results.totalPct);
+      renderPattern(results.patternId);
+    }, 100);
+
+    // Track completion
+    if (typeof gtag === 'function') gtag('event', 'check_completed', { 
+      event_category: 'bonusmama_check',
+      event_label: 'pattern_' + results.patternId,
+      value: results.totalPct
+    });
+    if (typeof posthog !== 'undefined') posthog.capture('check_completed', { 
+      pattern: results.patternId, 
+      total_pct: results.totalPct,
+      intro_answer: introAnswer
+    });
+  }
+}
+
+async function submitEmail(e) {
+  e.preventDefault();
+
+  const btn = document.getElementById('submit-btn');
+  btn.textContent = 'Wird gesendet...';
+  btn.disabled = true;
+
+  const firstname = document.getElementById('firstname').value;
+  const email = document.getElementById('email').value;
+
+  // Build area scores for AC
+  const results = calculateResults();
+  const areaData = {};
+  results.areaScores.forEach(a => {
+    areaData[a.id] = a.pct;
+  });
+
+  try {
+    const response = await fetch('/api/bonusmama-check', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        firstname,
+        email,
+        pattern: patternId,
+        totalPct: results.totalPct,
+        areaScores: areaData,
+        introAnswer,
+      })
+    });
+
+    if (!response.ok) {
+      console.error('AC submission failed');
+    }
+  } catch (err) {
+    console.error('AC error:', err);
+  }
+
+  // Track
+  if (typeof gtag === 'function') gtag('event', 'check_email_submitted', { event_category: 'bonusmama_check' });
+  if (typeof posthog !== 'undefined') posthog.capture('check_email_submitted', { pattern: patternId });
+  if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'bonusmama_check' });
+
+  showStep('step-wonder');
+}
+
+async function submitWonder() {
+  const answer = document.getElementById('wonder-answer').value.trim();
+  if (!answer) { skipWonder(); return; }
+
+  const btn = document.getElementById('wonder-btn');
+  btn.textContent = 'Wird gesendet...';
+  btn.disabled = true;
+
+  const email = document.getElementById('email').value;
+
+  try {
+    await fetch('/api/bonusmama-check-wonder', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, wonderAnswer: answer })
+    });
+  } catch (err) {
+    console.error('Wonder submission error:', err);
+  }
+
+  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_answered');
+
+  showStep('step-thanks');
+}
+
+function skipWonder() {
+  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_skipped');
+  showStep('step-thanks');
+}
+</script>
