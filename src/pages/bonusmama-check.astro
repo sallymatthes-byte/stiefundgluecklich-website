@@ -11,19 +11,11 @@ import Layout from '../layouts/Layout.astro'
         <!-- Progress Bar -->
         <div id="progress-bar" class="mb-8 hidden">
           <div class="flex justify-between text-xs text-muted-foreground mb-2">
-            <span id="progress-label">Bereich 1 von 5</span>
+            <span id="progress-label">Frage 1 von 26</span>
             <span id="progress-percent">0%</span>
           </div>
           <div class="w-full h-1.5 bg-cream rounded-full overflow-hidden">
             <div id="progress-fill" class="h-full bg-primary transition-all duration-500 ease-out" style="width: 0%"></div>
-          </div>
-          <!-- Area indicators -->
-          <div id="area-indicators" class="flex justify-between mt-3 text-[11px] text-muted-foreground">
-            <span data-area="0" class="area-dot font-medium">Grenzen</span>
-            <span data-area="1" class="area-dot">Kommunikation</span>
-            <span data-area="2" class="area-dot">Rolle</span>
-            <span data-area="3" class="area-dot">Ex</span>
-            <span data-area="4" class="area-dot">Selbstfürsorge</span>
           </div>
         </div>
 
@@ -60,11 +52,22 @@ import Layout from '../layouts/Layout.astro'
           </div>
         </div>
 
+        <!-- ===================== ZWISCHENSCHRITT: Erklärung ===================== -->
+        <div id="step-explain" class="check-step hidden">
+          <h2 class="text-2xl md:text-3xl mb-6">So funktioniert's</h2>
+          <p class="text-muted-foreground leading-relaxed mb-4">
+            Du bekommst gleich Aussagen aus dem echten Bonusmama-Alltag. Entscheide bei jeder einfach aus dem Bauch heraus, wie sehr sie auf dich zutrifft.
+          </p>
+          <p class="text-muted-foreground leading-relaxed mb-8">
+            Es gibt kein Richtig oder Falsch — nur deine ehrliche Einschätzung zählt. Je ehrlicher, desto genauer dein Ergebnis.
+          </p>
+          <button onclick="startStatements()" class="bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
+            Verstanden, los geht's →
+          </button>
+        </div>
+
         <!-- ===================== AUSSAGEN (26 Fragen) ===================== -->
         <div id="step-statements" class="check-step hidden">
-          <div id="area-title" class="mb-2">
-            <p class="text-sm font-medium tracking-wider text-primary uppercase" id="area-label">Bereich: Grenzen & Selbstschutz</p>
-          </div>
           <h2 class="text-xl md:text-2xl mb-8 leading-snug" id="statement-text"></h2>
           
           <div class="space-y-3" id="rating-buttons">
@@ -464,32 +467,15 @@ function updateProgress() {
   const fill = document.getElementById('progress-fill');
   const label = document.getElementById('progress-label');
   const percent = document.getElementById('progress-percent');
-  const areaIdx = getAreaForStatement(currentStatement);
   const pct = Math.round((currentStatement / 26) * 100);
 
   bar.classList.remove('hidden');
   fill.style.width = pct + '%';
-  label.textContent = 'Bereich ' + (areaIdx + 1) + ' von 5';
+  label.textContent = 'Frage ' + (currentStatement + 1) + ' von 26';
   percent.textContent = pct + '%';
-
-  // Update area dots
-  document.querySelectorAll('.area-dot').forEach((dot, i) => {
-    if (i < areaIdx) {
-      dot.style.color = 'hsl(107, 57%, 21%)';
-      dot.style.fontWeight = '600';
-    } else if (i === areaIdx) {
-      dot.style.color = 'hsl(0, 0%, 0%)';
-      dot.style.fontWeight = '600';
-    } else {
-      dot.style.color = '';
-      dot.style.fontWeight = '';
-    }
-  });
 }
 
 function showStatement() {
-  const areaIdx = getAreaForStatement(currentStatement);
-  document.getElementById('area-label').textContent = 'Bereich: ' + AREAS[areaIdx].name;
   document.getElementById('statement-text').textContent = STATEMENTS[currentStatement];
   document.getElementById('statement-counter').textContent = 'Frage ' + (currentStatement + 1) + ' von 26';
   updateProgress();
@@ -614,6 +600,10 @@ function startCheck() {
 
 function answerIntro(value) {
   introAnswer = value;
+  showStep('step-explain');
+}
+
+function startStatements() {
   currentStatement = 0;
   showStep('step-statements');
   showStatement();
