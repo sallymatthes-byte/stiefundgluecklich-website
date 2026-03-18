@@ -37,19 +37,13 @@ export async function onRequestPost(context) {
       return new Response(JSON.stringify({ error: 'Contact not found' }), { status: 404, headers: corsHeaders });
     }
 
-    // Try to store wonder answer in custom field
+    // Store wonder answer in custom field (ID 40)
     try {
-      const fieldSearchRes = await fetch(`${AC_URL}/api/3/fields?search=scorecard_wunderfrage`, { headers });
-      const fieldSearchData = await fieldSearchRes.json();
-      const fieldId = fieldSearchData?.fields?.[0]?.id;
-
-      if (fieldId) {
-        await fetch(`${AC_URL}/api/3/fieldValues`, {
-          method: 'POST',
-          headers,
-          body: JSON.stringify({ fieldValue: { contact: contactId, field: fieldId, value: wonderAnswer.substring(0, 500) } })
-        });
-      }
+      await fetch(`${AC_URL}/api/3/fieldValues`, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({ fieldValue: { contact: contactId, field: '40', value: wonderAnswer.substring(0, 500) } })
+      });
     } catch (err) {
       console.error('Wonder field error:', err);
     }

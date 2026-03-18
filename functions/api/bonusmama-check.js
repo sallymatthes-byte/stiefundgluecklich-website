@@ -112,38 +112,36 @@ export async function onRequestPost(context) {
       }
     }
 
-    // 3. Store scores as custom fields (if fields exist)
-    // Custom field IDs need to be created in AC first
-    // For now, store pattern + total score in notes/field values
-    const fieldMappings = {
-      'scorecard_pattern': String(pattern || ''),
-      'scorecard_total': String(totalPct || ''),
-      'scorecard_grenzen': String(areaScores?.grenzen || ''),
-      'scorecard_kommunikation': String(areaScores?.kommunikation || ''),
-      'scorecard_rolle': String(areaScores?.rolle || ''),
-      'scorecard_ex': String(areaScores?.ex || ''),
-      'scorecard_selbstfuersorge': String(areaScores?.selbstfuersorge || ''),
+    // 3. Store scores as custom fields (IDs from AC)
+    const FIELD_IDS = {
+      scorecard_pattern: '33',
+      scorecard_total: '34',
+      scorecard_grenzen: '35',
+      scorecard_kommunikation: '36',
+      scorecard_rolle: '37',
+      scorecard_ex: '38',
+      scorecard_selbstfuersorge: '39',
+      scorecard_wunderfrage: '40',
     };
 
-    // Try to update custom fields (will silently fail if fields don't exist yet)
-    for (const [field, value] of Object.entries(fieldMappings)) {
-      try {
-        // Search for field by name
-        const fieldSearchRes = await fetch(`${AC_URL}/api/3/fields?search=${encodeURIComponent(field)}`, { headers });
-        const fieldSearchData = await fieldSearchRes.json();
-        const fieldId = fieldSearchData?.fields?.[0]?.id;
-        
-        if (fieldId) {
-          await fetch(`${AC_URL}/api/3/fieldValues`, {
-            method: 'POST',
-            headers,
-            body: JSON.stringify({ fieldValue: { contact: contactId, field: fieldId, value } })
-          });
-        }
-      } catch (fieldErr) {
-        // Silently continue — fields might not exist yet
-      }
-    }
+    const fieldValues = [
+      { field: FIELD_IDS.scorecard_pattern, value: String(pattern || '') },
+      { field: FIELD_IDS.scorecard_total, value: String(totalPct || '') },
+      { field: FIELD_IDS.scorecard_grenzen, value: String(areaScores?.grenzen || '') },
+      { field: FIELD_IDS.scorecard_kommunikation, value: String(areaScores?.kommunikation || '') },
+      { field: FIELD_IDS.scorecard_rolle, value: String(areaScores?.rolle || '') },
+      { field: FIELD_IDS.scorecard_ex, value: String(areaScores?.ex || '') },
+      { field: FIELD_IDS.scorecard_selbstfuersorge, value: String(areaScores?.selbstfuersorge || '') },
+    ];
+
+    // Write all field values
+    await Promise.all(fieldValues.map(fv =>
+      fetch(`${AC_URL}/api/3/fieldValues`, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({ fieldValue: { contact: contactId, field: fv.field, value: fv.value } })
+      }).catch(() => {})
+    ));
 
     return new Response(JSON.stringify({ success: true, contactId }), { headers: corsHeaders });
 
