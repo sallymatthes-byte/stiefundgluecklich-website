@@ -92,12 +92,10 @@ import Layout from '../layouts/Layout.astro'
           </div>
 
           <!-- Score Summary -->
-          <div id="score-summary" class="mb-8">
-            <div class="flex items-center justify-between mb-4">
-              <span class="text-lg font-medium">Dein Gesamtscore</span>
-              <span id="total-score" class="text-2xl font-serif font-medium text-primary"></span>
-            </div>
-            <div id="area-scores" class="space-y-3"></div>
+          <div id="score-summary" class="mb-8 text-center">
+            <span class="text-sm text-muted-foreground">Gesamtscore: </span>
+            <span id="total-score" class="text-xl font-serif font-medium text-primary"></span>
+            <div id="area-scores" class="hidden"></div>
           </div>
 
           <!-- Pattern Result -->
