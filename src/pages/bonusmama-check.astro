@@ -82,7 +82,9 @@ import Layout from '../layouts/Layout.astro'
 
         <!-- ===================== AUSWERTUNG (Radar + Ergebnis) ===================== -->
         <div id="step-result" class="check-step hidden">
-          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Deine Auswertung</p>
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-3">Deine Auswertung</p>
+          <h2 class="text-2xl md:text-3xl mb-2">So stehst du gerade</h2>
+          <p class="text-muted-foreground mb-6 text-sm">Dein Profil über alle 5 Bereiche — und darunter dein persönliches Muster.</p>
           
           <!-- Radar Chart -->
           <div class="bg-white border border-border p-4 md:p-6 mb-8">
@@ -270,35 +272,35 @@ const AREAS = [
 
 const STATEMENTS = [
   // Grenzen & Selbstschutz (1-5)
-  "Wenn mein Partner erwartet, dass ich sein Kind betreue oder bespasse, kann ich sagen: 'Das ist gerade nicht meine Aufgabe.'",
+  "Wenn mein Partner davon ausgeht, dass ich mich um sein Kind kümmere, kann ich ehrlich sagen, wenn das gerade zu viel ist.",
   "Wenn sein Kind am Esstisch provoziert und mein Partner nichts sagt, spreche ich es danach an — statt es runterzuschlucken.",
-  "Ich übernehme nur Aufgaben für die Bonuskinder, die ich freiwillig mache — nicht weil ich Angst habe, sonst nicht dazuzugehören.",
+  "Wenn ich Aufgaben für die Bonuskinder übernehme, tue ich das, weil ich es will — nicht weil ich das Gefühl habe, es tun zu müssen.",
   "Wenn mich das Verhalten meines Bonuskindes verletzt, kann ich das benennen — ohne mich dafür zu schämen.",
-  "Ich erlaube mir, mich aus Situationen mit den Bonuskindern zurückzuziehen, wenn ich an meine Grenze komme.",
+  "Wenn die Ex meines Partners Entscheidungen trifft, die unseren Alltag betreffen, kann ich mich davon abgrenzen, statt mich reinziehen zu lassen.",
   // Kommunikation & Partnerschaft (6-10)
   "Wenn mein Partner Entscheidungen über die Kinder trifft ohne mich einzubeziehen, sage ich klar: 'Ich möchte da mitentscheiden.'",
-  "Ich kann meinem Partner sagen, was mich belastet, ohne Angst dass er sagt: 'Du übertreibst.'",
+  "Wenn ich meinem Partner sage, was mich belastet, habe ich das Gefühl, dass er mich ernst nimmt und etwas daran ändern will.",
   "Mein Partner versteht meine Rolle als Bonusmama — ich muss ihm nicht ständig erklären, warum mich Dinge treffen.",
-  "Wenn wir uns streiten, geht es danach wirklich weiter — statt dass einer von uns tagelang schweigt.",
+  "Wenn wir uns streiten, finden wir danach schnell wieder zueinander — statt dass einer von uns tagelang schweigt.",
   "Wir reden regelmäßig über uns als Paar — nicht nur über die Kinder, die Ex oder den nächsten Wechseltag.",
   // Rolle & Identität (11-16)
   "Ich weiß, welche Art von Beziehung ich zu meinem Bonuskind haben will — und welche nicht.",
-  "Wenn mein Bonuskind 'Mama' sagt und seine leibliche Mutter meint, tut mir das nicht mehr weh.",
-  "Ich versuche nicht mehr, die perfekte Bonusmama zu sein — ich bin die Bonusmama, die zu mir passt.",
-  "Ich fühle mich in meinem eigenen Zuhause zu Hause — auch wenn die Bonuskinder da sind.",
-  "Ich habe aufgehört, mir meinen Platz in der Familie zu verdienen — ich nehme ihn ein.",
-  "Wenn mein Bonuskind mich ablehnt oder ignoriert, kann ich das einordnen — ohne es persönlich zu nehmen.",
+  "Wenn die leibliche Mutter Thema ist — ob am Esstisch oder im Alltag — kann ich das aushalten, ohne mich automatisch zu vergleichen.",
+  "Ich weiß, welche Bonusmama ich sein will — und lasse mich davon nicht von außen abbringen.",
+  "Ich fühle mich wohl in meinen eigenen vier Wänden — auch wenn die Bonuskinder da sind.",
+  "Ich weiß, welchen Platz ich in dieser Familie habe — und ich warte nicht darauf, dass mir jemand diesen Platz gibt.",
+  "Wenn mein Bonuskind mich ablehnt oder ignoriert, weiß ich, dass das meistens nichts mit mir persönlich zu tun hat.",
   // Umgang mit der Ex (17-21)
   "Wenn die Ex meines Partners eine provozierende Nachricht schickt, kann ich das an mir vorbeiziehen lassen.",
-  "Wenn die Ex bei meinem Partner anruft, löst das bei mir keinen Stich mehr aus.",
+  "Wenn die Ex bei meinem Partner anruft, löst das bei mir keinen Stich aus.",
   "Ich kann akzeptieren, dass die Ex Teil unseres Lebens ist — ohne mich davon auffressen zu lassen.",
-  "Ich mische mich nicht mehr in Dinge ein, die zwischen meinem Partner und seiner Ex laufen — das ist sein Thema.",
-  "Ich definiere mich nicht über den Vergleich mit der Ex — ich bin nicht 'die Bessere' oder 'die Andere', ich bin ich.",
+  "Ich mische mich in Dinge, die zwischen meinem Partner und seiner Ex laufen, bewusst nicht ein — das ist sein Thema.",
+  "Ich vergleiche mich nicht mit der Ex — ich bin weder 'die Bessere' noch 'die Andere', ich bin ich.",
   // Selbstfürsorge & Energie (22-26)
-  "Wenn die Bonuskinder ein Wochenende bei der Mama sind, genieße ich die Ruhe — ohne schlechtes Gewissen.",
+  "Ich erlaube mir, mich aus dem Patchwork-Alltag zurückzuziehen, wenn ich merke, dass ich an meine Grenze komme.",
   "Ich erkenne früh genug, wenn ich am Limit bin — bevor ich komplett zusammenbreche.",
   "In meinem Alltag gibt es Dinge, die nur mir gehören — die nichts mit Patchwork zu tun haben.",
-  "Ich habe nicht das Gefühl, ständig funktionieren zu müssen, damit diese Familie zusammenhält.",
+  "Ich kann in dieser Familie auch mal einfach nur da sein — ohne das Gefühl, ständig etwas leisten oder beitragen zu müssen.",
   "Wenn ich an mein Leben als Bonusmama denke, überwiegen die guten Momente — nicht die schweren.",
 ];
 
