@@ -26,8 +26,8 @@ export async function onRequestGet(context) {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: new URLSearchParams({
-        client_key: env.TIKTOK_CLIENT_KEY,
-        client_secret: env.TIKTOK_CLIENT_SECRET,
+        client_key: env.TIKTOK_CLIENT_KEY || 'sbaw7yef4vjyshr5oe',
+        client_secret: env.TIKTOK_CLIENT_SECRET || 'El06pmxWT335DaPoBAysTDd9vi1fqxGP',
         code: code,
         grant_type: 'authorization_code',
         redirect_uri: 'https://stiefundgluecklich.de/api/tiktok-callback',
