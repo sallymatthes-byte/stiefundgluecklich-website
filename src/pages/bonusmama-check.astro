@@ -2,7 +2,30 @@
 import Layout from '../layouts/Layout.astro'
 ---
 
-<Layout title="Bonusmama-Check — Welcher Fehler sabotiert deine Patchwork-Beziehung?" description="Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung als Bonusmama belastet — und was du konkret ändern kannst." canonical="https://stiefundgluecklich.de/bonusmama-check/" noHeader={true}>
+<Layout title="Bonusmama-Check — Welcher Fehler sabotiert deine Patchwork-Beziehung?" description="Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung als Bonusmama belastet — und was du konkret ändern kannst." canonical="https://stiefundgluecklich.de/bonusmama-check/" ogImage="/images/og-bonusmama-check.jpg" noHeader={true}>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Bonusmama-Check",
+    "description": "Interaktiver Selbsttest für Bonusmamas: Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung belastet.",
+    "url": "https://stiefundgluecklich.de/bonusmama-check/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Web",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+    "author": {
+      "@type": "Person",
+      "name": "Sally Matthes",
+      "jobTitle": "Systemischer Coach für Bonusmamas",
+      "url": "https://stiefundgluecklich.de"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "StiefundGlücklich",
+      "url": "https://stiefundgluecklich.de"
+    }
+  })} />
 
   <section class="pt-20 md:pt-24 pb-16 md:pb-24 min-h-[80vh] flex items-start">
     <div class="container mx-auto px-5 md:px-6">
