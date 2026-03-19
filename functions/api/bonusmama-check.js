@@ -2,12 +2,20 @@
 // Env vars: AC_API_URL, AC_API_KEY (Plaintext in Cloudflare Pages dashboard!)
 
 const PATTERN_TAGS = {
-  1: 'scorecard-muster-platz',
-  2: 'scorecard-muster-kommunikation',
-  3: 'scorecard-muster-leistung',
-  4: 'scorecard-muster-anpassung',
-  5: 'scorecard-muster-ausdruck',
-  6: 'scorecard-muster-verantwortung',
+  1: { name: 'scorecard-muster-platz', id: '50' },
+  2: { name: 'scorecard-muster-kommunikation', id: '51' },
+  3: { name: 'scorecard-muster-leistung', id: '46' },
+  4: { name: 'scorecard-muster-anpassung', id: '53' },
+  5: { name: 'scorecard-muster-ausdruck', id: '54' },
+  6: { name: 'scorecard-muster-verantwortung', id: '55' },
+};
+
+// Pre-mapped tag IDs (no more create-or-search dance)
+const KNOWN_TAGS = {
+  'scorecard-teilnehmerin': '45',
+  'scorecard-dauer-unter1': '38',
+  'scorecard-dauer-1bis3': '47',
+  'scorecard-dauer-ueber3': '42',
 };
 
 export async function onRequestPost(context) {
@@ -71,57 +79,58 @@ export async function onRequestPost(context) {
       console.error('List subscription error:', listErr);
     }
 
-    // 3. Add tags
-    const tagsToAdd = ['scorecard-teilnehmerin'];
-    
+    // 3. Add tags (using pre-mapped IDs for reliability)
+    const tagIdsToAdd = [];
+
+    // Always add scorecard-teilnehmerin
+    tagIdsToAdd.push(KNOWN_TAGS['scorecard-teilnehmerin']);
+
     // Pattern tag
     if (pattern && PATTERN_TAGS[pattern]) {
-      tagsToAdd.push(PATTERN_TAGS[pattern]);
+      tagIdsToAdd.push(PATTERN_TAGS[pattern].id);
     }
 
-    // Intro answer tag (how long bonusmama)
-    if (introAnswer) {
-      tagsToAdd.push('scorecard-dauer-' + introAnswer);
+    // Intro answer tag
+    const durationTag = KNOWN_TAGS['scorecard-dauer-' + introAnswer];
+    if (durationTag) {
+      tagIdsToAdd.push(durationTag);
     }
 
-    // Area-specific tags for weak areas (≤45%)
+    // Area-specific tags for weak areas (≤45%) — these may need creation
     if (areaScores) {
       for (const [area, pct] of Object.entries(areaScores)) {
         if (pct <= 45) {
-          tagsToAdd.push('scorecard-schwach-' + area);
+          const schwachTag = 'scorecard-schwach-' + area;
+          // Search for existing tag first
+          try {
+            const searchRes = await fetch(`${AC_URL}/api/3/tags?search=${encodeURIComponent(schwachTag)}&limit=100`, { headers });
+            const searchData = await searchRes.json();
+            const exact = (searchData?.tags || []).find(t => t.tag === schwachTag);
+            if (exact) {
+              tagIdsToAdd.push(exact.id);
+            } else {
+              // Create it
+              const createRes = await fetch(`${AC_URL}/api/3/tags`, {
+                method: 'POST', headers,
+                body: JSON.stringify({ tag: { tag: schwachTag, tagType: 'contact' } })
+              });
+              const createData = await createRes.json();
+              if (createData?.tag?.id) tagIdsToAdd.push(createData.tag.id);
+            }
+          } catch (e) { console.error('Schwach-tag error:', schwachTag, e); }
         }
       }
     }
 
-    // Create tags and add to contact
-    for (const tagName of tagsToAdd) {
+    // Add all tags to contact
+    for (const tagId of tagIdsToAdd) {
       try {
-        // First ensure tag exists
-        const tagRes = await fetch(`${AC_URL}/api/3/tags`, {
-          method: 'POST',
-          headers,
-          body: JSON.stringify({ tag: { tag: tagName, tagType: 'contact' } })
+        await fetch(`${AC_URL}/api/3/contactTags`, {
+          method: 'POST', headers,
+          body: JSON.stringify({ contactTag: { contact: contactId, tag: String(tagId) } })
         });
-        const tagData = await tagRes.json();
-        
-        // Get tag ID (from creation or existing)
-        let tagId = tagData?.tag?.id;
-        if (!tagId && tagData?.errors) {
-          // Tag already exists, search for it
-          const searchRes = await fetch(`${AC_URL}/api/3/tags?search=${encodeURIComponent(tagName)}`, { headers });
-          const searchData = await searchRes.json();
-          tagId = searchData?.tags?.[0]?.id;
-        }
-
-        if (tagId) {
-          await fetch(`${AC_URL}/api/3/contactTags`, {
-            method: 'POST',
-            headers,
-            body: JSON.stringify({ contactTag: { contact: contactId, tag: tagId } })
-          });
-        }
       } catch (tagErr) {
-        console.error('Tag error for', tagName, tagErr);
+        console.error('Tag add error for ID', tagId, tagErr);
       }
     }
 
