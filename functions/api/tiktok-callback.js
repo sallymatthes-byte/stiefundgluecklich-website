@@ -63,10 +63,10 @@ export async function onRequestGet(context) {
         <form id="uploadForm">
           <input type="hidden" id="accessToken" value="${tokenData.access_token}">
           <div style="margin:1rem 0;">
-            <label style="display:block;margin-bottom:0.5rem;font-weight:600;">Video-URL</label>
-            <input type="url" id="videoUrl" placeholder="https://stiefundgluecklich.de/videos/reel.mp4" 
-              style="width:100%;padding:0.75rem;border:1px solid #ddd;border-radius:8px;font-size:1rem;" required>
-            <small style="color:#888;">Öffentlich erreichbare URL zur Video-Datei</small>
+            <label style="display:block;margin-bottom:0.5rem;font-weight:600;">Video auswählen</label>
+            <input type="file" id="videoFile" accept="video/mp4,video/quicktime"
+              style="width:100%;padding:0.75rem;border:1px solid #ddd;border-radius:8px;font-size:1rem;background:white;" required>
+            <small style="color:#888;">MP4 oder MOV, max. 50 MB</small>
           </div>
           <button type="submit" id="uploadBtn"
             style="width:100%;padding:0.75rem 1.5rem;background:#FE2C55;color:white;border:none;border-radius:8px;font-size:1rem;cursor:pointer;font-weight:600;">
@@ -81,30 +81,63 @@ export async function onRequestGet(context) {
           e.preventDefault();
           const btn = document.getElementById('uploadBtn');
           const result = document.getElementById('result');
+          const fileInput = document.getElementById('videoFile');
+          const file = fileInput.files[0];
+          if (!file) return;
+
           btn.disabled = true;
-          btn.textContent = '⏳ Wird hochgeladen...';
+          btn.textContent = '⏳ Schritt 1/2: Upload wird vorbereitet...';
           result.innerHTML = '';
 
           try {
-            const res = await fetch('/api/tiktok-upload', {
+            // Step 1: Init upload
+            const initRes = await fetch('/api/tiktok-upload', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({
+                action: 'init',
                 access_token: document.getElementById('accessToken').value,
-                video_url: document.getElementById('videoUrl').value,
+                file_size: file.size,
               }),
             });
-            const data = await res.json();
-            if (data.success) {
-              result.innerHTML = '<p style="color:#22c55e;font-weight:600;">✅ Video als Draft hochgeladen! Öffne TikTok um es zu veröffentlichen.</p>';
-            } else {
-              result.innerHTML = '<p style="color:#ef4444;">❌ ' + (data.error || 'Upload fehlgeschlagen') + '</p>';
+            const initData = await initRes.json();
+            if (!initData.success) {
+              result.innerHTML = '<p style="color:#ef4444;">❌ ' + (initData.error || 'Init fehlgeschlagen') + '</p>';
+              btn.disabled = false;
+              btn.textContent = '📤 Als Draft hochladen';
+              return;
             }
+
+            // Step 2: Read file and upload
+            btn.textContent = '⏳ Schritt 2/2: Video wird hochgeladen...';
+            const reader = new FileReader();
+            reader.onload = async () => {
+              const base64 = reader.result.split(',')[1];
+              const uploadRes = await fetch('/api/tiktok-upload', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                  action: 'upload',
+                  upload_url: initData.upload_url,
+                  video_data: base64,
+                  content_type: file.type || 'video/mp4',
+                }),
+              });
+              const uploadData = await uploadRes.json();
+              if (uploadData.success) {
+                result.innerHTML = '<p style="color:#22c55e;font-weight:600;">✅ Video als Draft hochgeladen! Öffne TikTok um es zu veröffentlichen.</p>';
+              } else {
+                result.innerHTML = '<p style="color:#ef4444;">❌ ' + (uploadData.error || 'Upload fehlgeschlagen') + '</p>';
+              }
+              btn.disabled = false;
+              btn.textContent = '📤 Als Draft hochladen';
+            };
+            reader.readAsDataURL(file);
           } catch (err) {
             result.innerHTML = '<p style="color:#ef4444;">❌ Netzwerkfehler: ' + err.message + '</p>';
+            btn.disabled = false;
+            btn.textContent = '📤 Als Draft hochladen';
           }
-          btn.disabled = false;
-          btn.textContent = '📤 Als Draft hochladen';
         });
       </script>
     `;
