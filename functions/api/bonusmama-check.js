@@ -66,20 +66,8 @@ export async function onRequestPost(context) {
       return new Response(JSON.stringify({ error: 'Contact creation failed' }), { status: 500, headers: corsHeaders });
     }
 
-    // 2. Subscribe to Scorecard list (ID 28)
-    try {
-      await fetch(`${AC_URL}/api/3/contactLists`, {
-        method: 'POST',
-        headers,
-        body: JSON.stringify({
-          contactList: { list: '28', contact: contactId, status: '1' }
-        })
-      });
-    } catch (listErr) {
-      console.error('List subscription error:', listErr);
-    }
-
-    // 3. Add tags (using pre-mapped IDs for reliability)
+    // 2. Add tags FIRST (before list subscription, which triggers automation!)
+    //    Automation checks tags immediately — they must exist before it runs.
     const tagIdsToAdd = [];
 
     // Always add scorecard-teilnehmerin
@@ -134,7 +122,21 @@ export async function onRequestPost(context) {
       }
     }
 
-    // 4. Store scores as custom fields (IDs from AC)
+    // 4. Subscribe to Scorecard list (ID 28) — AFTER tags are set!
+    //    This triggers the automation, which needs tags to route correctly.
+    try {
+      await fetch(`${AC_URL}/api/3/contactLists`, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          contactList: { list: '28', contact: contactId, status: '1' }
+        })
+      });
+    } catch (listErr) {
+      console.error('List subscription error:', listErr);
+    }
+
+    // 5. Store scores as custom fields (IDs from AC)
     const FIELD_IDS = {
       scorecard_pattern: '33',
       scorecard_total: '34',
