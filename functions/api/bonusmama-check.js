@@ -58,7 +58,20 @@ export async function onRequestPost(context) {
       return new Response(JSON.stringify({ error: 'Contact creation failed' }), { status: 500, headers: corsHeaders });
     }
 
-    // 2. Add tags
+    // 2. Subscribe to Scorecard list (ID 28)
+    try {
+      await fetch(`${AC_URL}/api/3/contactLists`, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          contactList: { list: '28', contact: contactId, status: '1' }
+        })
+      });
+    } catch (listErr) {
+      console.error('List subscription error:', listErr);
+    }
+
+    // 3. Add tags
     const tagsToAdd = ['scorecard-teilnehmerin'];
     
     // Pattern tag
@@ -112,7 +125,7 @@ export async function onRequestPost(context) {
       }
     }
 
-    // 3. Store scores as custom fields (IDs from AC)
+    // 4. Store scores as custom fields (IDs from AC)
     const FIELD_IDS = {
       scorecard_pattern: '33',
       scorecard_total: '34',
