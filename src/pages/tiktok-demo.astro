@@ -1,0 +1,121 @@
+---
+// TikTok Integration Demo — Login + Video Upload
+// Used for TikTok Developer App review (sandbox demo)
+---
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>TikTok Integration — StiefundGlücklich</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #FBF8F1;
+      color: #1a1a1a;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+    }
+    .logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #4A6741;
+      margin-bottom: 2rem;
+    }
+    .card {
+      background: white;
+      border-radius: 16px;
+      padding: 2.5rem;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+    h1 {
+      font-size: 1.4rem;
+      margin-bottom: 0.5rem;
+    }
+    .subtitle {
+      color: #666;
+      margin-bottom: 2rem;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+    .tiktok-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.875rem 2rem;
+      background: #000;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.05rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .tiktok-btn:hover { background: #333; }
+    .tiktok-btn svg { width: 24px; height: 24px; }
+    .steps {
+      margin-top: 2rem;
+      text-align: left;
+      font-size: 0.9rem;
+      color: #555;
+      line-height: 1.8;
+    }
+    .steps li { margin-bottom: 0.25rem; }
+    .footer {
+      margin-top: 2rem;
+      font-size: 0.8rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">StiefundGlücklich</div>
+    <div class="card">
+      <h1>TikTok verbinden</h1>
+      <p class="subtitle">
+        Verbinde deinen TikTok-Account um Coaching-Videos direkt als Entwurf hochzuladen.
+      </p>
+      
+      <a id="loginBtn" class="tiktok-btn" href="#">
+        <svg viewBox="0 0 24 24" fill="white"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 00-.79-.05A6.34 6.34 0 003.15 15.2a6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.34-6.34V8.87a8.16 8.16 0 004.76 1.52v-3.4a4.85 4.85 0 01-1-.3z"/></svg>
+        Mit TikTok anmelden
+      </a>
+
+      <ol class="steps">
+        <li>Klicke auf "Mit TikTok anmelden"</li>
+        <li>Melde dich bei TikTok an und bestätige die Berechtigungen</li>
+        <li>Wähle ein Video und lade es als Entwurf hoch</li>
+        <li>Öffne die TikTok-App um den Entwurf zu veröffentlichen</li>
+      </ol>
+    </div>
+    <div class="footer">
+      <p>stiefundgluecklich.de · Sandbox-Demo</p>
+    </div>
+  </div>
+
+  <script>
+    // Build TikTok OAuth URL
+    const CLIENT_KEY = 'awcsgj0z65j6w956';
+    const REDIRECT_URI = encodeURIComponent('https://stiefundgluecklich.de/api/tiktok-callback');
+    const SCOPE = encodeURIComponent('user.info.basic,video.upload');
+    const STATE = Math.random().toString(36).substring(2, 15);
+    
+    const authUrl = `https://www.tiktok.com/v2/auth/authorize/?client_key=${CLIENT_KEY}&scope=${SCOPE}&response_type=code&redirect_uri=${REDIRECT_URI}&state=${STATE}`;
+    
+    document.getElementById('loginBtn').href = authUrl;
+  </script>
+</body>
+</html>
