@@ -199,16 +199,16 @@ import Layout from '../layouts/Layout.astro'
   </section>
 
   <!-- Testimonials -->
-  <section class="py-16 md:py-28 bg-secondary">
+  <section class="py-16 md:py-28" style="background-color: #0B141A;">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center max-w-3xl mx-auto mb-12">
         <p class="text-primary font-medium mb-4 text-sm">Erfahrungen</p>
-        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
-        <p class="text-base text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5 text-white">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
+        <p class="text-base" style="color: #8696A0;">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
       </div>
-      <div class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-0">
+      <div class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         {Array.from({length: 12}, (_, i) => (
-          <img src={`/images/beyondbonus/testimonial-bb-${i + 1}.jpg`} alt={`BeyondBonus Kundenfeedback ${i + 1}`} class="w-full" loading="lazy" />
+          <img src={`/images/beyondbonus/testimonial-bb-${i + 1}.jpg`} alt={`BeyondBonus Kundenfeedback ${i + 1}`} class="w-full rounded-lg" loading="lazy" />
         ))}
       </div>
     </div>
