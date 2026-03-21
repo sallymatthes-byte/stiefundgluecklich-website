@@ -1,0 +1,135 @@
+---
+const testimonials = Array.from({length: 12}, (_, i) => ({
+  src: `/images/beyondbonus/testimonial-bb-${i + 1}.jpg`,
+  alt: `BeyondBonus Kundenfeedback ${i + 1}`,
+}));
+
+// 3-column distribution for desktop masonry (12 items)
+const columns = [
+  [testimonials[0], testimonials[3], testimonials[6], testimonials[9]],
+  [testimonials[1], testimonials[4], testimonials[7], testimonials[10]],
+  [testimonials[2], testimonials[5], testimonials[8], testimonials[11]],
+];
+---
+
+<section id="bb-testimonials" class="py-14 md:py-24 bg-background">
+  <div class="container mx-auto px-5 md:px-6">
+    <!-- Header -->
+    <div class="text-center max-w-3xl mx-auto mb-12">
+      <p class="text-primary font-medium mb-4">Erfahrungen</p>
+      <h2 class="font-serif text-xl md:text-3xl lg:text-4xl text-foreground mb-5 md:mb-7">
+        Das sagen meine <span class="italic text-gold-bright">Kundinnen</span>
+      </h2>
+      <p class="text-lg text-muted-foreground">
+        Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.
+      </p>
+    </div>
+
+    <!-- Desktop: 3-column masonry grid -->
+    <div class="hidden lg:block max-w-5xl mx-auto">
+      <div class="grid grid-cols-3 gap-4 items-start">
+        {columns.map((column) => (
+          <div class="flex flex-col gap-4">
+            {column.map((t) => (
+              <button
+                class="bb-testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                data-src={t.src}
+              >
+                <img src={t.src} alt={t.alt} class="w-full rounded-xl" loading="lazy" />
+              </button>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Mobile: Single column with load more -->
+    <div class="lg:hidden max-w-md mx-auto">
+      <div id="bb-mobile-testimonials" class="flex flex-col gap-4">
+        {testimonials.slice(0, 4).map((t) => (
+          <button
+            class="bb-testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none"
+            data-src={t.src}
+          >
+            <img src={t.src} alt={t.alt} class="w-full rounded-xl" loading="lazy" />
+          </button>
+        ))}
+      </div>
+      <div class="text-center mt-8" id="bb-load-more-wrap">
+        <button id="bb-load-more-btn"
+          class="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary/10 px-6 py-2.5 font-medium transition-colors">
+          Mehr laden
+          <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div id="bb-lightbox" class="fixed inset-0 z-50 bg-black/80 hidden items-center justify-center p-4">
+    <button id="bb-lightbox-close" class="absolute top-4 right-4 text-white hover:text-white/80 transition-colors" aria-label="Schließen">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+    <img id="bb-lightbox-img" src="" alt="Testimonial vergrößert" class="max-w-2xl w-full max-h-[85vh] object-contain" />
+  </div>
+</section>
+
+<script>
+  // Lightbox
+  const bbLightbox = document.getElementById('bb-lightbox');
+  const bbLightboxImg = document.getElementById('bb-lightbox-img') as HTMLImageElement;
+  
+  document.querySelectorAll('.bb-testimonial-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const src = (btn as HTMLElement).dataset.src;
+      if (src && bbLightboxImg && bbLightbox) {
+        bbLightboxImg.src = src;
+        bbLightbox.classList.remove('hidden');
+        bbLightbox.classList.add('flex');
+      }
+    });
+  });
+
+  document.getElementById('bb-lightbox-close')?.addEventListener('click', () => {
+    bbLightbox?.classList.add('hidden');
+    bbLightbox?.classList.remove('flex');
+  });
+
+  bbLightbox?.addEventListener('click', (e) => {
+    if (e.target === bbLightbox) {
+      bbLightbox.classList.add('hidden');
+      bbLightbox.classList.remove('flex');
+    }
+  });
+
+  // Mobile load more
+  const bbAllTestimonials = JSON.parse(`${JSON.stringify(testimonials)}`);
+  let bbShown = 4;
+  
+  document.getElementById('bb-load-more-btn')?.addEventListener('click', () => {
+    const container = document.getElementById('bb-mobile-testimonials');
+    const next = bbAllTestimonials.slice(bbShown, bbShown + 4);
+    next.forEach((t: {src: string, alt: string}) => {
+      const btn = document.createElement('button');
+      btn.className = 'bb-testimonial-btn w-full cursor-pointer hover:opacity-90 transition-opacity focus:outline-none';
+      btn.dataset.src = t.src;
+      btn.innerHTML = `<img src="${t.src}" alt="${t.alt}" class="w-full rounded-xl" loading="lazy" />`;
+      btn.addEventListener('click', () => {
+        if (bbLightboxImg && bbLightbox) {
+          bbLightboxImg.src = t.src;
+          bbLightbox.classList.remove('hidden');
+          bbLightbox.classList.add('flex');
+        }
+      });
+      container?.appendChild(btn);
+    });
+    bbShown += 4;
+    if (bbShown >= bbAllTestimonials.length) {
+      document.getElementById('bb-load-more-wrap')?.classList.add('hidden');
+    }
+  });
+</script>
