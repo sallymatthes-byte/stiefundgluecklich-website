@@ -138,7 +138,7 @@ import Layout from '../layouts/Layout.astro'
         <h2 class="text-xl md:text-3xl lg:text-4xl mb-6">Was andere <span class="italic text-primary">Bonusmamas</span> sagen</h2>
         <p class="text-lg text-muted-foreground">Echte Nachrichten von Frauen, die mit Sallys Programmen ihren Weg gefunden haben.</p>
       </div>
-      <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-4">
+      <div class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-4">
         {['its-1', 'its-2', 'its-3', 'its-4'].map(name => (
           <img src={`/images/testimonials/${name}.png`} alt="Kundenfeedback" class="w-full" loading="lazy" />
         ))}

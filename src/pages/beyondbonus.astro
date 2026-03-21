@@ -206,7 +206,7 @@ import Layout from '../layouts/Layout.astro'
         <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
         <p class="text-base text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
       </div>
-      <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-3 gap-4">
+      <div class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {Array.from({length: 12}, (_, i) => (
           <img src={`/images/beyondbonus/testimonial-bb-${i + 1}.jpg`} alt={`BeyondBonus Kundenfeedback ${i + 1}`} class="w-full" loading="lazy" />
         ))}
