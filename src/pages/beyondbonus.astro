@@ -206,21 +206,9 @@ import Layout from '../layouts/Layout.astro'
         <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold">Kundinnen</span></h2>
         <p class="text-base text-muted-foreground">Echte Nachrichten von Frauen, die Beyond Bonus durchgearbeitet haben.</p>
       </div>
-      <div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
-        {[
-          ["Die Liste mit den Gefühlen hat mir wirklich geholfen. Ich konnte endlich ausdrücken, wie ich mich fühle — das hat einen riesigen Unterschied gemacht.", "19:51"],
-          ["Ich hab mir das Video zu den Familienritualen angeschaut. Das wollen wir uns jetzt zusammen nochmal angucken — richtig guter Input.", "10:38"],
-          ["Ich habe die Kommunikationsmodule durchgearbeitet — da kann ich immer noch was Neues mitnehmen. Tools, die ich wirklich im Alltag anwende.", "16:03"],
-          ["Wir haben uns die Videos zu den Sprachen der Liebe zusammen angeschaut — fast 3 Stunden! Da wurde so viel nochmal zwischen uns angesprochen.", "09:14"],
-          ["Ich bin jetzt beim dritten Modul und arbeite mich durch. Besonders das Kommunikationsmodul finde ich richtig stark.", "12:09"],
-          ["Es gibt so viel wertvolles Material — für jede Situation findet man was Passendes. Ich greife immer wieder darauf zurück.", "15:27"],
-        ].map(([text, time]) => (
-          <div class="relative max-w-[90%]">
-            <div class="rounded-lg rounded-tl-none px-4 py-3 text-sm leading-relaxed text-white/90 relative" style="background-color: #1f3025;">
-              <span>{text}</span>
-              <span class="text-xs text-white/40 float-right mt-1 ml-3 whitespace-nowrap">{time}</span>
-            </div>
-          </div>
+      <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-3 gap-4">
+        {Array.from({length: 12}, (_, i) => (
+          <img src={`/images/beyondbonus/testimonial-bb-${i + 1}.jpg`} alt={`BeyondBonus Kundenfeedback ${i + 1}`} class="w-full" loading="lazy" />
         ))}
       </div>
     </div>

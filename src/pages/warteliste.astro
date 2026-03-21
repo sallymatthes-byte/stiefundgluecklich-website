@@ -156,6 +156,22 @@ import Layout from '../layouts/Layout.astro'
     </div>
   </section>
 
+  <!-- Testimonials -->
+  <section class="py-16 md:py-24 bg-background">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="text-center max-w-3xl mx-auto mb-12">
+        <p class="text-primary font-medium mb-4 text-sm">Erfahrungen</p>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold-bright">Kundinnen</span></h2>
+        <p class="text-lg text-muted-foreground">Echte Nachrichten von Frauen, die ich im 1:1 Coaching begleitet habe.</p>
+      </div>
+      <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-3 gap-4">
+        {['warteliste-1', 'warteliste-2', 'warteliste-3', 'warteliste-4', 'warteliste-5'].map(name => (
+          <img src={`/images/testimonials/${name}.png`} alt="Kundenfeedback aus dem 1:1 Coaching" class="w-full" loading="lazy" />
+        ))}
+      </div>
+    </div>
+  </section>
+
   <!-- About Sally -->
   <section class="py-20">
     <div class="container mx-auto px-5 md:px-6">

@@ -1,15 +1,16 @@
 ---
-const testimonials = Array.from({length: 15}, (_, i) => ({
+const testimonials = Array.from({length: 18}, (_, i) => ({
   src: `/images/testimonials/testimonial-${i + 1}.png`,
   alt: `Kundenfeedback von einer Bonusmama ${i + 1}`,
 }));
 
-// 4-column distribution for desktop masonry
+// 4-column distribution for desktop masonry (18 items)
+// Put strongest testimonials first/top: T04 (embryo→berg), T29 (verlobung), TC19 (therapie vs coaching)
 const columns = [
-  [testimonials[0], testimonials[4], testimonials[8], testimonials[12]],
-  [testimonials[1], testimonials[5], testimonials[9], testimonials[13]],
-  [testimonials[2], testimonials[6], testimonials[10]],
-  [testimonials[3], testimonials[7], testimonials[11], testimonials[14]],
+  [testimonials[15], testimonials[3], testimonials[7], testimonials[11], testimonials[14]],
+  [testimonials[16], testimonials[0], testimonials[4], testimonials[8], testimonials[12]],
+  [testimonials[17], testimonials[1], testimonials[5], testimonials[9]],
+  [testimonials[2], testimonials[6], testimonials[10], testimonials[13]],
 ];
 ---
 
