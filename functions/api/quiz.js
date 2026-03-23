@@ -84,9 +84,21 @@ export async function onRequestPost(context) {
       }
     }
 
+    // 3. Add result-specific ergebnis tag (for AC automation follow-ups)
+    const ergebnisTagMap = {
+      'its': 'quiz-ergebnis-its-bundle',
+      'beyondbonus': 'quiz-ergebnis-beyondbonus',
+      'warteliste': 'quiz-ergebnis-warteliste',
+    };
+    const ergebnisTag = ergebnisTagMap[result];
+    const allTags = [...(tags || [])];
+    if (ergebnisTag && !allTags.includes(ergebnisTag)) {
+      allTags.push(ergebnisTag);
+    }
+
     // 3. Add tags
-    if (tags && tags.length > 0) {
-      for (const tagName of tags) {
+    if (allTags && allTags.length > 0) {
+      for (const tagName of allTags) {
         let tagId;
         
         // Search for existing tag
