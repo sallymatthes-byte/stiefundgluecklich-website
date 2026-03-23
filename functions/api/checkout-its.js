@@ -41,6 +41,8 @@ export async function onRequestPost(context) {
     params.append('payment_method_types[2]', 'klarna');
     params.append('payment_method_types[3]', 'link');
     params.append('allow_promotion_codes', 'true');
+    params.append('invoice_creation[enabled]', 'true');
+    params.append('invoice_creation[invoice_data][footer]', 'Sally Matthes – Coaching, Beratung & Training | SIRET: 935040469 00014 | TVA: FR 50935040469');
     params.append('metadata[product]', 'its-bundle');
     params.append('metadata[customer_name]', name);
 
