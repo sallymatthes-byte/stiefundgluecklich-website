@@ -5,12 +5,13 @@ const testimonials = Array.from({length: 18}, (_, i) => ({
 }));
 
 // 4-column distribution for desktop masonry (18 items)
-// Put strongest testimonials first/top: T04 (embryo→berg), T29 (verlobung), TC19 (therapie vs coaching)
+// Strongest first: T16(embryo→berg), T17(verlobung), T18(therapie vs coaching), T11(4 Schritte), T13(Grenzen)
+// New DM testimonials: T1(A06 Tränen), T5(A09 Hoffnung), T10(A11 verdammt nicht leicht), T12(A01 MUSS NICHTS), T14(A04 Podcast nicht verrückt)
 const columns = [
-  [testimonials[15], testimonials[3], testimonials[7], testimonials[11], testimonials[14]],
-  [testimonials[16], testimonials[0], testimonials[4], testimonials[8], testimonials[12]],
-  [testimonials[17], testimonials[1], testimonials[5], testimonials[9]],
-  [testimonials[2], testimonials[6], testimonials[10], testimonials[13]],
+  [testimonials[15], testimonials[0], testimonials[7], testimonials[11], testimonials[14]],
+  [testimonials[16], testimonials[10], testimonials[3], testimonials[8], testimonials[4]],
+  [testimonials[17], testimonials[12], testimonials[1], testimonials[9]],
+  [testimonials[2], testimonials[6], testimonials[5], testimonials[13]],
 ];
 ---
 
