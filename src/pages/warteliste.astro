@@ -164,9 +164,9 @@ import Layout from '../layouts/Layout.astro'
         <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Das sagen meine <span class="italic text-gold-bright">Kundinnen</span></h2>
         <p class="text-lg text-muted-foreground">Echte Nachrichten von Frauen, die ich im 1:1 Coaching begleitet habe.</p>
       </div>
-      <div class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+      <div class="max-w-5xl mx-auto columns-1 sm:columns-2 lg:columns-3 gap-3 space-y-3">
         {['warteliste-1', 'warteliste-2', 'warteliste-3', 'warteliste-4', 'warteliste-5', 'warteliste-6', 'warteliste-7', 'warteliste-8'].map(name => (
-          <img src={`/images/testimonials/${name}.png`} alt="Kundenfeedback aus dem 1:1 Coaching" class="w-full rounded-xl" loading="lazy" />
+          <img src={`/images/testimonials/${name}.png`} alt="Kundenfeedback aus dem 1:1 Coaching" class="w-full rounded-xl break-inside-avoid" loading="lazy" />
         ))}
       </div>
     </div>
