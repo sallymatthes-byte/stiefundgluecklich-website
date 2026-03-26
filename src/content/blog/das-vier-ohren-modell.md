@@ -4,8 +4,8 @@ description: "Lerne mit dem 4-Ohren-Modell Missverständnisse zu vermeiden und d
 category: "partnerschaft"
 date: 2024-11-21
 updated: 2026-03-07
-metaTitle: "Das 4-Ohren-Modell in der Patchworkfamilie"
-metaDescription: "Missverständnisse mit Partner, Ex oder Bonuskindern? Das 4-Ohren-Modell zeigt dir, warum — und wie du besser kommunizierst."
+metaTitle: "Das 4-Ohren-Modell: Warum ihr in der Patchworkfamilie aneinander vorbeiredet"
+metaDescription: "Er sagt 'Der Müll ist voll' — und du hörst einen Vorwurf? Das 4-Ohren-Modell erklärt, warum Patchwork-Paare so oft aneinander vorbeireden."
 heroImage: "/images/blog/das-vier-ohren-modell-1.jpg"
 image: "/images/blog/das-vier-ohren-modell-1.jpg"
 imageAlt: "Das 4-Ohren-Modell"

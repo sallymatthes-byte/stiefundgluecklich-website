@@ -4,8 +4,8 @@ description: "Unsicher in deiner Rolle als Bonusmama? Entdecke, wie du in die ne
 category: "rolle-identitaet"
 date: 2023-12-04
 updated: 2026-03-10
-metaTitle: "Plötzlich Bonusmama: So findest du deine Rolle"
-metaDescription: "Von heute auf morgen Bonusmama? Wie du deine neue Rolle findest, ohne dich selbst zu verlieren — meine ehrliche Geschichte."
+metaTitle: "Plötzlich Bonusmama: Wenn du nicht weißt, wer du in dieser Familie sein sollst"
+metaDescription: "Zu streng? Zu locker? Zu nah? Zu distanziert? Wie du als Bonusmama deine eigene Rolle findest — Sallys persönliche Geschichte und 3 Schritte, die ihr geholfen haben."
 heroImage: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
 image: "/images/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand-1.jpg"
 imageAlt: "Frau blickt nachdenklich in die Ferne — neue Rolle als Bonusmama in der Patchworkfamilie"
@@ -75,3 +75,18 @@ Ich kenne diese zermürbenden Gedanken nur zu gut. Die ständige Unsicherheit, d
 Wenn du dich gerade zerrissen fühlst — verloren zwischen Erwartungen, Gefühlen und deiner neuen Rolle — dann weißt du jetzt: Du bist nicht allein. Und es gibt einen Weg. Einen, der nicht durch Funktionieren führt, sondern durch Verbindung. Zu dir. Und zu deiner Familie.
 
 Wenn du dich fragst, wie die [Stiefmutter-Rolle](/blog/stiefmutter/) sich in verschiedenen Lebensphasen verändert oder was eine gesunde [Patchworkfamilie](/blog/patchworkfamilie/) ausmacht, findest du dort weitere Orientierung.
+
+<!-- FAQ_START
+
+## Häufige Fragen
+
+### Wie finde ich meine Rolle als Bonusmama?
+Über drei Schritte: Zuerst Klarheit gewinnen — verstehen, was diese Rolle für dich persönlich bedeutet und welche eigenen Muster dich beeinflussen. Dann alte Glaubenssätze wie „Ich muss es allen recht machen" erkennen und loslassen. Und schließlich eine neue Art der Kommunikation entwickeln, die aus innerer Stärke kommt statt aus Unsicherheit.
+
+### Ist es normal, sich als Bonusmama unsicher zu fühlen?
+Ja, absolut. Die Rolle als Bonusmama hat keine Stellenbeschreibung. Du stehst zwischen verschiedenen Erwartungen — Freundin, Autoritätsperson, Vertrauensperson — und es gibt keinen klaren Leitfaden. Laut Studien dauert es 4–7 Jahre, bis sich eine Patchworkfamilie wirklich eingespielt hat.
+
+### Wie gehe ich damit um, wenn die Bonuskinder mich nicht akzeptieren?
+Gib dir und den Kindern Zeit. Akzeptanz lässt sich nicht erzwingen. Statt die perfekte Bonusmama sein zu wollen, konzentriere dich darauf, einfach du selbst zu sein. Kleine, ehrliche Momente schaffen mehr Verbindung als große Gesten.
+
+FAQ_END -->

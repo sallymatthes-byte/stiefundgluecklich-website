@@ -4,8 +4,8 @@ description: "Sehnst du dich nach mehr Zeit als Paar in eurer Patchworkfamilie? 
 category: "partnerschaft"
 date: 2023-12-04
 updated: 2026-03-10
-metaTitle: "Paarzeit in der Patchworkfamilie: So gelingt die Balance"
-metaDescription: "Keine Paarzeit in der Patchworkfamilie? Wie du trotz Bonuskinder, Ex und Alltag eure Beziehung lebendig hältst."
+metaTitle: "Paarzeit in der Patchworkfamilie: Wenn für euch als Paar kein Platz mehr bleibt"
+metaDescription: "Zwischen Bonuskindern, Ex und Alltag bleibt keine Zeit für euch? Warum Warten auf Paarzeit nichts bringt — und was stattdessen hilft."
 heroImage: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 image: "/images/blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance-1.jpg"
 imageAlt: "Paar sitzt gemeinsam auf dem Sofa in ihrer Patchworkfamilie"

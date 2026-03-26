@@ -4,8 +4,8 @@ description: "Kinder in Patchworkfamilien kämpfen oft mit Verlusten und Loyalit
 category: "kinder-bindung"
 date: 2024-08-23
 updated: 2026-03-10
-metaTitle: "Loyalitätskonflikte bei Bonuskindern: Zwischen den Stühlen"
-metaDescription: "Dein Bonuskind steckt zwischen Mama und Papa? Was hinter Loyalitätskonflikten in Patchworkfamilien steckt und wie du helfen kannst."
+metaTitle: "Loyalitätskonflikte bei Bonuskindern: Wenn dein Bonuskind zwischen den Stühlen sitzt"
+metaDescription: "Dein Bonuskind verhält sich plötzlich abweisend? Loyalitätskonflikte sind oft der Grund. Was dahintersteckt und wie du als Bonusmama damit umgehst."
 heroImage: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 image: "/images/blog/loyalitaetskonflikte-von-bonuskindern-1.jpg"
 imageAlt: "Kind sitzt nachdenklich zwischen zwei Elternteilen — Loyalitätskonflikte in der Patchworkfamilie"

@@ -4,8 +4,8 @@ description: "Lies hier, wie du die restliche Familie deiner Patchworkfamilie ei
 category: "kinder-bindung"
 date: 2024-03-01
 updated: 2026-03-07
-metaTitle: "Großeltern & Co: Familie in Patchworkfamilien"
-metaDescription: "Wie Großeltern, Onkel und Tanten die Patchworkfamilie beeinflussen — und wie du als Bonusmama damit umgehst."
+metaTitle: "Großeltern, Schwiegereltern & Co: Wenn die Familie nicht mitzieht"
+metaDescription: "Seine Eltern ignorieren dich, deine akzeptieren die Bonuskinder nicht? Wie du als Bonusmama mit der erweiterten Familie umgehst."
 heroImage: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
 image: "/images/blog/die-bedeutung-der-restlichen-familie-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Großeltern und Enkel beim gemeinsamen Spielen in einer Patchworkfamilie"

@@ -4,8 +4,8 @@ description: "Sich ausgeschlossen zu fühlen, ist eine der größten Hürden fü
 category: "partnerschaft"
 date: 2024-08-16
 updated: 2026-03-07
-metaTitle: "Außenseiter in der eigenen Familie? Das steckt dahinter"
-metaDescription: "Du fühlst dich als Außenseiter in deiner Patchworkfamilie? Warum dieses Gefühl entsteht und was dir jetzt hilft."
+metaTitle: "Außenseiterin in der eigenen Patchworkfamilie? Das steckt dahinter"
+metaDescription: "Du lebst mit ihnen zusammen — aber gehörst irgendwie nicht dazu? Warum du dich als Bonusmama wie eine Außenseiterin fühlst und was dir hilft."
 heroImage: "/images/blog/aussenseiter-patchworkfamilie-1.jpg"
 image: "/images/blog/aussenseiter-patchworkfamilie-1.jpg"
 imageAlt: "Frau sitzt allein am Rand einer Familienszene und fühlt sich als Außenseiterin in der Patchworkfamilie"

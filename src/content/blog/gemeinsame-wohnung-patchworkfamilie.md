@@ -4,8 +4,8 @@ description: "Wann ist der richtige Zeitpunkt für eine gemeinsame Wohnung? Und 
 category: "partnerschaft"
 date: 2024-01-12
 updated: 2026-03-07
-metaTitle: "Zusammenziehen als Patchworkfamilie"
-metaDescription: "Eine gemeinsame Wohnung für die Patchworkfamilie? Worauf es ankommt, damit sich alle — auch du — wirklich zu Hause fühlen."
+metaTitle: "Zusammenziehen als Patchworkfamilie: Wann ist der richtige Zeitpunkt?"
+metaDescription: "Zusammenziehen als Patchworkfamilie? Wann es zu früh ist, welche 3 Faktoren entscheiden — und warum sich viele Bonusmamas im neuen Zuhause fremd fühlen."
 heroImage: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
 image: "/images/blog/gemeinsame-wohnung-patchworkfamilie-1.jpg"
 imageAlt: "Gemeinsame Wohnung gestalten"
