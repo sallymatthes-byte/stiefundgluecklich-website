@@ -4,8 +4,8 @@ description: "Was ist ein Stiefkind? Wie baust du als Bonusmama eine Beziehung a
 category: "kinder-bindung"
 date: 2026-03-08
 updated: 2026-03-08
-metaTitle: "Stiefkind & Bonuskind: Bedeutung, Herkunft & Guide"
-metaDescription: "Was ist ein Stiefkind (Bonuskind)? Bedeutung, Herkunft, Rechte & Strategien für Bonusmamas — von Coach Sally Matthes mit über 100 begleiteten Familien."
+metaTitle: "Stiefkind: 7 Dinge, die du als Bonusmama über Bonuskinder wissen musst"
+metaDescription: "Was ist ein Stiefkind wirklich? Beziehung aufbauen, Grenzen setzen, Nähe zulassen — ein ehrlicher Guide für Bonusmamas. Von Coach Sally Matthes."
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 imageAlt: "Bonuskind und Bonusmama im warmen Herbstlicht — Beziehungsaufbau in der Patchworkfamilie"
