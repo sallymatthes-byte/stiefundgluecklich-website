@@ -6,7 +6,8 @@ publishDate: "2026-06-05"
 description: "Du funktionierst in deiner Patchworkfamilie, aber niemand sieht dich? Warum du dich unsichtbar machst — und 5 konkrete Schritte, um deinen Platz einzunehmen."
 category: "rolle-identitaet"
 readingTime: "8 Min"
-metaDescription: "Du funktionierst in deiner Patchworkfamilie, aber niemand sieht dich? Warum du dich unsichtbar machst — und 5 konkrete Schritte, um deinen Platz einzunehmen."
+metaTitle: "Die unsichtbare Bonusmama — du funktionierst, aber niemand sieht dich"
+metaDescription: "Du reichst die Butter, räumst ab, organisierst alles — aber keiner fragt, wie dein Tag war? 5 Schritte, um deinen Platz in der Patchworkfamilie einzunehmen."
 heroImage: "/images/blog/unsichtbare-bonusmama-1.jpg"
 ---
 
@@ -125,3 +126,18 @@ Wenn du alles gesagt und verändert hast — und dein Partner macht dich trotzde
 ## Zusammenfassung
 
 Du bist nicht unsichtbar. Du hast aufgehört, Raum einzunehmen. Und heute ist der Tag, an dem das aufhört. Nicht indem du lauter wirst — sondern indem du aufhörst, dich kleiner zu machen, als du bist. Hör auf, die Butter zu reichen. Nimm deinen Platz ein.
+
+<!-- FAQ_START
+
+## Häufige Fragen
+
+### Warum fühle ich mich als Bonusmama unsichtbar?
+Weil du aufgehört hast, Raum einzunehmen — oft ohne es zu merken. Die Unsichtbarkeit entsteht durch hundert kleine Momente: Dein Name fällt nicht bei Familienfeiern, du bist nicht in der Eltern-WhatsApp-Gruppe, beim Arzt zählst du rechtlich nicht. Je länger du das akzeptierst, desto normaler wird es — für alle.
+
+### Was kann ich tun, wenn mich in der Patchworkfamilie niemand sieht?
+Fünf konkrete Schritte helfen: Hör auf, Dinge zu tun nur damit du gesehen wirst. Stell dich aktiv vor statt im Hintergrund zu bleiben. Schaffe eigene Rituale, die es ohne dich nicht gäbe. Bau dir Räume, die nur dir gehören. Und wenn dein Partner dich trotz allem nicht sichtbar macht — stell dir die ehrliche Frage, ob er dich in seiner Familie will oder nur neben ihr.
+
+### Ist es normal, dass mein Partner nicht merkt, dass ich mich unsichtbar fühle?
+Ja, das ist häufig. Nicht weil er es nicht will, sondern weil dein Funktionieren für ihn Alltag geworden ist. Er wird es nicht von alleine ändern. Die Veränderung beginnt damit, dass du aufhörst, dich kleiner zu machen — und klar sagst, was du brauchst.
+
+FAQ_END -->
