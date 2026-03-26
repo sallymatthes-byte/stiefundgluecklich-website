@@ -4,8 +4,8 @@ description: "Wenn es eine Mini-Wife in Patchworkfamilien gibt, fühlst du dich 
 category: "kinder-bindung"
 date: 2025-05-16
 updated: 2026-03-07
-metaTitle: "Mini-Wife-Syndrom: 7 Anzeichen, dass seine Tochter deine Rolle übernimmt"
-metaDescription: "Seine Tochter bestimmt alles, schmust ständig — und du fühlst dich wie die Dritte? 7 klare Anzeichen für Mini-Wife & was du als Bonusmama tun kannst."
+metaTitle: "Mini-Wife-Syndrom: Wenn seine Tochter deinen Platz einnimmt"
+metaDescription: "Seine Tochter bestimmt alles, schmust ständig — und du fühlst dich wie die Dritte? Was wirklich hinter dem Mini-Wife-Syndrom steckt und was du tun kannst."
 heroImage: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 image: "/images/blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen-1.jpg"
 imageAlt: "Mini-Wife in Patchworkfamilien"
