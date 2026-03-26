@@ -79,3 +79,21 @@ Am liebsten bin ich einfach Sally — ich selbst. Für die Kinder meines Partner
 Wichtig sind Offenheit und klare Absprachen. Jeder muss seinen Platz in der Patchworkfamilie finden. Geduld und echte Verbindung sind der Schlüssel zu einer gelingenden [Beziehung](/blog/zwischen-partnerschaft-und-bonusmama/).
 
 Wichtig ist am Ende nicht der Begriff — sondern dass du deinen eigenen Weg in dieser Rolle findest.
+
+<!-- FAQ_START
+
+## Häufige Fragen
+
+### Was ist eine Bonusmama?
+Eine Bonusmama ist eine Frau, die mit einem Partner zusammenlebt, der Kinder aus einer früheren Beziehung hat. Der Begriff betont das Positive: Du bist ein Bonus für die Familie, eine zusätzliche Bezugsperson — kein Ersatz für die leibliche Mutter.
+
+### Was ist der Unterschied zwischen Stiefmutter und Bonusmama?
+Rechtlich und faktisch gibt es keinen Unterschied — beide Begriffe beschreiben dieselbe Rolle. „Stiefmutter" ist der historische Begriff, der durch Märchen negativ belastet ist. „Bonusmama" ist die moderne, positive Alternative, die betont, dass du ein Gewinn für die Familie bist.
+
+### Woher kommt der Begriff Stiefmutter?
+Das Wort „Stief" stammt aus dem Germanischen und bedeutet „beraubt". Es entstand in einer Zeit, in der Kinder durch den Tod eines Elternteils einen neuen Elternteil bekamen — einen Ersatz. Dieses Bild der „Ersatzperson" hat den Begriff bis heute negativ geprägt, verstärkt durch Märchen wie Schneewittchen und Aschenputtel.
+
+### Wie nenne ich mich als Partnerin eines Vaters mit Kindern?
+Das ist ganz dir überlassen. Ob Stiefmutter, Bonusmama, belle-mère oder einfach dein Vorname — wichtig ist, dass sich der Begriff für dich richtig anfühlt. Viele Bonusmamas entscheiden sich bewusst gegen „Mama" im Titel, weil sie keine Mutterrolle einnehmen wollen.
+
+FAQ_END -->
