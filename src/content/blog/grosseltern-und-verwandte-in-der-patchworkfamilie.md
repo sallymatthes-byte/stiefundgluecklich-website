@@ -6,8 +6,8 @@ date: 2026-03-10
 updated: 2026-03-10
 metaTitle: "Großeltern in der Patchworkfamilie: So navigierst du die erweiterte Familie"
 metaDescription: "Großeltern, Tanten, Verwandte in der Patchworkfamilie — als Bonusmama zwischen Ablehnung und Erwartungen. Erfahre, wie du Grenzen setzt und deinen Platz findest."
-heroImage: "/images/blog/großeltern-und-verwandte-in-der-patchworkfamilie-1.jpg"
-image: "/images/blog/großeltern-und-verwandte-in-der-patchworkfamilie-1.jpg"
+heroImage: "/images/blog/grosseltern-und-verwandte-in-der-patchworkfamilie-1.jpg"
+image: "/images/blog/grosseltern-und-verwandte-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Große Familienfeier im Garten, eine Frau steht etwas abseits und beobachtet die Gruppe, warmes Sommerlicht"
 youtubeId: "V-Sx8bLsGgg"
 buzzsproutId: 18809780
@@ -29,7 +29,7 @@ Laut einer Studie des Bundesinstituts für Bevölkerungsforschung (2023) bericht
 
 ---
 
-![Frau sitzt nachdenklich am Rand einer Familienfeier, während andere sich unterhalten](/images/blog/großeltern-und-verwandte-in-der-patchworkfamilie-2.jpg)
+![Frau sitzt nachdenklich am Rand einer Familienfeier, während andere sich unterhalten](/images/blog/grosseltern-und-verwandte-in-der-patchworkfamilie-2.jpg)
 
 ## Welchen Einfluss die erweiterte Familie wirklich hat
 
@@ -72,7 +72,7 @@ Was du tun kannst:
 
 ---
 
-![Grossmutter spielt liebevoll mit Enkeln verschiedenen Alters im Wohnzimmer](/images/blog/großeltern-und-verwandte-in-der-patchworkfamilie-3.jpg)
+![Grossmutter spielt liebevoll mit Enkeln verschiedenen Alters im Wohnzimmer](/images/blog/grosseltern-und-verwandte-in-der-patchworkfamilie-3.jpg)
 
 ## Grenzen setzen, ohne Familienkonflikte zu schüren
 
