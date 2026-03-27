@@ -3,6 +3,7 @@ title: "Pubertät in der Patchworkfamilie: Warum im Gehirn die Lichter ausgehen"
 description: "Dein Teenager hört nicht mehr zu? Pubertätsexpertin Kira Liebmann erklärt, was im Gehirn passiert — und warum Bonusmamas eine besondere Rolle haben."
 category: "kinder-bindung"
 date: 2026-05-02
+publishDate: 2026-05-02
 metaTitle: "Pubertät in der Patchworkfamilie: Was im Gehirn passiert"
 metaDescription: "Dein Teenager hört nicht mehr zu? Pubertätsexpertin Kira Liebmann erklärt, was im Gehirn passiert — und warum Bonusmamas eine besondere Rolle haben."
 heroImage: "/images/blog/pubertaet-teenager-patchworkfamilie-1.jpg"

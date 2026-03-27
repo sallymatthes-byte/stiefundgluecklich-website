@@ -3,6 +3,7 @@ title: "Zugehörigkeit als Bonusmama: Warum du längst dazugehörst"
 description: "Du fühlst dich als Bonusmama nicht zugehörig? Warum dieser Glaubenssatz nicht stimmt — und was du tun kannst, um das zu ändern."
 category: "rolle-identitaet"
 date: 2026-06-19
+publishDate: 2026-06-19
 metaTitle: "Zugehörigkeit als Bonusmama: Warum du längst dazugehörst"
 metaDescription: "Du fühlst dich als Bonusmama nicht zugehörig? Warum dieser Glaubenssatz nicht stimmt — und was du tun kannst, um das zu ändern."
 heroImage: "/images/blog/zugehoerigkeit-bonusmama-mythos-1.jpg"
