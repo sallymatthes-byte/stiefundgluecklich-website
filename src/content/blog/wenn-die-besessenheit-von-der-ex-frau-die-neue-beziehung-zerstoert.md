@@ -4,8 +4,8 @@ description: "Macht die Ex-Frau deine neue Beziehung kaputt? Erfahre, wie du die
 category: "ex-und-system"
 date: 2024-04-26
 updated: 2026-03-10
-metaTitle: "Ex-Frau loslassen: Wenn seine Vergangenheit eure Beziehung bestimmt"
-metaDescription: "Du denkst ständig an die Ex deines Partners? Warum das passiert, was dahintersteckt — und 3 konkrete Schritte, wie du dich daraus befreist."
+metaTitle: "Ex-Frau macht neue Beziehung kaputt? So befreist du dich als Bonusmama"
+metaDescription: "Seine Ex-Frau belastet eure neue Beziehung? Warum sie so viel Macht hat, was dahintersteckt — und wie du den Schatten der Vergangenheit endlich loslässt."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"
