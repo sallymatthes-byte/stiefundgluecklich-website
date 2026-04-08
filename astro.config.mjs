@@ -11,5 +11,12 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  integrations: [sitemap()]
+  integrations: [
+    sitemap({
+      filter: (page) => ![
+        'https://stiefundgluecklich.de/gone/',
+        'https://stiefundgluecklich.de/tiktok-demo/'
+      ].includes(page)
+    })
+  ]
 });
