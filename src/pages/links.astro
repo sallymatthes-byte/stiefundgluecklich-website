@@ -6,12 +6,11 @@ import Layout from '../layouts/Layout.astro'
   title="Links — StiefundGlücklich"
   description="Alle wichtigen Links von Sally Matthes — Coach für Bonusmamas in Patchworkfamilien."
   canonical="https://stiefundgluecklich.de/links/"
+  noHeader={true}
 >
   <section class="min-h-screen bg-secondary py-10 md:py-14">
     <div class="mx-auto px-5 max-w-[480px]">
-      
-      <!-- Profile -->
-      <div class="text-center mb-6">
+      <div class="text-center mb-8">
         <img 
           src="/images/sally-biolink.jpg" 
           alt="Sally Matthes — Coach für Bonusmamas" 
@@ -22,104 +21,53 @@ import Layout from '../layouts/Layout.astro'
         <p class="text-sm text-muted-foreground">Sally Matthes · Bonusmama & systemischer Coach</p>
       </div>
 
-      <!-- Bio Text -->
-      <div class="text-center mb-2">
-        <p class="text-sm md:text-base text-foreground/80 leading-relaxed mb-3">
-          Du gibst als Bonusmama alles — aber fragst dich, ob eigentlich noch 
-          Platz für dich ist. Ich zeige dir, wie du dir deinen Platz zurückholst.
-        </p>
-        <p class="text-xs md:text-sm text-muted-foreground">
-          4 Fragen, 2 Minuten. Danach weißt du, welcher Weg zu deiner Situation passt.
+      <div class="text-center mb-8">
+        <h2 class="font-serif text-xl md:text-2xl leading-tight text-foreground mb-4">
+          Du strengst dich an, reflektierst dich, gibst dein Bestes und trotzdem hängt ihr immer wieder an derselben Stelle fest?
+        </h2>
+        <p class="text-sm md:text-base text-muted-foreground leading-relaxed">
+          Hier findest du raus, welches Muster in dir und eurer Paarbeziehung gerade wirklich wirkt, damit du nicht länger im Nebel stochern musst.
         </p>
       </div>
 
-      <!-- Primary CTA -->
-      <div class="my-6">
-        <a href="/quiz" 
+      <div class="mb-6">
+        <a href="/bonusmama-check" 
           class="block w-full bg-primary hover:bg-primary/90 text-primary-foreground text-center px-6 py-3.5 md:py-4 rounded-full font-semibold transition-colors text-base">
-          Finde deinen nächsten Schritt
+          Ja, ich will wissen, woran es liegt
         </a>
       </div>
 
-      <!-- Podcast Section -->
-      <div class="text-center mb-4 mt-8">
-        <p class="text-sm md:text-base text-foreground/80 mb-1">
-          🔊 Noch nicht sicher? Hör dir erst den Podcast an.
+      <div class="text-center mb-5">
+        <p class="text-sm md:text-base text-muted-foreground">
+          Lieber erstmal hören statt direkt starten?
         </p>
-        <p class="text-xs md:text-sm text-muted-foreground mb-1">
-          Über 700 Bonusmamas hören jede Woche „Bonusgeflüster".
+      </div>
+
+      <div class="mb-8">
+        <a 
+          href="https://open.spotify.com/episode/6BKfFvylBRAbkptxvqshX6?si=I7jYgTXpTKqtAgOvOFXr0A" 
+          target="_blank"
+          rel="noopener noreferrer"
+          class="block w-full border border-primary text-primary hover:bg-primary/5 text-center px-6 py-3.5 md:py-4 rounded-full font-semibold transition-colors text-base"
+        >
+          Dann hör hier in den Podcast
+        </a>
+      </div>
+
+      <div class="text-center">
+        <p class="text-sm text-muted-foreground mb-2">
+          Über 800 Bonusmamas hören jede Woche <span class="text-foreground font-medium">Bonusgeflüster</span>.
         </p>
-        <p class="text-xs md:text-sm text-muted-foreground mb-1">
-          Das ist ihre Lieblingsepisode:
-        </p>
-        <p class="text-sm font-medium text-foreground mt-2 mb-4">
+        <p class="text-sm text-muted-foreground mb-1">Das ist ihre Lieblingsepisode:</p>
+        <a 
+          href="https://open.spotify.com/episode/6BKfFvylBRAbkptxvqshX6?si=I7jYgTXpTKqtAgOvOFXr0A"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-sm font-medium text-foreground hover:text-primary transition-colors underline underline-offset-2"
+        >
           „Sind Ex-Partner wirklich Teil der Patchworkfamilie?"
-        </p>
-      </div>
-
-      <!-- Spotify Embed -->
-      <div class="mb-8">
-        <iframe 
-          style="border-radius:12px" 
-          src="https://open.spotify.com/embed/episode/6BKfFvylBRAbkptxvqshX6?utm_source=generator&theme=0" 
-          width="100%" 
-          height="152" 
-          frameBorder="0" 
-          allowfullscreen="" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-        </iframe>
-      </div>
-
-      <!-- Testimonials -->
-      <div class="mb-8">
-        <p class="text-base md:text-lg font-semibold text-foreground text-center mb-5">
-          Was meine Kundinnen sagen:
-        </p>
-        
-        <div class="space-y-3">
-          <div class="bg-background rounded-xl p-4 md:p-5">
-            <p class="text-sm text-foreground/80 italic leading-relaxed">
-              „Durch unsere Sitzung heute ist es wirklich klarer geworden. Ich fühle mich 
-              nicht mehr so ausgeliefert — sondern habe wieder etwas in der Hand."
-            </p>
-            <p class="text-sm text-foreground font-medium mt-2">— Sarah</p>
-          </div>
-          
-          <div class="bg-background rounded-xl p-4 md:p-5">
-            <p class="text-sm text-foreground/80 italic leading-relaxed">
-              „Das Coaching mit dir war Wahnsinn. Mir ist klar geworden, warum ich immer 
-              diesen Stress im Beziehungsdreieck empfinde. Ich habe jetzt richtig Lust auf die Zukunft."
-            </p>
-            <p class="text-sm text-foreground font-medium mt-2">— Mia</p>
-          </div>
-          
-          <div class="bg-background rounded-xl p-4 md:p-5">
-            <p class="text-sm text-foreground/80 italic leading-relaxed">
-              „Durch das Coaching mit dir hat sich mein Gefühl geändert. Ich bin jetzt bereit 
-              für Urlaub und weiß, ich kann das in Zukunft immer angehen. Es ist, als hätte sich 
-              ein Knoten gelöst."
-            </p>
-            <p class="text-sm text-foreground font-medium mt-2">— Julia</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Secondary CTA -->
-      <div class="mb-8">
-        <a href="/quiz" 
-          class="block w-full bg-primary hover:bg-primary/90 text-primary-foreground text-center px-6 py-3.5 md:py-4 rounded-full font-semibold transition-colors text-base">
-          Finde deinen nächsten Schritt
         </a>
       </div>
-
-      <!-- Footer -->
-      <div class="text-center pt-4 border-t border-border/30">
-        <p class="text-xs text-muted-foreground">
-          <a href="/" class="hover:text-foreground transition-colors">stiefundgluecklich.de</a>
-        </p>
-      </div>
-
     </div>
   </section>
 </Layout>
