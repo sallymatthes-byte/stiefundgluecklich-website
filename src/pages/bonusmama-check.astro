@@ -2,14 +2,14 @@
 import Layout from '../layouts/Layout.astro'
 ---
 
-<Layout title="Bonusmama-Check — Welcher Fehler sabotiert deine Patchwork-Beziehung?" description="Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung als Bonusmama belastet — und was du konkret ändern kannst." canonical="https://stiefundgluecklich.de/bonusmama-check/" ogImage="/images/og-bonusmama-check.jpg" noHeader={true}>
+<Layout title="Break the Cycle — Welcher unsichtbare Fehler sabotiert deine Patchwork-Beziehung?" description="In 3 Minuten findest du heraus, welches Muster sich unbemerkt eingeschlichen hat, warum sich in deiner Beziehung immer wieder dieselben Konflikte drehen und was du tun kannst, um diesen Kreislauf zu durchbrechen." canonical="https://stiefundgluecklich.de/bonusmama-check/" ogImage="/images/og-bonusmama-check.jpg" noHeader={true}>
 
   <!-- Structured Data -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    "name": "Bonusmama-Check",
-    "description": "Interaktiver Selbsttest für Bonusmamas: Finde in 3 Minuten heraus, welches unsichtbare Muster deine Beziehung belastet.",
+    "name": "Break the Cycle",
+    "description": "Interaktive Analyse für Bonusmamas: Finde in 3 Minuten heraus, welches Muster sich unbemerkt eingeschlichen hat und wie du den Kreislauf durchbrechen kannst.",
     "url": "https://stiefundgluecklich.de/bonusmama-check/",
     "applicationCategory": "HealthApplication",
     "operatingSystem": "Web",
@@ -44,7 +44,7 @@ import Layout from '../layouts/Layout.astro'
 
         <!-- ===================== WELCOME ===================== -->
         <div id="step-welcome" class="check-step animate-fade-in">
-          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Der Bonusmama-Check</p>
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Break the Cycle</p>
           <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">
             Welcher unsichtbare Fehler sabotiert<br />
             <span class="text-gold">deine Patchwork-Beziehung?</span>
@@ -56,10 +56,10 @@ import Layout from '../layouts/Layout.astro'
             Du gibst jeden Tag alles für eine Familie, die du nicht von Anfang an mitgestaltet hast. Aber irgendetwas dreht sich im Kreis — und du weißt nicht genau, was.
           </p>
           <p class="text-muted-foreground mb-10">
-            Dieser Check zeigt dir, welches Muster sich unbemerkt eingeschlichen hat — und was du konkret tun kannst, um es zu durchbrechen.
+            In 3 Minuten findest du heraus, welches Muster sich unbemerkt eingeschlichen hat, warum sich in deiner Beziehung immer wieder dieselben Konflikte drehen und was du tun kannst, um diesen Kreislauf zu durchbrechen.
           </p>
           <button onclick="startCheck()" class="bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
-            Jetzt herausfinden →
+            Break the Cycle starten →
           </button>
           <p class="text-xs text-muted-foreground mt-6">Kein Horoskop. Kein Wellness-Test. Eine ehrliche Diagnose.</p>
         </div>
@@ -129,8 +129,8 @@ import Layout from '../layouts/Layout.astro'
 
           <!-- CTA: Email -->
           <div class="bg-cream border border-border p-6 md:p-8">
-            <h3 class="text-xl md:text-2xl mb-4">Deine persönliche Auswertung — kostenlos per Mail</h3>
-            <p class="text-muted-foreground text-sm mb-6">Du bekommst deine Ergebnisse zusammengefasst + erste konkrete Schritte, die zu deinem Muster passen. In den nächsten Tagen folgen weitere Übungen und Impulse — kein Spam, nur Substanz.</p>
+            <h3 class="text-xl md:text-2xl mb-4">Willst du dein Break the Cycle Ergebnis per Mail?</h3>
+            <p class="text-muted-foreground text-sm mb-6">Ich schicke dir deine persönliche Auswertung direkt ins Postfach, plus in den nächsten Tagen weitere Impulse, die genau zu deinem Muster passen. Keine Floskeln, kein Spam, sondern konkrete Gedanken, Fragen und nächste Schritte, mit denen du den Kreislauf wirklich durchbrechen kannst.</p>
             
             <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
               <div>
@@ -146,10 +146,10 @@ import Layout from '../layouts/Layout.astro'
                   placeholder="deine@email.de" />
               </div>
               <p class="text-xs text-muted-foreground">
-                Deine Daten sind sicher. Du bekommst deine Auswertung per Mail — und kannst dich jederzeit abmelden.
+                Du bekommst dein Ergebnis per Mail und anschließend weitere passende Impulse. Wenn du merkst, dass es nicht passt, kannst du dich jederzeit mit einem Klick wieder abmelden.
               </p>
               <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
-                Auswertung erhalten →
+                Ja, schick mir mein Ergebnis
               </button>
             </form>
           </div>
@@ -183,17 +183,16 @@ import Layout from '../layouts/Layout.astro'
           <div class="text-center">
             <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Geschafft!</p>
             <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
-              Deine Auswertung ist auf dem Weg <span class="text-gold">in dein Postfach</span> ✉️
+              Dein <span class="text-gold">Break the Cycle Ergebnis</span> ist auf dem Weg zu dir.
             </h2>
             <p class="text-muted-foreground leading-relaxed mb-6">
-              Check am besten auch deinen Spam-Ordner — manchmal landen Mails dort.
+              Schau gleich in dein Postfach. Manchmal landet die erste Mail auch im Spam- oder Werbeordner.
             </p>
             <p class="text-muted-foreground leading-relaxed mb-10">
-              In den nächsten Tagen bekommst du außerdem konkrete Tipps und Übungen, die genau zu deinem Muster passen. 
-              Kein Spam, nur Substanz.
+              In den nächsten Tagen bekommst du weitere Impulse, die genau zu deinem Muster passen, damit du nicht nur verstehst, was dich gerade festhält, sondern auch, wie du beginnst, diesen Kreislauf zu durchbrechen.
             </p>
             <a href="/podcast" class="inline-block border border-primary text-primary px-8 py-4 text-base font-medium hover:bg-primary/5 transition-colors">
-              Jetzt den Bonusgeflüster-Podcast entdecken
+              In den Podcast reinhören
             </a>
           </div>
         </div>
