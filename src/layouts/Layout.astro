@@ -120,6 +120,27 @@ const fullTitle = title === 'Startseite'
         capture_pageleave: true,
         autocapture: false
       });
+
+      const params = new URLSearchParams(window.location.search);
+      const sourceFromUrl = params.get('source');
+      const storedSource = sessionStorage.getItem('stg_source');
+      const activeSource = sourceFromUrl || storedSource || 'direct';
+
+      if (sourceFromUrl) {
+        sessionStorage.setItem('stg_source', sourceFromUrl);
+      }
+
+      posthog.register_for_session({
+        source: activeSource,
+        traffic_source: activeSource
+      });
+
+      if (typeof gtag === 'function') {
+        gtag('set', 'user_properties', {
+          traffic_source: activeSource
+        });
+      }
+
       // Respect cookie opt-out
       if (localStorage.getItem('cookie-consent') === 'rejected') {
         posthog.opt_out_capturing();

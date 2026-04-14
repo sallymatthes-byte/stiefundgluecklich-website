@@ -737,7 +737,16 @@ async function submitEmail(e) {
 
   // Track
   if (typeof gtag === 'function') gtag('event', 'check_email_submitted', { event_category: 'bonusmama_check', source });
-  if (typeof posthog !== 'undefined') posthog.capture('check_email_submitted', { pattern: patternId, source });
+  if (typeof posthog !== 'undefined') {
+    posthog.identify(email, {
+      email,
+      firstname,
+      pattern: patternId,
+      intro_answer: introAnswer,
+      source
+    });
+    posthog.capture('check_email_submitted', { pattern: patternId, source, intro_answer: introAnswer });
+  }
   if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'bonusmama_check', source });
 
   showStep('step-wonder');
