@@ -619,12 +619,25 @@ function renderPattern(id) {
   document.getElementById('pattern-body').innerHTML = p.body;
 }
 
+function getTrafficSource() {
+  const params = new URLSearchParams(window.location.search);
+  const sourceFromUrl = params.get('source');
+
+  if (sourceFromUrl) {
+    sessionStorage.setItem('bonusmama_check_source', sourceFromUrl);
+    return sourceFromUrl;
+  }
+
+  return sessionStorage.getItem('bonusmama_check_source') || 'direct';
+}
+
 // === FLOW ===
 function startCheck() {
   showStep('step-intro');
+  const source = getTrafficSource();
   // Track start
-  if (typeof gtag === 'function') gtag('event', 'check_started', { event_category: 'bonusmama_check' });
-  if (typeof posthog !== 'undefined') posthog.capture('check_started');
+  if (typeof gtag === 'function') gtag('event', 'check_started', { event_category: 'bonusmama_check', source });
+  if (typeof posthog !== 'undefined') posthog.capture('check_started', { source });
 }
 
 function answerIntro(value) {
@@ -655,6 +668,7 @@ function rate(value) {
   } else {
     // Done — show results
     const results = calculateResults();
+    const source = getTrafficSource();
     document.getElementById('progress-bar').classList.add('hidden');
     showStep('step-result');
     
@@ -669,12 +683,14 @@ function rate(value) {
     if (typeof gtag === 'function') gtag('event', 'check_completed', { 
       event_category: 'bonusmama_check',
       event_label: 'pattern_' + results.patternId,
-      value: results.totalPct
+      value: results.totalPct,
+      source
     });
     if (typeof posthog !== 'undefined') posthog.capture('check_completed', { 
       pattern: results.patternId, 
       total_pct: results.totalPct,
-      intro_answer: introAnswer
+      intro_answer: introAnswer,
+      source
     });
   }
 }
@@ -688,6 +704,7 @@ async function submitEmail(e) {
 
   const firstname = document.getElementById('firstname').value;
   const email = document.getElementById('email').value;
+  const source = getTrafficSource();
 
   // Build area scores for AC
   const results = calculateResults();
@@ -707,6 +724,7 @@ async function submitEmail(e) {
         totalPct: results.totalPct,
         areaScores: areaData,
         introAnswer,
+        source,
       })
     });
 
@@ -718,9 +736,9 @@ async function submitEmail(e) {
   }
 
   // Track
-  if (typeof gtag === 'function') gtag('event', 'check_email_submitted', { event_category: 'bonusmama_check' });
-  if (typeof posthog !== 'undefined') posthog.capture('check_email_submitted', { pattern: patternId });
-  if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'bonusmama_check' });
+  if (typeof gtag === 'function') gtag('event', 'check_email_submitted', { event_category: 'bonusmama_check', source });
+  if (typeof posthog !== 'undefined') posthog.capture('check_email_submitted', { pattern: patternId, source });
+  if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'bonusmama_check', source });
 
   showStep('step-wonder');
 }
@@ -728,6 +746,7 @@ async function submitEmail(e) {
 async function submitWonder() {
   const answer = document.getElementById('wonder-answer').value.trim();
   if (!answer) { skipWonder(); return; }
+  const source = getTrafficSource();
 
   const btn = document.getElementById('wonder-btn');
   btn.textContent = 'Wird gesendet...';
@@ -745,13 +764,14 @@ async function submitWonder() {
     console.error('Wonder submission error:', err);
   }
 
-  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_answered');
+  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_answered', { source });
 
   showStep('step-thanks');
 }
 
 function skipWonder() {
-  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_skipped');
+  const source = getTrafficSource();
+  if (typeof posthog !== 'undefined') posthog.capture('check_wonder_skipped', { source });
   showStep('step-thanks');
 }
 </script>

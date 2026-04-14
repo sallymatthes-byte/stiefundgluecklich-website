@@ -27,7 +27,7 @@ export async function onRequestPost(context) {
   };
 
   try {
-    const { firstname, email, pattern, totalPct, areaScores, introAnswer } = await request.json();
+    const { firstname, email, pattern, totalPct, areaScores, introAnswer, source } = await request.json();
 
     if (!email || !firstname) {
       return new Response(JSON.stringify({ error: 'Missing fields' }), { status: 400, headers: corsHeaders });
@@ -82,6 +82,28 @@ export async function onRequestPost(context) {
     const durationTag = KNOWN_TAGS['scorecard-dauer-' + introAnswer];
     if (durationTag) {
       tagIdsToAdd.push(durationTag);
+    }
+
+    // Source tag for first-touch attribution (simple version)
+    if (source) {
+      const sourceTag = 'scorecard-source-' + source;
+      try {
+        const searchRes = await fetch(`${AC_URL}/api/3/tags?search=${encodeURIComponent(sourceTag)}&limit=100`, { headers });
+        const searchData = await searchRes.json();
+        const exact = (searchData?.tags || []).find(t => t.tag === sourceTag);
+        if (exact) {
+          tagIdsToAdd.push(exact.id);
+        } else {
+          const createRes = await fetch(`${AC_URL}/api/3/tags`, {
+            method: 'POST', headers,
+            body: JSON.stringify({ tag: { tag: sourceTag, tagType: 'contact' } })
+          });
+          const createData = await createRes.json();
+          if (createData?.tag?.id) tagIdsToAdd.push(createData.tag.id);
+        }
+      } catch (e) {
+        console.error('Source-tag error:', sourceTag, e);
+      }
     }
 
     // Area-specific tags for weak areas (≤45%) — these may need creation
