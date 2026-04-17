@@ -16,7 +16,7 @@ youtubeId: "6YI11PnE9WM"
 buzzsproutId: 18809753
 ---
 
-**Einmischen oder loslassen — das ist die Frage, die Bonusmamas am häufigsten stellen.** Dein Partner streitet mit seinem Kind. Die Stimmen werden lauter. In dir zieht sich alles zusammen. Du willst helfen, vermitteln, die Situation entschärfen. Aber gleichzeitig weißt du: Wenn du dich einmischst, kann es nach hinten losgehen. In meiner Arbeit als systemischer Coach höre ich dieses Dilemma in fast jedem Erstgespräch — und es gehört zu den belastendsten Alltagssituationen in Patchworkfamilien.
+**Einmischen oder loslassen — das ist die Frage, die Bonusmamas am häufigsten stellen.** Dein Partner streitet mit seinem Kind. Die Stimmen werden lauter. In dir zieht sich alles zusammen. Du willst helfen, vermitteln, die Situation entschärfen. Aber gleichzeitig weißt du: Wenn du dich einmischst, kann es nach hinten losgehen. In meiner Arbeit mit Bonusmamas höre ich dieses Dilemma immer wieder — und es gehört zu den belastendsten Alltagssituationen in Patchworkfamilien.
 
 > „Ich stehe da und schaue zu, wie mein Partner und sein Kind aneinandergeraten. Und ich frage mich jedes Mal: Bin ich hier gefragt? Oder mache ich es schlimmer?" — Sally Matthes, Coach für Bonusmamas
 

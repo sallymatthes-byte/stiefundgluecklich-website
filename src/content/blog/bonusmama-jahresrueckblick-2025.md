@@ -55,7 +55,7 @@ Und dann die Frage, die mich 2025 besonders beschäftigt hat: **Wie viel von mir
 
 ### Was Persönlichkeitsentwicklung im Patchwork wirklich bedeutet
 
-Persönlichkeitsentwicklung als Bonusmama ist kein Instagram-Reel mit Journaling und Matcha Latte. Es ist: um drei Uhr nachts wach liegen und sich fragen, ob du *zu viel* fühlst. Es ist: eine Grenze setzen und dann drei Tage lang Angst haben, dass alle dich dafür hassen. Es ist: in einem [Coaching-Gespräch](/blog/coaching-als-bonusmama/) plötzlich über etwas weinen, von dem du nicht mal wusstest, dass es da ist.
+Persönlichkeitsentwicklung als Bonusmama ist kein Instagram-Reel mit Journaling und Matcha Latte. Es ist: um drei Uhr nachts wach liegen und sich fragen, ob du *zu viel* fühlst. Es ist: eine Grenze setzen und dann drei Tage lang Angst haben, dass alle dich dafür hassen. Es ist: im [Break the Cycle Check](/bonusmama-check?source=website_internal) plötzlich zu sehen, welches Muster dich schon viel länger festhält, als du dachtest.
 
 2025 habe ich verstanden: **Wachstum passiert nicht in den Momenten, in denen du dich stark fühlst. Es passiert in den Momenten, in denen du es trotzdem tust — obwohl du dich klein fühlst.**
 

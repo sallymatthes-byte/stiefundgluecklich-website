@@ -21,11 +21,11 @@ buzzsproutId: 18809788
 
 ---
 
-Als Coach für Bonusmamas in [Patchworkfamilien](/blog/patchworkfamilie/) werde ich immer wieder gefragt, weshalb ich mein Angebot nicht auch für Stiefväter ausweite.
+In meiner Arbeit mit Bonusmamas in [Patchworkfamilien](/blog/patchworkfamilie/) werde ich immer wieder gefragt, weshalb mein Fokus so klar auf Bonusmamas liegt und nicht ebenso auf Stiefvätern.
 Wenn wir in die Literatur schauen, gibt es jetzt schon mehr Ratgeber für [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s als für Bonuspapas. Und den Ausdruck des „bösen Stiefvaters" gibt es erst recht nicht.
 Genauso wenig wie die Aussage etwas „stiefväterlich" zu behandeln. Stiefmütterlich ist jedoch eine weit verbreite Beschreibung, wenn es darum geht, etwas zu vernachlässigen.
 Komisch und das, obwohl in [47 % der Patchworkfamilien Stiefväter leben, aber nur 27 % Stiefmütter](https://www.tagesspiegel.de/berlin/bei-stiefvatern-reicht-es-schon-dass-sie-die-kinder-nicht-auffressen-wie-ein-lowe-4202164.html). (das liegt einfach daran, dass in den meisten Familien das Kind weiterhin bei der Mutter lebt.)
-Zurück zur Frage, weshalb meine Angebote für Bonusmamas sind.
+Zurück zur Frage, weshalb meine Arbeit sich an Bonusmamas richtet.
 Nun, zum einen bin ich selbst eine Frau und glaube mich besser mit Frauen verbinden zu können. Und zum anderen glaube ich, dass es Stiefväter generell etwas leichter haben.
 
 ![Unterschiedliche Rollenerwartungen an Stiefmütter und Stiefväter in Patchworkfamilien](/images/blog/stiefvaeter-vs-stiefmuetter-wer-hat-es-leichter-2.jpg)
@@ -65,11 +65,11 @@ Dabei geraten sie nicht selten in Konkurrenz zum leiblichen Vater, was zu Spannu
 
 ---
 
-## Warum sich meine Angebote an Bonusmamas richten
+## Warum meine Arbeit sich an Bonusmamas richtet
 
 *Der Grund dafür liegt in den unterschiedlichen gesellschaftlichen Erwartungen und dem daraus resultierenden Druck, dem sich viele Stiefmütter ausgesetzt sehen.* Wie bereits erwähnt, wird von Frauen oft erwartet, dass sie die Rolle der „perfekten Mutter" übernehmen und nahtlos in die Fußstapfen der leiblichen Mutter treten. Diese Erwartungshaltung führt dazu, dass sich viele Stiefmütter selbst enorm **unter Druck** setzen, alles richtig zu machen und von den Kindern geliebt zu werden.
 
-Sie investieren viel Zeit und Energie in die Beziehung zu ihren Stiefkindern, oft unter Vernachlässigung der eigenen Bedürfnisse. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung von den Kindern, was zu **Frustration und Selbstzweifeln** führen kann. Daher ist es mir ein besonderes Anliegen, Stiefmütter mit maßgeschneiderten Angeboten zu unterstützen und ihnen Wege aufzuzeigen, wie sie trotz der hohen Erwartungen und des Drucks eine [erfüllende Rolle in ihrer Patchworkfamilie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) finden können.
+Sie investieren viel Zeit und Energie in die Beziehung zu ihren Stiefkindern, oft unter Vernachlässigung der eigenen Bedürfnisse. Gleichzeitig erleben sie häufiger Ablehnung und Zurückweisung von den Kindern, was zu **Frustration und Selbstzweifeln** führen kann. Daher ist es mir ein besonderes Anliegen, Bonusmamas mit klarer Orientierung und echter Entlastung zu unterstützen und ihnen Wege aufzuzeigen, wie sie trotz der hohen Erwartungen und des Drucks eine [erfüllende Rolle in ihrer Patchworkfamilie](/blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/) finden können.
 
 Mehr über die Rolle als [Stiefmutter](/blog/stiefmutter/) und die Herausforderungen im [Patchwork-Alltag](/blog/patchworkfamilie/) findest du in den Überblicksartikeln.
 
@@ -77,7 +77,7 @@ Mehr über die Rolle als [Stiefmutter](/blog/stiefmutter/) und die Herausforderu
 
 ## Zusammenfassung
 
-Stiefväter und Stiefmütter stehen in Patchworkfamilien vor unterschiedlichen Herausforderungen. Während Stiefväter oft als Spielgefährten wahrgenommen werden und mehr Freiheiten genießen, lastet auf Stiefmüttern ein deutlich höherer Erwartungsdruck. Traditionelle Rollenbilder und das Klischee der „bösen Stiefmutter" verstärken diesen Druck zusätzlich. Beide kämpfen mit Vorurteilen, doch Studien zeigen, dass es in Stiefmutterfamilien häufiger zu Konflikten kommt. Genau deshalb richten sich meine Angebote gezielt an Bonusmamas, die Unterstützung auf ihrem Weg verdienen.
+Stiefväter und Stiefmütter stehen in Patchworkfamilien vor unterschiedlichen Herausforderungen. Während Stiefväter oft als Spielgefährten wahrgenommen werden und mehr Freiheiten genießen, lastet auf Stiefmüttern ein deutlich höherer Erwartungsdruck. Traditionelle Rollenbilder und das Klischee der „bösen Stiefmutter" verstärken diesen Druck zusätzlich. Beide kämpfen mit Vorurteilen, doch Studien zeigen, dass es in Stiefmutterfamilien häufiger zu Konflikten kommt. Genau deshalb richtet sich meine Arbeit gezielt an Bonusmamas, die Unterstützung auf ihrem Weg verdienen.
 
 <!-- FAQ_START
 

@@ -58,13 +58,11 @@ export async function onRequestPost(context) {
     }
 
     // 2. Add to appropriate list
-    // Quiz results → Quiz Leads list + result-specific list
-    // Warteliste → Warteliste list
-    const listsToAdd = [LISTS.quiz]; // Always add to Quiz Leads
-
-    if (result === 'warteliste') {
-      listsToAdd.push(LISTS.warteliste);
-    }
+    // Quiz results → Quiz Leads list
+    // Warteliste → Warteliste list only
+    const listsToAdd = result === 'warteliste'
+      ? [LISTS.warteliste]
+      : [LISTS.quiz];
 
     for (const listId of listsToAdd) {
       try {
