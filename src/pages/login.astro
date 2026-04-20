@@ -20,7 +20,7 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
         <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Mitgliederbereich</p>
         <h1 class="font-serif text-3xl md:text-4xl mb-4">Login</h1>
         <p class="text-base text-muted-foreground mb-8 leading-relaxed">
-          Hier läuft jetzt der Magic-Link-Login für den geschützten Mitgliederbereich. Nach dem Klick in der Mail landest du direkt wieder im richtigen Bereich.
+          Gib hier die E-Mail-Adresse ein, mit der dein Zugang freigeschaltet wurde. Danach bekommst du einen Login-Link per Mail.
         </p>
 
         {signedOut && (
@@ -37,7 +37,13 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
 
         {error && (
           <div class="mb-6 border border-red-200 p-4 bg-red-50 text-sm leading-relaxed">
-            Login gerade nicht sauber möglich: {error}
+            {error === 'invalid-auth-link'
+              ? 'Der Login-Link war ungültig oder unvollständig. Wir haben den Flow gerade korrigiert, bitte fordere einfach einen neuen Link an.'
+              : error === 'missing-email'
+                ? 'Bitte gib eine E-Mail-Adresse ein.'
+                : error === 'supabase-config'
+                  ? 'Der Login ist gerade noch nicht vollständig verbunden. Bitte versuche es gleich nochmal.'
+                  : `Login gerade nicht sauber möglich: ${error}`}
           </div>
         )}
 
@@ -66,10 +72,10 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
         </form>
 
         <div class="mt-6 space-y-4 border border-dashed border-border p-5 bg-secondary/40 text-sm">
-          <p><strong>Zielpfad nach Login:</strong> <code>{nextPath}</code></p>
+          <p><strong>Wichtig:</strong> Der Login funktioniert nur für freigeschaltete Zugänge.</p>
           {!hasSupabaseConfig && (
             <p class="text-muted-foreground">
-              Noch fehlt nur die echte Supabase-Umgebungsvariable im Deployment. Der Flow selbst ist jetzt vorbereitet.
+              Der Login ist gerade noch nicht vollständig verbunden. Bitte versuche es gleich nochmal.
             </p>
           )}
         </div>

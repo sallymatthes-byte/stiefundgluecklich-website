@@ -22,6 +22,7 @@ export const POST: APIRoute = async (context) => {
     email,
     options: {
       emailRedirectTo: callbackUrl.toString(),
+      shouldCreateUser: false,
     },
   });
 
