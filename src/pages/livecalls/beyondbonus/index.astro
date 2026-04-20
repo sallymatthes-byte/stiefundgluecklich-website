@@ -1,0 +1,32 @@
+---
+export const prerender = false;
+
+import Layout from '../../../layouts/Layout.astro';
+import { getAccessSnapshot } from '../../../lib/auth/grants';
+import { loadUserGrants } from '../../../lib/auth/load-grants';
+
+const grants = await loadUserGrants(Astro);
+const access = getAccessSnapshot(grants, 'beyondbonus');
+---
+
+<Layout
+  title="BeyondBonus Livecalls"
+  canonical="https://stiefundgluecklich.de/livecalls/beyondbonus/"
+  description="Geschützter Livecall- und Aufzeichnungsbereich für BeyondBonus."
+>
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">Livecalls & Aufzeichnungen</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed">
+        Das ist der bewusst getrennte Bereich für Livecalls und Aufzeichnungen. Genau hier greift später die frühere Ablaufgrenze unabhängig vom Kurszugang.
+      </p>
+
+      <div class="border border-border p-6 bg-secondary/40 space-y-3">
+        <p class="text-sm"><strong>Geplanter Grant:</strong> Produktrecht `beyondbonus` + Bereich `livecalls`</p>
+        <p class="text-sm text-muted-foreground">Damit können Kurszugang und Livecall-Zugang separat enden, ohne Sonderlogik im Frontend zu verbiegen.</p>
+        <p class="text-sm"><strong>Aktueller DB-Stand:</strong> Livecall-Zugang {access.livecalls ? 'aktiv' : 'nicht aktiv'}</p>
+      </div>
+    </div>
+  </section>
+</Layout>

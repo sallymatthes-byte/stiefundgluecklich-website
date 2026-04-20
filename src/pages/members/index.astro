@@ -1,0 +1,53 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import { loadUserGrants } from '../../lib/auth/load-grants';
+
+const userEmail = Astro.locals.user?.email ?? 'eingeloggt';
+const grants = await loadUserGrants(Astro);
+---
+
+<Layout
+  title="Mitgliederbereich"
+  canonical="https://stiefundgluecklich.de/members/"
+  description="Geschützter Mitgliederbereich von Stief und Glücklich."
+>
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Geschützter Bereich</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">Mitgliederbereich</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed">
+        Das ist das erste geschützte Shell für den neuen Mitgliederbereich. Hier hängen wir als Nächstes Programm-Dashboard, Grants und getrennte Livecall-Rechte an.
+      </p>
+
+      <div class="border border-border p-6 bg-secondary/40 space-y-3">
+        <p class="text-sm"><strong>Session erkannt für:</strong> {userEmail}</p>
+        <p class="text-sm text-muted-foreground">Wenn du diese Seite siehst, hat die Rechteprüfung für die Route bereits gegriffen.</p>
+      </div>
+
+      <div class="border border-border p-6 mt-6 space-y-3">
+        <p class="text-sm font-medium">Aktuelle Grants aus der Datenbank</p>
+        {grants.length > 0 ? (
+          <ul class="space-y-2 text-sm text-muted-foreground">
+            {grants.map((grant) => (
+              <li>
+                {grant.productKey} · {grant.area} · {grant.status}
+                {grant.endsAt ? ` · bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="text-sm text-muted-foreground">Noch kein Grant gefunden oder Supabase ist noch nicht verbunden.</p>
+        )}
+      </div>
+
+      <form method="POST" action="/api/auth/sign-out" class="mt-6">
+        <button type="submit" class="border border-border px-4 py-2 text-sm hover:bg-secondary/40 transition-colors">
+          Logout
+        </button>
+      </form>
+      </div>
+    </div>
+  </section>
+</Layout>

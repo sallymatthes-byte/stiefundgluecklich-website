@@ -1,0 +1,79 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const nextPath = Astro.url.searchParams.get('next') || '/members';
+const sent = Astro.url.searchParams.get('sent') === '1';
+const signedOut = Astro.url.searchParams.get('signed-out') === '1';
+const email = Astro.url.searchParams.get('email');
+const error = Astro.url.searchParams.get('error');
+const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.meta.env.PUBLIC_SUPABASE_PUBLISHABLE_KEY);
+---
+
+<Layout
+  title="Login – Mitgliederbereich"
+  canonical="https://stiefundgluecklich.de/login/"
+  description="Login für den geschützten Mitgliederbereich von Stief und Glücklich."
+>
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-xl">
+      <div class="bg-background border border-border p-8 md:p-10">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Mitgliederbereich</p>
+        <h1 class="font-serif text-3xl md:text-4xl mb-4">Login</h1>
+        <p class="text-base text-muted-foreground mb-8 leading-relaxed">
+          Hier läuft jetzt der Magic-Link-Login für den geschützten Mitgliederbereich. Nach dem Klick in der Mail landest du direkt wieder im richtigen Bereich.
+        </p>
+
+        {signedOut && (
+          <div class="mb-6 border border-border p-4 bg-secondary/40 text-sm">
+            Du bist ausgeloggt.
+          </div>
+        )}
+
+        {sent && (
+          <div class="mb-6 border border-border p-4 bg-secondary/40 text-sm leading-relaxed">
+            Magic Link verschickt{email ? ` an ${email}` : ''}. Schau kurz in dein Postfach.
+          </div>
+        )}
+
+        {error && (
+          <div class="mb-6 border border-red-200 p-4 bg-red-50 text-sm leading-relaxed">
+            Login gerade nicht sauber möglich: {error}
+          </div>
+        )}
+
+        <form method="POST" action="/api/auth/sign-in" class="space-y-4">
+          <input type="hidden" name="next" value={nextPath} />
+          <label class="block">
+            <span class="block text-sm mb-2">E-Mail</span>
+            <input
+              type="email"
+              name="email"
+              required
+              autocomplete="email"
+              placeholder="deine@email.de"
+              class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary"
+              disabled={!hasSupabaseConfig}
+            />
+          </label>
+
+          <button
+            type="submit"
+            class="w-full bg-primary text-primary-foreground px-6 py-3 font-medium hover:opacity-90 transition-opacity disabled:opacity-50"
+            disabled={!hasSupabaseConfig}
+          >
+            Magic Link senden
+          </button>
+        </form>
+
+        <div class="mt-6 space-y-4 border border-dashed border-border p-5 bg-secondary/40 text-sm">
+          <p><strong>Zielpfad nach Login:</strong> <code>{nextPath}</code></p>
+          {!hasSupabaseConfig && (
+            <p class="text-muted-foreground">
+              Noch fehlt nur die echte Supabase-Umgebungsvariable im Deployment. Der Flow selbst ist jetzt vorbereitet.
+            </p>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

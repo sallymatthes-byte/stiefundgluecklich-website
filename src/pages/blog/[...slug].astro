@@ -8,8 +8,8 @@ import FAQAccordion from '../../components/FAQAccordion.astro';
 import YouTubeLink from '../../components/YouTubeLink.astro';
 import VideoObjectSchema from '../../components/VideoObjectSchema.astro';
 import PodcastEpisodeSchema from '../../components/PodcastEpisodeSchema.astro';
-import fs from 'node:fs';
-import path from 'node:path';
+
+export const prerender = true;
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -23,8 +23,7 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 
 // Extract FAQs from markdown content for schema
-const mdPath = path.join(process.cwd(), 'src/content/blog', `${post.slug}.md`);
-const mdContent = fs.existsSync(mdPath) ? fs.readFileSync(mdPath, 'utf-8') : '';
+const mdContent = post.body ?? '';
 const faqSection = mdContent.split('## Häufige Fragen')[1] || '';
 const faqMatches = [...faqSection.matchAll(/### (.+)\n([\s\S]*?)(?=\n###|\n## |$)/g)];
 const faqs = faqMatches.map(m => ({
