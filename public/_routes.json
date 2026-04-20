@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "include": [
+    "/login",
+    "/auth/*",
+    "/api/*",
+    "/members/*",
+    "/livecalls/*"
+  ],
+  "exclude": [
+    "/_astro/*",
+    "/favicon.svg"
+  ]
+}
