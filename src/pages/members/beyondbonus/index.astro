@@ -7,6 +7,22 @@ import { loadUserGrants } from '../../../lib/auth/load-grants';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
+
+if (!access.course) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const modules = [
+  'Start & Einstieg',
+  'Persönlichkeit & Rolle',
+  'Patchworkdynamiken',
+  'Kraftquellen',
+  'Bonuskinder',
+  'Partnerschaft',
+  'Kommunikationsstrategien',
+  'Ex-Partnerin',
+  'Zukunft & Ausblick',
+];
 ---
 
 <Layout
@@ -15,17 +31,30 @@ const access = getAccessSnapshot(grants, 'beyondbonus');
   description="Geschützter Kursbereich für BeyondBonus."
 >
   <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
+      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
+        ← Zurück zum Mitgliederbereich
+      </a>
+
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
       <h1 class="font-serif text-3xl md:text-4xl mb-4">Kursbereich</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed">
-        Hier liegt später der eigentliche BeyondBonus-Kurs mit Modulen, Materialien und Fortschrittslogik.
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+        Das ist der erste strukturierte Einstieg für den BeyondBonus-Kurs. Als Nächstes hängen wir hier die echten Modul-Inhalte, Materialien und Fortschrittslogik an.
       </p>
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-3">
-        <p class="text-sm"><strong>Geplanter Grant:</strong> Produktrecht `beyondbonus` + Bereich `course`</p>
-        <p class="text-sm text-muted-foreground">Der Kurszugang und der Livecall-Bereich bleiben bewusst getrennt modelliert.</p>
-        <p class="text-sm"><strong>Aktueller DB-Stand:</strong> Kurszugang {access.course ? 'aktiv' : 'nicht aktiv'}</p>
+      <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
+        <p class="text-sm"><strong>Status:</strong> Kurszugang aktiv</p>
+        <p class="text-sm text-muted-foreground">Dein Zugang für den Kursbereich ist freigeschaltet.</p>
+      </div>
+
+      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {modules.map((module, index) => (
+          <div class="border border-border p-5 bg-background space-y-3">
+            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {String(index + 1).padStart(2, '0')}</p>
+            <h2 class="font-serif text-xl">{module}</h2>
+            <p class="text-sm text-muted-foreground">Inhalte folgen im nächsten Build-Block.</p>
+          </div>
+        ))}
       </div>
     </div>
   </section>

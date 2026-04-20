@@ -7,6 +7,16 @@ import { loadUserGrants } from '../../../lib/auth/load-grants';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
+
+if (!access.livecalls) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const recordings = [
+  'Q&A Call 01',
+  'Q&A Call 02',
+  'Q&A Call 03',
+];
 ---
 
 <Layout
@@ -15,17 +25,30 @@ const access = getAccessSnapshot(grants, 'beyondbonus');
   description="Geschützter Livecall- und Aufzeichnungsbereich für BeyondBonus."
 >
   <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
+      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
+        ← Zurück zum Mitgliederbereich
+      </a>
+
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
       <h1 class="font-serif text-3xl md:text-4xl mb-4">Livecalls & Aufzeichnungen</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed">
-        Das ist der bewusst getrennte Bereich für Livecalls und Aufzeichnungen. Genau hier greift später die frühere Ablaufgrenze unabhängig vom Kurszugang.
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+        Dieser Bereich ist bewusst separat aufgebaut, damit Livecalls und Aufzeichnungen eine eigene Laufzeit haben können, unabhängig vom Kurszugang.
       </p>
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-3">
-        <p class="text-sm"><strong>Geplanter Grant:</strong> Produktrecht `beyondbonus` + Bereich `livecalls`</p>
-        <p class="text-sm text-muted-foreground">Damit können Kurszugang und Livecall-Zugang separat enden, ohne Sonderlogik im Frontend zu verbiegen.</p>
-        <p class="text-sm"><strong>Aktueller DB-Stand:</strong> Livecall-Zugang {access.livecalls ? 'aktiv' : 'nicht aktiv'}</p>
+      <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
+        <p class="text-sm"><strong>Status:</strong> Livecall-Zugang aktiv</p>
+        <p class="text-sm text-muted-foreground">Dein Zugang für Livecalls und Aufzeichnungen ist freigeschaltet.</p>
+      </div>
+
+      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {recordings.map((recording, index) => (
+          <div class="border border-border p-5 bg-background space-y-3">
+            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Aufzeichnung {String(index + 1).padStart(2, '0')}</p>
+            <h2 class="font-serif text-xl">{recording}</h2>
+            <p class="text-sm text-muted-foreground">Die echten Aufzeichnungen hängen wir im nächsten Build-Block an Cloudflare R2 an.</p>
+          </div>
+        ))}
       </div>
     </div>
   </section>

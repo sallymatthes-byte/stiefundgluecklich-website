@@ -2,10 +2,13 @@
 export const prerender = false;
 
 import Layout from '../../layouts/Layout.astro';
+import { getAccessSnapshot } from '../../lib/auth/grants';
 import { loadUserGrants } from '../../lib/auth/load-grants';
 
 const userEmail = Astro.locals.user?.email ?? 'eingeloggt';
 const grants = await loadUserGrants(Astro);
+const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
+const error = Astro.url.searchParams.get('error');
 ---
 
 <Layout
@@ -14,19 +17,65 @@ const grants = await loadUserGrants(Astro);
   description="Geschützter Mitgliederbereich von Stief und Glücklich."
 >
   <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-3xl">
+    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Geschützter Bereich</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Willkommen im Mitgliederbereich</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed">
-        Du bist erfolgreich eingeloggt. Von hier aus werden als Nächstes dein Dashboard und deine Programme sauber aufgebaut.
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Programme</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+        Hier findest du alle Inhalte, für die dein Zugang freigeschaltet ist. Kursbereich und Livecalls sind bewusst getrennt, damit Laufzeiten später sauber gesteuert werden können.
       </p>
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-3">
+      {error === 'no-access' && (
+        <div class="mb-6 border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
+          Für diesen Bereich ist aktuell kein aktiver Zugang hinterlegt.
+        </div>
+      )}
+
+      <div class="border border-border p-6 bg-secondary/40 space-y-3 mb-8">
         <p class="text-sm"><strong>Eingeloggt als:</strong> {userEmail}</p>
-        <p class="text-sm text-muted-foreground">Dein Zugang wurde erkannt und deine Freigaben wurden geladen.</p>
+        <p class="text-sm text-muted-foreground">Deine Freigaben wurden geladen und im Mitgliederbereich zugeordnet.</p>
       </div>
 
-      <div class="border border-border p-6 mt-6 space-y-3">
+      <div class="grid gap-6 md:grid-cols-2">
+        <div class="border border-border p-6 bg-background space-y-4">
+          <div>
+            <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
+            <h2 class="font-serif text-2xl">Kursbereich</h2>
+          </div>
+          <p class="text-sm text-muted-foreground leading-relaxed">
+            Module, Materialien und Workbook-Bereich für BeyondBonus.
+          </p>
+          <p class="text-sm">
+            <strong>Status:</strong> {beyondBonus.course ? 'aktiv' : 'nicht freigeschaltet'}
+          </p>
+          <a
+            href="/members/beyondbonus"
+            class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+          >
+            Kurs öffnen
+          </a>
+        </div>
+
+        <div class="border border-border p-6 bg-background space-y-4">
+          <div>
+            <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
+            <h2 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h2>
+          </div>
+          <p class="text-sm text-muted-foreground leading-relaxed">
+            Separater Bereich für Livecalls und Aufzeichnungen mit eigener Laufzeitlogik.
+          </p>
+          <p class="text-sm">
+            <strong>Status:</strong> {beyondBonus.livecalls ? 'aktiv' : 'nicht freigeschaltet'}
+          </p>
+          <a
+            href="/livecalls/beyondbonus"
+            class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+          >
+            Livecalls öffnen
+          </a>
+        </div>
+      </div>
+
+      <div class="border border-border p-6 mt-8 space-y-3">
         <p class="text-sm font-medium">Aktive Freigaben</p>
         {grants.length > 0 ? (
           <ul class="space-y-2 text-sm text-muted-foreground">
@@ -38,7 +87,7 @@ const grants = await loadUserGrants(Astro);
             ))}
           </ul>
         ) : (
-          <p class="text-sm text-muted-foreground">Noch kein Grant gefunden oder Supabase ist noch nicht verbunden.</p>
+          <p class="text-sm text-muted-foreground">Noch kein aktiver Zugang hinterlegt.</p>
         )}
       </div>
 
@@ -47,7 +96,6 @@ const grants = await loadUserGrants(Astro);
           Logout
         </button>
       </form>
-      </div>
     </div>
   </section>
 </Layout>
