@@ -1,0 +1,37 @@
+---
+export const prerender = false;
+
+import Layout from '../../../layouts/Layout.astro';
+import { getAccessSnapshot } from '../../../lib/auth/grants';
+import { loadUserGrants } from '../../../lib/auth/load-grants';
+import { workbookInfo } from '../../../lib/beyondbonus/content';
+
+const grants = await loadUserGrants(Astro);
+const access = getAccessSnapshot(grants, 'beyondbonus');
+
+if (!access.course) {
+  return Astro.redirect('/members?error=no-access');
+}
+---
+
+<Layout
+  title="BeyondBonus Workbook"
+  canonical="https://stiefundgluecklich.de/members/beyondbonus/workbook/"
+  description="Zentrales Workbook für BeyondBonus."
+>
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-4xl">
+      <a href="/members/beyondbonus" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
+        ← Zurück zum Kursbereich
+      </a>
+
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">{workbookInfo.title}</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">{workbookInfo.description}</p>
+
+      <div class="border border-border p-6 bg-secondary/40 space-y-3">
+        <p class="text-sm text-muted-foreground">Das Workbook wird als eine zentrale Ressource für das gesamte Programm eingebunden. Sobald die finale Fassung steht, hängt sie genau hier.</p>
+      </div>
+    </div>
+  </section>
+</Layout>

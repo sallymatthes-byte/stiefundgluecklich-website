@@ -38,14 +38,52 @@ if (!access.course) {
 
       <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {beyondBonusModules.map((module) => (
-          <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-5 bg-background space-y-3 hover:border-primary transition-colors block">
-            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
-            <h2 class="font-serif text-xl">{module.title}</h2>
+          <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-5 bg-background space-y-4 hover:border-primary transition-colors block" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
+            <div>
+              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
+              <h2 class="font-serif text-xl mt-2">{module.title}</h2>
+            </div>
             <p class="text-sm text-muted-foreground">{module.shortDescription}</p>
+            <div class="space-y-2">
+              <div class="h-2 bg-secondary overflow-hidden">
+                <div class="h-full bg-primary w-0 transition-all" data-progress-bar></div>
+              </div>
+              <p class="text-xs text-muted-foreground" data-progress-label>0 von {module.lessons.length} Lektionen abgeschlossen</p>
+            </div>
             <p class="text-xs text-primary">Modul öffnen →</p>
           </a>
         ))}
+
+        <a href="/members/beyondbonus/workbook" class="border border-border p-5 bg-background space-y-4 hover:border-primary transition-colors block md:col-span-2 lg:col-span-3">
+          <div>
+            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Workbook</p>
+            <h2 class="font-serif text-2xl mt-2">Zentrales BeyondBonus Workbook</h2>
+          </div>
+          <p class="text-sm text-muted-foreground">Ein zentrales Workbook für das gesamte Programm, statt einzelner Downloads pro Modul. Die finale Fassung hängen wir im nächsten Schritt an.</p>
+          <p class="text-xs text-primary">Workbook öffnen →</p>
+        </a>
       </div>
++
++      <script is:inline>
++        const readProgress = () => {
++          try {
++            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
++          } catch {
++            return {};
++          }
++        };
++
++        const progress = readProgress();
++        document.querySelectorAll('[data-module-card]').forEach((card) => {
++          const keys = (card.getAttribute('data-lesson-keys') || '').split('|').filter(Boolean);
++          const done = keys.filter((key) => progress[key]).length;
++          const percent = keys.length ? Math.round((done / keys.length) * 100) : 0;
++          const bar = card.querySelector('[data-progress-bar]');
++          const label = card.querySelector('[data-progress-label]');
++          if (bar) bar.style.width = `${percent}%`;
++          if (label) label.textContent = `${done} von ${keys.length} Lektionen abgeschlossen`;
++        });
++      </script>
     </div>
   </section>
 </Layout>

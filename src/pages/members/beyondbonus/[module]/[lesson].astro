@@ -1,0 +1,137 @@
+---
+export const prerender = false;
+
+import Layout from '../../../../layouts/Layout.astro';
+import { getAccessSnapshot } from '../../../../lib/auth/grants';
+import { loadUserGrants } from '../../../../lib/auth/load-grants';
+import { getBeyondBonusLesson, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
+
+const grants = await loadUserGrants(Astro);
+const access = getAccessSnapshot(grants, 'beyondbonus');
+
+if (!access.course) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const moduleSlug = Astro.params.module || '';
+const lessonSlug = Astro.params.lesson || '';
+const module = getBeyondBonusModule(moduleSlug);
+const lesson = getBeyondBonusLesson(moduleSlug, lessonSlug);
+
+if (!module || !lesson) {
+  return Astro.redirect('/members/beyondbonus');
+}
+
+const lessonIndex = module.lessons.findIndex((entry) => entry.slug === lesson.slug);
+const previousLesson = lessonIndex > 0 ? module.lessons[lessonIndex - 1] : null;
+const nextLesson = lessonIndex < module.lessons.length - 1 ? module.lessons[lessonIndex + 1] : null;
+const lessonKey = getLessonKey(module.slug, lesson.slug);
+const videoUrl = lesson.driveId ? `https://drive.google.com/file/d/${lesson.driveId}/preview` : null;
+---
+
+<Layout
+  title={`BeyondBonus – ${lesson.title}`}
+  canonical={`https://stiefundgluecklich.de/members/beyondbonus/${module.slug}/${lesson.slug}/`}
+  description={lesson.description}
+>
+  <section class="py-20 md:py-28" data-lesson-key={lessonKey}>
+    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
+      <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
+        ← Zurück zu {module.title}
+      </a>
+
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus · Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">{lesson.title}</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">{lesson.description}</p>
+
+      <div class="grid gap-8 lg:grid-cols-[1.2fr,0.8fr]">
+        <div class="space-y-6">
+          <section class="border border-border p-6 bg-background">
+            <div class="flex items-center justify-between gap-4 mb-4">
+              <h2 class="font-serif text-2xl">Video</h2>
+              <span class="text-xs px-2 py-1 bg-secondary/40 border border-border" data-lesson-state>Nicht gestartet</span>
+            </div>
+
+            {videoUrl ? (
+              <div class="aspect-video border border-border overflow-hidden bg-black">
+                <iframe
+                  src={videoUrl}
+                  class="w-full h-full"
+                  allow="autoplay"
+                  allowfullscreen
+                  loading="lazy"
+                ></iframe>
+              </div>
+            ) : (
+              <div class="aspect-video border border-border bg-secondary/30 flex items-center justify-center p-8 text-center text-sm text-muted-foreground leading-relaxed">
+                Diese Lektion ist strukturell angelegt. Die direkte Videoanbindung folgt im nächsten Schritt.
+              </div>
+            )}
+          </section>
+
+          <section class="border border-border p-6 bg-background space-y-4">
+            <h2 class="font-serif text-2xl">Dein Fortschritt</h2>
+            <p class="text-sm text-muted-foreground">Du kannst diese Lektion manuell als erledigt markieren. Später ersetzen wir das durch eine sauberere Fortschrittslogik.</p>
+            <button type="button" class="bg-primary text-primary-foreground px-5 py-3 text-sm font-medium hover:opacity-90 transition-opacity" data-toggle-complete>
+              Als erledigt markieren
+            </button>
+          </section>
+        </div>
+
+        <aside class="space-y-6">
+          <section class="border border-border p-6 bg-secondary/40">
+            <h2 class="font-serif text-xl mb-3">Diese Lektion gehört zu</h2>
+            <p class="text-sm text-muted-foreground mb-2">Modul {module.number}</p>
+            <p class="text-base">{module.title}</p>
+          </section>
+
+          <section class="border border-border p-6 bg-secondary/40 space-y-4">
+            <h2 class="font-serif text-xl">Weiter im Modul</h2>
+            {previousLesson && (
+              <a href={`/members/beyondbonus/${module.slug}/${previousLesson.slug}`} class="block text-sm text-muted-foreground hover:text-primary transition-colors">
+                ← {previousLesson.title}
+              </a>
+            )}
+            {nextLesson && (
+              <a href={`/members/beyondbonus/${module.slug}/${nextLesson.slug}`} class="block text-sm text-muted-foreground hover:text-primary transition-colors">
+                {nextLesson.title} →
+              </a>
+            )}
+          </section>
+        </aside>
+      </div>
+
+      <script is:inline>
+        const key = document.querySelector('[data-lesson-key]')?.getAttribute('data-lesson-key');
+        const readProgress = () => {
+          try {
+            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
+          } catch {
+            return {};
+          }
+        };
+        const writeProgress = (progress) => localStorage.setItem('bb-progress-v1', JSON.stringify(progress));
+
+        const button = document.querySelector('[data-toggle-complete]');
+        const state = document.querySelector('[data-lesson-state]');
+
+        const refresh = () => {
+          const progress = readProgress();
+          const done = key && progress[key];
+          if (state) state.textContent = done ? 'Erledigt' : 'Nicht gestartet';
+          if (button) button.textContent = done ? 'Als nicht erledigt markieren' : 'Als erledigt markieren';
+        };
+
+        button?.addEventListener('click', () => {
+          if (!key) return;
+          const progress = readProgress();
+          progress[key] = !progress[key];
+          writeProgress(progress);
+          refresh();
+        });
+
+        refresh();
+      </script>
+    </div>
+  </section>
+</Layout>

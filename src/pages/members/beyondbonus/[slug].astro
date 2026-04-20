@@ -4,7 +4,7 @@ export const prerender = false;
 import Layout from '../../../layouts/Layout.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
-import { beyondBonusModules, getBeyondBonusModule } from '../../../lib/beyondbonus/content';
+import { beyondBonusModules, getBeyondBonusModule, getLessonKey } from '../../../lib/beyondbonus/content';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
@@ -39,30 +39,34 @@ if (!module) {
       <div class="grid gap-8 lg:grid-cols-[1.2fr,0.8fr]">
         <div class="space-y-8">
           <section class="border border-border p-6 bg-background">
-            <h2 class="font-serif text-2xl mb-4">Inhalte in diesem Modul</h2>
+            <div class="flex items-center justify-between gap-4 mb-4">
+              <h2 class="font-serif text-2xl">Lektionen in diesem Modul</h2>
+              <span class="text-xs text-muted-foreground" data-module-progress-label>0 von {module.lessons.length} abgeschlossen</span>
+            </div>
+            <div class="h-2 bg-secondary overflow-hidden mb-6">
+              <div class="h-full bg-primary w-0 transition-all" data-module-progress-bar></div>
+            </div>
             <div class="space-y-3">
               {module.lessons.map((lesson, index) => (
-                <div class="border border-border p-4 bg-secondary/30">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground mb-2">Lektion {String(index + 1).padStart(2, '0')}</p>
-                  <p class="text-sm">{lesson}</p>
-                </div>
+                <a href={`/members/beyondbonus/${module.slug}/${lesson.slug}`} class="border border-border p-4 bg-secondary/30 hover:border-primary transition-colors block" data-lesson-card data-lesson-key={getLessonKey(module.slug, lesson.slug)}>
+                  <div class="flex items-start justify-between gap-4">
+                    <div>
+                      <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground mb-2">Lektion {String(index + 1).padStart(2, '0')}</p>
+                      <h3 class="font-serif text-xl mb-2">{lesson.title}</h3>
+                      <p class="text-sm text-muted-foreground leading-relaxed">{lesson.description}</p>
+                    </div>
+                    <span class="text-xs px-2 py-1 bg-background border border-border whitespace-nowrap" data-lesson-state>Nicht gestartet</span>
+                  </div>
+                </a>
               ))}
             </div>
           </section>
 
           <section class="border border-border p-6 bg-background">
-            <h2 class="font-serif text-2xl mb-4">Downloads & Materialien</h2>
-            {module.downloads.length > 0 ? (
-              <div class="space-y-3">
-                {module.downloads.map((download) => (
-                  <div class="border border-border p-4 bg-secondary/30">
-                    <p class="text-sm">{download}</p>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <p class="text-sm text-muted-foreground">Für dieses Modul ist im ersten Build noch kein separates Downloadmaterial hinterlegt.</p>
-            )}
+            <h2 class="font-serif text-2xl mb-4">Workbook</h2>
+            <p class="text-sm text-muted-foreground leading-relaxed">
+              BeyondBonus bekommt ein zentrales Workbook für das gesamte Programm. Die finale Fassung hängen wir als Nächstes hier an, statt Einzel-Downloads pro Modul zu verteilen.
+            </p>
           </section>
         </div>
 
@@ -84,11 +88,40 @@ if (!module) {
           <section class="border border-border p-6 bg-secondary/40">
             <h2 class="font-serif text-xl mb-3">Videoquelle</h2>
             <p class="text-sm text-muted-foreground leading-relaxed">
-              Die Rohvideos liegen im Google-Drive-Ordner <strong>Videos BeyondBonus</strong>. Im nächsten Schritt hängen wir die echten Videoeinträge und Dateizuordnungen direkt an diese Modulstruktur.
+              Die Rohvideos liegen im Google-Drive-Ordner <strong>Videos BeyondBonus</strong>. Die Lektionsseiten greifen in diesem Build auf diese Quelle als Zwischenstand zurück, bis die geschützte Auslieferung über R2 hängt.
             </p>
           </section>
         </aside>
       </div>
++
++      <script is:inline>
++        const readProgress = () => {
++          try {
++            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
++          } catch {
++            return {};
++          }
++        };
++
++        const progress = readProgress();
++        const lessonCards = [...document.querySelectorAll('[data-lesson-card]')];
++        let done = 0;
++        lessonCards.forEach((card) => {
++          const key = card.getAttribute('data-lesson-key');
++          const isDone = key && progress[key];
++          const state = card.querySelector('[data-lesson-state]');
++          if (isDone) {
++            done += 1;
++            if (state) state.textContent = 'Erledigt';
++          }
++        });
++        const total = lessonCards.length;
++        const percent = total ? Math.round((done / total) * 100) : 0;
++        const bar = document.querySelector('[data-module-progress-bar]');
++        const label = document.querySelector('[data-module-progress-label]');
++        if (bar) bar.style.width = `${percent}%`;
++        if (label) label.textContent = `${done} von ${total} abgeschlossen`;
++      </script>
     </div>
   </section>
 </Layout>
