@@ -4,6 +4,7 @@ export const prerender = false;
 import Layout from '../../../layouts/Layout.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
+import { beyondBonusModules } from '../../../lib/beyondbonus/content';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
@@ -11,18 +12,6 @@ const access = getAccessSnapshot(grants, 'beyondbonus');
 if (!access.course) {
   return Astro.redirect('/members?error=no-access');
 }
-
-const modules = [
-  'Start & Einstieg',
-  'Persönlichkeit & Rolle',
-  'Patchworkdynamiken',
-  'Kraftquellen',
-  'Bonuskinder',
-  'Partnerschaft',
-  'Kommunikationsstrategien',
-  'Ex-Partnerin',
-  'Zukunft & Ausblick',
-];
 ---
 
 <Layout
@@ -48,12 +37,13 @@ const modules = [
       </div>
 
       <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {modules.map((module, index) => (
-          <div class="border border-border p-5 bg-background space-y-3">
-            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {String(index + 1).padStart(2, '0')}</p>
-            <h2 class="font-serif text-xl">{module}</h2>
-            <p class="text-sm text-muted-foreground">Inhalte folgen im nächsten Build-Block.</p>
-          </div>
+        {beyondBonusModules.map((module) => (
+          <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-5 bg-background space-y-3 hover:border-primary transition-colors block">
+            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
+            <h2 class="font-serif text-xl">{module.title}</h2>
+            <p class="text-sm text-muted-foreground">{module.shortDescription}</p>
+            <p class="text-xs text-primary">Modul öffnen →</p>
+          </a>
         ))}
       </div>
     </div>
