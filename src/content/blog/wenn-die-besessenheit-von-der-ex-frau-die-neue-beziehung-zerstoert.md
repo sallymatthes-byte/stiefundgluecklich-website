@@ -3,9 +3,9 @@ title: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergan
 description: "Macht die Ex-Frau deine neue Beziehung kaputt? Erfahre, wie du die Kontrolle zurückgewinnst und endlich glücklich wirst"
 category: "ex-und-system"
 date: 2024-04-26
-updated: 2026-03-10
-metaTitle: "Ex-Frau macht neue Beziehung kaputt? So befreist du dich als Bonusmama"
-metaDescription: "Seine Ex-Frau belastet eure neue Beziehung? Warum sie so viel Macht hat, was dahintersteckt — und wie du den Schatten der Vergangenheit endlich loslässt."
+updated: 2026-04-20
+metaTitle: "Ex-Frau zerstört neue Beziehung? So verlierst du dich nicht im Ex-Konflikt"
+metaDescription: "Seine Ex-Frau belastet eure Beziehung? Warum der Ex-Konflikt so viel Macht bekommt, was wirklich dahintersteckt und wie du als Bonusmama da rauskommst."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"
@@ -13,7 +13,7 @@ youtubeId: "_m8fEbnjL10"
 buzzsproutId: 18809720
 ---
 
-**Die Ex-Partnerin deines Partners loszulassen ist eine der größten emotionalen Herausforderungen als Bonusmama — besonders wenn sie euren Alltag bestimmt.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Studien zeigen, dass ungelöste Ex-Partner-Konflikte der häufigste Trennungsgrund in Patchworkfamilien sind (Bray & Kelly, 1998). In meiner Arbeit als systemischer Coach erlebe ich das wöchentlich — und weiß: Es gibt einen Weg raus.
+**Wenn die Ex-Frau eure neue Beziehung belastet, fühlt es sich oft an, als wäre zwischen euch nie wirklich Platz für Ruhe.** Ob ständige Anrufe, Vergleiche oder die Angst, nicht zu genügen: Der Schatten der Ex kann eine neue Beziehung zerstören. Studien zeigen, dass ungelöste Ex-Partner-Konflikte der häufigste Trennungsgrund in Patchworkfamilien sind (Bray & Kelly, 1998). In meiner Arbeit als systemischer Coach erlebe ich das wöchentlich — und weiß: Es gibt einen Weg raus.
 
 > „Die Ex hat genau so viel Macht über deine Beziehung, wie du und dein Partner ihr gebt. Nicht mehr." — Sally Matthes, Coach für Bonusmamas
 
@@ -30,7 +30,7 @@ In diesem Artikel erfährst du nicht nur, warum die Ex-Frau so viel Macht über 
 
 ---
 
-## Wenn die Ex-Frau zur Bedrohung wird
+## Wenn die Ex-Frau eure neue Beziehung belastet
 
 *Kennst du diese Situationen?*
 

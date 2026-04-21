@@ -3,9 +3,9 @@ title: "Stiefmutter, Bonusmama - oder wie jetzt?"
 description: "Allein schon den passenden Begriff für die neue Rolle zu finden ist herausfordernd: Stiefmutter, Bonusmama oder doch ganz anders?"
 category: "rolle-identitaet"
 date: 2023-12-03
-updated: 2026-03-10
-metaTitle: "Bonusmama Bedeutung: Stiefmutter, Bonusmama — alle Patchwork-Begriffe erklärt"
-metaDescription: "Was bedeutet Bonusmama? Woher kommt der Begriff Stiefmutter? Alle Patchwork-Rollen erklärt — und warum deine Wortwahl die ganze Familie verändert."
+updated: 2026-04-20
+metaTitle: "Stiefmutter oder Bonusmama? Bedeutung, Unterschied und welcher Begriff passt"
+metaDescription: "Stiefmutter oder Bonusmama, welcher Begriff passt zu dir? Bedeutung, Unterschied und warum die Wortwahl in Patchworkfamilien mehr verändert, als du denkst."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Frau denkt nachdenklich nach - Stiefmutter oder Bonusmama, welcher Begriff passt?"

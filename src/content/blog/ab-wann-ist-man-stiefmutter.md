@@ -6,9 +6,9 @@ date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
 image: "/images/blog/stiefmutter-rolle.jpg"
 imageAlt: "Frau sitzt allein auf einer Bank im herbstlichen Wald - nachdenklich, warm"
-metaTitle: "Stiefmutter Definition: Ab wann bin ich Stiefmutter? (Ehrlicher Guide)"
-metaDescription: "Stiefmutter Definition: Ab wann ist man Stiefmutter, was bedeutet die Rolle wirklich? Kein Stichtag — aber ein Moment. Ehrlich erklärt von Coach & Bonusmama Sally."
-updated: 2026-03-07
+metaTitle: "Ab wann ist man Stiefmutter? Definition, Bedeutung und ehrliche Antwort"
+metaDescription: "Ab wann ist man Stiefmutter? Kein Stichtag, aber klare Anzeichen. Definition, Bedeutung und was die Rolle als Bonusmama wirklich heißt."
+updated: 2026-04-20
 podcastEpisode: "https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8"
 podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
