@@ -16,7 +16,7 @@ export type BeyondBonusModule = {
 
 export const workbookInfo = {
   title: 'BeyondBonus Workbook',
-  description: 'Ein zentrales Workbook für das ganze Programm. Es wird im nächsten Schritt final angebunden und ersetzt separate Modul-Downloads.',
+  description: 'Das zentrale Workbook bündelt alle Übungen, Reflexionsfragen und Transferimpulse an einem Ort, statt sie über einzelne Module zu verstreuen.',
 };
 
 export const beyondBonusModules: BeyondBonusModule[] = [
@@ -30,13 +30,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'einfuehrung',
         title: 'Einführung',
-        description: 'Dein Einstieg in BeyondBonus, damit du verstehst, wie das Programm aufgebaut ist und wie du am meisten für dich daraus holen kannst.',
+        description: 'Hier bekommst du den klaren Einstieg in BeyondBonus, verstehst den Aufbau des Programms und weißt von Anfang an, wie du die Inhalte wirklich für dich nutzt.',
         driveId: '1cfPZKkBQ5tSv5gLgE9GmMWAgK5LpSoMW',
       },
       {
         slug: 'bonusmama-formel',
         title: 'Die Bonusmama-Formel',
-        description: 'Ein klarer Orientierungsrahmen aus Klarheit, Wandel und Kommunikation, damit du deine Situation besser einordnen kannst.',
+        description: 'Du lernst Sallys Bonusmama-Formel kennen und bekommst einen klaren Rahmen, um deine aktuelle Situation zwischen Klarheit, Veränderung und Kommunikation besser einzuordnen.',
         driveId: '1vAZXFZsP-mB_xLEJxCNmjiZBXsBfLZRQ',
       },
     ],
@@ -51,7 +51,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'werte-und-beduerfnisse',
         title: 'Werte und Bedürfnisse',
-        description: 'Eine ehrliche Bestandsaufnahme darüber, was dir wirklich wichtig ist und was du brauchst.',
+        description: 'Diese Lektion hilft dir, deine Werte und Bedürfnisse ehrlich herauszuarbeiten, damit du im Patchworkalltag nicht nur funktionierst, sondern dich selbst wieder klarer spürst.',
         driveId: '1X8bsZLF4-OUVbmso3lzJe9NPmwZ3jj5s',
       },
     ],
@@ -66,19 +66,19 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'staerken-und-entwicklungen',
         title: 'Stärken und Entwicklungen',
-        description: 'Ein Blick auf das, was dich bereits trägt, welche Stärken du mitbringst und wo Entwicklung wirklich sinnvoll ist.',
+        description: 'Du erkennst, was dich heute schon trägt, welche Stärken du in die Familie einbringst und an welchen Stellen Wachstum dich wirklich entlastet.',
         driveId: '1VtodVrFu5N8QYOZdYdOwt9t5u0p_sWeW',
       },
       {
         slug: 'saeulen-einer-bonusmama',
         title: 'Die Säulen einer Bonusmama',
-        description: 'Die Grundpfeiler für mehr Stabilität, Erfüllung und Klarheit in deiner Rolle als Bonusmama.',
+        description: 'Du verstehst die zentralen Säulen einer erfüllten Bonusmama-Rolle und kannst klarer erkennen, was dir langfristig Stabilität, Orientierung und innere Sicherheit gibt.',
         driveId: '1-lHsdtRjtuc5rsmJ90mNkeDrvUPF2lJj',
       },
       {
         slug: '3-teller-regel',
         title: 'Die 3-Teller-Regel',
-        description: 'Ein konkretes Modell, um Verantwortung, Zuständigkeit und Abgrenzung im Patchworkalltag besser zu sortieren.',
+        description: 'Mit der 3-Teller-Regel sortierst du Verantwortung, Zuständigkeit und Grenzen neu, damit nicht automatisch alles auf deinem Teller landet.',
         driveId: '18iEyPJYWyZgLKva_paMTl7WqgxqAXNoF',
       },
     ],
@@ -93,19 +93,19 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'insider-outsider',
         title: 'Insider-Outsider-Dynamik',
-        description: 'Verstehen, warum du dich manchmal gleichzeitig mittendrin und außen vor fühlst und was das mit Patchwork zu tun hat.',
+        description: 'Du verstehst, warum sich Patchwork oft gleichzeitig nach Nähe und Ausgeschlossensein anfühlt und wie diese Dynamik deinen Alltag beeinflusst.',
         driveId: '13-mtDQLzDRvnAZ83YUgstFRobg4IxrD1',
       },
       {
         slug: 'loyalitaetskonflikte',
         title: 'Loyalitätskonflikte',
-        description: 'Wie Loyalität wirkt und warum sie Kinder, Eltern und Bonusmamas in Patchworkfamilien so stark beeinflusst.',
+        description: 'Diese Lektion zeigt dir, wie Loyalitätskonflikte im System wirken und warum sie Kinder, Eltern und Bonusmamas oft viel stärker steuern, als man von außen sieht.',
         driveId: '1IrLAjHZmh6uHZV5wbWvhzO19rPJNNTjb',
       },
       {
         slug: 'eifersucht',
         title: 'Eifersucht einordnen',
-        description: 'Eifersucht enttabuisieren und als Signal statt als Makel lesen lernen.',
+        description: 'Du lernst, Eifersucht nicht als peinlichen Makel zu sehen, sondern als Signal für ein tieferes Bedürfnis, das ernst genommen werden darf.',
         driveId: '1BjLO_0acv82xbcrkT2HMLjErzqPVMchR',
       },
     ],
@@ -120,19 +120,19 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'masterclass-selbstfuersorge',
         title: 'Masterclass Selbstfürsorge',
-        description: 'Die Grundlage dafür, dass du im Patchworkalltag nicht ständig über deine Grenzen gehst.',
+        description: 'Diese Masterclass hilft dir, Selbstfürsorge als echte Notwendigkeit zu verstehen, damit du im Patchworkalltag nicht dauerhaft über deine Grenzen gehst.',
         driveId: '1AoQD0eOcxL_XFM13FAMHQKvrJ2iRSluD',
       },
       {
         slug: 'museum-deines-lebens',
         title: 'Museum deines Lebens',
-        description: 'Eine Übung, mit der du biografische Prägungen und alte Verletzungen bewusster einordnen kannst.',
+        description: 'Mit dieser Übung gehst du deinen biografischen Prägungen und alten Verletzungen achtsamer auf den Grund, statt nur ihre Folgen im Alltag zu spüren.',
         driveId: '1WxYsVasevdU6zPGV61_DtJoGUh8XG13_',
       },
       {
         slug: 'museumsanleitung',
         title: 'Anleitung zur Museumsübung',
-        description: 'Die begleitende Einführung, damit du die Übung für dich wirklich nutzen kannst.',
+        description: 'Diese Anleitung führt dich sicher in die Museumsübung hinein, damit du sie nicht nur verstehst, sondern auch wirklich für dich nutzen kannst.',
         driveId: '15AupbeFOQVRmS0_YI7B9AVQ3GD0LxZRs',
       },
     ],
@@ -147,13 +147,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'vertrauen-und-beziehung',
         title: 'Vertrauen und Beziehung',
-        description: 'Wie Verbindung zu Bonuskindern wachsen kann, ohne dich zu verbiegen oder zu überfordern.',
+        description: 'Du erfährst, wie Vertrauen und Beziehung zu Bonuskindern wachsen können, ohne dass du dich verbiegst oder ständig überforderst.',
         driveId: '1bTy_nMCTPlLeG75nh0BSC1XpYFdSh2nV',
       },
       {
         slug: 'familienrituale',
         title: 'Familienrituale',
-        description: 'Welche kleinen Rituale Sicherheit geben und im Alltag wirklich etwas verändern können.',
+        description: 'Du bekommst konkrete Ideen für Familienrituale, die Sicherheit geben und im Alltag tatsächlich Verbindung statt nur zusätzlichen Aufwand schaffen.',
         driveId: '1JjO4XEoGCQRqspk9HlHylvB5kqDml8ao',
       },
     ],
@@ -168,13 +168,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'paarzeit-zurueckerobern',
         title: 'Paarzeit zurückerobern',
-        description: 'Wie ihr wieder Nähe und Paarzeit aufbaut, auch wenn der Familienalltag eng ist.',
+        description: 'Du entwickelst erste konkrete Schritte, um trotz engem Familienalltag wieder bewusste Paarzeit, Nähe und Verbindung zurückzuholen.',
         driveId: '1rK6yrHYAS8vCq_pYJ44BdPsR38t-Ywut',
       },
       {
         slug: 'sicherheit-in-der-partnerschaft',
         title: 'Sicherheit in der Partnerschaft',
-        description: 'Was eure Paarbasis stabilisiert und warum Sicherheit oft vor schnellen Lösungen kommt.',
+        description: 'Diese Lektion zeigt euch, was eure Paarbasis wirklich stabilisiert und warum emotionale Sicherheit oft wichtiger ist als schnelle Lösungen.',
         driveId: '12v9lbcrPAFe324HNDEUrJGQO8kpp8mj6',
       },
     ],
@@ -189,12 +189,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'vier-ohren-modell',
         title: 'Das 4-Ohren-Modell',
-        description: 'Verstehen, warum Gespräche so schnell kippen und wie du Missverständnisse früher erkennst.',
+        description: 'Mit dem 4-Ohren-Modell erkennst du früher, auf welcher Ebene Gespräche entgleisen und warum Missverständnisse in Patchworkfamilien so schnell eskalieren.',
+        driveId: '1vKhMbZF5dTVtWrQ7GQPCn9Xx_18Jmltp',
       },
       {
         slug: 'gespraeche-beginnen',
         title: 'Gespräche gut beginnen',
-        description: 'Ein strukturierter Einstieg, damit schwierige Gespräche nicht schon am Anfang eskalieren.',
+        description: 'Du lernst eine klare Gesprächsstruktur kennen, mit der schwierige Gespräche ruhiger beginnen und nicht schon in den ersten Sätzen kippen.',
         driveId: '1GAT4oX7yfL-Ld1N0SNA2BbgLipZiQxYJ',
       },
     ],
@@ -209,25 +210,25 @@ export const beyondBonusModules: BeyondBonusModule[] = [
       {
         slug: 'ferienplanung-mit-der-ex',
         title: 'Ferienplanung mit der Ex',
-        description: 'Wo du mitreden darfst, wo nicht und wie du in solchen Konstellationen klarer bleibst.',
+        description: 'Du klärst, wo du in Ferienplanungen wirklich mitreden darfst, wo nicht und wie du dabei deine Grenzen klarer vertrittst.',
         driveId: '1rKRzjODrnJjs-ldbwfI9vix-0Syhwp4x',
       },
       {
         slug: 'empowernde-affirmationen',
         title: 'Empowernde Affirmationen',
-        description: 'Stärkende Sätze als mentale Gegenbewegung zu Selbstzweifel und Rückzug.',
+        description: 'Diese Affirmationen geben dir stärkende Sätze an die Hand, die Selbstzweifel, Rückzug und innere Härte bewusst unterbrechen können.',
         driveId: '1H6iTP2s1fwl4FbxGSKWxhdgn843Ca-yj',
       },
       {
         slug: 'powertalk-the-one',
         title: 'Powertalk The One',
-        description: 'Ein Audio, das dich wieder mit deiner inneren Klarheit und Stärke verbindet.',
+        description: 'Dieser Powertalk hilft dir, dich wieder mit deiner inneren Klarheit zu verbinden, wenn du dich gerade klein, unsicher oder aus dem Gleichgewicht fühlst.',
         driveId: '16pHWlfpCZix5JMenAU0FGRFAA_w6BJe9',
       },
       {
         slug: 'powertalk-the-queen',
         title: 'Powertalk The Queen',
-        description: 'Ein stärkender Abschluss, der dich an deine innere Führung erinnert.',
+        description: 'Ein kraftvoller Abschluss, der dich an deine innere Führung erinnert und dich mit mehr Haltung und Selbstvertrauen aus dem Programm gehen lässt.',
         driveId: '1Y_XWTKlQZtgYWF7Y7uG2XXiyQMvHQSMg',
       },
     ],

@@ -63,27 +63,27 @@ if (!access.course) {
           <p class="text-xs text-primary">Workbook öffnen →</p>
         </a>
       </div>
-+
-+      <script is:inline>
-+        const readProgress = () => {
-+          try {
-+            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
-+          } catch {
-+            return {};
-+          }
-+        };
-+
-+        const progress = readProgress();
-+        document.querySelectorAll('[data-module-card]').forEach((card) => {
-+          const keys = (card.getAttribute('data-lesson-keys') || '').split('|').filter(Boolean);
-+          const done = keys.filter((key) => progress[key]).length;
-+          const percent = keys.length ? Math.round((done / keys.length) * 100) : 0;
-+          const bar = card.querySelector('[data-progress-bar]');
-+          const label = card.querySelector('[data-progress-label]');
-+          if (bar) bar.style.width = `${percent}%`;
-+          if (label) label.textContent = `${done} von ${keys.length} Lektionen abgeschlossen`;
-+        });
-+      </script>
+
+      <script is:inline>
+        const readProgress = () => {
+          try {
+            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
+          } catch {
+            return {};
+          }
+        };
+
+        const progress = readProgress();
+        document.querySelectorAll('[data-module-card]').forEach((card) => {
+          const keys = (card.getAttribute('data-lesson-keys') || '').split('|').filter(Boolean);
+          const done = keys.filter((key) => progress[key]).length;
+          const percent = keys.length ? Math.round((done / keys.length) * 100) : 0;
+          const bar = card.querySelector('[data-progress-bar]');
+          const label = card.querySelector('[data-progress-label]');
+          if (bar) bar.style.width = `${percent}%`;
+          if (label) label.textContent = `${done} von ${keys.length} Lektionen abgeschlossen`;
+        });
+      </script>
     </div>
   </section>
 </Layout>

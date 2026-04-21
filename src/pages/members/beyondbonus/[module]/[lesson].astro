@@ -26,7 +26,7 @@ const lessonIndex = module.lessons.findIndex((entry) => entry.slug === lesson.sl
 const previousLesson = lessonIndex > 0 ? module.lessons[lessonIndex - 1] : null;
 const nextLesson = lessonIndex < module.lessons.length - 1 ? module.lessons[lessonIndex + 1] : null;
 const lessonKey = getLessonKey(module.slug, lesson.slug);
-const videoUrl = lesson.driveId ? `https://drive.google.com/file/d/${lesson.driveId}/preview` : null;
+const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.slug}`;
 ---
 
 <Layout
@@ -52,21 +52,11 @@ const videoUrl = lesson.driveId ? `https://drive.google.com/file/d/${lesson.driv
               <span class="text-xs px-2 py-1 bg-secondary/40 border border-border" data-lesson-state>Nicht gestartet</span>
             </div>
 
-            {videoUrl ? (
-              <div class="aspect-video border border-border overflow-hidden bg-black">
-                <iframe
-                  src={videoUrl}
-                  class="w-full h-full"
-                  allow="autoplay"
-                  allowfullscreen
-                  loading="lazy"
-                ></iframe>
+            <div class="aspect-video border border-border overflow-hidden bg-black flex items-center justify-center" data-media-shell data-media-endpoint={mediaEndpoint}>
+              <div class="p-8 text-center text-sm text-white/80 leading-relaxed" data-media-status>
+                Video wird geladen ...
               </div>
-            ) : (
-              <div class="aspect-video border border-border bg-secondary/30 flex items-center justify-center p-8 text-center text-sm text-muted-foreground leading-relaxed">
-                Diese Lektion ist strukturell angelegt. Die direkte Videoanbindung folgt im nächsten Schritt.
-              </div>
-            )}
+            </div>
           </section>
 
           <section class="border border-border p-6 bg-background space-y-4">
@@ -114,12 +104,52 @@ const videoUrl = lesson.driveId ? `https://drive.google.com/file/d/${lesson.driv
 
         const button = document.querySelector('[data-toggle-complete]');
         const state = document.querySelector('[data-lesson-state]');
+        const mediaShell = document.querySelector('[data-media-shell]');
+        const mediaStatus = document.querySelector('[data-media-status]');
 
         const refresh = () => {
           const progress = readProgress();
           const done = key && progress[key];
           if (state) state.textContent = done ? 'Erledigt' : 'Nicht gestartet';
           if (button) button.textContent = done ? 'Als nicht erledigt markieren' : 'Als erledigt markieren';
+        };
+
+        const renderMedia = async () => {
+          const endpoint = mediaShell?.getAttribute('data-media-endpoint');
+          if (!mediaShell || !endpoint) return;
+
+          try {
+            const response = await fetch(endpoint, { credentials: 'same-origin' });
+            const payload = await response.json();
+            if (!response.ok || !payload?.media?.url) {
+              throw new Error(payload?.error || 'media-unavailable');
+            }
+
+            const media = payload.media;
+            mediaShell.innerHTML = '';
+
+            if (media.provider === 'r2-signed') {
+              const video = document.createElement('video');
+              video.src = media.url;
+              video.controls = true;
+              video.playsInline = true;
+              video.className = 'w-full h-full';
+              mediaShell.appendChild(video);
+              return;
+            }
+
+            const iframe = document.createElement('iframe');
+            iframe.src = media.url;
+            iframe.className = 'w-full h-full';
+            iframe.setAttribute('allow', 'autoplay');
+            iframe.setAttribute('allowfullscreen', 'true');
+            iframe.setAttribute('loading', 'lazy');
+            mediaShell.appendChild(iframe);
+          } catch (_error) {
+            if (mediaStatus) {
+              mediaStatus.textContent = 'Diese Lektion ist angelegt, aber das Video ist gerade noch nicht verfügbar.';
+            }
+          }
         };
 
         button?.addEventListener('click', () => {
@@ -131,6 +161,7 @@ const videoUrl = lesson.driveId ? `https://drive.google.com/file/d/${lesson.driv
         });
 
         refresh();
+        renderMedia();
       </script>
     </div>
   </section>
