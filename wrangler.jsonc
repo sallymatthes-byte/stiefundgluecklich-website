@@ -12,7 +12,8 @@
     {
       "binding": "MEMBERS_MEDIA",
       "bucket_name": "stiefundgluecklich-members-media",
-      "preview_bucket_name": "stiefundgluecklich-members-media"
+      "preview_bucket_name": "stiefundgluecklich-members-media",
+      "jurisdiction": "eu"
     }
   ]
 }
