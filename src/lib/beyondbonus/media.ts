@@ -37,7 +37,7 @@ export function getProtectedLessonAsset(productKey: ProductKey, moduleSlug: stri
     kind: 'video',
     title: lesson.title,
     driveId: lesson.driveId,
-    r2Key: `${productKey}/${moduleSlug}/${lessonSlug}/video`,
+    r2Key: `${productKey}/${moduleSlug}/${lessonSlug}/video.mp4`,
     mimeType: 'video/mp4',
   };
 }
