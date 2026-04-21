@@ -11,6 +11,7 @@ export type ProtectedMediaAsset = {
   kind: MediaKind;
   title: string;
   driveId?: string;
+  mediaUrl?: string;
   r2Key: string;
   mimeType: string;
 };
@@ -37,6 +38,7 @@ export function getProtectedLessonAsset(productKey: ProductKey, moduleSlug: stri
     kind: 'video',
     title: lesson.title,
     driveId: lesson.driveId,
+    mediaUrl: lesson.mediaUrl,
     r2Key: `${productKey}/${moduleSlug}/${lessonSlug}/video.mp4`,
     mimeType: 'video/mp4',
   };
@@ -51,6 +53,17 @@ export function buildProtectedMediaStreamUrl(productKey: ProductKey, moduleSlug:
 }
 
 export function buildFallbackMediaPayload(asset: ProtectedMediaAsset): ResolvedMediaPayload | null {
+  if (asset.mediaUrl) {
+    return {
+      provider: 'r2-proxy',
+      kind: asset.kind,
+      title: asset.title,
+      url: asset.mediaUrl,
+      expiresAt: null,
+      migrationState: 'r2-ready',
+    };
+  }
+
   if (!asset.driveId) {
     return null;
   }

@@ -3,6 +3,7 @@ export type BeyondBonusLesson = {
   title: string;
   description: string;
   driveId?: string;
+  mediaUrl?: string;
 };
 
 export type BeyondBonusModule = {
@@ -32,6 +33,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         title: 'Einführung',
         description: 'Hier bekommst du den klaren Einstieg in BeyondBonus, verstehst den Aufbau des Programms und weißt von Anfang an, wie du die Inhalte wirklich für dich nutzt.',
         driveId: '1cfPZKkBQ5tSv5gLgE9GmMWAgK5LpSoMW',
+        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/start-einstieg/einfuehrung/video.mp4?md5=nVh9g23J0IzUkLb3Top9QA&expires=1808322694',
       },
       {
         slug: 'bonusmama-formel',
