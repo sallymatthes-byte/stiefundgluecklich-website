@@ -1,0 +1,47 @@
+---
+export const prerender = false;
+
+import Layout from '../../../layouts/Layout.astro';
+
+const settings = [
+  ['Neue Inhalte', 'Benachrichtigung, wenn neue Inhalte im Mitgliederbereich freigeschaltet werden.'],
+  ['Antwort von Sally', 'Benachrichtigung, wenn du auf eine Frage oder Nachricht eine Rückmeldung bekommst.'],
+  ['Erinnerung zum Dranbleiben', 'Kleine Erinnerungen, damit du leichter am Ball bleibst.'],
+];
+---
+
+<Layout
+  title="Benachrichtigungen"
+  canonical="https://stiefundgluecklich.de/members/settings/notifications/"
+  description="Benachrichtigungseinstellungen im Mitgliederbereich."
+  noHeader={true}
+>
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
+      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
+        ← Zurück zum Mitgliederbereich
+      </a>
+
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Einstellungen</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">Benachrichtigungen</h1>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+        Hier ist die Struktur für künftige Benachrichtigungen vorbereitet. Sobald wir die Ausspielwege final festziehen, können diese Einstellungen aktiv genutzt werden.
+      </p>
+
+      <section class="border border-border p-6 bg-background space-y-4">
+        {settings.map(([title, description]) => (
+          <div class="flex items-center justify-between gap-6 border-b border-border pb-4 last:border-b-0 last:pb-0">
+            <div>
+              <h2 class="font-serif text-xl mb-1">{title}</h2>
+              <p class="text-sm text-muted-foreground">{description}</p>
+            </div>
+            <select class="border border-border bg-white px-4 py-2 text-sm focus:outline-none focus:border-primary">
+              <option>Aktiv</option>
+              <option>Pausiert</option>
+            </select>
+          </div>
+        ))}
+      </section>
+    </div>
+  </section>
+</Layout>

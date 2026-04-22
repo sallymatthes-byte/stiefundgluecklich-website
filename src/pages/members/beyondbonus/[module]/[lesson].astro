@@ -45,7 +45,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
       <h1 class="font-serif text-3xl md:text-4xl mb-4">{lesson.title}</h1>
       <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">{lesson.description}</p>
 
-      <div class="grid gap-8 lg:grid-cols-[1.2fr,0.8fr]">
+      <div class="grid gap-8 lg:grid-cols-[1.25fr,0.75fr]">
         <div class="space-y-6">
           <section class="border border-border p-6 bg-background">
             <div class="flex items-center justify-between gap-4 mb-4">
@@ -62,10 +62,17 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
 
           <section class="border border-border p-6 bg-background space-y-4">
             <h2 class="font-serif text-2xl">Dein Fortschritt</h2>
-            <p class="text-sm text-muted-foreground">Du kannst diese Lektion manuell als erledigt markieren. Später ersetzen wir das durch eine sauberere Fortschrittslogik.</p>
+            <p class="text-sm text-muted-foreground">Du kannst diese Lektion manuell als erledigt markieren und später jederzeit wieder ändern.</p>
             <button type="button" class="bg-primary text-primary-foreground px-5 py-3 text-sm font-medium hover:opacity-90 transition-opacity" data-toggle-complete>
               Als erledigt markieren
             </button>
+          </section>
+
+          <section class="border border-border p-6 bg-background space-y-4">
+            <h2 class="font-serif text-2xl">Deine Notizen</h2>
+            <p class="text-sm text-muted-foreground">Halte hier direkt fest, was dir wichtig ist, welche Gedanken du mitnimmst oder was du später noch vertiefen möchtest.</p>
+            <textarea data-lesson-notes class="w-full min-h-48 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" placeholder="Deine Notizen zu dieser Lektion ..."></textarea>
+            <p class="text-xs text-muted-foreground" data-notes-status>Deine Notizen werden nur auf diesem Gerät gespeichert.</p>
           </section>
         </div>
 
@@ -89,6 +96,12 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
               </a>
             )}
           </section>
+
+          <section class="border border-border p-6 bg-secondary/40 space-y-3">
+            <h2 class="font-serif text-xl">Support</h2>
+            <p class="text-sm text-muted-foreground">Wenn du zu einer Lektion eine Frage hast, kannst du Sally direkt schreiben.</p>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion" class="text-sm text-primary hover:opacity-80 transition-opacity">Support kontaktieren</a>
+          </section>
         </aside>
       </div>
 
@@ -107,6 +120,8 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
         const state = document.querySelector('[data-lesson-state]');
         const mediaShell = document.querySelector('[data-media-shell]');
         const mediaStatus = document.querySelector('[data-media-status]');
+        const notesField = document.querySelector('[data-lesson-notes]');
+        const notesStatus = document.querySelector('[data-notes-status]');
 
         const refresh = () => {
           const progress = readProgress();
@@ -153,6 +168,22 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             }
           }
         };
+
+        const notesKey = key ? `bb-notes-v1::${key}` : null;
+        if (notesField && notesKey) {
+          try {
+            notesField.value = localStorage.getItem(notesKey) || '';
+          } catch {}
+
+          notesField.addEventListener('input', () => {
+            try {
+              localStorage.setItem(notesKey, notesField.value);
+              if (notesStatus) notesStatus.textContent = 'Notizen gespeichert.';
+            } catch {
+              if (notesStatus) notesStatus.textContent = 'Notizen konnten auf diesem Gerät gerade nicht gespeichert werden.';
+            }
+          });
+        }
 
         button?.addEventListener('click', () => {
           if (!key) return;

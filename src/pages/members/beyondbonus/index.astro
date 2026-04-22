@@ -32,32 +32,47 @@ if (!access.course) {
         Hier findest du alle Module von BeyondBonus an einem Ort und kannst direkt dort weitermachen, wo du zuletzt aufgehört hast.
       </p>
 
-      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {beyondBonusModules.map((module) => (
-          <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-5 bg-background space-y-4 hover:border-primary transition-colors block" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
-            <div>
-              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
-              <h2 class="font-serif text-xl mt-2">{module.title}</h2>
-            </div>
-            <p class="text-sm text-muted-foreground">{module.shortDescription}</p>
-            <div class="space-y-2">
-              <div class="h-2 bg-secondary overflow-hidden">
-                <div class="h-full bg-primary w-0 transition-all" data-progress-bar></div>
+      <div class="grid gap-8 lg:grid-cols-[1.25fr,0.75fr]">
+        <div class="space-y-4">
+          {beyondBonusModules.map((module) => (
+            <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-5 bg-background hover:border-primary transition-colors block" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
+              <div class="grid gap-4 md:grid-cols-[auto,1fr,auto] md:items-center">
+                <div class="w-20 h-20 border border-border bg-secondary/40 flex items-center justify-center text-xs uppercase tracking-[0.18em] text-muted-foreground">
+                  Modul {module.number}
+                </div>
+                <div class="space-y-2">
+                  <h2 class="font-serif text-2xl">{module.title}</h2>
+                  <p class="text-sm text-muted-foreground">{module.shortDescription}</p>
+                  <p class="text-xs text-muted-foreground">{module.lessons.length} Lektionen</p>
+                </div>
+                <div class="space-y-2 min-w-32">
+                  <div class="h-2 bg-secondary overflow-hidden">
+                    <div class="h-full bg-primary w-0 transition-all" data-progress-bar></div>
+                  </div>
+                  <p class="text-xs text-muted-foreground text-right" data-progress-label>0 von {module.lessons.length} abgeschlossen</p>
+                  <p class="text-xs text-primary text-right">Öffnen →</p>
+                </div>
               </div>
-              <p class="text-xs text-muted-foreground" data-progress-label>0 von {module.lessons.length} Lektionen abgeschlossen</p>
-            </div>
-            <p class="text-xs text-primary">Modul öffnen →</p>
-          </a>
-        ))}
+            </a>
+          ))}
+        </div>
 
-        <a href="/members/beyondbonus/workbook" class="border border-border p-5 bg-background space-y-4 hover:border-primary transition-colors block md:col-span-2 lg:col-span-3">
-          <div>
-            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Workbook</p>
-            <h2 class="font-serif text-2xl mt-2">Zentrales BeyondBonus Workbook</h2>
-          </div>
-          <p class="text-sm text-muted-foreground">Ein zentrales Workbook für das gesamte Programm, statt einzelner Downloads pro Modul. Die finale Fassung hängen wir im nächsten Schritt an.</p>
-          <p class="text-xs text-primary">Workbook öffnen →</p>
-        </a>
+        <aside class="space-y-6">
+          <a href="/members/beyondbonus/workbook" class="border border-border p-5 bg-background space-y-4 hover:border-primary transition-colors block">
+            <div>
+              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Workbook</p>
+              <h2 class="font-serif text-2xl mt-2">Zentrales BeyondBonus Workbook</h2>
+            </div>
+            <p class="text-sm text-muted-foreground">Ein zentrales Workbook für das gesamte Programm, statt einzelner Downloads pro Modul.</p>
+            <p class="text-xs text-primary">Workbook öffnen →</p>
+          </a>
+
+          <section class="border border-border p-5 bg-secondary/40 space-y-3">
+            <h2 class="font-serif text-xl">Support</h2>
+            <p class="text-sm text-muted-foreground">Wenn du technische Fragen hast oder etwas mit deinem Zugang nicht stimmt, melde dich direkt bei Sally.</p>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus" class="text-sm text-primary hover:opacity-80 transition-opacity">Support kontaktieren</a>
+          </section>
+        </aside>
       </div>
 
       <script is:inline>

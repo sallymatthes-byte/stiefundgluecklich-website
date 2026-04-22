@@ -43,54 +43,96 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
         <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei uns.</p>
       </div>
 
-      <div class="grid gap-6 md:grid-cols-2">
-        <div class="border border-border p-6 bg-background space-y-4">
-          <div>
-            <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
-            <h2 class="font-serif text-2xl">Kursbereich</h2>
-          </div>
-          <p class="text-sm text-muted-foreground leading-relaxed">
-            Alle Kursinhalte, Module und das zentrale Workbook für BeyondBonus.
-          </p>
-          <a
-            href="/members/beyondbonus"
-            class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
-          >
-            Kurs öffnen
-          </a>
+      <div class="grid gap-8 lg:grid-cols-[1.25fr,0.75fr]">
+        <div class="space-y-8">
+          <section class="space-y-4">
+            <h2 class="font-serif text-2xl">Für dich freigeschaltet</h2>
+            <div class="grid gap-6 md:grid-cols-2">
+              <div class="border border-border p-6 bg-background space-y-4">
+                <div>
+                  <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
+                  <h3 class="font-serif text-2xl">Kursbereich</h3>
+                </div>
+                <p class="text-sm text-muted-foreground leading-relaxed">
+                  Alle Kursinhalte, Module und das zentrale Workbook für BeyondBonus.
+                </p>
+                <a
+                  href="/members/beyondbonus"
+                  class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+                >
+                  Kurs öffnen
+                </a>
+              </div>
+
+              <div class="border border-border p-6 bg-background space-y-4">
+                <div>
+                  <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
+                  <h3 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h3>
+                </div>
+                <p class="text-sm text-muted-foreground leading-relaxed">
+                  Deine Livecalls und Aufzeichnungen an einem Ort.
+                </p>
+                <a
+                  href="/livecalls/beyondbonus"
+                  class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+                >
+                  Livecalls öffnen
+                </a>
+              </div>
+            </div>
+          </section>
+
+          <section class="space-y-4">
+            <h2 class="font-serif text-2xl">Gerade noch nicht freigeschaltet</h2>
+            <div class="grid gap-6 md:grid-cols-2">
+              <div class="border border-border p-6 bg-background space-y-4 opacity-95">
+                <div>
+                  <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">ITS Bundle</p>
+                  <h3 class="font-serif text-2xl">Dein Einstieg</h3>
+                </div>
+                <p class="text-sm text-muted-foreground leading-relaxed">
+                  Drei kompakte Kernbereiche für Zugehörigkeit, Kommunikation und Grenzen im Patchworkalltag.
+                </p>
+                <a href="/its-bundle" class="inline-flex px-5 py-3 text-sm font-medium bg-secondary hover:bg-secondary/80 transition-colors">
+                  Jetzt entdecken
+                </a>
+              </div>
+            </div>
+          </section>
+
+          <section class="border border-border p-6 space-y-3">
+            <p class="text-sm font-medium">Dein Zugang im Überblick</p>
+            {grants.length > 0 ? (
+              <ul class="space-y-2 text-sm text-muted-foreground">
+                {grants.map((grant) => (
+                  <li>
+                    {grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}
+                    {grant.endsAt ? ` · verfügbar bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="text-sm text-muted-foreground">Noch kein aktiver Zugang hinterlegt.</p>
+            )}
+          </section>
         </div>
 
-        <div class="border border-border p-6 bg-background space-y-4">
-          <div>
-            <p class="text-sm uppercase tracking-[0.18em] text-muted-foreground mb-2">BeyondBonus</p>
-            <h2 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h2>
-          </div>
-          <p class="text-sm text-muted-foreground leading-relaxed">
-            Deine Livecalls und Aufzeichnungen an einem Ort.
-          </p>
-          <a
-            href="/livecalls/beyondbonus"
-            class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
-          >
-            Livecalls öffnen
-          </a>
-        </div>
-      </div>
+        <aside class="space-y-6">
+          <section class="border border-border p-6 bg-secondary/40 space-y-3">
+            <h2 class="font-serif text-xl">Account</h2>
+            <p class="text-sm text-muted-foreground">Verwalte deine persönlichen Einstellungen, dein Passwort und deine Benachrichtigungen.</p>
+            <div class="flex flex-col gap-3">
+              <a href="/members/settings/account" class="text-sm text-primary hover:opacity-80 transition-opacity">Account-Einstellungen öffnen</a>
+              <a href="/members/settings/notifications" class="text-sm text-primary hover:opacity-80 transition-opacity">Benachrichtigungen öffnen</a>
+            </div>
+          </section>
 
-      <div class="border border-border p-6 mt-8 space-y-3">
-        <p class="text-sm font-medium">Dein Zugang im Überblick</p>
-        {grants.length > 0 ? (
-          <ul class="space-y-2 text-sm text-muted-foreground">
-            {grants.map((grant) => (
-              <li>
-                {grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}
-                {grant.endsAt ? ` · verfügbar bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p class="text-sm text-muted-foreground">Noch kein aktiver Zugang hinterlegt.</p>
-        )}
+          <section class="border border-border p-6 bg-secondary/40 space-y-3">
+            <h2 class="font-serif text-xl">Support</h2>
+            <p class="text-sm text-muted-foreground">Wenn du eine Frage hast oder etwas mit deinem Zugang nicht klappt, melde dich direkt bei Sally.</p>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich" class="text-sm text-primary hover:opacity-80 transition-opacity">willkommen@sallymatthes.com</a>
+          </section>
+        </aside>
       </div>
 
       <form method="POST" action="/api/auth/sign-out" class="mt-6">
