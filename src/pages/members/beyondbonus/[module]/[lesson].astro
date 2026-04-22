@@ -145,6 +145,19 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             mediaShell.innerHTML = '';
 
             if (media.provider !== 'drive-preview') {
+              if (media.kind === 'audio') {
+                const wrapper = document.createElement('div');
+                wrapper.className = 'w-full h-full flex items-center justify-center p-8 bg-background';
+                const audio = document.createElement('audio');
+                audio.src = media.url;
+                audio.controls = true;
+                audio.preload = 'metadata';
+                audio.className = 'w-full';
+                wrapper.appendChild(audio);
+                mediaShell.appendChild(wrapper);
+                return;
+              }
+
               const video = document.createElement('video');
               video.src = media.url;
               video.controls = true;

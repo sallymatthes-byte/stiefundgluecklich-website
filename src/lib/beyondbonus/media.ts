@@ -2,7 +2,7 @@ import type { ProductKey } from '../auth/grants';
 import { getBeyondBonusLesson } from './content';
 
 export type MediaProvider = 'drive-preview' | 'r2-proxy';
-export type MediaKind = 'video';
+export type MediaKind = 'video' | 'audio';
 
 export type ProtectedMediaAsset = {
   productKey: ProductKey;
@@ -35,7 +35,7 @@ export function getProtectedLessonAsset(productKey: ProductKey, moduleSlug: stri
     productKey,
     moduleSlug,
     lessonSlug,
-    kind: 'video',
+    kind: lesson.mediaType || 'video',
     title: lesson.title,
     driveId: lesson.driveId,
     mediaUrl: lesson.mediaUrl,
