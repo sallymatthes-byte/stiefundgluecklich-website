@@ -1,0 +1,55 @@
+---
+interface NavItem {
+  href: string;
+  label: string;
+}
+
+interface Props {
+  title?: string;
+  subtitle?: string;
+  currentPath?: string;
+  topItems?: NavItem[];
+  bottomItems?: NavItem[];
+}
+
+const {
+  title = 'Mitgliederbereich',
+  subtitle = 'Schön, dass du da bist.',
+  currentPath = '',
+  topItems = [],
+  bottomItems = [],
+} = Astro.props;
+
+const isActive = (href: string) => currentPath === href || currentPath.startsWith(`${href}/`);
+---
+
+<aside class="lg:sticky lg:top-10 self-start border border-border bg-background p-6 space-y-8">
+  <div class="space-y-2">
+    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">{title}</p>
+    <h2 class="font-serif text-2xl">{subtitle}</h2>
+  </div>
+
+  <nav class="space-y-2">
+    {topItems.map((item) => (
+      <a
+        href={item.href}
+        class={`block px-3 py-3 text-sm transition-colors border ${isActive(item.href) ? 'border-primary bg-secondary/40 text-foreground font-medium' : 'border-transparent text-muted-foreground hover:text-foreground hover:bg-secondary/30'}`}
+      >
+        {item.label}
+      </a>
+    ))}
+  </nav>
+
+  {bottomItems.length > 0 && (
+    <div class="pt-6 border-t border-border space-y-2">
+      {bottomItems.map((item) => (
+        <a
+          href={item.href}
+          class={`block px-3 py-3 text-sm transition-colors border ${isActive(item.href) ? 'border-primary bg-secondary/40 text-foreground font-medium' : 'border-transparent text-muted-foreground hover:text-foreground hover:bg-secondary/30'}`}
+        >
+          {item.label}
+        </a>
+      ))}
+    </div>
+  )}
+</aside>

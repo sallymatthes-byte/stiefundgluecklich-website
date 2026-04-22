@@ -2,10 +2,12 @@
 export const prerender = false;
 
 import Layout from '../../layouts/Layout.astro';
+import MembersSidebar from '../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../lib/auth/grants';
 import { loadUserGrants } from '../../lib/auth/load-grants';
 
-const userEmail = Astro.locals.user?.email ?? 'eingeloggt';
+const firstName = Astro.locals.user?.email?.split('@')[0]?.split(/[._-]/)[0] || 'du';
+const firstNameLabel = firstName.charAt(0).toUpperCase() + firstName.slice(1);
 const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
 const error = Astro.url.searchParams.get('error');
@@ -19,12 +21,30 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
   noHeader={true}
 >
   <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Mitgliederbereich</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Inhalte</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Schön, dass du da bist. Hier findest du alle Inhalte, auf die du aktuell Zugriff hast.
-      </p>
+    <div class="container mx-auto px-5 md:px-6 max-w-6xl">
+      <div class="grid gap-8 lg:grid-cols-[280px,1fr]">
+        <MembersSidebar
+          title="Mitgliederbereich"
+          subtitle={`Hey ${firstNameLabel}`}
+          currentPath={Astro.url.pathname}
+          topItems={[
+            { href: '/members', label: 'Dashboard' },
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
+            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
+          ]}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich', label: 'Support' },
+          ]}
+        />
+
+        <div>
+          <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Dashboard</p>
+          <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Inhalte</h1>
+          <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+            Schön, dass du da bist. Hier findest du alle Inhalte, auf die du aktuell Zugriff hast.
+          </p>
 
       {passwordUpdated && (
         <div class="mb-6 border border-border bg-secondary/40 p-4 text-sm leading-relaxed">
@@ -39,8 +59,8 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
       )}
 
       <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
-        <p class="text-sm"><strong>Eingeloggt als:</strong> {userEmail}</p>
-        <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei uns.</p>
+        <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
+        <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei Sally.</p>
       </div>
 
       <div class="grid gap-8 lg:grid-cols-[1.25fr,0.75fr]">
@@ -140,6 +160,8 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
           Logout
         </button>
       </form>
+        </div>
+      </div>
     </div>
   </section>
 </Layout>
