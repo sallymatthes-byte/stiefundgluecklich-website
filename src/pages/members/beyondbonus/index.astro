@@ -18,6 +18,7 @@ if (!access.course) {
   title="BeyondBonus Kursbereich"
   canonical="https://stiefundgluecklich.de/members/beyondbonus/"
   description="Geschützter Kursbereich für BeyondBonus."
+  noHeader={true}
 >
   <section class="py-20 md:py-28">
     <div class="container mx-auto px-5 md:px-6 max-w-5xl">
@@ -28,13 +29,8 @@ if (!access.course) {
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
       <h1 class="font-serif text-3xl md:text-4xl mb-4">Kursbereich</h1>
       <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Das ist der erste strukturierte Einstieg für den BeyondBonus-Kurs. Als Nächstes hängen wir hier die echten Modul-Inhalte, Materialien und Fortschrittslogik an.
+        Hier findest du alle Module von BeyondBonus an einem Ort und kannst direkt dort weitermachen, wo du zuletzt aufgehört hast.
       </p>
-
-      <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
-        <p class="text-sm"><strong>Status:</strong> Kurszugang aktiv</p>
-        <p class="text-sm text-muted-foreground">Dein Zugang für den Kursbereich ist freigeschaltet.</p>
-      </div>
 
       <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {beyondBonusModules.map((module) => (

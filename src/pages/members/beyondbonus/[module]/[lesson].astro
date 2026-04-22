@@ -33,6 +33,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
   title={`BeyondBonus – ${lesson.title}`}
   canonical={`https://stiefundgluecklich.de/members/beyondbonus/${module.slug}/${lesson.slug}/`}
   description={lesson.description}
+  noHeader={true}
 >
   <section class="py-20 md:py-28" data-lesson-key={lessonKey}>
     <div class="container mx-auto px-5 md:px-6 max-w-5xl">
@@ -128,11 +129,12 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             const media = payload.media;
             mediaShell.innerHTML = '';
 
-            if (media.provider === 'r2-signed') {
+            if (media.provider !== 'drive-preview') {
               const video = document.createElement('video');
               video.src = media.url;
               video.controls = true;
               video.playsInline = true;
+              video.preload = 'metadata';
               video.className = 'w-full h-full';
               mediaShell.appendChild(video);
               return;

@@ -9,30 +9,38 @@ const userEmail = Astro.locals.user?.email ?? 'eingeloggt';
 const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
 const error = Astro.url.searchParams.get('error');
+const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
 ---
 
 <Layout
   title="Mitgliederbereich"
   canonical="https://stiefundgluecklich.de/members/"
   description="Geschützter Mitgliederbereich von Stief und Glücklich."
+  noHeader={true}
 >
   <section class="py-20 md:py-28">
     <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Geschützter Bereich</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Programme</h1>
+      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Mitgliederbereich</p>
+      <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Inhalte</h1>
       <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier findest du alle Inhalte, für die dein Zugang freigeschaltet ist. Kursbereich und Livecalls sind bewusst getrennt, damit Laufzeiten später sauber gesteuert werden können.
+        Schön, dass du da bist. Hier findest du alle Inhalte, auf die du aktuell Zugriff hast.
       </p>
 
-      {error === 'no-access' && (
-        <div class="mb-6 border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
-          Für diesen Bereich ist aktuell kein aktiver Zugang hinterlegt.
+      {passwordUpdated && (
+        <div class="mb-6 border border-border bg-secondary/40 p-4 text-sm leading-relaxed">
+          Dein neues Passwort wurde gespeichert.
         </div>
       )}
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-3 mb-8">
+      {error === 'no-access' && (
+        <div class="mb-6 border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
+          Für diesen Bereich ist aktuell noch kein freigeschalteter Zugang hinterlegt.
+        </div>
+      )}
+
+      <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
         <p class="text-sm"><strong>Eingeloggt als:</strong> {userEmail}</p>
-        <p class="text-sm text-muted-foreground">Deine Freigaben wurden geladen und im Mitgliederbereich zugeordnet.</p>
+        <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei uns.</p>
       </div>
 
       <div class="grid gap-6 md:grid-cols-2">
@@ -42,10 +50,7 @@ const error = Astro.url.searchParams.get('error');
             <h2 class="font-serif text-2xl">Kursbereich</h2>
           </div>
           <p class="text-sm text-muted-foreground leading-relaxed">
-            Module, Materialien und Workbook-Bereich für BeyondBonus.
-          </p>
-          <p class="text-sm">
-            <strong>Status:</strong> {beyondBonus.course ? 'aktiv' : 'nicht freigeschaltet'}
+            Alle Kursinhalte, Module und das zentrale Workbook für BeyondBonus.
           </p>
           <a
             href="/members/beyondbonus"
@@ -61,10 +66,7 @@ const error = Astro.url.searchParams.get('error');
             <h2 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h2>
           </div>
           <p class="text-sm text-muted-foreground leading-relaxed">
-            Separater Bereich für Livecalls und Aufzeichnungen mit eigener Laufzeitlogik.
-          </p>
-          <p class="text-sm">
-            <strong>Status:</strong> {beyondBonus.livecalls ? 'aktiv' : 'nicht freigeschaltet'}
+            Deine Livecalls und Aufzeichnungen an einem Ort.
           </p>
           <a
             href="/livecalls/beyondbonus"
@@ -76,13 +78,13 @@ const error = Astro.url.searchParams.get('error');
       </div>
 
       <div class="border border-border p-6 mt-8 space-y-3">
-        <p class="text-sm font-medium">Aktive Freigaben</p>
+        <p class="text-sm font-medium">Dein Zugang im Überblick</p>
         {grants.length > 0 ? (
           <ul class="space-y-2 text-sm text-muted-foreground">
             {grants.map((grant) => (
               <li>
-                {grant.productKey} · {grant.area} · {grant.status}
-                {grant.endsAt ? ` · bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
+                {grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}
+                {grant.endsAt ? ` · verfügbar bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
               </li>
             ))}
           </ul>

@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 
 const nextPath = Astro.url.searchParams.get('next') || '/members';
 const signedOut = Astro.url.searchParams.get('signed-out') === '1';
+const resetSent = Astro.url.searchParams.get('reset') === 'sent';
 const error = Astro.url.searchParams.get('error');
 const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.meta.env.PUBLIC_SUPABASE_PUBLISHABLE_KEY);
 ---
@@ -11,6 +12,7 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
   title="Login – Mitgliederbereich"
   canonical="https://stiefundgluecklich.de/login/"
   description="Login für den geschützten Mitgliederbereich von Stief und Glücklich."
+  noHeader={true}
 >
   <section class="py-20 md:py-28">
     <div class="container mx-auto px-5 md:px-6 max-w-xl">
@@ -24,6 +26,12 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
         {signedOut && (
           <div class="mb-6 border border-border p-4 bg-secondary/40 text-sm">
             Du bist ausgeloggt.
+          </div>
+        )}
+
+        {resetSent && (
+          <div class="mb-6 border border-border p-4 bg-secondary/40 text-sm leading-relaxed">
+            Wenn die E-Mail-Adresse bei uns freigeschaltet ist, haben wir dir gerade einen Link geschickt, über den du ein neues Passwort vergeben kannst.
           </div>
         )}
 
@@ -75,6 +83,26 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
             disabled={!hasSupabaseConfig}
           >
             Einloggen
+          </button>
+        </form>
+
+        <form method="POST" action="/api/auth/reset-password" class="mt-4">
+          <label class="block text-sm text-muted-foreground mb-3">Passwort vergessen?</label>
+          <input
+            type="email"
+            name="email"
+            required
+            autocomplete="email"
+            placeholder="Deine E-Mail-Adresse für den Reset"
+            class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary mb-3"
+            disabled={!hasSupabaseConfig}
+          />
+          <button
+            type="submit"
+            class="text-sm text-primary hover:opacity-80 transition-opacity disabled:opacity-50"
+            disabled={!hasSupabaseConfig}
+          >
+            Link zum Zurücksetzen anfordern
           </button>
         </form>
 
