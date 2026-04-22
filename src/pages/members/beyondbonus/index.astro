@@ -44,42 +44,46 @@ if (!access.course) {
         <div>
           <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
           <h1 class="font-serif text-3xl md:text-4xl mb-4">Kursbereich</h1>
-          <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-            Hier findest du alle Module von BeyondBonus an einem Ort und kannst direkt dort weitermachen, wo du zuletzt aufgehört hast.
+          <p class="text-base text-muted-foreground mb-10 leading-relaxed max-w-3xl">
+            Hier findest du alle Module von BeyondBonus in einer klaren Reihenfolge und kannst direkt dort weitermachen, wo du zuletzt aufgehört hast.
           </p>
 
-          <div class="space-y-4">
-          {beyondBonusModules.map((module) => (
-            <a href={`/members/beyondbonus/${module.slug}`} class="border border-border p-6 bg-background hover:border-primary transition-colors block" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
-              <div class="flex items-start justify-between gap-6 mb-4">
-                <div class="space-y-2">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
-                  <h2 class="font-serif text-2xl">{module.title}</h2>
-                  <p class="text-sm text-muted-foreground max-w-2xl">{module.shortDescription}</p>
-                </div>
-                <p class="text-xs text-primary whitespace-nowrap">Öffnen →</p>
-              </div>
-              <div class="space-y-2 mb-4">
-                <div class="h-2 bg-secondary overflow-hidden">
-                  <div class="h-full bg-primary w-0 transition-all" data-progress-bar></div>
-                </div>
-                <p class="text-xs text-muted-foreground" data-progress-label>0 von {module.lessons.length} abgeschlossen</p>
-              </div>
-              <div class="space-y-2 text-sm text-muted-foreground">
-                {module.lessons.slice(0, 4).map((lesson, index) => (
-                  <div class="flex items-center justify-between gap-4 border-t border-border/70 pt-2 first:border-t-0 first:pt-0">
-                    <span>{index + 1}. {lesson.title}</span>
-                    <span>→</span>
+          <div class="space-y-5">
+            {beyondBonusModules.map((module) => (
+              <a href={`/members/beyondbonus/${module.slug}`} class="block border border-border bg-background p-6 hover:border-primary transition-colors" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
+                <div class="flex items-start justify-between gap-6 mb-4">
+                  <div class="space-y-2">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Modul {module.number}</p>
+                    <h2 class="font-serif text-2xl">{module.title}</h2>
+                    <p class="text-sm text-muted-foreground max-w-2xl">{module.shortDescription}</p>
                   </div>
-                ))}
-                {module.lessons.length > 4 && <p class="text-xs">+ {module.lessons.length - 4} weitere Lektionen</p>}
-              </div>
-            </a>
-          ))}
+                  <p class="text-xs text-primary whitespace-nowrap">Öffnen →</p>
+                </div>
 
-          <div class="border border-border p-5 bg-background mt-8">
-            <h2 class="font-serif text-2xl mb-2">Workbook</h2>
-            <p class="text-sm text-muted-foreground mb-4">Alle Übungen, Reflexionsfragen und Materialien an einem Ort.</p>
+                <div class="space-y-2 mb-4">
+                  <div class="h-2 bg-secondary overflow-hidden">
+                    <div class="h-full bg-primary w-0 transition-all" data-progress-bar></div>
+                  </div>
+                  <p class="text-xs text-muted-foreground" data-progress-label>0 von {module.lessons.length} abgeschlossen</p>
+                </div>
+
+                <div class="space-y-2 text-sm text-muted-foreground">
+                  {module.lessons.slice(0, 5).map((lesson, index) => (
+                    <div class="flex items-center justify-between gap-4 border-t border-border/70 pt-2 first:border-t-0 first:pt-0">
+                      <span>{index + 1}. {lesson.title}</span>
+                      <span>→</span>
+                    </div>
+                  ))}
+                  {module.lessons.length > 5 && <p class="text-xs">+ {module.lessons.length - 5} weitere Lektionen</p>}
+                </div>
+              </a>
+            ))}
+          </div>
+
+          <div class="border border-border p-6 bg-background mt-8 space-y-3">
+            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Workbook</p>
+            <h2 class="font-serif text-2xl">Zentrales BeyondBonus Workbook</h2>
+            <p class="text-sm text-muted-foreground">Alle Übungen, Reflexionsfragen und Materialien an einem Ort.</p>
             <a href="/members/beyondbonus/workbook" class="text-sm text-primary hover:opacity-80 transition-opacity">Workbook öffnen →</a>
           </div>
         </div>
