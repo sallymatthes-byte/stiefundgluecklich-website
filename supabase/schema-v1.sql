@@ -7,6 +7,12 @@ create table if not exists public.profiles (
   id uuid primary key references auth.users (id) on delete cascade,
   email text,
   full_name text,
+  avatar_url text,
+  address_line1 text,
+  postal_code text,
+  city text,
+  country text,
+  phone text,
   created_at timestamptz not null default timezone('utc', now()),
   updated_at timestamptz not null default timezone('utc', now())
 );
@@ -86,6 +92,14 @@ create policy "profiles_select_own"
   for select
   to authenticated
   using (auth.uid() = id);
+
+drop policy if exists "profiles_update_own" on public.profiles;
+create policy "profiles_update_own"
+  on public.profiles
+  for update
+  to authenticated
+  using (auth.uid() = id)
+  with check (auth.uid() = id);
 
 drop policy if exists "access_grants_select_own" on public.access_grants;
 create policy "access_grants_select_own"

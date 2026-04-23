@@ -18,9 +18,9 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
     <div class="container mx-auto px-5 md:px-6 max-w-xl">
       <div class="bg-background border border-border p-8 md:p-10">
         <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Mitgliederbereich</p>
-        <h1 class="font-serif text-3xl md:text-4xl mb-4">Schön, dass du da bist</h1>
-        <p class="text-base text-muted-foreground mb-8 leading-relaxed">
-          Logge dich mit deiner E-Mail-Adresse und deinem Passwort ein, um auf deine Inhalte zuzugreifen.
+        <h1 class="font-serif text-4xl md:text-5xl mb-4 leading-none">Dein Zugang zu BeyondBonus</h1>
+        <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-lg">
+          Logge dich mit deiner E-Mail-Adresse und deinem Passwort ein. Wenn dein Zugang schon freigeschaltet ist und etwas nicht klappt, melde dich direkt bei uns.
         </p>
 
         {signedOut && (
@@ -86,7 +86,7 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
           </button>
         </form>
 
-        <form method="POST" action="/api/auth/reset-password" class="mt-4">
+        <form method="POST" action="/api/auth/reset-password" class="mt-8 border-t border-border pt-6">
           <label class="block text-sm text-muted-foreground mb-3">Passwort vergessen?</label>
           <input
             type="email"
@@ -106,9 +106,12 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
           </button>
         </form>
 
-        <div class="mt-6 space-y-3 border border-dashed border-border p-5 bg-secondary/40 text-sm">
-          <p><strong>Hinweis:</strong> Der Login funktioniert nur für freigeschaltete Zugänge.</p>
-          <p class="text-muted-foreground">Wenn dein Zugang schon freigeschaltet wurde und etwas nicht klappt, meld dich einfach direkt bei uns.</p>
+        <div class="mt-6 space-y-4 border border-border p-5 bg-secondary/35 text-sm leading-relaxed">
+          <div>
+            <p class="font-medium">Du kommst nicht rein, obwohl dein Zugang schon freigeschaltet ist?</p>
+            <p class="text-muted-foreground mt-1">Dann schreib uns einfach kurz, damit wir deinen Zugang mit dir prüfen können.</p>
+          </div>
+          <a href="mailto:willkommen@sallymatthes.com?subject=Hilfe%20beim%20Login%20zum%20Mitgliederbereich" class="inline-flex px-5 py-3 bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity">Uns zum Login schreiben</a>
           {!hasSupabaseConfig && (
             <p class="text-muted-foreground">
               Der Login ist gerade noch nicht vollständig verbunden. Bitte versuche es gleich nochmal.

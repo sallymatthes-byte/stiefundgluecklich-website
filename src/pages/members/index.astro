@@ -6,8 +6,10 @@ import MembersSidebar from '../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../lib/auth/grants';
 import { loadUserGrants } from '../../lib/auth/load-grants';
 
-const firstName = Astro.locals.user?.email?.split('@')[0]?.split(/[._-]/)[0] || 'du';
-const firstNameLabel = firstName.charAt(0).toUpperCase() + firstName.slice(1);
+const userEmail = Astro.locals.user?.email || '';
+const firstName = userEmail.split('@')[0]?.split(/[._-]/)[0] || '';
+const firstNameLabel = firstName ? firstName.charAt(0).toUpperCase() + firstName.slice(1) : '';
+const dashboardSubtitle = firstNameLabel ? `Willkommen zurück, ${firstNameLabel}.` : 'Willkommen zurück.';
 const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
 const error = Astro.url.searchParams.get('error');
@@ -25,7 +27,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
       <div class="grid gap-8 lg:grid-cols-[280px,1fr]">
         <MembersSidebar
           title="Mitgliederbereich"
-          subtitle={`Hey ${firstNameLabel}`}
+          subtitle={dashboardSubtitle}
           currentPath={Astro.url.pathname}
           topItems={[
             { href: '/members', label: 'Dashboard' },
@@ -41,9 +43,9 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
 
         <div>
           <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Dashboard</p>
-          <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Inhalte</h1>
+          <h1 class="font-serif text-4xl md:text-5xl mb-4 leading-none">Dein Mitgliederbereich</h1>
           <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-            Schön, dass du da bist. Hier findest du alle Inhalte, auf die du aktuell Zugriff hast.
+            Hier findest du alle Inhalte, auf die du gerade Zugriff hast, plus den schnellsten Weg zurück in genau den Bereich, den du als Nächstes brauchst.
           </p>
 
           {passwordUpdated && (
@@ -58,11 +60,11 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
             </div>
           )}
 
-          <div class="border border-border p-6 bg-secondary/30 space-y-2 mb-8">
-            <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
-            <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei Sally.</p>
+          <div class="border border-border p-6 bg-secondary/30 space-y-3 mb-8">
+            <p class="text-sm font-medium">Du suchst etwas und findest es nicht sofort?</p>
+            <p class="text-sm text-muted-foreground">Dann schreib uns direkt, statt lange zu suchen. Gerade im Mitgliederbereich soll alles leicht gehen.</p>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich" class="inline-flex text-sm text-primary hover:opacity-80 transition-opacity">Frage zum Mitgliederbereich stellen</a>
           </div>
-
           <div class="space-y-10">
             <section class="space-y-4">
               <div class="space-y-1">

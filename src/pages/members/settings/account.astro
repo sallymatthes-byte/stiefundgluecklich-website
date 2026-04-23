@@ -2,8 +2,14 @@
 export const prerender = false;
 
 import Layout from '../../../layouts/Layout.astro';
+import { loadMemberProfile } from '../../../lib/auth/load-profile';
 
-const userEmail = Astro.locals.user?.email ?? '';
+const profile = await loadMemberProfile(Astro);
+const userEmail = profile.email || Astro.locals.user?.email || '';
+const firstName = (profile.fullName || userEmail).split(/[._@-]/)[0] || '';
+const profileName = profile.fullName || (firstName ? firstName.charAt(0).toUpperCase() + firstName.slice(1) : '');
+const saved = Astro.url.searchParams.get('saved') === '1';
+const error = Astro.url.searchParams.get('error');
 ---
 
 <Layout
@@ -19,40 +25,107 @@ const userEmail = Astro.locals.user?.email ?? '';
       </a>
 
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Einstellungen</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Account-Einstellungen</h1>
+      <h1 class="font-serif text-4xl md:text-5xl mb-4 leading-none">Dein Account</h1>
       <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier findest du die wichtigsten Einstellungen rund um deinen Zugang, dein Passwort und deine Sprache.
+        Hier kannst du deine persönlichen Angaben ergänzen und dein Passwort direkt in deinem Account ändern.
       </p>
 
-      <div class="grid gap-8 lg:grid-cols-[0.95fr,1.05fr]">
-        <section class="border border-border p-6 bg-background space-y-4">
-          <h2 class="font-serif text-2xl">Dein Zugang</h2>
-          <p class="text-sm text-muted-foreground">Angemeldete E-Mail-Adresse</p>
-          <p class="text-base">{userEmail}</p>
-          <a href="/login" class="text-sm text-primary hover:opacity-80 transition-opacity">Passwort über Login-Seite zurücksetzen</a>
-        </section>
+      {saved && (
+        <div class="mb-6 border border-border bg-secondary/35 p-4 text-sm leading-relaxed">
+          Deine Angaben wurden gespeichert.
+        </div>
+      )}
 
-        <section class="border border-border p-6 bg-background space-y-5">
-          <h2 class="font-serif text-2xl">Persönliche Einstellungen</h2>
-          <div class="grid gap-4 md:grid-cols-2">
-            <label class="block">
-              <span class="block text-sm mb-2">Anzeigesprache</span>
-              <select class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
-                <option>Deutsch</option>
-                <option>English</option>
-                <option>Français</option>
-              </select>
-            </label>
-            <label class="block">
-              <span class="block text-sm mb-2">Zeitzone</span>
-              <select class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
-                <option>Europe/Paris</option>
-                <option>Europe/Berlin</option>
-                <option>UTC</option>
-              </select>
-            </label>
+      {error && (
+        <div class="mb-6 border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
+          Die Angaben konnten gerade nicht gespeichert werden: {error}
+        </div>
+      )}
+
+      <div class="space-y-8">
+        <form method="POST" action="/api/account/update-profile" class="border border-border p-6 md:p-8 bg-background space-y-6">
+          <div class="space-y-2">
+            <h2 class="font-serif text-3xl">Persönliche Angaben</h2>
+            <p class="text-sm text-muted-foreground">Alles, was zu deinem Profil im Mitgliederbereich gehört.</p>
           </div>
-          <p class="text-sm text-muted-foreground">Die Sprachumschaltung ist als Vorbereitung schon angelegt. Als Nächstes können die Inhalte dafür vollständig mehrsprachig aufgebaut werden.</p>
+
+          <div class="grid gap-8 lg:grid-cols-[220px,1fr]">
+            <div class="space-y-4">
+              <div class="aspect-square border border-border bg-secondary/30 flex items-center justify-center text-center p-6 overflow-hidden">
+                {profile.avatarUrl ? (
+                  <img src={profile.avatarUrl} alt={`Profilbild von ${profileName || 'Mitglied'}`} class="w-full h-full object-cover" />
+                ) : (
+                  <div>
+                    <p class="font-serif text-2xl">{profileName || 'Profilbild'}</p>
+                    <p class="text-sm text-muted-foreground mt-2">Du kannst hier ein Profilbild über eine Bild-URL hinterlegen.</p>
+                  </div>
+                )}
+              </div>
+            </div>
+
+            <div class="grid gap-4 md:grid-cols-2">
+              <label class="block md:col-span-2">
+                <span class="block text-sm mb-2">Name</span>
+                <input type="text" name="full_name" value={profile.fullName} placeholder="Dein Name" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block md:col-span-2">
+                <span class="block text-sm mb-2">Profilbild-URL</span>
+                <input type="url" name="avatar_url" value={profile.avatarUrl} placeholder="https://..." class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block md:col-span-2">
+                <span class="block text-sm mb-2">E-Mail-Adresse</span>
+                <input type="email" value={userEmail} readonly class="w-full border border-border bg-secondary/20 px-4 py-3 text-muted-foreground focus:outline-none" />
+                <span class="block text-xs text-muted-foreground mt-2">Diese E-Mail ist aktuell dein Login. Wenn sie geändert werden soll, machen wir das im nächsten Schritt sauber über den Auth-Flow.</span>
+              </label>
+              <label class="block md:col-span-2">
+                <span class="block text-sm mb-2">Straße und Hausnummer</span>
+                <input type="text" name="address_line1" value={profile.addressLine1} placeholder="Straße und Hausnummer" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block">
+                <span class="block text-sm mb-2">PLZ</span>
+                <input type="text" name="postal_code" value={profile.postalCode} placeholder="PLZ" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block">
+                <span class="block text-sm mb-2">Ort</span>
+                <input type="text" name="city" value={profile.city} placeholder="Ort" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block">
+                <span class="block text-sm mb-2">Land</span>
+                <input type="text" name="country" value={profile.country} placeholder="Land" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+              <label class="block">
+                <span class="block text-sm mb-2">Telefon</span>
+                <input type="text" name="phone" value={profile.phone} placeholder="Telefonnummer" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+              </label>
+            </div>
+          </div>
+
+          <div class="flex flex-wrap gap-3">
+            <button type="submit" class="inline-flex px-5 py-3 bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity">Änderungen speichern</button>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20meinem%20Account" class="inline-flex px-5 py-3 border border-border hover:bg-secondary/40 transition-colors text-sm">Frage zu meinem Account</a>
+          </div>
+        </form>
+
+        <section class="border border-border p-6 md:p-8 bg-background space-y-6">
+          <div class="space-y-2">
+            <h2 class="font-serif text-3xl">Passwort ändern</h2>
+            <p class="text-sm text-muted-foreground">Wenn du dein Passwort ändern möchtest, kannst du das direkt hier tun.</p>
+          </div>
+
+          <form method="POST" action="/api/auth/update-password" class="grid gap-4 md:max-w-xl">
+            <label class="block">
+              <span class="block text-sm mb-2">Neues Passwort</span>
+              <input type="password" name="password" required autocomplete="new-password" placeholder="Neues Passwort" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+            </label>
+            <label class="block">
+              <span class="block text-sm mb-2">Neues Passwort wiederholen</span>
+              <input type="password" name="password_repeat" required autocomplete="new-password" placeholder="Passwort wiederholen" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+            </label>
+            <div class="flex flex-wrap gap-3 pt-2">
+              <button type="submit" class="inline-flex px-5 py-3 bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity">Passwort speichern</button>
+              <a href="/login" class="inline-flex px-5 py-3 border border-border hover:bg-secondary/40 transition-colors text-sm">Lieber per Reset-Link ändern</a>
+            </div>
+          </form>
         </section>
       </div>
     </div>
