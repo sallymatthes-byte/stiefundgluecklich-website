@@ -23,7 +23,7 @@ const {
 const isActive = (href: string) => currentPath === href || currentPath.startsWith(`${href}/`);
 ---
 
-<aside class="self-start lg:sticky lg:top-8 bg-[#f3f1ec] p-6 md:p-7 space-y-8 min-w-0">
+<aside class="self-start md:sticky md:top-8 bg-[#f3f1ec] p-6 md:p-7 space-y-8 min-w-0 w-full md:w-[240px]">
   <div class="space-y-3 px-1">
     <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">{title}</p>
     <h2 class="font-serif text-3xl leading-none break-words">{subtitle}</h2>
