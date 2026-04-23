@@ -5,17 +5,13 @@ import Layout from '../../layouts/Layout.astro';
 import MembersSidebar from '../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../lib/auth/grants';
 import { loadUserGrants } from '../../lib/auth/load-grants';
-import { beyondBonusCourseMeta, beyondBonusModules, getBeyondBonusModuleCover } from '../../lib/beyondbonus/content';
 
-const userEmail = Astro.locals.user?.email || '';
-const firstName = userEmail.split('@')[0]?.split(/[._-]/)[0] || '';
-const firstNameLabel = firstName ? firstName.charAt(0).toUpperCase() + firstName.slice(1) : '';
-const dashboardSubtitle = firstNameLabel ? `Herzlich willkommen, ${firstNameLabel}.` : 'Herzlich willkommen.';
+const firstName = Astro.locals.user?.email?.split('@')[0]?.split(/[._-]/)[0] || 'du';
+const firstNameLabel = firstName.charAt(0).toUpperCase() + firstName.slice(1);
 const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
 const error = Astro.url.searchParams.get('error');
 const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
-const firstModule = beyondBonusModules[0];
 ---
 
 <Layout
@@ -24,12 +20,12 @@ const firstModule = beyondBonusModules[0];
   description="Geschützter Mitgliederbereich von Stief und Glücklich."
   noHeader={true}
 >
-  <section class="py-16 md:py-20">
-    <div class="container mx-auto px-5 md:px-6 max-w-7xl">
-      <div class="grid gap-8 md:grid-cols-[240px,minmax(0,1fr)] items-start">
+  <section class="py-20 md:py-28">
+    <div class="container mx-auto px-5 md:px-6 max-w-6xl">
+      <div class="grid gap-8 md:grid-cols-[240px_minmax(0,1fr)] md:items-start">
         <MembersSidebar
           title="Mitgliederbereich"
-          subtitle={dashboardSubtitle}
+          subtitle={`Hey ${firstNameLabel}`}
           currentPath={Astro.url.pathname}
           topItems={[
             { href: '/members', label: 'Dashboard' },
@@ -43,134 +39,116 @@ const firstModule = beyondBonusModules[0];
           ]}
         />
 
-        <div class="space-y-8">
-          <div class="flex items-center justify-between gap-4">
-            <div>
-              <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-3">Dashboard</p>
-              <h1 class="font-serif text-4xl md:text-5xl leading-none">Dein persönlicher Bereich</h1>
-            </div>
-            <form method="POST" action="/api/auth/sign-out">
-              <button type="submit" class="border border-border px-4 py-2 text-sm hover:bg-secondary/40 transition-colors">Logout</button>
-            </form>
-          </div>
+        <div>
+          <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Dashboard</p>
+          <h1 class="font-serif text-3xl md:text-4xl mb-4">Deine Inhalte</h1>
+          <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
+            Schön, dass du da bist. Hier findest du alle Inhalte, auf die du aktuell Zugriff hast.
+          </p>
 
           {passwordUpdated && (
-            <div class="border border-border bg-secondary/30 p-4 text-sm leading-relaxed">
+            <div class="mb-6 border border-border bg-secondary/40 p-4 text-sm leading-relaxed">
               Dein neues Passwort wurde gespeichert.
             </div>
           )}
 
           {error === 'no-access' && (
-            <div class="border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
+            <div class="mb-6 border border-red-200 bg-red-50 p-4 text-sm leading-relaxed">
               Für diesen Bereich ist aktuell noch kein freigeschalteter Zugang hinterlegt.
             </div>
           )}
 
-          <section class="grid gap-6 lg:grid-cols-[1.5fr,0.85fr] items-stretch">
-            <div class="relative overflow-hidden border border-border min-h-[280px] bg-[#31372a] text-white">
-              <img src={beyondBonusCourseMeta.coverImage} alt="BeyondBonus Cover" class="absolute inset-0 w-full h-full object-cover opacity-70" />
-              <div class="absolute inset-0 bg-gradient-to-r from-[#70735f]/85 via-[#70735f]/70 to-transparent"></div>
-              <div class="relative h-full p-8 md:p-10 flex flex-col justify-between gap-6">
-                <div class="max-w-md space-y-4 bg-black/18 backdrop-blur-[1px] p-6 md:p-7">
-                  <p class="text-xs uppercase tracking-[0.22em] text-white/70">BeyondBonus</p>
-                  <h2 class="font-serif text-4xl md:text-5xl leading-none">{dashboardSubtitle}</h2>
-                  <p class="text-base text-white/85 leading-relaxed">
-                    Hier findest du deine Module, dein Workbook und den schnellsten Weg zurück in die Lektion, die als Nächstes dran ist.
+          <div class="border border-border p-6 bg-secondary/30 space-y-2 mb-8">
+            <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
+            <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei Sally.</p>
+          </div>
+
+          <div class="space-y-10">
+            <section class="space-y-4">
+              <div class="space-y-1">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Freigeschaltet</p>
+                <h2 class="font-serif text-2xl">Deine aktuellen Programme</h2>
+              </div>
+
+              <div class="grid gap-6 md:grid-cols-2">
+                <div class="border border-border bg-background p-7 space-y-4">
+                  <div class="space-y-2">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
+                    <h3 class="font-serif text-2xl">Kursbereich</h3>
+                  </div>
+                  <p class="text-sm text-muted-foreground leading-relaxed">
+                    Alle Module, Lektionen und dein zentrales Workbook für BeyondBonus.
                   </p>
+                  <a
+                    href="/members/beyondbonus"
+                    class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+                  >
+                    Kurs öffnen
+                  </a>
                 </div>
 
-                <div class="flex flex-wrap gap-3">
-                  <a href="/members/beyondbonus" class="inline-flex px-5 py-3 bg-white/10 border border-white/30 text-white hover:bg-white/15 transition-colors text-sm font-medium">Meine Kurse</a>
-                  <a href="/members/settings/account" class="inline-flex px-5 py-3 bg-white/10 border border-white/20 text-white hover:bg-white/15 transition-colors text-sm font-medium">Mein Account</a>
+                <div class="border border-border bg-background p-7 space-y-4">
+                  <div class="space-y-2">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
+                    <h3 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h3>
+                  </div>
+                  <p class="text-sm text-muted-foreground leading-relaxed">
+                    Deine Livecalls und Aufzeichnungen gesammelt an einem Ort.
+                  </p>
+                  <a
+                    href="/livecalls/beyondbonus"
+                    class={`inline-flex px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+                  >
+                    Livecalls öffnen
+                  </a>
                 </div>
               </div>
-            </div>
+            </section>
 
-            <div class="border border-border bg-background p-5 md:p-6 flex flex-col justify-between gap-5">
-              <div class="space-y-3">
-                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Direkt weitermachen</p>
-                <div class="aspect-[16/9] overflow-hidden border border-border bg-black">
-                  <img src={getBeyondBonusModuleCover(firstModule.slug)} alt={`Cover ${firstModule.title}`} class="w-full h-full object-cover" />
-                </div>
-                <div class="space-y-1">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Nächster sinnvoller Start</p>
-                  <h3 class="font-serif text-2xl">{firstModule.lessons[0]?.title || 'Einführung'}</h3>
-                  <p class="text-sm text-muted-foreground">{firstModule.title} · {firstModule.lessons[0]?.mediaType === 'audio' ? 'Audio' : 'Video'}</p>
-                </div>
+            <section class="space-y-4">
+              <div class="space-y-1">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Noch nicht freigeschaltet</p>
+                <h2 class="font-serif text-2xl">Was du dir zusätzlich anschauen kannst</h2>
               </div>
 
-              <a href={`/members/beyondbonus/${firstModule.slug}/${firstModule.lessons[0]?.slug || 'einfuehrung'}`} class={`inline-flex items-center justify-center px-5 py-3 text-sm font-medium transition-colors ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}>
-                Fortsetzen
-              </a>
-            </div>
-          </section>
-
-          <section class="space-y-5">
-            <div class="space-y-1">
-              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Deine Inhalte</p>
-              <h2 class="font-serif text-3xl">Deine aktuellen Programme</h2>
-            </div>
-
-            <div class="grid gap-6 md:grid-cols-2 xl:grid-cols-[1.1fr,0.9fr]">
-              <a href="/members/beyondbonus" class="group border border-border bg-background overflow-hidden hover:shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-shadow">
-                <div class="aspect-[16/9] overflow-hidden bg-black">
-                  <img src={beyondBonusCourseMeta.coverImage} alt="BeyondBonus" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-[1.02]" />
+              <div class="grid gap-6 md:grid-cols-2">
+                <div class="border border-border bg-background p-7 space-y-4">
+                  <div class="space-y-2">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">ITS Bundle</p>
+                    <h3 class="font-serif text-2xl">Dein Einstieg</h3>
+                  </div>
+                  <p class="text-sm text-muted-foreground leading-relaxed">
+                    Drei kompakte Kernbereiche für Zugehörigkeit, Kommunikation und Grenzen im Patchworkalltag.
+                  </p>
+                  <a href="/its-bundle" class="inline-flex px-5 py-3 text-sm font-medium bg-secondary hover:bg-secondary/80 transition-colors">
+                    Jetzt entdecken
+                  </a>
                 </div>
-                <div class="p-6 space-y-3">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
-                  <h3 class="font-serif text-3xl">Kursbereich</h3>
-                  <p class="text-sm text-muted-foreground leading-relaxed">Alle Module, Lektionen und dein zentrales Workbook für BeyondBonus in einem klaren, ruhigen Lernbereich.</p>
-                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.course ? 'bg-primary text-primary-foreground' : 'bg-secondary text-muted-foreground'}`}>
-                    {beyondBonus.course ? 'Kurs öffnen' : 'Noch nicht freigeschaltet'}
-                  </span>
-                </div>
-              </a>
-
-              <div class="grid gap-6">
-                <a href="/livecalls/beyondbonus" class="border border-border bg-background p-6 space-y-4 hover:shadow-[0_10px_30px_rgba(0,0,0,0.06)] transition-shadow">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
-                  <h3 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h3>
-                  <p class="text-sm text-muted-foreground leading-relaxed">Deine Livecalls gesammelt an einem Ort, damit du nicht suchen musst, sondern direkt wieder einsteigen kannst.</p>
-                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground' : 'bg-secondary text-muted-foreground'}`}>
-                    {beyondBonus.livecalls ? 'Livecalls öffnen' : 'Noch nicht freigeschaltet'}
-                  </span>
-                </a>
-
-                <a href="/members/settings/account" class="border border-border bg-background p-6 space-y-4 hover:shadow-[0_10px_30px_rgba(0,0,0,0.06)] transition-shadow">
-                  <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Persönlich</p>
-                  <h3 class="font-serif text-2xl">Dein Account</h3>
-                  <p class="text-sm text-muted-foreground leading-relaxed">Passe dein Profil an, hinterlege dein Bild und halte deine Angaben direkt in deinem Mitgliederbereich aktuell.</p>
-                  <span class="inline-flex px-4 py-2 text-sm font-medium border border-border">Account öffnen</span>
-                </a>
               </div>
-            </div>
-          </section>
+            </section>
 
-          <section class="grid gap-6 lg:grid-cols-[1.15fr,0.85fr]">
-            <div class="border border-border bg-background p-6 md:p-7 space-y-4">
-              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Orientierung</p>
-              <h2 class="font-serif text-3xl">Dein Zugang im Überblick</h2>
+            <section class="border border-border bg-background p-7 space-y-3">
+              <p class="text-sm font-medium">Dein Zugang im Überblick</p>
               {grants.length > 0 ? (
-                <ul class="space-y-3 text-sm text-muted-foreground">
+                <ul class="space-y-2 text-sm text-muted-foreground">
                   {grants.map((grant) => (
-                    <li class="flex items-center justify-between gap-4 border-b border-border pb-3 last:border-b-0 last:pb-0">
-                      <span>{grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}</span>
-                      <span>{grant.endsAt ? `bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : 'aktiv'}</span>
+                    <li>
+                      {grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}
+                      {grant.endsAt ? ` · verfügbar bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
                     </li>
                   ))}
                 </ul>
               ) : (
                 <p class="text-sm text-muted-foreground">Noch kein aktiver Zugang hinterlegt.</p>
               )}
-            </div>
+            </section>
+          </div>
 
-            <div class="border border-border bg-background p-6 md:p-7 space-y-4">
-              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Fragen?</p>
-              <h2 class="font-serif text-3xl">Wir helfen dir weiter</h2>
-              <p class="text-sm text-muted-foreground leading-relaxed">Wenn du etwas nicht findest oder dein Zugang hakt, schreib uns direkt. Du sollst hier nicht lange suchen müssen.</p>
-              <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich" class="inline-flex px-5 py-3 border border-border hover:bg-secondary/40 transition-colors text-sm font-medium">Frage zum Mitgliederbereich stellen</a>
-            </div>
-          </section>
+          <form method="POST" action="/api/auth/sign-out" class="mt-6">
+            <button type="submit" class="border border-border px-4 py-2 text-sm hover:bg-secondary/40 transition-colors">
+              Logout
+            </button>
+          </form>
         </div>
       </div>
     </div>

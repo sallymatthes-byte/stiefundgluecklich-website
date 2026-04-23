@@ -21,25 +21,6 @@ export const workbookInfo = {
   description: 'Das zentrale Workbook bündelt alle Übungen, Reflexionsfragen und Transferimpulse an einem Ort, statt sie über einzelne Module zu verstreuen.',
 };
 
-export const beyondBonusCourseMeta = {
-  title: 'BeyondBonus',
-  subtitle: 'Werde die Bonusmama, die ihren Platz kennt und lebt.',
-  coverImage: '/images/beyondbonus/covers/beyondbonus.png',
-};
-
-const moduleCoverMap: Record<string, string> = {
-  'start-einstieg': '/images/beyondbonus/covers/willkommen.png',
-  'deine-vision': '/images/beyondbonus/covers/vision.png',
-  'persoenlichkeit-und-rolle': '/images/beyondbonus/covers/mindset.png',
-  patchworkdynamiken: '/images/beyondbonus/covers/dynamik.png',
-  kraftquellen: '/images/beyondbonus/covers/power.png',
-  bonuskinder: '/images/beyondbonus/covers/verbindung.png',
-  partnerschaft: '/images/beyondbonus/covers/team.png',
-  kommunikationsstrategien: '/images/beyondbonus/covers/klartext.png',
-  'ex-partnerin': '/images/beyondbonus/covers/ex-faktor.png',
-  'deine-zukunft': '/images/beyondbonus/covers/rise.png',
-};
-
 const lessonCoverPool = [
   '/images/beyondbonus/covers/willkommen.png',
   '/images/beyondbonus/covers/vision.png',
@@ -305,8 +286,8 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     lessons: [
       {
         slug: 'beduerfnisse-der-bonuskinder',
-        title: 'Teil der Familie werden',
-        description: 'Diese Lektion hilft dir zu verstehen, wie Zugehörigkeit im Patchwork wachsen kann, ohne dass du dich verbiegst oder deinen Platz klein machst.',
+        title: 'Bedürfnisse der Bonuskinder',
+        description: 'Diese Lektion hilft dir zu verstehen, was Kinder in schwierigen Momenten wirklich brauchen und warum ihr Verhalten oft mehr Schutz als Ablehnung ist.',
         driveId: '1k321EgRUnkds3b5SBrLDLzmYkOkNs9iN',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/teil-der-familie-werden/media.mp4?md5=46oR9XnmEbA8bf2HOAcxzA&expires=1808401735',
@@ -342,14 +323,6 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     intro: 'Dieses Modul stärkt eure Partnerschaft im Patchworkalltag. Es geht um Nähe, Stabilität, gemeinsame Ausrichtung und echte Verbindung.',
     lessons: [
       {
-        slug: 'zwiegespraeche',
-        title: 'Zwiegespräche',
-        description: 'Diese Lektion zeigt euch ein klares Ritual, mit dem ihr wieder tiefer miteinander ins Gespräch kommt als nur über Termine und To-dos.',
-        driveId: '1ht-HVzizNpKV7qOyJeT0c9usdNnBQhaW',
-        mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/zwiegespraech/media.mp4?md5=vTa2Yx-JrjwKy8B8q0QmsA&expires=1808401735',
-      },
-      {
         slug: 'paarzeit-zurueckerobern',
         title: 'Paarzeit zurückerobern',
         description: 'Du entwickelst erste konkrete Schritte, um trotz engem Familienalltag wieder bewusste Paarzeit, Nähe und Verbindung zurückzuholen.',
@@ -379,13 +352,14 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         slug: 'finanzen',
         title: 'Finanzen im Patchwork',
         description: 'Diese Lektion hilft euch, Geldthemen bewusster und ehrlicher anzuschauen, damit daraus weniger versteckte Spannungen entstehen.',
+        driveId: '13ndIpxyGZdtb9SenV6GT46zmOz0fONGP',
+        mediaType: 'video',
+        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/unterschiedliche-erziehungsstile/media.mp4?md5=Ohg06OCPNN9prxWey5jgWg&expires=1808401735',
       },
       {
         slug: 'drei-fragen-fuer-sicherheit',
         title: '3 Fragen für Sicherheit',
         description: 'Drei Fragen, die euch helfen, Sicherheit in der Partnerschaft wieder gezielter aufzubauen.',
-        mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/sicherheit-in-der-partnerschaft/media.mp4?md5=6ig1Sk7vZJadF_pYT4uQ_Q&expires=1808401735',
       },
       {
         slug: 'fuenf-saetze-fuer-verstaendnis',
@@ -402,11 +376,25 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     intro: 'In diesem Modul geht es um Gesprächsführung, Zuhören und konkrete Werkzeuge für schwierige Situationen im Patchworkalltag.',
     lessons: [
       {
+        slug: 'ich-botschaften',
+        title: 'Ich-Botschaften',
+        description: 'Hier lernst du, wie du Angriffe vermeidest und trotzdem klar sagst, was in dir vorgeht und was du brauchst.',
+        driveId: '1JjO4XEoGCQRqspk9HlHylvB5kqDml8ao',
+        mediaType: 'video',
+        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/familienrituale/media.mp4?md5=KoHh42P8iYL20PJkoRB6tw&expires=1808396245',
+      },
+      {
+        slug: 'aktives-zuhoeren',
+        title: 'Aktives Zuhören',
+        description: 'Diese Lektion zeigt, wie echtes Zuhören Verbindung schafft und warum bloßes Schweigen noch kein Verstehen ist.',
+        driveId: '1adYNLH2fCW9l6KhW31DKJ4ejwgG9Nz0a',
+        mediaType: 'video',
+        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/aktives-zuhoeren/media.mp4?md5=HvoKrwqNvl3cwOCvYT7hjQ&expires=1808401735',
+      },
+      {
         slug: 'wuensche-statt-vorwuerfe',
         title: 'Wünsche statt Vorwürfe',
-        description: 'Hier lernst du, wie du heikle Themen bewusst ansprechen kannst, ohne direkt in Angriff, Rechtfertigung oder Rückzug zu rutschen.',
-        mediaType: 'audio',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/gespraeche-beginnen/media.mp3?md5=2DIk5P2a_TZ_efGiVkpRtw&expires=1808401735',
+        description: 'Hier lernst du, wie du deine Wünsche klar ausdrücken kannst, statt in Vorwürfen hängen zu bleiben.',
       },
       {
         slug: 'gewaltfreie-kommunikation',
@@ -417,31 +405,12 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/gewaltfreie-kommunikation/media.mp4?md5=Wu-STg28ui3izbrN347pvA&expires=1808401735',
       },
       {
-        slug: 'gefuehle-benennen',
-        title: 'Gefühle benennen',
-        description: 'Diese Lektion hilft dir, Gefühle als klare Information zu lesen statt sie herunterzuschlucken oder gegen andere zu richten.',
-      },
-      {
-        slug: 'vier-ohren-modell',
-        title: '4-Ohren-Modell',
-        description: 'Du verstehst, wie Botschaften unterschiedlich gehört werden und warum Missverständnisse im Patchwork oft schneller eskalieren.',
+        slug: 'zwiegespraeche',
+        title: 'Zwiegespräche',
+        description: 'Diese Lektion zeigt euch ein klares Ritual, mit dem ihr wieder tiefer miteinander ins Gespräch kommt als nur über Termine und To-dos.',
+        driveId: '1ht-HVzizNpKV7qOyJeT0c9usdNnBQhaW',
         mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/vier-ohren-modell/media.mp4?md5=7tAYOyWg-ibPCRNl4hu1Vg&expires=1808401735',
-      },
-      {
-        slug: 'ich-botschaften',
-        title: 'Ich-Botschaften',
-        description: 'Hier lernst du, wie du Angriffe vermeidest und trotzdem klar sagst, was in dir vorgeht und was du brauchst.',
-        mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/ich-botschaften/media.mp4?md5=0r86ioALlgOw1m9ZXeAJFQ&expires=1808401735',
-      },
-      {
-        slug: 'aktives-zuhoeren',
-        title: 'Aktives Zuhören',
-        description: 'Diese Lektion zeigt, wie echtes Zuhören Verbindung schafft und warum bloßes Schweigen noch kein Verstehen ist.',
-        driveId: '1adYNLH2fCW9l6KhW31DKJ4ejwgG9Nz0a',
-        mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/aktives-zuhoeren/media.mp4?md5=HvoKrwqNvl3cwOCvYT7hjQ&expires=1808401735',
+        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/zwiegespraech/media.mp4?md5=vTa2Yx-JrjwKy8B8q0QmsA&expires=1808401735',
       },
       {
         slug: 'konflikt-kit',
@@ -491,13 +460,6 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/eifersucht-bei-erinnerungen/media.mp4?md5=JIoms8SGI8b37PTXtMyUbw&expires=1808401735',
       },
-      {
-        slug: 'ferienplanung-mit-der-ex',
-        title: 'Vereinbarungen mit der Ex',
-        description: 'Hier geht es darum, wie ihr konkrete Absprachen mit der Ex trefft, ohne in alte Eskalationsschleifen zurückzufallen.',
-        mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/ferienplanung-mit-der-ex/media.mp4?md5=kCIbYM5THnXH83gYlMecMA&expires=1808401735',
-      },
     ],
   },
   {
@@ -545,16 +507,10 @@ export function getBeyondBonusLesson(moduleSlug: string, lessonSlug: string) {
   return getBeyondBonusModule(moduleSlug)?.lessons.find((lesson) => lesson.slug === lessonSlug);
 }
 
-export function getBeyondBonusModuleCover(moduleSlug: string) {
-  return moduleCoverMap[moduleSlug] || beyondBonusCourseMeta.coverImage;
-}
-
 export function getBeyondBonusLessonCover(moduleSlug: string, lessonSlug: string) {
-  const moduleCover = getBeyondBonusModuleCover(moduleSlug);
   const seed = `${moduleSlug}::${lessonSlug}`;
   const hash = [...seed].reduce((total, char) => total + char.charCodeAt(0), 0);
-  const filtered = lessonCoverPool.filter((cover) => cover !== moduleCover);
-  return filtered[hash % filtered.length] || moduleCover;
+  return lessonCoverPool[hash % lessonCoverPool.length];
 }
 
 export function getLessonKey(moduleSlug: string, lessonSlug: string) {
