@@ -71,11 +71,11 @@ const firstModule = beyondBonusModules[0];
               <img src={beyondBonusCourseMeta.coverImage} alt="BeyondBonus Cover" class="absolute inset-0 w-full h-full object-cover opacity-70" />
               <div class="absolute inset-0 bg-gradient-to-r from-[#70735f]/85 via-[#70735f]/70 to-transparent"></div>
               <div class="relative h-full p-8 md:p-10 flex flex-col justify-between gap-6">
-                <div class="max-w-xl space-y-4">
+                <div class="max-w-md space-y-4 bg-black/18 backdrop-blur-[1px] p-6 md:p-7">
                   <p class="text-xs uppercase tracking-[0.22em] text-white/70">BeyondBonus</p>
                   <h2 class="font-serif text-4xl md:text-5xl leading-none">{dashboardSubtitle}</h2>
                   <p class="text-base text-white/85 leading-relaxed">
-                    Das ist dein geschützter Bereich. Hier findest du deine Module, dein Workbook und den schnellsten Weg zurück in die Lektion, die als Nächstes dran ist.
+                    Hier findest du deine Module, dein Workbook und den schnellsten Weg zurück in die Lektion, die als Nächstes dran ist.
                   </p>
                 </div>
 
@@ -99,7 +99,7 @@ const firstModule = beyondBonusModules[0];
                 </div>
               </div>
 
-              <a href={`/members/beyondbonus/${firstModule.slug}/${firstModule.lessons[0]?.slug || 'einfuehrung'}`} class={`inline-flex items-center justify-center px-5 py-3 text-sm font-medium transition-colors ${beyondBonus.course ? 'bg-[#3ed39f] text-[#1f3324] hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}>
+              <a href={`/members/beyondbonus/${firstModule.slug}/${firstModule.lessons[0]?.slug || 'einfuehrung'}`} class={`inline-flex items-center justify-center px-5 py-3 text-sm font-medium transition-colors ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}>
                 Fortsetzen
               </a>
             </div>
@@ -120,7 +120,7 @@ const firstModule = beyondBonusModules[0];
                   <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
                   <h3 class="font-serif text-3xl">Kursbereich</h3>
                   <p class="text-sm text-muted-foreground leading-relaxed">Alle Module, Lektionen und dein zentrales Workbook für BeyondBonus in einem klaren, ruhigen Lernbereich.</p>
-                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.course ? 'bg-[#3ed39f] text-[#1f3324]' : 'bg-secondary text-muted-foreground'}`}>
+                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.course ? 'bg-primary text-primary-foreground' : 'bg-secondary text-muted-foreground'}`}>
                     {beyondBonus.course ? 'Kurs öffnen' : 'Noch nicht freigeschaltet'}
                   </span>
                 </div>
@@ -131,7 +131,7 @@ const firstModule = beyondBonusModules[0];
                   <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">BeyondBonus</p>
                   <h3 class="font-serif text-2xl">Livecalls & Aufzeichnungen</h3>
                   <p class="text-sm text-muted-foreground leading-relaxed">Deine Livecalls gesammelt an einem Ort, damit du nicht suchen musst, sondern direkt wieder einsteigen kannst.</p>
-                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.livecalls ? 'bg-[#3ed39f] text-[#1f3324]' : 'bg-secondary text-muted-foreground'}`}>
+                  <span class={`inline-flex px-4 py-2 text-sm font-medium ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground' : 'bg-secondary text-muted-foreground'}`}>
                     {beyondBonus.livecalls ? 'Livecalls öffnen' : 'Noch nicht freigeschaltet'}
                   </span>
                 </a>

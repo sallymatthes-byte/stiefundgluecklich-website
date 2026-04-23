@@ -40,6 +40,20 @@ const moduleCoverMap: Record<string, string> = {
   'deine-zukunft': '/images/beyondbonus/covers/rise.png',
 };
 
+const lessonCoverPool = [
+  '/images/beyondbonus/covers/willkommen.png',
+  '/images/beyondbonus/covers/vision.png',
+  '/images/beyondbonus/covers/mindset.png',
+  '/images/beyondbonus/covers/dynamik.png',
+  '/images/beyondbonus/covers/power.png',
+  '/images/beyondbonus/covers/verbindung.png',
+  '/images/beyondbonus/covers/team.png',
+  '/images/beyondbonus/covers/klartext.png',
+  '/images/beyondbonus/covers/ex-faktor.png',
+  '/images/beyondbonus/covers/rise.png',
+  '/images/beyondbonus/covers/beyondbonus.png',
+];
+
 export const beyondBonusModules: BeyondBonusModule[] = [
   {
     slug: 'start-einstieg',
@@ -535,8 +549,12 @@ export function getBeyondBonusModuleCover(moduleSlug: string) {
   return moduleCoverMap[moduleSlug] || beyondBonusCourseMeta.coverImage;
 }
 
-export function getBeyondBonusLessonCover(moduleSlug: string, _lessonSlug: string) {
-  return getBeyondBonusModuleCover(moduleSlug);
+export function getBeyondBonusLessonCover(moduleSlug: string, lessonSlug: string) {
+  const moduleCover = getBeyondBonusModuleCover(moduleSlug);
+  const seed = `${moduleSlug}::${lessonSlug}`;
+  const hash = [...seed].reduce((total, char) => total + char.charCodeAt(0), 0);
+  const filtered = lessonCoverPool.filter((cover) => cover !== moduleCover);
+  return filtered[hash % filtered.length] || moduleCover;
 }
 
 export function getLessonKey(moduleSlug: string, lessonSlug: string) {
