@@ -21,6 +21,25 @@ export const workbookInfo = {
   description: 'Das zentrale Workbook bündelt alle Übungen, Reflexionsfragen und Transferimpulse an einem Ort, statt sie über einzelne Module zu verstreuen.',
 };
 
+export const beyondBonusCourseMeta = {
+  title: 'BeyondBonus',
+  subtitle: 'Werde die Bonusmama, die ihren Platz kennt und lebt.',
+  coverImage: '/images/beyondbonus/covers/beyondbonus.png',
+};
+
+const moduleCoverMap: Record<string, string> = {
+  'start-einstieg': '/images/beyondbonus/covers/willkommen.png',
+  'deine-vision': '/images/beyondbonus/covers/vision.png',
+  'persoenlichkeit-und-rolle': '/images/beyondbonus/covers/mindset.png',
+  patchworkdynamiken: '/images/beyondbonus/covers/dynamik.png',
+  kraftquellen: '/images/beyondbonus/covers/power.png',
+  bonuskinder: '/images/beyondbonus/covers/verbindung.png',
+  partnerschaft: '/images/beyondbonus/covers/team.png',
+  kommunikationsstrategien: '/images/beyondbonus/covers/klartext.png',
+  'ex-partnerin': '/images/beyondbonus/covers/ex-faktor.png',
+  'deine-zukunft': '/images/beyondbonus/covers/rise.png',
+};
+
 export const beyondBonusModules: BeyondBonusModule[] = [
   {
     slug: 'start-einstieg',
@@ -510,6 +529,14 @@ export function getBeyondBonusModule(slug: string) {
 
 export function getBeyondBonusLesson(moduleSlug: string, lessonSlug: string) {
   return getBeyondBonusModule(moduleSlug)?.lessons.find((lesson) => lesson.slug === lessonSlug);
+}
+
+export function getBeyondBonusModuleCover(moduleSlug: string) {
+  return moduleCoverMap[moduleSlug] || beyondBonusCourseMeta.coverImage;
+}
+
+export function getBeyondBonusLessonCover(moduleSlug: string, _lessonSlug: string) {
+  return getBeyondBonusModuleCover(moduleSlug);
 }
 
 export function getLessonKey(moduleSlug: string, lessonSlug: string) {

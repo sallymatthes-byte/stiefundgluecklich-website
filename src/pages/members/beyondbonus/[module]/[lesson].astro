@@ -2,9 +2,10 @@
 export const prerender = false;
 
 import Layout from '../../../../layouts/Layout.astro';
+import MembersSidebar from '../../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../../lib/auth/grants';
 import { loadUserGrants } from '../../../../lib/auth/load-grants';
-import { getBeyondBonusLesson, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
+import { beyondBonusModules, getBeyondBonusLesson, getBeyondBonusLessonCover, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
@@ -35,74 +36,112 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
   description={lesson.description}
   noHeader={true}
 >
-  <section class="py-20 md:py-28" data-lesson-key={lessonKey}>
-    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
-        ← Zurück zu {module.title}
-      </a>
+  <section class="py-16 md:py-20" data-lesson-key={lessonKey}>
+    <div class="container mx-auto px-5 md:px-6 max-w-7xl">
+      <div class="grid gap-8 xl:grid-cols-[260px,1fr] items-start">
+        <MembersSidebar
+          title="BeyondBonus"
+          subtitle={module.title}
+          currentPath={Astro.url.pathname}
+          topItems={[
+            { href: '/members', label: 'Dashboard' },
+            { href: '/members/beyondbonus', label: 'Kursübersicht' },
+            ...beyondBonusModules.map((entry) => ({ href: `/members/beyondbonus/${entry.slug}`, label: `Modul ${entry.number}` })),
+            { href: '/members/beyondbonus/workbook', label: 'Workbook' },
+          ]}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion', label: 'Support' },
+          ]}
+        />
 
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus · Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">{lesson.title}</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">{lesson.description}</p>
+        <div class="space-y-8">
+          <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">← Zurück zu {module.title}</a>
 
-      <div class="grid gap-8 lg:grid-cols-[1.25fr,0.75fr]">
-        <div class="space-y-6">
-          <section class="border border-border p-6 bg-background">
-            <div class="flex items-center justify-between gap-4 mb-4">
-              <h2 class="font-serif text-2xl">Video</h2>
-              <span class="text-xs px-2 py-1 bg-secondary/40 border border-border" data-lesson-state>Nicht gestartet</span>
-            </div>
-
-            <div class="aspect-video border border-border overflow-hidden bg-black flex items-center justify-center" data-media-shell data-media-endpoint={mediaEndpoint}>
-              <div class="p-8 text-center text-sm text-white/80 leading-relaxed" data-media-status>
-                Video wird geladen ...
+          <section class="relative overflow-hidden border border-border min-h-[210px] bg-[#31372a] text-white">
+            <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt={`Cover ${lesson.title}`} class="absolute inset-0 w-full h-full object-cover opacity-80" />
+            <div class="absolute inset-0 bg-gradient-to-r from-black/60 via-black/35 to-transparent"></div>
+            <div class="relative h-full p-8 md:p-10 flex flex-col justify-between gap-6">
+              <div class="max-w-3xl space-y-3">
+                <p class="text-xs uppercase tracking-[0.22em] text-white/70">Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
+                <h1 class="font-serif text-4xl md:text-5xl leading-none">{lesson.title}</h1>
+                <p class="text-base text-white/85 leading-relaxed">{lesson.description}</p>
               </div>
             </div>
           </section>
 
-          <section class="border border-border p-6 bg-background space-y-4">
-            <h2 class="font-serif text-2xl">Dein Fortschritt</h2>
-            <p class="text-sm text-muted-foreground">Du kannst diese Lektion manuell als erledigt markieren und später jederzeit wieder ändern.</p>
-            <button type="button" class="bg-primary text-primary-foreground px-5 py-3 text-sm font-medium hover:opacity-90 transition-opacity" data-toggle-complete>
-              Als erledigt markieren
-            </button>
-          </section>
+          <div class="grid gap-8 lg:grid-cols-[minmax(0,1fr),280px] items-start">
+            <div class="space-y-6">
+              <section class="border border-border bg-background overflow-hidden">
+                <div class="aspect-video border-b border-border overflow-hidden bg-black flex items-center justify-center" data-media-shell data-media-endpoint={mediaEndpoint}>
+                  <div class="p-8 text-center text-sm text-white/80 leading-relaxed" data-media-status>
+                    Video wird geladen ...
+                  </div>
+                </div>
 
-          <section class="border border-border p-6 bg-background space-y-4">
-            <h2 class="font-serif text-2xl">Deine Notizen</h2>
-            <p class="text-sm text-muted-foreground">Halte hier direkt fest, was dir wichtig ist, welche Gedanken du mitnimmst oder was du später noch vertiefen möchtest.</p>
-            <textarea data-lesson-notes class="w-full min-h-48 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" placeholder="Deine Notizen zu dieser Lektion ..."></textarea>
-            <p class="text-xs text-muted-foreground" data-notes-status>Deine Notizen werden nur auf diesem Gerät gespeichert.</p>
-          </section>
+                <div class="p-5 flex flex-wrap items-center justify-between gap-4">
+                  <div class="space-y-1">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Dein Fortschritt</p>
+                    <p class="text-sm text-muted-foreground" data-lesson-state>Diese Lektion ist noch nicht abgeschlossen.</p>
+                  </div>
+                  <button type="button" class="inline-flex px-5 py-3 bg-[#3ed39f] text-[#1f3324] text-sm font-medium hover:opacity-90 transition-opacity" data-toggle-complete>
+                    Als erledigt markieren
+                  </button>
+                </div>
+              </section>
+
+              <section class="border border-border bg-background p-6 md:p-7 space-y-4">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Deine Notizen</p>
+                <h2 class="font-serif text-3xl">Was nimmst du aus dieser Lektion mit?</h2>
+                <p class="text-sm text-muted-foreground">Halte hier Gedanken, Erkenntnisse oder nächste Schritte direkt fest.</p>
+                <textarea data-lesson-notes class="w-full min-h-56 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" placeholder="Deine Notizen zu dieser Lektion ..."></textarea>
+                <p class="text-xs text-muted-foreground" data-notes-status>Deine Notizen werden nur auf diesem Gerät gespeichert.</p>
+              </section>
+            </div>
+
+            <aside class="space-y-6">
+              <section class="border border-border bg-background p-5 space-y-4">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Sektion</p>
+                <div class="space-y-3">
+                  {module.lessons.map((entry, index) => (
+                    <a href={`/members/beyondbonus/${module.slug}/${entry.slug}`} class={`grid grid-cols-[72px,1fr] gap-3 border p-2 transition-colors ${entry.slug === lesson.slug ? 'border-primary bg-secondary/20' : 'border-border hover:bg-secondary/20'}`}>
+                      <div class="aspect-[16/10] overflow-hidden bg-black">
+                        <img src={getBeyondBonusLessonCover(module.slug, entry.slug)} alt={`Cover ${entry.title}`} class="w-full h-full object-cover" />
+                      </div>
+                      <div class="min-w-0">
+                        <p class="text-[11px] uppercase tracking-[0.16em] text-muted-foreground">Lektion {String(index + 1).padStart(2, '0')}</p>
+                        <p class="text-sm leading-tight">{entry.title}</p>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </section>
+
+              <section class="border border-border bg-background p-6 space-y-3">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Nächster Schritt</p>
+                {nextLesson ? (
+                  <a href={`/members/beyondbonus/${module.slug}/${nextLesson.slug}`} class="block">
+                    <h2 class="font-serif text-2xl mb-2">{nextLesson.title}</h2>
+                    <p class="text-sm text-muted-foreground">Wenn du soweit bist, geht es direkt mit der nächsten Lektion weiter.</p>
+                  </a>
+                ) : (
+                  <div>
+                    <h2 class="font-serif text-2xl mb-2">Modul abgeschlossen</h2>
+                    <p class="text-sm text-muted-foreground">Du bist am Ende dieses Moduls angekommen.</p>
+                  </div>
+                )}
+              </section>
+
+              <section class="border border-border bg-background p-6 space-y-3">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Support</p>
+                <h2 class="font-serif text-2xl">Frage zu dieser Lektion?</h2>
+                <p class="text-sm text-muted-foreground">Wenn du an einer Stelle hängst, schreib uns direkt.</p>
+                <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion" class="inline-flex px-4 py-2 border border-border hover:bg-secondary/40 transition-colors text-sm">Support kontaktieren</a>
+              </section>
+            </aside>
+          </div>
         </div>
-
-        <aside class="space-y-6">
-          <section class="border border-border p-6 bg-secondary/40">
-            <h2 class="font-serif text-xl mb-3">Diese Lektion gehört zu</h2>
-            <p class="text-sm text-muted-foreground mb-2">Modul {module.number}</p>
-            <p class="text-base">{module.title}</p>
-          </section>
-
-          <section class="border border-border p-6 bg-secondary/40 space-y-4">
-            <h2 class="font-serif text-xl">Weiter im Modul</h2>
-            {previousLesson && (
-              <a href={`/members/beyondbonus/${module.slug}/${previousLesson.slug}`} class="block text-sm text-muted-foreground hover:text-primary transition-colors">
-                ← {previousLesson.title}
-              </a>
-            )}
-            {nextLesson && (
-              <a href={`/members/beyondbonus/${module.slug}/${nextLesson.slug}`} class="block text-sm text-muted-foreground hover:text-primary transition-colors">
-                {nextLesson.title} →
-              </a>
-            )}
-          </section>
-
-          <section class="border border-border p-6 bg-secondary/40 space-y-3">
-            <h2 class="font-serif text-xl">Support</h2>
-            <p class="text-sm text-muted-foreground">Wenn du zu einer Lektion eine Frage hast, kannst du Sally direkt schreiben.</p>
-            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion" class="text-sm text-primary hover:opacity-80 transition-opacity">Support kontaktieren</a>
-          </section>
-        </aside>
       </div>
 
       <script is:inline>
@@ -126,7 +165,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
         const refresh = () => {
           const progress = readProgress();
           const done = key && progress[key];
-          if (state) state.textContent = done ? 'Erledigt' : 'Nicht gestartet';
+          if (state) state.textContent = done ? 'Diese Lektion ist abgeschlossen.' : 'Diese Lektion ist noch nicht abgeschlossen.';
           if (button) button.textContent = done ? 'Als nicht erledigt markieren' : 'Als erledigt markieren';
         };
 
