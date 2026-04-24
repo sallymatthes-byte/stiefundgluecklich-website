@@ -2,7 +2,10 @@
 export const prerender = false;
 
 import Layout from '../../../layouts/Layout.astro';
+import MembersSidebar from '../../../components/MembersSidebar.astro';
+import { loadMemberProfile } from '../../../lib/auth/load-profile';
 
+const profile = await loadMemberProfile(Astro);
 const settings = [
   ['Neue Inhalte', 'Benachrichtigung, wenn neue Inhalte im Mitgliederbereich freigeschaltet werden.'],
   ['Antwort von Sally', 'Benachrichtigung, wenn du auf eine Frage oder Nachricht eine Rückmeldung bekommst.'],
@@ -16,32 +19,53 @@ const settings = [
   description="Benachrichtigungseinstellungen im Mitgliederbereich."
   noHeader={true}
 >
-  <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
-        ← Zurück zum Mitgliederbereich
-      </a>
+  <section class="py-16 md:py-24">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
+        <MembersSidebar
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
+          currentPath={Astro.url.pathname}
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={[
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
+            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
+          ]}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich', label: 'Support' },
+          ]}
+          avatarUrl={profile.avatarUrl}
+        />
 
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Einstellungen</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Benachrichtigungen</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier ist die Struktur für künftige Benachrichtigungen vorbereitet. Sobald wir die Ausspielwege final festziehen, können diese Einstellungen aktiv genutzt werden.
-      </p>
-
-      <section class="border border-border p-6 bg-background space-y-4">
-        {settings.map(([title, description]) => (
-          <div class="flex items-center justify-between gap-6 border-b border-border pb-4 last:border-b-0 last:pb-0">
-            <div>
-              <h2 class="font-serif text-xl mb-1">{title}</h2>
-              <p class="text-sm text-muted-foreground">{description}</p>
+        <div class="max-w-[820px] min-w-0 space-y-8">
+          <div class="space-y-4">
+            <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Einstellungen</p>
+            <div class="space-y-3">
+              <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">Benachrichtigungen</h1>
+              <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">
+                Hier ist die Struktur für künftige Benachrichtigungen vorbereitet. Sobald wir die Ausspielwege final festziehen, können diese Einstellungen aktiv genutzt werden.
+              </p>
             </div>
-            <select class="border border-border bg-white px-4 py-2 text-sm focus:outline-none focus:border-primary">
-              <option>Aktiv</option>
-              <option>Pausiert</option>
-            </select>
           </div>
-        ))}
-      </section>
+
+          <section class="border border-border p-6 bg-background space-y-4 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+            {settings.map(([title, description]) => (
+              <div class="flex items-center justify-between gap-6 border-b border-border pb-4 last:border-b-0 last:pb-0">
+                <div>
+                  <h2 class="font-serif text-xl mb-1">{title}</h2>
+                  <p class="text-sm text-muted-foreground">{description}</p>
+                </div>
+                <select class="border border-border bg-white px-4 py-2 text-sm focus:outline-none focus:border-primary">
+                  <option>Aktiv</option>
+                  <option>Pausiert</option>
+                </select>
+              </div>
+            ))}
+          </section>
+        </div>
+      </div>
     </div>
   </section>
 </Layout>

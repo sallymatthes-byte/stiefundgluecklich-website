@@ -5,8 +5,10 @@ import Layout from '../../../layouts/Layout.astro';
 import MembersSidebar from '../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
-import { beyondBonusModules, getBeyondBonusModule, getLessonKey } from '../../../lib/beyondbonus/content';
+import { loadMemberProfile } from '../../../lib/auth/load-profile';
+import { beyondBonusModules, getBeyondBonusModule, getBeyondBonusLessonCover, getLessonKey } from '../../../lib/beyondbonus/content';
 
+const profile = await loadMemberProfile(Astro);
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 
@@ -28,32 +30,41 @@ if (!module) {
   description={module.shortDescription}
   noHeader={true}
 >
-  <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-6xl">
-      <div class="grid gap-8 md:grid-cols-[240px_minmax(0,1fr)] md:items-start">
+  <section class="py-16 md:py-24">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
         <MembersSidebar
-          title="BeyondBonus"
-          subtitle={module.title}
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
           currentPath={Astro.url.pathname}
-          topItems={[
-            { href: '/members', label: 'Dashboard' },
-            { href: '/members/beyondbonus', label: 'Kursübersicht' },
-            ...beyondBonusModules.map((entry) => ({ href: `/members/beyondbonus/${entry.slug}`, label: `Modul ${entry.number}` })),
-            { href: '/members/beyondbonus/workbook', label: 'Workbook' },
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={[
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
+            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
           ]}
           bottomItems={[
             { href: '/members/settings/account', label: 'Account' },
             { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
             { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Modul', label: 'Support' },
           ]}
+          avatarUrl={profile.avatarUrl}
         />
 
-        <div>
-          <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus · Modul {module.number}</p>
-          <h1 class="font-serif text-3xl md:text-4xl mb-4">{module.title}</h1>
-          <p class="text-base text-muted-foreground mb-10 leading-relaxed max-w-3xl">{module.intro}</p>
+        <div class="max-w-[820px] min-w-0 space-y-8">
+          <header class="space-y-4">
+            <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">BeyondBonus · Modul {module.number}</p>
+            <div class="space-y-4">
+              <div class="bg-secondary/15 p-4 flex items-center justify-center">
+                <img src={module.moduleCover} alt={`Titelbild ${module.title}`} class="w-full max-h-[240px] object-contain" />
+              </div>
+              <div class="space-y-3">
+                <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">{module.title}</h1>
+                <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">{module.intro}</p>
+              </div>
+            </div>
+          </header>
 
-          <section class="border border-border bg-background p-6">
+          <section class="border border-border bg-background p-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
             <div class="flex items-center justify-between gap-4 mb-4">
               <h2 class="font-serif text-2xl">Lektionen in diesem Modul</h2>
               <span class="text-xs text-muted-foreground" data-module-progress-label>0 von {module.lessons.length} abgeschlossen</span>
@@ -65,8 +76,11 @@ if (!module) {
 
             <div class="space-y-3">
               {module.lessons.map((lesson, index) => (
-                <a href={`/members/beyondbonus/${module.slug}/${lesson.slug}`} class="block border border-border p-4 bg-secondary/20 hover:border-primary transition-colors" data-lesson-card data-lesson-key={getLessonKey(module.slug, lesson.slug)}>
-                  <div class="flex items-start justify-between gap-6">
+                <a href={`/members/beyondbonus/${module.slug}/${lesson.slug}`} class="block border border-border p-4 bg-secondary/12 hover:border-primary transition-colors" data-lesson-card data-lesson-key={getLessonKey(module.slug, lesson.slug)}>
+                  <div class="grid gap-4 md:grid-cols-[130px_minmax(0,1fr)_auto] items-start">
+                    <div class="overflow-hidden bg-secondary/20 min-h-[88px] p-2 flex items-center justify-center">
+                      <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt={`Titelbild ${lesson.title}`} class="w-full h-full object-contain" />
+                    </div>
                     <div class="space-y-2">
                       <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Lektion {String(index + 1).padStart(2, '0')}</p>
                       <h3 class="font-serif text-xl">{lesson.title}</h3>
@@ -77,13 +91,6 @@ if (!module) {
                 </a>
               ))}
             </div>
-          </section>
-
-          <section class="border border-border bg-background p-6 mt-8">
-            <h2 class="font-serif text-2xl mb-4">Workbook</h2>
-            <p class="text-sm text-muted-foreground leading-relaxed">
-              Hier findest du gebündelt alle Übungen und Reflexionsfragen für dieses Modul im größeren Workbook-Kontext.
-            </p>
           </section>
         </div>
       </div>

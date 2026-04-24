@@ -26,6 +26,9 @@ export const POST: APIRoute = async (context) => {
     phone: clean(formData.get('phone')),
   };
 
+  const roleTitle = clean(formData.get('role_title'));
+  const aboutMe = clean(formData.get('about_me'));
+
   const { error } = await supabase
     .from('profiles')
     .update(payload)
@@ -33,6 +36,19 @@ export const POST: APIRoute = async (context) => {
 
   if (error) {
     return context.redirect(`/members/settings/account?error=${encodeURIComponent(error.message)}`);
+  }
+
+  const { error: authError } = await supabase.auth.updateUser({
+    data: {
+      full_name: payload.full_name,
+      avatar_url: payload.avatar_url,
+      role_title: roleTitle,
+      about_me: aboutMe,
+    },
+  });
+
+  if (authError) {
+    return context.redirect(`/members/settings/account?error=${encodeURIComponent(authError.message)}`);
   }
 
   return context.redirect('/members/settings/account?saved=1');

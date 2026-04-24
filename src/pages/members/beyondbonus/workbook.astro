@@ -2,10 +2,13 @@
 export const prerender = false;
 
 import Layout from '../../../layouts/Layout.astro';
+import MembersSidebar from '../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
+import { loadMemberProfile } from '../../../lib/auth/load-profile';
 import { workbookInfo } from '../../../lib/beyondbonus/content';
 
+const profile = await loadMemberProfile(Astro);
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 
@@ -20,18 +23,43 @@ if (!access.course) {
   description="Zentrales Workbook für BeyondBonus."
   noHeader={true}
 >
-  <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-4xl">
-      <a href="/members/beyondbonus" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
-        ← Zurück zum Kursbereich
-      </a>
+  <section class="py-16 md:py-24">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
+        <MembersSidebar
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
+          currentPath={Astro.url.pathname}
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={[
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
+            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
+          ]}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus', label: 'Support' },
+          ]}
+          avatarUrl={profile.avatarUrl}
+        />
 
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">{workbookInfo.title}</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">{workbookInfo.description}</p>
+        <div class="max-w-[820px] min-w-0 space-y-8">
+          <div class="space-y-4">
+            <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">BeyondBonus</p>
+            <div class="space-y-3">
+              <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">{workbookInfo.title}</h1>
+              <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">{workbookInfo.description}</p>
+            </div>
+          </div>
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-3">
-        <p class="text-sm text-muted-foreground">Das Workbook wird als eine zentrale Ressource für das gesamte Programm eingebunden. Sobald die finale Fassung steht, hängt sie genau hier.</p>
+          <div class="border border-border bg-background p-3 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+            <iframe src={workbookInfo.embedUrl} class="w-full aspect-[4/3] bg-white" loading="lazy"></iframe>
+          </div>
+
+          <a href={workbookInfo.downloadUrl} target="_blank" rel="noreferrer" class="inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
+            Workbook öffnen
+          </a>
+        </div>
       </div>
     </div>
   </section>

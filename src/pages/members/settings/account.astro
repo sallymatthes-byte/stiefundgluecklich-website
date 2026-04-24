@@ -2,8 +2,12 @@
 export const prerender = false;
 
 import Layout from '../../../layouts/Layout.astro';
+import MembersSidebar from '../../../components/MembersSidebar.astro';
+import { loadMemberProfile } from '../../../lib/auth/load-profile';
 
-const userEmail = Astro.locals.user?.email ?? '';
+const profile = await loadMemberProfile(Astro);
+const saved = Astro.url.searchParams.get('saved') === '1';
+const error = Astro.url.searchParams.get('error');
 ---
 
 <Layout
@@ -12,48 +16,102 @@ const userEmail = Astro.locals.user?.email ?? '';
   description="Account-Einstellungen im Mitgliederbereich."
   noHeader={true}
 >
-  <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
-        ← Zurück zum Mitgliederbereich
-      </a>
+  <section class="py-16 md:py-24">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
+        <MembersSidebar
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
+          currentPath={Astro.url.pathname}
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={[
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
+            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
+          ]}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich', label: 'Support' },
+          ]}
+          avatarUrl={profile.avatarUrl}
+        />
 
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">Einstellungen</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Account-Einstellungen</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier findest du die wichtigsten Einstellungen rund um deinen Zugang, dein Passwort und deine Sprache.
-      </p>
-
-      <div class="grid gap-8 md:grid-cols-[240px_minmax(0,1fr)] md:items-start">
-        <section class="border border-border p-6 bg-background space-y-4">
-          <h2 class="font-serif text-2xl">Dein Zugang</h2>
-          <p class="text-sm text-muted-foreground">Angemeldete E-Mail-Adresse</p>
-          <p class="text-base">{userEmail}</p>
-          <a href="/login" class="text-sm text-primary hover:opacity-80 transition-opacity">Passwort über Login-Seite zurücksetzen</a>
-        </section>
-
-        <section class="border border-border p-6 bg-background space-y-5">
-          <h2 class="font-serif text-2xl">Persönliche Einstellungen</h2>
-          <div class="grid gap-4 md:grid-cols-2">
-            <label class="block">
-              <span class="block text-sm mb-2">Anzeigesprache</span>
-              <select class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
-                <option>Deutsch</option>
-                <option>English</option>
-                <option>Français</option>
-              </select>
-            </label>
-            <label class="block">
-              <span class="block text-sm mb-2">Zeitzone</span>
-              <select class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
-                <option>Europe/Paris</option>
-                <option>Europe/Berlin</option>
-                <option>UTC</option>
-              </select>
-            </label>
+        <div class="max-w-[820px] min-w-0 space-y-10">
+          <div class="space-y-4">
+            <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Einstellungen</p>
+            <div class="space-y-3">
+              <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">Account-Einstellungen</h1>
+              <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">
+                Hier kannst du deine Profildaten, dein Bild und die wichtigsten Angaben rund um deinen Zugang pflegen.
+              </p>
+            </div>
           </div>
-          <p class="text-sm text-muted-foreground">Die Sprachumschaltung ist als Vorbereitung schon angelegt. Als Nächstes können die Inhalte dafür vollständig mehrsprachig aufgebaut werden.</p>
-        </section>
+
+          {saved && <div class="border border-border bg-secondary/25 px-5 py-4 text-sm">Dein Profil wurde gespeichert.</div>}
+          {error && <div class="border border-red-200 bg-red-50 px-5 py-4 text-sm">Speichern gerade nicht möglich: {error}</div>}
+
+          <div class="grid gap-8 lg:grid-cols-[280px_minmax(0,1fr)] lg:items-start">
+            <section class="border border-border p-6 bg-background space-y-4 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+              <h2 class="font-serif text-2xl">Dein Zugang</h2>
+              <div class="space-y-2 text-sm text-muted-foreground">
+                <p>Angemeldete E-Mail-Adresse</p>
+                <p class="text-base text-foreground break-all">{profile.email}</p>
+              </div>
+              <a href="/login" class="text-sm text-primary hover:opacity-80 transition-opacity">Passwort über Login-Seite zurücksetzen</a>
+            </section>
+
+            <form method="POST" action="/api/account/update-profile" class="border border-border p-6 bg-background space-y-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+              <h2 class="font-serif text-2xl">Persönliche Angaben</h2>
+
+              <div class="grid gap-4 md:grid-cols-2">
+                <label class="block">
+                  <span class="block text-sm mb-2">Vollständiger Name</span>
+                  <input name="full_name" value={profile.fullName} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block">
+                  <span class="block text-sm mb-2">Telefonnummer</span>
+                  <input name="phone" value={profile.phone} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block">
+                  <span class="block text-sm mb-2">Stadt</span>
+                  <input name="city" value={profile.city} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block">
+                  <span class="block text-sm mb-2">Position / Beruf</span>
+                  <input name="role_title" value={profile.roleTitle} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block md:col-span-2">
+                  <span class="block text-sm mb-2">Profilbild (URL)</span>
+                  <input name="avatar_url" value={profile.avatarUrl} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+              </div>
+
+              <label class="block">
+                <span class="block text-sm mb-2">Über mich</span>
+                <textarea name="about_me" class="w-full min-h-40 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">{profile.aboutMe}</textarea>
+              </label>
+
+              <div class="grid gap-4 md:grid-cols-3">
+                <label class="block">
+                  <span class="block text-sm mb-2">Straße / Adresse</span>
+                  <input name="address_line1" value={profile.addressLine1} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block">
+                  <span class="block text-sm mb-2">Postleitzahl</span>
+                  <input name="postal_code" value={profile.postalCode} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+                <label class="block">
+                  <span class="block text-sm mb-2">Land</span>
+                  <input name="country" value={profile.country} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+                </label>
+              </div>
+
+              <button type="submit" class="inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
+                Änderungen speichern
+              </button>
+            </form>
+          </div>
+        </div>
       </div>
     </div>
   </section>

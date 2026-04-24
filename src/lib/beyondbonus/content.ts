@@ -13,27 +13,20 @@ export type BeyondBonusModule = {
   title: string;
   shortDescription: string;
   intro: string;
+  moduleCover: string;
   lessons: BeyondBonusLesson[];
 };
 
 export const workbookInfo = {
   title: 'BeyondBonus Workbook',
   description: 'Das zentrale Workbook bündelt alle Übungen, Reflexionsfragen und Transferimpulse an einem Ort, statt sie über einzelne Module zu verstreuen.',
+  driveId: '1EpQ5qIpr_jUpA5rcVYNMstKHttXkweQk',
+  driveUrl: 'https://drive.google.com/file/d/1EpQ5qIpr_jUpA5rcVYNMstKHttXkweQk/view?usp=drive_link',
+  embedUrl: '/workbooks/beyondbonus-workbook.pdf',
+  downloadUrl: '/workbooks/beyondbonus-workbook.pdf',
 };
 
-const lessonCoverPool = [
-  '/images/beyondbonus/covers/willkommen.png',
-  '/images/beyondbonus/covers/vision.png',
-  '/images/beyondbonus/covers/mindset.png',
-  '/images/beyondbonus/covers/dynamik.png',
-  '/images/beyondbonus/covers/power.png',
-  '/images/beyondbonus/covers/verbindung.png',
-  '/images/beyondbonus/covers/team.png',
-  '/images/beyondbonus/covers/klartext.png',
-  '/images/beyondbonus/covers/ex-faktor.png',
-  '/images/beyondbonus/covers/rise.png',
-  '/images/beyondbonus/covers/beyondbonus.png',
-];
+export const lessonHeaderImage = '/images/beyondbonus/sally-hero-wide.jpg';
 
 export const beyondBonusModules: BeyondBonusModule[] = [
   {
@@ -42,6 +35,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Start & Einstieg',
     shortDescription: 'Ankommen, Orientierung gewinnen und den roten Faden für deinen Weg im Programm setzen.',
     intro: 'Hier startet BeyondBonus. Dieses Modul hilft dir, im Programm anzukommen, deinen eigenen Standort zu klären und die ersten Grundlagen für deinen Weg als Bonusmama zu setzen.',
+    moduleCover: '/images/beyondbonus/covers/willkommen.png',
     lessons: [
       {
         slug: 'einfuehrung',
@@ -75,6 +69,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Deine Vision',
     shortDescription: 'Erarbeite dir deine Ziele und Träume für dich und deine Patchworkfamilie.',
     intro: 'In diesem Modul geht es um deine innere Ausrichtung, deine Wünsche und darum, wie du wieder klarer spürst, wohin dein Weg eigentlich gehen soll.',
+    moduleCover: '/images/beyondbonus/covers/vision.png',
     lessons: [
       {
         slug: 'museum-deines-lebens-einfuehrung',
@@ -121,6 +116,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Persönlichkeit & Rolle',
     shortDescription: 'Deinen Platz in der Familie klarer sehen und deine Rolle bewusster gestalten.',
     intro: 'Dieses Modul dreht sich um deinen Platz im System, deine Rolle in der Familie und darum, wie du Verantwortung, Identität und Selbstbild besser sortierst.',
+    moduleCover: '/images/beyondbonus/covers/mindset.png',
     lessons: [
       {
         slug: 'saeulen-einer-bonusmama',
@@ -170,6 +166,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Patchworkdynamiken',
     shortDescription: 'Die unsichtbaren Dynamiken hinter Zugehörigkeit, Loyalität und Stress im System besser verstehen.',
     intro: 'Hier schaust du auf typische Patchworkdynamiken, damit du nicht nur reagierst, sondern Zusammenhänge erkennst, einordnest und gezielter handeln kannst.',
+    moduleCover: '/images/beyondbonus/covers/dynamik.png',
     lessons: [
       {
         slug: 'insider-outsider',
@@ -219,6 +216,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Kraftquellen',
     shortDescription: 'Stärke deine innere Stabilität und sammle konkrete Werkzeuge für deinen Alltag.',
     intro: 'In diesem Modul geht es darum, wie du wieder mehr bei dir ankommst, deine Kraftquellen stärkst und dir selbst im Patchworkalltag besser Halt gibst.',
+    moduleCover: '/images/beyondbonus/covers/power.png',
     lessons: [
       {
         slug: 'selfcare-basics',
@@ -283,6 +281,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Bonuskinder',
     shortDescription: 'Verstehe die Bedürfnisse der Kinder besser und baue Beziehung mit mehr Sicherheit auf.',
     intro: 'Hier geht es um die Beziehung zu den Bonuskindern, um Vertrauen, Sicherheit und darum, wie Verbindung im echten Alltag wachsen kann.',
+    moduleCover: '/images/beyondbonus/covers/verbindung.png',
     lessons: [
       {
         slug: 'beduerfnisse-der-bonuskinder',
@@ -321,6 +320,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Partnerschaft',
     shortDescription: 'Stärke eure Paarbasis und finde Wege für mehr Sicherheit, Verbindung und Teamgefühl.',
     intro: 'Dieses Modul stärkt eure Partnerschaft im Patchworkalltag. Es geht um Nähe, Stabilität, gemeinsame Ausrichtung und echte Verbindung.',
+    moduleCover: '/images/beyondbonus/covers/team.png',
     lessons: [
       {
         slug: 'paarzeit-zurueckerobern',
@@ -374,6 +374,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Kommunikationsstrategien',
     shortDescription: 'Führe Gespräche klarer und entschärfe Konflikte, bevor sie eskalieren.',
     intro: 'In diesem Modul geht es um Gesprächsführung, Zuhören und konkrete Werkzeuge für schwierige Situationen im Patchworkalltag.',
+    moduleCover: '/images/beyondbonus/covers/klartext.png',
     lessons: [
       {
         slug: 'ich-botschaften',
@@ -430,6 +431,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Ex-Partnerin',
     shortDescription: 'Finde einen klareren Umgang mit der Ex und entlaste dich aus Dauerschleifen.',
     intro: 'Dieses Modul dreht sich um den Umgang mit der Ex-Partnerin, ihre Bedeutung im System und die Frage, wie du dich innerlich stabiler positionierst.',
+    moduleCover: '/images/beyondbonus/covers/ex-faktor.png',
     lessons: [
       {
         slug: 'leitfaden-hochstrittige-ex',
@@ -468,6 +470,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
     title: 'Deine Zukunft',
     shortDescription: 'Verankere Fortschritte und richte den Blick bewusst nach vorn.',
     intro: 'Zum Abschluss bündelt dieses Modul, was du bereits verändert hast, wie du mit Rückschlägen umgehst und worauf du in Zukunft weiter aufbauen willst.',
+    moduleCover: '/images/beyondbonus/covers/rise.png',
     lessons: [
       {
         slug: 'erfolgs-rituale',
@@ -507,10 +510,21 @@ export function getBeyondBonusLesson(moduleSlug: string, lessonSlug: string) {
   return getBeyondBonusModule(moduleSlug)?.lessons.find((lesson) => lesson.slug === lessonSlug);
 }
 
+export function getBeyondBonusModuleCover(moduleSlug: string) {
+  return getBeyondBonusModule(moduleSlug)?.moduleCover ?? '/images/beyondbonus/covers/beyondbonus.png';
+}
+
 export function getBeyondBonusLessonCover(moduleSlug: string, lessonSlug: string) {
-  const seed = `${moduleSlug}::${lessonSlug}`;
-  const hash = [...seed].reduce((total, char) => total + char.charCodeAt(0), 0);
-  return lessonCoverPool[hash % lessonCoverPool.length];
+  const lesson = getBeyondBonusLesson(moduleSlug, lessonSlug);
+  if (lesson?.slug === 'einfuehrung') {
+    return '/images/beyondbonus/covers/beyondbonus.png';
+  }
+
+  return getBeyondBonusModuleCover(moduleSlug);
+}
+
+export function getBeyondBonusLessonHeaderImage() {
+  return lessonHeaderImage;
 }
 
 export function getLessonKey(moduleSlug: string, lessonSlug: string) {

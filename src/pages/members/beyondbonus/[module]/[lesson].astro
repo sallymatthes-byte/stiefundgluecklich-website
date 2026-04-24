@@ -5,8 +5,10 @@ import Layout from '../../../../layouts/Layout.astro';
 import MembersSidebar from '../../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../../lib/auth/grants';
 import { loadUserGrants } from '../../../../lib/auth/load-grants';
-import { getBeyondBonusLesson, getBeyondBonusLessonCover, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
+import { loadMemberProfile } from '../../../../lib/auth/load-profile';
+import { getBeyondBonusLesson, getBeyondBonusLessonCover, getBeyondBonusLessonHeaderImage, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
 
+const profile = await loadMemberProfile(Astro);
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 
@@ -35,17 +37,16 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
   description={lesson.description}
   noHeader={true}
 >
-  <section class="py-10 md:py-12" data-lesson-key={lessonKey}>
-    <div class="container mx-auto px-5 md:px-6 max-w-7xl">
-      <div class="grid gap-8 md:grid-cols-[240px_minmax(0,1fr)] md:items-start">
+  <section class="py-16 md:py-24" data-lesson-key={lessonKey}>
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
         <MembersSidebar
-          title="BeyondBonus"
-          subtitle="Dein Kurs"
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
           currentPath={Astro.url.pathname}
-          topItems={[
-            { href: '/members', label: 'Dashboard' },
-            { href: '/members/beyondbonus', label: 'Kursübersicht' },
-            { href: '/members/beyondbonus/workbook', label: 'Workbook' },
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={[
+            { href: '/members/beyondbonus', label: 'BeyondBonus' },
             { href: '/livecalls/beyondbonus', label: 'Livecalls' },
           ]}
           bottomItems={[
@@ -53,31 +54,47 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
             { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion', label: 'Support' },
           ]}
+          avatarUrl={profile.avatarUrl}
         />
 
-        <div class="space-y-8 min-w-0">
-          <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">← Zurück zu {module.title}</a>
+        <div class="max-w-[820px] space-y-10 min-w-0">
+          <div class="space-y-5">
+            <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">← Zurück zu {module.title}</a>
 
-          <section class="relative overflow-hidden border border-border min-h-[220px] bg-[#31372a] text-white">
-            <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt={`Cover ${lesson.title}`} class="absolute inset-0 w-full h-full object-cover opacity-80" />
-            <div class="absolute inset-0 bg-gradient-to-r from-black/60 via-black/35 to-transparent"></div>
-            <div class="relative h-full p-8 md:p-10">
-              <div class="max-w-md space-y-3 bg-black/18 backdrop-blur-[1px] p-6 md:p-7">
-                <p class="text-xs uppercase tracking-[0.22em] text-white/70">Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
-                <h1 class="font-serif text-4xl md:text-5xl leading-none">{lesson.title}</h1>
-                <p class="text-base text-white/85 leading-relaxed">{lesson.description}</p>
+            <img src={getBeyondBonusLessonHeaderImage()} alt="Sally Matthes" class="w-full h-auto object-cover bg-secondary/15" />
+
+            <header class="space-y-3 pb-2">
+              <p class="text-xs uppercase tracking-[0.22em] text-muted-foreground">Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
+              <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">{lesson.title}</h1>
+              <p class="text-base text-muted-foreground leading-relaxed max-w-2xl">{lesson.description}</p>
+            </header>
+          </div>
+
+          <section class="space-y-5">
+            <div class="relative aspect-video overflow-hidden bg-secondary/20 shadow-[0_14px_36px_rgba(0,0,0,0.05)]" data-media-shell data-media-endpoint={mediaEndpoint}>
+              <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt="" class="absolute inset-0 h-full w-full object-cover opacity-35" aria-hidden="true" />
+              <div class="absolute inset-0 bg-white/55"></div>
+              <div class="relative z-10 flex h-full items-center justify-center p-6 md:p-8">
+                <div class="max-w-sm space-y-4 bg-background/92 px-7 py-6 text-center shadow-[0_14px_36px_rgba(0,0,0,0.08)] backdrop-blur-sm">
+                  <div class="mx-auto flex h-14 w-14 items-center justify-center border border-border/80 bg-white/75 text-foreground">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor" aria-hidden="true">
+                      <path d="M5 3.5v11l8-5.5-8-5.5Z" />
+                    </svg>
+                  </div>
+                  <div class="space-y-2">
+                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Video-Lektion</p>
+                    <p class="text-sm text-muted-foreground leading-relaxed" data-media-status>
+                      Video wird geladen ...
+                    </p>
+                    <p class="text-xs text-muted-foreground/90 leading-relaxed">
+                      Wenn das Laden länger dauert, aktualisiere die Seite kurz.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
-          </section>
 
-          <section class="border border-border bg-background overflow-hidden">
-            <div class="aspect-video border-b border-border overflow-hidden bg-black flex items-center justify-center" data-media-shell data-media-endpoint={mediaEndpoint}>
-              <div class="p-8 text-center text-sm text-white/80 leading-relaxed" data-media-status>
-                Video wird geladen ...
-              </div>
-            </div>
-
-            <div class="p-5 flex flex-wrap items-center justify-between gap-4">
+            <div class="flex flex-wrap items-center justify-between gap-4 pb-2">
               <div class="space-y-1">
                 <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Dein Fortschritt</p>
                 <p class="text-sm text-muted-foreground" data-lesson-state>Diese Lektion ist noch nicht abgeschlossen.</p>
@@ -89,31 +106,33 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
           </section>
 
           {nextLesson && (
-            <a href={`/members/beyondbonus/${module.slug}/${nextLesson.slug}`} class="grid gap-0 md:grid-cols-[180px_1fr] items-stretch border border-border bg-background hover:shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-shadow">
-              <div class="overflow-hidden bg-black min-h-[120px] h-full">
-                <img src={getBeyondBonusLessonCover(module.slug, nextLesson.slug)} alt={`Cover ${nextLesson.title}`} class="w-full h-full object-cover object-center" />
+            <a href={`/members/beyondbonus/${module.slug}/${nextLesson.slug}`} class="grid gap-0 md:grid-cols-[170px_1fr] items-stretch border-t border-b border-border/80 py-5 hover:bg-secondary/10 transition-colors">
+              <div class="overflow-hidden bg-secondary/20 min-h-[126px] h-full p-3 flex items-center justify-center">
+                <img src={getBeyondBonusLessonCover(module.slug, nextLesson.slug)} alt={`Titelbild ${nextLesson.title}`} class="w-full h-full object-contain object-center" />
               </div>
               <div class="p-6 space-y-3 flex flex-col justify-center">
                 <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Nächste Lektion</p>
                 <h2 class="font-serif text-3xl leading-none">{nextLesson.title}</h2>
-                <p class="text-sm text-muted-foreground">Wenn du soweit bist, geht es hier direkt weiter.</p>
+                <p class="text-sm text-muted-foreground leading-relaxed">Wenn du soweit bist, geht es hier direkt weiter.</p>
               </div>
             </a>
           )}
 
-          <section class="border border-border bg-background p-6 md:p-7 space-y-4">
-            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Deine Notizen</p>
-            <h2 class="font-serif text-3xl">Was nimmst du aus dieser Lektion mit?</h2>
-            <p class="text-sm text-muted-foreground">Halte hier Gedanken, Erkenntnisse oder nächste Schritte direkt fest.</p>
-            <textarea data-lesson-notes class="w-full min-h-56 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" placeholder="Deine Notizen zu dieser Lektion ..."></textarea>
+          <section class="space-y-4 pt-1">
+            <div class="space-y-2">
+              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Deine Notizen</p>
+              <h2 class="font-serif text-3xl leading-none">Was nimmst du aus dieser Lektion mit?</h2>
+              <p class="text-sm text-muted-foreground leading-relaxed">Halte hier Gedanken, Erkenntnisse oder nächste Schritte direkt fest.</p>
+            </div>
+            <textarea data-lesson-notes class="w-full min-h-56 border border-border/80 bg-white px-4 py-3 focus:outline-none focus:border-primary" placeholder="Deine Notizen zu dieser Lektion ..."></textarea>
             <p class="text-xs text-muted-foreground" data-notes-status>Deine Notizen werden nur auf diesem Gerät gespeichert.</p>
           </section>
 
-          <section class="border border-border bg-background p-6 space-y-3 max-w-md">
+          <section class="pt-3 border-t border-border/80 max-w-md space-y-3">
             <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Support</p>
-            <h2 class="font-serif text-2xl">Frage zu dieser Lektion?</h2>
-            <p class="text-sm text-muted-foreground">Wenn du an einer Stelle hängst, schreib uns direkt.</p>
-            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion" class="inline-flex px-4 py-2 border border-border hover:bg-secondary/40 transition-colors text-sm">Support kontaktieren</a>
+            <h2 class="font-serif text-2xl leading-tight">Frage zu dieser Lektion?</h2>
+            <p class="text-sm text-muted-foreground leading-relaxed">Wenn du an einer Stelle hängst, schreib uns direkt.</p>
+            <a href="mailto:willkommen@sallymatthes.com?subject=Frage%20zu%20BeyondBonus%20Lektion" class="inline-flex px-4 py-2 border border-border/80 hover:bg-secondary/40 transition-colors text-sm">Support kontaktieren</a>
           </section>
         </div>
       </div>
@@ -160,7 +179,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             if (media.provider !== 'drive-preview') {
               if (media.kind === 'audio') {
                 const wrapper = document.createElement('div');
-                wrapper.className = 'w-full h-full flex items-center justify-center p-8 bg-background';
+                wrapper.className = 'w-full h-full flex items-center justify-center p-8 bg-secondary/10';
                 const audio = document.createElement('audio');
                 audio.src = media.url;
                 audio.controls = true;
@@ -176,14 +195,14 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
               video.controls = true;
               video.playsInline = true;
               video.preload = 'metadata';
-              video.className = 'w-full h-full';
+              video.className = 'w-full h-full object-cover bg-black';
               mediaShell.appendChild(video);
               return;
             }
 
             const iframe = document.createElement('iframe');
             iframe.src = media.url;
-            iframe.className = 'w-full h-full';
+            iframe.className = 'w-full h-full bg-white';
             iframe.setAttribute('allow', 'autoplay');
             iframe.setAttribute('allowfullscreen', 'true');
             iframe.setAttribute('loading', 'lazy');
