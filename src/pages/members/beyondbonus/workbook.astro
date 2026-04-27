@@ -52,11 +52,20 @@ if (!access.course) {
             </div>
           </div>
 
-          <div class="border border-border bg-background p-3 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+          <div class="lg:hidden border border-border bg-secondary/20 p-6 space-y-4 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+            <p class="text-sm text-muted-foreground leading-relaxed">
+              Auf Handy und Tablet öffnest du das Workbook am besten direkt als PDF. So kannst du zoomen, blättern und es bei Bedarf speichern.
+            </p>
+            <a href={workbookInfo.downloadUrl} target="_blank" rel="noreferrer" class="inline-flex w-full justify-center px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
+              Workbook als PDF öffnen
+            </a>
+          </div>
+
+          <div class="hidden lg:block border border-border bg-background p-3 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
             <iframe src={workbookInfo.embedUrl} class="w-full aspect-[4/3] bg-white" loading="lazy"></iframe>
           </div>
 
-          <a href={workbookInfo.downloadUrl} target="_blank" rel="noreferrer" class="inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
+          <a href={workbookInfo.downloadUrl} target="_blank" rel="noreferrer" class="hidden lg:inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
             Workbook öffnen
           </a>
         </div>
