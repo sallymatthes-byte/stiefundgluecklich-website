@@ -25,7 +25,7 @@ if (!access.course) {
 >
   <section class="py-16 md:py-24">
     <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
-      <div class="grid gap-10 md:grid-cols-[224px_minmax(0,1fr)] md:items-start">
+      <div class="grid gap-10 lg:grid-cols-[224px_minmax(0,1fr)] lg:items-start">
         <MembersSidebar
           title="Mitgliederbereich"
           subtitle={profile.fullName || 'Dein Profil'}
@@ -57,7 +57,7 @@ if (!access.course) {
           <div class="space-y-6">
             {beyondBonusModules.map((module) => (
               <a href={`/members/beyondbonus/${module.slug}`} class="block border border-border bg-background overflow-hidden hover:border-primary transition-colors shadow-[0_10px_24px_rgba(0,0,0,0.03)]" data-module-card data-lesson-keys={module.lessons.map((lesson) => `${module.slug}::${lesson.slug}`).join('|')}>
-                <div class="grid md:grid-cols-[220px_minmax(0,1fr)] items-stretch">
+                <div class="grid lg:grid-cols-[220px_minmax(0,1fr)] items-stretch">
                   <div class="bg-secondary/15 min-h-[180px] p-4 flex items-center justify-center">
                     <img src={module.moduleCover} alt={`Titelbild ${module.title}`} class="w-full h-full object-contain" />
                   </div>
