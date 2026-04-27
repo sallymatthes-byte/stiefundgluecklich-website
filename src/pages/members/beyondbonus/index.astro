@@ -82,7 +82,7 @@ if (!access.course) {
                       {module.lessons.slice(0, 4).map((lesson, index) => (
                         <div class="flex items-center justify-between gap-4 border-t border-border/70 pt-3 first:border-t-0 first:pt-0">
                           <span>{index + 1}. {lesson.title}</span>
-                          <span>→</span>
+                          <span class="shrink-0 text-xs text-muted-foreground">{lesson.workbookReference ? 'Workbook' : lesson.duration || '→'}</span>
                         </div>
                       ))}
                       {module.lessons.length > 4 && <p class="text-xs pt-1 text-muted-foreground">+ {module.lessons.length - 4} weitere Lektionen</p>}

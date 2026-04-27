@@ -22,6 +22,10 @@ const module = getBeyondBonusModule(slug);
 if (!module) {
   return Astro.redirect('/members/beyondbonus');
 }
+
+const moduleIndex = beyondBonusModules.findIndex((entry) => entry.slug === module.slug);
+const previousModule = moduleIndex > 0 ? beyondBonusModules[moduleIndex - 1] : null;
+const nextModule = moduleIndex < beyondBonusModules.length - 1 ? beyondBonusModules[moduleIndex + 1] : null;
 ---
 
 <Layout
@@ -64,6 +68,15 @@ if (!module) {
             </div>
           </header>
 
+          <nav class="grid gap-3 sm:grid-cols-2" aria-label="Modulnavigation">
+            {previousModule && (
+              <a href={`/members/beyondbonus/${previousModule.slug}`} class="border border-border/80 px-4 py-3 text-sm hover:bg-secondary/30 transition-colors">← Modul {previousModule.number}: {previousModule.title}</a>
+            )}
+            {nextModule && (
+              <a href={`/members/beyondbonus/${nextModule.slug}`} class="border border-border/80 px-4 py-3 text-sm hover:bg-secondary/30 transition-colors sm:text-right">Modul {nextModule.number}: {nextModule.title} →</a>
+            )}
+          </nav>
+
           <section class="border border-border bg-background p-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
             <div class="flex items-center justify-between gap-4 mb-4">
               <h2 class="font-serif text-2xl">Lektionen in diesem Modul</h2>
@@ -86,7 +99,10 @@ if (!module) {
                       <h3 class="font-serif text-xl">{lesson.title}</h3>
                       <p class="text-sm text-muted-foreground leading-relaxed">{lesson.description}</p>
                     </div>
-                    <span class="text-xs px-2 py-1 bg-background border border-border whitespace-nowrap" data-lesson-state>Nicht gestartet</span>
+                    <div class="flex flex-wrap gap-2 lg:justify-end">
+                      <span class="text-xs px-2 py-1 bg-background border border-border whitespace-nowrap">{lesson.workbookReference ? `Workbook S. ${lesson.workbookReference.pages}` : lesson.duration || 'Video'}</span>
+                      <span class="text-xs px-2 py-1 bg-background border border-border whitespace-nowrap" data-lesson-state>Nicht gestartet</span>
+                    </div>
                   </div>
                 </a>
               ))}

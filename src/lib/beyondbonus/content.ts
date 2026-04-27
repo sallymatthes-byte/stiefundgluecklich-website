@@ -5,6 +5,12 @@ export type BeyondBonusLesson = {
   driveId?: string;
   mediaType?: 'video' | 'audio';
   mediaUrl?: string;
+  duration?: string;
+  workbookReference?: {
+    title: string;
+    pages: string;
+    text: string;
+  };
 };
 
 export type BeyondBonusModule = {
@@ -26,7 +32,7 @@ export const workbookInfo = {
   downloadUrl: '/workbooks/beyondbonus-workbook.pdf',
 };
 
-export const lessonHeaderImage = '/images/beyondbonus/sally-hero-wide.jpg';
+export const lessonCoverImage = '/images/beyondbonus/covers/lesson.png';
 
 export const beyondBonusModules: BeyondBonusModule[] = [
   {
@@ -44,6 +50,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1cfPZKkBQ5tSv5gLgE9GmMWAgK5LpSoMW',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/start-einstieg/einfuehrung/video.mp4?md5=nVh9g23J0IzUkLb3Top9QA&expires=1808322694',
+        duration: '14:45',
       },
       {
         slug: 'bonusmama-formel',
@@ -52,6 +59,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1vAZXFZsP-mB_xLEJxCNmjiZBXsBfLZRQ',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/start-einstieg/bonusmama-formel/media.mp4?md5=XGaYAP0TWMM9tCfhJswR2g&expires=1808396245',
+        duration: '7:21',
       },
       {
         slug: 'coachingcard',
@@ -60,6 +68,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1-WScwKENCY_0JSY85--fH55wYB7awIdS',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/start-einstieg/coachingcard/media.mp4?md5=IdvgqbbekliuD5PCQb6YBQ&expires=1808401735',
+        duration: '4:42',
       },
     ],
   },
@@ -78,6 +87,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '15AupbeFOQVRmS0_YI7B9AVQ3GD0LxZRs',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/museumsanleitung/media.mp4?md5=ODeSOnkVJIn3_VOhoid8ng&expires=1808396245',
+        duration: '10:44',
       },
       {
         slug: 'museum-deines-lebens-meditation',
@@ -86,6 +96,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1WxYsVasevdU6zPGV61_DtJoGUh8XG13_',
         mediaType: 'audio',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/museum-deines-lebens/media.mp3?md5=IfalSyks66j3ykhM3GopHA&expires=1808396245',
+        duration: '15:09',
       },
       {
         slug: 'werte-und-beduerfnisse',
@@ -94,6 +105,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1X8bsZLF4-OUVbmso3lzJe9NPmwZ3jj5s',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/vision-beduerfnisse/werte-und-beduerfnisse/media.mp4?md5=_XuDv7S9oIv4a9RLJYXF3A&expires=1808396245',
+        duration: '16:00',
       },
       {
         slug: 'glaubenssaetze',
@@ -102,11 +114,17 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1r6EubOafhsWWNjWvBjjqljFgQhr5tGtN',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/glaubenssaetze/media.mp4?md5=zBkL8kJ6a934mRXJ3T6eZw&expires=1808401735',
+        duration: '13:58',
       },
       {
         slug: 'visionboard',
         title: 'Visionboard',
         description: 'Hier hältst du fest, wie dein Weg als Bonusmama aussehen soll und woran du dich in schwierigen Momenten wieder erinnern möchtest.',
+        workbookReference: {
+          title: 'Visionboard erstellen',
+          pages: '30–32',
+          text: 'Die Visionboard-Erstellung ist als Workbook-Aufgabe angelegt. Dort sammelst du Bilder, Worte und deinen Leitsatz für deine Zukunftsvision.',
+        },
       },
     ],
   },
@@ -125,6 +143,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1-lHsdtRjtuc5rsmJ90mNkeDrvUPF2lJj',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/rolle-identitaet/saeulen-einer-bonusmama/media.mp4?md5=VdslOnjqg4oRRVZTPDqQfg&expires=1808396245',
+        duration: '22:20',
       },
       {
         slug: 'staerken-und-entwicklungen',
@@ -133,6 +152,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1VtodVrFu5N8QYOZdYdOwt9t5u0p_sWeW',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/rolle-identitaet/staerken-und-entwicklungen/media.mp4?md5=n_Xg_nsaOWsI9rUbS7b3RQ&expires=1808396245',
+        duration: '21:10',
       },
       {
         slug: 'rollen-check',
@@ -141,6 +161,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1lSptJ14FO-O9ADjC_Fv0PQOqQU-E9v2r',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/rolle-identitaet/rolle-im-system/media.mp4?md5=FDrwCSrrC9asjwVI4iifzA&expires=1808401735',
+        duration: '19:49',
       },
       {
         slug: 'mental-load-matrix',
@@ -149,6 +170,11 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1C4MkUgwnEM0azrzOoJsSloWfyCjkFqAC',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/rolle-identitaet/mental-load-verstehen/media.mp4?md5=Lw0NsohQhVStklKfawNvgw&expires=1808401735',
+        workbookReference: {
+          title: 'Mental Load Matrix',
+          pages: '41',
+          text: 'Diese Lektion verweist auf die Workbook-Übung. Dort sortierst du sichtbar, welche Verantwortung aktuell bei wem liegt.',
+        },
       },
       {
         slug: '3-teller-regel',
@@ -157,6 +183,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '18iEyPJYWyZgLKva_paMTl7WqgxqAXNoF',
         mediaType: 'audio',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/rolle-identitaet/3-teller-regel/media.mp3?md5=esNiN9nJm0eIlFkWoELrBw&expires=1808396245',
+        duration: '1:53',
       },
     ],
   },
@@ -175,6 +202,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '13-mtDQLzDRvnAZ83YUgstFRobg4IxrD1',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/patchworkdynamiken/insider-outsider/media.mp4?md5=ob_GyAWGKyXLXkjnyYjtSw&expires=1808396245',
+        duration: '19:13',
       },
       {
         slug: 'nervensystem',
@@ -183,6 +211,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '13GSiAlYsG-QS8P6tHSbfh7FPg3cyB_dv',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/trigger-und-koerperreaktionen/media.mp4?md5=uAdzupOXAOHq0h-5waRYLQ&expires=1808401735',
+        duration: '21:59',
       },
       {
         slug: 'loyalitaetskonflikte',
@@ -191,6 +220,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1IrLAjHZmh6uHZV5wbWvhzO19rPJNNTjb',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/patchworkdynamiken/loyalitaetskonflikte/media.mp4?md5=nURwkrizpZBmsk2ehqZupw&expires=1808396245',
+        duration: '12:52',
       },
       {
         slug: 'familienkultur',
@@ -199,6 +229,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1DLN2E99xzJAog94jwmnrEsBSZ4nZ6Ua1',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/familienkultur/media.mp4?md5=6LahQcVSAfhUURoSJq1YkQ&expires=1808401735',
+        duration: '16:22',
       },
       {
         slug: 'eifersucht',
@@ -207,6 +238,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1BjLO_0acv82xbcrkT2HMLjErzqPVMchR',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/patchworkdynamiken/eifersucht/media.mp4?md5=_HfEYFJccM4Ej8UAjbzgkA&expires=1808396245',
+        duration: '18:21',
       },
     ],
   },
@@ -222,11 +254,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         slug: 'selfcare-basics',
         title: 'Selfcare-Basics',
         description: 'Du bekommst einen klaren Einstieg, wie Selbstfürsorge im Alltag nicht nur schön klingt, sondern wirklich tragfähig wird.',
+        duration: '25:07',
       },
       {
         slug: 'gefuehle-verstehen',
         title: 'Gefühle verstehen',
         description: 'Hier schaust du auf Gefühle als Wegweiser statt als Störfaktor und lernst, sie besser einzuordnen.',
+        duration: '25:43',
       },
       {
         slug: 'grenzen-setzen',
@@ -235,6 +269,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1x73gUrI9KYNWVK58F5-k_hOwbYyg2Dqi',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/grenzen-setzen/media.mp4?md5=1Ps2wUfjH20piWFd2wzF3A&expires=1808401735',
+        duration: '23:13',
       },
       {
         slug: 'masterclass-selbstfuersorge',
@@ -243,6 +278,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1AoQD0eOcxL_XFM13FAMHQKvrJ2iRSluD',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kraftquellen-selbstfuehrsorge/masterclass-selbstfuersorge/media.mp4?md5=qYjt5pKJ2EkwbwOE0jqtkQ&expires=1808396245',
+        duration: '1:14:29',
       },
       {
         slug: 'affirmationen',
@@ -251,6 +287,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1H6iTP2s1fwl4FbxGSKWxhdgn843Ca-yj',
         mediaType: 'audio',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/empowernde-affirmationen/media.mp3?md5=9zr1l1mu0lDBMlB02txb6w&expires=1808396245',
+        duration: '12:11',
       },
       {
         slug: 'powertalk-the-one',
@@ -259,6 +296,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '16pHWlfpCZix5JMenAU0FGRFAA_w6BJe9',
         mediaType: 'audio',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/powertalk-the-one/media.m4a?md5=f5wAAzkxtZ5n8NFeNYTKUA&expires=1808396245',
+        duration: '7:39',
       },
       {
         slug: 'powertalk-the-queen',
@@ -267,11 +305,17 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1Y_XWTKlQZtgYWF7Y7uG2XXiyQMvHQSMg',
         mediaType: 'audio',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/powertalk-the-queen/media.wav?md5=SwIYDcKxkjghKcDrNF7dAw&expires=1808396245',
+        duration: '9:46',
       },
       {
         slug: 'eft',
         title: 'EFT / Klopftechnik',
         description: 'Hier wird die Klopftechnik als zusätzliches Regulationswerkzeug vorbereitet.',
+        workbookReference: {
+          title: 'EFT-Anleitung',
+          pages: '80–83',
+          text: 'EFT ist im Workbook als praktische Anleitung hinterlegt. Dort findest du die Schritte und Platz für deine eigene Trigger-Situation.',
+        },
       },
     ],
   },
@@ -290,6 +334,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1k321EgRUnkds3b5SBrLDLzmYkOkNs9iN',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/teil-der-familie-werden/media.mp4?md5=46oR9XnmEbA8bf2HOAcxzA&expires=1808401735',
+        duration: '13:37',
       },
       {
         slug: 'connection-first',
@@ -298,6 +343,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1bTy_nMCTPlLeG75nh0BSC1XpYFdSh2nV',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/vertrauen-und-beziehung/media.mp4?md5=iEmslhi6C6ebH98ZYHB1og&expires=1808396245',
+        duration: '17:06',
       },
       {
         slug: 'familienrituale',
@@ -306,11 +352,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1JjO4XEoGCQRqspk9HlHylvB5kqDml8ao',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/familienrituale/media.mp4?md5=KoHh42P8iYL20PJkoRB6tw&expires=1808396245',
+        duration: '1:14:29',
       },
       {
         slug: 'schlafsituationen',
         title: 'Schlafsituationen begleiten',
         description: 'Hier geht es um Nähe, Sicherheit und Grenzen in Schlafsituationen, die im Patchwork oft besonders sensibel sind.',
+        duration: '14:21',
       },
     ],
   },
@@ -329,16 +377,27 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1rK6yrHYAS8vCq_pYJ44BdPsR38t-Ywut',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/paarzeit-zurueckerobern/media.mp4?md5=4jD9KfX37fxWamrUs-bUiQ&expires=1808396245',
+        duration: '54:22',
       },
       {
         slug: 'liebessprachen',
         title: 'Sprachen der Liebe',
         description: 'Diese Lektion hilft euch zu verstehen, wie ihr Liebe unterschiedlich zeigt und wahrnehmt.',
+        workbookReference: {
+          title: 'Die 5 Sprachen der Liebe',
+          pages: '103–105',
+          text: 'Diese Lektion verweist auf die Workbook-Übung. Dort findet ihr heraus, wie ihr Liebe unterschiedlich zeigt und wahrnehmt.',
+        },
       },
       {
         slug: 'werte',
         title: 'Werte in der Partnerschaft',
         description: 'Hier schaut ihr darauf, welche Werte euch als Paar tragen und woran ihr euch gemeinsam orientieren wollt.',
+        workbookReference: {
+          title: 'Werteworkshop für Paare',
+          pages: '106–107',
+          text: 'Der Werteworkshop ist im Workbook angelegt. Dort klärt ihr, welche Werte euch als Paar tragen und woran ihr euch orientieren wollt.',
+        },
       },
       {
         slug: 'erziehungsziele',
@@ -347,6 +406,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '13ndIpxyGZdtb9SenV6GT46zmOz0fONGP',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/unterschiedliche-erziehungsstile/media.mp4?md5=Ohg06OCPNN9prxWey5jgWg&expires=1808401735',
+        duration: '19:32',
       },
       {
         slug: 'finanzen',
@@ -355,16 +415,27 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '13ndIpxyGZdtb9SenV6GT46zmOz0fONGP',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/unterschiedliche-erziehungsstile/media.mp4?md5=Ohg06OCPNN9prxWey5jgWg&expires=1808401735',
+        duration: '17:05',
       },
       {
         slug: 'drei-fragen-fuer-sicherheit',
         title: '3 Fragen für Sicherheit',
         description: 'Drei Fragen, die euch helfen, Sicherheit in der Partnerschaft wieder gezielter aufzubauen.',
+        workbookReference: {
+          title: '3 Fragen, die dein Partner hören muss',
+          pages: '101',
+          text: 'Diese Lektion verweist auf die Workbook-Übung mit drei Fragen, die Verbindung und Sicherheit in eurer Partnerschaft stärken.',
+        },
       },
       {
         slug: 'fuenf-saetze-fuer-verstaendnis',
         title: '5 Sätze für Verständnis',
         description: 'Konkrete Formulierungen, mit denen ihr euch auch in stressigen Momenten wieder näher kommen könnt.',
+        workbookReference: {
+          title: '5 Sätze für mehr Verständnis',
+          pages: '102',
+          text: 'Diese Lektion verweist auf die Workbook-Übung mit fünf Sätzen, die deinem Partner deine Bonusmama-Perspektive greifbarer machen.',
+        },
       },
     ],
   },
@@ -383,6 +454,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1JjO4XEoGCQRqspk9HlHylvB5kqDml8ao',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/familienrituale/media.mp4?md5=KoHh42P8iYL20PJkoRB6tw&expires=1808396245',
+        duration: '12:46',
       },
       {
         slug: 'aktives-zuhoeren',
@@ -391,11 +463,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1adYNLH2fCW9l6KhW31DKJ4ejwgG9Nz0a',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/aktives-zuhoeren/media.mp4?md5=HvoKrwqNvl3cwOCvYT7hjQ&expires=1808401735',
+        duration: '8:35',
       },
       {
         slug: 'wuensche-statt-vorwuerfe',
         title: 'Wünsche statt Vorwürfe',
         description: 'Hier lernst du, wie du deine Wünsche klar ausdrücken kannst, statt in Vorwürfen hängen zu bleiben.',
+        duration: '6:57',
       },
       {
         slug: 'gewaltfreie-kommunikation',
@@ -404,6 +478,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '12v9lbcrPAFe324HNDEUrJGQO8kpp8mj6',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/kommunikation/gewaltfreie-kommunikation/media.mp4?md5=Wu-STg28ui3izbrN347pvA&expires=1808401735',
+        duration: '8:20',
       },
       {
         slug: 'zwiegespraeche',
@@ -412,16 +487,27 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1ht-HVzizNpKV7qOyJeT0c9usdNnBQhaW',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/partnerschaft/zwiegespraech/media.mp4?md5=vTa2Yx-JrjwKy8B8q0QmsA&expires=1808401735',
+        duration: '10:43',
       },
       {
         slug: 'konflikt-kit',
         title: 'Konflikt-Kit',
         description: 'Ein Werkzeugkasten für heikle Gesprächsmomente, damit ihr schneller wieder handlungsfähig werdet.',
+        workbookReference: {
+          title: 'Konflikt-Kit',
+          pages: '126–127',
+          text: 'Diese Lektion verweist auf die passenden Workbook-Übungen für akute Konflikte und schwierige Gesprächssituationen.',
+        },
       },
       {
         slug: 'sos-checkliste',
         title: 'SOS-Checkliste',
         description: 'Eine kompakte Notfallstruktur für Gespräche, die gerade drohen zu kippen.',
+        workbookReference: {
+          title: 'SOS-Soforthilfe bei akuten Konflikten',
+          pages: '126',
+          text: 'Die SOS-Checkliste liegt im Workbook. Dort findest du eine 5-Schritte-Struktur, um in akuten Konflikten wieder handlungsfähig zu werden.',
+        },
       },
     ],
   },
@@ -437,6 +523,11 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         slug: 'leitfaden-hochstrittige-ex',
         title: 'Leitfaden für eine hochstrittige Ex',
         description: 'Hier geht es darum, wie du in besonders belastenden Konstellationen handlungsfähig bleibst.',
+        workbookReference: {
+          title: 'Leitfaden hochstrittige Ex-Partnerinnen',
+          pages: '129',
+          text: 'Diese Lektion verweist auf die Workbook-Übung mit zehn Strategien für den Umgang mit einer hochstrittigen Ex-Partnerin.',
+        },
       },
       {
         slug: 'bedeutung-der-ex',
@@ -445,6 +536,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1lyIZwBSJwIbDugmrKbdia2gl6Hd7r4XP',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/ex-anerkennen/media.mp4?md5=7tKeD2YReVTpcLZcaMQV2A&expires=1808401735',
+        duration: '17:15',
       },
       {
         slug: 'grenzen-setzen-mit-der-ex',
@@ -453,6 +545,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1KN75qQfCDIMcpcjiyCTW4m9LVz0CptdJ',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/ex-ist-zu-praesent/media.mp4?md5=90yPiv53Cc5FMsVVJMadRg&expires=1808401735',
+        duration: '18:14',
       },
       {
         slug: 'triggersituationen',
@@ -461,6 +554,7 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '18oF-5M6RCX7TsR-IfnyRUv_uOFORVd4c',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/eifersucht-bei-erinnerungen/media.mp4?md5=JIoms8SGI8b37PTXtMyUbw&expires=1808401735',
+        duration: '19:22',
       },
     ],
   },
@@ -479,11 +573,17 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '138HrExAoZLw_okSxdMQ8wmVQTnsQwZLy',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/erfolge-feiern/media.mp4?md5=Vd8lWYbGytjo8tPFNGwMaA&expires=1808401735',
+        duration: '18:18',
       },
       {
         slug: 'meilensteine',
         title: 'Meilensteine',
         description: 'Hier hältst du fest, was du schon geschafft hast und woran du deinen weiteren Weg erkennen willst.',
+        workbookReference: {
+          title: 'Meilensteine festhalten',
+          pages: '134',
+          text: 'Diese Lektion verweist auf die Workbook-Übung, in der du sichtbar machst, welche Fortschritte du bereits erreicht hast.',
+        },
       },
       {
         slug: 'rueckschlaege-als-chancen',
@@ -492,11 +592,13 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         driveId: '1O8J0PH_QygV_eu2cLEXJP1XHroSxjH_c',
         mediaType: 'video',
         mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/ex-partnerin-zukunft/rueckschlaege-einordnen/media.mp4?md5=w2TdS4AaauBXhNthyx2xkA&expires=1808401735',
+        duration: '12:46',
       },
       {
         slug: 'abschluss',
         title: 'Abschluss',
         description: 'Ein bewusster Abschluss, der dir hilft, deinen Weg wertzuschätzen und die nächsten Schritte klar mitzunehmen.',
+        duration: '10:18',
       },
     ],
   },
@@ -514,17 +616,8 @@ export function getBeyondBonusModuleCover(moduleSlug: string) {
   return getBeyondBonusModule(moduleSlug)?.moduleCover ?? '/images/beyondbonus/covers/beyondbonus.png';
 }
 
-export function getBeyondBonusLessonCover(moduleSlug: string, lessonSlug: string) {
-  const lesson = getBeyondBonusLesson(moduleSlug, lessonSlug);
-  if (lesson?.slug === 'einfuehrung') {
-    return '/images/beyondbonus/covers/beyondbonus.png';
-  }
-
-  return getBeyondBonusModuleCover(moduleSlug);
-}
-
-export function getBeyondBonusLessonHeaderImage() {
-  return lessonHeaderImage;
+export function getBeyondBonusLessonCover(_moduleSlug: string, _lessonSlug: string) {
+  return lessonCoverImage;
 }
 
 export function getLessonKey(moduleSlug: string, lessonSlug: string) {

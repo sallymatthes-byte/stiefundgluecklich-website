@@ -6,7 +6,7 @@ import MembersSidebar from '../../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../../lib/auth/grants';
 import { loadUserGrants } from '../../../../lib/auth/load-grants';
 import { loadMemberProfile } from '../../../../lib/auth/load-profile';
-import { getBeyondBonusLesson, getBeyondBonusLessonCover, getBeyondBonusLessonHeaderImage, getBeyondBonusModule, getLessonKey } from '../../../../lib/beyondbonus/content';
+import { beyondBonusModules, getBeyondBonusLesson, getBeyondBonusLessonCover, getBeyondBonusModule, getLessonKey, workbookInfo } from '../../../../lib/beyondbonus/content';
 
 const profile = await loadMemberProfile(Astro);
 const grants = await loadUserGrants(Astro);
@@ -25,6 +25,9 @@ if (!module || !lesson) {
   return Astro.redirect('/members/beyondbonus');
 }
 
+const moduleIndex = beyondBonusModules.findIndex((entry) => entry.slug === module.slug);
+const previousModule = moduleIndex > 0 ? beyondBonusModules[moduleIndex - 1] : null;
+const nextModule = moduleIndex < beyondBonusModules.length - 1 ? beyondBonusModules[moduleIndex + 1] : null;
 const lessonIndex = module.lessons.findIndex((entry) => entry.slug === lesson.slug);
 const nextLesson = lessonIndex < module.lessons.length - 1 ? module.lessons[lessonIndex + 1] : null;
 const lessonKey = getLessonKey(module.slug, lesson.slug);
@@ -61,7 +64,14 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
           <div class="space-y-5">
             <a href={`/members/beyondbonus/${module.slug}`} class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">← Zurück zu {module.title}</a>
 
-            <img src={getBeyondBonusLessonHeaderImage()} alt="Sally Matthes" class="w-full h-auto object-cover bg-secondary/15" />
+            <nav class="grid gap-3 sm:grid-cols-2" aria-label="Modulnavigation">
+              {previousModule && (
+                <a href={`/members/beyondbonus/${previousModule.slug}`} class="border border-border/80 px-4 py-3 text-sm hover:bg-secondary/30 transition-colors">← Modul {previousModule.number}: {previousModule.title}</a>
+              )}
+              {nextModule && (
+                <a href={`/members/beyondbonus/${nextModule.slug}`} class="border border-border/80 px-4 py-3 text-sm hover:bg-secondary/30 transition-colors sm:text-right">Modul {nextModule.number}: {nextModule.title} →</a>
+              )}
+            </nav>
 
             <header class="space-y-3 pb-2">
               <p class="text-xs uppercase tracking-[0.22em] text-muted-foreground">Modul {module.number} · Lektion {String(lessonIndex + 1).padStart(2, '0')}</p>
@@ -71,28 +81,40 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
           </div>
 
           <section class="space-y-5">
-            <div class="relative aspect-video overflow-hidden bg-secondary/20 shadow-[0_14px_36px_rgba(0,0,0,0.05)]" data-media-shell data-media-endpoint={mediaEndpoint}>
-              <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt="" class="absolute inset-0 h-full w-full object-cover opacity-35" aria-hidden="true" />
-              <div class="absolute inset-0 bg-white/55"></div>
-              <div class="relative z-10 flex h-full items-center justify-center p-6 md:p-8">
-                <div class="max-w-sm space-y-4 bg-background/92 px-7 py-6 text-center shadow-[0_14px_36px_rgba(0,0,0,0.08)] backdrop-blur-sm">
-                  <div class="mx-auto flex h-14 w-14 items-center justify-center border border-border/80 bg-white/75 text-foreground">
-                    <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor" aria-hidden="true">
-                      <path d="M5 3.5v11l8-5.5-8-5.5Z" />
-                    </svg>
-                  </div>
-                  <div class="space-y-2">
-                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Video-Lektion</p>
-                    <p class="text-sm text-muted-foreground leading-relaxed" data-media-status>
-                      Video wird geladen ...
-                    </p>
-                    <p class="text-xs text-muted-foreground/90 leading-relaxed">
-                      Wenn das Laden länger dauert, aktualisiere die Seite kurz.
-                    </p>
+            {lesson.workbookReference ? (
+              <div class="border border-border bg-secondary/20 p-6 md:p-8 space-y-4 shadow-[0_14px_36px_rgba(0,0,0,0.04)]">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Workbook-Übung</p>
+                <h2 class="font-serif text-3xl leading-none">{lesson.workbookReference.title}</h2>
+                <p class="text-sm text-muted-foreground leading-relaxed">{lesson.workbookReference.text}</p>
+                <a href={workbookInfo.downloadUrl} target="_blank" rel="noreferrer" class="inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity">
+                  Workbook öffnen (S. {lesson.workbookReference.pages})
+                </a>
+              </div>
+            ) : (
+              <div class="relative aspect-video overflow-hidden bg-secondary/20 shadow-[0_14px_36px_rgba(0,0,0,0.05)]" data-media-shell data-media-endpoint={mediaEndpoint}>
+                <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt="" class="absolute inset-0 h-full w-full object-cover" aria-hidden="true" />
+                <div class="absolute inset-0 bg-black/15"></div>
+                {lesson.duration && <span class="absolute bottom-3 right-3 z-20 bg-black/80 px-2 py-1 text-xs font-medium text-white">{lesson.duration}</span>}
+                <div class="relative z-10 flex h-full items-center justify-center p-6 md:p-8">
+                  <div class="max-w-sm space-y-4 bg-background/92 px-7 py-6 text-center shadow-[0_14px_36px_rgba(0,0,0,0.08)] backdrop-blur-sm">
+                    <div class="mx-auto flex h-14 w-14 items-center justify-center border border-border/80 bg-white/75 text-foreground">
+                      <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor" aria-hidden="true">
+                        <path d="M5 3.5v11l8-5.5-8-5.5Z" />
+                      </svg>
+                    </div>
+                    <div class="space-y-2">
+                      <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Video-Lektion{lesson.duration ? ` · ${lesson.duration}` : ''}</p>
+                      <p class="text-sm text-muted-foreground leading-relaxed" data-media-status>
+                        Video wird geladen ...
+                      </p>
+                      <p class="text-xs text-muted-foreground/90 leading-relaxed">
+                        Wenn das Laden länger dauert, aktualisiere die Seite kurz.
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
+            )}
 
             <div class="flex flex-wrap items-center justify-between gap-4 pb-2">
               <div class="space-y-1">
@@ -192,6 +214,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
 
               const video = document.createElement('video');
               video.src = media.url;
+              video.poster = getBeyondBonusLessonCover(module.slug, lesson.slug);
               video.controls = true;
               video.playsInline = true;
               video.preload = 'metadata';
