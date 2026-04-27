@@ -91,7 +91,7 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
                 </a>
               </div>
             ) : (
-              <div class="relative aspect-video overflow-hidden bg-secondary/20 shadow-[0_14px_36px_rgba(0,0,0,0.05)]" data-media-shell data-media-endpoint={mediaEndpoint}>
+              <div class="relative aspect-video overflow-hidden bg-secondary/20 shadow-[0_14px_36px_rgba(0,0,0,0.05)]" data-media-shell data-media-endpoint={mediaEndpoint} data-poster={getBeyondBonusLessonCover(module.slug, lesson.slug)} data-duration={lesson.duration || ''}>
                 <img src={getBeyondBonusLessonCover(module.slug, lesson.slug)} alt="" class="absolute inset-0 h-full w-full object-cover" aria-hidden="true" />
                 <div class="absolute inset-0 bg-black/15"></div>
                 {lesson.duration && <span class="absolute bottom-3 right-3 z-20 bg-black/80 px-2 py-1 text-xs font-medium text-white">{lesson.duration}</span>}
@@ -196,6 +196,8 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             }
 
             const media = payload.media;
+            const poster = mediaShell.getAttribute('data-poster') || '';
+            const duration = mediaShell.getAttribute('data-duration') || '';
             mediaShell.innerHTML = '';
 
             if (media.provider !== 'drive-preview') {
@@ -214,12 +216,18 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
 
               const video = document.createElement('video');
               video.src = media.url;
-              video.poster = getBeyondBonusLessonCover(module.slug, lesson.slug);
+              if (poster) video.poster = poster;
               video.controls = true;
               video.playsInline = true;
               video.preload = 'metadata';
               video.className = 'w-full h-full object-cover bg-black';
               mediaShell.appendChild(video);
+              if (duration) {
+                const badge = document.createElement('span');
+                badge.className = 'absolute bottom-3 right-3 z-20 bg-black/80 px-2 py-1 text-xs font-medium text-white';
+                badge.textContent = duration;
+                mediaShell.appendChild(badge);
+              }
               return;
             }
 
