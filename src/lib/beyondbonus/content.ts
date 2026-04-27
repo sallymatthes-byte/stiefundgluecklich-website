@@ -351,8 +351,8 @@ export const beyondBonusModules: BeyondBonusModule[] = [
         description: 'Du bekommst konkrete Ideen für Familienrituale, die Sicherheit geben und im Alltag tatsächlich Verbindung statt nur zusätzlichen Aufwand schaffen.',
         driveId: '1JjO4XEoGCQRqspk9HlHylvB5kqDml8ao',
         mediaType: 'video',
-        mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/bonuskinder/familienrituale/media.mp4?md5=KoHh42P8iYL20PJkoRB6tw&expires=1808396245',
-        duration: '1:14:29',
+        mediaUrl: 'https://youtu.be/gHDB18rCGQI',
+        duration: '8:40',
       },
       {
         slug: 'schlafsituationen',

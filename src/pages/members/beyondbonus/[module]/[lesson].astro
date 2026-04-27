@@ -200,6 +200,23 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
             const duration = mediaShell.getAttribute('data-duration') || '';
             mediaShell.innerHTML = '';
 
+            if (media.provider === 'youtube') {
+              const iframe = document.createElement('iframe');
+              iframe.src = media.url;
+              iframe.className = 'w-full h-full bg-black';
+              iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+              iframe.setAttribute('allowfullscreen', 'true');
+              iframe.setAttribute('loading', 'lazy');
+              mediaShell.appendChild(iframe);
+              if (duration) {
+                const badge = document.createElement('span');
+                badge.className = 'absolute bottom-3 right-3 z-20 bg-black/80 px-2 py-1 text-xs font-medium text-white';
+                badge.textContent = duration;
+                mediaShell.appendChild(badge);
+              }
+              return;
+            }
+
             if (media.provider !== 'drive-preview') {
               if (media.kind === 'audio') {
                 const wrapper = document.createElement('div');
