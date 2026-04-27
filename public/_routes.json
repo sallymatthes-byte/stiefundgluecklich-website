@@ -5,6 +5,8 @@
     "/reset-password",
     "/auth/*",
     "/api/*",
+    "/admin",
+    "/admin/*",
     "/members/*",
     "/livecalls/*"
   ],

@@ -1,0 +1,193 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import { isAdminEmail } from '../../lib/admin/access';
+import { createSupabaseAdminClient } from '../../lib/supabase/admin';
+
+if (!isAdminEmail(Astro.locals.user?.email)) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const admin = createSupabaseAdminClient();
+const saved = Astro.url.searchParams.get('saved') === '1';
+const created = Astro.url.searchParams.get('created') === '1';
+const savedEmail = Astro.url.searchParams.get('email');
+const error = Astro.url.searchParams.get('error');
+const query = Astro.url.searchParams.get('q')?.trim() || '';
+
+let profiles: any[] = [];
+let grants: any[] = [];
+
+if (admin) {
+  let profileQuery = admin
+    .from('profiles')
+    .select('id, email, full_name, created_at')
+    .order('created_at', { ascending: false })
+    .limit(25);
+
+  if (query) {
+    profileQuery = profileQuery.or(`email.ilike.%${query}%,full_name.ilike.%${query}%`);
+  }
+
+  const { data: profileData } = await profileQuery;
+  profiles = profileData || [];
+
+  if (profiles.length > 0) {
+    const { data: grantData } = await admin
+      .from('access_grants')
+      .select('id, user_id, product_key, area, status, starts_at, ends_at, source, note, updated_at')
+      .in('user_id', profiles.map((profile) => profile.id))
+      .order('updated_at', { ascending: false });
+    grants = grantData || [];
+  }
+}
+
+const grantsByUser = grants.reduce((acc: Record<string, any[]>, grant: any) => {
+  acc[grant.user_id] ||= [];
+  acc[grant.user_id].push(grant);
+  return acc;
+}, {});
+
+const today = new Date().toISOString().slice(0, 10);
+const sixMonths = new Date();
+sixMonths.setMonth(sixMonths.getMonth() + 6);
+const twelveMonths = new Date();
+twelveMonths.setMonth(twelveMonths.getMonth() + 12);
+---
+
+<Layout title="Admin · Zugänge" canonical="https://stiefundgluecklich.de/admin/grants/" noHeader={true}>
+  <section class="py-14 md:py-20">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px] space-y-10">
+      <header class="space-y-3">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Admin</p>
+        <h1 class="font-serif text-4xl md:text-5xl leading-none">Zugänge freischalten</h1>
+        <p class="text-muted-foreground max-w-2xl leading-relaxed">
+          Hier kannst du manuell Kundinnen anlegen, Kurszugänge freischalten und Laufzeiten verlängern.
+        </p>
+      </header>
+
+      {!admin && (
+        <div class="border border-red-200 bg-red-50 p-5 text-sm leading-relaxed">
+          Supabase Admin ist noch nicht konfiguriert. Es fehlt `SUPABASE_SECRET_KEY` oder `SUPABASE_SERVICE_ROLE_KEY` in der Server-Umgebung.
+        </div>
+      )}
+
+      {saved && (
+        <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
+          Zugang für <strong>{savedEmail}</strong> wurde gespeichert.{created ? ' Der Account wurde neu angelegt.' : ''}
+        </div>
+      )}
+
+      {error && (
+        <div class="border border-red-200 bg-red-50 p-5 text-sm leading-relaxed">
+          Speichern nicht möglich: {error}
+        </div>
+      )}
+
+      <div class="grid gap-8 lg:grid-cols-[minmax(0,1fr)_360px] lg:items-start">
+        <section class="border border-border bg-background p-6 md:p-7 space-y-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+          <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
+            <div>
+              <h2 class="font-serif text-3xl leading-tight">Aktuelle Zugänge</h2>
+              <p class="text-sm text-muted-foreground mt-1">Letzte Profile, optional nach Name oder E-Mail gefiltert.</p>
+            </div>
+            <form method="GET" action="/admin/grants" class="flex gap-2">
+              <input name="q" value={query} placeholder="Suchen ..." class="border border-border bg-white px-3 py-2 text-sm focus:outline-none focus:border-primary" />
+              <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Suchen</button>
+            </form>
+          </div>
+
+          <div class="space-y-4">
+            {profiles.length === 0 ? (
+              <p class="text-sm text-muted-foreground">Noch keine Profile gefunden.</p>
+            ) : profiles.map((profile) => (
+              <article class="border border-border/80 p-4 space-y-3">
+                <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-2">
+                  <div>
+                    <h3 class="font-serif text-xl">{profile.full_name || 'Ohne Namen'}</h3>
+                    <p class="text-sm text-muted-foreground break-all">{profile.email}</p>
+                  </div>
+                  <a href={`/admin/grants?q=${encodeURIComponent(profile.email || '')}`} class="text-xs text-primary">Filtern</a>
+                </div>
+
+                {(grantsByUser[profile.id] || []).length > 0 ? (
+                  <ul class="space-y-2 text-sm">
+                    {(grantsByUser[profile.id] || []).map((grant) => (
+                      <li class="flex flex-col md:flex-row md:items-center md:justify-between gap-1 border-t border-border/70 pt-2 first:border-t-0 first:pt-0">
+                        <span>{grant.product_key} · {grant.area} · {grant.status} · {grant.source}</span>
+                        <span class="text-muted-foreground">bis {grant.ends_at ? new Date(grant.ends_at).toLocaleDateString('de-DE') : 'ohne Ende'}</span>
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p class="text-sm text-muted-foreground">Keine aktiven Grants sichtbar.</p>
+                )}
+              </article>
+            ))}
+          </div>
+        </section>
+
+        <form method="POST" action="/api/admin/grants/upsert" class="border border-border bg-background p-6 md:p-7 space-y-5 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+          <div>
+            <h2 class="font-serif text-3xl leading-tight">Freischalten</h2>
+            <p class="text-sm text-muted-foreground mt-1">Bestehende aktive Grants werden verlängert, sonst neu angelegt.</p>
+          </div>
+
+          <label class="block">
+            <span class="block text-sm mb-2">E-Mail</span>
+            <input name="email" type="email" required class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+          </label>
+
+          <label class="block">
+            <span class="block text-sm mb-2">Name</span>
+            <input name="full_name" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+          </label>
+
+          <label class="block">
+            <span class="block text-sm mb-2">Produkt</span>
+            <select name="product_key" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
+              <option value="beyondbonus">BeyondBonus</option>
+              <option value="its-bundle">ITS Bundle</option>
+              <option value="beyondblended">BeyondBlended</option>
+            </select>
+          </label>
+
+          <div class="grid gap-4 md:grid-cols-2">
+            <label class="block">
+              <span class="block text-sm mb-2">Kurs bis</span>
+              <input name="course_ends_at" type="date" value={twelveMonths.toISOString().slice(0, 10)} min={today} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+            </label>
+            <label class="block">
+              <span class="block text-sm mb-2">Quelle</span>
+              <select name="source" class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary">
+                <option value="manual">Manuell</option>
+                <option value="migration">Migration</option>
+                <option value="stripe">Stripe</option>
+              </select>
+            </label>
+          </div>
+
+          <label class="flex items-center gap-2 text-sm">
+            <input type="checkbox" name="livecalls_enabled" class="h-4 w-4" />
+            Livecalls separat freischalten
+          </label>
+
+          <label class="block">
+            <span class="block text-sm mb-2">Livecalls bis</span>
+            <input name="livecalls_ends_at" type="date" value={sixMonths.toISOString().slice(0, 10)} min={today} class="w-full border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary" />
+          </label>
+
+          <label class="block">
+            <span class="block text-sm mb-2">Interne Notiz</span>
+            <textarea name="note" class="w-full min-h-28 border border-border bg-white px-4 py-3 focus:outline-none focus:border-primary"></textarea>
+          </label>
+
+          <button type="submit" class="w-full bg-primary text-primary-foreground px-5 py-3 text-sm font-medium hover:opacity-90">
+            Zugang speichern
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+</Layout>
