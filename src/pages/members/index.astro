@@ -63,7 +63,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
 
               {error === 'no-access' && (
                 <div class="border border-red-200 bg-red-50 px-5 py-4 text-sm leading-relaxed">
-                  Für diesen Bereich ist aktuell noch kein freigeschalteter Zugang hinterlegt.
+                  Für diesen Bereich ist aktuell kein aktiver Zugang hinterlegt. Deine freigeschalteten Inhalte findest du weiterhin hier auf dem Dashboard.
                 </div>
               )}
             </div>
@@ -71,7 +71,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
 
           <section class="border-l-2 border-primary/35 bg-secondary/16 px-6 py-5 space-y-2">
             <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
-            <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, melde dich einfach direkt bei Sally.</p>
+            <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, schreib uns kurz — wir prüfen das mit dir.</p>
           </section>
 
           <div class="space-y-12">
@@ -120,7 +120,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
                       <h3 class="font-serif text-2xl leading-tight">Livecalls</h3>
                     </div>
                     <p class="text-sm text-muted-foreground leading-relaxed flex-1">
-                      Dein Livecall-Zugang ist aktuell nicht aktiv. Der Kursbereich bleibt davon unberührt.
+                      Dein Livecall-Zugang ist aktuell nicht aktiv. Dein Kursbereich bleibt davon unberührt.
                     </p>
                   </div>
                 )}

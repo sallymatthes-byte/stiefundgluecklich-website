@@ -12,11 +12,7 @@ if (!access.livecalls) {
   return Astro.redirect('/members?error=no-access');
 }
 
-const recordings = [
-  'Q&A Call 01',
-  'Q&A Call 02',
-  'Q&A Call 03',
-];
+const recordings: string[] = [];
 ---
 
 <Layout
@@ -34,22 +30,27 @@ const recordings = [
       <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
       <h1 class="font-serif text-3xl md:text-4xl mb-4">Livecalls & Aufzeichnungen</h1>
       <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier findest du deine Livecalls und Aufzeichnungen gesammelt an einem Ort.
+        Hier sammeln wir die Aufzeichnungen deiner freigeschalteten BeyondBonus-Livecalls. Wenn eine neue Aufzeichnung bereitsteht, findest du sie künftig direkt hier.
       </p>
 
-      <div class="border border-border p-6 bg-secondary/40 space-y-2 mb-8">
-        <p class="text-sm"><strong>Hinweis:</strong> Dieser Bereich wird als Nächstes mit den echten Aufzeichnungen gefüllt.</p>
-      </div>
-
-      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {recordings.map((recording, index) => (
-          <div class="border border-border p-5 bg-background space-y-3">
-            <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Aufzeichnung {String(index + 1).padStart(2, '0')}</p>
-            <h2 class="font-serif text-xl">{recording}</h2>
-            <p class="text-sm text-muted-foreground">Die echten Aufzeichnungen hängen wir im nächsten Build-Block an Cloudflare R2 an.</p>
-          </div>
-        ))}
-      </div>
+      {recordings.length === 0 ? (
+        <div class="border border-border p-7 md:p-8 bg-secondary/25 space-y-3 max-w-3xl">
+          <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Noch keine Aufzeichnung hinterlegt</p>
+          <h2 class="font-serif text-2xl">Die Livecall-Aufzeichnungen werden gerade vorbereitet.</h2>
+          <p class="text-sm text-muted-foreground leading-relaxed">
+            Dein Zugang ist aktiv. Sobald die Aufzeichnungen im Mitgliederbereich ergänzt sind, erscheinen sie an dieser Stelle.
+          </p>
+        </div>
+      ) : (
+        <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {recordings.map((recording, index) => (
+            <div class="border border-border p-5 bg-background space-y-3">
+              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Aufzeichnung {String(index + 1).padStart(2, '0')}</p>
+              <h2 class="font-serif text-xl">{recording}</h2>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   </section>
 </Layout>

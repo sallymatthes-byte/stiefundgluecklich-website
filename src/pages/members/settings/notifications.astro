@@ -13,9 +13,9 @@ const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
 const courseItems = getBeyondBonusCourseItems(beyondBonus);
 const settings = [
-  ['Neue Inhalte', 'Benachrichtigung, wenn neue Inhalte im Mitgliederbereich freigeschaltet werden.'],
-  ['Antwort von Sally', 'Benachrichtigung, wenn du auf eine Frage oder Nachricht eine Rückmeldung bekommst.'],
-  ['Erinnerung zum Dranbleiben', 'Kleine Erinnerungen, damit du leichter am Ball bleibst.'],
+  ['Neue Inhalte', 'Wenn neue Inhalte für dich freigeschaltet werden, informieren wir dich direkt.'],
+  ['Antwort von Sally', 'Wenn du Support brauchst, läuft die Rückmeldung aktuell direkt per E-Mail.'],
+  ['Dranbleiben', 'Erinnerungen und Kursimpulse ergänzen wir erst, wenn der Mitgliederbereich im Alltag getestet ist.'],
 ];
 ---
 
@@ -48,7 +48,7 @@ const settings = [
             <div class="space-y-3">
               <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">Benachrichtigungen</h1>
               <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">
-                Hier ist die Struktur für künftige Benachrichtigungen vorbereitet. Sobald wir die Ausspielwege final festziehen, können diese Einstellungen aktiv genutzt werden.
+                Hier siehst du, welche Benachrichtigungen für den Mitgliederbereich vorgesehen sind. Aktuell musst du hier nichts einstellen.
               </p>
             </div>
           </div>
@@ -60,10 +60,7 @@ const settings = [
                   <h2 class="font-serif text-xl mb-1">{title}</h2>
                   <p class="text-sm text-muted-foreground">{description}</p>
                 </div>
-                <select class="border border-border bg-white px-4 py-2 text-sm focus:outline-none focus:border-primary">
-                  <option>Aktiv</option>
-                  <option>Pausiert</option>
-                </select>
+                <span class="whitespace-nowrap border border-border bg-secondary/30 px-4 py-2 text-sm text-muted-foreground">Vorgesehen</span>
               </div>
             ))}
           </section>
