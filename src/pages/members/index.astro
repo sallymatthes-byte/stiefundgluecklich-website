@@ -6,12 +6,15 @@ import MembersSidebar from '../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../lib/auth/grants';
 import { loadUserGrants } from '../../lib/auth/load-grants';
 import { loadMemberProfile } from '../../lib/auth/load-profile';
+import { getBeyondBonusCourseItems, getGrantLabel } from '../../lib/members/navigation';
 
 const profile = await loadMemberProfile(Astro);
 const firstName = profile.fullName || Astro.locals.user?.email?.split('@')[0]?.split(/[._-]/)[0] || 'du';
 const firstNameLabel = firstName.charAt(0).toUpperCase() + firstName.slice(1);
 const grants = await loadUserGrants(Astro);
 const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
+const courseItems = getBeyondBonusCourseItems(beyondBonus);
+const now = new Date();
 const error = Astro.url.searchParams.get('error');
 const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
 ---
@@ -30,10 +33,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
           subtitle={`Hey ${firstNameLabel}`}
           currentPath={Astro.url.pathname}
           primaryItems={[{ href: '/members', label: 'Dashboard' }]}
-          courseItems={[
-            { href: '/members/beyondbonus', label: 'BeyondBonus' },
-            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
-          ]}
+          courseItems={courseItems}
           bottomItems={[
             { href: '/members/settings/account', label: 'Account' },
             { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
@@ -98,21 +98,32 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
                   </a>
                 </div>
 
-                <div class="border border-border bg-background p-7 space-y-5 h-full flex flex-col shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
-                  <div class="space-y-2">
-                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Meine Kurse</p>
-                    <h3 class="font-serif text-2xl leading-tight">Livecalls</h3>
+                {beyondBonus.livecalls && (
+                  <div class="border border-border bg-background p-7 space-y-5 h-full flex flex-col shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+                    <div class="space-y-2">
+                      <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Meine Kurse</p>
+                      <h3 class="font-serif text-2xl leading-tight">Livecalls</h3>
+                    </div>
+                    <p class="text-sm text-muted-foreground leading-relaxed flex-1">
+                      Deine freigeschalteten Livecalls und Aufzeichnungen gesammelt an einem Ort.
+                    </p>
+                    <a href="/livecalls/beyondbonus" class="inline-flex w-fit px-5 py-3 text-sm font-medium transition-opacity bg-primary text-primary-foreground hover:opacity-90">
+                      Livecalls öffnen
+                    </a>
                   </div>
-                  <p class="text-sm text-muted-foreground leading-relaxed flex-1">
-                    Deine freigeschalteten Livecalls und Aufzeichnungen gesammelt an einem Ort.
-                  </p>
-                  <a
-                    href="/livecalls/beyondbonus"
-                    class={`inline-flex w-fit px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.livecalls ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
-                  >
-                    Livecalls öffnen
-                  </a>
-                </div>
+                )}
+
+                {!beyondBonus.livecalls && grants.some((grant) => grant.productKey === 'beyondbonus' && grant.area === 'livecalls') && (
+                  <div class="border border-border bg-secondary/20 p-7 space-y-5 h-full flex flex-col shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+                    <div class="space-y-2">
+                      <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Abgelaufen</p>
+                      <h3 class="font-serif text-2xl leading-tight">Livecalls</h3>
+                    </div>
+                    <p class="text-sm text-muted-foreground leading-relaxed flex-1">
+                      Dein Livecall-Zugang ist aktuell nicht aktiv. Der Kursbereich bleibt davon unberührt.
+                    </p>
+                  </div>
+                )}
               </div>
             </section>
 
@@ -144,8 +155,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
                 <ul class="space-y-2 text-sm text-muted-foreground">
                   {grants.map((grant) => (
                     <li>
-                      {grant.area === 'course' ? 'BeyondBonus Kurszugang' : 'BeyondBonus Livecalls'}
-                      {grant.endsAt ? ` · verfügbar bis ${new Date(grant.endsAt).toLocaleDateString('de-DE')}` : ''}
+                      {getGrantLabel(grant, now)}
                     </li>
                   ))}
                 </ul>

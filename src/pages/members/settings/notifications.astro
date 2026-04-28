@@ -3,9 +3,15 @@ export const prerender = false;
 
 import Layout from '../../../layouts/Layout.astro';
 import MembersSidebar from '../../../components/MembersSidebar.astro';
+import { getAccessSnapshot } from '../../../lib/auth/grants';
+import { loadUserGrants } from '../../../lib/auth/load-grants';
 import { loadMemberProfile } from '../../../lib/auth/load-profile';
+import { getBeyondBonusCourseItems } from '../../../lib/members/navigation';
 
 const profile = await loadMemberProfile(Astro);
+const grants = await loadUserGrants(Astro);
+const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
+const courseItems = getBeyondBonusCourseItems(beyondBonus);
 const settings = [
   ['Neue Inhalte', 'Benachrichtigung, wenn neue Inhalte im Mitgliederbereich freigeschaltet werden.'],
   ['Antwort von Sally', 'Benachrichtigung, wenn du auf eine Frage oder Nachricht eine Rückmeldung bekommst.'],
@@ -27,10 +33,7 @@ const settings = [
           subtitle={profile.fullName || 'Dein Profil'}
           currentPath={Astro.url.pathname}
           primaryItems={[{ href: '/members', label: 'Dashboard' }]}
-          courseItems={[
-            { href: '/members/beyondbonus', label: 'BeyondBonus' },
-            { href: '/livecalls/beyondbonus', label: 'Livecalls' },
-          ]}
+          courseItems={courseItems}
           bottomItems={[
             { href: '/members/settings/account', label: 'Account' },
             { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
