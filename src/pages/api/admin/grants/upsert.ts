@@ -19,7 +19,9 @@ function monthsFromNow(months: number) {
   return date.toISOString();
 }
 
-async function findUserByEmail(admin: NonNullable<ReturnType<typeof createSupabaseAdminClient>>, email: string) {
+type SupabaseAdmin = NonNullable<ReturnType<typeof createSupabaseAdminClient>>;
+
+async function findUserByEmail(admin: SupabaseAdmin, email: string) {
   const { data: profile } = await admin
     .from('profiles')
     .select('id, email, full_name')
@@ -39,7 +41,7 @@ async function findUserByEmail(admin: NonNullable<ReturnType<typeof createSupaba
   };
 }
 
-async function ensureUser(admin: NonNullable<ReturnType<typeof createSupabaseAdminClient>>, email: string, fullName: string) {
+async function ensureUser(admin: SupabaseAdmin, email: string, fullName: string) {
   const existing = await findUserByEmail(admin, email);
   if (existing?.id) {
     await admin.from('profiles').upsert({ id: existing.id, email, full_name: fullName || existing.full_name || null });
@@ -68,7 +70,7 @@ async function ensureUser(admin: NonNullable<ReturnType<typeof createSupabaseAdm
 }
 
 async function upsertGrant(
-  admin: NonNullable<ReturnType<typeof createSupabaseAdminClient>>,
+  admin: SupabaseAdmin,
   userId: string,
   productKey: ProductKey,
   area: AccessArea,
@@ -112,7 +114,8 @@ export const POST: APIRoute = async (context) => {
     return context.redirect('/members?error=no-access');
   }
 
-  const admin = createSupabaseAdminClient();
+  const runtimeEnv = (context.locals as any).runtime?.env;
+  const admin = createSupabaseAdminClient(runtimeEnv);
   if (!admin) {
     return context.redirect('/admin/grants?error=supabase-admin-config');
   }

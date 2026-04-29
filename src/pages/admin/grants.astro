@@ -9,7 +9,8 @@ if (!isAdminEmail(Astro.locals.user?.email)) {
   return Astro.redirect('/members?error=no-access');
 }
 
-const admin = createSupabaseAdminClient();
+const runtimeEnv = (Astro.locals as any).runtime?.env;
+const admin = createSupabaseAdminClient(runtimeEnv);
 const saved = Astro.url.searchParams.get('saved') === '1';
 const created = Astro.url.searchParams.get('created') === '1';
 const savedEmail = Astro.url.searchParams.get('email');
