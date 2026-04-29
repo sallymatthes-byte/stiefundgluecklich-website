@@ -1,0 +1,70 @@
+---
+export const prerender = false;
+
+import Layout from '../../../layouts/Layout.astro';
+import { getAccessSnapshot } from '../../../lib/auth/grants';
+import { loadUserGrants } from '../../../lib/auth/load-grants';
+import { getBeyondBonusLivecall } from '../../../lib/beyondbonus/livecalls';
+
+const grants = await loadUserGrants(Astro);
+const access = getAccessSnapshot(grants, 'beyondbonus');
+
+if (!access.livecalls) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const { slug } = Astro.params;
+const recording = slug ? getBeyondBonusLivecall(slug) : null;
+
+if (!recording) {
+  return Astro.redirect('/livecalls/beyondbonus');
+}
+---
+
+<Layout
+  title={`${recording.title} | BeyondBonus Livecall`}
+  canonical={`https://stiefundgluecklich.de/livecalls/beyondbonus/${recording.slug}/`}
+  description={recording.description}
+  noHeader={true}
+>
+  <section class="py-14 md:py-24">
+    <div class="container mx-auto px-4 sm:px-5 md:px-6 max-w-5xl">
+      <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between mb-7">
+        <a href="/livecalls/beyondbonus" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">
+          ← Zurück zu den Livecalls
+        </a>
+        <a href="/members" class="inline-flex w-fit px-4 py-2 text-sm font-medium border border-border hover:bg-secondary/40 transition-colors">
+          Zum Dashboard
+        </a>
+      </div>
+
+      <header class="space-y-4 mb-8">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">{recording.dateLabel} · {recording.durationLabel}</p>
+        <div class="space-y-3">
+          <h1 class="font-serif text-3xl md:text-4xl leading-tight">{recording.title}</h1>
+          <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">{recording.description}</p>
+        </div>
+      </header>
+
+      <article class="border border-border bg-background shadow-[0_10px_24px_rgba(0,0,0,0.03)] overflow-hidden">
+        <div class="aspect-video bg-secondary/40">
+          <video
+            class="h-full w-full bg-black"
+            controls
+            playsinline
+            preload="metadata"
+            src={recording.mediaUrl}
+            controlsList="nodownload"
+          >
+            Dein Browser kann dieses Video nicht direkt abspielen.
+          </video>
+        </div>
+        <div class="p-5 md:p-6 space-y-3">
+          <p class="text-sm text-muted-foreground leading-relaxed">
+            Tipp fürs Handy: Starte das Video, drehe dein Handy quer und nutze den Vollbild-Button im Player.
+          </p>
+        </div>
+      </article>
+    </div>
+  </section>
+</Layout>
