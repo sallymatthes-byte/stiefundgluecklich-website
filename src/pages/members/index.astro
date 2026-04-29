@@ -37,6 +37,7 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
           bottomItems={[
             { href: '/members/settings/account', label: 'Account' },
             { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: '/members/app', label: 'Als App nutzen' },
             { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich', label: 'Support' },
           ]}
           avatarUrl={profile.avatarUrl}
@@ -69,9 +70,14 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
             </div>
           )}
 
-          <section class="border-l-2 border-primary/35 bg-secondary/16 px-6 py-5 space-y-2">
-            <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
-            <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, schreib uns kurz — wir prüfen das mit dir.</p>
+          <section class="border-l-2 border-primary/35 bg-secondary/16 px-6 py-5 space-y-3">
+            <div class="space-y-2">
+              <p class="text-sm">Willkommen zurück. Schön, dass du wieder da bist.</p>
+              <p class="text-sm text-muted-foreground">Wenn etwas mit deinem Zugang nicht stimmt, schreib uns kurz — wir prüfen das mit dir.</p>
+            </div>
+            <a href="/members/app" class="inline-flex w-fit px-4 py-2 text-sm font-medium border border-border/80 bg-background hover:bg-secondary/40 transition-colors">
+              Auf dem Handy wie eine App nutzen
+            </a>
           </section>
 
           <div class="space-y-12">

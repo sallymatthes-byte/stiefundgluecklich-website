@@ -1,0 +1,45 @@
+{
+  "name": "StiefundGlücklich Mitgliederbereich",
+  "short_name": "Stief&Glücklich",
+  "description": "Dein geschützter Mitgliederbereich von StiefundGlücklich.",
+  "start_url": "/members/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#275417",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Mitgliederbereich",
+      "short_name": "Dashboard",
+      "url": "/members/",
+      "description": "Direkt zu deinen freigeschalteten Inhalten"
+    },
+    {
+      "name": "BeyondBonus",
+      "short_name": "Kurs",
+      "url": "/members/beyondbonus/",
+      "description": "Direkt zu BeyondBonus"
+    },
+    {
+      "name": "Livecalls",
+      "short_name": "Livecalls",
+      "url": "/livecalls/beyondbonus/",
+      "description": "Direkt zu den Livecall-Aufzeichnungen"
+    }
+  ]
+}

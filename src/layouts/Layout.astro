@@ -32,7 +32,13 @@ const fullTitle = title === 'Startseite'
 <html lang="de">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#275417" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Stief&Glücklich" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <link rel="manifest" href="/manifest.webmanifest" />
     <meta name="p:domain_verify" content="de934ada618ebe38cc649e4a357f90f3"/>
     <meta name="description" content={description} />
     {canonical && <link rel="canonical" href={canonical} />}
@@ -162,5 +168,12 @@ const fullTitle = title === 'Startseite'
       </footer>
     ) : !noFooter && <Footer />}
     <CookieConsent />
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/service-worker.js').catch(() => undefined);
+        });
+      }
+    </script>
   </body>
 </html>

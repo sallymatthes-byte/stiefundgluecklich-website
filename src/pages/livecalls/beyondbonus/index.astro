@@ -4,6 +4,7 @@ export const prerender = false;
 import Layout from '../../../layouts/Layout.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
+import { beyondBonusLivecallRecordings } from '../../../lib/beyondbonus/livecalls';
 
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
@@ -12,7 +13,7 @@ if (!access.livecalls) {
   return Astro.redirect('/members?error=no-access');
 }
 
-const recordings: string[] = [];
+const recordings = beyondBonusLivecallRecordings;
 ---
 
 <Layout
@@ -21,17 +22,26 @@ const recordings: string[] = [];
   description="Geschützter Livecall- und Aufzeichnungsbereich für BeyondBonus."
   noHeader={true}
 >
-  <section class="py-20 md:py-28">
-    <div class="container mx-auto px-5 md:px-6 max-w-5xl">
-      <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors mb-6">
-        ← Zurück zum Mitgliederbereich
-      </a>
+  <section class="py-14 md:py-24">
+    <div class="container mx-auto px-4 sm:px-5 md:px-6 max-w-5xl">
+      <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between mb-6">
+        <a href="/members" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">
+          ← Zurück zum Mitgliederbereich
+        </a>
+        <a href="/members/app" class="inline-flex w-fit px-4 py-2 text-sm font-medium border border-border hover:bg-secondary/40 transition-colors">
+          Auf dem Handy wie eine App nutzen
+        </a>
+      </div>
 
-      <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground mb-4">BeyondBonus</p>
-      <h1 class="font-serif text-3xl md:text-4xl mb-4">Livecalls & Aufzeichnungen</h1>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed max-w-3xl">
-        Hier sammeln wir die Aufzeichnungen deiner freigeschalteten BeyondBonus-Livecalls. Wenn eine neue Aufzeichnung bereitsteht, findest du sie künftig direkt hier.
-      </p>
+      <header class="space-y-4 mb-9">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">BeyondBonus</p>
+        <div class="space-y-3">
+          <h1 class="font-serif text-3xl md:text-4xl leading-tight">Livecalls & Aufzeichnungen</h1>
+          <p class="text-base text-muted-foreground leading-relaxed max-w-3xl">
+            Hier findest du deine freigeschalteten BeyondBonus-Livecalls gesammelt an einem Ort. Öffne die Seite auf dem Handy am besten über dein Home-Bildschirm-Symbol — dann fühlt es sich fast wie eine App an.
+          </p>
+        </div>
+      </header>
 
       {recordings.length === 0 ? (
         <div class="border border-border p-7 md:p-8 bg-secondary/25 space-y-3 max-w-3xl">
@@ -42,13 +52,41 @@ const recordings: string[] = [];
           </p>
         </div>
       ) : (
-        <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {recordings.map((recording, index) => (
-            <div class="border border-border p-5 bg-background space-y-3">
-              <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Aufzeichnung {String(index + 1).padStart(2, '0')}</p>
-              <h2 class="font-serif text-xl">{recording}</h2>
-            </div>
-          ))}
+        <div class="space-y-6">
+          <div class="border-l-2 border-primary/35 bg-secondary/16 px-5 py-4 text-sm text-muted-foreground leading-relaxed">
+            Tipp fürs Handy: Starte ein Video, drehe dein Handy quer und nutze den Vollbild-Button im Player.
+          </div>
+
+          <div class="grid gap-5">
+            {recordings.map((recording, index) => (
+              <article class="border border-border bg-background shadow-[0_10px_24px_rgba(0,0,0,0.03)] overflow-hidden">
+                <div class="aspect-video bg-secondary/40">
+                  <video
+                    class="h-full w-full bg-black"
+                    controls
+                    playsinline
+                    preload="metadata"
+                    src={recording.mediaUrl}
+                    controlsList="nodownload"
+                  >
+                    Dein Browser kann dieses Video nicht direkt abspielen.
+                  </video>
+                </div>
+                <div class="p-5 md:p-6 space-y-3">
+                  <div class="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
+                    <div class="space-y-1">
+                      <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Aufzeichnung {String(index + 1).padStart(2, '0')} · {recording.dateLabel}</p>
+                      <h2 class="font-serif text-2xl leading-tight">{recording.title}</h2>
+                    </div>
+                    <span class="text-xs text-muted-foreground whitespace-nowrap">{recording.sizeLabel}</span>
+                  </div>
+                  <p class="text-sm text-muted-foreground leading-relaxed">
+                    Diese Aufzeichnung ist in deinem geschützten Mitgliederbereich eingebunden und nur mit aktivem Livecall-Zugang erreichbar.
+                  </p>
+                </div>
+              </article>
+            ))}
+          </div>
         </div>
       )}
     </div>

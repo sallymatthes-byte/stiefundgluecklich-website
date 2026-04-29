@@ -1,0 +1,108 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import MembersSidebar from '../../components/MembersSidebar.astro';
+import { getAccessSnapshot } from '../../lib/auth/grants';
+import { loadUserGrants } from '../../lib/auth/load-grants';
+import { loadMemberProfile } from '../../lib/auth/load-profile';
+import { getBeyondBonusCourseItems } from '../../lib/members/navigation';
+
+const profile = await loadMemberProfile(Astro);
+const grants = await loadUserGrants(Astro);
+const beyondBonus = getAccessSnapshot(grants, 'beyondbonus');
+const courseItems = getBeyondBonusCourseItems(beyondBonus);
+---
+
+<Layout
+  title="Mitgliederbereich als App nutzen"
+  canonical="https://stiefundgluecklich.de/members/app/"
+  description="Anleitung, um den StiefundGlücklich Mitgliederbereich wie eine App auf dem Handy zu nutzen."
+  noHeader={true}
+>
+  <section class="py-16 md:py-24">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1080px]">
+      <div class="grid gap-10 lg:grid-cols-[224px_minmax(0,1fr)] lg:items-start">
+        <MembersSidebar
+          title="Mitgliederbereich"
+          subtitle={profile.fullName || 'Dein Profil'}
+          currentPath={Astro.url.pathname}
+          primaryItems={[{ href: '/members', label: 'Dashboard' }]}
+          courseItems={courseItems}
+          bottomItems={[
+            { href: '/members/settings/account', label: 'Account' },
+            { href: '/members/settings/notifications', label: 'Benachrichtigungen' },
+            { href: '/members/app', label: 'Als App nutzen' },
+            { href: 'mailto:willkommen@sallymatthes.com?subject=Frage%20zum%20Mitgliederbereich', label: 'Support' },
+          ]}
+          avatarUrl={profile.avatarUrl}
+        />
+
+        <div class="max-w-[820px] space-y-10 min-w-0">
+          <header class="space-y-4">
+            <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Handy-Zugriff</p>
+            <div class="space-y-3">
+              <h1 class="font-serif text-3xl md:text-[2.8rem] leading-none">Mitgliederbereich wie eine App nutzen</h1>
+              <p class="text-base text-muted-foreground leading-relaxed max-w-2xl">
+                Du brauchst keine App aus dem App Store. Du kannst den Mitgliederbereich direkt auf deinen Home-Bildschirm legen und ihn danach wie eine App öffnen.
+              </p>
+            </div>
+          </header>
+
+          <section class="border-l-2 border-primary/35 bg-secondary/16 px-6 py-5 space-y-2">
+            <p class="text-sm font-medium">Kurz gesagt:</p>
+            <p class="text-sm text-muted-foreground leading-relaxed">
+              Öffne diese Seite auf deinem Handy, füge sie zum Home-Bildschirm hinzu und starte BeyondBonus künftig über das StiefundGlücklich-Symbol.
+            </p>
+          </section>
+
+          <div class="grid gap-5 md:grid-cols-2">
+            <section class="border border-border bg-background p-6 md:p-7 space-y-5 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+              <div class="space-y-2">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">iPhone / Safari</p>
+                <h2 class="font-serif text-2xl leading-tight">Zum Home-Bildschirm</h2>
+              </div>
+              <ol class="space-y-3 text-sm text-muted-foreground leading-relaxed list-decimal list-inside">
+                <li>Öffne den Mitgliederbereich in Safari.</li>
+                <li>Tippe unten auf das Teilen-Symbol.</li>
+                <li>Wähle „Zum Home-Bildschirm“.</li>
+                <li>Bestätige mit „Hinzufügen“.</li>
+              </ol>
+            </section>
+
+            <section class="border border-border bg-background p-6 md:p-7 space-y-5 shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
+              <div class="space-y-2">
+                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Android / Chrome</p>
+                <h2 class="font-serif text-2xl leading-tight">App installieren</h2>
+              </div>
+              <ol class="space-y-3 text-sm text-muted-foreground leading-relaxed list-decimal list-inside">
+                <li>Öffne den Mitgliederbereich in Chrome.</li>
+                <li>Tippe oben auf die drei Punkte.</li>
+                <li>Wähle „App installieren“ oder „Zum Startbildschirm hinzufügen“.</li>
+                <li>Bestätige die Installation.</li>
+              </ol>
+            </section>
+          </div>
+
+          <section class="border border-border bg-secondary/20 p-6 md:p-7 space-y-4">
+            <h2 class="font-serif text-2xl leading-tight">Gut zu wissen</h2>
+            <div class="grid gap-4 md:grid-cols-3 text-sm text-muted-foreground leading-relaxed">
+              <p>Videos, Audios und Livecalls bleiben geschützt und sind nur mit deinem Login erreichbar.</p>
+              <p>Wenn du ausgeloggt bist, wirst du beim Öffnen automatisch wieder zum Login geführt.</p>
+              <p>Auf dem Handy fühlt es sich fast wie eine App an — ohne App-Store-Download.</p>
+            </div>
+          </section>
+
+          <div class="flex flex-col sm:flex-row gap-3">
+            <a href="/members" class="inline-flex justify-center px-5 py-3 text-sm font-medium bg-primary text-primary-foreground hover:opacity-90 transition-opacity">
+              Zurück zum Dashboard
+            </a>
+            <a href="/livecalls/beyondbonus" class="inline-flex justify-center px-5 py-3 text-sm font-medium border border-border hover:bg-secondary/40 transition-colors">
+              Zu den Livecalls
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
