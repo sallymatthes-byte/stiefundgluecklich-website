@@ -171,7 +171,9 @@ const fullTitle = title === 'Startseite'
     <script is:inline>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/service-worker.js').catch(() => undefined);
+          navigator.serviceWorker.register('/service-worker.js?v=20260429-2')
+            .then((registration) => registration.update())
+            .catch(() => undefined);
         });
       }
     </script>
