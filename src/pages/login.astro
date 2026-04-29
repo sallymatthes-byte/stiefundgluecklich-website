@@ -6,6 +6,20 @@ const signedOut = Astro.url.searchParams.get('signed-out') === '1';
 const resetSent = Astro.url.searchParams.get('reset') === 'sent';
 const error = Astro.url.searchParams.get('error');
 const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.meta.env.PUBLIC_SUPABASE_PUBLISHABLE_KEY);
+
+const errorMessage = error === 'missing-email'
+  ? 'Bitte gib deine E-Mail-Adresse ein.'
+  : error === 'missing-password'
+    ? 'Bitte gib dein Passwort ein.'
+    : error === 'invalid-credentials'
+      ? 'Diese Kombination aus E-Mail und Passwort passt gerade nicht.'
+      : error === 'invalid-auth-link'
+        ? 'Dieser Link ist abgelaufen oder wurde schon verwendet. Fordere bitte unten über „Passwort vergessen?“ einen neuen Link an.'
+        : error === 'supabase-config'
+          ? 'Der Login ist gerade noch nicht vollständig verbunden. Bitte versuche es gleich nochmal.'
+          : error
+            ? 'Der Login-Link konnte nicht geöffnet werden. Fordere bitte unten einen neuen Passwort-Link an oder melde dich bei uns.'
+            : '';
 ---
 
 <Layout
@@ -37,15 +51,7 @@ const hasSupabaseConfig = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.
 
         {error && (
           <div class="mb-6 border border-red-200 p-4 bg-red-50 text-sm leading-relaxed">
-            {error === 'missing-email'
-              ? 'Bitte gib deine E-Mail-Adresse ein.'
-              : error === 'missing-password'
-                ? 'Bitte gib dein Passwort ein.'
-                : error === 'invalid-credentials'
-                  ? 'Diese Kombination aus E-Mail und Passwort passt gerade nicht.'
-                  : error === 'supabase-config'
-                    ? 'Der Login ist gerade noch nicht vollständig verbunden. Bitte versuche es gleich nochmal.'
-                    : `Login gerade nicht sauber möglich: ${error}`}
+            {errorMessage}
           </div>
         )}
 
