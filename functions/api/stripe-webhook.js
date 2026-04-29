@@ -12,7 +12,7 @@ const PRODUCT_ACCESS_CONFIG = {
   'beyondbonus': {
     productKey: 'beyondbonus',
     courseMonths: 12,
-    livecallMonths: 12,
+    livecallMonths: 6,
   },
   'its-bundle': {
     productKey: 'its-bundle',
