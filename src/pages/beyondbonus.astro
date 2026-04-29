@@ -4,7 +4,7 @@ import BeyondBonusTestimonials from '../components/BeyondBonusTestimonials.astro
 export const prerender = true;
 ---
 
-<Layout title="Beyond Bonus – Das Online-Intensivprogramm für Bonusmamas" canonical="https://stiefundgluecklich.de/beyondbonus/" description="17+ Stunden Video-Module, Workbooks und ein 10-Wochen-Fahrplan für Bonusmamas. In deinem Tempo. 497€.">
+<Layout title="Beyond Bonus – Das Online-Intensivprogramm für Bonusmamas" canonical="https://stiefundgluecklich.de/beyondbonus/" description="10 Module, 54 Lektionen, Workbook, Livecall-Archiv und ein 10-Wochen-Fahrplan für Bonusmamas. In deinem Tempo. 497€.">
 
   <!-- Hero -->
   <section class="relative flex flex-col md:min-h-[90vh] md:flex-row md:items-center overflow-hidden">
@@ -21,12 +21,12 @@ export const prerender = true;
         <p class="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Das Programm für Bonusmamas</p>
         <h1 class="text-3xl md:text-5xl lg:text-6xl mb-6 leading-tight">BEYOND BONUS</h1>
         <p class="text-base md:text-lg mb-4 leading-relaxed">Du funktionierst. Du schluckst. Du fragst dich abends, ob das hier jemals dein Zuhause wird.</p>
-        <p class="text-base md:text-lg font-serif text-muted-foreground mb-8">17+ Stunden. 9 Module. Ein System.<br /><span class="text-foreground font-medium">Damit du aufhörst zu grübeln – und anfängst, etwas zu verändern.</span></p>
+        <p class="text-base md:text-lg font-serif text-muted-foreground mb-8">10 Module. 54 Lektionen. Ein System.<br /><span class="text-foreground font-medium">Damit du aufhörst zu grübeln – und anfängst, etwas zu verändern.</span></p>
         <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity mb-8">Jetzt Zugang sichern – 497 €</a>
         <div class="flex flex-wrap gap-6 text-sm text-muted-foreground">
-          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 17+ Stunden Video-Module</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 54 Video- und Audio-Lektionen</div>
           <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 10-Wochen E-Mail-Begleitung</div>
-          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 12 Monate Zugang</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> 12 Monate Kurszugang</div>
         </div>
       </div>
     </div>
@@ -83,11 +83,11 @@ export const prerender = true;
     </div>
   </section>
 
-  <!-- 9 Module -->
+      <!-- 10 Module -->
   <section class="py-16 md:py-28">
     <div class="container mx-auto px-5 md:px-6">
       <div class="text-center mb-16">
-        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">9 Module. 17+ Stunden. Ein System.</h2>
+        <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">10 Module. 54 Lektionen. Ein System.</h2>
         <p class="text-base text-muted-foreground max-w-2xl mx-auto">Kein Sammelsurium aus Tipps, sondern ein strukturierter Fahrplan – in der richtigen Reihenfolge, mit der nötigen Tiefe.</p>
       </div>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-20">
@@ -118,11 +118,11 @@ export const prerender = true;
           <h3 class="font-serif text-xl md:text-2xl mb-8">Das bekommst du:</h3>
           <div class="space-y-6">
             {[
-              ["17+ Stunden Video-Module", "Unterwegs anhörbar wie intensive Podcastfolgen – aber mit System und Reihenfolge."],
-              ["Workbooks mit Übungen", "Hier passiert die eigentliche Umsetzung – aktives Arbeiten an deiner Situation."],
-              ["10-Wochen-E-Mail-Serie", "Jede Woche automatisch eine E-Mail mit der nächsten Lektion und einem klaren nächsten Schritt."],
-              ["Q&A-Call-Archiv (Bonus)", "Aufzeichnungen aus vergangenen Live-Calls mit echten Fragen und Situationen."],
-              ["12 Monate Zugang", "Alle Inhalte, alle Module – in deinem Tempo, so oft du willst."],
+          ["54 Video- und Audio-Lektionen", "Unterwegs anhörbar wie intensive Podcastfolgen – aber mit System und Reihenfolge."],
+          ["Workbooks mit Übungen", "Hier passiert die eigentliche Umsetzung – aktives Arbeiten an deiner Situation."],
+          ["10-Wochen-E-Mail-Serie", "Jede Woche automatisch eine E-Mail mit der nächsten Lektion und einem klaren nächsten Schritt."],
+          ["Q&A-Call-Archiv (Bonus)", "Aufzeichnungen aus vergangenen Live-Calls mit echten Fragen und Situationen – 6 Monate zugänglich."],
+          ["12 Monate Kurszugang", "Alle Module und Workbook-Inhalte – in deinem Tempo, so oft du willst."],
             ].map(([title, desc]) => (
               <div class="flex gap-4">
                 <div class="flex-shrink-0 w-1 bg-primary"></div>
@@ -193,7 +193,7 @@ export const prerender = true;
           <div class="mt-8 grid grid-cols-3 gap-4">
             <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">100+</p><p class="text-xs md:text-sm text-muted-foreground">Begleitete Bonusmamas</p></div>
             <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">6+</p><p class="text-xs md:text-sm text-muted-foreground">Jahre Erfahrung</p></div>
-            <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">17+</p><p class="text-xs md:text-sm text-muted-foreground">Stunden Kursmaterial</p></div>
+            <div class="text-center"><p class="font-serif text-2xl md:text-3xl font-semibold text-primary">54</p><p class="text-xs md:text-sm text-muted-foreground">Lektionen</p></div>
           </div>
         </div>
       </div>
@@ -211,11 +211,11 @@ export const prerender = true;
         <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-5">Alles, was du wissen musst</h2>
       </div>
       <div class="space-y-0 divide-y divide-border">
-        {[
-          ["Ist das ein Online-Programm ohne Live-Begleitung?", "Ja – und genau das ist der Punkt. Du bekommst eine automatisierte 10-Wochen-E-Mail-Serie, die dich Schritt für Schritt durch das Programm führt. Jede Woche: eine gezielte Lektion, ein Worksheet und ein klarer nächster Schritt."],
+            {[
+              ["Ist das ein Online-Programm ohne Live-Begleitung?", "Ja – und genau das ist der Punkt. Du bekommst eine automatisierte 10-Wochen-E-Mail-Serie, die dich Schritt für Schritt durch das Programm führt. Zusätzlich bekommst du Zugriff auf das Q&A-Call-Archiv mit echten Fragen aus der Praxis."],
           ["Was unterscheidet Beyond Bonus von Podcasts und Blogs?", "Die Reihenfolge, die Tiefe und die Worksheets zur Umsetzung. Kostenlose Inhalte geben dir Wissen. Beyond Bonus gibt dir ein System – damit du nicht nur verstehst, sondern wirklich etwas veränderst."],
           ["Kann ich die Module auch unterwegs anhören?", "Ja! Die Video-Module funktionieren wie intensive Podcastfolgen. Die Transformation passiert aber durch die Worksheets – also durch aktives Arbeiten an deiner eigenen Situation."],
-          ["Wie lange habe ich Zugang?", "12 Monate ab Kauf. Du kannst sofort starten und alle Inhalte so oft anschauen und durcharbeiten, wie du möchtest."],
+              ["Wie lange habe ich Zugang?", "Du hast 12 Monate Zugriff auf den Kursbereich mit allen Modulen und dem Workbook. Das Q&A-Call-Archiv ist als Bonus 6 Monate ab Kauf zugänglich."],
           ["Ist das ein Ersatz für 1:1 Coaching?", "Nein – Beyond Bonus ist der Einstieg. Es gibt dir Orientierung, Einordnung und Werkzeuge. Wer danach tiefere, persönliche Begleitung möchte, kann sich auf die 1:1-Warteliste setzen."],
           ["Gibt es eine Ratenzahlung?", "Nein, Beyond Bonus ist als einmalige Zahlung von 497 € verfügbar. Kein Abo, keine versteckten Kosten."],
         ].map(([q, a]) => (
@@ -248,7 +248,7 @@ export const prerender = true;
             <p class="text-sm text-muted-foreground mt-2">Einmalig – kein Abo</p>
           </div>
           <ul class="space-y-3 mb-8">
-            {["17+ Stunden Video-Module in 9 Themenbereichen", "Workbooks mit Übungen zu jedem Modul", "10-Wochen-E-Mail-Serie (automatisiert)", "Q&A-Call-Archiv als Bonus", "12 Monate Zugang zu allen Inhalten", "Sofortiger Start nach Kauf"].map(f => (
+            {["54 Video- und Audio-Lektionen in 10 Themenbereichen", "Workbook mit Übungen zu jedem Modul", "10-Wochen-E-Mail-Serie (automatisiert)", "Q&A-Call-Archiv als Bonus für 6 Monate", "12 Monate Zugang zum Kursbereich", "Sofortiger Start nach Kauf"].map(f => (
               <li class="flex gap-3"><svg class="w-5 h-5 text-primary flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg><span class="text-sm">{f}</span></li>
             ))}
           </ul>
@@ -272,7 +272,7 @@ export const prerender = true;
     <div class="container mx-auto px-5 md:px-6 max-w-3xl text-center">
       <h2 class="font-serif text-xl md:text-3xl lg:text-4xl mb-6">Du weißt, dass sich etwas ändern muss.</h2>
       <p class="text-base text-muted-foreground mb-4 leading-relaxed">Kein weiterer Podcast. Kein weiterer Tipp. Sondern ein System, das dich Schritt für Schritt durchführt.</p>
-      <p class="text-base text-muted-foreground mb-8 leading-relaxed">17+ Stunden. 9 Module. Workbooks. E-Mail-Begleitung.<br />In deinem Tempo. Ab sofort.</p>
+      <p class="text-base text-muted-foreground mb-8 leading-relaxed">10 Module. 54 Lektionen. Workbook. E-Mail-Begleitung.<br />In deinem Tempo. Ab sofort.</p>
       <a href="#pricing" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base md:text-lg font-medium hover:opacity-90 transition-opacity">Jetzt loslegen – 497 €</a>
     </div>
   </section>
