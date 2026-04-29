@@ -1,7 +1,9 @@
 const DEFAULT_ADMIN_EMAILS = ['sallymatthes@googlemail.com'];
 
-export function getAdminEmails() {
-  const configured = import.meta.env.ADMIN_EMAILS || '';
+type RuntimeEnv = Record<string, string | undefined> | undefined;
+
+export function getAdminEmails(runtimeEnv?: RuntimeEnv) {
+  const configured = runtimeEnv?.ADMIN_EMAILS || import.meta.env.ADMIN_EMAILS || '';
   const emails = configured
     .split(',')
     .map((email) => email.trim().toLowerCase())
@@ -10,7 +12,7 @@ export function getAdminEmails() {
   return emails.length > 0 ? emails : DEFAULT_ADMIN_EMAILS;
 }
 
-export function isAdminEmail(email?: string | null) {
+export function isAdminEmail(email?: string | null, runtimeEnv?: RuntimeEnv) {
   if (!email) return false;
-  return getAdminEmails().includes(email.toLowerCase());
+  return getAdminEmails(runtimeEnv).includes(email.toLowerCase());
 }

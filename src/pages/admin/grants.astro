@@ -5,11 +5,12 @@ import Layout from '../../layouts/Layout.astro';
 import { isAdminEmail } from '../../lib/admin/access';
 import { createSupabaseAdminClient } from '../../lib/supabase/admin';
 
-if (!isAdminEmail(Astro.locals.user?.email)) {
+const runtimeEnv = (Astro.locals as any).runtime?.env;
+
+if (!isAdminEmail(Astro.locals.user?.email, runtimeEnv)) {
   return Astro.redirect('/members?error=no-access');
 }
 
-const runtimeEnv = (Astro.locals as any).runtime?.env;
 const admin = createSupabaseAdminClient(runtimeEnv);
 const saved = Astro.url.searchParams.get('saved') === '1';
 const created = Astro.url.searchParams.get('created') === '1';

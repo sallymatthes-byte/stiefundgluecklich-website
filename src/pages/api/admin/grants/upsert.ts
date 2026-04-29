@@ -110,11 +110,12 @@ async function upsertGrant(
 }
 
 export const POST: APIRoute = async (context) => {
-  if (!isAdminEmail(context.locals.user?.email)) {
+  const runtimeEnv = (context.locals as any).runtime?.env;
+
+  if (!isAdminEmail(context.locals.user?.email, runtimeEnv)) {
     return context.redirect('/members?error=no-access');
   }
 
-  const runtimeEnv = (context.locals as any).runtime?.env;
   const admin = createSupabaseAdminClient(runtimeEnv);
   if (!admin) {
     return context.redirect('/admin/grants?error=supabase-admin-config');
