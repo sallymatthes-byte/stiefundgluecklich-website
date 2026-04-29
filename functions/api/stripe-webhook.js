@@ -8,6 +8,11 @@ const PRODUCT_TAG_MAP = {
   'its-bundle': '79',     // its-gekauft
 };
 
+const PRODUCT_LIST_MAP = {
+  'beyondbonus': '24',    // BeyondBonus onboarding automation
+  'its-bundle': '25',     // It's time to shine
+};
+
 const PRODUCT_ACCESS_CONFIG = {
   'beyondbonus': {
     productKey: 'beyondbonus',
@@ -88,6 +93,7 @@ export async function onRequestPost(context) {
 async function tagActiveCampaignContact({ AC_URL, AC_KEY, email, tagId, product }) {
   try {
     const acHeaders = { 'Api-Token': AC_KEY, 'Content-Type': 'application/json' };
+    const productListId = PRODUCT_LIST_MAP[product];
 
     const contactRes = await fetch(`${AC_URL}/api/3/contact/sync`, {
       method: 'POST',
@@ -114,8 +120,16 @@ async function tagActiveCampaignContact({ AC_URL, AC_KEY, email, tagId, product 
       body: JSON.stringify({ contactList: { list: '29', contact: contactId, status: '1' } })
     });
 
+    if (productListId) {
+      await fetch(`${AC_URL}/api/3/contactLists`, {
+        method: 'POST',
+        headers: acHeaders,
+        body: JSON.stringify({ contactList: { list: productListId, contact: contactId, status: '1' } })
+      });
+    }
+
     console.log(`✅ Tagged ${email} with tag ${tagId} (product: ${product}), contact ID: ${contactId}`);
-    return { ok: true, tagged: true, contactId, tagId };
+    return { ok: true, tagged: true, contactId, tagId, listId: productListId || null };
   } catch (acErr) {
     console.error('AC error:', acErr);
     return { ok: false, error: 'AC tagging failed' };
