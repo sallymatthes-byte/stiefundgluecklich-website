@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro'
 export const prerender = true;
 ---
 
-<Layout title="ITS Bundle – It's Time to Shine" canonical="https://stiefundgluecklich.de/its-bundle/" description="3 kraftvolle Programme für Bonusmamas: I Belong, Talk like a Team & Setting Limits. Sofort verfügbar für nur 59€.">
+<Layout title="ITS Bundle – It's Time to Shine" canonical="https://stiefundgluecklich.de/its-bundle/" description="Das ITS Bundle ist aktuell nicht im Verkauf. Starte stattdessen kostenlos mit Break the Cycle, dem Bonusmama-Check von Sally Matthes.">
   
   <!-- Hero -->
   <section class="relative flex flex-col md:min-h-[90vh] md:flex-row md:items-center overflow-hidden">
@@ -13,15 +13,15 @@ export const prerender = true;
     </div>
     <div class="container mx-auto px-5 md:px-6 relative z-10 py-20">
       <div class="max-w-2xl">
-        <p class="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Für Bonusmamas, die bereit sind</p>
+        <p class="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Aktuell nicht im Verkauf</p>
         <h1 class="text-2xl md:text-4xl lg:text-5xl mb-6 leading-tight">It's Time to <span class="italic text-primary">Shine</span> ✨</h1>
         <p class="text-base md:text-lg mb-4 leading-relaxed">Du bist Bonusmama. Und manchmal fühlt es sich an, als würdest du gleichzeitig alles tragen – und doch nicht gesehen werden.</p>
-        <p class="text-base md:text-lg font-serif text-muted-foreground mb-8">3 Programme. Über 7 Audio- & Video-Trainings.<br /><span class="text-foreground font-medium">Für sofort spürbare Veränderungen in deinem Alltag.</span></p>
-        <a href="#checkout" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity mb-8">Jetzt sichern – Nur 59€</a>
+        <p class="text-base md:text-lg font-serif text-muted-foreground mb-8">3 Programme. Über 7 Audio- & Video-Trainings.<br /><span class="text-foreground font-medium">Dieses Bundle ist während meiner Babypause aktuell nicht buchbar.</span></p>
+        <a href="/bonusmama-check?source=website_internal" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity mb-8">Break the Cycle starten</a>
         <div class="flex flex-wrap gap-6 text-sm text-muted-foreground">
-          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Sofort verfügbar</div>
-          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Dauerhaft zugänglich</div>
-          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Statt 90€ einzeln</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Aktuell pausiert</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Kein Verkauf während Babypause</div>
+          <div class="flex items-center gap-2"><span class="w-2 h-2 bg-primary rounded-full"></span> Orientierung über den Bonusmama-Check</div>
         </div>
       </div>
     </div>
@@ -52,8 +52,8 @@ export const prerender = true;
         <div>
           <p class="text-primary font-medium mb-4">Das ITS Bundle</p>
           <h2 class="font-serif text-xl md:text-3xl mb-6 leading-tight">Ein kompaktes Starter-Paket aus drei meiner beliebtesten Programme</h2>
-          <p class="text-lg text-muted-foreground mb-8 leading-relaxed">Für sofort spürbare Veränderungen in deinem Alltag. Alltagsnah, kurz, wirksam.</p>
-          <a href="#checkout" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt sichern – Nur 59€</a>
+          <p class="text-lg text-muted-foreground mb-8 leading-relaxed">Alltagsnah, kurz, wirksam — aber aktuell nicht im Verkauf. Wenn du Orientierung brauchst, starte mit Break the Cycle.</p>
+          <a href="/bonusmama-check?source=website_internal" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Bonusmama-Check starten</a>
         </div>
       </div>
     </div>
@@ -197,50 +197,22 @@ export const prerender = true;
     </div>
   </section>
 
-  <!-- Pricing -->
+  <!-- Availability Notice -->
   <section class="py-20">
     <div class="container mx-auto px-5 md:px-6 max-w-2xl text-center">
-      <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-8">Deine Investition in dich</h2>
-      <div class="bg-background border border-border p-8 mb-8 text-left max-w-md mx-auto">
-        <div class="space-y-3 mb-6">
-          <div class="flex justify-between items-center text-muted-foreground"><span>I Belong (Audio-Training)</span><span class="line-through">19€</span></div>
-          <div class="flex justify-between items-center text-muted-foreground"><span>Talk like a Team (PDF-Toolkit)</span><span class="line-through">24€</span></div>
-          <div class="flex justify-between items-center text-muted-foreground"><span>Setting Limits (5 Impulse)</span><span class="line-through">47€</span></div>
-          <div class="border-t border-border pt-3 flex justify-between items-center"><span class="font-medium">Gesamtwert</span><span class="line-through font-medium">90€</span></div>
-        </div>
-        <div class="text-center">
-          <p class="text-sm text-muted-foreground mb-1">Im Bundle nur</p>
-          <p class="text-3xl md:text-4xl font-serif font-semibold text-primary mb-1">59€</p>
-          <p class="text-sm text-primary font-medium">Du sparst 31€ (über 34%)</p>
-        </div>
-      </div>
-      <p class="text-muted-foreground mb-2">Sofortiger Zugang. Dauerhaft verfügbar.</p>
-      <p class="text-sm text-muted-foreground mb-8">Weniger als ein Familienessen außer Haus – aber es verändert, wie du <strong>jeden Tag</strong> in deiner Patchworkfamilie erlebst.</p>
-      <a href="#checkout" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt sichern – Nur 59€ →</a>
+      <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-6">Das ITS Bundle ist aktuell nicht buchbar.</h2>
+      <p class="text-lg text-muted-foreground mb-4 leading-relaxed">Während meiner Babypause ist der Verkauf pausiert. Es gibt hier deshalb keinen Kaufbutton und keinen Checkout.</p>
+      <p class="text-sm text-muted-foreground mb-8">Wenn du gerade Orientierung brauchst, starte kostenlos mit Break the Cycle und finde heraus, welches Muster dich in deiner Patchworkbeziehung blockiert.</p>
+      <a href="/bonusmama-check?source=website_internal" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Break the Cycle starten →</a>
     </div>
   </section>
 
-  <!-- Checkout -->
-  <section id="checkout" class="py-20 bg-secondary">
+  <!-- Paused Notice -->
+  <section id="hinweis" class="py-20 bg-secondary">
     <div class="container mx-auto px-5 md:px-6 max-w-2xl text-center">
-      <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-8">Jetzt das ITS Bundle sichern</h2>
-      <div id="checkout-error" class="hidden bg-red-50 text-red-700 p-4 mb-6 text-sm max-w-md mx-auto"></div>
-      <form id="its-checkout-form" class="max-w-md mx-auto space-y-4 text-left">
-        <div>
-          <label for="checkout-name" class="block text-sm font-medium mb-1">Dein Name</label>
-          <input id="checkout-name" type="text" required class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors" placeholder="Vorname Nachname" />
-        </div>
-        <div>
-          <label for="checkout-email" class="block text-sm font-medium mb-1">Deine E-Mail</label>
-          <input id="checkout-email" type="email" required class="w-full px-4 py-3 border border-border bg-white focus:outline-none focus:border-primary transition-colors" placeholder="deine@email.de" />
-        </div>
-        <label class="flex items-start gap-3 cursor-pointer">
-          <input type="checkbox" id="widerrufs-consent" required class="mt-1 w-4 h-4 accent-primary flex-shrink-0" />
-          <span class="text-xs text-muted-foreground leading-relaxed">Ich stimme zu, dass mit der Bereitstellung der digitalen Inhalte sofort begonnen wird, und weiß, dass ich dadurch mein 14-tägiges Widerrufsrecht verliere.</span>
-        </label>
-        <button type="submit" id="its-submit-btn" disabled class="w-full bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity disabled:opacity-50">Jetzt kaufen – 59€ →</button>
-        <p class="text-xs text-muted-foreground text-center mt-2">Sichere Bezahlung über Stripe. Kreditkarte, Klarna oder SEPA-Lastschrift.</p>
-      </form>
+      <h2 class="font-serif text-lg md:text-2xl lg:text-3xl mb-6">Das ITS Bundle ist aktuell nicht buchbar.</h2>
+      <p class="text-lg text-muted-foreground mb-8 leading-relaxed">Ich bin gerade in der Babypause und habe den Verkauf des ITS Bundles pausiert. Wenn du gerade Orientierung brauchst, starte kostenlos mit Break the Cycle und finde heraus, welches Muster dich in deiner Patchworkbeziehung blockiert.</p>
+      <a href="/bonusmama-check?source=website_internal" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Zum Bonusmama-Check →</a>
     </div>
   </section>
 
@@ -279,54 +251,9 @@ export const prerender = true;
   <!-- Final CTA -->
   <section class="py-20 bg-secondary">
     <div class="container mx-auto px-5 md:px-6 max-w-3xl text-center">
-      <h2 class="font-serif text-xl md:text-3xl mb-6">It's time to shine! ✨</h2>
-      <p class="text-lg text-muted-foreground mb-8 leading-relaxed">Drei Programme. Sofort verfügbar. Für deinen Alltag als Bonusmama.</p>
-      <a href="#checkout" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Jetzt sichern – Nur 59€</a>
+      <h2 class="font-serif text-xl md:text-3xl mb-6">Du brauchst gerade Orientierung?</h2>
+      <p class="text-lg text-muted-foreground mb-8 leading-relaxed">Drei Programme. Aktuell pausiert. Für deinen Alltag als Bonusmama.</p>
+      <a href="/bonusmama-check?source=website_internal" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-lg font-medium hover:opacity-90 transition-opacity">Bonusmama-Check starten</a>
     </div>
   </section>
 </Layout>
-
-<script is:inline>
-  // Pre-fill from URL params (coming from quiz)
-  const urlParams = new URLSearchParams(window.location.search);
-  if (urlParams.get('name')) document.getElementById('checkout-name').value = urlParams.get('name');
-  if (urlParams.get('email')) document.getElementById('checkout-email').value = urlParams.get('email');
-
-  // Enable submit button when consent checkbox is checked
-  const consent = document.getElementById('widerrufs-consent');
-  const submitBtn = document.getElementById('its-submit-btn');
-  consent?.addEventListener('change', () => {
-    submitBtn.disabled = !consent.checked;
-  });
-
-  // Checkout form - redirect to Stripe (placeholder)
-  document.getElementById('its-checkout-form')?.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const btn = document.getElementById('its-submit-btn');
-    btn.textContent = 'Wird geladen...';
-    btn.disabled = true;
-
-    const name = document.getElementById('checkout-name').value;
-    const email = document.getElementById('checkout-email').value;
-
-    try {
-      const res = await fetch('/api/checkout-its', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, email })
-      });
-      const data = await res.json();
-      if (data?.url) {
-        window.location.href = data.url;
-      } else {
-        throw new Error('No checkout URL');
-      }
-    } catch (err) {
-      const errorEl = document.getElementById('checkout-error');
-      errorEl.textContent = 'Es gab ein Problem. Bitte versuche es erneut.';
-      errorEl.classList.remove('hidden');
-      btn.textContent = 'Jetzt kaufen – 59€ →';
-      btn.disabled = !consent.checked;
-    }
-  });
-</script>

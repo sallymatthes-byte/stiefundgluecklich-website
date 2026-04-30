@@ -173,7 +173,7 @@ export const prerender = true;
             Kein Wohlfühl-Fluff. Sondern das, was im echten Patchwork-Alltag funktioniert.
           </p>
           <a id="its-link" href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity">
-            ITS Bundle sichern – 59 €
+            Mehr Orientierung bekommen
           </a>
         </div>
 
@@ -208,7 +208,7 @@ export const prerender = true;
           </p>
           <div class="flex flex-col sm:flex-row gap-4">
             <a id="bb-link" href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
-              Jetzt buchen – 497 €
+              Auf die Warteliste
             </a>
             <a id="bb-info-link" href="/beyondbonus" class="inline-block border border-primary text-primary px-8 py-4 text-base font-medium hover:bg-primary/5 transition-colors text-center">
               Mehr erfahren
@@ -233,7 +233,7 @@ export const prerender = true;
           </p>
           <div class="flex flex-col sm:flex-row gap-4">
             <a id="wl-its-link" href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
-              ITS Bundle als Soforthilfe – 59 €
+              Bonusmama-Check starten
             </a>
           </div>
         </div>
@@ -356,11 +356,11 @@ export const prerender = true;
     const itsLink = document.getElementById('its-link');
     const bbLink = document.getElementById('bb-link');
     const wlItsLink = document.getElementById('wl-its-link');
-    if (itsLink) itsLink.href = '/its-bundle' + suffix + '#checkout';
-    if (bbLink) bbLink.href = '/beyondbonus' + suffix + '#pricing';
+    if (itsLink) itsLink.href = '/bonusmama-check?source=website_internal';
+    if (bbLink) bbLink.href = '/warteliste';
     const bbInfoLink = document.getElementById('bb-info-link');
-    if (bbInfoLink) bbInfoLink.href = '/beyondbonus' + suffix;
-    if (wlItsLink) wlItsLink.href = '/its-bundle' + suffix + '#checkout';
+    if (bbInfoLink) bbInfoLink.href = '/beyondbonus';
+    if (wlItsLink) wlItsLink.href = '/bonusmama-check?source=website_internal';
 
     // Show result regardless
     showStep('result-' + result);
