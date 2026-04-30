@@ -22,6 +22,8 @@ export const POST: APIRoute = async (context) => {
     const form = await context.request.formData();
     const action = clean(form.get('action'));
     const email = clean(form.get('email')).toLowerCase();
+    const confirmEmail = clean(form.get('confirm_email')).toLowerCase();
+    const userId = clean(form.get('user_id'));
     const grantId = clean(form.get('grant_id'));
     const status = clean(form.get('status'));
 
@@ -36,13 +38,29 @@ export const POST: APIRoute = async (context) => {
 
     if (action === 'update-grant-status') {
       if (!grantId) throw new Error('Grant fehlt.');
-      if (!['active', 'expired'].includes(status)) throw new Error('Unbekannter Status.');
+      if (!['active', 'paused', 'expired'].includes(status)) throw new Error('Unbekannter Status.');
       const { error } = await admin
         .from('access_grants')
         .update({ status, updated_at: new Date().toISOString() })
         .eq('id', grantId);
       if (error) throw new Error(error.message);
-      return context.redirect('/admin/grants?saved=1');
+      return context.redirect(`/admin/grants?saved=1&email=${encodeURIComponent(email)}`);
+    }
+
+    if (action === 'delete-user') {
+      if (!email || !email.includes('@')) throw new Error('Bitte eine gültige E-Mail eintragen.');
+      if (confirmEmail !== email) throw new Error('Zum Löschen muss die E-Mail exakt bestätigt werden.');
+      if (!userId) throw new Error('User fehlt.');
+      if (context.locals.user?.id === userId) throw new Error('Den eigenen Admin-Account kannst du hier nicht löschen.');
+
+      await admin.from('member_lesson_progress').delete().eq('user_id', userId);
+      await admin.from('access_grants').delete().eq('user_id', userId);
+      await admin.from('profiles').delete().eq('id', userId);
+
+      const { error } = await admin.auth.admin.deleteUser(userId);
+      if (error) throw new Error(error.message);
+
+      return context.redirect(`/admin/grants?deleted=1&email=${encodeURIComponent(email)}`);
     }
 
     throw new Error('Unbekannte Aktion.');

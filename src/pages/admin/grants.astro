@@ -16,6 +16,7 @@ const admin = createSupabaseAdminClient(runtimeEnv);
 const saved = Astro.url.searchParams.get('saved') === '1';
 const created = Astro.url.searchParams.get('created') === '1';
 const resetSent = Astro.url.searchParams.get('reset') === 'sent';
+const deleted = Astro.url.searchParams.get('deleted') === '1';
 const savedEmail = Astro.url.searchParams.get('email');
 const error = Astro.url.searchParams.get('error');
 const query = Astro.url.searchParams.get('q')?.trim() || '';
@@ -87,9 +88,9 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
     <div class="container mx-auto px-5 md:px-6 max-w-[1080px] space-y-10">
       <header class="space-y-3">
         <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Admin</p>
-        <h1 class="font-serif text-4xl md:text-5xl leading-none">Zugänge freischalten</h1>
+        <h1 class="font-serif text-4xl md:text-5xl leading-none">Zugänge verwalten</h1>
         <p class="text-muted-foreground max-w-2xl leading-relaxed">
-          Hier kannst du manuell Kundinnen anlegen, Kurszugänge freischalten und Laufzeiten verlängern.
+          Hier kannst du Kundinnen manuell anlegen, Kurszugänge freischalten, pausieren oder löschen.
         </p>
       </header>
 
@@ -108,6 +109,12 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
       {resetSent && (
         <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
           Passwort-Mail für <strong>{savedEmail}</strong> wurde gesendet.
+        </div>
+      )}
+
+      {deleted && (
+        <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
+          Zugang für <strong>{savedEmail}</strong> wurde gelöscht.
         </div>
       )}
 
@@ -172,6 +179,18 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
                     <a href="/login" class="border border-border px-3 py-2 hover:bg-secondary/40">Login-Link öffnen</a>
                   </div>
 
+                  <details class="border border-red-200 bg-red-50/50 p-3 text-xs">
+                    <summary class="cursor-pointer text-red-800">Zugang löschen</summary>
+                    <form method="POST" action="/api/admin/grants/action" class="mt-3 space-y-2">
+                      <input type="hidden" name="action" value="delete-user" />
+                      <input type="hidden" name="user_id" value={profile.id} />
+                      <input type="hidden" name="email" value={profile.email} />
+                      <p class="text-red-800">Löscht Profil, Grants, Fortschritt und Login dauerhaft.</p>
+                      <input name="confirm_email" placeholder="E-Mail zur Bestätigung exakt eingeben" class="w-full border border-red-200 bg-white px-3 py-2" />
+                      <button class="border border-red-300 bg-white px-3 py-2 text-red-800 hover:bg-red-100">Dauerhaft löschen</button>
+                    </form>
+                  </details>
+
                   {(grantsByUser[profile.id] || []).length > 0 ? (
                     <ul class="space-y-2 text-sm">
                       {(grantsByUser[profile.id] || []).map((grant) => (
@@ -180,9 +199,11 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
                           <form method="POST" action="/api/admin/grants/action" class="flex items-center gap-2">
                             <input type="hidden" name="action" value="update-grant-status" />
                             <input type="hidden" name="grant_id" value={grant.id} />
+                            <input type="hidden" name="email" value={profile.email} />
                             <select name="status" class="border border-border bg-white px-2 py-1 text-xs">
                               <option value="active" selected={grant.status === 'active'}>aktiv</option>
-                              <option value="expired" selected={grant.status === 'expired'}>deaktiviert</option>
+                              <option value="paused" selected={grant.status === 'paused'}>pausiert</option>
+                              <option value="expired" selected={grant.status === 'expired'}>abgelaufen</option>
                             </select>
                             <button class="border border-border px-2 py-1 text-xs hover:bg-secondary/40">Speichern</button>
                           </form>

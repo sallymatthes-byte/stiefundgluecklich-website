@@ -3,7 +3,7 @@ export const ACCESS_AREAS = ['course', 'livecalls'] as const;
 
 export type ProductKey = (typeof PRODUCT_KEYS)[number];
 export type AccessArea = (typeof ACCESS_AREAS)[number];
-export type GrantStatus = 'active' | 'expired';
+export type GrantStatus = 'active' | 'paused' | 'expired';
 
 export type AccessGrant = {
   productKey: ProductKey;
@@ -32,4 +32,3 @@ export function getAccessSnapshot(grants: AccessGrant[], productKey: ProductKey,
     livecalls: hasAccessToArea(grants, productKey, 'livecalls', now),
   };
 }
-
