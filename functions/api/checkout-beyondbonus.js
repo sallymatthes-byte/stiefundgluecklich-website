@@ -61,33 +61,6 @@ export async function onRequestPost(context) {
       return new Response(JSON.stringify({ error: session.error.message }), { status: 400, headers: corsHeaders });
     }
 
-    // Add contact to AC list "BeyondBonus" (ID 24)
-    try {
-      const AC_URL = env.AC_API_URL || 'https://sallymatthes.api-us1.com';
-      const AC_KEY = env.AC_API_KEY;
-      if (AC_KEY) {
-        const acHeaders = { 'Api-Token': AC_KEY, 'Content-Type': 'application/json' };
-        
-        const contactRes = await fetch(`${AC_URL}/api/3/contact/sync`, {
-          method: 'POST',
-          headers: acHeaders,
-          body: JSON.stringify({ contact: { email, firstName: name.split(' ')[0] } })
-        });
-        const contactData = await contactRes.json();
-        const contactId = contactData?.contact?.id;
-
-        if (contactId) {
-          await fetch(`${AC_URL}/api/3/contactLists`, {
-            method: 'POST',
-            headers: acHeaders,
-            body: JSON.stringify({ contactList: { list: '24', contact: contactId, status: '1' } })
-          });
-        }
-      }
-    } catch (acErr) {
-      console.error('AC error (non-blocking):', acErr);
-    }
-
     return new Response(JSON.stringify({ url: session.url }), { status: 200, headers: corsHeaders });
 
   } catch (err) {
