@@ -3,27 +3,28 @@ import Layout from '../layouts/Layout.astro'
 export const prerender = true;
 ---
 
-<Layout title="Willkommen bei Beyond Bonus!" canonical="https://stiefundgluecklich.de/beyondbonus-danke/" description="Dein Zugang zu Beyond Bonus ist freigeschaltet." noHeader={true}>
+<Layout title="Willkommen bei Beyond Bonus!" canonical="https://stiefundgluecklich.de/beyondbonus-danke/" description="Dein Zugang zu Beyond Bonus wird gerade vorbereitet." noHeader={true}>
   <section class="pt-28 md:pt-32 pb-20 md:pb-28 min-h-[70vh] flex items-center">
     <div class="container mx-auto px-5 md:px-6">
       <div class="max-w-2xl mx-auto text-center">
         <div class="text-6xl mb-8">🎉</div>
         <h1 class="text-3xl md:text-4xl lg:text-5xl mb-6">Willkommen bei Beyond Bonus!</h1>
         <p class="text-xl text-muted-foreground leading-relaxed mb-6">
-          Du hast den wichtigsten Schritt gemacht. Ab jetzt verändert sich etwas – Schritt für Schritt, in deinem Tempo.
+          Deine Zahlung war erfolgreich. Dein Zugang wird jetzt automatisch erstellt — du musst hier nichts weiter tun.
         </p>
         <div class="bg-secondary border border-border p-6 mb-8 text-left max-w-md mx-auto">
-          <h3 class="font-serif text-lg mb-3">Deine nächsten Schritte:</h3>
-          <ol class="space-y-2 text-muted-foreground">
-            <li class="flex gap-3"><span class="text-primary font-bold">1.</span> Check deinen Posteingang — deine Willkommensmail mit dem Link zum Mitgliederbereich ist unterwegs</li>
-            <li class="flex gap-3"><span class="text-primary font-bold">2.</span> Öffne den Login und logge dich mit deiner Kauf-E-Mail und deinem Passwort ein. Wenn du noch kein Passwort hast: nutze dort „Passwort vergessen?“ und lege eins fest</li>
-            <li class="flex gap-3"><span class="text-primary font-bold">3.</span> Deine E-Mail-Begleitung startet automatisch — jede Woche ein klarer nächster Schritt</li>
+          <h3 class="font-serif text-lg mb-3">So geht es jetzt weiter:</h3>
+          <ol class="space-y-3 text-muted-foreground">
+            <li class="flex gap-3"><span class="text-primary font-bold">1.</span> Du bekommst gleich eine E-Mail, mit der du dein Passwort für den Mitgliederbereich festlegen kannst.</li>
+            <li class="flex gap-3"><span class="text-primary font-bold">2.</span> Lege dein Passwort fest und logge dich danach über <a href="/login" class="text-primary hover:underline">stiefundgluecklich.de/login</a> ein.</li>
+            <li class="flex gap-3"><span class="text-primary font-bold">3.</span> Im Mitgliederbereich findest du Beyond Bonus, deine Kursmodule und — wenn freigeschaltet — den Livecall-Bereich.</li>
+            <li class="flex gap-3"><span class="text-primary font-bold">4.</span> Deine E-Mail-Begleitung startet automatisch und führt dich Schritt für Schritt durch das Programm.</li>
           </ol>
         </div>
-        <p class="text-muted-foreground mb-8">
-          Fragen? Schreib mir an <a href="mailto:willkommen@sallymatthes.com" class="text-primary hover:underline">willkommen@sallymatthes.com</a>
+        <p class="text-sm text-muted-foreground mb-8">
+          Falls die Passwort-Mail nicht innerhalb weniger Minuten ankommt, prüfe bitte auch den Spam-Ordner. Wenn etwas hakt, schreib mir an <a href="mailto:willkommen@sallymatthes.com" class="text-primary hover:underline">willkommen@sallymatthes.com</a>.
         </p>
-        <a href="/" class="inline-block text-primary hover:underline">← Zurück zur Startseite</a>
+        <a href="/login" class="inline-flex items-center justify-center bg-primary text-primary-foreground px-6 py-3 text-sm font-medium hover:opacity-90 transition-opacity">Zum Login</a>
       </div>
     </div>
   </section>
