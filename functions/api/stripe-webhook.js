@@ -68,6 +68,7 @@ export async function onRequestPost(context) {
     product,
     activeCampaign: null,
     grants: null,
+    passwordEmail: null,
   };
 
   const tagId = PRODUCT_TAG_MAP[product];
@@ -83,11 +84,42 @@ export async function onRequestPost(context) {
   const accessConfig = PRODUCT_ACCESS_CONFIG[product];
   if (accessConfig) {
     results.grants = await provisionSupabaseAccess({ env, email, fullName: customerName, accessConfig, sessionId: session.id });
+    if (results.grants?.ok) {
+      results.passwordEmail = await sendPasswordSetupEmail({ env, email, origin: new URL(request.url).origin });
+    }
   } else {
     results.grants = { ok: true, skipped: `no grant config for product: ${product}` };
   }
 
   return jsonResponse(results);
+}
+
+async function sendPasswordSetupEmail({ env, email, origin }) {
+  const supabaseUrl = env.PUBLIC_SUPABASE_URL;
+  const supabaseKey = env.SUPABASE_SECRET_KEY || env.SUPABASE_SERVICE_ROLE_KEY;
+
+  if (!supabaseUrl || !supabaseKey) {
+    return { ok: false, error: 'Supabase admin config missing' };
+  }
+
+  const redirectTo = `${origin}/auth/callback?next=/reset-password&type=recovery`;
+
+  try {
+    await supabaseFetch({
+      supabaseUrl,
+      supabaseKey,
+      path: '/auth/v1/recover',
+      method: 'POST',
+      body: { email, gotrue_meta_security: { captcha_token: null } },
+      extraHeaders: { 'X-Redirect-To': redirectTo },
+    });
+
+    console.log(`✅ Password setup email sent to ${email}`);
+    return { ok: true, sent: true, redirectTo };
+  } catch (err) {
+    console.error('Password setup email error:', err);
+    return { ok: false, error: err.message || 'Password setup email failed' };
+  }
 }
 
 async function tagActiveCampaignContact({ AC_URL, AC_KEY, email, tagId, product }) {
@@ -281,11 +313,12 @@ async function upsertGrant({ supabaseUrl, supabaseKey, userId, productKey, area,
   return inserted?.[0]?.id || null;
 }
 
-async function supabaseFetch({ supabaseUrl, supabaseKey, path, method = 'GET', body, prefer }) {
+async function supabaseFetch({ supabaseUrl, supabaseKey, path, method = 'GET', body, prefer, extraHeaders }) {
   const headers = {
     apikey: supabaseKey,
     Authorization: `Bearer ${supabaseKey}`,
     'Content-Type': 'application/json',
+    ...(extraHeaders || {}),
   };
   if (prefer) headers.Prefer = prefer;
 
