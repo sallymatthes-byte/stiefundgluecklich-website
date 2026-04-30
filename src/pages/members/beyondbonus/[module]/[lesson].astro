@@ -278,15 +278,38 @@ const mediaEndpoint = `/api/members/media/beyondbonus/${module.slug}/${lesson.sl
           });
         }
 
-        button?.addEventListener('click', () => {
+        const syncProgress = async () => {
+          const progress = readProgress();
+          refresh();
+          try {
+            const response = await fetch('/api/members/progress', { credentials: 'same-origin' });
+            const payload = await response.json();
+            if (!response.ok || !Array.isArray(payload.progress)) return;
+            payload.progress.forEach((entry) => {
+              if (entry.lesson_key) progress[entry.lesson_key] = Boolean(entry.completed);
+            });
+            writeProgress(progress);
+            refresh();
+          } catch {}
+        };
+
+        button?.addEventListener('click', async () => {
           if (!key) return;
           const progress = readProgress();
           progress[key] = !progress[key];
           writeProgress(progress);
           refresh();
+          try {
+            await fetch('/api/members/progress', {
+              method: 'POST',
+              credentials: 'same-origin',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ lessonKey: key, completed: Boolean(progress[key]) }),
+            });
+          } catch {}
         });
 
-        refresh();
+        syncProgress();
         renderMedia();
       </script>
     </div>

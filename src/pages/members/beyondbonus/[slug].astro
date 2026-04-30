@@ -120,24 +120,40 @@ const nextModule = moduleIndex < beyondBonusModules.length - 1 ? beyondBonusModu
           }
         };
 
-        const progress = readProgress();
-        const lessonCards = [...document.querySelectorAll('[data-lesson-card]')];
-        let done = 0;
-        lessonCards.forEach((card) => {
-          const key = card.getAttribute('data-lesson-key');
-          const isDone = key && progress[key];
-          const state = card.querySelector('[data-lesson-state]');
-          if (isDone) {
-            done += 1;
-            if (state) state.textContent = 'Erledigt';
-          }
-        });
-        const total = lessonCards.length;
-        const percent = total ? Math.round((done / total) * 100) : 0;
-        const bar = document.querySelector('[data-module-progress-bar]');
-        const label = document.querySelector('[data-module-progress-label]');
-        if (bar) bar.style.width = `${percent}%`;
-        if (label) label.textContent = `${done} von ${total} abgeschlossen`;
+        const renderProgress = (progress) => {
+          const lessonCards = [...document.querySelectorAll('[data-lesson-card]')];
+          let done = 0;
+          lessonCards.forEach((card) => {
+            const key = card.getAttribute('data-lesson-key');
+            const isDone = key && progress[key];
+            const state = card.querySelector('[data-lesson-state]');
+            if (state) state.textContent = isDone ? 'Erledigt' : 'Nicht gestartet';
+            if (isDone) done += 1;
+          });
+          const total = lessonCards.length;
+          const percent = total ? Math.round((done / total) * 100) : 0;
+          const bar = document.querySelector('[data-module-progress-bar]');
+          const label = document.querySelector('[data-module-progress-label]');
+          if (bar) bar.style.width = `${percent}%`;
+          if (label) label.textContent = `${done} von ${total} abgeschlossen`;
+        };
+
+        const syncProgress = async () => {
+          const progress = readProgress();
+          renderProgress(progress);
+          try {
+            const response = await fetch('/api/members/progress', { credentials: 'same-origin' });
+            const payload = await response.json();
+            if (!response.ok || !Array.isArray(payload.progress)) return;
+            payload.progress.forEach((entry) => {
+              if (entry.lesson_key) progress[entry.lesson_key] = Boolean(entry.completed);
+            });
+            localStorage.setItem('bb-progress-v1', JSON.stringify(progress));
+            renderProgress(progress);
+          } catch {}
+        };
+
+        syncProgress();
       </script>
     </div>
   </section>

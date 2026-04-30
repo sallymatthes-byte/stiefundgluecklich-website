@@ -4,6 +4,7 @@ export const prerender = false;
 import Layout from '../../layouts/Layout.astro';
 import { isAdminEmail } from '../../lib/admin/access';
 import { createSupabaseAdminClient } from '../../lib/supabase/admin';
+import { beyondBonusModules } from '../../lib/beyondbonus/content';
 
 const runtimeEnv = (Astro.locals as any).runtime?.env;
 
@@ -14,12 +15,17 @@ if (!isAdminEmail(Astro.locals.user?.email, runtimeEnv)) {
 const admin = createSupabaseAdminClient(runtimeEnv);
 const saved = Astro.url.searchParams.get('saved') === '1';
 const created = Astro.url.searchParams.get('created') === '1';
+const resetSent = Astro.url.searchParams.get('reset') === 'sent';
 const savedEmail = Astro.url.searchParams.get('email');
 const error = Astro.url.searchParams.get('error');
 const query = Astro.url.searchParams.get('q')?.trim() || '';
 
 let profiles: any[] = [];
 let grants: any[] = [];
+let usersById: Record<string, any> = {};
+let progressByUser: Record<string, number> = {};
+
+const totalBeyondBonusLessons = beyondBonusModules.reduce((sum, module) => sum + module.lessons.length, 0);
 
 if (admin) {
   let profileQuery = admin
@@ -42,7 +48,25 @@ if (admin) {
       .in('user_id', profiles.map((profile) => profile.id))
       .order('updated_at', { ascending: false });
     grants = grantData || [];
+
+    const { data: progressData } = await admin
+      .from('member_lesson_progress')
+      .select('user_id, lesson_key, completed')
+      .in('user_id', profiles.map((profile) => profile.id))
+      .eq('product_key', 'beyondbonus')
+      .eq('completed', true);
+
+    progressByUser = (progressData || []).reduce((acc: Record<string, number>, entry: any) => {
+      acc[entry.user_id] = (acc[entry.user_id] || 0) + 1;
+      return acc;
+    }, {});
   }
+
+  const { data: users } = await admin.auth.admin.listUsers({ page: 1, perPage: 1000 });
+  usersById = (users?.users || []).reduce((acc: Record<string, any>, user: any) => {
+    acc[user.id] = user;
+    return acc;
+  }, {});
 }
 
 const grantsByUser = grants.reduce((acc: Record<string, any[]>, grant: any) => {
@@ -81,6 +105,12 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
         </div>
       )}
 
+      {resetSent && (
+        <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
+          Passwort-Mail für <strong>{savedEmail}</strong> wurde gesendet.
+        </div>
+      )}
+
       {error && (
         <div class="border border-red-200 bg-red-50 p-5 text-sm leading-relaxed">
           Speichern nicht möglich: {error}
@@ -103,30 +133,68 @@ twelveMonths.setMonth(twelveMonths.getMonth() + 12);
           <div class="space-y-4">
             {profiles.length === 0 ? (
               <p class="text-sm text-muted-foreground">Noch keine Profile gefunden.</p>
-            ) : profiles.map((profile) => (
-              <article class="border border-border/80 p-4 space-y-3">
-                <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-2">
-                  <div>
-                    <h3 class="font-serif text-xl">{profile.full_name || 'Ohne Namen'}</h3>
-                    <p class="text-sm text-muted-foreground break-all">{profile.email}</p>
-                  </div>
-                  <a href={`/admin/grants?q=${encodeURIComponent(profile.email || '')}`} class="text-xs text-primary">Filtern</a>
-                </div>
+            ) : profiles.map((profile) => {
+              const user = usersById[profile.id];
+              const completedLessons = progressByUser[profile.id] || 0;
+              const progressPercent = totalBeyondBonusLessons ? Math.round((completedLessons / totalBeyondBonusLessons) * 100) : 0;
+              const lastLogin = user?.last_sign_in_at ? new Date(user.last_sign_in_at).toLocaleString('de-DE') : 'Noch nie';
+              const mailto = `mailto:${profile.email}?subject=${encodeURIComponent('Frage zu deinem BeyondBonus-Zugang')}`;
 
-                {(grantsByUser[profile.id] || []).length > 0 ? (
-                  <ul class="space-y-2 text-sm">
-                    {(grantsByUser[profile.id] || []).map((grant) => (
-                      <li class="flex flex-col md:flex-row md:items-center md:justify-between gap-1 border-t border-border/70 pt-2 first:border-t-0 first:pt-0">
-                        <span>{grant.product_key} · {grant.area} · {grant.status} · {grant.source}</span>
-                        <span class="text-muted-foreground">bis {grant.ends_at ? new Date(grant.ends_at).toLocaleDateString('de-DE') : 'ohne Ende'}</span>
-                      </li>
-                    ))}
-                  </ul>
-                ) : (
-                  <p class="text-sm text-muted-foreground">Keine aktiven Grants sichtbar.</p>
-                )}
-              </article>
-            ))}
+              return (
+                <article class="border border-border/80 p-4 space-y-4">
+                  <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-2">
+                    <div>
+                      <h3 class="font-serif text-xl">{profile.full_name || 'Ohne Namen'}</h3>
+                      <p class="text-sm text-muted-foreground break-all">{profile.email}</p>
+                    </div>
+                    <a href={`/admin/grants?q=${encodeURIComponent(profile.email || '')}`} class="text-xs text-primary">Filtern</a>
+                  </div>
+
+                  <div class="grid gap-3 md:grid-cols-3 text-sm">
+                    <div class="border border-border/70 bg-secondary/20 p-3">
+                      <p class="text-xs uppercase tracking-[0.14em] text-muted-foreground">Letzter Login</p>
+                      <p class="mt-1">{lastLogin}</p>
+                    </div>
+                    <div class="border border-border/70 bg-secondary/20 p-3 md:col-span-2">
+                      <p class="text-xs uppercase tracking-[0.14em] text-muted-foreground">Konsumierter Inhalt</p>
+                      <p class="mt-1">{progressPercent}% · {completedLessons} von {totalBeyondBonusLessons} Lektionen erledigt</p>
+                      <div class="mt-2 h-2 bg-background overflow-hidden"><div class="h-full bg-primary" style={`width:${progressPercent}%`}></div></div>
+                    </div>
+                  </div>
+
+                  <div class="flex flex-wrap gap-2 text-xs">
+                    <form method="POST" action="/api/admin/grants/action">
+                      <input type="hidden" name="action" value="reset-password" />
+                      <input type="hidden" name="email" value={profile.email} />
+                      <button class="border border-border px-3 py-2 hover:bg-secondary/40">Passwort-Mail senden</button>
+                    </form>
+                    <a href={mailto} class="border border-border px-3 py-2 hover:bg-secondary/40">E-Mail schreiben</a>
+                    <a href="/login" class="border border-border px-3 py-2 hover:bg-secondary/40">Login-Link öffnen</a>
+                  </div>
+
+                  {(grantsByUser[profile.id] || []).length > 0 ? (
+                    <ul class="space-y-2 text-sm">
+                      {(grantsByUser[profile.id] || []).map((grant) => (
+                        <li class="flex flex-col md:flex-row md:items-center md:justify-between gap-2 border-t border-border/70 pt-2 first:border-t-0 first:pt-0">
+                          <span>{grant.product_key} · {grant.area} · {grant.source} · bis {grant.ends_at ? new Date(grant.ends_at).toLocaleDateString('de-DE') : 'ohne Ende'}</span>
+                          <form method="POST" action="/api/admin/grants/action" class="flex items-center gap-2">
+                            <input type="hidden" name="action" value="update-grant-status" />
+                            <input type="hidden" name="grant_id" value={grant.id} />
+                            <select name="status" class="border border-border bg-white px-2 py-1 text-xs">
+                              <option value="active" selected={grant.status === 'active'}>aktiv</option>
+                              <option value="expired" selected={grant.status === 'expired'}>deaktiviert</option>
+                            </select>
+                            <button class="border border-border px-2 py-1 text-xs hover:bg-secondary/40">Speichern</button>
+                          </form>
+                        </li>
+                      ))}
+                    </ul>
+                  ) : (
+                    <p class="text-sm text-muted-foreground">Keine Grants sichtbar.</p>
+                  )}
+                </article>
+              );
+            })}
           </div>
         </section>
 

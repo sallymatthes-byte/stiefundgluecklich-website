@@ -104,16 +104,34 @@ if (!access.course) {
           }
         };
 
-        const progress = readProgress();
-        document.querySelectorAll('[data-module-card]').forEach((card) => {
-          const keys = (card.getAttribute('data-lesson-keys') || '').split('|').filter(Boolean);
-          const done = keys.filter((key) => progress[key]).length;
-          const percent = keys.length ? Math.round((done / keys.length) * 100) : 0;
-          const bar = card.querySelector('[data-progress-bar]');
-          const label = card.querySelector('[data-progress-label]');
-          if (bar) bar.style.width = `${percent}%`;
-          if (label) label.textContent = `${done} von ${keys.length} Lektionen abgeschlossen`;
-        });
+        const renderProgress = (progress) => {
+          document.querySelectorAll('[data-module-card]').forEach((card) => {
+            const keys = (card.getAttribute('data-lesson-keys') || '').split('|').filter(Boolean);
+            const done = keys.filter((key) => progress[key]).length;
+            const percent = keys.length ? Math.round((done / keys.length) * 100) : 0;
+            const bar = card.querySelector('[data-progress-bar]');
+            const label = card.querySelector('[data-progress-label]');
+            if (bar) bar.style.width = `${percent}%`;
+            if (label) label.textContent = `${done} von ${keys.length} Lektionen abgeschlossen`;
+          });
+        };
+
+        const syncProgress = async () => {
+          const progress = readProgress();
+          renderProgress(progress);
+          try {
+            const response = await fetch('/api/members/progress', { credentials: 'same-origin' });
+            const payload = await response.json();
+            if (!response.ok || !Array.isArray(payload.progress)) return;
+            payload.progress.forEach((entry) => {
+              if (entry.lesson_key) progress[entry.lesson_key] = Boolean(entry.completed);
+            });
+            localStorage.setItem('bb-progress-v1', JSON.stringify(progress));
+            renderProgress(progress);
+          } catch {}
+        };
+
+        syncProgress();
       </script>
     </div>
   </section>
