@@ -4,8 +4,9 @@ export const prerender = false;
 import Layout from '../../../layouts/Layout.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
-import { getBeyondBonusLivecall } from '../../../lib/beyondbonus/livecalls';
+import { getBeyondBonusLivecallFromStore } from '../../../lib/beyondbonus/admin-content';
 
+const runtimeEnv = (Astro.locals as any).runtime?.env;
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 
@@ -14,7 +15,7 @@ if (!access.livecalls) {
 }
 
 const { slug } = Astro.params;
-const recording = slug ? getBeyondBonusLivecall(slug) : null;
+const recording = slug ? await getBeyondBonusLivecallFromStore(runtimeEnv, slug) : null;
 
 if (!recording) {
   return Astro.redirect('/livecalls/beyondbonus');

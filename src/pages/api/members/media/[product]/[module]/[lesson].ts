@@ -1,7 +1,8 @@
 import type { APIRoute } from 'astro';
 import { getAccessSnapshot, type ProductKey } from '../../../../../../lib/auth/grants';
 import { loadUserGrants } from '../../../../../../lib/auth/load-grants';
-import { buildFallbackMediaPayload, buildR2MediaPayload, getProtectedLessonAsset } from '../../../../../../lib/beyondbonus/media';
+import { buildFallbackMediaPayload, buildR2MediaPayload, type ProtectedMediaAsset } from '../../../../../../lib/beyondbonus/media';
+import { getLessonFromModules, loadBeyondBonusModules } from '../../../../../../lib/beyondbonus/admin-content';
 
 export const prerender = false;
 
@@ -15,7 +16,7 @@ function json(body: Record<string, unknown>, status = 200) {
   });
 }
 
-type RuntimeEnv = {
+type RuntimeEnv = Record<string, any> & {
   MEMBERS_MEDIA?: {
     head: (key: string) => Promise<R2Object | null>;
     get: (key: string) => Promise<R2ObjectBody | null>;
@@ -46,10 +47,28 @@ export const GET: APIRoute = async (context) => {
     return json({ error: 'no-access' }, 403);
   }
 
-  const asset = getProtectedLessonAsset(product, moduleSlug, lessonSlug);
-  if (!asset) {
+  if (product !== 'beyondbonus') {
     return json({ error: 'asset-not-found' }, 404);
   }
+
+  const runtimeEnv = (context.locals as { runtime?: { env?: RuntimeEnv } }).runtime?.env;
+  const modules = await loadBeyondBonusModules(runtimeEnv);
+  const lesson = getLessonFromModules(modules, moduleSlug, lessonSlug);
+  if (!lesson) {
+    return json({ error: 'asset-not-found' }, 404);
+  }
+
+  const asset: ProtectedMediaAsset = {
+    productKey: product,
+    moduleSlug,
+    lessonSlug,
+    kind: lesson.mediaType || 'video',
+    title: lesson.title,
+    driveId: lesson.driveId,
+    mediaUrl: lesson.mediaUrl,
+    r2Key: `${product}/${moduleSlug}/${lessonSlug}/video.mp4`,
+    mimeType: lesson.mediaType === 'audio' ? 'audio/mpeg' : 'video/mp4',
+  };
 
   const stream = context.url.searchParams.get('stream') === '1';
   const bucket = await getBucket(context);

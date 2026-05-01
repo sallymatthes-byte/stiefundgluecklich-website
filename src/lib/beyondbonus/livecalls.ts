@@ -9,6 +9,7 @@ export type BeyondBonusLivecallRecording = {
   sizeLabel: string;
   durationLabel: string;
   mediaUrl: string;
+  status?: 'published' | 'draft' | 'hidden';
 };
 
 export const livecallCoverImage = '/images/beyondbonus/covers/lesson.png';

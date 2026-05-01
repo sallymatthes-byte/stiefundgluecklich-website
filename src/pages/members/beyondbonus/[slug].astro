@@ -6,20 +6,23 @@ import MembersSidebar from '../../../components/MembersSidebar.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
 import { loadMemberProfile } from '../../../lib/auth/load-profile';
-import { beyondBonusModules, getBeyondBonusModule, getBeyondBonusLessonCover, getLessonKey } from '../../../lib/beyondbonus/content';
+import { getBeyondBonusLessonCover, getLessonKey } from '../../../lib/beyondbonus/content';
 import { getBeyondBonusCourseItems } from '../../../lib/members/navigation';
+import { getModuleFromModules, loadBeyondBonusModules } from '../../../lib/beyondbonus/admin-content';
 
+const runtimeEnv = (Astro.locals as any).runtime?.env;
 const profile = await loadMemberProfile(Astro);
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 const courseItems = getBeyondBonusCourseItems(access);
+const beyondBonusModules = await loadBeyondBonusModules(runtimeEnv);
 
 if (!access.course) {
   return Astro.redirect('/members?error=no-access');
 }
 
 const slug = Astro.params.slug || '';
-const module = getBeyondBonusModule(slug);
+const module = getModuleFromModules(beyondBonusModules, slug);
 
 if (!module) {
   return Astro.redirect('/members/beyondbonus');

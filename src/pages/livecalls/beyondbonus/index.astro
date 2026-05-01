@@ -4,8 +4,10 @@ export const prerender = false;
 import Layout from '../../../layouts/Layout.astro';
 import { getAccessSnapshot } from '../../../lib/auth/grants';
 import { loadUserGrants } from '../../../lib/auth/load-grants';
-import { beyondBonusLivecallRecordings, livecallCoverImage } from '../../../lib/beyondbonus/livecalls';
+import { livecallCoverImage } from '../../../lib/beyondbonus/livecalls';
+import { loadBeyondBonusLivecalls } from '../../../lib/beyondbonus/admin-content';
 
+const runtimeEnv = (Astro.locals as any).runtime?.env;
 const grants = await loadUserGrants(Astro);
 const access = getAccessSnapshot(grants, 'beyondbonus');
 
@@ -13,7 +15,7 @@ if (!access.livecalls) {
   return Astro.redirect('/members?error=no-access');
 }
 
-const recordings = beyondBonusLivecallRecordings;
+const recordings = await loadBeyondBonusLivecalls(runtimeEnv);
 const totalMinutes = recordings.reduce((sum, recording) => sum + Number(recording.durationLabel.match(/\d+/)?.[0] || 0), 0);
 ---
 

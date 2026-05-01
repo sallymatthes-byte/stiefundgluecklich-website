@@ -1,0 +1,224 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import { isAdminEmail } from '../../lib/admin/access';
+import { createSupabaseAdminClient } from '../../lib/supabase/admin';
+import { loadBeyondBonusLivecalls, loadBeyondBonusModules } from '../../lib/beyondbonus/admin-content';
+
+const runtimeEnv = (Astro.locals as any).runtime?.env;
+
+if (!isAdminEmail(Astro.locals.user?.email, runtimeEnv)) {
+  return Astro.redirect('/members?error=no-access');
+}
+
+const admin = createSupabaseAdminClient(runtimeEnv);
+const saved = Astro.url.searchParams.get('saved');
+const deleted = Astro.url.searchParams.get('deleted');
+const error = Astro.url.searchParams.get('error');
+
+const livecalls = await loadBeyondBonusLivecalls(runtimeEnv, { includeDrafts: true });
+const modules = await loadBeyondBonusModules(runtimeEnv, { includeDrafts: true });
+const today = new Date().toISOString().slice(0, 10);
+---
+
+<Layout title="Admin · Inhalte" canonical="https://stiefundgluecklich.de/admin/content/" noHeader={true}>
+  <section class="py-14 md:py-20">
+    <div class="container mx-auto px-5 md:px-6 max-w-[1120px] space-y-10">
+      <header class="space-y-3">
+        <p class="text-sm uppercase tracking-[0.2em] text-muted-foreground">Admin</p>
+        <div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+          <div class="space-y-3">
+            <h1 class="font-serif text-4xl md:text-5xl leading-none">Inhalte verwalten</h1>
+            <p class="text-muted-foreground max-w-2xl leading-relaxed">
+              Hier kannst du Livecalls und BeyondBonus-Lektionen bearbeiten, ausblenden oder als Entwurf parken.
+            </p>
+          </div>
+          <a href="/admin/grants" class="inline-flex w-fit border border-border px-4 py-2 text-sm hover:bg-secondary/40">Zugänge verwalten</a>
+        </div>
+      </header>
+
+      {!admin && (
+        <div class="border border-red-200 bg-red-50 p-5 text-sm leading-relaxed">
+          Supabase Admin ist noch nicht konfiguriert. Inhalte werden nur aus dem Code gelesen und können hier nicht gespeichert werden.
+        </div>
+      )}
+
+      {saved && (
+        <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
+          Änderung gespeichert: {saved === 'livecall' ? 'Livecall' : 'Lektion'}.
+        </div>
+      )}
+
+      {deleted && (
+        <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
+          Livecall wurde gelöscht.
+        </div>
+      )}
+
+      {error && (
+        <div class="border border-red-200 bg-red-50 p-5 text-sm leading-relaxed">
+          Speichern nicht möglich: {error}
+        </div>
+      )}
+
+      <section class="grid gap-8 lg:grid-cols-[minmax(0,1fr)_360px] lg:items-start">
+        <div class="border border-border bg-background p-6 md:p-7 space-y-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+          <div>
+            <h2 class="font-serif text-3xl leading-tight">Livecalls</h2>
+            <p class="text-sm text-muted-foreground mt-1">Titel, Beschreibung, Datum, Dauer, Status und Medien-Link bearbeiten.</p>
+          </div>
+
+          <div class="space-y-4">
+            {livecalls.map((recording) => (
+              <details class="border border-border/80 bg-secondary/5" id={`livecall-${recording.slug}`}>
+                <summary class="cursor-pointer list-none p-4 hover:bg-secondary/20 transition-colors">
+                  <div class="flex flex-col gap-2 md:flex-row md:items-center md:justify-between">
+                    <div>
+                      <p class="text-xs uppercase tracking-[0.16em] text-muted-foreground">{recording.dateLabel} · {recording.durationLabel || 'ohne Dauer'}</p>
+                      <h3 class="font-serif text-2xl leading-tight">{recording.title}</h3>
+                    </div>
+                    <span class="text-xs text-muted-foreground">Bearbeiten →</span>
+                  </div>
+                </summary>
+                <form method="POST" action="/api/admin/content/action" class="border-t border-border/70 p-4 space-y-4 bg-white">
+                  <input type="hidden" name="action" value="save-livecall" />
+                  <div class="grid gap-4 md:grid-cols-3">
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Slug</span>
+                      <input name="slug" required value={recording.slug} class="w-full border border-border px-3 py-2 text-sm" />
+                    </label>
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Datum</span>
+                      <input name="date" type="date" required value={recording.date} class="w-full border border-border px-3 py-2 text-sm" />
+                    </label>
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Status</span>
+                      <select name="status" class="w-full border border-border px-3 py-2 text-sm">
+                        <option value="published" selected={(recording.status || 'published') === 'published'}>veröffentlicht</option>
+                        <option value="draft" selected={recording.status === 'draft'}>Entwurf</option>
+                        <option value="hidden" selected={recording.status === 'hidden'}>ausgeblendet</option>
+                      </select>
+                    </label>
+                  </div>
+
+                  <label class="block">
+                    <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Datumslabel</span>
+                    <input name="date_label" value={recording.dateLabel} class="w-full border border-border px-3 py-2 text-sm" />
+                  </label>
+
+                  <label class="block">
+                    <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span>
+                    <input name="title" required value={recording.title} class="w-full border border-border px-3 py-2 text-sm" />
+                  </label>
+
+                  <label class="block">
+                    <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Beschreibung</span>
+                    <textarea name="description" required class="w-full min-h-24 border border-border px-3 py-2 text-sm">{recording.description}</textarea>
+                  </label>
+
+                  <label class="block">
+                    <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span>
+                    <input name="media_url" required value={recording.mediaUrl} class="w-full border border-border px-3 py-2 text-sm" />
+                    <span class="mt-1 block text-xs text-muted-foreground">Für neue Uploads nutze aktuell weiter den geschützten Medienlink. Der Direkt-Upload kommt als nächster technischer Schritt.</span>
+                  </label>
+
+                  <div class="grid gap-4 md:grid-cols-3">
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Dauer</span>
+                      <input name="duration_label" value={recording.durationLabel} class="w-full border border-border px-3 py-2 text-sm" />
+                    </label>
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Größe</span>
+                      <input name="size_label" value={recording.sizeLabel} class="w-full border border-border px-3 py-2 text-sm" />
+                    </label>
+                    <label class="block">
+                      <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span>
+                      <input name="drive_id" value={recording.driveId} class="w-full border border-border px-3 py-2 text-sm" />
+                    </label>
+                  </div>
+
+                  <input type="hidden" name="source_name" value={recording.sourceName} />
+                  <div class="flex flex-wrap gap-2">
+                    <button class="bg-primary text-primary-foreground px-4 py-2 text-sm hover:opacity-90">Livecall speichern</button>
+                  </div>
+                </form>
+              </details>
+            ))}
+          </div>
+        </div>
+
+        <form method="POST" action="/api/admin/content/action" class="border border-border bg-background p-6 md:p-7 space-y-4 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+          <input type="hidden" name="action" value="save-livecall" />
+          <div>
+            <h2 class="font-serif text-3xl leading-tight">Livecall hinzufügen</h2>
+            <p class="text-sm text-muted-foreground mt-1">Für Aufzeichnungen, die bereits als geschützter Medienlink vorliegen.</p>
+          </div>
+          <label class="block"><span class="block text-sm mb-2">Slug</span><input name="slug" placeholder="2026-05-14" class="w-full border border-border px-3 py-2" /></label>
+          <label class="block"><span class="block text-sm mb-2">Datum</span><input name="date" type="date" value={today} class="w-full border border-border px-3 py-2" /></label>
+          <label class="block"><span class="block text-sm mb-2">Titel</span><input name="title" class="w-full border border-border px-3 py-2" /></label>
+          <label class="block"><span class="block text-sm mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-24 border border-border px-3 py-2"></textarea></label>
+          <label class="block"><span class="block text-sm mb-2">Medien-URL</span><input name="media_url" class="w-full border border-border px-3 py-2" /></label>
+          <label class="block"><span class="block text-sm mb-2">Dauer</span><input name="duration_label" placeholder="50 Minuten" class="w-full border border-border px-3 py-2" /></label>
+          <select name="status" class="w-full border border-border px-3 py-2"><option value="published">veröffentlicht</option><option value="draft">Entwurf</option><option value="hidden">ausgeblendet</option></select>
+          <button class="w-full bg-primary text-primary-foreground px-4 py-3 text-sm hover:opacity-90">Livecall anlegen</button>
+        </form>
+      </section>
+
+      <section class="border border-border bg-background p-6 md:p-7 space-y-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
+        <div>
+          <h2 class="font-serif text-3xl leading-tight">Lektionen & Module</h2>
+          <p class="text-sm text-muted-foreground mt-1">Lektionen bearbeiten oder über den Status ausblenden. Modulstruktur bleibt in V1 noch fest.</p>
+        </div>
+
+        <div class="space-y-5">
+          {modules.map((module) => (
+            <details class="border border-border/80 bg-secondary/5">
+              <summary class="cursor-pointer list-none p-4 hover:bg-secondary/20 transition-colors">
+                <div class="flex items-center justify-between gap-4">
+                  <div>
+                    <p class="text-xs uppercase tracking-[0.16em] text-muted-foreground">Modul {module.number}</p>
+                    <h3 class="font-serif text-2xl leading-tight">{module.title}</h3>
+                  </div>
+                  <span class="text-xs text-muted-foreground">{module.lessons.length} Lektionen</span>
+                </div>
+              </summary>
+
+              <div class="border-t border-border/70 divide-y divide-border/70 bg-white">
+                {module.lessons.map((lesson) => (
+                  <form method="POST" action="/api/admin/content/action" class="p-4 space-y-3" id={`lesson-${module.slug}-${lesson.slug}`}>
+                    <input type="hidden" name="action" value="save-lesson" />
+                    <input type="hidden" name="module_slug" value={module.slug} />
+                    <input type="hidden" name="lesson_slug" value={lesson.slug} />
+                    <div class="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
+                      <div>
+                        <p class="text-xs uppercase tracking-[0.14em] text-muted-foreground">{module.slug} / {lesson.slug}</p>
+                        <h4 class="font-serif text-xl">{lesson.title}</h4>
+                      </div>
+                      <select name="status" class="border border-border px-3 py-2 text-sm">
+                        <option value="published" selected={(lesson.status || 'published') === 'published'}>veröffentlicht</option>
+                        <option value="draft" selected={lesson.status === 'draft'}>Entwurf</option>
+                        <option value="hidden" selected={lesson.status === 'hidden'}>ausgeblendet</option>
+                      </select>
+                    </div>
+                    <div class="grid gap-3 md:grid-cols-2">
+                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span><input name="title" value={lesson.title} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Dauer</span><input name="duration" value={lesson.duration || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    </div>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-20 border border-border px-3 py-2 text-sm">{lesson.description}</textarea></label>
+                    <div class="grid gap-3 md:grid-cols-[140px_minmax(0,1fr)]">
+                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Typ</span><select name="media_type" class="w-full border border-border px-3 py-2 text-sm"><option value="video" selected={(lesson.mediaType || 'video') === 'video'}>Video</option><option value="audio" selected={lesson.mediaType === 'audio'}>Audio</option></select></label>
+                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span><input name="media_url" value={lesson.mediaUrl || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    </div>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span><input name="drive_id" value={lesson.driveId || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Lektion speichern</button>
+                  </form>
+                ))}
+              </div>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </section>
+</Layout>
