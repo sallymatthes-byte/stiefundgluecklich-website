@@ -120,7 +120,12 @@ const today = new Date().toISOString().slice(0, 10);
                   <label class="block">
                     <span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span>
                     <input name="media_url" required value={recording.mediaUrl} class="w-full border border-border px-3 py-2 text-sm" />
-                    <span class="mt-1 block text-xs text-muted-foreground">Für neue Uploads nutze aktuell weiter den geschützten Medienlink. Der Direkt-Upload kommt als nächster technischer Schritt.</span>
+                    <div class="mt-2 flex flex-col gap-2 sm:flex-row sm:items-center" data-upload-widget data-upload-target="livecall">
+                      <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
+                      <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
+                      <span class="text-xs text-muted-foreground" data-upload-status></span>
+                    </div>
+                    <span class="mt-1 block text-xs text-muted-foreground">Lädt direkt auf den geschützten Medienserver und trägt die fertige Medien-URL automatisch ein.</span>
                   </label>
 
                   <div class="grid gap-4 md:grid-cols-3">
@@ -159,6 +164,11 @@ const today = new Date().toISOString().slice(0, 10);
           <label class="block"><span class="block text-sm mb-2">Titel</span><input name="title" class="w-full border border-border px-3 py-2" /></label>
           <label class="block"><span class="block text-sm mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-24 border border-border px-3 py-2"></textarea></label>
           <label class="block"><span class="block text-sm mb-2">Medien-URL</span><input name="media_url" class="w-full border border-border px-3 py-2" /></label>
+          <div class="flex flex-col gap-2" data-upload-widget data-upload-target="livecall">
+            <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
+            <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
+            <span class="text-xs text-muted-foreground" data-upload-status></span>
+          </div>
           <label class="block"><span class="block text-sm mb-2">Dauer</span><input name="duration_label" placeholder="50 Minuten" class="w-full border border-border px-3 py-2" /></label>
           <select name="status" class="w-full border border-border px-3 py-2"><option value="published">veröffentlicht</option><option value="draft">Entwurf</option><option value="hidden">ausgeblendet</option></select>
           <button class="w-full bg-primary text-primary-foreground px-4 py-3 text-sm hover:opacity-90">Livecall anlegen</button>
@@ -210,6 +220,11 @@ const today = new Date().toISOString().slice(0, 10);
                       <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Typ</span><select name="media_type" class="w-full border border-border px-3 py-2 text-sm"><option value="video" selected={(lesson.mediaType || 'video') === 'video'}>Video</option><option value="audio" selected={lesson.mediaType === 'audio'}>Audio</option></select></label>
                       <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span><input name="media_url" value={lesson.mediaUrl || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
                     </div>
+                    <div class="flex flex-col gap-2 sm:flex-row sm:items-center" data-upload-widget data-upload-target="lesson">
+                      <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
+                      <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
+                      <span class="text-xs text-muted-foreground" data-upload-status></span>
+                    </div>
                     <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span><input name="drive_id" value={lesson.driveId || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
                     <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Lektion speichern</button>
                   </form>
@@ -221,4 +236,81 @@ const today = new Date().toISOString().slice(0, 10);
       </section>
     </div>
   </section>
+
+  <script is:inline>
+    const formatBytes = (bytes) => {
+      if (!bytes) return '';
+      if (bytes >= 1024 * 1024 * 1024) return `${(bytes / (1024 * 1024 * 1024)).toFixed(1)} GB`;
+      if (bytes >= 1024 * 1024) return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+      return `${Math.max(1, Math.round(bytes / 1024))} KB`;
+    };
+
+    const setStatus = (widget, message) => {
+      const status = widget.querySelector('[data-upload-status]');
+      if (status) status.textContent = message;
+    };
+
+    document.querySelectorAll('[data-upload-widget]').forEach((widget) => {
+      const button = widget.querySelector('[data-upload-button]');
+      const input = widget.querySelector('[data-upload-file]');
+      const form = widget.closest('form');
+      if (!button || !input || !form) return;
+
+      button.addEventListener('click', async () => {
+        const file = input.files?.[0];
+        if (!file) {
+          setStatus(widget, 'Bitte zuerst eine Datei auswählen.');
+          return;
+        }
+
+        const mediaKind = file.type.startsWith('audio/') ? 'audio' : 'video';
+        const targetType = widget.getAttribute('data-upload-target') || 'lesson';
+        const payload = {
+          targetType,
+          mediaKind,
+          fileName: file.name,
+          slug: form.querySelector('[name="slug"]')?.value,
+          date: form.querySelector('[name="date"]')?.value,
+          moduleSlug: form.querySelector('[name="module_slug"]')?.value,
+          lessonSlug: form.querySelector('[name="lesson_slug"]')?.value,
+        };
+
+        button.disabled = true;
+        setStatus(widget, `Upload läuft ... ${formatBytes(file.size)}`);
+
+        try {
+          const tokenResponse = await fetch('/api/admin/content/upload-token', {
+            method: 'POST',
+            credentials: 'same-origin',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+          });
+          const tokenPayload = await tokenResponse.json();
+          if (!tokenResponse.ok || !tokenPayload.uploadUrl) throw new Error(tokenPayload.error || 'Upload-Token konnte nicht erstellt werden.');
+
+          const uploadResponse = await fetch(tokenPayload.uploadUrl, {
+            method: 'PUT',
+            headers: { 'Content-Type': file.type || 'application/octet-stream' },
+            body: file,
+          });
+          const uploadPayload = await uploadResponse.json();
+          if (!uploadResponse.ok || !uploadPayload.mediaUrl) throw new Error(uploadPayload.error || 'Upload fehlgeschlagen.');
+
+          const mediaUrlField = form.querySelector('[name="media_url"]');
+          const durationField = form.querySelector('[name="duration_label"], [name="duration"]');
+          const sizeField = form.querySelector('[name="size_label"]');
+          const typeField = form.querySelector('[name="media_type"]');
+          if (mediaUrlField) mediaUrlField.value = uploadPayload.mediaUrl;
+          if (durationField && uploadPayload.durationLabel) durationField.value = uploadPayload.durationLabel;
+          if (sizeField && uploadPayload.sizeLabel) sizeField.value = uploadPayload.sizeLabel;
+          if (typeField) typeField.value = mediaKind;
+          setStatus(widget, 'Upload fertig. Bitte jetzt speichern.');
+        } catch (error) {
+          setStatus(widget, error?.message || 'Upload fehlgeschlagen.');
+        } finally {
+          button.disabled = false;
+        }
+      });
+    });
+  </script>
 </Layout>
