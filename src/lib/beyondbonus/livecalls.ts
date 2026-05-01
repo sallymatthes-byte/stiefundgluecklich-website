@@ -146,6 +146,18 @@ export const beyondBonusLivecallRecordings: BeyondBonusLivecallRecording[] = [
     durationLabel: '32 Minuten',
     mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/livecalls/2026-04-16/media.mp4?md5=bQY2DfY_-ahfV3o1eAB3Hg&expires=1808974962',
   },
+  {
+    slug: '2026-04-30',
+    date: '2026-04-30',
+    dateLabel: '30. April 2026',
+    title: 'Livecall vom 30. April 2026',
+    description: 'Die Aufzeichnung des BeyondBonus-Livecalls vom 30. April 2026 zum Nachschauen in deinem Tempo.',
+    sourceName: 'Livecall 30.04..mp4',
+    driveId: '1yFjFHio7eFKxazyysqEfWHBOyI6I7eR_',
+    sizeLabel: '197.1 MB',
+    durationLabel: '50 Minuten',
+    mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/livecalls/2026-04-30/media.mp4?md5=scFod9az5Zfyepxe5lPrUw&expires=1809148727',
+  },
 ];
 
 export function getBeyondBonusLivecall(slug: string) {
