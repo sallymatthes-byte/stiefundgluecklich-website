@@ -158,13 +158,16 @@ export const prerender = true;
                 Ja, schick mir mein Ergebnis
               </button>
             </form>
-            <p class="text-xs text-muted-foreground mt-4 text-center">
-              Oder lies deine Kurz-Auswertung direkt hier weiter.
-            </p>
+            <button type="button" onclick="showShortResult()" class="mt-4 w-full text-sm text-primary underline underline-offset-4 hover:opacity-80 transition-opacity cursor-pointer">
+              Kurz-Auswertung ohne E-Mail lesen ↓
+            </button>
           </div>
 
           <!-- Pattern Result Body -->
-          <div id="pattern-body" class="prose-custom"></div>
+          <div id="short-result" class="hidden">
+            <h3 class="text-xl md:text-2xl mb-4">Hier ist dein Ergebnis in Kürze</h3>
+            <div id="pattern-body" class="prose-custom"></div>
+          </div>
         </div>
 
         <!-- ===================== WUNDERFRAGE (nach Email) ===================== -->
@@ -623,6 +626,12 @@ function renderPattern(id) {
   const p = PATTERNS[id];
   document.getElementById('pattern-title').textContent = p.title;
   document.getElementById('pattern-body').innerHTML = p.body;
+}
+
+function showShortResult() {
+  const shortResult = document.getElementById('short-result');
+  shortResult.classList.remove('hidden');
+  shortResult.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function getTrafficSource() {
