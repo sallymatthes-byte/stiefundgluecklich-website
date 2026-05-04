@@ -46,7 +46,7 @@ const today = new Date().toISOString().slice(0, 10);
 
       {saved && (
         <div class="border border-border bg-secondary/30 p-5 text-sm leading-relaxed">
-          Änderung gespeichert: {saved === 'livecall' ? 'Livecall' : 'Lektion'}.
+          Änderung gespeichert: {saved === 'livecall' ? 'Livecall' : saved === 'module' ? 'Modul' : 'Lektion'}.
         </div>
       )}
 
@@ -178,8 +178,36 @@ const today = new Date().toISOString().slice(0, 10);
       <section class="border border-border bg-background p-6 md:p-7 space-y-6 shadow-[0_10px_24px_rgba(0,0,0,0.02)]">
         <div>
           <h2 class="font-serif text-3xl leading-tight">Lektionen & Module</h2>
-          <p class="text-sm text-muted-foreground mt-1">Lektionen bearbeiten oder über den Status ausblenden. Modulstruktur bleibt in V1 noch fest.</p>
+          <p class="text-sm text-muted-foreground mt-1">Module und Lektionen anlegen, sortieren, bearbeiten oder über den Status ausblenden.</p>
         </div>
+
+        <details class="border border-border/80 bg-secondary/5">
+          <summary class="cursor-pointer list-none p-4 hover:bg-secondary/20 transition-colors">
+            <div class="flex items-center justify-between gap-4">
+              <div>
+                <p class="text-xs uppercase tracking-[0.16em] text-muted-foreground">Neu</p>
+                <h3 class="font-serif text-2xl leading-tight">Modul hinzufügen</h3>
+              </div>
+              <span class="text-xs text-muted-foreground">Öffnen →</span>
+            </div>
+          </summary>
+          <form method="POST" action="/api/admin/content/action" class="border-t border-border/70 p-4 space-y-4 bg-white">
+            <input type="hidden" name="action" value="save-module" />
+            <div class="grid gap-3 md:grid-cols-4">
+              <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Nummer</span><input name="number" placeholder="11" class="w-full border border-border px-3 py-2 text-sm" /></label>
+              <label class="block md:col-span-2"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span><input name="title" required class="w-full border border-border px-3 py-2 text-sm" /></label>
+              <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Slug</span><input name="slug" placeholder="neues-modul" class="w-full border border-border px-3 py-2 text-sm" /></label>
+            </div>
+            <div class="grid gap-3 md:grid-cols-[120px_160px_minmax(0,1fr)]">
+              <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Reihenfolge</span><input name="sort_order" type="number" value={(modules.length + 1) * 10} class="w-full border border-border px-3 py-2 text-sm" /></label>
+              <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Status</span><select name="status" class="w-full border border-border px-3 py-2 text-sm"><option value="published">veröffentlicht</option><option value="draft">Entwurf</option><option value="hidden">ausgeblendet</option></select></label>
+              <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Cover</span><input name="module_cover" value="/images/beyondbonus/covers/lesson.png" class="w-full border border-border px-3 py-2 text-sm" /></label>
+            </div>
+            <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Kurzbeschreibung</span><input name="short_description" class="w-full border border-border px-3 py-2 text-sm" /></label>
+            <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Intro</span><textarea name="intro" class="w-full min-h-20 border border-border px-3 py-2 text-sm"></textarea></label>
+            <button class="bg-primary text-primary-foreground px-4 py-2 text-sm hover:opacity-90">Modul anlegen</button>
+          </form>
+        </details>
 
         <div class="space-y-5">
           {modules.map((module) => (
@@ -187,48 +215,104 @@ const today = new Date().toISOString().slice(0, 10);
               <summary class="cursor-pointer list-none p-4 hover:bg-secondary/20 transition-colors">
                 <div class="flex items-center justify-between gap-4">
                   <div>
-                    <p class="text-xs uppercase tracking-[0.16em] text-muted-foreground">Modul {module.number}</p>
+                    <p class="text-xs uppercase tracking-[0.16em] text-muted-foreground">Modul {module.number} · Reihenfolge {module.sortOrder || 0} · {module.status || 'published'}</p>
                     <h3 class="font-serif text-2xl leading-tight">{module.title}</h3>
                   </div>
                   <span class="text-xs text-muted-foreground">{module.lessons.length} Lektionen</span>
                 </div>
               </summary>
 
-              <div class="border-t border-border/70 divide-y divide-border/70 bg-white">
-                {module.lessons.map((lesson) => (
-                  <form method="POST" action="/api/admin/content/action" class="p-4 space-y-3" id={`lesson-${module.slug}-${lesson.slug}`}>
-                    <input type="hidden" name="action" value="save-lesson" />
-                    <input type="hidden" name="module_slug" value={module.slug} />
-                    <input type="hidden" name="lesson_slug" value={lesson.slug} />
-                    <div class="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
-                      <div>
-                        <p class="text-xs uppercase tracking-[0.14em] text-muted-foreground">{module.slug} / {lesson.slug}</p>
-                        <h4 class="font-serif text-xl">{lesson.title}</h4>
+              <div class="border-t border-border/70 bg-white">
+                <form method="POST" action="/api/admin/content/action" class="p-4 space-y-4 border-b border-border/70 bg-secondary/5">
+                  <input type="hidden" name="action" value="save-module" />
+                  <input type="hidden" name="original_slug" value={module.slug} />
+                  <div class="grid gap-3 md:grid-cols-4">
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Nummer</span><input name="number" value={module.number} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block md:col-span-2"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Modultitel</span><input name="title" required value={module.title} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Slug</span><input name="slug" required value={module.slug} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                  </div>
+                  <div class="grid gap-3 md:grid-cols-[120px_160px_minmax(0,1fr)]">
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Reihenfolge</span><input name="sort_order" type="number" value={module.sortOrder || 0} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Status</span><select name="status" class="w-full border border-border px-3 py-2 text-sm"><option value="published" selected={(module.status || 'published') === 'published'}>veröffentlicht</option><option value="draft" selected={module.status === 'draft'}>Entwurf</option><option value="hidden" selected={module.status === 'hidden'}>ausgeblendet</option></select></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Cover</span><input name="module_cover" value={module.moduleCover} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                  </div>
+                  <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Kurzbeschreibung</span><input name="short_description" value={module.shortDescription} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                  <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Intro</span><textarea name="intro" class="w-full min-h-20 border border-border px-3 py-2 text-sm">{module.intro}</textarea></label>
+                  <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Modul speichern</button>
+                </form>
+
+                <div class="divide-y divide-border/70">
+                  {module.lessons.map((lesson) => (
+                    <form method="POST" action="/api/admin/content/action" class="p-4 space-y-3" id={`lesson-${module.slug}-${lesson.slug}`}>
+                      <input type="hidden" name="action" value="save-lesson" />
+                      <input type="hidden" name="module_slug" value={module.slug} />
+                      <div class="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
+                        <div>
+                          <p class="text-xs uppercase tracking-[0.14em] text-muted-foreground">{module.slug} / {lesson.slug}</p>
+                          <h4 class="font-serif text-xl">{lesson.title}</h4>
+                        </div>
+                        <select name="status" class="border border-border px-3 py-2 text-sm">
+                          <option value="published" selected={(lesson.status || 'published') === 'published'}>veröffentlicht</option>
+                          <option value="draft" selected={lesson.status === 'draft'}>Entwurf</option>
+                          <option value="hidden" selected={lesson.status === 'hidden'}>ausgeblendet</option>
+                        </select>
                       </div>
-                      <select name="status" class="border border-border px-3 py-2 text-sm">
-                        <option value="published" selected={(lesson.status || 'published') === 'published'}>veröffentlicht</option>
-                        <option value="draft" selected={lesson.status === 'draft'}>Entwurf</option>
-                        <option value="hidden" selected={lesson.status === 'hidden'}>ausgeblendet</option>
-                      </select>
-                    </div>
-                    <div class="grid gap-3 md:grid-cols-2">
-                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span><input name="title" value={lesson.title} class="w-full border border-border px-3 py-2 text-sm" /></label>
-                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Dauer</span><input name="duration" value={lesson.duration || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
-                    </div>
-                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-20 border border-border px-3 py-2 text-sm">{lesson.description}</textarea></label>
-                    <div class="grid gap-3 md:grid-cols-[140px_minmax(0,1fr)]">
-                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Typ</span><select name="media_type" class="w-full border border-border px-3 py-2 text-sm"><option value="video" selected={(lesson.mediaType || 'video') === 'video'}>Video</option><option value="audio" selected={lesson.mediaType === 'audio'}>Audio</option></select></label>
-                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span><input name="media_url" value={lesson.mediaUrl || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
-                    </div>
-                    <div class="flex flex-col gap-2 sm:flex-row sm:items-center" data-upload-widget data-upload-target="lesson">
-                      <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
-                      <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
-                      <span class="text-xs text-muted-foreground" data-upload-status></span>
-                    </div>
-                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span><input name="drive_id" value={lesson.driveId || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
-                    <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Lektion speichern</button>
-                  </form>
-                ))}
+                      <div class="grid gap-3 md:grid-cols-[minmax(0,1fr)_140px_120px]">
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span><input name="title" value={lesson.title} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Slug</span><input name="lesson_slug" value={lesson.slug} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Reihenfolge</span><input name="sort_order" type="number" value={lesson.sortOrder || 0} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                      </div>
+                      <div class="grid gap-3 md:grid-cols-2">
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Dauer</span><input name="duration" value={lesson.duration || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Workbook-Titel</span><input name="workbook_title" value={lesson.workbookReference?.title || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                      </div>
+                      <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-20 border border-border px-3 py-2 text-sm">{lesson.description}</textarea></label>
+                      <div class="grid gap-3 md:grid-cols-[140px_minmax(0,1fr)]">
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Typ</span><select name="media_type" class="w-full border border-border px-3 py-2 text-sm"><option value="video" selected={(lesson.mediaType || 'video') === 'video'}>Video</option><option value="audio" selected={lesson.mediaType === 'audio'}>Audio</option></select></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span><input name="media_url" value={lesson.mediaUrl || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                      </div>
+                      <div class="flex flex-col gap-2 sm:flex-row sm:items-center" data-upload-widget data-upload-target="lesson">
+                        <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
+                        <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
+                        <span class="text-xs text-muted-foreground" data-upload-status></span>
+                      </div>
+                      <div class="grid gap-3 md:grid-cols-3">
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span><input name="drive_id" value={lesson.driveId || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Workbook-Seiten</span><input name="workbook_pages" value={lesson.workbookReference?.pages || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                        <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Workbook-Text</span><input name="workbook_text" value={lesson.workbookReference?.text || ''} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                      </div>
+                      <button class="border border-border px-4 py-2 text-sm hover:bg-secondary/40">Lektion speichern</button>
+                    </form>
+                  ))}
+                </div>
+
+                <form method="POST" action="/api/admin/content/action" class="p-4 space-y-3 border-t border-border/70 bg-secondary/5">
+                  <input type="hidden" name="action" value="save-lesson" />
+                  <input type="hidden" name="module_slug" value={module.slug} />
+                  <h4 class="font-serif text-xl">Lektion in diesem Modul hinzufügen</h4>
+                  <div class="grid gap-3 md:grid-cols-[minmax(0,1fr)_180px_120px_150px]">
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Titel</span><input name="title" required class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Slug</span><input name="lesson_slug" placeholder="neue-lektion" class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Reihenfolge</span><input name="sort_order" type="number" value={(module.lessons.length + 1) * 10} class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Status</span><select name="status" class="w-full border border-border px-3 py-2 text-sm"><option value="published">veröffentlicht</option><option value="draft" selected>Entwurf</option><option value="hidden">ausgeblendet</option></select></label>
+                  </div>
+                  <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Beschreibung</span><textarea name="description" class="w-full min-h-20 border border-border px-3 py-2 text-sm"></textarea></label>
+                  <div class="grid gap-3 md:grid-cols-[140px_minmax(0,1fr)]">
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Typ</span><select name="media_type" class="w-full border border-border px-3 py-2 text-sm"><option value="video">Video</option><option value="audio">Audio</option></select></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Medien-URL</span><input name="media_url" class="w-full border border-border px-3 py-2 text-sm" /></label>
+                  </div>
+                  <div class="flex flex-col gap-2 sm:flex-row sm:items-center" data-upload-widget data-upload-target="lesson">
+                    <input type="file" accept="video/*,audio/*" class="text-xs" data-upload-file />
+                    <button type="button" class="w-fit border border-border px-3 py-2 text-xs hover:bg-secondary/40" data-upload-button>Datei hochladen</button>
+                    <span class="text-xs text-muted-foreground" data-upload-status></span>
+                  </div>
+                  <div class="grid gap-3 md:grid-cols-3">
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Dauer</span><input name="duration" class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Drive-ID</span><input name="drive_id" class="w-full border border-border px-3 py-2 text-sm" /></label>
+                    <label class="block"><span class="block text-xs uppercase tracking-[0.14em] text-muted-foreground mb-2">Workbook-Titel</span><input name="workbook_title" class="w-full border border-border px-3 py-2 text-sm" /></label>
+                  </div>
+                  <button class="bg-primary text-primary-foreground px-4 py-2 text-sm hover:opacity-90">Lektion anlegen</button>
+                </form>
               </div>
             </details>
           ))}
