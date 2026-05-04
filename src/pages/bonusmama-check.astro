@@ -122,22 +122,21 @@ export const prerender = true;
             <div id="area-scores" class="hidden"></div>
           </div>
 
-          <!-- Pattern Result -->
-          <div id="pattern-result" class="mb-8">
+          <!-- Pattern Result Intro -->
+          <div id="pattern-result" class="mb-6">
             <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6" id="pattern-title"></h2>
-            <div id="pattern-body" class="prose-custom"></div>
           </div>
 
           <!-- CTA: Email -->
-          <div class="bg-cream border border-border p-6 md:p-8">
+          <div class="bg-cream border border-border p-6 md:p-8 mb-8">
             <div class="mb-6">
-              <p class="text-sm font-medium tracking-wider text-primary uppercase mb-3">Und jetzt?</p>
-              <p class="text-foreground leading-relaxed mb-3">Du weißt jetzt, welches Muster dich festhält. Aber wenn du an dieser Stelle aufhörst, landest du im Alltag sehr schnell wieder genau in demselben Kreislauf.</p>
-              <p class="text-muted-foreground text-sm leading-relaxed">Trag dich ein und ich schicke dir dein Ergebnis plus 3 konkrete Mails, die dir helfen, dieses Muster nicht nur zu verstehen, sondern Schritt für Schritt zu durchbrechen.</p>
+              <p class="text-sm font-medium tracking-wider text-primary uppercase mb-3">Dein nächster Schritt</p>
+              <p class="text-foreground leading-relaxed mb-3">Du hast dein Muster erkannt. Der wichtige Teil beginnt aber erst jetzt: Was machst du morgen anders, wenn der gleiche Konflikt wieder auftaucht?</p>
+              <p class="text-muted-foreground text-sm leading-relaxed">Trag dich ein und ich schicke dir dein Ergebnis plus 3 konkrete nächste Schritte per Mail.</p>
             </div>
 
-            <h3 class="text-xl md:text-2xl mb-4">Willst du dein Break the Cycle Ergebnis und die nächsten 3 Schritte per Mail?</h3>
-            <p class="text-muted-foreground text-sm mb-6">Ich schicke dir deine persönliche Auswertung direkt ins Postfach. Und in den nächsten Tagen bekommst du 3 weitere Mails mit konkreten Impulsen, die genau zu deinem Muster passen, damit du nicht nur verstehst, was dich gerade festhält, sondern auch weißt, wie du beginnst, diesen Kreislauf zu durchbrechen.</p>
+            <h3 class="text-xl md:text-2xl mb-4">Willst du dein Ergebnis und deine nächsten 3 Schritte per Mail?</h3>
+            <p class="text-muted-foreground text-sm mb-6">Ich schicke dir deine persönliche Auswertung direkt ins Postfach. In den nächsten Tagen bekommst du 3 kurze Mails, passend zu deinem Muster, mit konkreten Impulsen für deinen Patchwork-Alltag.</p>
             
             <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
               <div>
@@ -153,13 +152,19 @@ export const prerender = true;
                   placeholder="deine@email.de" />
               </div>
               <p class="text-xs text-muted-foreground">
-                Du bekommst dein Ergebnis per Mail und anschließend weitere passende Impulse. Wenn du merkst, dass es nicht passt, kannst du dich jederzeit mit einem Klick wieder abmelden.
+                Du bekommst dein Ergebnis und die passende Mail-Serie. Wenn es nicht mehr passt, kannst du dich jederzeit mit einem Klick abmelden.
               </p>
               <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
                 Ja, schick mir mein Ergebnis
               </button>
             </form>
+            <p class="text-xs text-muted-foreground mt-4 text-center">
+              Oder lies deine Kurz-Auswertung direkt hier weiter.
+            </p>
           </div>
+
+          <!-- Pattern Result Body -->
+          <div id="pattern-body" class="prose-custom"></div>
         </div>
 
         <!-- ===================== WUNDERFRAGE (nach Email) ===================== -->
