@@ -159,6 +159,18 @@ export const beyondBonusLivecallRecordings: BeyondBonusLivecallRecording[] = [
     durationLabel: '50 Minuten',
     mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/livecalls/2026-04-30/media.mp4?md5=scFod9az5Zfyepxe5lPrUw&expires=1809148727',
   },
+  {
+    slug: '2026-05-14',
+    date: '2026-05-14',
+    dateLabel: '14. Mai 2026',
+    title: 'Fairness zwischen Kindern und Paarinseln im Alltag',
+    description: 'Unterschiedliche Behandlung von Bonuskind und gemeinsamem Kind behutsam ansprechen und im vollen Alltag wieder geschützte Verbindung als Paar schaffen.',
+    sourceName: 'Livecall 14.05..mp4',
+    driveId: '1N-P3F7hK-3jvgviKypAHgFjZXZDAHcmh',
+    sizeLabel: '145.3 MB',
+    durationLabel: '38 Minuten',
+    mediaUrl: 'https://sally.sfrance.co/protected-media/beyondbonus/livecalls/2026-05-14/media.mp4?md5=z-Es0C3UEQSLjXvZJLhxZw&expires=1810272913',
+  },
 ];
 
 export function getBeyondBonusLivecall(slug: string) {
