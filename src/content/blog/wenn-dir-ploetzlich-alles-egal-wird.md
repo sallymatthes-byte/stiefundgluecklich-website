@@ -8,6 +8,11 @@ metaTitle: "Wenn dir in Patchwork alles egal wird"
 metaDescription: "Wenn dir in deiner Patchworkfamilie alles egal wird, bist du nicht kalt. Was Rückzug wirklich bedeutet und welche Fragen jetzt helfen."
 heroImage: "/images/blog/wenn-dir-ploetzlich-alles-egal-wird-1.jpg"
 image: "/images/blog/wenn-dir-ploetzlich-alles-egal-wird-1.jpg"
+youtubeId: "D53fqiPZeG8"
+buzzsproutId: 19175372
+podcastTitle: "Wenn dir plötzlich alles egal wird"
+readingTime: "9 Min"
+podcastDescription: "Sally spricht über inneren Rückzug in Patchwork, warum Gleichgültigkeit ein Schutzsignal sein kann und welche Fragen dich zurück zu Klarheit führen."
 imageAlt: "Frau sitzt ruhig am Fenster und wirkt innerlich zurückgezogen"
 ---
 
@@ -27,7 +32,7 @@ Das kann erschrecken. Aber es ist nicht automatisch das Ende. Es ist ein Signal.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn dir plötzlich alles egal wird" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Wenn dir plötzlich alles egal wird“ an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm), [YouTube](https://youtu.be/D53fqiPZeG8) oder überall, wo du Podcasts hörst.
 
 ---
 

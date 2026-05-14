@@ -8,6 +8,11 @@ metaTitle: "Du wusstest doch: Satz gegen Bonusmamas"
 metaDescription: "Du wusstest doch, worauf du dich einlässt? Warum dieser Satz Bonusmamas mundtot macht — und wie du Grenzen klar benennst."
 heroImage: "/images/blog/du-wusstest-doch-worauf-du-dich-einlaesst-1.jpg"
 image: "/images/blog/du-wusstest-doch-worauf-du-dich-einlaesst-1.jpg"
+youtubeId: "rHYL5Gi_6a0"
+buzzsproutId: 19175371
+podcastTitle: "Du wusstest doch, worauf du dich einlässt"
+readingTime: "9 Min"
+podcastDescription: "Sally erklärt, warum der Satz „Du wusstest doch, worauf du dich einlässt“ Bonusmamas klein macht und wie du klar antwortest, ohne dich zu rechtfertigen."
 imageAlt: "Frau sitzt nachdenklich am Fenster und wirkt erschöpft vom Patchwork-Alltag"
 ---
 
@@ -25,7 +30,7 @@ Doch Patchwork funktioniert nicht so.
 
 ---
 
-🎙 **Passend dazu:** Hör dir die Podcastfolge „Du wusstest doch, worauf du dich einlässt" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
+🎙 **Passend dazu:** Hör dir die Podcastfolge „Du wusstest doch, worauf du dich einlässt“ an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm), [YouTube](https://youtu.be/rHYL5Gi_6a0) oder überall, wo du Podcasts hörst.
 
 ---
 
