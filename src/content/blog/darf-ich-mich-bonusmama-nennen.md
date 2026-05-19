@@ -3,13 +3,15 @@ title: "Darf ich mich Bonusmama nennen, wenn ich nicht die Mutter bin?"
 description: "Darfst du dich Bonusmama nennen, obwohl du nicht die Mutter bist? Warum der Begriff keine Konkurrenz ist, sondern eine Rolle sichtbar machen kann."
 category: "rolle-identitaet"
 date: 2026-10-02
-updated: 2026-05-14
+updated: 2026-05-19
 metaTitle: "Darf ich mich Bonusmama nennen?"
 metaDescription: "Darfst du dich Bonusmama nennen, obwohl du nicht die Mutter bist? Warum der Begriff deine Rolle sichtbar machen kann."
 heroImage: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 image: "/images/blog/stiefmutter-bonusmama-oder-wie-jetzt-1.jpg"
 imageAlt: "Frau sitzt mit Notizbuch am Tisch und denkt über ihre Rolle als Bonusmama nach"
 publishDate: 2026-10-02
+youtubeId: "j8KeMPqqmIo"
+buzzsproutId: 19195454
 podcastTitle: "Darf ich mich Bonusmama nennen, wenn ich nicht die Mutter bin?"
 podcastDescription: "Sally spricht darüber, warum das Wort Bonusmama kein Anspruch auf Mutterschaft ist, sondern eine reale Rolle sichtbar machen kann."
 readingTime: "9 Min"
