@@ -4,12 +4,14 @@ description: "Dein Teenager hört nicht mehr zu? Pubertätsexpertin Kira Liebman
 category: "kinder-bindung"
 date: 2026-05-02
 publishDate: 2026-05-02
-updated: 2026-03-29
+updated: 2026-05-20
 metaTitle: "Pubertät in der Patchworkfamilie: Was im Gehirn passiert"
 metaDescription: "Dein Teenager hört nicht mehr zu? Pubertätsexpertin Kira Liebmann erklärt, was im Gehirn passiert — und warum Bonusmamas eine besondere Rolle haben."
 heroImage: "/images/blog/pubertaet-teenager-patchworkfamilie-1.jpg"
 image: "/images/blog/pubertaet-teenager-patchworkfamilie-1.jpg"
 imageAlt: "Teenager sitzt mit verschränkten Armen auf dem Sofa, Bonusmama steht nachdenklich im Hintergrund"
+youtubeId: "8ZgdUP39Jjo"
+buzzsproutId: 18946112
 ---
 
 **Dein Teenager steht vor dir — und du hast das Gefühl, mit einer Wand zu reden.** Kein Zuhören. Kein Mitdenken. Keine Reaktion auf das, was du sagst. Und du fragst dich: Liegt es an mir? Habe ich was falsch gemacht? Oder ist das „halt die Pubertät“?

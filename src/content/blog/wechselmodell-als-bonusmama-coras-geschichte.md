@@ -3,13 +3,15 @@ title: "Zwei Haushalte, drei Kinder, ein Team — Wie Cora das Wechselmodell als
 description: "Cora lebt seit sieben Jahren im Wechselmodell als Bonusmama. Wie sie ihren Platz gefunden hat, warum sie erst jetzt zusammenzieht und was sie anderen Bonusmamas rät."
 category: "rolle-identitaet"
 date: 2026-05-15
-updated: 2026-03-29
+updated: 2026-05-20
 metaTitle: "Wechselmodell als Bonusmama: Coras Geschichte"
-metaDescription: "Wie das Wechselmodell den Alltag als Bonusmama verändert — Coras ehrliche Geschichte über 7 Jahre Patchwork, getrennte Haushalte und den Mut zum Zusammenziehen."
+metaDescription: "Wie das Wechselmodell den Alltag als Bonusmama verändert — Coras ehrliche Geschichte über 7 Jahre Patchwork und den Mut zum Zusammenziehen."
 heroImage: "/images/blog/wechselmodell-als-bonusmama-coras-geschichte-1.jpg"
 image: "/images/blog/wechselmodell-als-bonusmama-coras-geschichte-1.jpg"
 imageAlt: "Zwei verbundene Häuser in warmer Abendstimmung — Symbol für zwei Haushalte, die zusammenwachsen"
 publishDate: 2026-05-15
+youtubeId: "CXEayEcZqWs"
+buzzsproutId: 18946113
 ---
 
 **Das Wechselmodell klingt auf dem Papier nach einer fairen Lösung — aber als Bonusmama lebst du die Realität dahinter.** Jede Woche ein anderer Rhythmus. Mal Familientrubel, mal leere Wohnung. Mal Partnerin, mal unsichtbar. In meiner Arbeit als systemischer Coach höre ich immer wieder: „Ich weiß gar nicht mehr, wer ich in welcher Woche bin.“ Coras Geschichte zeigt, dass es einen Weg gibt — er braucht nur mehr Geduld, als die meisten denken.

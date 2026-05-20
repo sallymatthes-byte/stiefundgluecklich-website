@@ -3,8 +3,8 @@ title: "5 Kinder, eine schwierige Ex und kein Recht auf Elternschaft — Livias 
 description: "Livia ist Bonusmama von zwei Mädchen, Mama von zwei Jungs und hat ein Pflegekind aufgenommen. In diesem Interview erzählt sie, was es bedeutet, rechtlich unsichtbar zu sein — und trotzdem alles zu geben."
 category: "ex-und-system"
 date: 2026-04-17
-updated: 2026-03-10
-metaTitle: "5 Kinder, schwierige Ex & kein Recht: Livias Patchwork-Geschichte"
+updated: 2026-05-20
+metaTitle: "5 Kinder, schwierige Ex und kein Recht auf Elternschaft"
 metaDescription: "Bonusmama, Mama, Pflegemama — Livia betreut 5 Kinder und existiert rechtlich nicht. Ihre ehrliche Geschichte über Unsichtbarkeit, die Ex und echte Liebe."
 heroImage: "/images/blog/5-kinder-schwierige-ex-kein-recht-auf-elternschaft-1.jpg"
 image: "/images/blog/5-kinder-schwierige-ex-kein-recht-auf-elternschaft-1.jpg"
