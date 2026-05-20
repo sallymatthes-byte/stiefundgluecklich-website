@@ -26,10 +26,11 @@ const { Content } = await post.render();
 const mdContent = post.body ?? '';
 const faqSection = mdContent.split('## Häufige Fragen')[1] || '';
 const faqMatches = [...faqSection.matchAll(/### (.+)\n([\s\S]*?)(?=\n###|\n## |$)/g)];
-const faqs = faqMatches.map(m => ({
+const extractedFaqs = faqMatches.map(m => ({
   question: m[1].trim(),
   answer: m[2].trim().replace(/<!--[\s\S]*?-->/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').replace(/\*/g, '').trim()
 }));
+const faqs = post.data.faqs?.length ? post.data.faqs : extractedFaqs;
 
 // Format date to German
 const formatDate = (date: Date) => {

@@ -9,6 +9,17 @@ metaDescription: "Warum Bonusmütter oft unsichtbar bleiben, obwohl sie viel tra
 heroImage: "/images/blog/bonusmutter-unsichtbarste-rolle-familie-1.jpg"
 image: "/images/blog/bonusmutter-unsichtbarste-rolle-familie-1.jpg"
 imageAlt: "Frau sitzt nachdenklich am Fenster und denkt über ihre Rolle als Bonusmutter nach"
+faqs:
+  - question: "Was ist eine Bonusmutter?"
+    answer: "Eine Bonusmutter ist die Partnerin eines Elternteils, die im Leben der Kinder eine Rolle spielt, ohne deren leibliche Mutter zu sein. Der Begriff wird oft als moderne, wertschätzendere Alternative zu Stiefmutter verwendet. Entscheidend ist aber nicht der Begriff, sondern wie klar die Rolle in der Familie gelebt wird."
+  - question: "Warum fühlen sich so viele Bonusmütter unsichtbar?"
+    answer: "Viele Bonusmütter tragen Verantwortung im Alltag, haben aber keine klare gesellschaftliche, rechtliche oder familiäre Position. Sie sind betroffen von Entscheidungen, werden aber nicht immer einbezogen. Dieses Missverhältnis zwischen Mittragen und Nicht-gesehen-Werden macht die Rolle emotional belastend."
+  - question: "Muss ich als Bonusmama die Mutter ersetzen?"
+    answer: "Nein. Du musst und solltest die Mutter nicht ersetzen. Dein Platz darf ein eigener sein: als vertraute Erwachsene, Partnerin des Vaters, Bezugsperson oder Alltagsmensch. Eine gesunde Patchworkfamilie braucht keine Kopie der Mutter, sondern klare Rollen und respektvolle Beziehungen."
+  - question: "Wie kann ich als Bonusmama sichtbarer werden?"
+    answer: "Beginne damit, deine Belastung und deine Bedürfnisse konkret zu benennen. Sprich mit deinem Partner nicht nur über Gefühle, sondern über klare Absprachen: Zuständigkeiten, Mitspracherecht, Grenzen und Erwartungen. Sichtbarkeit entsteht nicht durch Drama, sondern durch Klarheit."
+  - question: "Was brauchen Bonusmütter am meisten?"
+    answer: "Bonusmütter brauchen Anerkennung, klare Kommunikation, emotionale Sicherheit und einen eigenen Platz in der Familie. Sie brauchen das Gefühl, dass ihre Perspektive zählt — nicht erst dann, wenn sie überfordert sind, sondern als selbstverständlicher Teil des Familiensystems."
 ---
 
 **Du sollst mütterlich sein, aber nicht die Mutter ersetzen. Du sollst dich einbringen, aber dich nicht einmischen. Du sollst flexibel sein, aber deine Grenzen bitte nicht zu laut kommunizieren.**
@@ -196,25 +207,3 @@ Dein Platz entsteht nicht dadurch, dass du dich perfekt anpasst. Er entsteht dad
 Bonusmütter sind oft unsichtbar, weil sie in einer Rolle leben, die gesellschaftlich kaum klar benannt ist. Sie übernehmen Verantwortung, ohne automatisch Anerkennung, Mitspracherecht oder klare Zuständigkeiten zu bekommen. Genau dieses Dazwischen macht die Rolle so anstrengend.
 
 Der Ausweg liegt nicht darin, noch mehr auszuhalten oder sich weiter anzupassen. Bonusmütter brauchen Anerkennung, klare Absprachen und einen eigenen Platz in der Familie. Nicht als Ersatzmutter. Sondern als die Frau, die wirklich dazugehört — auf ihre eigene Art.
-
-## Häufige Fragen
-
-### Was ist eine Bonusmutter?
-
-Eine Bonusmutter ist die Partnerin eines Elternteils, die im Leben der Kinder eine Rolle spielt, ohne deren leibliche Mutter zu sein. Der Begriff wird oft als moderne, wertschätzendere Alternative zu „Stiefmutter" verwendet. Entscheidend ist aber nicht der Begriff, sondern wie klar die Rolle in der Familie gelebt wird.
-
-### Warum fühlen sich so viele Bonusmütter unsichtbar?
-
-Viele Bonusmütter tragen Verantwortung im Alltag, haben aber keine klare gesellschaftliche, rechtliche oder familiäre Position. Sie sind betroffen von Entscheidungen, werden aber nicht immer einbezogen. Dieses Missverhältnis zwischen Mittragen und Nicht-gesehen-Werden macht die Rolle emotional belastend.
-
-### Muss ich als Bonusmama die Mutter ersetzen?
-
-Nein. Du musst und solltest die Mutter nicht ersetzen. Dein Platz darf ein eigener sein: als vertraute Erwachsene, Partnerin des Vaters, Bezugsperson oder Alltagsmensch. Eine gesunde Patchworkfamilie braucht keine Kopie der Mutter, sondern klare Rollen und respektvolle Beziehungen.
-
-### Wie kann ich als Bonusmama sichtbarer werden?
-
-Beginne damit, deine Belastung und deine Bedürfnisse konkret zu benennen. Sprich mit deinem Partner nicht nur über Gefühle, sondern über klare Absprachen: Zuständigkeiten, Mitspracherecht, Grenzen und Erwartungen. Sichtbarkeit entsteht nicht durch Drama, sondern durch Klarheit.
-
-### Was brauchen Bonusmütter am meisten?
-
-Bonusmütter brauchen Anerkennung, klare Kommunikation, emotionale Sicherheit und einen eigenen Platz in der Familie. Sie brauchen das Gefühl, dass ihre Perspektive zählt — nicht erst dann, wenn sie überfordert sind, sondern als selbstverständlicher Teil des Familiensystems.

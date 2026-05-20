@@ -26,6 +26,10 @@ const blog = defineCollection({
     publishDate: z.coerce.date().optional(),
     youtubeId: z.string().optional(),
     buzzsproutId: z.number().optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 
