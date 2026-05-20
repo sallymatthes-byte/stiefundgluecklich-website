@@ -5,6 +5,8 @@ category: "rolle-identitaet"
 date: 2026-10-09
 updated: 2026-05-20
 publishDate: 2026-10-09
+youtubeId: "7UhkWCy1eE0"
+buzzsproutId: 19207588
 metaTitle: "Du musst dein Bonuskind nicht lieben"
 metaDescription: "Du musst dein Bonuskind nicht lieben. Warum Respekt, Verlässlichkeit und Ehrlichkeit in Patchwork wichtiger sind als Pflichtgefühle."
 heroImage: "/images/blog/du-musst-dein-bonuskind-nicht-lieben-1.jpg"
