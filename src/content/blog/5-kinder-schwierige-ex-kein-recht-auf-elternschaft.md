@@ -10,7 +10,6 @@ heroImage: "/images/blog/5-kinder-schwierige-ex-kein-recht-auf-elternschaft-1.jp
 image: "/images/blog/5-kinder-schwierige-ex-kein-recht-auf-elternschaft-1.jpg"
 imageAlt: "Große Patchworkfamilie beim gemeinsamen Abendessen, fünf Kinder, warmes Küchenlicht"
 youtubeId: "CiquGWhg9o4"
-buzzsproutId: 18816097
 publishDate: 2026-04-17
 ---
 

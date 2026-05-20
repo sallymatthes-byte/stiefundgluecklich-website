@@ -10,7 +10,6 @@ heroImage: "/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-1.
 image: "/images/blog/auswandern-als-bonusmama-patchworkfamilie-im-ausland-1.jpg"
 imageAlt: "Frau blickt nachdenklich aus dem Fenster — Bonusmama im Ausland zwischen Sehnsucht und Neuanfang"
 youtubeId: "TrZaxFin8ks"
-buzzsproutId: 18813938
 publishDate: 2026-04-03
 ---
 

@@ -11,7 +11,6 @@ heroImage: "/images/blog/pubertaet-teenager-patchworkfamilie-1.jpg"
 image: "/images/blog/pubertaet-teenager-patchworkfamilie-1.jpg"
 imageAlt: "Teenager sitzt mit verschränkten Armen auf dem Sofa, Bonusmama steht nachdenklich im Hintergrund"
 youtubeId: "8ZgdUP39Jjo"
-buzzsproutId: 18946112
 ---
 
 **Dein Teenager steht vor dir — und du hast das Gefühl, mit einer Wand zu reden.** Kein Zuhören. Kein Mitdenken. Keine Reaktion auf das, was du sagst. Und du fragst dich: Liegt es an mir? Habe ich was falsch gemacht? Oder ist das „halt die Pubertät“?

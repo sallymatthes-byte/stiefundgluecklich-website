@@ -3,14 +3,13 @@ title: "Dein Partner setzt keine Grenzen? Warum das Problem bei dir liegt"
 description: "Dein Partner setzt der Ex und den Kindern keine Grenzen — und du wartest. Warum das Warten nichts bringt und was du als Bonusmama stattdessen tun kannst."
 category: "partnerschaft"
 date: 2026-03-13
-updated: 2026-03-10
+updated: 2026-05-20
 metaTitle: "Partner setzt keine Grenzen? Was Bonusmamas tun können"
 metaDescription: "Dein Partner setzt der Ex keine Grenzen? 3 Muster, die Bonusmamas gefangen halten — und der Weg raus, ohne ihn zu verändern."
 heroImage: "/images/blog/partner-setzt-keine-grenzen-1.jpg"
 image: "/images/blog/partner-setzt-keine-grenzen-1.jpg"
 imageAlt: "Frau sitzt allein auf dem Sofa und blickt frustriert zur Seite, während ihr Partner im Hintergrund telefoniert"
 youtubeId: "HhHlv7mzOEU"
-buzzsproutId: 18816056
 publishDate: 2026-03-13
 ---
 

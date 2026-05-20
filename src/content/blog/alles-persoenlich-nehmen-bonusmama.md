@@ -3,14 +3,13 @@ title: "Warum du als Bonusmama alles persönlich nimmst - und wie du damit aufh�
 description: "Dein Bonuskind stößt dich weg, die Ex stichelt, dein Partner schweigt. Warum das nichts mit dir zu tun hat - und wie du aus dem Muster rauskommst."
 category: "rolle-identitaet"
 date: 2026-04-10
-updated: 2026-03-10
+updated: 2026-05-20
 metaTitle: "Als Bonusmama alles persönlich nehmen: So hörst du auf"
 metaDescription: "Warum du als Bonusmama alles persönlich nimmst - und was wirklich dahintersteckt. Emotional Displacement erklärt + 3 Sätze, die helfen."
 heroImage: "/images/blog/alles-persoenlich-nehmen-bonusmama-1.jpg"
 image: "/images/blog/alles-persoenlich-nehmen-bonusmama-1.jpg"
 imageAlt: "Frau sitzt verletzt und nachdenklich am Küchentisch mit einer kalten Tasse Kaffee"
 youtubeId: "h7zX6dltbEg"
-buzzsproutId: 18816096
 publishDate: 2026-04-10
 ---
 

@@ -3,14 +3,13 @@ title: "Wut als Bonusmama: Warum sie nicht dein Problem ist — sondern deine Re
 description: "Du schluckst deine Wut als Stiefmutter immer wieder runter? Was im Nervensystem passiert und wie du Wut als Kompass nutzt statt sie zu unterdrücken."
 category: "rolle-identitaet"
 date: 2026-03-27
-updated: 2026-03-10
+updated: 2026-05-20
 metaTitle: "Wut als Bonusmama: Warum unterdrückte Wut krank macht"
 metaDescription: "Wut als Stiefmutter ständig unterdrücken? Was im Nervensystem passiert, warum deine Wut berechtigt ist und wie du sie klar kommunizierst."
 heroImage: "/images/blog/wut-als-bonusmama-1.jpg"
 image: "/images/blog/wut-als-bonusmama-1.jpg"
 imageAlt: "Frau ballt die Fäuste auf einem Holztisch, angespannter Kiefer, warmes Fensterlicht"
 youtubeId: "4KJXaGtRWuY"
-buzzsproutId: 18816065
 publishDate: 2026-03-27
 ---
 

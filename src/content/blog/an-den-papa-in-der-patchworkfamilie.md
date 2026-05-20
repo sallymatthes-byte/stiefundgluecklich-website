@@ -8,12 +8,11 @@ image: "/images/blog/an-den-papa-in-der-patchworkfamilie-1.jpg"
 imageAlt: "Mann sitzt nachdenklich auf dem Sofa und hört seiner Partnerin zu — Patchwork-Partnerschaft"
 metaTitle: "An den Papa in der Patchworkfamilie: Was sie nicht sagt"
 metaDescription: "Was deine Partnerin als Bonusmama wirklich fühlt — aber sich nicht traut zu sagen. Für Papas, die verstehen wollen, was in ihrer Patchworkfamilie passiert."
-updated: 2026-03-10
+updated: 2026-05-20
 podcastEpisode: ""
 podcastTitle: "An den Papa in der Patchworkfamilie: Was deine Partnerin sich nicht traut zu sagen"
 podcastDescription: "Diese Folge richtet sich direkt an die Papas in Patchworkfamilien. Sally spricht aus, was viele Bonusmamas fühlen — aber nicht sagen."
 youtubeId: "8ylXCcK2Qgc"
-buzzsproutId: 18816069
 publishDate: 2026-04-24
 ---
 
