@@ -12,6 +12,8 @@ imageAlt: "Frau steht an einem ruhigen Weg und denkt über Bleiben oder Gehen na
 publishDate: 2026-10-30
 podcastTitle: "Wann ist es Zeit zu gehen — und wann ist es nur eine schwere Phase?"
 podcastDescription: "Sally sortiert die schwere Frage, wann eine Patchworkkrise bearbeitbar ist und wann du dich in der Beziehung dauerhaft verlierst."
+youtubeId: "tMmdsEbBinw"
+buzzsproutId: 19234336
 readingTime: "10 Min"
 ---
 
