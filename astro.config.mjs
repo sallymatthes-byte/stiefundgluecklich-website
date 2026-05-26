@@ -16,10 +16,20 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      filter: (page) => ![
-        'https://stiefundgluecklich.de/gone/',
-        'https://stiefundgluecklich.de/tiktok-demo/'
-      ].includes(page)
+      filter: (page) => {
+        const excludedPaths = [
+          '/gone/',
+          '/tiktok-demo/',
+          '/login/',
+          '/admin/',
+          '/members/',
+          '/livecalls/',
+          '/auth/',
+          '/api/'
+        ];
+
+        return !excludedPaths.some((path) => page.startsWith(`https://stiefundgluecklich.de${path}`));
+      }
     })
   ]
 });
