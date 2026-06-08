@@ -131,12 +131,12 @@ export const prerender = true;
           <div class="bg-cream border border-border p-6 md:p-8 mb-8">
             <div class="mb-6">
               <p class="text-sm font-medium tracking-wider text-primary uppercase mb-3">Dein nächster Schritt</p>
-              <p class="text-foreground leading-relaxed mb-3">Du hast jetzt eine erste Spur. Dein Ergebnis zeigt, welches Muster bei dir gerade besonders stark wirkt — und was dir helfen kann, aus diesem Kreislauf auszusteigen.</p>
-              <p class="text-muted-foreground text-sm leading-relaxed">Trag dich ein und ich schicke dir dein Ergebnis plus 3 konkrete nächste Schritte per Mail.</p>
+              <p class="text-foreground leading-relaxed mb-3">Dein Muster ist sichtbar. Jetzt geht es nicht darum, alles sofort zu verändern, sondern den ersten Punkt zu erkennen, an dem du diesen Kreislauf unterbrechen kannst.</p>
+              <p class="text-muted-foreground text-sm leading-relaxed">Ich schicke dir deine persönliche Auswertung plus 3 konkrete Schritte direkt per Mail.</p>
             </div>
 
-            <h3 class="text-xl md:text-2xl mb-4">Willst du dein Ergebnis und deine nächsten 3 Schritte per Mail?</h3>
-            <p class="text-muted-foreground text-sm mb-6">Ich schicke dir deine persönliche Auswertung direkt ins Postfach. In den nächsten Tagen bekommst du 3 kurze Mails, passend zu deinem Muster, mit konkreten Impulsen für deinen Patchwork-Alltag.</p>
+            <h3 class="text-xl md:text-2xl mb-4">Hol dir deine persönliche Auswertung und die nächsten 3 Schritte</h3>
+            <p class="text-muted-foreground text-sm mb-6">Du bekommst dein Ergebnis passend zu deinem Muster. In den nächsten Tagen folgen 3 kurze Mails mit konkreten Impulsen für deinen Patchwork-Alltag.</p>
             
             <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
               <div>
@@ -152,14 +152,14 @@ export const prerender = true;
                   placeholder="deine@email.de" />
               </div>
               <p class="text-xs text-muted-foreground">
-                Du bekommst dein Ergebnis und die passende Mail-Serie. Wenn es nicht mehr passt, kannst du dich jederzeit mit einem Klick abmelden.
+                Du bekommst die passende Mail-Serie zu deinem Muster. Wenn es nicht mehr passt, kannst du dich jederzeit mit einem Klick abmelden.
               </p>
               <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
-                Ja, schick mir mein Ergebnis
+                Meine 3 nächsten Schritte bekommen
               </button>
             </form>
             <button type="button" onclick="showShortResult()" class="mt-4 w-full text-sm text-primary underline underline-offset-4 hover:opacity-80 transition-opacity cursor-pointer">
-              Kurz-Auswertung ohne E-Mail lesen ↓
+              Ich möchte erst kurz weiterlesen
             </button>
           </div>
 
