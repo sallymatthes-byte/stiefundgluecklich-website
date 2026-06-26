@@ -10,6 +10,7 @@ readingTime: "8 Min"
 metaTitle: "Die unsichtbare Bonusmama - du funktionierst, aber niemand sieht dich"
 metaDescription: "Du reichst die Butter, räumst ab, organisierst alles - aber keiner fragt, wie dein Tag war? 5 Schritte, um deinen Platz in der Patchworkfamilie einzunehmen."
 heroImage: "/images/blog/unsichtbare-bonusmama-1.jpg"
+youtubeId: "ZAxZSQd57mM"
 ---
 
 **Du sitzt am Esstisch. Die Kinder erzählen vom Tag, dein Partner fragt nach, es wird gelacht - und du reichst die Butter.** Räumst ab. Und irgendwann merkst du: Niemand hat gefragt, wie dein Tag war. Laut Statistischem Bundesamt (2024) leben rund 1,1 Millionen Patchworkfamilien in Deutschland - und in meiner Arbeit als systemischer Coach höre ich immer wieder: Die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/) ist die, die am meisten tut und am wenigsten gesehen wird.

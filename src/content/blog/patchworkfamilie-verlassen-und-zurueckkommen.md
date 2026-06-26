@@ -10,6 +10,7 @@ metaDescription: "Emma hat ihre Patchworkfamilie verlassen und ist nach Monaten 
 heroImage: "/images/blog/patchworkfamilie-verlassen-1.jpg"
 image: "/images/blog/patchworkfamilie-verlassen-1.jpg"
 imageAlt: "Nachdenkliche Frau mit Koffer, die über ihre Patchworkfamilie nachdenkt"
+youtubeId: "YfkLKCH8tNU"
 ---
 
 **„Ich hab die Koffer gepackt.“ — So viele Bonusmamas haben mir geschrieben, dass sie schon mal kurz davor waren zu gehen.** Emma hat es tatsächlich getan. Sie hat die [Patchworkfamilie](/blog/patchworkfamilie/) verlassen, ist ausgezogen — und nach Monaten zurückgekommen. Ihre Geschichte zeigt, dass manchmal erst der Bruch zeigt, was wirklich zählt.

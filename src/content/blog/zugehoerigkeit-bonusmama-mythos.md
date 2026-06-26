@@ -10,6 +10,7 @@ metaDescription: "Du fühlst dich als Bonusmama nicht zugehörig? Warum dieser G
 heroImage: "/images/blog/zugehoerigkeit-bonusmama-mythos-1.jpg"
 image: "/images/blog/zugehoerigkeit-bonusmama-mythos-1.jpg"
 imageAlt: "Bonusmama sitzt nachdenklich am Esstisch mit Familie im Hintergrund"
+youtubeId: "rpKrrIcWbgE"
 ---
 
 **„Ich werde mich hier nie wirklich zugehörig fühlen.“** Diesen Satz haben die meisten Bonusmamas schon gedacht. Als systemischer Coach und selbst Bonusmama weiß ich: Er stimmt nicht — und der Grund dafür geht tiefer, als du vermutlich erwartest. Zugehörigkeit ist kein Zustand, den andere dir geben. Es ist ein Gefühl, das du dir selbst erlaubst.
