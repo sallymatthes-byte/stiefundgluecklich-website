@@ -3,9 +3,9 @@ title: "Die 10 Rechte der Stiefmütter"
 description: "Stiefmütter haben Rechte - welche das sind und wie du sie einfordern kannst, erfährst du in diesem Artikel."
 category: "rolle-identitaet"
 date: 2025-01-24
-updated: 2026-03-10
-metaTitle: "Die 10 Rechte der Stiefmütter — und warum du sie einfordern darfst"
-metaDescription: "Grenzen setzen, mitentscheiden, respektiert werden: Diese 10 Rechte stehen dir als Stiefmutter zu. Nach Wednesday Martin — mit konkreten Tipps für deinen Alltag."
+updated: 2026-06-29
+metaTitle: "Stiefmutter Rechte & Pflichten: Was darfst du?"
+metaDescription: "Welche Rechte hast du als Stiefmutter im Alltag? 10 klare Erlaubnisse für Grenzen, Mitentscheidung und Respekt in der Patchworkfamilie."
 heroImage: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
 image: "/images/blog/die-10-rechte-der-stiefmuetter-1.jpg"
 imageAlt: "Selbstbewusste Frau in einer Patchworkfamilie — Rechte der Stiefmütter kennen und einfordern"

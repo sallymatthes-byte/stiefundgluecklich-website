@@ -3,9 +3,9 @@ title: "Stiefkind: Was du als Bonusmama über Bonuskinder wissen musst"
 description: "Was ist ein Stiefkind? Wie baust du als Bonusmama eine Beziehung auf? Alles über Stiefkinder in Patchworkfamilien — von der Definition bis zu konkreten Strategien."
 category: "kinder-bindung"
 date: 2026-03-08
-updated: 2026-04-20
-metaTitle: "Stiefkind oder Bonuskind? Bedeutung, Rolle und wie Beziehung wachsen kann"
-metaDescription: "Was ist ein Stiefkind oder Bonuskind? Bedeutung, Unterschiede und wie du als Bonusmama Bindung aufbaust, ohne Nähe zu erzwingen."
+updated: 2026-06-29
+metaTitle: "Stiefkind Definition: Was ist ein Bonuskind?"
+metaDescription: "Was ist ein Stiefkind oder Bonuskind? Definition, Bedeutung und wie du als Bonusmama Beziehung aufbaust, ohne Nähe zu erzwingen."
 heroImage: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 image: "/images/blog/bonuskinder-und-konflikte-1.jpg"
 imageAlt: "Bonuskind und Bonusmama im warmen Herbstlicht — Beziehungsaufbau in der Patchworkfamilie"

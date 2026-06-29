@@ -3,9 +3,9 @@ title: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als 
 description: "Die Ex stört eure Beziehung? Erfahre, wie du dich emotional abgrenzt und deine Partnerschaft als Bonusmama schützt."
 category: "ex-und-system"
 date: 2024-12-06
-updated: 2026-03-10
-metaTitle: "Ständig Konflikte wegen der Ex? So schützt du deine Beziehung"
-metaDescription: "Die Ex-Partnerin mischt sich ständig ein? Wie du dich als Bonusmama emotional abgrenzt, Grenzen setzt und eure Beziehung schützt."
+updated: 2026-06-29
+metaTitle: "Patchworkfamilie: Probleme mit Ex-Partner? Das hilft"
+metaDescription: "Ständiger Streit wegen der Ex? Wie du dich als Bonusmama abgrenzt, klare Grenzen setzt und eure Beziehung in der Patchworkfamilie schützt."
 heroImage: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 image: "/images/blog/konflikte-wegen-der-ex-ueberwinden-1.jpg"
 imageAlt: "Wenn die Ex nicht loslässt – So schützt du deine neue Beziehung als Bonusmama"
