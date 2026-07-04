@@ -82,7 +82,7 @@ Das ist keine Erziehung im Sinne von Macht. Das ist Beziehung mit Führung.
 
 Und genau diese Kombination braucht Patchwork: nicht Rückzug, nicht Übergriff, sondern ruhige Präsenz.
 
-Wenn du grundsätzlich unsicher bist, wie viel du überhaupt sagen darfst, lies auch [Darf ich als Bonusmama erziehen?](/blog/darf-ich-als-bonusmama-erziehen-inke-hummel/) — denn Grenzen und Beziehung müssen sich nicht widersprechen.
+Wenn du grundsätzlich unsicher bist, wie viel du überhaupt sagen darfst, lies auch [Darf ich als Bonusmama erziehen?](/blog/erziehung-in-der-patchworkfamilie/) — denn Grenzen und Beziehung müssen sich nicht widersprechen.
 
 ---
 

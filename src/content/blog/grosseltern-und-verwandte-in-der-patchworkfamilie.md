@@ -68,7 +68,7 @@ Was du tun kannst:
 
 - **Thematisiere es — sachlich, klar, einmal.** Nicht als Vorwurf, sondern als Information: „Mir ist aufgefallen, dass die Kinder unterschiedlich behandelt werden. Das ist für mich und die Kinder schwierig."
 - **Erwarte keine sofortige Veränderung.** Ältere Generationen haben oft ein anderes Familienbild. Für manche Großeltern sind Stiefenkel schlicht „nicht ihre Enkel". Das zu ändern braucht Zeit — oder ist manchmal nicht möglich.
-- **Schütze dein Kind.** Wenn die Ungleichbehandlung andauert und sichtbar wird, ist es deine Aufgabe, einen Rahmen zu schaffen, in dem dein Kind sich nicht minderwertig fühlt. Das kann bedeuten, Kontakt zu dosieren. Laut der [Insider-Outsider-Dynamik](/blog/insider-outsider-dynamik-in-patchworkfamilien/) sind Kinder besonders sensibel für Signale der Nichtzugehörigkeit.
+- **Schütze dein Kind.** Wenn die Ungleichbehandlung andauert und sichtbar wird, ist es deine Aufgabe, einen Rahmen zu schaffen, in dem dein Kind sich nicht minderwertig fühlt. Das kann bedeuten, Kontakt zu dosieren. Laut der [Insider-Outsider-Dynamik](/blog/insider-outsider-dynamik-patchworkfamilien/) sind Kinder besonders sensibel für Signale der Nichtzugehörigkeit.
 
 ---
 

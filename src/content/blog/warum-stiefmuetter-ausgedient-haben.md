@@ -42,7 +42,7 @@ Patchworkfamilien sind längst keine Randerscheinung mehr. **Rund 1,6 Millionen 
 
 Nach einer Trennung bleiben **74 % der Kinder bei der Mutter**. Das bedeutet: In drei von vier Fällen entsteht eine sogenannte Stiefvaterfamilie. Nur **26 % der Kinder leben beim Vater** — dort entsteht eine Stiefmutterfamilie.
 
-Was die Zahlen auch zeigen: Frauen in Patchworkfamilien arbeiten häufiger in Vollzeit als Frauen in Erstfamilien. Trotzdem haben sie im Durchschnitt ein geringeres Haushaltseinkommen — weil Unterhaltszahlungen das Budget belasten. Wer sich für die finanzielle Seite interessiert, findet mehr dazu im Artikel über [Unterhalt in Patchworkfamilien](/blog/unterhalt-in-patchworkfamilien/).
+Was die Zahlen auch zeigen: Frauen in Patchworkfamilien arbeiten häufiger in Vollzeit als Frauen in Erstfamilien. Trotzdem haben sie im Durchschnitt ein geringeres Haushaltseinkommen — weil Unterhaltszahlungen das Budget belasten. Wer sich für die finanzielle Seite interessiert, findet mehr dazu im Artikel über [Unterhalt in Patchworkfamilien](/blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab/).
 
 Diese Zahlen machen eines deutlich: **Patchworkfamilie ist ein Massenphänomen.** Und ein Massenphänomen verdient Begriffe, die der Realität gerecht werden.
 
