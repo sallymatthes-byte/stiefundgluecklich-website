@@ -144,6 +144,13 @@
 /sitemap.xml /sitemap-index.xml 301
 /post-sitemap.xml /sitemap-0.xml 301
 
+
+# Stale internal blog slug redirects from Search Console 404 cleanup
+/blog/insider-outsider-dynamik-in-patchworkfamilien/ /blog/insider-outsider-dynamik-patchworkfamilien/ 301
+/blog/insider-outsider-dynamik-in-patchworkfamilien /blog/insider-outsider-dynamik-patchworkfamilien/ 301
+/blog/unterhalt-in-patchworkfamilien/ /blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab/ 301
+/blog/unterhalt-in-patchworkfamilien /blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab/ 301
+
 # Page redirects
 /ueber-mich /about/ 301
 /ueber-mich/ /about/ 301
