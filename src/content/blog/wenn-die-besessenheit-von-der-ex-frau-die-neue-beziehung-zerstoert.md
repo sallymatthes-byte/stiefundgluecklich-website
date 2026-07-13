@@ -3,9 +3,9 @@ title: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergan
 description: "Macht die Ex-Frau deine neue Beziehung kaputt? Erfahre, wie du die Kontrolle zurückgewinnst und endlich glücklich wirst"
 category: "ex-und-system"
 date: 2024-04-26
-updated: 2026-04-20
-metaTitle: "Ex-Frau zerstört neue Beziehung? So verlierst du dich nicht im Ex-Konflikt"
-metaDescription: "Seine Ex-Frau belastet eure Beziehung? Warum der Ex-Konflikt so viel Macht bekommt, was wirklich dahintersteckt und wie du als Bonusmama da rauskommst."
+updated: 2026-07-13
+metaTitle: "Ex-Frau zerstört neue Beziehung? Das hilft"
+metaDescription: "Wenn seine Ex-Frau eure Beziehung belastet: Warum der Konflikt so viel Macht hat und wie du dich als Bonusmama klar abgrenzt."
 heroImage: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 image: "/images/blog/wenn-die-besessenheit-von-der-ex-frau-die-neue-beziehung-zerstoert-1.jpg"
 imageAlt: "Ex-Frau und neue Beziehung - So befreist du dich vom Schatten der Vergangenheit"

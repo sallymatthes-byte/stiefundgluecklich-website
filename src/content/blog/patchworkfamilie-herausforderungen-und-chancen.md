@@ -3,9 +3,9 @@ title: "Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmo
 description: "Das komplexe Leben einer Patchworkfamilie - warum es unglaublich bereichernd ist und welche Stolpersteine auf dem Weg auftauchen."
 category: "rolle-identitaet"
 date: 2023-12-04
-updated: 2026-03-10
-metaTitle: "Patchworkfamilie: Herausforderungen & Chancen"
-metaDescription: "Das komplexe Leben einer Patchworkfamilie — warum es unglaublich bereichernd ist und welche Stolpersteine auf dem Weg lauern."
+updated: 2026-07-13
+metaTitle: "Patchworkfamilie: Bedeutung, Probleme & Chancen"
+metaDescription: "Was ist eine Patchworkfamilie? Bedeutung, typische Herausforderungen, Vorteile und was hilft, damit Patchwork im Alltag leichter wird."
 heroImage: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 imageAlt: "Patchworkfamilie – Herausforderungen und Chancen auf dem Weg zur Harmonie"

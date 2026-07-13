@@ -6,9 +6,9 @@ date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
 image: "/images/blog/stiefmutter-rolle.jpg"
 imageAlt: "Frau sitzt allein auf einer Bank im herbstlichen Wald - nachdenklich, warm"
-metaTitle: "Stiefmutter Definition: Ab wann bist du eine?"
-metaDescription: "Was ist eine Stiefmutter, ab wann beginnt diese Rolle und was bedeutet sie wirklich? Eine klare, ehrliche Einordnung für Bonusmamas im Patchwork."
-updated: 2026-06-15
+metaTitle: "Was ist eine Stiefmutter? Definition & Bedeutung"
+metaDescription: "Was bedeutet Stiefmutter und ab wann bist du eine? Klare Definition, ehrliche Einordnung und was die Rolle in Patchwork wirklich heißt."
+updated: 2026-07-13
 podcastEpisode: "https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8"
 podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
