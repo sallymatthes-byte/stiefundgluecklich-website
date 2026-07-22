@@ -1,0 +1,32 @@
+---
+import Layout from '../../layouts/Layout.astro'
+export const prerender = true;
+---
+
+<Layout title="Danke für deine Buchung" description="Deine Buchung der persönlichen 1:1-Begleitung war erfolgreich." noHeader={true} noindex={true}>
+  <section class="pt-24 md:pt-32 pb-20 min-h-[78vh]">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-[680px] mx-auto text-center">
+        <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Buchung abgeschlossen</p>
+        <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">Willkommen in deiner 1:1-Begleitung.</h1>
+        <p class="text-lg text-muted-foreground leading-relaxed mb-9">Danke für dein Vertrauen. Du bekommst deine Zahlungsbestätigung von Stripe. Sally meldet sich mit den nächsten Schritten für Vertrag, Onboarding und deinen ersten regulären Coachingtermin.</p>
+        <div class="bg-cream border border-border p-6 md:p-8 text-left">
+          <h2 class="text-2xl mb-4">So geht es weiter</h2>
+          <ol class="space-y-3 text-muted-foreground">
+            <li><strong class="text-foreground">1.</strong> Prüfe dein Postfach auf die Zahlungsbestätigung.</li>
+            <li><strong class="text-foreground">2.</strong> Du erhältst die finalen Unterlagen und dein Onboarding.</li>
+            <li><strong class="text-foreground">3.</strong> Danach planst du deinen ersten 90-Minuten-Termin.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script is:inline>
+    (() => {
+      const params = new URLSearchParams(window.location.search);
+      const properties = { has_session_id: Boolean(params.get('session_id')) };
+      if (typeof window.gtag === 'function') window.gtag('event', 'one_to_one_checkout_success_viewed', { event_category: 'one_to_one_checkout', ...properties });
+      if (typeof window.posthog !== 'undefined') window.posthog.capture('one_to_one_checkout_success_viewed', properties);
+    })();
+  </script>
+</Layout>

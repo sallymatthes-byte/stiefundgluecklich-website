@@ -1,0 +1,140 @@
+---
+import Layout from '../../../layouts/Layout.astro'
+
+export const prerender = true;
+
+export function getStaticPaths() {
+  const RESULTS = {
+  kennenlernen: {
+    label: 'Deine Empfehlung',
+    title: 'Das klingt, als könnte meine 1:1-Begleitung wirklich zu dir passen.',
+    paragraphs: [
+      'Danke, dass du so offen geantwortet hast.',
+      'Deine Antworten zeigen mir: Du möchtest nicht nur verstehen, warum es gerade schwer ist. Du bist bereit, dir Zeit zu nehmen, deinen eigenen Anteil anzuschauen und wirklich etwas zu verändern.',
+      'Deshalb ist der nächste sinnvolle Schritt ein kostenfreies 30-minütiges Kennenlerngespräch.',
+      'In diesem Gespräch schauen wir gemeinsam, ob dein Ziel, meine Arbeitsweise und der Rahmen der Begleitung wirklich zusammenpassen. Das Gespräch ist keine kostenlose Coaching-Sitzung und verpflichtet dich zu nichts.',
+    ],
+    cta: '30-minütiges Kennenlerngespräch buchen',
+    kind: 'calendar',
+    note: 'Plane bitte nur dann einen Termin ein, wenn der genannte Investitionsrahmen für dich grundsätzlich realistisch ist.',
+  },
+  'kleiner-schritt': {
+    label: 'Deine Empfehlung',
+    title: 'Für dich passt gerade ein kleinerer nächster Schritt besser.',
+    paragraphs: [
+      'Das ist keine Absage an deine Veränderung. Im Gegenteil: Du musst nicht mit der intensivsten Begleitung starten, damit sich etwas bewegt.',
+      'Für deinen aktuellen Rahmen empfehle ich dir, mit einem klaren, überschaubaren Thema anzufangen und erste Veränderungen selbst umzusetzen.',
+    ],
+    recommendations: ['ITS Bundle', 'Ausgewählte Podcast-Folgen', 'Newsletter'],
+    cta: 'Meinen passenden nächsten Schritt ansehen',
+    href: '/its-bundle/',
+    kind: 'product',
+  },
+  beyondbonus: {
+    label: 'Deine Empfehlung',
+    title: 'BeyondBonus ist wahrscheinlich der passendere nächste Schritt für dich.',
+    paragraphs: [
+      'Du möchtest tiefer einsteigen und wirklich an deiner Rolle arbeiten. Eine intensive persönliche 1:1-Begleitung passt aber im Moment noch nicht zu deinem finanziellen Rahmen.',
+      'Genau dafür gibt es BeyondBonus: Du arbeitest strukturiert an den zentralen Themen deiner Patchworkrolle und kannst die Inhalte in deinem eigenen Tempo umsetzen.',
+    ],
+    cta: 'BeyondBonus kennenlernen',
+    href: '/beyondbonus/',
+    kind: 'product',
+  },
+  'noch-nicht': {
+    label: 'Deine Empfehlung',
+    title: 'Vielleicht ist jetzt noch nicht der Moment. Und das ist okay.',
+    paragraphs: [
+      'Veränderung funktioniert nicht, weil jemand anderes sagt, dass du bereit sein solltest. Sie beginnt dann, wenn du selbst entscheidest, ihr Raum zu geben.',
+      'Bleib gern über meinen Podcast und den Newsletter mit mir verbunden. Wenn du merkst, dass du nicht mehr nur verstehen, sondern wirklich handeln möchtest, kannst du jederzeit wiederkommen.',
+    ],
+    cta: 'Mit dem Podcast verbunden bleiben',
+    href: '/podcast/',
+    kind: 'content',
+  },
+  'andere-unterstuetzung': {
+    label: 'Deine Empfehlung',
+    title: 'Eine andere Form von Unterstützung ist gerade wichtiger.',
+    paragraphs: [
+      'Danke, dass du so ehrlich geantwortet hast.',
+      'Meine 1:1-Begleitung ist Coaching. Sie kann keine Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe ersetzen.',
+      'Bitte hol dir jetzt Unterstützung bei einer passenden Fachstelle in deiner Nähe. Wenn du oder jemand anderes akut gefährdet ist, wende dich sofort an den örtlichen Notruf. In Deutschland und Frankreich erreichst du den europäischen Notruf unter 112.',
+    ],
+    cta: 'Internationale Anlaufstellen finden',
+    href: 'https://findahelpline.com/',
+    kind: 'help',
+  },
+  };
+
+  return Object.entries(RESULTS).map(([route, result]) => ({ params: { route }, props: { route, result } }));
+}
+
+const { route, result } = Astro.props;
+const callUrl = import.meta.env.PUBLIC_1ZU1_CALL_URL || '';
+const isCalendar = result.kind === 'calendar';
+const ctaHref = isCalendar ? callUrl : result.href;
+---
+
+<Layout title={`${result.title} — 1:1-Bewerbung`} description="Deine persönliche Empfehlung nach der 1:1-Bewerbung bei Sally Matthes." noHeader={true} noindex={true}>
+  <section class="pt-20 md:pt-28 pb-40 md:pb-32 min-h-[82vh] flex items-start">
+    <div class="container mx-auto px-5 md:px-6">
+      <article class="max-w-[680px] mx-auto" data-result-route={route}>
+        <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">{result.label}</p>
+        <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-7">{result.title}</h1>
+
+        <div class="space-y-4 text-muted-foreground leading-relaxed mb-8">
+          {result.paragraphs.map((paragraph, index) => <p id={index === 0 ? 'result-greeting' : undefined}>{paragraph}</p>)}
+        </div>
+
+        {result.recommendations && (
+          <ul class="recommendations mb-9">
+            {result.recommendations.map((item) => <li>{item}</li>)}
+          </ul>
+        )}
+
+        {ctaHref ? (
+          <a
+            id={isCalendar ? 'one-to-one-call-cta' : undefined}
+            href={ctaHref}
+            target={result.kind === 'help' || isCalendar ? '_blank' : undefined}
+            rel={result.kind === 'help' || isCalendar ? 'noopener noreferrer' : undefined}
+            class="inline-flex bg-primary text-primary-foreground px-7 py-4 font-semibold hover:opacity-90 transition-opacity text-center"
+          >
+            {result.cta}
+          </a>
+        ) : isCalendar ? (
+          <div class="border border-border bg-cream p-5" role="status">
+            <p class="font-medium mb-1">Die Terminbuchung wird gerade vorbereitet.</p>
+            <p class="text-sm text-muted-foreground">Der Buchungslink wird hier freigeschaltet, sobald Sallys Zeitfenster feststehen.</p>
+          </div>
+        ) : null}
+
+        {result.note && <p class="text-sm text-muted-foreground mt-5">{result.note}</p>}
+      </article>
+    </div>
+  </section>
+
+  <style>
+    .recommendations { display: grid; gap: .65rem; }
+    .recommendations li { position: relative; padding-left: 1.6rem; color: var(--color-muted-foreground); }
+    .recommendations li::before { content: '✓'; position: absolute; left: 0; color: var(--color-primary); font-weight: 700; }
+  </style>
+
+  <script is:inline define:vars={{ route }}>
+    (() => {
+      const firstname = (sessionStorage.getItem('one_to_one_firstname') || '').trim();
+      const greeting = document.getElementById('result-greeting');
+      if (firstname && greeting) greeting.textContent = `Danke, ${firstname}, dass du so offen geantwortet hast.`;
+
+      const properties = { route, source: sessionStorage.getItem('one_to_one_source') || 'direct' };
+      if (typeof window.gtag === 'function') window.gtag('event', 'one_to_one_result_viewed', { event_category: 'one_to_one_application', ...properties });
+      if (typeof window.posthog !== 'undefined') window.posthog.capture('one_to_one_result_viewed', properties);
+
+      const callCta = document.getElementById('one-to-one-call-cta');
+      callCta?.addEventListener('click', () => {
+        if (typeof window.gtag === 'function') window.gtag('event', 'one_to_one_call_cta_clicked', { event_category: 'one_to_one_application', ...properties });
+        if (typeof window.posthog !== 'undefined') window.posthog.capture('one_to_one_call_cta_clicked', properties);
+      });
+    })();
+  </script>
+</Layout>

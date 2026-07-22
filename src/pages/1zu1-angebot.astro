@@ -1,0 +1,177 @@
+---
+import Layout from '../layouts/Layout.astro'
+export const prerender = true;
+const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
+---
+
+<Layout title="Deine 1:1-Begleitung mit Sally" description="Private Angebots- und Buchungsseite für Sallys persönliche 1:1-Begleitung." noHeader={true} noindex={true}>
+  <section class="pt-16 md:pt-24 pb-16 md:pb-24">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-[820px] mx-auto">
+        <header class="max-w-[690px] mb-12">
+          <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Dein persönliches Angebot</p>
+          <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">12 Wochen, in denen du nicht mehr allein sortieren musst.</h1>
+          <p class="text-lg text-muted-foreground leading-relaxed">Diese private Seite fasst den Rahmen zusammen, den wir im Kennenlerngespräch besprochen haben. Lies alles in Ruhe durch und wähle danach die Zahlungsart, die für dich passt.</p>
+        </header>
+
+        <div id="cancel-message" class="hidden border border-gold bg-cream p-4 mb-8" role="status">Der Checkout wurde abgebrochen. Es wurde nichts gebucht. Du kannst deine Zahlungsart in Ruhe neu auswählen.</div>
+
+        <section class="content-section">
+          <p class="section-label">Worum es geht</p>
+          <h2>Ein klarer Platz für dich in deiner Patchworkfamilie</h2>
+          <p>Die Begleitung ist für Bonusmamas, die nicht länger nur verstehen wollen, warum es schwer ist. Wir arbeiten an deiner konkreten Situation, deinen Grenzen, deiner Kommunikation und den Entscheidungen, mit denen du deinen Platz aktiv gestaltest.</p>
+        </section>
+
+        <section class="content-section">
+          <p class="section-label">Der Rahmen</p>
+          <h2>Das ist enthalten</h2>
+          <ul class="feature-list">
+            <li><strong>12 Wochen persönliche Begleitung</strong><span>mit einem gemeinsam vereinbarten Starttermin</span></li>
+            <li><strong>6 Einzelcoachings à 90 Minuten</strong><span>im Rhythmus von ungefähr zwei Wochen</span></li>
+            <li><strong>Telegram-Begleitung</strong><span>Sally antwortet montags, mittwochs und freitags in den vereinbarten Zeitfenstern</span></li>
+            <li><strong>Zugriff auf BeyondBonus</strong><span>mindestens während der 12-wöchigen Begleitung; eine längere Zugriffsdauer wird im Vertrag festgehalten</span></li>
+            <li><strong>Individuelle nächste Schritte</strong><span>abgestimmt auf deine reale Patchwork-Situation und deinen Alltag</span></li>
+          </ul>
+        </section>
+
+        <section class="content-section boundary-box">
+          <p class="section-label">Klare Grenze</p>
+          <h2>Coaching ist keine Krisenhilfe</h2>
+          <p>Die Begleitung ersetzt keine Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe. Wenn sich deine Situation seit dem Kennenlerngespräch wesentlich verändert hat, kläre bitte vor der Buchung mit Sally, ob Coaching noch der passende Rahmen ist.</p>
+        </section>
+
+        <section class="content-section" id="zahlung">
+          <p class="section-label">Deine Investition</p>
+          <h2>Wähle deine Zahlungsart</h2>
+          <p class="mb-6">Alle Preise enthalten TVA. Bei Ratenzahlung wird die erste Rate sofort, die zweite nach einem Monat und bei drei Raten die dritte nach zwei Monaten abgebucht. Damit ist die Begleitung innerhalb der 12 Wochen vollständig bezahlt.</p>
+
+          <div class="payment-options" role="radiogroup" aria-label="Zahlungsart">
+            <label class="payment-card">
+              <input type="radio" name="payment-plan" value="full" checked />
+              <span class="payment-copy"><strong>Einmalzahlung</strong><small>einmalig 2.997 €</small></span>
+              <span class="payment-total">2.997 € gesamt</span>
+            </label>
+            <label class="payment-card">
+              <input type="radio" name="payment-plan" value="2x" />
+              <span class="payment-copy"><strong>2 Raten</strong><small>2 × 1.549 €</small></span>
+              <span class="payment-total">3.098 € gesamt</span>
+            </label>
+            <label class="payment-card">
+              <input type="radio" name="payment-plan" value="3x" />
+              <span class="payment-copy"><strong>3 Raten</strong><small>3 × 1.049 €</small></span>
+              <span class="payment-total">3.147 € gesamt</span>
+            </label>
+          </div>
+
+          <div class="legal-box">
+            <label><input id="terms-confirmation" type="checkbox" /><span>Ich habe den beschriebenen Leistungsumfang und die gewählte Zahlungsart geprüft und akzeptiere die <a href="/agb/" target="_blank" rel="noopener">AGB</a> sowie die <a href="/datenschutz/" target="_blank" rel="noopener">Datenschutzerklärung</a>.</span></label>
+            <label><input id="coaching-confirmation" type="checkbox" /><span>Ich verstehe, dass Coaching keine Therapie, Rechtsberatung oder akute Krisenhilfe ersetzt.</span></label>
+          </div>
+
+          <p class="legal-note">Die verbindlichen Vertrags- und Widerrufsinformationen erhältst du vor der Freischaltung dieser Buchungsseite noch einmal schriftlich.</p>
+          {!offerEnabled && <p class="checkout-error" role="status">Die verbindliche Buchung wird nach dem Kennenlerngespräch und der finalen Vertragsfreigabe aktiviert.</p>}
+          <p id="checkout-error" class="checkout-error hidden" role="alert"></p>
+          <button id="checkout-button" type="button" class="checkout-button" disabled={!offerEnabled}>{offerEnabled ? '1:1-Begleitung verbindlich buchen' : 'Buchung noch nicht freigeschaltet'}</button>
+          <p class="text-xs text-muted-foreground mt-3">Du wirst für die sichere Zahlung zu Stripe weitergeleitet.</p>
+        </section>
+
+        <section class="content-section">
+          <p class="section-label">Häufige Fragen</p>
+          <div class="faq-list">
+            <details><summary>Wann beginnt die Begleitung?</summary><p>Der Starttermin wird nach dem Kennenlerngespräch mit Sally verbindlich festgelegt. Buche nur, wenn dieser Termin für dich geklärt ist.</p></details>
+            <details><summary>Wie werden die sechs Termine geplant?</summary><p>Die Coachings finden ungefähr alle zwei Wochen statt. Nach der Buchung erhältst du das Onboarding und buchst danach den ersten regulären 90-Minuten-Termin.</p></details>
+            <details><summary>Kann ich zwischen den Terminen Fragen stellen?</summary><p>Ja. Die Telegram-Begleitung gehört zum 12-Wochen-Rahmen. Sally antwortet montags, mittwochs und freitags in den gemeinsam vereinbarten Zeitfenstern.</p></details>
+            <details><summary>Endet eine Ratenzahlung automatisch?</summary><p>Ja. Zwei Raten enden nach der zweiten Abbuchung, drei Raten nach der dritten. Es entsteht kein fortlaufendes Monatsabo.</p></details>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .content-section { border-top: 1px solid var(--color-border); padding: 2.5rem 0; }
+    .content-section h2 { font-size: clamp(1.75rem, 5vw, 2.35rem); margin-bottom: 1rem; }
+    .content-section > p:not(.section-label, .legal-note, .checkout-error) { color: var(--color-muted-foreground); line-height: 1.75; }
+    .section-label { color: var(--color-primary); font-size: .75rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; margin-bottom: .65rem; }
+    .feature-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .8rem; margin-top: 1.5rem; }
+    .feature-list li { background: white; border: 1px solid var(--color-border); padding: 1.15rem; }
+    .feature-list strong, .feature-list span { display: block; }
+    .feature-list span { color: var(--color-muted-foreground); font-size: .88rem; margin-top: .25rem; line-height: 1.55; }
+    .boundary-box { border: 1px solid var(--color-border); background: var(--color-cream); padding: 1.7rem; margin: 1rem 0 2rem; }
+    .payment-options { display: grid; gap: .75rem; }
+    .payment-card { display: grid; grid-template-columns: auto 1fr auto; gap: 1rem; align-items: center; border: 1px solid var(--color-border); background: white; padding: 1.15rem; cursor: pointer; transition: border-color .2s, background .2s; }
+    .payment-card:has(input:checked) { border-color: var(--color-primary); background: hsl(107 57% 21% / .055); }
+    .payment-card input { accent-color: var(--color-primary); width: 1.05rem; height: 1.05rem; }
+    .payment-copy strong, .payment-copy small { display: block; }
+    .payment-copy small { color: var(--color-muted-foreground); margin-top: .15rem; }
+    .payment-total { font-size: .82rem; color: var(--color-muted-foreground); text-align: right; }
+    .legal-box { display: grid; gap: .8rem; margin: 1.5rem 0 .8rem; }
+    .legal-box label { display: flex; align-items: flex-start; gap: .7rem; font-size: .86rem; color: var(--color-muted-foreground); line-height: 1.55; }
+    .legal-box input { margin-top: .3rem; accent-color: var(--color-primary); }
+    .legal-box a { color: var(--color-primary); text-decoration: underline; text-underline-offset: 3px; }
+    .legal-note { font-size: .76rem; color: var(--color-muted-foreground); border-left: 2px solid var(--color-gold); padding-left: .75rem; margin: 1rem 0; }
+    .checkout-button { width: 100%; background: var(--color-primary); color: var(--color-primary-foreground); padding: 1rem 1.5rem; font-weight: 600; cursor: pointer; transition: opacity .2s; margin-top: .75rem; }
+    .checkout-button:hover { opacity: .9; }
+    .checkout-button:disabled { opacity: .55; cursor: wait; }
+    .checkout-error { color: hsl(0 62% 40%); background: hsl(0 70% 97%); border: 1px solid hsl(0 55% 75%); padding: .85rem 1rem; margin-top: 1rem; }
+    .faq-list { display: grid; gap: .65rem; }
+    .faq-list details { border: 1px solid var(--color-border); background: white; padding: 1rem 1.15rem; }
+    .faq-list summary { cursor: pointer; font-weight: 600; }
+    .faq-list details p { color: var(--color-muted-foreground); font-size: .9rem; line-height: 1.65; margin-top: .75rem; }
+    @media (max-width: 640px) { .feature-list { grid-template-columns: 1fr; } .payment-card { grid-template-columns: auto 1fr; } .payment-total { grid-column: 2; text-align: left; } }
+  </style>
+
+  <script is:inline>
+    (() => {
+      const button = document.getElementById('checkout-button');
+      const error = document.getElementById('checkout-error');
+      if (!button || button.disabled) return;
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('checkout') === 'abgebrochen') document.getElementById('cancel-message').classList.remove('hidden');
+
+      document.querySelectorAll('[name="payment-plan"]').forEach((input) => {
+        input.addEventListener('change', () => track('one_to_one_checkout_plan_selected', { plan: input.value }));
+      });
+
+      button.addEventListener('click', async () => {
+        error.classList.add('hidden');
+        if (!document.getElementById('terms-confirmation').checked || !document.getElementById('coaching-confirmation').checked) {
+          error.textContent = 'Bitte bestätige beide Punkte, bevor du zum Checkout gehst.';
+          error.classList.remove('hidden');
+          return;
+        }
+
+        const plan = document.querySelector('[name="payment-plan"]:checked')?.value || 'full';
+        track('one_to_one_checkout_started', { plan });
+        button.disabled = true;
+        button.textContent = 'Stripe-Checkout wird geöffnet …';
+
+        try {
+          const response = await fetch('/api/checkout-1zu1', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              plan,
+              termsAccepted: true,
+              coachingConfirmed: true,
+              requestId: crypto.randomUUID(),
+            }),
+          });
+          const result = await response.json().catch(() => ({}));
+          if (!response.ok || !result.url) throw new Error(result.error || 'Der Checkout konnte nicht gestartet werden.');
+          window.location.assign(result.url);
+        } catch (checkoutError) {
+          error.textContent = checkoutError.message || 'Der Checkout konnte gerade nicht gestartet werden. Bitte versuche es später noch einmal.';
+          error.classList.remove('hidden');
+          button.disabled = false;
+          button.textContent = '1:1-Begleitung verbindlich buchen';
+        }
+      });
+
+      function track(eventName, properties) {
+        if (typeof window.gtag === 'function') window.gtag('event', eventName, { event_category: 'one_to_one_checkout', ...properties });
+        if (typeof window.posthog !== 'undefined') window.posthog.capture(eventName, properties);
+      }
+    })();
+  </script>
+</Layout>

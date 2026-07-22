@@ -25,7 +25,9 @@ export default defineConfig({
           '/members/',
           '/livecalls/',
           '/auth/',
-          '/api/'
+          '/api/',
+          '/1zu1-angebot/',
+          '/1zu1-bewerbung/ergebnis/'
         ];
 
         return !excludedPaths.some((path) => page.startsWith(`https://stiefundgluecklich.de${path}`));

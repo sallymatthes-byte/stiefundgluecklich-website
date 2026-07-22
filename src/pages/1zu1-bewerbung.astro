@@ -1,0 +1,503 @@
+---
+import Layout from '../layouts/Layout.astro'
+export const prerender = true;
+---
+
+<Layout title="1:1-Bewerbung — Persönliche Begleitung mit Sally" description="Finde in fünf Minuten heraus, ob Sallys persönliche 1:1-Begleitung der passende nächste Schritt für dich ist." canonical="https://stiefundgluecklich.de/1zu1-bewerbung/" noHeader={true}>
+  <section class="pt-20 md:pt-24 pb-40 md:pb-32 min-h-[82vh] flex items-start">
+    <div class="container mx-auto px-5 md:px-6">
+      <div class="max-w-[680px] mx-auto">
+        <div id="progress-bar" class="mb-8 hidden" aria-live="polite">
+          <div class="flex justify-between text-xs text-muted-foreground mb-2">
+            <span id="progress-label">Frage 1 von 16</span>
+            <span id="progress-percent">6%</span>
+          </div>
+          <div class="w-full h-1.5 bg-cream overflow-hidden" role="progressbar" aria-valuemin="1" aria-valuemax="16" aria-valuenow="1">
+            <div id="progress-fill" class="h-full bg-primary transition-all duration-500 ease-out" style="width: 6%"></div>
+          </div>
+        </div>
+
+        <div id="step-welcome" class="application-step">
+          <p class="eyebrow">Persönliche 1:1-Begleitung</p>
+          <h1 class="text-3xl md:text-4xl lg:text-5xl leading-tight mb-6">Schön, dass du da bist.</h1>
+          <div class="space-y-4 text-muted-foreground leading-relaxed mb-9">
+            <p>Wenn du hier gelandet bist, spürst du wahrscheinlich schon länger: In deiner Patchworkfamilie muss sich etwas verändern.</p>
+            <p>Mit den nächsten Fragen finden wir gemeinsam heraus, welcher Schritt für dich gerade wirklich sinnvoll ist und ob meine persönliche 1:1-Begleitung zu deiner Situation passt.</p>
+            <p>Es gibt dabei kein Richtig oder Falsch. Antworte so ehrlich, wie du kannst. Am Ende bekommst du direkt eine Empfehlung von mir.</p>
+            <p>Das Ganze dauert ungefähr fünf Minuten.</p>
+          </div>
+          <button type="button" id="start-button" class="primary-button">Lass uns loslegen</button>
+        </div>
+
+        <form id="application-form" class="hidden" novalidate>
+          <div class="sr-only" aria-hidden="true">
+            <label for="website">Website</label>
+            <input id="website" name="website" type="text" tabindex="-1" autocomplete="off" />
+          </div>
+
+          <fieldset class="application-step hidden" data-question="1">
+            <p class="step-transition">Lass uns ganz von vorn anfangen:</p>
+            <legend>Wie heißt du?</legend>
+            <label class="field-label" for="firstname">Vorname</label>
+            <input class="text-field" id="firstname" name="firstname" type="text" maxlength="80" autocomplete="given-name" required />
+            <p class="field-error" data-error-for="firstname"></p>
+            <button type="button" class="primary-button next-button">Weiter</button>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="2">
+            <p class="step-transition" id="personal-greeting">Schön, dass du hier bist.</p>
+            <legend>Unter welcher E-Mail-Adresse darf ich dir deine Empfehlung und, falls es passt, den nächsten Schritt schicken?</legend>
+            <p class="help-text">Bitte nutze möglichst die Adresse, über die du auch meine Newsletter oder dein Break-the-Cycle-Ergebnis erhältst.</p>
+            <label class="field-label" for="email">E-Mail-Adresse</label>
+            <input class="text-field" id="email" name="email" type="email" maxlength="254" autocomplete="email" required />
+            <p class="field-error" data-error-for="email"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="3">
+            <p class="step-transition">Bevor wir in deine Situation einsteigen, bin ich neugierig:</p>
+            <legend>Wie bist du auf mich aufmerksam geworden?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="knownFrom" value="instagram" required /><span>Instagram</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="podcast" /><span>Podcast „Bonusgeflüster“</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="break-the-cycle" /><span>Break the Cycle</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="newsletter" /><span>Newsletter</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="empfehlung" /><span>Empfehlung</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="google-blog" /><span>Google oder Blog</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="ki-suche" /><span>ChatGPT oder eine andere KI-Suche</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="sonstiges" /><span>Sonstiges</span></label>
+            </div>
+            <p class="field-error" data-error-for="knownFrom"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <section class="application-step hidden transition-card" data-transition>
+            <p class="eyebrow">Deine Situation</p>
+            <h2>Alles klar. Dann schauen wir ein bisschen genauer hin.</h2>
+            <p>Die nächsten Fragen helfen mir zu verstehen, wo du gerade stehst und was dich in deiner Patchworkfamilie am meisten Kraft kostet.</p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </section>
+
+          <fieldset class="application-step hidden" data-question="4">
+            <legend>Wie lange bist du schon Bonusmama?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="roleDuration" value="unter-6-monate" required /><span>Weniger als 6 Monate</span></label>
+              <label class="option"><input type="radio" name="roleDuration" value="6-monate-2-jahre" /><span>6 Monate bis 2 Jahre</span></label>
+              <label class="option"><input type="radio" name="roleDuration" value="2-5-jahre" /><span>2 bis 5 Jahre</span></label>
+              <label class="option"><input type="radio" name="roleDuration" value="mehr-als-5-jahre" /><span>Mehr als 5 Jahre</span></label>
+            </div>
+            <p class="field-error" data-error-for="roleDuration"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="5">
+            <legend>Was beschreibt deine aktuelle Situation am besten?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="mainStrain" value="aussenseiterin" required /><span>Ich fühle mich wie eine Außenseiterin in meiner eigenen Familie.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="konflikte" /><span>Wir haben ständig Konflikte wegen Erziehung, Ex-Partnerin oder Kindern.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="ex-grenzen" /><span>Die Ex-Partnerin und fehlende Grenzen belasten unsere Beziehung.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="bonus-kind" /><span>Die Beziehung zu meinem Bonuskind ist schwierig.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="rolle" /><span>Ich weiß nicht, welche Rolle ich habe und wofür ich verantwortlich bin.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="selbstverlust" /><span>Ich verliere mich selbst und weiß nicht mehr, wer ich außerhalb dieser Familie bin.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="erschoepft" /><span>Ich bin emotional erschöpft und merke: So kann es nicht weitergehen.</span></label>
+              <label class="option"><input type="radio" name="mainStrain" value="sonstiges" data-controls="main-strain-other" /><span>Etwas anderes.</span></label>
+            </div>
+            <div id="main-strain-other" class="conditional-field hidden"><label class="field-label" for="mainStrainOther">Was ist es?</label><textarea class="text-field" id="mainStrainOther" name="mainStrainOther" rows="3" maxlength="500"></textarea></div>
+            <p class="field-error" data-error-for="mainStrain"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="6">
+            <p class="step-transition">Und wenn du ganz ehrlich mit dir bist:</p>
+            <legend>Wie dringend wünschst du dir Veränderung?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="urgency" value="sehr-dringend" required /><span>Sehr dringend. Ich merke, dass ich so nicht weitermachen kann.</span></label>
+              <label class="option"><input type="radio" name="urgency" value="dringend" /><span>Dringend. Es muss sich in den nächsten Monaten etwas verändern.</span></label>
+              <label class="option"><input type="radio" name="urgency" value="veraenderungswunsch" /><span>Ich wünsche mir Veränderung, habe aber noch keinen akuten Druck.</span></label>
+              <label class="option"><input type="radio" name="urgency" value="nur-information" /><span>Noch nicht dringend. Ich informiere mich gerade erst.</span></label>
+            </div>
+            <p class="field-error" data-error-for="urgency"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="7">
+            <p class="step-transition">Verstanden. Lass uns kurz schauen, was du bisher schon versucht hast.</p>
+            <legend>Was hast du unternommen, um deine Situation zu verbessern?</legend>
+            <p class="help-text">Du kannst mehrere Antworten auswählen.</p>
+            <div class="options">
+              <label class="option"><input type="checkbox" name="attempts" value="partnergespraech" /><span>Mit meinem Partner gesprochen, bisher ohne nachhaltige Veränderung</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="content-selbstarbeit" /><span>Podcasts gehört, Bücher gelesen oder allein an mir gearbeitet</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="break-the-cycle" /><span>Break the Cycle gemacht</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="beyondbonus-kurs" /><span>BeyondBonus oder einen anderen Kurs genutzt</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="therapie" /><span>Paartherapie oder Einzeltherapie gemacht</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="coaching-beratung" /><span>Coaching oder Beratung bei jemand anderem genutzt</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="noch-nichts" /><span>Noch nichts. Ich stehe ganz am Anfang.</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="sonstiges" data-controls="attempts-other" /><span>Etwas anderes</span></label>
+            </div>
+            <div id="attempts-other" class="conditional-field hidden"><label class="field-label" for="attemptsOther">Was hast du noch versucht?</label><textarea class="text-field" id="attemptsOther" name="attemptsOther" rows="3" maxlength="500"></textarea></div>
+            <p class="field-error" data-error-for="attempts"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <section class="application-step hidden transition-card" data-transition>
+            <p class="eyebrow">Blick nach vorn</p>
+            <h2>Danke für deine Offenheit.</h2>
+            <p>Ich habe jetzt ein erstes Bild davon, was gerade schwer ist. Lass uns den Blick einmal nach vorn richten: Was soll stattdessen möglich werden?</p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </section>
+
+          <fieldset class="application-step hidden" data-question="8">
+            <legend>Stell dir vor, unsere drei Monate Zusammenarbeit waren erfolgreich: Was wäre danach in deinem Alltag konkret anders?</legend>
+            <p class="help-text">Denk nicht nur daran, was dein Partner, die Ex oder die Kinder anders machen sollen. Was möchtest du selbst klarer sehen, entscheiden oder verändern können?</p>
+            <label class="field-label" for="goal">Deine Antwort, mindestens 150 Zeichen</label>
+            <textarea class="text-field" id="goal" name="goal" rows="7" minlength="150" maxlength="1000" required></textarea>
+            <div class="flex justify-between gap-4"><p class="field-error" data-error-for="goal"></p><p id="goal-count" class="text-xs text-muted-foreground">0 / 1000</p></div>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <section class="application-step hidden transition-card" data-transition>
+            <p class="eyebrow">Veränderungsbereitschaft</p>
+            <h2>Kommen wir zu dem Teil, der für unsere Zusammenarbeit wirklich wichtig ist.</h2>
+            <p>Du musst noch nicht wissen, wie du dein Ziel erreichst. Aber Veränderung funktioniert nur, wenn du bereit bist, auch deine eigenen Muster, Grenzen und Entscheidungen anzuschauen.</p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Alles klar, weiter</button></div>
+          </section>
+
+          <fieldset class="application-step hidden" data-question="9">
+            <legend>Welche Aussage beschreibt deine Haltung im Moment am ehrlichsten?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="responsibility" value="andere-sollen-sich-aendern" required /><span>Ich wünsche mir vor allem, dass mein Partner, die Ex oder die Kinder sich verändern.</span></label>
+              <label class="option"><input type="radio" name="responsibility" value="unsicher-eigener-anteil" /><span>Ich weiß, dass ich selbst etwas verändern muss, bin aber noch unsicher, ob ich wirklich bereit dafür bin.</span></label>
+              <label class="option"><input type="radio" name="responsibility" value="bereit-eigener-anteil" /><span>Ich bin bereit, meine eigenen Muster, Grenzen und Entscheidungen ehrlich anzuschauen und neue Schritte umzusetzen.</span></label>
+            </div>
+            <p class="field-error" data-error-for="responsibility"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="10">
+            <p class="step-transition">Veränderung braucht nicht dein ganzes Leben. Aber sie braucht einen festen Platz darin.</p>
+            <legend>Kannst du dir in den kommenden drei Monaten alle zwei Wochen 90 Minuten nur für dich und unsere Zusammenarbeit freischaufeln?</legend>
+            <p class="help-text">Zusätzlich solltest du ungefähr 60 Minuten pro Woche für Reflexion und die Umsetzung deiner nächsten Schritte einplanen können.</p>
+            <div class="options">
+              <label class="option"><input type="radio" name="timeCapacity" value="verbindlich" required /><span>Ja, diese Zeit kann und will ich mir verbindlich nehmen.</span></label>
+              <label class="option"><input type="radio" name="timeCapacity" value="flexibel" /><span>Grundsätzlich ja. Bei den konkreten Terminen brauche ich etwas Flexibilität.</span></label>
+              <label class="option"><input type="radio" name="timeCapacity" value="keine-zeit" /><span>Nein, aktuell kann ich diese Zeit wahrscheinlich nicht zuverlässig freischaufeln.</span></label>
+            </div>
+            <p class="field-error" data-error-for="timeCapacity"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <section class="application-step hidden transition-card" data-transition>
+            <p class="eyebrow">Investition</p>
+            <h2>Fast geschafft. Jetzt geht es noch um den praktischen Rahmen.</h2>
+            <p>Eine intensive Begleitung ist nicht nur eine zeitliche, sondern auch eine finanzielle Entscheidung. Deshalb möchte ich lieber offen darüber sprechen, als dich später mit einer Zahl zu überraschen.</p>
+            <p>Bei der nächsten Frage geht es noch nicht um eine Buchung. Es geht darum, welcher Rahmen für dich grundsätzlich realistisch ist.</p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Verstanden</button></div>
+          </section>
+
+          <fieldset class="application-step hidden" data-question="11">
+            <legend>Wenn es eine Begleitung gäbe, die dich deinem Ziel wirklich näherbringt: Welcher Investitionsrahmen wäre für dich grundsätzlich vorstellbar?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="investmentRange" value="bis-500" required /><span><strong>Bis 500 €</strong><small>vergleichbar mit einem intensiven Workshop, einem Selbstlernkurs oder mehreren Büchern und kleineren Angeboten</small></span></label>
+              <label class="option"><input type="radio" name="investmentRange" value="500-1000" /><span><strong>500 bis 1.000 €</strong><small>vergleichbar mit einem hochwertigen begleiteten Online-Programm</small></span></label>
+              <label class="option"><input type="radio" name="investmentRange" value="1000-2000" /><span><strong>1.000 bis 2.000 €</strong><small>vergleichbar mit mehreren Therapie- oder Beratungssitzungen beziehungsweise einem intensiveren Coaching-Programm</small></span></label>
+              <label class="option"><input type="radio" name="investmentRange" value="2000-3500" /><span><strong>2.000 bis 3.500 €</strong><small>vergleichbar mit einer mehrmonatigen intensiven persönlichen Begleitung</small></span></label>
+              <label class="option"><input type="radio" name="investmentRange" value="ueber-3500" /><span><strong>Mehr als 3.500 €</strong><small>wenn die Begleitung wirklich passt, ist für mich vor allem das Ergebnis entscheidend</small></span></label>
+            </div>
+            <p class="field-error" data-error-for="investmentRange"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="12">
+            <p class="step-transition">Alles klar. Dann möchte ich dir jetzt auch den konkreten Rahmen nennen, damit du eine ehrliche Entscheidung treffen kannst.</p>
+            <div class="price-context"><p>Meine persönliche 1:1-Begleitung läuft über drei Monate und kostet <strong>2.997 € inklusive TVA.</strong></p><p>Darin enthalten sind sechs 90-minütige Einzelcoachings, Telegram-Begleitung an drei festen Antworttagen pro Woche und der Zugriff auf BeyondBonus. Den vollständigen Ablauf und alle Details besprechen wir im Kennenlerngespräch.</p></div>
+            <legend>Wenn wir im Gespräch beide merken, dass die Begleitung wirklich zu dir passt: Ist diese Investition für dich grundsätzlich realistisch?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="priceReality" value="moeglich" required /><span>Ja, die Investition ist für mich grundsätzlich möglich.</span></label>
+              <label class="option"><input type="radio" name="priceReality" value="raten" /><span>Ja, mit einer passenden Ratenzahlung wäre sie für mich möglich.</span></label>
+              <label class="option"><input type="radio" name="priceReality" value="partnergespraech" /><span>Ich muss das noch mit meinem Partner besprechen, halte die Investition aber grundsätzlich für realistisch.</span></label>
+              <label class="option"><input type="radio" name="priceReality" value="nicht-moeglich" /><span>Nein, 2.997 € sind für mich aktuell nicht möglich.</span></label>
+            </div>
+            <p class="field-error" data-error-for="priceReality"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="13">
+            <p class="step-transition">Eine Sache fehlt noch: Wann möchtest du wirklich loslegen?</p>
+            <legend>Wann wünschst du dir den Start deiner Begleitung?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="desiredStart" value="mitte-september-2026" required /><span>Ab Mitte September 2026</span></label>
+              <label class="option"><input type="radio" name="desiredStart" value="oktober-2026" /><span>Im Oktober 2026</span></label>
+              <label class="option"><input type="radio" name="desiredStart" value="naechste-3-monate" /><span>Innerhalb der nächsten drei Monate</span></label>
+              <label class="option"><input type="radio" name="desiredStart" value="spaeter" /><span>Später. Ich möchte mich zunächst nur informieren.</span></label>
+            </div>
+            <p class="field-error" data-error-for="desiredStart"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="14">
+            <p class="step-transition">Damit du wirklich die Unterstützung bekommst, die du brauchst, muss ich noch etwas Wichtiges abgrenzen.</p>
+            <legend>Welche Aussage trifft aktuell auf dich zu?</legend>
+            <div class="options">
+              <label class="option"><input type="radio" name="supportFrame" value="coaching-stabil" required /><span>Ich bin psychisch stabil und suche Coaching, um meine Rolle, Grenzen und Entscheidungen aktiv zu verändern.</span></label>
+              <label class="option"><input type="radio" name="supportFrame" value="akute-krise" /><span>Ich befinde mich aktuell in einer akuten psychischen Krise oder einer Situation mit Gewalt beziehungsweise Gefährdung.</span></label>
+              <label class="option"><input type="radio" name="supportFrame" value="andere-fachhilfe" /><span>Ich brauche im Moment vor allem Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe.</span></label>
+            </div>
+            <p class="help-text">Coaching ersetzt keine Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe. Bei akuter Gefahr rufe bitte sofort den örtlichen Notruf.</p>
+            <p class="field-error" data-error-for="supportFrame"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="15">
+            <p class="step-transition">Danke. Eine letzte Frage noch:</p>
+            <legend>Gibt es etwas, das ich vor unserem möglichen Kennenlerngespräch über deine Situation wissen sollte?</legend>
+            <p class="help-text">Diese Antwort ist freiwillig.</p>
+            <label class="field-label" for="notes">Deine Ergänzung</label>
+            <textarea class="text-field" id="notes" name="notes" rows="6" maxlength="2000"></textarea>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
+          </fieldset>
+
+          <fieldset class="application-step hidden" data-question="16">
+            <legend>Datenschutz und Kontakt</legend>
+            <p class="help-text">Damit ich deine Angaben sicher auswerten und dir dein Ergebnis schicken darf, brauche ich deine Zustimmung.</p>
+            <div class="options">
+              <label class="option consent-option"><input type="checkbox" name="privacyConsent" value="yes" required /><span>Ich stimme zu, dass meine Angaben zur Auswertung meiner 1:1-Bewerbung verarbeitet werden. Weitere Informationen stehen in der <a href="/datenschutz" target="_blank" rel="noopener">Datenschutzerklärung</a>.</span></label>
+              <label class="option consent-option"><input type="checkbox" name="contactConsent" value="yes" required /><span>Ich darf per E-Mail zu meinem Ergebnis und einem möglichen Kennenlerngespräch kontaktiert werden.</span></label>
+            </div>
+            <p class="field-error" data-error-for="consent"></p>
+            <p id="submit-error" class="submit-error hidden" role="alert"></p>
+            <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="submit" id="submit-button" class="primary-button">Meine Empfehlung anzeigen</button></div>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .eyebrow { color: var(--color-primary); font-size: .75rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 1rem; }
+    .application-step { animation: application-fade .38s ease-out forwards; }
+    .application-step legend, .application-step h2 { font-family: var(--font-serif); font-size: clamp(1.65rem, 5vw, 2.1rem); line-height: 1.18; margin-bottom: 1.5rem; }
+    .step-transition { color: var(--color-muted-foreground); margin-bottom: .7rem; }
+    .help-text { color: var(--color-muted-foreground); font-size: .9rem; line-height: 1.65; margin: -.5rem 0 1.25rem; }
+    .field-label { display: block; font-size: .9rem; font-weight: 600; margin: 1rem 0 .45rem; }
+    .text-field { width: 100%; padding: .95rem 1rem; border: 1px solid var(--color-border); background: white; outline: none; transition: border-color .2s, box-shadow .2s; }
+    .text-field:focus { border-color: var(--color-primary); box-shadow: 0 0 0 3px hsl(107 57% 21% / .09); }
+    textarea.text-field { resize: vertical; line-height: 1.65; }
+    .options { display: grid; gap: .7rem; }
+    .option { display: flex; align-items: flex-start; gap: .85rem; width: 100%; padding: 1rem 1.1rem; border: 1px solid var(--color-border); background: white; cursor: pointer; transition: border-color .2s, background .2s; }
+    .option:hover, .option:has(input:focus-visible) { border-color: var(--color-primary); background: hsl(107 57% 21% / .025); }
+    .option:has(input:checked) { border-color: var(--color-primary); background: hsl(107 57% 21% / .06); }
+    .option input { flex: 0 0 auto; margin-top: .32rem; accent-color: var(--color-primary); width: 1rem; height: 1rem; }
+    .option span { line-height: 1.55; }
+    .option strong, .option small { display: block; }
+    .option small { color: var(--color-muted-foreground); font-size: .8rem; margin-top: .2rem; }
+    .consent-option a { color: var(--color-primary); text-decoration: underline; text-underline-offset: 3px; }
+    .conditional-field { margin-top: 1rem; }
+    .field-error, .submit-error { color: hsl(0 62% 40%); font-size: .82rem; margin-top: .55rem; min-height: 1.2rem; }
+    .submit-error { padding: .9rem 1rem; border: 1px solid hsl(0 55% 75%); background: hsl(0 70% 97%); }
+    .button-row { display: flex; gap: .75rem; justify-content: space-between; margin-top: 1.75rem; }
+    .primary-button, .secondary-button { display: inline-flex; align-items: center; justify-content: center; min-height: 3.25rem; padding: .8rem 1.4rem; font-weight: 600; cursor: pointer; transition: opacity .2s, background .2s; }
+    .primary-button { background: var(--color-primary); color: var(--color-primary-foreground); }
+    .primary-button:hover { opacity: .9; }
+    .primary-button:disabled { opacity: .55; cursor: wait; }
+    .secondary-button { border: 1px solid var(--color-border); color: var(--color-muted-foreground); background: transparent; }
+    .secondary-button:hover { border-color: var(--color-primary); color: var(--color-primary); }
+    .transition-card { background: var(--color-cream); border: 1px solid var(--color-border); padding: clamp(1.5rem, 5vw, 2.25rem); }
+    .transition-card p:not(.eyebrow) { color: var(--color-muted-foreground); line-height: 1.75; margin-bottom: 1rem; }
+    .price-context { background: var(--color-cream); border-left: 3px solid var(--color-gold); padding: 1.1rem 1.25rem; margin-bottom: 1.75rem; }
+    .price-context p + p { margin-top: .7rem; color: var(--color-muted-foreground); font-size: .9rem; }
+    @keyframes application-fade { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @media (max-width: 520px) { .button-row { flex-direction: column-reverse; } .button-row .primary-button, .button-row .secondary-button { width: 100%; } .application-step > .primary-button { width: 100%; } .option { padding: .9rem; } }
+    @media (prefers-reduced-motion: reduce) { .application-step { animation: none; } }
+  </style>
+
+  <script is:inline>
+    (() => {
+      const form = document.getElementById('application-form');
+      const welcome = document.getElementById('step-welcome');
+      const progressBar = document.getElementById('progress-bar');
+      const steps = Array.from(form.querySelectorAll('.application-step'));
+      const history = [];
+      let currentIndex = -1;
+
+      const getValue = (name) => form.querySelector(`[name="${name}"]:checked`)?.value || '';
+      const getQuestionIndex = (number) => steps.findIndex((step) => step.dataset.question === String(number));
+
+      function showStep(index, pushHistory = true) {
+        if (pushHistory && currentIndex >= 0) history.push(currentIndex);
+        currentIndex = index;
+        steps.forEach((step, stepIndex) => step.classList.toggle('hidden', stepIndex !== index));
+        const current = steps[index];
+        const questionNumber = Number(current?.dataset.question || 0);
+        if (questionNumber) updateProgress(questionNumber);
+        else progressBar.classList.toggle('hidden', false);
+        window.scrollTo({ top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+        current?.querySelector('input, textarea, button')?.focus({ preventScroll: true });
+      }
+
+      function updateProgress(questionNumber) {
+        const pct = Math.round((questionNumber / 16) * 100);
+        document.getElementById('progress-label').textContent = `Frage ${questionNumber} von 16`;
+        document.getElementById('progress-percent').textContent = `${pct}%`;
+        document.getElementById('progress-fill').style.width = `${pct}%`;
+        progressBar.querySelector('[role="progressbar"]').setAttribute('aria-valuenow', String(questionNumber));
+      }
+
+      function showError(name, message) {
+        const error = form.querySelector(`[data-error-for="${name}"]`);
+        if (error) error.textContent = message;
+      }
+
+      function validateCurrent() {
+        const step = steps[currentIndex];
+        const question = Number(step.dataset.question || 0);
+        step.querySelectorAll('.field-error').forEach((error) => error.textContent = '');
+        if (!question) return true;
+
+        const firstInvalid = Array.from(step.querySelectorAll('input, textarea')).find((field) => !field.checkValidity());
+        if (firstInvalid) {
+          const name = firstInvalid.name || firstInvalid.id;
+          showError(name === 'privacyConsent' || name === 'contactConsent' ? 'consent' : name, 'Bitte beantworte diese Frage, bevor du weitergehst.');
+          firstInvalid.focus();
+          return false;
+        }
+
+        if (question === 5 && getValue('mainStrain') === 'sonstiges' && !form.mainStrainOther.value.trim()) {
+          showError('mainStrain', 'Bitte beschreibe kurz, was dich stattdessen belastet.');
+          form.mainStrainOther.focus();
+          return false;
+        }
+        if (question === 7) {
+          const attempts = form.querySelectorAll('[name="attempts"]:checked');
+          if (!attempts.length) { showError('attempts', 'Bitte wähle mindestens eine Antwort.'); return false; }
+          if (Array.from(attempts).some((item) => item.value === 'sonstiges') && !form.attemptsOther.value.trim()) {
+            showError('attempts', 'Bitte beschreibe kurz, was du noch versucht hast.');
+            form.attemptsOther.focus();
+            return false;
+          }
+        }
+        return true;
+      }
+
+      function nextIndex() {
+        const question = Number(steps[currentIndex].dataset.question || 0);
+        // The safety boundary (question 14) is always asked so the safety route
+        // can override financial/readiness routes when needed.
+        if (question === 11 && !['2000-3500', 'ueber-3500'].includes(getValue('investmentRange'))) return getQuestionIndex(14);
+        if (question === 12 && getValue('priceReality') === 'nicht-moeglich') return getQuestionIndex(14);
+        if (question === 14) {
+          const couldBookCall =
+            ['sehr-dringend', 'dringend', 'veraenderungswunsch'].includes(getValue('urgency')) &&
+            ['unsicher-eigener-anteil', 'bereit-eigener-anteil'].includes(getValue('responsibility')) &&
+            ['verbindlich', 'flexibel'].includes(getValue('timeCapacity')) &&
+            ['2000-3500', 'ueber-3500'].includes(getValue('investmentRange')) &&
+            ['moeglich', 'raten', 'partnergespraech'].includes(getValue('priceReality')) &&
+            ['mitte-september-2026', 'oktober-2026', 'naechste-3-monate'].includes(getValue('desiredStart')) &&
+            getValue('supportFrame') === 'coaching-stabil';
+          return getQuestionIndex(couldBookCall ? 15 : 16);
+        }
+        return Math.min(currentIndex + 1, steps.length - 1);
+      }
+
+      document.getElementById('start-button').addEventListener('click', () => {
+        welcome.classList.add('hidden');
+        form.classList.remove('hidden');
+        progressBar.classList.remove('hidden');
+        showStep(0, false);
+        const source = getSource();
+        track('one_to_one_application_started', { source });
+      });
+
+      form.addEventListener('click', (event) => {
+        const next = event.target.closest('.next-button');
+        const back = event.target.closest('.back-button');
+        if (next) {
+          if (!validateCurrent()) return;
+          if (Number(steps[currentIndex].dataset.question) === 1) {
+            const firstname = form.firstname.value.trim();
+            document.getElementById('personal-greeting').textContent = `Schön, dass du hier bist, ${firstname}.`;
+          }
+          showStep(nextIndex());
+        }
+        if (back) {
+          const previous = history.pop();
+          if (previous !== undefined) showStep(previous, false);
+        }
+      });
+
+      form.addEventListener('change', (event) => {
+        const controlId = event.target.dataset?.controls;
+        if (controlId) document.getElementById(controlId)?.classList.toggle('hidden', !event.target.checked);
+      });
+
+      document.getElementById('goal').addEventListener('input', (event) => {
+        document.getElementById('goal-count').textContent = `${event.target.value.length} / 1000`;
+      });
+
+      form.addEventListener('submit', async (event) => {
+        event.preventDefault();
+        if (!validateCurrent()) return;
+        const button = document.getElementById('submit-button');
+        const error = document.getElementById('submit-error');
+        button.disabled = true;
+        button.textContent = 'Wird sicher gesendet …';
+        error.classList.add('hidden');
+
+        const data = new FormData(form);
+        const payload = {
+          firstname: String(data.get('firstname') || ''),
+          email: String(data.get('email') || ''),
+          knownFrom: String(data.get('knownFrom') || ''),
+          roleDuration: String(data.get('roleDuration') || ''),
+          mainStrain: String(data.get('mainStrain') || ''),
+          mainStrainOther: String(data.get('mainStrainOther') || ''),
+          urgency: String(data.get('urgency') || ''),
+          attempts: data.getAll('attempts').map(String),
+          attemptsOther: String(data.get('attemptsOther') || ''),
+          goal: String(data.get('goal') || ''),
+          responsibility: String(data.get('responsibility') || ''),
+          timeCapacity: String(data.get('timeCapacity') || ''),
+          investmentRange: String(data.get('investmentRange') || ''),
+          priceReality: String(data.get('priceReality') || ''),
+          desiredStart: String(data.get('desiredStart') || ''),
+          supportFrame: String(data.get('supportFrame') || ''),
+          notes: String(data.get('notes') || ''),
+          privacyConsent: data.get('privacyConsent') === 'yes',
+          contactConsent: data.get('contactConsent') === 'yes',
+          website: String(data.get('website') || ''),
+          source: getSource(),
+        };
+
+        try {
+          const response = await fetch('/api/1zu1-bewerbung', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+          });
+          const result = await response.json().catch(() => ({}));
+          if (!response.ok || !result.route) throw new Error(result.error || 'Die Bewerbung konnte nicht gesendet werden.');
+          sessionStorage.setItem('one_to_one_firstname', payload.firstname);
+          track('one_to_one_application_result', { route: result.route, source: payload.source });
+          window.location.assign(`/1zu1-bewerbung/ergebnis/${encodeURIComponent(result.route)}/`);
+        } catch (submitError) {
+          error.textContent = submitError.message || 'Die Bewerbung konnte gerade nicht gesendet werden. Bitte versuche es später noch einmal.';
+          error.classList.remove('hidden');
+          button.disabled = false;
+          button.textContent = 'Meine Empfehlung anzeigen';
+          error.focus();
+        }
+      });
+
+      function getSource() {
+        const params = new URLSearchParams(window.location.search);
+        const fromUrl = params.get('source');
+        if (fromUrl && /^[a-zA-Z0-9_.:-]+$/.test(fromUrl)) sessionStorage.setItem('one_to_one_source', fromUrl);
+        return sessionStorage.getItem('one_to_one_source') || 'direct';
+      }
+
+      function track(eventName, properties) {
+        if (typeof window.gtag === 'function') window.gtag('event', eventName, { event_category: 'one_to_one_application', ...properties });
+        if (typeof window.posthog !== 'undefined') window.posthog.capture(eventName, properties);
+      }
+    })();
+  </script>
+</Layout>
