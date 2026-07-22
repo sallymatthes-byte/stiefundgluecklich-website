@@ -47,7 +47,7 @@ export const prerender = true;
           <fieldset class="application-step hidden" data-question="2">
             <p class="step-transition" id="personal-greeting">Schön, dass du hier bist.</p>
             <legend>Unter welcher E-Mail-Adresse darf ich dir deine Empfehlung und, falls es passt, den nächsten Schritt schicken?</legend>
-            <p class="help-text">Bitte nutze möglichst die Adresse, über die du auch meine Newsletter oder dein Break-the-Cycle-Ergebnis erhältst.</p>
+            <p class="help-text">Bitte nutze eine E-Mail-Adresse, unter der ich dich zuverlässig erreichen kann.</p>
             <label class="field-label" for="email">E-Mail-Adresse</label>
             <input class="text-field" id="email" name="email" type="email" maxlength="254" autocomplete="email" required />
             <p class="field-error" data-error-for="email"></p>
@@ -60,7 +60,7 @@ export const prerender = true;
             <div class="options">
               <label class="option"><input type="radio" name="knownFrom" value="instagram" required /><span>Instagram</span></label>
               <label class="option"><input type="radio" name="knownFrom" value="podcast" /><span>Podcast „Bonusgeflüster“</span></label>
-              <label class="option"><input type="radio" name="knownFrom" value="break-the-cycle" /><span>Break the Cycle</span></label>
+              <label class="option"><input type="radio" name="knownFrom" value="break-the-cycle" /><span>Über meinen kostenlosen Selbsttest „Break the Cycle“</span></label>
               <label class="option"><input type="radio" name="knownFrom" value="newsletter" /><span>Newsletter</span></label>
               <label class="option"><input type="radio" name="knownFrom" value="empfehlung" /><span>Empfehlung</span></label>
               <label class="option"><input type="radio" name="knownFrom" value="google-blog" /><span>Google oder Blog</span></label>
@@ -127,8 +127,8 @@ export const prerender = true;
             <div class="options">
               <label class="option"><input type="checkbox" name="attempts" value="partnergespraech" /><span>Mit meinem Partner gesprochen, bisher ohne nachhaltige Veränderung</span></label>
               <label class="option"><input type="checkbox" name="attempts" value="content-selbstarbeit" /><span>Podcasts gehört, Bücher gelesen oder allein an mir gearbeitet</span></label>
-              <label class="option"><input type="checkbox" name="attempts" value="break-the-cycle" /><span>Break the Cycle gemacht</span></label>
-              <label class="option"><input type="checkbox" name="attempts" value="beyondbonus-kurs" /><span>BeyondBonus oder einen anderen Kurs genutzt</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="break-the-cycle" /><span>Den kostenlosen Selbsttest „Break the Cycle“ ausgefüllt</span></label>
+              <label class="option"><input type="checkbox" name="attempts" value="beyondbonus-kurs" /><span>BeyondBonus, mein Onlineprogramm für Bonusmamas, oder einen anderen Kurs genutzt</span></label>
               <label class="option"><input type="checkbox" name="attempts" value="therapie" /><span>Paartherapie oder Einzeltherapie gemacht</span></label>
               <label class="option"><input type="checkbox" name="attempts" value="coaching-beratung" /><span>Coaching oder Beratung bei jemand anderem genutzt</span></label>
               <label class="option"><input type="checkbox" name="attempts" value="noch-nichts" /><span>Noch nichts. Ich stehe ganz am Anfang.</span></label>
@@ -147,7 +147,7 @@ export const prerender = true;
           </section>
 
           <fieldset class="application-step hidden" data-question="8">
-            <legend>Stell dir vor, unsere drei Monate Zusammenarbeit waren erfolgreich: Was wäre danach in deinem Alltag konkret anders?</legend>
+            <legend>Stell dir vor, die Begleitung war erfolgreich: Was wäre danach in deinem Alltag konkret anders?</legend>
             <p class="help-text">Denk nicht nur daran, was dein Partner, die Ex oder die Kinder anders machen sollen. Was möchtest du selbst klarer sehen, entscheiden oder verändern können?</p>
             <label class="field-label" for="goal">Deine Antwort, mindestens 150 Zeichen</label>
             <textarea class="text-field" id="goal" name="goal" rows="7" minlength="150" maxlength="1000" required></textarea>
@@ -175,7 +175,7 @@ export const prerender = true;
 
           <fieldset class="application-step hidden" data-question="10">
             <p class="step-transition">Veränderung braucht nicht dein ganzes Leben. Aber sie braucht einen festen Platz darin.</p>
-            <legend>Kannst du dir in den kommenden drei Monaten alle zwei Wochen 90 Minuten nur für dich und unsere Zusammenarbeit freischaufeln?</legend>
+            <legend>Kannst du dir während der Begleitung alle zwei Wochen 90 Minuten nur für dich und unsere Zusammenarbeit freischaufeln?</legend>
             <p class="help-text">Zusätzlich solltest du ungefähr 60 Minuten pro Woche für Reflexion und die Umsetzung deiner nächsten Schritte einplanen können.</p>
             <div class="options">
               <label class="option"><input type="radio" name="timeCapacity" value="verbindlich" required /><span>Ja, diese Zeit kann und will ich mir verbindlich nehmen.</span></label>
@@ -208,9 +208,9 @@ export const prerender = true;
           </fieldset>
 
           <fieldset class="application-step hidden" data-question="12">
+            <legend>Wenn wir im Gespräch beide merken, dass die Begleitung wirklich zu dir passt: Ist eine Investition von 2.997 € für dich grundsätzlich realistisch?</legend>
             <p class="step-transition">Alles klar. Dann möchte ich dir jetzt auch den konkreten Rahmen nennen, damit du eine ehrliche Entscheidung treffen kannst.</p>
-            <div class="price-context"><p>Meine persönliche 1:1-Begleitung läuft über drei Monate und kostet <strong>2.997 € inklusive TVA.</strong></p><p>Darin enthalten sind sechs 90-minütige Einzelcoachings, Telegram-Begleitung an drei festen Antworttagen pro Woche und der Zugriff auf BeyondBonus. Den vollständigen Ablauf und alle Details besprechen wir im Kennenlerngespräch.</p></div>
-            <legend>Wenn wir im Gespräch beide merken, dass die Begleitung wirklich zu dir passt: Ist diese Investition für dich grundsätzlich realistisch?</legend>
+            <div class="price-context"><p>Meine persönliche 1:1-Begleitung kostet <strong>2.997 € als Endpreis.</strong> Eine Zahlung in zwei oder drei Raten ist mit einem kleinen Aufschlag möglich.</p><p>Darin enthalten sind sechs 90-minütige Einzelcoachings, Telegram-Begleitung an drei festen Antworttagen pro Woche und der Zugriff auf BeyondBonus. BeyondBonus ist mein umfangreiches Onlineprogramm für Bonusmamas. Es begleitet dich mit Videos, Übungen und konkreten Umsetzungsschritten zusätzlich zwischen unseren Coachings. Den vollständigen Ablauf und alle Details besprechen wir im Kennenlerngespräch.</p></div>
             <div class="options">
               <label class="option"><input type="radio" name="priceReality" value="moeglich" required /><span>Ja, die Investition ist für mich grundsätzlich möglich.</span></label>
               <label class="option"><input type="radio" name="priceReality" value="raten" /><span>Ja, mit einer passenden Ratenzahlung wäre sie für mich möglich.</span></label>
@@ -238,11 +238,11 @@ export const prerender = true;
             <p class="step-transition">Damit du wirklich die Unterstützung bekommst, die du brauchst, muss ich noch etwas Wichtiges abgrenzen.</p>
             <legend>Welche Aussage trifft aktuell auf dich zu?</legend>
             <div class="options">
-              <label class="option"><input type="radio" name="supportFrame" value="coaching-stabil" required /><span>Ich bin psychisch stabil und suche Coaching, um meine Rolle, Grenzen und Entscheidungen aktiv zu verändern.</span></label>
-              <label class="option"><input type="radio" name="supportFrame" value="akute-krise" /><span>Ich befinde mich aktuell in einer akuten psychischen Krise oder einer Situation mit Gewalt beziehungsweise Gefährdung.</span></label>
-              <label class="option"><input type="radio" name="supportFrame" value="andere-fachhilfe" /><span>Ich brauche im Moment vor allem Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe.</span></label>
+              <label class="option"><input type="radio" name="supportFrame" value="coaching-stabil" required /><span>Ich kann meinen Alltag grundsätzlich bewältigen, bin nicht akut gefährdet und suche Coaching, um meine Rolle, Grenzen und Entscheidungen aktiv zu verändern.</span></label>
+              <label class="option"><input type="radio" name="supportFrame" value="akute-krise" /><span>Ich bin aktuell so stark belastet, dass ich meinen Alltag kaum bewältigen kann, mich oder andere gefährdet sehe, Gewalt erlebe oder an Selbstverletzung beziehungsweise Suizid denke.</span></label>
+              <label class="option"><input type="radio" name="supportFrame" value="andere-fachhilfe" /><span>Mein Hauptanliegen braucht im Moment vor allem Psychotherapie, Paartherapie, Rechtsberatung oder professionelle Krisenhilfe und nicht Coaching.</span></label>
             </div>
-            <p class="help-text">Coaching ersetzt keine Psychotherapie, Paartherapie, Rechtsberatung oder akute Krisenhilfe. Bei akuter Gefahr rufe bitte sofort den örtlichen Notruf.</p>
+            <p class="help-text support-help">Coaching ist passend, wenn du deinen Alltag grundsätzlich bewältigen kannst und aktiv an deinen Entscheidungen und deinem Verhalten arbeiten möchtest. Es ersetzt keine Psychotherapie, Paartherapie, Rechtsberatung oder Krisenhilfe. Bei akuter Gefahr rufe bitte sofort den örtlichen Notruf.</p>
             <p class="field-error" data-error-for="supportFrame"></p>
             <div class="button-row"><button type="button" class="secondary-button back-button">Zurück</button><button type="button" class="primary-button next-button">Weiter</button></div>
           </fieldset>
@@ -305,6 +305,7 @@ export const prerender = true;
     .transition-card p:not(.eyebrow) { color: var(--color-muted-foreground); line-height: 1.75; margin-bottom: 1rem; }
     .price-context { background: var(--color-cream); border-left: 3px solid var(--color-gold); padding: 1.1rem 1.25rem; margin-bottom: 1.75rem; }
     .price-context p + p { margin-top: .7rem; color: var(--color-muted-foreground); font-size: .9rem; }
+    .support-help { margin: 1.25rem 0 0; }
     @keyframes application-fade { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     @media (max-width: 520px) { .button-row { flex-direction: column-reverse; } .button-row .primary-button, .button-row .secondary-button { width: 100%; } .application-step > .primary-button { width: 100%; } .option { padding: .9rem; } }
     @media (prefers-reduced-motion: reduce) { .application-step { animation: none; } }
