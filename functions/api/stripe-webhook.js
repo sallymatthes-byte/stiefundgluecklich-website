@@ -3,7 +3,8 @@
 // Env vars needed: STRIPE_WEBHOOK_SECRET, AC_API_URL, AC_API_KEY
 // 1:1 installment schedules additionally need STRIPE_SECRET_KEY and the matching
 // STRIPE_1ZU1_PRICE_2X / STRIPE_1ZU1_PRICE_3X price IDs.
-// Optional for member access: PUBLIC_SUPABASE_URL, SUPABASE_SECRET_KEY or SUPABASE_SERVICE_ROLE_KEY
+// Optional for member access: PUBLIC_SUPABASE_URL, PUBLIC_SUPABASE_PUBLISHABLE_KEY,
+// SUPABASE_SECRET_KEY (database writes), SUPABASE_SERVICE_ROLE_KEY (Auth admin)
 
 const PRODUCT_TAG_MAP = {
   'beyondbonus': '73',    // beyondbonus-gekauft
@@ -297,7 +298,10 @@ async function stripeRequest({ stripeKey, path, method = 'GET', body, idempotenc
 
 async function sendPasswordSetupEmail({ env, email, origin }) {
   const supabaseUrl = env.PUBLIC_SUPABASE_URL;
-  const supabaseKey = env.SUPABASE_SECRET_KEY || env.SUPABASE_SERVICE_ROLE_KEY;
+  const supabaseKey =
+    env.PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
+    env.SUPABASE_SECRET_KEY ||
+    env.SUPABASE_SERVICE_ROLE_KEY;
 
   if (!supabaseUrl || !supabaseKey) {
     return { ok: false, error: 'Supabase admin config missing' };
@@ -371,20 +375,27 @@ async function tagActiveCampaignContact({ AC_URL, AC_KEY, email, tagId, product 
 
 async function provisionSupabaseAccess({ env, email, fullName, accessConfig, sessionId }) {
   const supabaseUrl = env.PUBLIC_SUPABASE_URL;
-  const supabaseKey = env.SUPABASE_SECRET_KEY || env.SUPABASE_SERVICE_ROLE_KEY;
+  const databaseKey = env.SUPABASE_SECRET_KEY || env.SUPABASE_SERVICE_ROLE_KEY;
+  const authAdminKey = env.SUPABASE_SERVICE_ROLE_KEY;
 
-  if (!supabaseUrl || !supabaseKey) {
+  if (!supabaseUrl || !databaseKey || !authAdminKey) {
     console.error('Missing Supabase admin env vars for Stripe provisioning');
     return { ok: false, error: 'Supabase admin config missing' };
   }
 
   try {
-    const profile = await findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fullName });
+    const profile = await findOrCreateSupabaseProfile({
+      supabaseUrl,
+      databaseKey,
+      authAdminKey,
+      email,
+      fullName,
+    });
     const courseEndsAt = addMonthsIso(accessConfig.courseMonths);
 
     const courseGrant = await upsertGrant({
       supabaseUrl,
-      supabaseKey,
+      supabaseKey: databaseKey,
       userId: profile.id,
       productKey: accessConfig.productKey,
       area: 'course',
@@ -396,7 +407,7 @@ async function provisionSupabaseAccess({ env, email, fullName, accessConfig, ses
     if (accessConfig.livecallMonths) {
       livecallGrant = await upsertGrant({
         supabaseUrl,
-        supabaseKey,
+        supabaseKey: databaseKey,
         userId: profile.id,
         productKey: accessConfig.productKey,
         area: 'livecalls',
@@ -413,10 +424,10 @@ async function provisionSupabaseAccess({ env, email, fullName, accessConfig, ses
   }
 }
 
-async function findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fullName }) {
+async function findOrCreateSupabaseProfile({ supabaseUrl, databaseKey, authAdminKey, email, fullName }) {
   const profile = await supabaseFetch({
     supabaseUrl,
-    supabaseKey,
+    supabaseKey: databaseKey,
     path: `/rest/v1/profiles?email=eq.${encodeURIComponent(email)}&select=id,email,full_name&limit=1`,
   });
 
@@ -426,7 +437,7 @@ async function findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fu
 
   const users = await supabaseFetch({
     supabaseUrl,
-    supabaseKey,
+    supabaseKey: authAdminKey,
     path: `/auth/v1/admin/users?page=1&per_page=1000`,
   });
   const existingUser = users?.users?.find((user) => user.email?.toLowerCase() === email.toLowerCase());
@@ -434,7 +445,7 @@ async function findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fu
   if (existingUser?.id) {
     await supabaseFetch({
       supabaseUrl,
-      supabaseKey,
+      supabaseKey: databaseKey,
       path: '/rest/v1/profiles',
       method: 'POST',
       prefer: 'resolution=merge-duplicates',
@@ -445,7 +456,7 @@ async function findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fu
 
   const created = await supabaseFetch({
     supabaseUrl,
-    supabaseKey,
+    supabaseKey: authAdminKey,
     path: '/auth/v1/admin/users',
     method: 'POST',
     body: {
@@ -462,7 +473,7 @@ async function findOrCreateSupabaseProfile({ supabaseUrl, supabaseKey, email, fu
 
   await supabaseFetch({
     supabaseUrl,
-    supabaseKey,
+    supabaseKey: databaseKey,
     path: '/rest/v1/profiles',
     method: 'POST',
     prefer: 'resolution=merge-duplicates',
