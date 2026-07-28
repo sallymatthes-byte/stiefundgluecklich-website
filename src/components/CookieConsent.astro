@@ -1,17 +1,16 @@
 ---
-// Minimal cookie consent banner — opt-out model
-// Tracks by default (DSGVO: legitimate interest for analytics)
-// User can opt out → localStorage flag disables all tracking
+// Consent banner for non-essential analytics and marketing tools.
+// No third-party tracking script loads before explicit opt-in.
 ---
 
 <div id="cookie-banner" class="cookie-banner" style="display:none;">
   <div class="cookie-inner">
     <p>
-      Wir nutzen Cookies und Analyse-Tools, um diese Website zu verbessern. 
+      Wir nutzen optionale Analyse- und Marketing-Tools, um diese Website zu verbessern.
       <a href="/datenschutz/">Mehr erfahren</a>
     </p>
     <div class="cookie-buttons">
-      <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Okay</button>
+      <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Alle akzeptieren</button>
       <button id="cookie-reject" class="cookie-btn cookie-btn-reject">Ablehnen</button>
     </div>
   </div>
@@ -27,18 +26,6 @@
     if (banner) banner.style.display = 'flex';
   }
 
-  // If user rejected, update consent mode
-  if (consent === 'rejected') {
-    if (typeof gtag === 'function') {
-      gtag('consent', 'update', {
-        'analytics_storage': 'denied',
-        'ad_storage': 'denied',
-        'ad_user_data': 'denied',
-        'ad_personalization': 'denied'
-      });
-    }
-  }
-
   document.addEventListener('DOMContentLoaded', function() {
     var acceptBtn = document.getElementById('cookie-accept');
     var rejectBtn = document.getElementById('cookie-reject');
@@ -48,28 +35,27 @@
       acceptBtn.addEventListener('click', function() {
         localStorage.setItem('cookie-consent', 'accepted');
         if (banner) banner.style.display = 'none';
+        if (typeof window.stgLoadAnalytics === 'function') {
+          window.stgLoadAnalytics();
+        }
       });
     }
 
     if (rejectBtn) {
       rejectBtn.addEventListener('click', function() {
+        var analyticsWereActive = localStorage.getItem('cookie-consent') === 'accepted';
         localStorage.setItem('cookie-consent', 'rejected');
         if (banner) banner.style.display = 'none';
-        // Update consent mode to denied
-        if (typeof gtag === 'function') {
-          gtag('consent', 'update', {
-            'analytics_storage': 'denied',
-            'ad_storage': 'denied',
-            'ad_user_data': 'denied',
-            'ad_personalization': 'denied'
-          });
-        }
-        // Disable PostHog
-        if (typeof posthog !== 'undefined') {
-          posthog.opt_out_capturing();
-        }
+        if (analyticsWereActive) window.location.reload();
       });
     }
+
+    document.querySelectorAll('[data-cookie-settings]').forEach(function(link) {
+      link.addEventListener('click', function(event) {
+        event.preventDefault();
+        if (banner) banner.style.display = 'flex';
+      });
+    });
   });
 })();
 </script>
