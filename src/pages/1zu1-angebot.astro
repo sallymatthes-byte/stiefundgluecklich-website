@@ -26,8 +26,8 @@ const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
           <ul class="feature-list">
             <li><strong>12 Wochen persönliche Begleitung</strong><span>mit einem gemeinsam vereinbarten Starttermin</span></li>
             <li><strong>6 Einzelcoachings à 90 Minuten</strong><span>im Rhythmus von ungefähr zwei Wochen</span></li>
-            <li><strong>Telegram-Begleitung</strong><span>Sally antwortet montags, mittwochs und freitags in den vereinbarten Zeitfenstern</span></li>
-            <li><strong>Zugriff auf BeyondBonus</strong><span>mindestens während der 12-wöchigen Begleitung; eine längere Zugriffsdauer wird im Vertrag festgehalten</span></li>
+            <li><strong>Telegram-Begleitung</strong><span>Sally antwortet montags, mittwochs und freitags irgendwann zwischen 9 und 17 Uhr</span></li>
+            <li><strong>12 Monate Zugriff auf BeyondBonus</strong><span>der Zugang wird nach bestätigtem Zahlungseingang freigeschaltet</span></li>
             <li><strong>Individuelle nächste Schritte</strong><span>abgestimmt auf deine reale Patchwork-Situation und deinen Alltag</span></li>
           </ul>
         </section>
@@ -75,9 +75,8 @@ const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
           </div>
 
           <div class="legal-box">
-            <label><input id="terms-confirmation" type="checkbox" /><span>Ich habe den beschriebenen Leistungsumfang und das gewählte Zahlungsmodell geprüft und akzeptiere die <a href="/agb/" target="_blank" rel="noopener">AGB</a> sowie die <a href="/datenschutz/" target="_blank" rel="noopener">Datenschutzerklärung</a>.</span></label>
-            <label><input id="coaching-confirmation" type="checkbox" /><span>Ich verstehe, dass Coaching keine Therapie, Rechtsberatung oder akute Krisenhilfe ersetzt.</span></label>
-            <label><input id="invoice-confirmation" type="checkbox" /><span>Ich beauftrage Sally Matthes verbindlich mit der beschriebenen 12-wöchigen Begleitung und bestätige, dass die Rechnung entsprechend dem gewählten Zahlungsmodell per Überweisung fällig wird.</span></label>
+            <label><input id="terms-confirmation" type="checkbox" /><span>Ich beauftrage Sally Matthes verbindlich mit der beschriebenen 12-wöchigen Begleitung, akzeptiere die <a href="/agb/" target="_blank" rel="noopener">AGB</a> und bestätige das gewählte Zahlungsmodell.</span></label>
+            <label><input id="early-start-confirmation" type="checkbox" /><span>Ich verlange ausdrücklich, dass Coaching und BeyondBonus bereits vor Ablauf der 14-tägigen Widerrufsfrist beginnen können. Mir ist bekannt, dass mein Widerrufsrecht für die digitalen Inhalte mit deren Bereitstellung erlischt und bei einem Widerruf des Coachings anteiliger Wertersatz für bereits erbrachte Leistungen anfallen kann.</span></label>
           </div>
 
           <p class="legal-note">Nach der Annahme erhältst du deine Rechnung und die Vertragsunterlagen per E-Mail. BeyondBonus, das Onboarding und die Terminbuchung für deine regulären Coachings werden nach bestätigtem Zahlungseingang freigeschaltet.</p>
@@ -92,8 +91,8 @@ const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
           <div class="faq-list">
             <details><summary>Wann beginnt die Begleitung?</summary><p>Der Starttermin wird nach dem Kennenlerngespräch mit Sally verbindlich festgelegt. Nimm das Angebot nur an, wenn dieser Termin für dich geklärt ist.</p></details>
             <details><summary>Wie werden die sechs Termine geplant?</summary><p>Die Coachings finden ungefähr alle zwei Wochen statt. Nach bestätigtem Zahlungseingang erhältst du das Onboarding und buchst danach den ersten regulären 90-Minuten-Termin.</p></details>
-            <details><summary>Kann ich zwischen den Terminen Fragen stellen?</summary><p>Ja. Die Telegram-Begleitung gehört zum 12-Wochen-Rahmen. Sally antwortet montags, mittwochs und freitags in den gemeinsam vereinbarten Zeitfenstern.</p></details>
-            <details><summary>Wie funktioniert die Ratenzahlung?</summary><p>Die Rechnung enthält den vereinbarten Ratenplan und die jeweiligen Fälligkeiten. Du überweist jede Rate selbst. Es entsteht kein fortlaufendes Monatsabo.</p></details>
+            <details><summary>Kann ich zwischen den Terminen Fragen stellen?</summary><p>Ja. Die Telegram-Begleitung gehört zum 12-Wochen-Rahmen. Sally antwortet montags, mittwochs und freitags irgendwann zwischen 9 und 17 Uhr.</p></details>
+            <details><summary>Wie funktioniert die Ratenzahlung?</summary><p>Die Einmalzahlung ist vor der ersten Sitzung fällig. Bei zwei Raten sind die Zahlungen vor der ersten und vierten Sitzung fällig, bei drei Raten vor der ersten, vierten und sechsten Sitzung. Du überweist jede Rate selbst; es entsteht kein Monatsabo.</p></details>
             <details><summary>Wann bekomme ich Zugang zu BeyondBonus?</summary><p>Sobald dein Zahlungseingang bestätigt ist, erhältst du den Zugang zusammen mit deinem Onboarding. Bei einer vereinbarten Ratenzahlung gilt die erste fristgerechte Rate als Zahlungsstart.</p></details>
           </div>
         </section>
@@ -162,8 +161,8 @@ const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
           error.classList.remove('hidden');
           return;
         }
-        if (!document.getElementById('terms-confirmation').checked || !document.getElementById('coaching-confirmation').checked || !document.getElementById('invoice-confirmation').checked) {
-          error.textContent = 'Bitte bestätige alle drei Punkte, bevor du das Angebot annimmst.';
+        if (!document.getElementById('terms-confirmation').checked || !document.getElementById('early-start-confirmation').checked) {
+          error.textContent = 'Bitte bestätige beide Punkte, bevor du das Angebot annimmst.';
           error.classList.remove('hidden');
           return;
         }
@@ -180,8 +179,7 @@ const offerEnabled = import.meta.env.PUBLIC_1ZU1_OFFER_ENABLED === 'true';
             body: JSON.stringify({
               plan,
               termsAccepted: true,
-              coachingConfirmed: true,
-              invoiceConfirmed: true,
+              earlyStartAccepted: true,
               billing: {
                 firstname: document.getElementById('billing-firstname').value.trim(),
                 lastname: document.getElementById('billing-lastname').value.trim(),
