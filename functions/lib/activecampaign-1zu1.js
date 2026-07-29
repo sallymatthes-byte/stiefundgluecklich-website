@@ -137,7 +137,7 @@ export async function recordOneToOneOfferAcceptance({ env, acceptance }) {
       `Rechnungsanschrift: ${acceptance.billing.street}, ${acceptance.billing.postcode} ${acceptance.billing.city}, ${acceptance.billing.country}`,
       `AGB und verbindliche Beauftragung bestätigt: ${acceptance.termsAccepted ? 'ja' : 'nein'}`,
       `Vorzeitiger Beginn und Widerrufsfolgen bestätigt: ${acceptance.earlyStartAccepted ? 'ja' : 'nein'}`,
-      'Leistungsrahmen: 12 Wochen, 6 Coachings à 90 Minuten, Telegram Mo/Mi/Fr zwischen 9 und 17 Uhr, BeyondBonus-Zugang 12 Monate.',
+      'Leistungsrahmen: 12 Wochen, 6 Coachings (erster Termin ca. 105 Minuten, fünf Folgetermine ca. 90 Minuten), Telegram Mo/Mi/Fr im Antwortfenster zwischen 9 und 17 Uhr, BeyondBonus-Zugang 12 Monate.',
       'Ratenfälligkeit: Einmalzahlung vor Sitzung 1; bei 2 Raten vor Sitzung 1 und 4; bei 3 Raten vor Sitzung 1, 4 und 6.',
     ];
 
