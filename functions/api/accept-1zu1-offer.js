@@ -1,7 +1,7 @@
 import { recordOneToOneOfferAcceptance } from '../lib/activecampaign-1zu1.js';
 
 const ALLOWED_PLANS = new Set(['full', '2x', '3x']);
-const TERMS_VERSION = '2026-07-29-v1';
+const TERMS_VERSION = '2026-07-30-v2';
 
 export async function onRequestPost(context) {
   const { request, env } = context;
