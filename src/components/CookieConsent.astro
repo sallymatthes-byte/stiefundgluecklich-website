@@ -5,23 +5,32 @@
 
 <div id="cookie-banner" class="cookie-banner" style="display:none;">
   <div class="cookie-inner">
-    <p>
-      Wir nutzen optionale Analyse- und Marketing-Tools, um diese Website zu verbessern.
-      <a href="/datenschutz/">Mehr erfahren</a>
-    </p>
+    <div class="cookie-copy">
+      <p>Wir nutzen optionale Analyse-Tools zur Verbesserung der Website und Marketing-Tools zur Erfolgsmessung. Du entscheidest getrennt, was geladen werden darf. <a href="/datenschutz/">Mehr erfahren</a></p>
+      <div class="cookie-options" id="cookie-options" hidden>
+        <label><input type="checkbox" checked disabled /> <span><strong>Notwendig</strong><small>Login, Sicherheit und gewünschte Funktionen</small></span></label>
+        <label><input id="cookie-analytics" type="checkbox" /> <span><strong>Analyse</strong><small>Google Analytics, Microsoft Clarity und PostHog</small></span></label>
+        <label><input id="cookie-marketing" type="checkbox" /> <span><strong>Marketing</strong><small>Meta-Pixel zur Erfolgsmessung</small></span></label>
+      </div>
+    </div>
     <div class="cookie-buttons">
       <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Alle akzeptieren</button>
-      <button id="cookie-reject" class="cookie-btn cookie-btn-reject">Ablehnen</button>
+      <button id="cookie-save" class="cookie-btn cookie-btn-save" hidden>Auswahl speichern</button>
+      <button id="cookie-settings" class="cookie-btn cookie-btn-settings">Auswählen</button>
+      <button id="cookie-reject" class="cookie-btn cookie-btn-reject">Nur notwendige</button>
     </div>
   </div>
 </div>
 
 <script is:inline>
 (function() {
-  var consent = localStorage.getItem('cookie-consent');
+  var consentVersion = '2026-08-02-v1';
+  var storageKey = 'stg-consent-v2';
+  var consent = null;
+  try { consent = JSON.parse(localStorage.getItem(storageKey)); } catch (_error) {}
   
   // Show banner only if no choice made yet
-  if (consent === null) {
+  if (!consent || consent.version !== consentVersion) {
     var banner = document.getElementById('cookie-banner');
     if (banner) banner.style.display = 'flex';
   }
@@ -29,31 +38,67 @@
   document.addEventListener('DOMContentLoaded', function() {
     var acceptBtn = document.getElementById('cookie-accept');
     var rejectBtn = document.getElementById('cookie-reject');
+    var saveBtn = document.getElementById('cookie-save');
+    var settingsBtn = document.getElementById('cookie-settings');
+    var options = document.getElementById('cookie-options');
+    var analytics = document.getElementById('cookie-analytics');
+    var marketing = document.getElementById('cookie-marketing');
     var banner = document.getElementById('cookie-banner');
+
+    function currentConsent() {
+      try { return JSON.parse(localStorage.getItem(storageKey)); } catch (_error) { return null; }
+    }
+
+    function saveConsent(analyticsAllowed, marketingAllowed) {
+      localStorage.setItem(storageKey, JSON.stringify({
+        version: consentVersion,
+        decidedAt: new Date().toISOString(),
+        necessary: true,
+        analytics: Boolean(analyticsAllowed),
+        marketing: Boolean(marketingAllowed)
+      }));
+      localStorage.removeItem('cookie-consent');
+      if (banner) banner.style.display = 'none';
+      if (typeof window.stgLoadAnalytics === 'function') window.stgLoadAnalytics();
+    }
+
+    function showOptions() {
+      var saved = currentConsent();
+      if (analytics) analytics.checked = Boolean(saved && saved.analytics);
+      if (marketing) marketing.checked = Boolean(saved && saved.marketing);
+      if (options) options.hidden = false;
+      if (saveBtn) saveBtn.hidden = false;
+      if (settingsBtn) settingsBtn.hidden = true;
+    }
 
     if (acceptBtn) {
       acceptBtn.addEventListener('click', function() {
-        localStorage.setItem('cookie-consent', 'accepted');
-        if (banner) banner.style.display = 'none';
-        if (typeof window.stgLoadAnalytics === 'function') {
-          window.stgLoadAnalytics();
-        }
+        saveConsent(true, true);
       });
     }
 
     if (rejectBtn) {
       rejectBtn.addEventListener('click', function() {
-        var analyticsWereActive = localStorage.getItem('cookie-consent') === 'accepted';
-        localStorage.setItem('cookie-consent', 'rejected');
-        if (banner) banner.style.display = 'none';
-        if (analyticsWereActive) window.location.reload();
+        var previous = currentConsent();
+        saveConsent(false, false);
+        if (previous && (previous.analytics || previous.marketing)) window.location.reload();
       });
     }
+
+    settingsBtn?.addEventListener('click', showOptions);
+    saveBtn?.addEventListener('click', function() {
+      var previous = currentConsent();
+      var nextAnalytics = Boolean(analytics && analytics.checked);
+      var nextMarketing = Boolean(marketing && marketing.checked);
+      saveConsent(nextAnalytics, nextMarketing);
+      if (previous && ((previous.analytics && !nextAnalytics) || (previous.marketing && !nextMarketing))) window.location.reload();
+    });
 
     document.querySelectorAll('[data-cookie-settings]').forEach(function(link) {
       link.addEventListener('click', function(event) {
         event.preventDefault();
         if (banner) banner.style.display = 'flex';
+        showOptions();
       });
     });
   });
@@ -92,6 +137,13 @@
     margin: 0;
     flex: 1;
   }
+  .cookie-copy { flex: 1; }
+  .cookie-options { margin-top: .8rem; display: grid; gap: .55rem; }
+  .cookie-options[hidden] { display: none; }
+  .cookie-options label { display: flex; align-items: flex-start; gap: .55rem; cursor: pointer; }
+  .cookie-options input { margin-top: .2rem; accent-color: hsl(107, 57%, 21%); }
+  .cookie-options span { display: grid; gap: .05rem; }
+  .cookie-options small { color: hsl(0, 0%, 70%); font-size: .75rem; }
   .cookie-inner a {
     color: hsl(42, 62%, 58%);
     text-decoration: underline;
@@ -118,6 +170,8 @@
     background: hsl(107, 57%, 21%);
     color: white;
   }
+  .cookie-btn-save { background: hsl(107, 57%, 21%); color: white; }
+  .cookie-btn-settings { background: hsl(42, 62%, 58%); color: hsl(0, 0%, 12%); }
   .cookie-btn-reject {
     background: transparent;
     color: hsl(0, 0%, 70%);
@@ -130,7 +184,10 @@
     }
     .cookie-buttons {
       width: 100%;
-      justify-content: center;
+      flex-direction: column;
+    }
+    .cookie-buttons .cookie-btn {
+      width: 100%;
     }
   }
 </style>
