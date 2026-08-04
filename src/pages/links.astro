@@ -24,36 +24,36 @@ export const prerender = true;
 
       <div class="text-center mb-8">
         <h2 class="font-serif text-[1.6rem] md:text-[2.1rem] leading-[1.32] text-foreground mb-5">
-          Du gibst dein Bestes — und trotzdem hängt ihr immer wieder an derselben Stelle fest?
+          Du willst in deiner Patchworkfamilie nicht länger nur funktionieren?
         </h2>
         <p class="text-base text-muted-foreground leading-relaxed">
-          Hier findest du heraus, welches unsichtbare Muster eure Patchwork-Beziehung gerade blockiert — und was dein nächster Schritt ist.
+          Meine persönliche 1:1-Begleitung ist zurück. Finde mit der Bewerbung direkt heraus, ob sie gerade zu dir passt.
         </p>
       </div>
 
       <div class="mb-8">
-        <a href="/bonusmama-check" 
-          id="links-main-cta"
+        <a href="/1zu1-bewerbung"
           class="block w-full bg-primary hover:bg-primary/90 text-primary-foreground text-center px-6 py-4 rounded-full font-semibold transition-colors text-base">
-          Break the Cycle starten
+          Für die 1:1-Begleitung bewerben
         </a>
         <p class="text-xs text-muted-foreground text-center mt-3">
-          Kostenlos · persönliche Auswertung direkt auf der Seite
+          Unverbindlich · dauert etwa 5 Minuten
         </p>
       </div>
 
       <div class="border-t border-primary/20 pt-8 text-center">
         <h3 class="font-serif text-xl text-foreground mb-3">
-          Du willst nicht länger allein versuchen, alles zusammenzuhalten?
+          Du möchtest erst einmal kostenlos starten?
         </h3>
         <p class="text-sm text-muted-foreground leading-relaxed mb-5">
-          Bewirb dich für meine persönliche 1:1-Begleitung und finde direkt heraus, ob sie gerade zu dir passt.
+          Break the Cycle zeigt dir, welches unsichtbare Muster eure Patchwork-Beziehung gerade blockiert.
         </p>
         <a
-          href="/1zu1-bewerbung"
+          href="/bonusmama-check"
+          id="links-check-cta"
           class="block w-full border border-primary text-primary hover:bg-primary/5 text-center px-6 py-4 rounded-full font-semibold transition-colors text-base"
         >
-          Für die 1:1-Begleitung bewerben
+          Break the Cycle starten
         </a>
       </div>
 
@@ -65,7 +65,7 @@ export const prerender = true;
           href="https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm"
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-flex w-11 h-11 items-center justify-center rounded-full bg-[#1DB954] text-white hover:opacity-90 transition-opacity"
+          class="inline-flex w-11 h-11 items-center justify-center rounded-full border border-primary/40 text-primary hover:bg-primary/5 transition-colors"
           aria-label="Bonusgeflüster auf Spotify hören"
           title="Bonusgeflüster auf Spotify hören"
         >
@@ -81,9 +81,9 @@ export const prerender = true;
 <script>
   const params = new URLSearchParams(window.location.search);
   const source = params.get('source');
-  const mainCta = document.getElementById('links-main-cta');
+  const checkCta = document.getElementById('links-check-cta');
 
-  if (source && mainCta) {
-    mainCta.setAttribute('href', `/bonusmama-check?source=${encodeURIComponent(source)}`);
+  if (source && checkCta) {
+    checkCta.setAttribute('href', `/bonusmama-check?source=${encodeURIComponent(source)}`);
   }
 </script>
