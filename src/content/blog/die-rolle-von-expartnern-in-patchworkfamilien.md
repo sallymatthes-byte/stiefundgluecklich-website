@@ -18,7 +18,7 @@ buzzsproutId: 18809805
 
 Wir alle kennen es: es gibt in Patchworkfamilien nicht nur uns und unseren Partner und die Kinder. Es gibt auch immer noch einen Elternteil (egal ob tot oder lebendig), der ein Teil dieser Konstellation ist und eine Rolle spielt. Ob uns das nun gefällt oder nicht.
 
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und in jeder einzelnen spielt der Ex-Partner eine Rolle, ob sichtbar oder unsichtbar. Die Forschung von Bray und Kelly zeigt, dass die Qualität der Beziehung zum Ex-Partner einer der stärksten Prädiktoren für den Erfolg einer Patchworkfamilie ist.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) — und in jeder einzelnen spielt der Ex-Partner eine Rolle, ob sichtbar oder unsichtbar. Die Forschung von Bray und Kelly zeigt, dass die Qualität der Beziehung zum Ex-Partner einer der stärksten Prädiktoren für den Erfolg einer Patchworkfamilie ist.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Der Ex-Partner ist das Thema, bei dem ich in Coachings den meisten Schmerz sehe — und gleichzeitig das größte Wachstumspotenzial. Wenn du lernst, den Ex als Teil des Systems zu akzeptieren statt gegen ihn zu kämpfen, verändert sich alles."*
 

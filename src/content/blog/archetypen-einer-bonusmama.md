@@ -18,7 +18,7 @@ buzzsproutId: 18809796
 
 Kennst du das? Du scrollst durch Instagram, siehst andere [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/)s, die scheinbar alles im Griff haben — und fragst dich, warum du dich so anders fühlst. Vielleicht ziehst du dich zurück, vielleicht kämpfst du an jeder Front, oder vielleicht bist du einfach nur müde. Keine [Bonusmama](/blog/stiefmutter/) ist wie die andere. Und genau deshalb gibt es nicht den einen Weg durch den Patchwork-Alltag.
 
-Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, [Herausforderungen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
+Aus meiner Arbeit mit hunderten Bonusmamas haben sich fünf Archetypen herauskristallisiert. Jeder Typ hat seine eigenen Stärken, [Herausforderungen](/blog/patchworkfamilie/) und blinden Flecken. Und die meisten von uns tragen Anteile von mehreren Typen in sich — je nach Situation, Phase und Tagesverfassung.
 
 Laut einer Studie von Dr. Patricia Papernow brauchen Patchworkfamilien im Durchschnitt **4–7 Jahre**, bis sich stabile Rollenbilder herausbilden (Papernow, 2013). Und laut Statistischem Bundesamt (2023) leben in Deutschland rund **14 % aller Familien** in einer Patchwork-Konstellation — jede davon mit ihrer eigenen Dynamik. Die Frage „Welcher Typ bin ich?" ist also keine Spielerei, sondern der erste Schritt zu bewusstem Handeln.
 

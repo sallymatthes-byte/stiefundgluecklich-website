@@ -104,7 +104,7 @@ Jede Phase kommt in Wellen. Und jede Welle geht auch wieder.
 
 ## Es gibt keine Blaupause — und das ist okay
 
-Jede Pubertät ist anders. Jedes Kind ist anders. Und jede [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) ist sowieso anders. Es gibt nicht den einen Weg. Bei Kind A funktioniert A, bei Kind B vielleicht B.
+Jede Pubertät ist anders. Jedes Kind ist anders. Und jede [Patchworkfamilie](/blog/patchworkfamilie/) ist sowieso anders. Es gibt nicht den einen Weg. Bei Kind A funktioniert A, bei Kind B vielleicht B.
 
 Was zählt: Du bist da. Du hast es bis hierher durchgehalten. Du suchst nach Antworten — das zeigt schon, dass du es ernst nimmst. Das ist mehr, als viele tun.
 
@@ -114,7 +114,7 @@ Was zählt: Du bist da. Du hast es bis hierher durchgehalten. Du suchst nach Ant
 
 ## Zusammenfassung
 
-Pubertät in der [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) ist herausfordernd — aber als Bonusmama bist du nicht zwingend im Nachteil. Dein Bonus: Du trägst keine jahrelange Konfliktgeschichte mit. Du kannst eine andere, neutralere Beziehung aufbauen. Das Wichtigste laut Pubertätsexpertin Kira Liebmann: Beziehung vor Erziehung. Verstehe die Biologie — dein Teenager hat kein Defizit an Respekt, sondern buchstäblich kein Gehirn-Tool für rationale Entscheidungen. Bleib der Anker. Investiere in Verbindung, auch wenn es gerade nichts zurückkommt. Und gib dir selbst die gleiche Geduld, die du dem Teenager entgegenbringst.
+Pubertät in der [Patchworkfamilie](/blog/patchworkfamilie/) ist herausfordernd — aber als Bonusmama bist du nicht zwingend im Nachteil. Dein Bonus: Du trägst keine jahrelange Konfliktgeschichte mit. Du kannst eine andere, neutralere Beziehung aufbauen. Das Wichtigste laut Pubertätsexpertin Kira Liebmann: Beziehung vor Erziehung. Verstehe die Biologie — dein Teenager hat kein Defizit an Respekt, sondern buchstäblich kein Gehirn-Tool für rationale Entscheidungen. Bleib der Anker. Investiere in Verbindung, auch wenn es gerade nichts zurückkommt. Und gib dir selbst die gleiche Geduld, die du dem Teenager entgegenbringst.
 
 ---
 

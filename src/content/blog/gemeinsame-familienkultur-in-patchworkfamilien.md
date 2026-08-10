@@ -21,7 +21,7 @@ Dies zeigt, wie unterschiedlich unsere Familienkulturen sind. Und im Gegensatz z
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Die Familienkultur ist der Bereich, in dem Bonusmamas am meisten Gestaltungsspielraum haben — und den sie am häufigsten unterschätzen. Wenn ihr bewusst eure eigenen Rituale erschafft, entsteht das Gefühl von ‚wir' statt ‚die und ich'."*
 
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und jede einzelne muss ihre eigene Kultur erfinden. Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) — und jede einzelne muss ihre eigene Kultur erfinden. Dies ist eine der 5 Herausforderungen in Patchworkfamilien, die die amerikanische Psychologin Patricia Papernow erforscht hat. Und heute schauen wir uns dies mal genauer an.
 
 ---
 

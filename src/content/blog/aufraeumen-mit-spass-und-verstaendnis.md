@@ -48,7 +48,7 @@ Hier sind einige Punkte, die dir als Bonusmama helfen können:
 - **Sei flexibel und passe deine Vorstellungen an:** Vielleicht hast du selbst andere Ordnungsstandards als die Bonusfamilie. Sei bereit, Kompromisse einzugehen und deine Erwartungen anzupassen.
 - **Bleib konsequent und geduldig:** Veränderungen brauchen Zeit und Wiederholung. Bleib freundlich, aber bestimmt und feiere kleine Fortschritte.
 
-Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie-herausforderungen-und-chancen/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
+Vergiss nicht: Auch du als Bonusmama darfst [Fehler](/blog/patchworkfamilie/) machen und brauchst Zeit, um in deine Rolle hineinzuwachsen. Sei geduldig mit dir selbst und hole dir Unterstützung, wenn du sie brauchst. Mit Liebe, Verständnis und klaren Regeln findest du deinen Weg als Bonusmama.
 
 > „Wer die Welt in Ordnung bringen will, geht zuerst durchs eigene Haus." – Aus China
 
@@ -90,7 +90,7 @@ Schulkinder (5-10 Jahre):
 - **Seid geduldig und konsequent:** Veränderungen brauchen Zeit und Wiederholung. Bleibt geduldig, auch wenn nicht immer alles perfekt läuft. Seid konsequent in euren Erwartungen, aber geht auch mit Humor und Gelassenheit an die Sache heran.
 - **Passt die Regeln an:** Mit der Zeit und den sich ändernden Bedürfnissen der Kinder müssen auch die Aufräum-Regeln angepasst werden. Bleibt flexibel und offen für Veränderungen. Sprecht regelmäßig darüber, was gut funktioniert und was verbessert werden kann.
 
-Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als [Familie zusammenzuwachsen](/blog/patchworkfamilie-herausforderungen-und-chancen/) und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
+Mit diesen Tipps schaffst du eine solide Grundlage für eine aufgeräumte [Patchwork-Wohnung.](/blog/gemeinsame-wohnung-patchworkfamilie/) Denk daran: *Es geht nicht um Perfektion, sondern darum, als [Familie zusammenzuwachsen](/blog/patchworkfamilie/) und ein gemütliches Zuhause für alle zu schaffen.* Mit Geduld, Humor und klaren Regeln wird auch das Aufräumen zu einem positiven Teil eures Familienlebens.
 
 Wenn du dich als [Stiefmutter](/blog/stiefmutter/) in deiner Rolle manchmal unsicher fühlst — auch beim Thema Aufräumen — bist du damit nicht allein. Viele Bonusmamas in [Patchworkfamilien](/blog/patchworkfamilie/) fragen sich, wie viel sie einfordern dürfen.
 

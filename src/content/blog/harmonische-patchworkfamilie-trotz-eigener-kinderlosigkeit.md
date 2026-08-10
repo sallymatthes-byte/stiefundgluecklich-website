@@ -23,7 +23,7 @@ Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als Pat
 > **Sally Matthes, Coach für Bonusmamas:** *„Kinderlosigkeit und Bonusmama-Sein schließen sich nicht aus — im Gegenteil. Du bringst eine eigene Perspektive mit, die wertvoll ist. Die Frage ist nicht ‚Warum hast du keine eigenen?', sondern ‚Was gibst du dieser Familie?'"*
 
 Als ich meinen Partner kennenlernte, hätte ich nicht gedacht, dass ich einmal Teil einer Patchworkfamilie sein würde. Meine eigene Kinderlosigkeit war immer ein bewusster Entschluss, den ich gefällt hatte.
-Doch das Leben hat seine eigenen Pläne und so kam es, dass ich plötzlich Bonuskinder hatte. Anfangs war ich [überfordert](/blog/patchworkfamilie-herausforderungen-und-chancen/) und wusste nicht, wie ich mit dieser neuen Situation umgehen sollte. Und auch heute noch taucht in mir oft die Frage auf: „Wie viel darf es mich *kosten*, diesen Traum zu leben, der zu Beginn nicht meiner war?"
+Doch das Leben hat seine eigenen Pläne und so kam es, dass ich plötzlich Bonuskinder hatte. Anfangs war ich [überfordert](/blog/patchworkfamilie/) und wusste nicht, wie ich mit dieser neuen Situation umgehen sollte. Und auch heute noch taucht in mir oft die Frage auf: „Wie viel darf es mich *kosten*, diesen Traum zu leben, der zu Beginn nicht meiner war?"
 
 ---
 

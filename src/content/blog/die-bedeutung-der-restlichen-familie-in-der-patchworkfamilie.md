@@ -16,7 +16,7 @@ imageAlt: "Großeltern und Enkel beim gemeinsamen Spielen in einer Patchworkfami
 
 Wenn sich ein Paar mit Kindern zusammenfindet, gilt es nicht nur die eigenen Rollen als [Stiefmutter](/blog/stiefmutter/) zu hinterfragen, sondern auch die restliche Familie der Patchworkfamilie einzubeziehen. Großeltern, Tanten, Cousinen und andere Familienmitglieder spüren ebenfalls die Erweiterung der eigenen Familie.
 So sagen meine Bonuskinder, dass sie nun 8 Großeltern haben, anstatt der vorherigen 4. Sie haben mehr Personen in ihrem Leben dazugewonnen, als „nur" die [Bonusmama](/blog/stiefmutter-bonusmama-oder-wie-jetzt/).
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und mit jeder neuen Konstellation wächst auch die erweiterte Familie. Die Forschung von Bray und Kelly zeigt, dass Unterstützung durch die erweiterte Familie einer der stärksten Schutzfaktoren für das Gelingen einer Patchworkfamilie ist.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) — und mit jeder neuen Konstellation wächst auch die erweiterte Familie. Die Forschung von Bray und Kelly zeigt, dass Unterstützung durch die erweiterte Familie einer der stärksten Schutzfaktoren für das Gelingen einer Patchworkfamilie ist.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Die restliche Familie wird oft unterschätzt. Dabei können Großeltern, Tanten oder enge Freunde den entscheidenden Unterschied machen — als Brücke, als Puffer, als Zeichen: Du gehörst hierher."*
 

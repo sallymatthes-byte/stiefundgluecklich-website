@@ -29,7 +29,7 @@ An Weihnachten wird von „früher“ erzählt — und „früher“ heißt: vor
 
 Aber der Schluss, den du daraus ziehst, ist falsch. Denn du verwechselst zwei Dinge: **Zugehörigkeit und Gleichheit.**
 
-Du wirst nie dieselbe Geschichte haben wie dein Partner und die Kinder. Ja, das stimmt. Aber Zugehörigkeit heißt nicht, die gleiche Geschichte zu haben. **Zugehörigkeit heißt, eine gemeinsame Zukunft zu gestalten.** Studien zeigen, dass es 4-7 Jahre dauert, bis eine [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) zusammenwächst (Bray & Kelly, 1998). Zugehörigkeit wird nicht bei der Geburt verteilt — sie wird aufgebaut. Jeden Tag, Stück für Stück.
+Du wirst nie dieselbe Geschichte haben wie dein Partner und die Kinder. Ja, das stimmt. Aber Zugehörigkeit heißt nicht, die gleiche Geschichte zu haben. **Zugehörigkeit heißt, eine gemeinsame Zukunft zu gestalten.** Studien zeigen, dass es 4-7 Jahre dauert, bis eine [Patchworkfamilie](/blog/patchworkfamilie/) zusammenwächst (Bray & Kelly, 1998). Zugehörigkeit wird nicht bei der Geburt verteilt — sie wird aufgebaut. Jeden Tag, Stück für Stück.
 
 Denk an Adoptivfamilien. An Wahlfamilien. An Pflegefamilien. An Stiefeltern, die die prägendsten Bezugspersonen im Leben eines Kindes wurden — weil sie da waren, jeden Tag. Nicht glamourös. Leise, stetig und real.
 
@@ -115,7 +115,7 @@ Zugehörigkeit entsteht nicht durch Anpassung, sondern durch Sichtbarkeit. Bring
 
 ## Zusammenfassung
 
-Das Gefühl, nicht dazuzugehören, ist in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) fast universell — aber es ist kein Beweis dafür, dass du nicht dazugehörst. Es ist ein Signal, das tiefer sitzt als die aktuelle Familiensituation. Zugehörigkeit ist kein Geschenk, das andere dir geben können. Es ist eine Entscheidung, die du jeden Tag neu treffen kannst: Ich bin hier richtig. Ich gestalte diese Familie aktiv mit. Und je mehr du dich zeigst — mit deinen Werten, deinen Grenzen, deiner ganzen Person — desto echter wird das Zugehörigkeitsgefühl, das entsteht.
+Das Gefühl, nicht dazuzugehören, ist in [Patchworkfamilien](/blog/patchworkfamilie/) fast universell — aber es ist kein Beweis dafür, dass du nicht dazugehörst. Es ist ein Signal, das tiefer sitzt als die aktuelle Familiensituation. Zugehörigkeit ist kein Geschenk, das andere dir geben können. Es ist eine Entscheidung, die du jeden Tag neu treffen kannst: Ich bin hier richtig. Ich gestalte diese Familie aktiv mit. Und je mehr du dich zeigst — mit deinen Werten, deinen Grenzen, deiner ganzen Person — desto echter wird das Zugehörigkeitsgefühl, das entsteht.
 
 ---
 

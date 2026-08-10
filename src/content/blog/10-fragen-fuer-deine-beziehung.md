@@ -81,7 +81,7 @@ Der erste Schritt ist eine ehrliche Bestandsaufnahme. Diese drei Fragen helfen e
 Der zweite Schritt fokussiert sich darauf, neue Perspektiven zu entwickeln und positive Veränderungen anzustoßen:
 
 - **Frage 4: Was sind deine schönsten Kindheitserinnerungen, die du mit deinen Kindern teilen möchtest?** Diese Frage lenkt den Blick auf die positiven Erfahrungen und Werte, die an die nächste Generation weitergegeben werden können.
-- **Frage 5: Welche Rituale können wir etablieren, um unsere Verbindung zu stärken?** Gemeinsame Rituale fördern das Zusammengehörigkeitsgefühl und schaffen eine stabile Basis für die [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/).
+- **Frage 5: Welche Rituale können wir etablieren, um unsere Verbindung zu stärken?** Gemeinsame Rituale fördern das Zusammengehörigkeitsgefühl und schaffen eine stabile Basis für die [Patchworkfamilie](/blog/patchworkfamilie/).
 - **Frage 6: Wie können wir uns gegenseitig Freiräume schaffen?** Hier geht es darum, die Bedürfnisse aller Familienmitglieder zu berücksichtigen und Wege zu finden, wie jeder ausreichend Zeit für sich selbst hat.
 
 ### Kommunikation: Fragen für ein tieferes Verständnis füreinander

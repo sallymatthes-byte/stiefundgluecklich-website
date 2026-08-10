@@ -18,7 +18,7 @@ buzzsproutId: 18809791
 
 Kennst du das auch? Ein falsches Wort, ein missverstandener Satz – und schon entfacht ein Streit. Plötzlich wirfst du deinem Partner vor, nicht genug im Haushalt zu helfen oder dich zu vernachlässigen. Dabei wolltest du eigentlich nur eine harmlose Bemerkung machen, doch irgendwie ist alles aus dem Ruder gelaufen.
 
-Die Forschung von Bray und Kelly bestätigt, dass Kommunikationsprobleme der häufigste Trennungsgrund in [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als Patchworkfamilie — und in jeder einzelnen prallen verschiedene Kommunikationsstile aufeinander.
+Die Forschung von Bray und Kelly bestätigt, dass Kommunikationsprobleme der häufigste Trennungsgrund in [Patchworkfamilien](/blog/patchworkfamilie/) sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als Patchworkfamilie — und in jeder einzelnen prallen verschiedene Kommunikationsstile aufeinander.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Das 4-Ohren-Modell gehört zu den Werkzeugen, die ich in meinen Coachings am häufigsten empfehle. Nicht weil es kompliziert ist — sondern weil es dir in Sekunden zeigt, warum dein Partner gerade komplett anders reagiert als erwartet."*
 
@@ -106,7 +106,7 @@ Natürlich gibt es immer noch Situationen, in denen wir anecken und unterschiedl
 
 ## Zusammenfassung
 
-Das 4-Ohren-Modell von Friedemann Schulz von Thun zeigt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) führen diese unterschiedlichen Ebenen besonders häufig zu Missverständnissen. Der Schlüssel liegt darin, innezuhalten, bewusst auf allen vier Ohren zu hören und Ich-Botschaften zu nutzen. So verwandelst du als [Stiefmutter](/blog/stiefmutter/) Konflikte in echte Gespräche — und stärkst eure Beziehung nachhaltig.
+Das 4-Ohren-Modell von Friedemann Schulz von Thun zeigt, dass jede Nachricht vier Ebenen hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In [Patchworkfamilien](/blog/patchworkfamilie/) führen diese unterschiedlichen Ebenen besonders häufig zu Missverständnissen. Der Schlüssel liegt darin, innezuhalten, bewusst auf allen vier Ohren zu hören und Ich-Botschaften zu nutzen. So verwandelst du als [Stiefmutter](/blog/stiefmutter/) Konflikte in echte Gespräche — und stärkst eure Beziehung nachhaltig.
 
 <!-- FAQ_START
 

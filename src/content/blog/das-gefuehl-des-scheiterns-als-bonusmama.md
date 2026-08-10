@@ -14,11 +14,11 @@ imageAlt: "Nachdenkliche Frau am Fenster, die über ihre Rolle als Bonusmama ref
 **Das Gefühl, als Bonusmama gescheitert zu sein, kennen mehr Frauen, als du vielleicht denkst — besonders wenn eine Trennung im Raum steht.** Scheitern in der Patchworkfamilie ist kein persönliches Versagen, sondern oft das Ergebnis einer Konstellation, die von Anfang an zu wenig Unterstützung hatte.
 
 
-Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit ihrer [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) getrennt. Natürlich ist das nicht das Ergebnis, welches wir angestrebt haben, aber es gehört eben auch zum Leben dazu. Manchmal ist es sinnvoller, sich zu trennen, anstatt unglücklich zu bleiben.
+Eine meiner Coachees hatte sich nach langem Ringen von ihrem Partner und somit ihrer [Patchworkfamilie](/blog/patchworkfamilie/) getrennt. Natürlich ist das nicht das Ergebnis, welches wir angestrebt haben, aber es gehört eben auch zum Leben dazu. Manchmal ist es sinnvoller, sich zu trennen, anstatt unglücklich zu bleiben.
 
 Und in den Momenten dieser Trennung kam bei ihr immer wieder der Gedanke auf: „Ich bin gescheitert. Ich habe es nicht geschafft. Ich bin nicht gut genug. Ich habe versagt."
 
-Die Forschung von Bray und Kelly zeigt, dass über 60 % der Zweitehen mit Kindern scheitern — und viele Bonusmamas tragen das Gefühl des persönlichen Versagens mit sich, obwohl die Gründe systemisch sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/), doch die Unterstützungsstrukturen für diese Familienform fehlen fast überall.
+Die Forschung von Bray und Kelly zeigt, dass über 60 % der Zweitehen mit Kindern scheitern — und viele Bonusmamas tragen das Gefühl des persönlichen Versagens mit sich, obwohl die Gründe systemisch sind. Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/), doch die Unterstützungsstrukturen für diese Familienform fehlen fast überall.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Scheitern in der Patchworkfamilie ist fast nie ein individuelles Versagen. Es ist das Ergebnis einer Konstellation, für die es kein Drehbuch gibt. In meinen Coachings arbeite ich mit Frauen, die alles gegeben haben — und trotzdem das Gefühl haben, es war nicht genug. Aber weißt du was? Manchmal ist Gehen kein Scheitern, sondern Selbstschutz."*
 

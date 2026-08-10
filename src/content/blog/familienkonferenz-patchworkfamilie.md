@@ -112,7 +112,7 @@ Manchmal scheitert die Familienkonferenz. Das ist okay. Meistens liegt es an ein
 
 - **Fehlende Regelmäßigkeit.** Einmal gemacht und dann vergessen = wirkungslos.
 - **Ein Elternteil boykottiert.** Wenn dein Partner die Konferenz als überflüssig abtut, fehlt die Basis. Dann ist das Gespräch über die Konferenz das eigentliche Gespräch, das ihr führen müsst.
-- **Zu viel auf einmal.** Die Konferenz ist kein Therapie-Setting. Sie löst Alltagsthemen. Tiefe Konflikte gehören in die Paarberatung oder ins [Coaching](/blog/patchworkfamilie-herausforderungen-und-chancen/).
+- **Zu viel auf einmal.** Die Konferenz ist kein Therapie-Setting. Sie löst Alltagsthemen. Tiefe Konflikte gehören in die Paarberatung oder ins [Coaching](/blog/patchworkfamilie/).
 
 ---
 

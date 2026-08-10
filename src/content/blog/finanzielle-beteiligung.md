@@ -18,7 +18,7 @@ buzzsproutId: 18809763
 
 Als Bonusmama ist man oft mit der Frage konfrontiert, wie man mit den Finanzen in der Patchworkfamilie umgehen soll. Soll man sich zur Hälfte an allen Kosten beteiligen? Wie geht man damit um, wenn das Gefühl des Verzichtens zugunsten der Bonuskinder überhandnimmt? Und wie kann man über dieses heikle Thema mit dem Partner sprechen?
 
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — doch zum Thema Finanzen in Patchworkfamilien gibt es kaum öffentliche Orientierung. Die Forschung von Bray und Kelly zeigt, dass Geldkonflikte zu den drei häufigsten Trennungsgründen in Zweitfamilien gehören.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) — doch zum Thema Finanzen in Patchworkfamilien gibt es kaum öffentliche Orientierung. Die Forschung von Bray und Kelly zeigt, dass Geldkonflikte zu den drei häufigsten Trennungsgründen in Zweitfamilien gehören.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Geld ist in meinen Coachings oft das Thema hinter dem Thema. Es geht selten nur um Euro und Cent — es geht um Fairness, Wertschätzung und die Frage: Wo steht mein Beitrag in dieser Familie?"*
 

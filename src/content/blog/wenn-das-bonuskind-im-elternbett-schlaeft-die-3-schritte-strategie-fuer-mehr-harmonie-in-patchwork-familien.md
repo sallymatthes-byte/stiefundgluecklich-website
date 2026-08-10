@@ -13,7 +13,7 @@ youtubeId: "9ZE0EYdIW7s"
 buzzsproutId: 18809769
 ---
 
-**Wenn das Bonuskind regelmäßig im Elternbett schläft, wird aus einem Kinderbedürfnis schnell ein Beziehungsproblem.** Du fühlst dich verdrängt, dein Partner fühlt sich zerrissen, und das Kind spürt die Spannung. Studien zeigen, dass es 4–7 Jahre dauert, bis eine Patchworkfamilie zusammenwächst (Bray & Kelly, 1998) — und Schlafthemen gehören zu den frühesten Spannungsfeldern. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie-herausforderungen-und-chancen/) (Statistisches Bundesamt, 2024). Hier findest du eine 3-Schritte-Strategie für mehr Harmonie.
+**Wenn das Bonuskind regelmäßig im Elternbett schläft, wird aus einem Kinderbedürfnis schnell ein Beziehungsproblem.** Du fühlst dich verdrängt, dein Partner fühlt sich zerrissen, und das Kind spürt die Spannung. Studien zeigen, dass es 4–7 Jahre dauert, bis eine Patchworkfamilie zusammenwächst (Bray & Kelly, 1998) — und Schlafthemen gehören zu den frühesten Spannungsfeldern. In Deutschland leben rund 1,1 Millionen [Patchworkfamilien](/blog/patchworkfamilie/) (Statistisches Bundesamt, 2024). Hier findest du eine 3-Schritte-Strategie für mehr Harmonie.
 
 
 Kennst du diesen Moment? Es ist spät, du hast dich endlich ins Bett gekuschelt und freust dich auf eine entspannte Nacht mit deinem Partner. Doch plötzlich öffnet sich leise die Tür, und da steht es — ein kleines, schlaftrunkenes **Bonuskind im Elternbett**. In deinem Kopf überschlagen sich sofort die Gedanken: Wie reagiere ich jetzt richtig? Darf ich Grenzen setzen oder bin ich dann die „böse Stiefmutter"? Vielleicht fragst du dich auch, ob du egoistisch bist, wenn du deinen Schlaf und deine Intimität einforderst.

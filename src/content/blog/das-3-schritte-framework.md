@@ -18,7 +18,7 @@ buzzsproutId: 18809799
 
 Kennst du das Gefühl, als Stiefmutter nicht richtig dazuzugehören? Die Herausforderungen einer Patchworkfamilie können einen schnell überfordern und frustrieren. Genau so erging es mir vor einigen Jahren. Ich war mit einem geschiedenen Mann und Vater zweier Mädchen liiert und stolperte völlig unvorbereitet in die Rolle der Stiefmutter. Anfangs war ich motiviert und voller Tatendrang, doch schon bald merkte ich, dass es nicht so einfach war, wie ich es mir vorgestellt hatte.
 
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) - doch kaum jemand bereitet sich auf die spezifischen Herausforderungen vor, die damit kommen. Die Forschung von Bray und Kelly zeigt, dass über 60 % der Zweitehen mit Kindern scheitern - oft nicht am fehlenden Willen, sondern an fehlenden Werkzeugen.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) - doch kaum jemand bereitet sich auf die spezifischen Herausforderungen vor, die damit kommen. Die Forschung von Bray und Kelly zeigt, dass über 60 % der Zweitehen mit Kindern scheitern - oft nicht am fehlenden Willen, sondern an fehlenden Werkzeugen.
 
 **Sprachbarrieren, Vergleiche mit der Ex-Partnerin und fehlende Mitsprache in Entscheidungen führten dazu, dass ich mich immer weiter zurückzog.** Ich fühlte mich [ausgeschlossen](/blog/aussenseiter-patchworkfamilie/) und fragte mich, ob ich jemals einen Platz in dieser Familie finden würde. Der Wunsch nach Harmonie und Zusammenhalt war groß, aber der Weg dorthin schien steinig und unüberwindbar.
 

@@ -32,7 +32,7 @@ Es war nur eine Achterbahn. Aber das Gefühl war real. Und ich weiß, dass du di
 
 Was du erlebst, ist keine Einbildung. Es ist auch kein Zeichen dafür, dass du versagst oder dass dein Partner dich nicht liebt. **Es ist eine strukturelle Realität von Patchworkfamilien** — und die Forschung hat dafür klare Worte.
 
-Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie-herausforderungen-und-chancen/) — und laut der Forschung von Bray und Kelly fühlen sich über 60 % der Bonuselternteile in den ersten Jahren als Außenseiter in der eigenen Familie.
+Laut dem Statistischen Bundesamt lebt jede siebte Familie in Deutschland als [Patchworkfamilie](/blog/patchworkfamilie/) — und laut der Forschung von Bray und Kelly fühlen sich über 60 % der Bonuselternteile in den ersten Jahren als Außenseiter in der eigenen Familie.
 
 > **Sally Matthes, Coach für Bonusmamas:** *„Das Außenseiter-Gefühl ist das Thema Nummer eins in meinen Coachings. Nicht weil die Frauen schwach sind — sondern weil sie in ein System eintreten, das keinen Platz für sie eingeplant hat. Und das ist keine Einbildung. Das ist Struktur."*
 

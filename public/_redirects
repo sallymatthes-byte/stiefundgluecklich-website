@@ -77,8 +77,8 @@
 /muttertag-als-bonusmama /blog/muttertag-als-bonusmama/ 301
 /neue-chancen-fuer-bonuseltern-im-schulalltag/ /blog/neue-chancen-fuer-bonuseltern-im-schulalltag/ 301
 /neue-chancen-fuer-bonuseltern-im-schulalltag /blog/neue-chancen-fuer-bonuseltern-im-schulalltag/ 301
-/patchworkfamilie-herausforderungen-und-chancen/ /blog/patchworkfamilie-herausforderungen-und-chancen/ 301
-/patchworkfamilie-herausforderungen-und-chancen /blog/patchworkfamilie-herausforderungen-und-chancen/ 301
+/patchworkfamilie-herausforderungen-und-chancen/ /blog/patchworkfamilie/ 301
+/patchworkfamilie-herausforderungen-und-chancen /blog/patchworkfamilie/ 301
 /patchworkfamilie/ /blog/patchworkfamilie/ 301
 /patchworkfamilie /blog/patchworkfamilie/ 301
 /patchworkfamilie-und-paarzeit-so-gelingt-die-balance/ /blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/ 301
@@ -146,6 +146,8 @@
 
 
 # Stale internal blog slug redirects from Search Console 404 cleanup
+/blog/patchworkfamilie-herausforderungen-und-chancen/ /blog/patchworkfamilie/ 301
+/blog/patchworkfamilie-herausforderungen-und-chancen /blog/patchworkfamilie/ 301
 /blog/insider-outsider-dynamik-in-patchworkfamilien/ /blog/insider-outsider-dynamik-patchworkfamilien/ 301
 /blog/insider-outsider-dynamik-in-patchworkfamilien /blog/insider-outsider-dynamik-patchworkfamilien/ 301
 /blog/unterhalt-in-patchworkfamilien/ /blog/unterhalt-in-patchworkfamilien-so-sicherst-du-dich-ab/ 301
@@ -200,8 +202,8 @@
 /mini-wife-in-patchworkfamilien-was-bonusmamas /blog/mini-wife-in-patchworkfamilien-was-bonusmamas-tun-koennen/ 301
 /neue-chancen-fuer-bonuseltern-im/ /blog/neue-chancen-fuer-bonuseltern-im-schulalltag/ 301
 /neue-chancen-fuer-bonuseltern-im /blog/neue-chancen-fuer-bonuseltern-im-schulalltag/ 301
-/patchworkfamilie-herausforderungen-und/ /blog/patchworkfamilie-herausforderungen-und-chancen/ 301
-/patchworkfamilie-herausforderungen-und /blog/patchworkfamilie-herausforderungen-und-chancen/ 301
+/patchworkfamilie-herausforderungen-und/ /blog/patchworkfamilie/ 301
+/patchworkfamilie-herausforderungen-und /blog/patchworkfamilie/ 301
 /patchworkfamilie-und-paarzeit-so-gelingt-die/ /blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/ 301
 /patchworkfamilie-und-paarzeit-so-gelingt-die /blog/patchworkfamilie-und-paarzeit-so-gelingt-die-balance/ 301
 /plotzlich-bonusmama-wie-ich-meine-rolle/ /blog/plotzlich-bonusmama-wie-ich-meine-rolle-in-unserer-patchworkfamilie-fand/ 301
