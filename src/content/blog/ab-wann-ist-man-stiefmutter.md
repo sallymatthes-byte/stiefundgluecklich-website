@@ -6,9 +6,9 @@ date: 2024-11-21
 heroImage: "/images/blog/stiefmutter-rolle.jpg"
 image: "/images/blog/stiefmutter-rolle.jpg"
 imageAlt: "Frau sitzt allein auf einer Bank im herbstlichen Wald - nachdenklich, warm"
-metaTitle: "Was ist eine Stiefmutter? Definition & Bedeutung"
-metaDescription: "Was bedeutet Stiefmutter und ab wann bist du eine? Klare Definition, ehrliche Einordnung und was die Rolle in Patchwork wirklich heißt."
-updated: 2026-07-13
+metaTitle: "Ab wann ist man Stiefmutter? Die klare Antwort"
+metaDescription: "Ab wann giltst du als Stiefmutter? Erfahre, wann diese Rolle beginnt, was sie bedeutet und warum es dafür keinen festen Stichtag gibt."
+updated: 2026-08-10
 podcastEpisode: "https://open.spotify.com/episode/2o4mE484XlitaF86Lo73e8"
 podcastTitle: "Ab wann bin ich eigentlich Stiefmutter?"
 podcastDescription: "In dieser Folge spreche ich darüber, was es wirklich bedeutet, Stiefmutter zu sein – jenseits von Definitionen und Märchen."
@@ -127,4 +127,3 @@ Bonusmama ist eine positive Alternative zum Begriff Stiefmutter. Er betont, dass
 
 ### Welche Rechte hat eine Stiefmutter?
 Als Stiefmutter hast du in Deutschland kein automatisches Sorgerecht. Du darfst aber im Alltag Entscheidungen treffen (z. B. Arztbesuche, Schulangelegenheiten), wenn der sorgeberechtigte Elternteil das erlaubt. Bei einer Heirat kannst du das „kleine Sorgerecht" nach § 1687b BGB beantragen.
-

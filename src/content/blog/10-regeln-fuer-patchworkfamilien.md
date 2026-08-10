@@ -3,9 +3,9 @@ title: "10 Regeln für Patchworkfamilien: So gelingt euer Zusammenleben"
 description: "Die 10 wichtigsten Regeln für eine glückliche Patchworkfamilie — aus über 700 Coaching-Stunden mit echten Bonusmamas."
 category: "partnerschaft"
 date: 2026-03-07
-updated: 2026-03-07
-metaTitle: "10 Regeln für Patchworkfamilien — Was wirklich funktioniert"
-metaDescription: "Die 10 goldenen Regeln für Patchworkfamilien — praxiserprobt aus über 700 Coaching-Stunden. Von Sally Matthes, Coach für Bonusmamas."
+updated: 2026-08-10
+metaTitle: "10 Regeln für Patchworkfamilien, die Streit vermeiden"
+metaDescription: "Diese 10 Regeln helfen Patchworkfamilien bei Grenzen, Erziehung und Paarbeziehung. Konkrete Orientierung aus über 700 Coaching-Stunden."
 heroImage: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 image: "/images/blog/patchworkfamilie-herausforderungen-und-chancen-1.jpg"
 imageAlt: "Glückliche Patchworkfamilie im warmen Licht — Zusammenhalt und Geborgenheit"
@@ -186,4 +186,3 @@ Eifersucht auf die Ex-Partnerin ist in Patchworkfamilien völlig normal. Hilfrei
 
 ### Wann sollte man sich als Patchworkfamilie Hilfe holen?
 Am besten früh — nicht erst wenn alles brennt. Typische Signale: Wiederkehrende Konflikte um dieselben Themen, das Gefühl als Bonusmama unsichtbar zu sein, Kinder die dauerhaft Widerstand zeigen, oder der Eindruck dass die Beziehung unter der Patchwork-Situation leidet. Coaching oder Beratung ist kein Zeichen von Schwäche, sondern von Klugheit.
-
