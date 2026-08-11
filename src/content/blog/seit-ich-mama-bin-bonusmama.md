@@ -9,6 +9,7 @@ metaDescription: "Seit ich Mama bin, sehe ich Patchwork neu. Mein ehrlicher Erfa
 heroImage: "/images/blog/seit-ich-mama-bin-bonusmama-1.jpg"
 image: "/images/blog/seit-ich-mama-bin-bonusmama-1.jpg"
 imageAlt: "Mutter hält ihr Baby am Fenster, während zwei ältere Kinder im Hintergrund zu sehen sind"
+youtubeId: "9clxbsyK6T4"
 faqs:
   - question: "Verändert sich die Liebe zu den Bonuskindern, wenn man selbst Mama wird?"
     answer: "Nicht automatisch. Die Bindung zum eigenen Kind und die Beziehung zu den Bonuskindern entstehen unter unterschiedlichen Bedingungen und dürfen sich verschieden anfühlen. Entscheidend sind Respekt, Verlässlichkeit und eine Rolle, die wirklich zu dir und eurer Familie passt."
