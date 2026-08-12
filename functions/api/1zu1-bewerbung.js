@@ -142,8 +142,7 @@ export function determineOneToOneRoute(application) {
   }
 
   // Priority 3: financial fit.
-  if (application.investmentRange === 'bis-500') return 'kleiner-schritt';
-  if (['500-1000', '1000-2000'].includes(application.investmentRange)) return 'beyondbonus';
+  if (['bis-500', '500-1000', '1000-2000'].includes(application.investmentRange)) return 'beyondbonus';
   if (application.priceReality === 'nicht-moeglich') return 'beyondbonus';
 
   // Route A only when every closed-answer requirement is positively met.
