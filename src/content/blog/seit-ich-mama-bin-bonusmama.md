@@ -89,7 +89,7 @@ Anders bedeutet nicht weniger wertvoll.
 
 Eine Meta-Analyse von Jensen aus 56 Studien zeigt, dass eine gute Stiefeltern-Kind-Beziehung mit dem Wohlbefinden von Kindern zusammenhängt. Entscheidend ist dabei nicht, dass die Beziehung eine Eltern-Kind-Bindung kopiert. Entscheidend ist ihre Qualität.
 
-Wenn du selbst zwischen diesen Gefühlen stehst, lies auch [Bonusmama und Mama: Wenn du beide Seiten kennst](/blog/bonusmama-und-mama-doppelrolle/) und [Du musst dein Bonuskind nicht lieben](/blog/du-musst-dein-bonuskind-nicht-lieben/). Du brauchst keine identischen Gefühle, um allen Kindern verlässlich und respektvoll zu begegnen.
+Wenn du selbst zwischen diesen Gefühlen stehst, lies auch [Bonusmama und Mama: Wenn du beide Seiten kennst](/blog/bonusmama-und-mama-doppelrolle/) und [Ich sollte meine Stiefkinder lieben, oder?](/blog/stiefkinder-lieben-muessen/). Du brauchst keine identischen Gefühle, um allen Kindern verlässlich und respektvoll zu begegnen.
 
 > „Mein eigenes Kind macht meine Beziehung zu meinen Bonuskindern nicht richtiger oder falscher. Es macht sichtbar, dass diese Beziehungen verschieden sind." — Sally Matthes, Coach für Bonusmamas
 
