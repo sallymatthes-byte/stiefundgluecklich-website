@@ -208,7 +208,7 @@ export const prerender = true;
           </p>
           <div class="flex flex-col sm:flex-row gap-4">
             <a id="bb-link" href="/beyondbonus" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
-              Auf die Warteliste
+              BeyondBonus ansehen
             </a>
             <a id="bb-info-link" href="/beyondbonus" class="inline-block border border-primary text-primary px-8 py-4 text-base font-medium hover:bg-primary/5 transition-colors text-center">
               Mehr erfahren
@@ -216,7 +216,7 @@ export const prerender = true;
           </div>
         </div>
 
-        <!-- ERGEBNIS: 1:1 WARTELISTE -->
+        <!-- ERGEBNIS: 1:1 BEWERBUNG -->
         <div id="result-warteliste" class="quiz-step hidden">
           <p class="text-sm font-medium tracking-wider text-primary uppercase mb-4">Dein Ergebnis</p>
           <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6">
@@ -226,14 +226,14 @@ export const prerender = true;
             Deine Situation ist zu komplex für allgemeine Strategien. Du brauchst jemanden, der mit dir auf DEINE konkrete Konstellation schaut und individuelle Lösungen erarbeitet.
           </p>
           <p class="text-muted-foreground leading-relaxed mb-6">
-            Mein 1:1 Coaching ist aktuell nur über die Warteliste verfügbar. Sobald ein Platz frei wird, melde ich mich persönlich bei dir.
+            Meine persönliche 1:1-Begleitung ist wieder geöffnet. Über die Bewerbung findest du direkt heraus, ob sie gerade zu dir und deiner Situation passt.
           </p>
           <p class="text-muted-foreground leading-relaxed mb-10">
-            In der Zwischenzeit: Starte mit dem <strong class="text-foreground">ITS Bundle (€59)</strong> — damit hast du sofort erste Tools an der Hand, die du nutzen kannst, bis wir zusammenarbeiten.
+            Die Bewerbung ist unverbindlich und dauert etwa fünf Minuten. Wenn der Rahmen passt, kannst du danach direkt ein Kennenlerngespräch buchen.
           </p>
           <div class="flex flex-col sm:flex-row gap-4">
-            <a id="wl-its-link" href="/its-bundle" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
-              Break the Cycle starten
+            <a id="wl-its-link" href="/1zu1-bewerbung" class="inline-block bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity text-center">
+              Für die 1:1-Begleitung bewerben
             </a>
           </div>
         </div>
@@ -357,10 +357,10 @@ export const prerender = true;
     const bbLink = document.getElementById('bb-link');
     const wlItsLink = document.getElementById('wl-its-link');
     if (itsLink) itsLink.href = '/bonusmama-check?source=website_internal';
-    if (bbLink) bbLink.href = '/warteliste';
+    if (bbLink) bbLink.href = '/beyondbonus#pricing';
     const bbInfoLink = document.getElementById('bb-info-link');
     if (bbInfoLink) bbInfoLink.href = '/beyondbonus';
-    if (wlItsLink) wlItsLink.href = '/bonusmama-check?source=website_internal';
+    if (wlItsLink) wlItsLink.href = '/1zu1-bewerbung';
 
     // Show result regardless
     showStep('result-' + result);

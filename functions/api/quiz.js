@@ -1,4 +1,4 @@
-// Cloudflare Pages Function — Quiz / Warteliste → ActiveCampaign
+// Cloudflare Pages Function: Quiz results to ActiveCampaign.
 // Env vars needed: AC_API_URL, AC_API_KEY (set in Cloudflare Pages dashboard)
 
 // AC List IDs
@@ -6,7 +6,6 @@ const LISTS = {
   quiz: '27',        // Quiz Leads
   its: '25',         // It's time to shine
   beyondbonus: '24', // BeyondBonus
-  warteliste: '23',  // Warteliste 1:1 Babypause
 };
 
 export async function onRequestPost(context) {
@@ -59,10 +58,7 @@ export async function onRequestPost(context) {
 
     // 2. Add to appropriate list
     // Quiz results → Quiz Leads list
-    // Warteliste → Warteliste list only
-    const listsToAdd = result === 'warteliste'
-      ? [LISTS.warteliste]
-      : [LISTS.quiz];
+    const listsToAdd = [LISTS.quiz];
 
     for (const listId of listsToAdd) {
       try {
@@ -86,7 +82,7 @@ export async function onRequestPost(context) {
     const ergebnisTagMap = {
       'its': 'quiz-ergebnis-its-bundle',
       'beyondbonus': 'quiz-ergebnis-beyondbonus',
-      'warteliste': 'quiz-ergebnis-warteliste',
+      'warteliste': 'quiz-ergebnis-1zu1-bewerbung',
     };
     const ergebnisTag = ergebnisTagMap[result];
     const allTags = [...(tags || [])];

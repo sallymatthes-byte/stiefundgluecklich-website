@@ -1,25 +1,16 @@
-// Cloudflare Pages Function — ITS Bundle Stripe Checkout
-// Sale paused during Sally's Babypause.
+// Cloudflare Pages Function: ITS Bundle Stripe Checkout.
 
-export async function onRequestPost() {
-  return new Response(JSON.stringify({
-    error: 'Das ITS Bundle ist aktuell nicht buchbar.',
-    redirect: '/bonusmama-check?source=website_internal'
-  }), {
-    status: 403,
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-      'Content-Type': 'application/json',
-    },
+import { createProductCheckout, productCheckoutOptions } from '../lib/product-checkout.js';
+
+export async function onRequestPost(context) {
+  return createProductCheckout(context, {
+    product: 'its-bundle',
+    amount: 5900,
+    name: "ITS Bundle: It's Time to Shine",
+    description: 'I Belong, Talk like a Team und Setting Limits',
+    successPath: '/its-bundle-danke',
+    cancelPath: '/its-bundle?checkout=abgebrochen',
   });
 }
 
-export async function onRequestOptions() {
-  return new Response(null, {
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
-    }
-  });
-}
+export const onRequestOptions = productCheckoutOptions;

@@ -156,6 +156,8 @@
 # Page redirects
 /ueber-mich /about/ 301
 /ueber-mich/ /about/ 301
+/warteliste /1zu1-bewerbung/ 301
+/warteliste/ /1zu1-bewerbung/ 301
 
 # Short-slug redirects (WordPress auto-shortened URLs → full Astro blog URLs)
 /10-fragen-fuer-deine/ /blog/10-fragen-fuer-deine-beziehung/ 301

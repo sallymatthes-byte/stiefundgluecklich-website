@@ -25,10 +25,10 @@ export function getStaticPaths() {
     paragraphs: [
       'Deine Antworten zeigen, dass du etwas verändern möchtest. Eine intensive persönliche 1:1-Begleitung passt im Moment jedoch nicht zu deinem finanziellen Rahmen.',
       'BeyondBonus gibt dir dafür ein vollständiges, strukturiertes System, mit dem du in deinem eigenen Tempo an deiner Rolle, deinen Grenzen und eurer Partnerschaft arbeitest.',
-      'Das Programm öffnet Anfang September wieder. Du kannst dich jetzt unverbindlich vormerken und erfährst als Erste, sobald die Anmeldung öffnet.',
+      'BeyondBonus ist jetzt direkt verfügbar. Nach dem Kauf kannst du sofort starten und zwölf Monate in deinem eigenen Tempo arbeiten.',
     ],
-    cta: 'Für BeyondBonus vormerken',
-    href: '/beyondbonus/#vormerken',
+    cta: 'BeyondBonus ansehen',
+    href: '/beyondbonus/#pricing',
     kind: 'product',
   },
   beyondbonus: {
@@ -38,10 +38,10 @@ export function getStaticPaths() {
       'Deine Antworten zeigen, dass du tiefer einsteigen und wirklich an deiner Rolle arbeiten möchtest. Eine intensive persönliche 1:1-Begleitung passt im Moment jedoch nicht zu deinem finanziellen Rahmen.',
       'Für ein Kennenlerngespräch zur 1:1-Begleitung müsste die Investition von 2.997 € für dich grundsätzlich realistisch sein. Deshalb empfehle ich dir eine umfassende, aber finanziell kleinere Alternative für 497 €.',
       'BeyondBonus ist mein Onlineprogramm für Bonusmamas. Du arbeitest dort mit Videos, Übungen und konkreten Umsetzungsschritten strukturiert an deiner Rolle, deinen Grenzen und eurer Partnerschaft. Die Inhalte kannst du in deinem eigenen Tempo bearbeiten.',
-      'Das Programm öffnet Anfang September wieder. Du kannst dich jetzt unverbindlich vormerken und erfährst als Erste, sobald die Anmeldung öffnet.',
+      'BeyondBonus ist jetzt direkt verfügbar. Nach dem Kauf kannst du sofort starten und zwölf Monate in deinem eigenen Tempo arbeiten.',
     ],
-    cta: 'Für BeyondBonus vormerken',
-    href: '/beyondbonus/#vormerken',
+    cta: 'BeyondBonus ansehen',
+    href: '/beyondbonus/#pricing',
     kind: 'product',
   },
   'noch-nicht': {
@@ -75,7 +75,7 @@ export function getStaticPaths() {
 }
 
 const { route, result } = Astro.props;
-const callUrl = import.meta.env.PUBLIC_1ZU1_CALL_URL || '';
+const callUrl = import.meta.env.PUBLIC_1ZU1_CALL_URL || 'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ38wSsoB6TQ4S9P79sQaGx2ZtBByin-GGqj4C418IrWmdivf9ZfRr7o8ne-HEPpP2pjYnP2OBDe?gv=true';
 const isCalendar = result.kind === 'calendar';
 const ctaHref = isCalendar ? callUrl : result.href;
 ---

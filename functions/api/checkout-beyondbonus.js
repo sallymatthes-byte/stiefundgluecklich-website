@@ -1,25 +1,16 @@
-// Cloudflare Pages Function — BeyondBonus Stripe Checkout
-// Direct sale paused during Sally's Babypause. Next entry window planned for Herbst 2026.
+// Cloudflare Pages Function: BeyondBonus Stripe Checkout.
 
-export async function onRequestPost() {
-  return new Response(JSON.stringify({
-    error: 'Beyond Bonus ist aktuell nicht im direkten Verkauf.',
-    redirect: '/warteliste'
-  }), {
-    status: 403,
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-      'Content-Type': 'application/json',
-    },
+import { createProductCheckout, productCheckoutOptions } from '../lib/product-checkout.js';
+
+export async function onRequestPost(context) {
+  return createProductCheckout(context, {
+    product: 'beyondbonus',
+    amount: 49700,
+    name: 'Beyond Bonus: Online-Intensivprogramm',
+    description: '54 Video- und Audio-Lektionen, Workbook, 10-Wochen-E-Mail-Begleitung und 12 Monate Zugang',
+    successPath: '/beyondbonus-danke',
+    cancelPath: '/beyondbonus?checkout=abgebrochen',
   });
 }
 
-export async function onRequestOptions() {
-  return new Response(null, {
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
-    }
-  });
-}
+export const onRequestOptions = productCheckoutOptions;
