@@ -78,6 +78,8 @@ const totalMinutes = recordings.reduce((sum, recording) => sum + Number(recordin
               <a
                 href={`/livecalls/beyondbonus/${recording.slug}`}
                 class="group grid gap-4 border border-border/80 bg-background p-3 transition-colors hover:bg-secondary/25 sm:grid-cols-[96px_minmax(0,1fr)_auto] sm:items-center sm:p-4"
+                data-livecall-card
+                data-progress-key={`livecall::${recording.slug}`}
               >
                 <img src={livecallCoverImage} alt="" class="h-20 w-full object-cover sm:h-16 sm:w-24 border border-border/60" />
                 <div class="min-w-0 space-y-1">
@@ -86,12 +88,50 @@ const totalMinutes = recordings.reduce((sum, recording) => sum + Number(recordin
                   <p class="text-sm text-muted-foreground leading-relaxed line-clamp-2">{recording.description}</p>
                   <p class="text-xs text-muted-foreground">{recording.durationLabel}</p>
                 </div>
-                <span class="hidden sm:inline-flex text-sm text-muted-foreground group-hover:text-primary transition-colors">Öffnen →</span>
+                <span class="flex flex-col items-start gap-2 text-sm text-muted-foreground group-hover:text-primary transition-colors sm:items-end">
+                  <span data-livecall-state>Noch nicht abgeschlossen</span>
+                  <span>Öffnen →</span>
+                </span>
               </a>
             ))}
           </div>
         </div>
       )}
+
+      <script is:inline>
+        const readProgress = () => {
+          try {
+            return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
+          } catch {
+            return {};
+          }
+        };
+
+        const renderProgress = (progress) => {
+          document.querySelectorAll('[data-livecall-card]').forEach((card) => {
+            const key = card.getAttribute('data-progress-key');
+            const state = card.querySelector('[data-livecall-state]');
+            if (state) state.textContent = key && progress[key] ? 'Abgeschlossen' : 'Noch nicht abgeschlossen';
+          });
+        };
+
+        const syncProgress = async () => {
+          const progress = readProgress();
+          renderProgress(progress);
+          try {
+            const response = await fetch('/api/members/progress', { credentials: 'same-origin' });
+            const payload = await response.json();
+            if (!response.ok || !Array.isArray(payload.progress)) return;
+            payload.progress.forEach((entry) => {
+              if (entry.lesson_key) progress[entry.lesson_key] = Boolean(entry.completed);
+            });
+            localStorage.setItem('bb-progress-v1', JSON.stringify(progress));
+            renderProgress(progress);
+          } catch {}
+        };
+
+        syncProgress();
+      </script>
     </div>
   </section>
 </Layout>

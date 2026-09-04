@@ -1,6 +1,9 @@
 import type { APIRoute } from 'astro';
 import { createSupabaseServerClient } from '../../../lib/supabase/server';
 import { beyondBonusModules, getLessonKey } from '../../../lib/beyondbonus/content';
+import { loadBeyondBonusLivecalls } from '../../../lib/beyondbonus/admin-content';
+import { getAccessSnapshot } from '../../../lib/auth/grants';
+import { loadUserGrants } from '../../../lib/auth/load-grants';
 
 const validLessonKeys = new Set(
   beyondBonusModules.flatMap((module) => module.lessons.map((lesson) => getLessonKey(module.slug, lesson.slug))),
@@ -40,8 +43,25 @@ export const POST: APIRoute = async (context) => {
   const body = await context.request.json().catch(() => null);
   const lessonKey = String(body?.lessonKey || '').trim();
   const completed = Boolean(body?.completed);
+  const isLivecall = lessonKey.startsWith('livecall::');
+  const grants = await loadUserGrants(context);
+  const access = getAccessSnapshot(grants, 'beyondbonus');
 
-  if (!validLessonKeys.has(lessonKey)) {
+  if (isLivecall) {
+    if (!access.livecalls) {
+      return new Response(JSON.stringify({ error: 'no-livecall-access' }), { status: 403 });
+    }
+    const slug = lessonKey.slice('livecall::'.length);
+    const runtimeEnv = (context.locals as any).runtime?.env;
+    const recordings = await loadBeyondBonusLivecalls(runtimeEnv);
+    if (!recordings.some((recording) => recording.slug === slug)) {
+      return new Response(JSON.stringify({ error: 'unknown-livecall' }), { status: 400 });
+    }
+  } else if (!access.course) {
+    return new Response(JSON.stringify({ error: 'no-course-access' }), { status: 403 });
+  }
+
+  if (!isLivecall && !validLessonKeys.has(lessonKey)) {
     return new Response(JSON.stringify({ error: 'unknown-lesson' }), { status: 400 });
   }
 

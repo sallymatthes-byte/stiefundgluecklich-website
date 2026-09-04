@@ -16,6 +16,7 @@ if (!access.livecalls) {
 
 const { slug } = Astro.params;
 const recording = slug ? await getBeyondBonusLivecallFromStore(runtimeEnv, slug) : null;
+const progressKey = `livecall::${slug || ''}`;
 
 if (!recording) {
   return Astro.redirect('/livecalls/beyondbonus');
@@ -28,7 +29,7 @@ if (!recording) {
   description={recording.description}
   noHeader={true}
 >
-  <section class="py-14 md:py-24">
+  <section class="py-14 md:py-24" data-progress-key={progressKey}>
     <div class="container mx-auto px-4 sm:px-5 md:px-6 max-w-5xl">
       <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between mb-7">
         <a href="/livecalls/beyondbonus" class="inline-flex items-center text-sm text-muted-foreground hover:text-primary transition-colors">
@@ -64,8 +65,69 @@ if (!recording) {
           <p class="text-sm text-muted-foreground leading-relaxed">
             Tipp fürs Handy: Starte das Video, drehe dein Handy quer und nutze den Vollbild-Button im Player.
           </p>
+          <div class="flex flex-wrap items-center justify-between gap-4 border-t border-border/80 pt-4">
+            <p class="text-sm text-muted-foreground" data-livecall-state>Diese Aufzeichnung ist noch nicht abgeschlossen.</p>
+            <button type="button" class="inline-flex px-5 py-3 bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity" data-toggle-complete>
+              Als erledigt markieren
+            </button>
+          </div>
         </div>
       </article>
     </div>
+
+    <script is:inline>
+      const key = document.querySelector('[data-progress-key]')?.getAttribute('data-progress-key');
+      const button = document.querySelector('[data-toggle-complete]');
+      const state = document.querySelector('[data-livecall-state]');
+      const readProgress = () => {
+        try {
+          return JSON.parse(localStorage.getItem('bb-progress-v1') || '{}');
+        } catch {
+          return {};
+        }
+      };
+      const writeProgress = (progress) => localStorage.setItem('bb-progress-v1', JSON.stringify(progress));
+      const refresh = () => {
+        const progress = readProgress();
+        const done = key && progress[key];
+        if (state) state.textContent = done ? 'Diese Aufzeichnung ist abgeschlossen.' : 'Diese Aufzeichnung ist noch nicht abgeschlossen.';
+        if (button) button.textContent = done ? 'Als nicht erledigt markieren' : 'Als erledigt markieren';
+      };
+      const syncProgress = async () => {
+        const progress = readProgress();
+        refresh();
+        try {
+          const response = await fetch('/api/members/progress', { credentials: 'same-origin' });
+          const payload = await response.json();
+          if (!response.ok || !Array.isArray(payload.progress)) return;
+          payload.progress.forEach((entry) => {
+            if (entry.lesson_key) progress[entry.lesson_key] = Boolean(entry.completed);
+          });
+          writeProgress(progress);
+          refresh();
+        } catch {}
+      };
+      button?.addEventListener('click', async () => {
+        if (!key) return;
+        const progress = readProgress();
+        progress[key] = !progress[key];
+        writeProgress(progress);
+        refresh();
+        try {
+          const response = await fetch('/api/members/progress', {
+            method: 'POST',
+            credentials: 'same-origin',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ lessonKey: key, completed: Boolean(progress[key]) }),
+          });
+          if (!response.ok) throw new Error('progress-save-failed');
+        } catch {
+          progress[key] = !progress[key];
+          writeProgress(progress);
+          refresh();
+        }
+      });
+      syncProgress();
+    </script>
   </section>
 </Layout>
