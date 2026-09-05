@@ -78,6 +78,7 @@ export async function onRequestPost(context) {
     activeCampaign: null,
     grants: null,
     passwordEmail: null,
+    purchaseNotification: null,
   };
 
   const tagId = PRODUCT_TAG_MAP[product];
@@ -100,7 +101,46 @@ export async function onRequestPost(context) {
     results.grants = { ok: true, skipped: `no grant config for product: ${product}` };
   }
 
+  results.purchaseNotification = await sendPurchaseNotification({ env, session, product, customerName, results });
+
   return jsonResponse(results);
+}
+
+export async function sendPurchaseNotification({ env, session, product, customerName, results }) {
+  const webhookUrl = env.DISCORD_PURCHASE_WEBHOOK_URL;
+  if (!webhookUrl) return { ok: false, error: 'DISCORD_PURCHASE_WEBHOOK_URL missing' };
+
+  const productLabel = product === 'beyondbonus' ? 'BeyondBonus' : product === 'its-bundle' ? 'ITS Bundle' : product;
+  const amount = typeof session.amount_total === 'number'
+    ? new Intl.NumberFormat('de-DE', { style: 'currency', currency: String(session.currency || 'eur').toUpperCase() }).format(session.amount_total / 100)
+    : 'Betrag nicht verfügbar';
+  const accessOk = results.grants?.ok === true;
+  const passwordOk = results.passwordEmail?.ok === true;
+  const acOk = results.activeCampaign?.ok === true;
+  const attention = accessOk && passwordOk && acOk ? '' : '\n⚠️ Bitte prüfen, mindestens ein Nachlauf war nicht erfolgreich.';
+  const content = [
+    '💰 **Neuer Kauf**',
+    `Kundin: ${customerName || 'Name nicht angegeben'}`,
+    `Produkt: ${productLabel}`,
+    `Betrag: ${amount}`,
+    `Zugang: ${accessOk ? 'angelegt' : 'FEHLER'}`,
+    `Passwort-Mail: ${passwordOk ? 'ausgelöst' : 'FEHLER'}`,
+    `ActiveCampaign: ${acOk ? 'aktualisiert' : 'FEHLER'}`,
+  ].join('\n') + attention;
+
+  try {
+    const response = await fetch(webhookUrl + '?wait=true', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ content, allowed_mentions: { parse: [] } }),
+    });
+    if (!response.ok) throw new Error(`Discord webhook HTTP ${response.status}`);
+    const message = await response.json();
+    return { ok: true, messageId: message?.id || null };
+  } catch (error) {
+    console.error('Purchase notification failed:', error?.message || error);
+    return { ok: false, error: error?.message || 'Purchase notification failed' };
+  }
 }
 
 async function handleOneToOneCheckout({ env, session, email }) {
