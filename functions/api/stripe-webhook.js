@@ -103,6 +103,10 @@ export async function onRequestPost(context) {
 
   results.purchaseNotification = await sendPurchaseNotification({ env, session, product, customerName, results });
 
+  if (!results.grants?.ok || !results.passwordEmail?.ok) {
+    return jsonResponse({ ...results, received: false, retry: true }, 500);
+  }
+
   return jsonResponse(results);
 }
 
