@@ -96,12 +96,19 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
                   <p class="text-sm text-muted-foreground leading-relaxed flex-1">
                     Alle Module, Lektionen und dein zentrales Workbook für BeyondBonus.
                   </p>
-                  <a
-                    href="/members/beyondbonus"
-                    class={`inline-flex w-fit px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
-                  >
-                    Kurs öffnen
-                  </a>
+                  <div class="flex flex-wrap gap-3">
+                    <a
+                      href="/members/beyondbonus/start-einstieg/einfuehrung"
+                      class={`inline-flex w-fit px-5 py-3 text-sm font-medium transition-opacity ${beyondBonus.course ? 'bg-primary text-primary-foreground hover:opacity-90' : 'bg-secondary text-muted-foreground pointer-events-none opacity-70'}`}
+                    >
+                      Hier starten
+                    </a>
+                    {beyondBonus.course && (
+                      <a href="/members/beyondbonus/workbook" class="inline-flex w-fit px-5 py-3 text-sm font-medium border border-border hover:bg-secondary/40 transition-colors">
+                        Workbook öffnen
+                      </a>
+                    )}
+                  </div>
                 </div>
 
                 {beyondBonus.livecalls && (
@@ -130,28 +137,6 @@ const passwordUpdated = Astro.url.searchParams.get('password-updated') === '1';
                     </p>
                   </div>
                 )}
-              </div>
-            </section>
-
-            <section class="space-y-5">
-              <div class="space-y-1">
-                <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">Noch nicht freigeschaltet</p>
-                <h2 class="font-serif text-2xl md:text-[2rem] leading-tight">Was du dir zusätzlich anschauen kannst</h2>
-              </div>
-
-              <div class="max-w-[380px]">
-                <div class="border border-border bg-background p-7 space-y-5 h-full flex flex-col shadow-[0_10px_24px_rgba(0,0,0,0.03)]">
-                  <div class="space-y-2">
-                    <p class="text-xs uppercase tracking-[0.18em] text-muted-foreground">ITS Bundle</p>
-                    <h3 class="font-serif text-2xl leading-tight">Dein Einstieg</h3>
-                  </div>
-                  <p class="text-sm text-muted-foreground leading-relaxed flex-1">
-                    Drei kompakte Kernbereiche für Zugehörigkeit, Kommunikation und Grenzen im Patchworkalltag. Das Bundle ist jetzt wieder buchbar.
-                  </p>
-                  <a href="/its-bundle" class="inline-flex w-fit px-5 py-3 text-sm font-medium bg-secondary hover:bg-secondary/80 transition-colors">
-                    Mehr erfahren
-                  </a>
-                </div>
               </div>
             </section>
 

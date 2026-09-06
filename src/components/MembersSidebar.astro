@@ -24,7 +24,12 @@ const {
   avatarUrl = '',
 } = Astro.props;
 
-const isActive = (href: string) => currentPath === href || currentPath.startsWith(`${href}/`);
+const allItems = [...primaryItems, ...courseItems, ...bottomItems];
+const activeHref = allItems
+  .map((item) => item.href)
+  .filter((href) => currentPath === href || currentPath.startsWith(`${href}/`))
+  .sort((a, b) => b.length - a.length)[0];
+const isActive = (href: string) => href === activeHref;
 const initials = subtitle
   .split(' ')
   .map((part: string) => part.trim()[0])

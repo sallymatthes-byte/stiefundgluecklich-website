@@ -10,6 +10,7 @@ export function getBeyondBonusCourseItems(access: { course: boolean; livecalls: 
 
   if (access.course) {
     items.push({ href: '/members/beyondbonus', label: 'BeyondBonus' });
+    items.push({ href: '/members/beyondbonus/workbook', label: 'Workbook' });
   }
 
   if (access.livecalls) {
