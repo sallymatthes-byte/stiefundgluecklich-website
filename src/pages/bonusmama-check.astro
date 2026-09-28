@@ -112,7 +112,7 @@ export const prerender = true;
           
           <!-- Radar Chart -->
           <div class="mb-8">
-            <canvas id="radar-chart" width="400" height="400" class="mx-auto max-w-[360px]"></canvas>
+            <canvas id="radar-chart" width="400" height="400" class="mx-auto w-full max-w-[360px]"></canvas>
           </div>
 
           <!-- Score Summary -->
@@ -122,21 +122,18 @@ export const prerender = true;
             <div id="area-scores" class="hidden"></div>
           </div>
 
-          <!-- Pattern Result Intro -->
-          <div id="pattern-result" class="mb-6">
-            <h2 class="text-2xl md:text-3xl lg:text-4xl mb-6" id="pattern-title"></h2>
+          <!-- Full result is available before the optional email form. -->
+          <div id="pattern-result" class="mb-8">
+            <p class="text-sm font-medium text-primary mb-3" id="pattern-label"></p>
+            <h2 class="text-2xl md:text-3xl mb-6" id="pattern-title"></h2>
+            <div id="pattern-body" class="prose-custom"></div>
           </div>
 
           <!-- CTA: Email -->
           <div class="bg-cream border border-border p-6 md:p-8 mb-8">
-            <div class="mb-6">
-              <p class="text-sm font-medium tracking-wider text-primary uppercase mb-3">Dein nächster Schritt</p>
-              <p class="text-foreground leading-relaxed mb-3">Dein Ergebnis zeigt dir, welcher Kreislauf gerade besonders stark wirkt. Jetzt geht es darum, den ersten Punkt zu erkennen, an dem du ihn unterbrechen kannst.</p>
-            </div>
+            <h3 class="text-xl md:text-2xl mb-4">So geht es für dich weiter</h3>
+            <p id="pattern-mail" class="text-foreground leading-relaxed mb-6"></p>
 
-            <h3 class="text-xl md:text-2xl mb-4">Hol dir deinen persönlichen nächsten Schritt</h3>
-            <p class="text-muted-foreground text-sm mb-6">Ich schicke dir deine Auswertung direkt ins Postfach. Danach bekommst du 3 kurze Impulse für deinen Patchwork-Alltag, passend zu deinem Ergebnis.</p>
-            
             <form id="email-form" class="space-y-4" onsubmit="submitEmail(event)">
               <div>
                 <label for="firstname" class="block text-sm font-medium mb-2">Vorname</label>
@@ -151,21 +148,12 @@ export const prerender = true;
                   placeholder="deine@email.de" />
               </div>
               <p class="text-xs text-muted-foreground">
-                Du kannst dich jederzeit mit einem Klick wieder abmelden.
+                Du erhältst deine Auswertung und drei weitere Mails passend zu deinem Ergebnis. Anschließend bekommst du meinen Newsletter. Kostenlos und jederzeit abmeldbar.
               </p>
               <button type="submit" id="submit-btn" class="w-full bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:opacity-90 transition-opacity cursor-pointer">
                 Auswertung per Mail bekommen
               </button>
             </form>
-            <button type="button" onclick="showShortResult()" class="mt-4 w-full text-sm text-primary underline underline-offset-4 hover:opacity-80 transition-opacity cursor-pointer">
-              Ich möchte erst kurz weiterlesen
-            </button>
-          </div>
-
-          <!-- Pattern Result Body -->
-          <div id="short-result" class="hidden">
-            <h3 class="text-xl md:text-2xl mb-4">Hier ist dein Ergebnis in Kürze</h3>
-            <div id="pattern-body" class="prose-custom"></div>
           </div>
         </div>
 
@@ -272,15 +260,15 @@ export const prerender = true;
     to { opacity: 1; transform: translateY(0); }
   }
 
-  .prose-custom p {
+  .prose-custom :global(p) {
     color: hsl(0, 0%, 40%);
     line-height: 1.75;
     margin-bottom: 1.25rem;
   }
-  .prose-custom strong {
+  .prose-custom :global(strong) {
     color: hsl(0, 0%, 0%);
   }
-  .prose-custom .section-break {
+  .prose-custom :global(.section-break) {
     margin-top: 1.75rem;
     margin-bottom: 0.25rem;
   }
@@ -366,108 +354,48 @@ const PATTERN_MAP = {
 };
 
 const PATTERNS = {
-  1: {
-    title: 'Dein Muster: Du wartest darauf, dass dir jemand deinen Platz gibt',
-    body: `<p>Freitagabend, die Bonuskinder sind da. Dein Partner und sein Sohn sitzen am Esstisch und reden über das Fußballspiel am Samstag. Du stehst in der Küche und überlegst, ob du dich dazusetzen sollst. Aber du weißt, wie es läuft: Du setzt dich hin, sie reden weiter, du sitzt daneben und fühlst dich wie der Gast, der aus Höflichkeit noch da ist. Also bleibst du in der Küche.</p>
-<p>Oder du gehst mit in den Freizeitpark — und fährst jede Achterbahn alleine, weil er natürlich neben seinem Kind sitzen will. Am Ende des Tages sagt keiner Danke. Und du liegst abends im Bett und denkst: Ob ich da bin oder nicht, macht keinen Unterschied.</p>
-<p>Das ist dein Muster. Nicht Desinteresse — Selbstschutz. Du ziehst dich zurück, bevor die Enttäuschung kommen kann.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Du hast keine klare Rolle in dieser Familie. Nicht Mutter, nicht nur Partnerin, irgendwas dazwischen, das keinen Namen hat. Und weil du nicht weißt, wer du hier bist, weißt du auch nicht, worauf du Anspruch hast. Darfst du mitreden bei der Erziehung? Darfst du sagen, dass es dich verletzt, wenn er sein Kind vorzieht? Oder bist du dann "die schwierige Neue"?</p>
-<p>Also sagst du nichts. Setzt keine Grenzen. Forderst nichts ein. Und weil du nichts einforderst, bekommst du auch nichts zurück. Keine Bestätigung, dass du hier hingehörst. Stattdessen wirst du übersehen — und das fühlt sich an wie der Beweis, dass du tatsächlich nicht dazugehörst.</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Dieser Kreislauf ist selbstverstärkend: Je mehr du dich zurückziehst, desto weniger bekommst du die Bestätigung, die dir zeigen würde, dass du dazugehörst. Und solange diese Bestätigung ausbleibt, fühlt sich der Rückzug wie die einzig sichere Antwort an.</p>
-<img src="/images/kreislauf/nb-kreislauf-muster1.png" alt="Kreislauf Muster 1: Rückzug und Unsichtbarkeit" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Aber hier ist die Sache: Dieser Kreislauf ist nicht die Wahrheit über dich. Er ist ein Muster — und Muster kann man verändern. Du brauchst dafür Klarheit darüber, wer du in dieser Familie sein WILLST. Nicht wer du sein sollst. Sobald du das weißt, verändert sich alles — weil du anfängst, von innen heraus Raum einzunehmen, statt darauf zu warten, dass ihn dir jemand gibt.</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Du liegst abends im Bett und fragst dich, ob es für alle einfacher wäre ohne dich. Du fühlst dich wie ein Gast in deinem eigenen Zuhause — du weißt wo die Teller stehen und wann der Müll rauskommt, aber irgendwie ist das nicht genug, um zu sagen: Das hier ist auch meins. Und manchmal, wenn du ehrlich bist, denkst du: An meiner Stelle würde sich jede andere Frau leichter tun.</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Du sitzt am Esstisch — nicht weil jemand dich eingeladen hat, sondern weil das dein Platz ist. Du sagst deinem Partner, was du brauchst, und es fühlt sich nicht an wie eine Bitte um Erlaubnis, sondern wie etwas, das selbstverständlich ist. Dein Bonuskind erzählt dir vom Schultag, und du hörst zu — nicht weil du die perfekte Bonusmama spielst, sondern weil du da bist. Ganz da. Und dieses Gefühl, nicht dazuzugehören? Es kommt vielleicht noch mal. Aber es bestimmt nicht mehr deinen Alltag.</p>`,
+  "1": {
+    "label": "Dein Platz in der Familie",
+    "title": "Du m\u00f6chtest dazugeh\u00f6ren, f\u00fchlst dich aber oft wie diejenige, die dazukommt.",
+    "body": "<p>Dein Partner und sein Kind erz\u00e4hlen beim Essen von einem fr\u00fcheren Urlaub. Beide lachen, du kennst die Geschichte nicht. Du sitzt dabei und wei\u00dft nicht so richtig, wie du mitreden sollst. Irgendwann stehst du auf und r\u00e4umst die K\u00fcche auf, obwohl du eigentlich gern sitzen geblieben w\u00e4rst.</p>\n<p>Solche Situationen k\u00f6nnen wehtun, ohne dass dich jemand absichtlich ausschlie\u00dft. Die beiden haben gemeinsame Erinnerungen und Gewohnheiten, in die du erst hineinfinden musst. Wenn du ohnehin unsicher bist, welchen Platz du hast, kann sich ein Gespr\u00e4ch \u00fcber fr\u00fcher schnell so anf\u00fchlen, als w\u00e4rst du auch heute nicht richtig dabei.</p>\n<p>Vielleicht ziehst du dich dann zur\u00fcck, weil du nicht schon wieder diejenige sein m\u00f6chtest, die um Aufmerksamkeit bittet. Dein Partner bekommt davon wom\u00f6glich nur mit, dass du aufstehst. Er wei\u00df nicht unbedingt, dass du gern geblieben w\u00e4rst und dir gew\u00fcnscht h\u00e4ttest, einbezogen zu werden.</p>\n<p>Das hei\u00dft nicht, dass du dich nur mehr anstrengen musst. Dein Partner kann mit daf\u00fcr sorgen, dass du mitreden kannst, etwa indem er dir die Geschichte kurz erkl\u00e4rt. Daf\u00fcr hilft es, ihm au\u00dferhalb der Situation zu sagen, was bei dir passiert.</p>\n<p>Du k\u00f6nntest das beim n\u00e4chsten ruhigen Moment so ansprechen: \u201eVorhin beim Essen w\u00e4re ich gern dabeigeblieben. Als ihr von fr\u00fcher erz\u00e4hlt habt, wusste ich nicht, wie ich mitreden soll. Mir w\u00fcrde helfen, wenn du mich kurz in die Geschichte mit reinnimmst.\u201c</p>\n<p>Damit besprecht ihr eine konkrete Situation. Du musst weder behaupten, grunds\u00e4tzlich ausgeschlossen zu werden, noch so tun, als h\u00e4tte dir der Moment nichts ausgemacht.</p>",
+    "mail": "In meinen Mails bekommst du dazu eine \u00dcbung f\u00fcrs Platznehmen und drei S\u00e4tze, mit denen du mit deinem Partner \u00fcber deinen Platz sprechen kannst.",
+    "cta": "Meine \u00dcbung und die drei S\u00e4tze erhalten"
   },
-  2: {
-    title: 'Dein Muster: Ihr redet übereinander statt miteinander',
-    body: `<p>Wenn ihr allein seid, funktioniert alles. Dann seid ihr ein Paar, das sich liebt, das lacht, das Pläne macht. Und dann klingelt das Handy. Oder es ist Wechseltag. Oder die Kinder erzählen am Abendessen, was Mama am Wochenende Tolles gemacht hat. Und du spürst, wie sich etwas verschiebt.</p>
-<p>Es ist nicht Eifersucht — jedenfalls nicht nur. Es ist dieses Gefühl, dass euer Paar-Raum keine Wände hat. Dass jederzeit jemand reinplatzen kann. Und dass du in dem Moment, wo du es ansprichst, den Satz hörst, der alles noch schlimmer macht: "Du übertreibst." Oder: "Die Kinder haben nun mal Priorität." Als ob du das nicht wüsstest.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Die Ex — oder genauer: alles was sie repräsentiert — löst in dir etwas aus. Einen Stich, eine Anspannung, manchmal eine Wut die du selbst nicht ganz einordnen kannst. Du weißt rational, dass sie Teil des Systems ist. Aber emotional sitzt sie mit am Tisch. Jeden Tag.</p>
-<p>Und jetzt kommt der Knackpunkt: Du willst darüber reden. Aber du zensierst dich, bevor du anfängst. Weil du weißt, wie das letzte Gespräch gelaufen ist. Du hast versucht zu erklären, wie du dich fühlst, und er hat es runtergespielt. Oder ihr habt gestritten und danach tagelang nicht richtig miteinander geredet. Also sagst du nichts. Und schluckst.</p>
-<p>Aber was du schluckst, verschwindet nicht. Es sammelt sich. Und beim nächsten Mal, wenn die Ex eine provozierende Nachricht schickt oder die Kinder "bei Mama" sagen und nicht dich meinen — dann kommt nicht nur der aktuelle Stich, sondern alles was du in den letzten Wochen geschluckt hast. Und dann reagierst du "über", und er sagt: "Siehst du, du übertreibst."</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Was diesen Kreislauf so zäh macht: Das Schlucken fühlt sich kurzfristig sicherer an als das Reden. Aber was du schluckst, verschwindet nicht — es wartet. Bis der nächste Stich kommt und alles gleichzeitig hochkommt. Und dann heißt es wieder: "Du übertreibst."</p>
-<img src="/images/kreislauf/nb-kreislauf-muster2.png" alt="Kreislauf Muster 2: Schlucken und Explodieren" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Der Ausweg ist nicht, die Ex zu ignorieren. Und es ist auch nicht, "einfach drüber zu reden." Es ist: einen Weg zu finden, wie du sagst was du fühlst — ohne Vorwurf, ohne Explosion — und so, dass er es wirklich hört. Und gleichzeitig zu sortieren: Was davon ist die Ex, und was davon ist eigentlich etwas zwischen euch?</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Die Ex hat vor einer Stunde geschrieben, und seitdem ist der Abend gelaufen. Du liegst neben deinem Partner im Bett und fühlst dich weiter weg von ihm als je zuvor — obwohl er direkt neben dir liegt. Du würdest gerne sagen, was dich beschäftigt. Aber du weißt, wie das letzte Mal gelaufen ist. Also drehst du dich um und tust so, als würdest du schlafen. Und er denkt, es ist alles in Ordnung.</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Die Ex schreibt — und du merkst, dass dein Puls nicht hochgeht. Nicht weil es dir egal geworden ist, sondern weil du gelernt hast, ihren Nachrichten den Platz zu geben, den sie verdienen: seinen. Du drehst dich zu deinem Partner und sagst ruhig, was du brauchst. Und er hört zu — nicht weil er sich über Nacht verändert hat, sondern weil du gelernt hast, es so zu sagen, dass es bei ihm ankommt statt gegen ihn prallt. Eure Gespräche über schwierige Themen enden nicht in Streit. Sie enden in: "Danke, dass du mir das gesagt hast."</p>`,
+  "2": {
+    "label": "Eure Gespr\u00e4che",
+    "title": "Ihr redet viel dar\u00fcber, was die Ex macht. Was ihr beide braucht, bleibt dabei oft ungekl\u00e4rt.",
+    "body": "<p>Eine Nachricht kommt und pl\u00f6tzlich sieht euer Wochenende anders aus als geplant. Du \u00e4rgerst dich und sagst, dass sie nicht st\u00e4ndig alles kurzfristig \u00e4ndern kann. Dein Partner erkl\u00e4rt, warum es diesmal nicht anders geht. Je l\u00e4nger ihr redet, desto mehr hast du das Gef\u00fchl, dass er sie versteht, aber dich nicht.</p>\n<p>Dabei wolltest du vielleicht gar nicht dar\u00fcber streiten, ob ihre Bitte berechtigt war. Du hattest dich auf eure gemeinsame Zeit gefreut oder selbst etwas geplant. Nun betrifft die \u00c4nderung auch dich, ohne dass du vorher gefragt wurdest.</p>\n<p>Wenn ihr vor allem \u00fcber ihr Verhalten sprecht, ger\u00e4t dieser Teil leicht aus dem Blick. Ihr k\u00f6nnt lange dar\u00fcber diskutieren, wer recht hat, und danach trotzdem nicht wissen, wie ihr mit der n\u00e4chsten \u00c4nderung umgehen wollt.</p>\n<p>Es kann deshalb helfen, vor einem Gespr\u00e4ch zu \u00fcberlegen, was dein Partner konkret anders machen k\u00f6nnte. \u201eSie soll sich fr\u00fcher melden\u201c liegt nicht allein in seiner Hand. \u201eBitte sprich mit mir, bevor du etwas zusagst, das meine Zeit betrifft\u201c schon eher.</p>\n<p>Nimm daf\u00fcr eine Situation, \u00fcber die ihr h\u00e4ufiger streitet. Was hat dich daran ganz konkret gest\u00f6rt? Musstest du einen Termin absagen? Wurde deine Hilfe eingeplant? Oder ist eure Paarzeit ausgefallen, ohne dass ihr \u00fcber einen Ersatz gesprochen habt?</p>\n<p>Wenn du das benennst, wird deutlicher, was zwischen euch zu kl\u00e4ren ist. Zum Beispiel: \u201eIch verstehe, dass sich manchmal etwas \u00e4ndert. Aber ich m\u00f6chte nicht erst nach deiner Zusage erfahren, dass ich den Nachmittag \u00fcbernehmen soll.\u201c</p>",
+    "mail": "In meinen Mails findest du das \u00dcbersetzungs-Tool f\u00fcr solche Gespr\u00e4che. Au\u00dferdem schaust du mit der Paar-Raum-Analyse darauf, wie viel eurer gemeinsamen Zeit f\u00fcr Ex, Kinder und Organisation draufgeht.",
+    "cta": "Meine Werkzeuge f\u00fcr unsere Gespr\u00e4che erhalten"
   },
-  3: {
-    title: 'Dein Muster: Du verwechselst Leistung mit Zugehörigkeit',
-    body: `<p>Du organisierst den Einkauf, du räumst den Tisch ab, du erinnerst an die Sporttasche, du holst das Bonuskind ab wenn dein Partner im Spätdienst ist. Du machst das alles nicht, weil es jemand von dir verlangt — du machst es, weil es sonst keiner tut. Oder weil du denkst: Wenn ich das alles mache, dann sehen sie endlich, dass ich dazugehöre.</p>
-<p>Aber das tun sie nicht. Jedenfalls nicht so, wie du es bräuchtest. Es wird einfach... normal. Erwartet. Und du merkst irgendwann: Je mehr du tust, desto selbstverständlicher wirst du. Nicht wertgeschätzter — selbstverständlicher.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Du hast gelernt, dass dein Wert in dieser Familie davon abhängt, was du tust. Nicht wer du bist — was du leistest. Also tust du mehr. Und mehr. Und sagst nicht Nein, weil Nein-Sagen sich anfühlt wie: Ich ziehe mich aus der Familie zurück. Ich gehöre nicht mehr dazu.</p>
-<p>Weil du keine Grenzen setzt, hast du keine Energie mehr. Und weil du keine Energie mehr hast, fehlt dir die Kraft, Grenzen zu setzen. Du funktionierst auf Reserve. Und wenn dann jemand fragt "Wie geht's dir?", sagst du "Gut" — weil die ehrliche Antwort zu lang wäre. Oder weil du Angst hast, dass sie klingt wie ein Vorwurf.</p>
-<p>Das Absurde: Du gibst mehr als alle anderen in dieser Familie. Aber weil du es still tust, ohne es einzufordern, ohne Grenzen, ohne Pause — sieht es niemand. Es wird zur Hintergrundmusik.</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Was diesen Kreislauf antreibt: Du weißt nicht, wo deine Verantwortung endet. Also übernimmst du alles — und verlierst dabei die Energie, die du bräuchtest, um überhaupt Nein sagen zu können. Ein Kreislauf, der sich selbst befeuert.</p>
-<img src="/images/kreislauf/nb-kreislauf-muster3.png" alt="Kreislauf Muster 3: Funktionsmodus und Erschöpfung" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Der Ausweg ist nicht, weniger zu tun. Er ist: zu verstehen, dass deine Zugehörigkeit nicht davon abhängt, wie viel du leistest. Dass "Ich brauche eine Pause" kein Zeichen von Schwäche ist. Und dass die Familie dich nicht deshalb braucht, weil du die Sporttasche packst — sondern weil du da bist.</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Du stehst in der Küche, der Esstisch ist abgeräumt, die Sporttasche gepackt, die Kinder versorgt. Dein Partner sitzt auf der Couch und schaut eine Serie. Du bist so müde, dass du dich nicht mal mehr ärgern kannst. Und der eine Gedanke, der immer wieder kommt: Wenn ich aufhöre, bricht alles zusammen. Also machst du weiter. Morgen, übermorgen, nächste Woche. Bis irgendwann — und du weißt nicht wann — einfach nichts mehr geht.</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Du kommst nach Hause und die Spülmaschine ist nicht ausgeräumt. Und statt sie selbst auszuräumen, gehst du ins Wohnzimmer und setzt dich hin. Nicht aus Trotz — sondern weil du weißt, dass es nicht deine Aufgabe ist. Dein Partner räumt sie aus, ohne dass du fragen musstest, weil ihr darüber gesprochen habt, wer was übernimmt. Und am Wochenende genießt du die Ruhe — ohne schlechtes Gewissen. Weil du verstanden hast: Durchatmen ist kein Verrat an der Familie. Es ist die Voraussetzung dafür, dass du für sie da sein kannst.</p>`,
+  "3": {
+    "label": "Leistung und Zugeh\u00f6rigkeit",
+    "title": "Du \u00fcbernimmst viel und merkst oft erst sp\u00e4t, dass es dir zu viel geworden ist.",
+    "body": "<p>Du denkst an den Einkauf, packst die Sporttasche und erinnerst an den n\u00e4chsten Termin. Vieles erledigst du nebenbei, weil du siehst, dass es gemacht werden muss. Vielleicht hilfst du auch gern. Trotzdem bist du abends ersch\u00f6pft und fragst dich, warum niemand merkt, wie viel an dir h\u00e4ngt.</p>\n<p>Oft entsteht diese Verteilung nicht durch eine bewusste Absprache. Du springst einmal ein, dann noch einmal, und irgendwann geh\u00f6rt die Aufgabe scheinbar zu dir. Die anderen verlassen sich darauf, w\u00e4hrend du dich zunehmend dar\u00fcber \u00e4rgerst, dass niemand mehr fragt.</p>\n<p>Das Abgeben kann trotzdem schwerfallen. Vielleicht m\u00f6chtest du deinen Partner entlasten. Vielleicht bef\u00fcrchtest du auch, unzuverl\u00e4ssig oder wenig engagiert zu wirken. Dann erledigst du die Aufgabe lieber selbst, obwohl du l\u00e4ngst keine Kraft mehr daf\u00fcr hast.</p>\n<p>Du musst nicht warten, bis du v\u00f6llig ersch\u00f6pft bist, um eine Absprache zu ver\u00e4ndern. Auch etwas, das du eine Zeit lang gern gemacht hast, kann auf Dauer zu viel werden.</p>\n<p>Such dir zun\u00e4chst eine einzige Aufgabe aus, die dich regelm\u00e4\u00dfig belastet. \u00dcberlege, was genau daran Arbeit macht. Beim Fahrdienst ist es vielleicht nicht nur die Fahrt, sondern auch das Nachfragen, Planen und Erinnern.</p>\n<p>Das kannst du dann gemeinsam besprechen: \u201eIch m\u00f6chte die Fahrten nicht mehr allein organisieren. K\u00f6nnen wir festlegen, wer an welchen Tagen zust\u00e4ndig ist?\u201c Wenn dein Partner einen Teil \u00fcbernimmt, geh\u00f6rt auch das Drandenken dazu. Sonst hast du zwar weniger Fahrten, aber weiterhin die gesamte Planung im Kopf.</p>",
+    "mail": "Die 15-Minuten-Aufgaben-Inventur in meiner ersten Mail hilft dir, deine Aufgaben zusammenzutragen. In den weiteren Mails geht es darum, sie zu besprechen und auch einmal Nein zu sagen.",
+    "cta": "Meine Aufgaben-Inventur erhalten"
   },
-  4: {
-    title: 'Dein Muster: Du hast dich an alle angepasst — außer an dich selbst',
-    body: `<p>Es gab eine Zeit vor dem Patchwork. Eine Zeit, in der du wusstest wer du bist, was du willst, was dich ausmacht. Vielleicht warst du die, die nach der Arbeit spontan ins Kino ging. Die am Wochenende ihre Freundinnen traf. Die ein Hobby hatte, das nichts mit Fußballtraining oder Umgangsregelung zu tun hatte.</p>
-<p>Und jetzt? Jetzt bist du die Freundin von. Die Bonusmama von. Die, die mitorganisiert, mitmacht, mitfunktioniert. Aber wenn dich jemand fragen würde — "Und wer bist du, wenn du mal nur du bist?" — dann wird es still.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Du hast dich in ein System eingefügt, das schon vor dir existierte — mit Regeln, Routinen, Erwartungen, die keiner ausgesprochen hat. Und weil dir niemand gesagt hat, wer du in diesem System sein sollst, hast du angefangen, es allen recht zu machen. Dem Partner. Den Kindern. Dem Umfeld. "Lieb sie doch wie deine eigenen." "Sei nicht so empfindlich." "Gib dem Ganzen Zeit."</p>
-<p>Während du damit beschäftigt warst, eine Rolle zu füllen die niemand definiert hat, hast du aufgehört, auf dich zu achten. Nicht bewusst — schleichend. Erst war es nur das Hobby, das wegfiel. Dann die Freundinnen-Abende. Dann die 10 Minuten am Abend, die nur dir gehörten. Bis irgendwann nichts mehr übrig war, das nur deins ist.</p>
-<p>Und das ist der eigentliche Schmerz: Du hast nicht nur deine Rolle verloren — du hast dich selbst verloren. Und solange du nicht weißt, wer du in dieser Familie bist, weißt du auch nicht, was du brauchst. Und solange du nicht weißt was du brauchst, kannst du nicht für dich sorgen.</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Was diesen Kreislauf so erschöpfend macht: Anpassung kostet Energie. Und je mehr Energie du durch Anpassung verlierst, desto weniger Kraft bleibt, um überhaupt nachzudenken, wer du eigentlich bist. Du kannst nicht aus einem Kreislauf ausbrechen, den du nicht mehr siehst.</p>
-<img src="/images/kreislauf/nb-kreislauf-muster4.png" alt="Kreislauf Muster 4: Anpassung und Selbstverlust" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Der Ausweg beginnt nicht damit, eine Rolle zu finden. Er beginnt damit, dich selbst wiederzufinden. Was hat dich ausgemacht, bevor Patchwork dein Alltag wurde? Was davon willst du zurück? Erst wenn du das weißt, kannst du entscheiden, welche Art von Bonusmama zu DIR passt — nicht zu dem Bild, das andere von dir haben.</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Jemand fragt dich: "Und was machst du so für dich?" Und du merkst, dass dir keine Antwort einfällt. Nicht weil du keine Interessen hast — sondern weil alles, was mal nur deins war, irgendwann dem Patchwork-Alltag gewichen ist. Du funktionierst von Tag zu Tag, machst was gerade ansteht, füllst die Lücken die andere lassen. Und manchmal, in einem stillen Moment, fragst du dich: Sieht mein Partner eigentlich noch die Frau, in die er sich verliebt hat? Oder sieht er nur noch die, die mitfunktioniert?</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Du hast wieder etwas, das nur dir gehört. Vielleicht ist es der Lauf am Samstagmorgen, vielleicht der Töpferkurs am Dienstagabend, vielleicht sind es nur 20 Minuten mit einem Buch bevor die Kinder aufwachen. Aber es gehört dir. Und wenn dein Partner fragt "Was brauchst du?", hast du eine Antwort. Nicht weil du egoistisch geworden bist — sondern weil du wieder weißt, wer du bist. In dieser Familie und außerhalb. Und dein Partner? Der sieht eine Frau, die klar sagt: "So will ich Bonusmama sein." Nicht angepasst. Echt.</p>`,
+  "4": {
+    "label": "Anpassung",
+    "title": "Bei deinen eigenen Pl\u00e4nen wartest du oft erst einmal ab, was die anderen vorhaben.",
+    "body": "<p>Deine Freundin m\u00f6chte sich am Samstag mit dir treffen. Du w\u00fcrdest gern zusagen, wei\u00dft aber noch nicht, wie das Familienwochenende aussieht. Also h\u00e4ltst du dir den Tag frei. Sp\u00e4ter stellt sich heraus, dass du gar nicht gebraucht worden w\u00e4rst. Das Treffen ist inzwischen trotzdem vom Tisch.</p>\n<p>Ein einzelner solcher Samstag ist meist kein gro\u00dfes Problem. Schwierig wird es, wenn du deine W\u00fcnsche regelm\u00e4\u00dfig vorsorglich zur\u00fcckstellst. Dann entscheiden nicht einmal unbedingt die anderen gegen deine Pl\u00e4ne. Du bringst sie gar nicht erst ins Gespr\u00e4ch, weil du niemandem Umst\u00e4nde machen m\u00f6chtest.</p>\n<p>Mit der Zeit kann daraus viel Unzufriedenheit entstehen. Du bist verf\u00fcgbar und flexibel, vermisst aber die Dinge, die fr\u00fcher selbstverst\u00e4ndlich zu deinem Leben geh\u00f6rt haben. Vielleicht f\u00e4llt es dir inzwischen sogar schwer, spontan zu sagen, worauf du Lust hast, weil du sofort mit\u00fcberlegst, ob es f\u00fcr alle anderen passt.</p>\n<p>Du kannst R\u00fccksicht auf die Familie nehmen und trotzdem eigene Termine haben. Dazu m\u00fcssen deine Pl\u00e4ne allerdings fr\u00fch genug auf dem Tisch liegen, damit ihr sie gemeinsam ber\u00fccksichtigen k\u00f6nnt.</p>\n<p>Nimm dir f\u00fcr diese Woche etwas vor, das du schon l\u00e4nger verschiebst. Sag nicht nur: \u201eVielleicht gehe ich irgendwann mal wieder zum Sport.\u201c Werde konkret: \u201eIch m\u00f6chte am Donnerstag zum Kurs. Gibt es f\u00fcr den Abend etwas, das wir vorher organisieren m\u00fcssen?\u201c</p>\n<p>So k\u00f6nnt ihr \u00fcber tats\u00e4chliche \u00dcberschneidungen sprechen. Du musst deinen Wunsch nicht schon aufgeben, bevor \u00fcberhaupt klar ist, ob es ein Problem gibt.</p>",
+    "mail": "In meinen Mails bekommst du die 20-Minuten-Methode und drei Fragen, mit denen du herausfinden kannst, wof\u00fcr du wieder mehr Zeit haben m\u00f6chtest.",
+    "cta": "Meine 20-Minuten-Methode erhalten"
   },
-  5: {
-    title: 'Dein Muster: Du sagst die richtigen Dinge auf die falsche Art',
-    body: `<p>Du hast die Worte im Kopf. Manchmal sogar wortwörtlich formuliert, abends, wenn du wach liegst und das Gespräch mit deinem Partner Revue passieren lässt. "Das hätte ich sagen sollen." "Nächstes Mal sage ich es." Aber nächstes Mal kommt — und du sagst es wieder nicht.</p>
-<p>Nicht weil du nicht kommunizieren kannst. Du kannst. In deinem Job, mit deinen Freundinnen, wahrscheinlich sogar mit Fremden. Aber mit deinem Partner, wenn es um die Kinder geht, um die Beziehung, um das was dich wirklich trifft — da steckt etwas fest. Da greift eine Bremse, die stärker ist als du.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Die meisten denken, Kommunikation sei ein Skill-Problem: Lern die richtigen Worte, dann klappt es. Aber bei dir ist es kein Wort-Problem — es ist ein Grenz-Problem. Du traust dich nicht zu sagen was du fühlst, weil du Angst hast, was danach passiert. Dass er sagt: "Du übertreibst." Dass es Streit gibt. Dass er denkt, du lehnst sein Kind ab. Und diese Angst ist so real, dass du deine eigene Stimme leiser drehst.</p>
-<p>Was passiert, wenn du ständig leiser drehst? Du schluckst. Einmal, zweimal, zehnmal. Und irgendwann explodierst du — über etwas Kleines, etwas Banales, und dann sagt er: "Warum regst du dich denn jetzt SO auf?" Und du denkst: Er hat recht, ich übertreibe. Und drehst wieder leiser.</p>
-<p>Aber die Wahrheit ist: Du übertreibst nicht. Du reagierst auf alles gleichzeitig — auf diese eine Situation plus die zwanzig davor, die du runtergeschluckt hast. Dein Ausbruch ist nicht das Problem. Das Schlucken davor ist es.</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Was diesen Kreislauf am Leben hält: Die Angst vor Streit ist stärker als der Wunsch, gehört zu werden. Also schweigst du. Aber Schweigen ist keine Lösung — es ist aufgeschobener Streit, der mit Zinsen zurückkommt.</p>
-<img src="/images/kreislauf/nb-kreislauf-muster5.png" alt="Kreislauf Muster 5: Schlucken und Explodieren" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Der Ausweg ist nicht, mutiger zu werden. Er ist: die Angst zu verstehen. Wovor genau hast du Angst, wenn du sagst was du fühlst? Dass du nicht dazugehörst? Dass du "schwierig" bist? Wenn du das weißt, kannst du anfangen — mit einem einzigen Satz, nicht mit der großen Aussprache.</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Du liegst abends wach und formulierst Gespräche, die du nie führen wirst. Du weißt genau, was du sagen willst — Wort für Wort. Aber du weißt auch, wie es enden wird: Er wird sich angegriffen fühlen, es gibt Streit, und danach redet ihr tagelang nur das Nötigste. Also behältst du es für dich. Wieder. Und morgen wird ein Tag wie heute. Und übermorgen auch.</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Du sitzt deinem Partner gegenüber und sagst: "Ich möchte, dass wir das vorher besprechen." Und er nickt. Nicht weil er über Nacht ein anderer Mensch geworden ist — sondern weil du gelernt hast, WARUM er bei bestimmten Themen dichtmacht. Du weißt jetzt, welche Worte bei ihm Schuldgefühle auslösen und welche ankommen. Eure Gespräche enden nicht in Vorwürfen und Schweigen. Sie enden in: "Okay, das verstehe ich. Lass uns das so machen."</p>`,
+  "5": {
+    "label": "Sagen, was du brauchst",
+    "title": "Du m\u00f6chtest etwas ansprechen, \u00fcberlegst aber so lange an der Formulierung, dass du es am Ende l\u00e4sst.",
+    "body": "<p>Eine Entscheidung ist ohne dich gefallen und du bist ver\u00e4rgert. Du m\u00f6chtest mit deinem Partner dar\u00fcber sprechen, gehst im Kopf aber schon seine m\u00f6glichen Antworten durch. Vielleicht h\u00e4lt er dich f\u00fcr empfindlich. Vielleicht sagt er, dass er es doch nur gut gemeint hat. Irgendwann erscheint es einfacher, nichts zu sagen.</p>\n<p>Damit ist der \u00c4rger allerdings nicht weg. Beim n\u00e4chsten \u00e4hnlichen Anlass kommt er wieder hoch. Dann geht es f\u00fcr dich nicht mehr nur um diese eine Entscheidung, sondern auch um die letzten Male, bei denen du geschwiegen hast. Dein Partner versteht m\u00f6glicherweise nicht, warum dich die aktuelle Situation so stark trifft.</p>\n<p>Wenn du schon \u00f6fter Abwehr erlebt hast, ist es nachvollziehbar, dass du vorsichtig geworden bist. Du kannst aber nicht durch langes Nachdenken sicherstellen, dass ein Gespr\u00e4ch ohne Widerspruch verl\u00e4uft. Auch eine respektvoll formulierte Bitte kann erst einmal unbequem sein.</p>\n<p>F\u00fcr den Einstieg hilft es, bei einer konkreten Situation zu bleiben und zu sagen, was du k\u00fcnftig anders m\u00f6chtest. Zum Beispiel: \u201eAls du den Besuch zugesagt hast, hatte ich schon etwas anderes geplant. Bitte frag mich vorher, wenn du davon ausgehst, dass ich dabei bin.\u201c</p>\n<p>Du musst keine lange Erkl\u00e4rung voranstellen, warum dich das besch\u00e4ftigen darf. Lass deinen Partner zun\u00e4chst auf diese Bitte antworten. Wenn er das Thema wechselt, kannst du darauf zur\u00fcckkommen: \u201eDas k\u00f6nnen wir auch besprechen. Ich m\u00f6chte zuerst kl\u00e4ren, wie wir solche Zusagen k\u00fcnftig absprechen.\u201c</p>\n<p>Ob ein Gespr\u00e4ch gelingt, h\u00e4ngt nicht nur von deinen Worten ab. Dein Partner muss ebenfalls bereit sein, dir zuzuh\u00f6ren.</p>",
+    "mail": "In meinen Mails bekommst du drei Gespr\u00e4chseinstiege f\u00fcr Erziehung, Paarzeit und deine Rolle sowie Hinweise zum passenden Zeitpunkt f\u00fcr schwierige Themen.",
+    "cta": "Meine drei Gespr\u00e4chseinstiege erhalten"
   },
-  6: {
-    title: 'Dein Muster: Du trägst Verantwortung für etwas, das nicht deins ist',
-    body: `<p>Du kennst ihren Namen, ihren Ton, ihre Muster. Du weißt, wann sie schreibt (immer dann, wenn ihr gerade einen schönen Abend habt). Du weißt, wie sie eskaliert. Du weißt, was sie sagt, um deinen Partner auf die Palme zu bringen. Du weißt alles über sie — und genau das ist das Problem.</p>
-<p>Sie ist nicht im Raum. Aber sie ist im Kopf. In jeder WhatsApp-Nachricht, die dein Partner bekommt. In jedem Wechseltag, der anders läuft als geplant. In den Geschichten, die die Kinder erzählen: "Mama hat gesagt..." Und in dem Moment, in dem du merkst, dass du schon wieder den ganzen Abend über sie nachgedacht hast, obwohl sie eigentlich nichts getan hat.</p>
-<p class="section-break"><strong>Was das miteinander zu tun hat:</strong></p>
-<p>Das Thema ist nicht die Ex. Zumindest nicht nur. Das Thema ist: Du weißt nicht, wo deine Grenze verläuft — was dein Thema ist und was nicht. Wenn die Ex eine provozierende Nachricht schickt, ist das ein Problem zwischen deinem Partner und seiner Ex. Nicht zwischen dir und der Ex. Aber du machst es zu deinem. Du liest die Nachricht, du kommentierst sie, du denkst stundenlang darüber nach. Nicht weil du kontrollsüchtig bist — sondern weil es sich anfühlt, als wärst du machtlos, wenn du nichts tust.</p>
-<p>Weil du keine klare Grenze hast zwischen "sein Thema" und "mein Thema", sickert alles rein. Die Nachricht der Ex. Die Entscheidung über den Urlaub. Der Streit ums Sorgerecht. Es wird alles zu deinem Problem — und plötzlich hat sie nicht nur Raum in seinem Handy, sondern in deinem ganzen Leben.</p>
-<p>Gleichzeitig: Weil du deine Grenzen nicht kennst, schützt du dich nicht. Du liest die Nachrichten mit. Du fragst nach, was sie geschrieben hat. Du vergleichst dich mit ihr — bin ich besser, bin ich schlechter, bin ich genug? Und jedes Mal, wenn du dich in diesen Vergleich ziehst, gibst du ihr Macht. Nicht weil sie sie sich nimmt — sondern weil du sie ihr gibst.</p>
-<p class="section-break"><strong>Der Kreislauf:</strong></p>
-<p>Was diesen Kreislauf antreibt: Wenn du keine Grenze hast zwischen deinem Thema und seinem, sickert alles rein. Und je mehr Raum die Ex in deinem Kopf einnimmt, desto mehr versuchst du, Kontrolle zu gewinnen. Das Paradoxe: Je mehr du kontrollierst, desto mehr Macht gibst du ihr.</p>
-<img src="/images/kreislauf/nb-kreislauf-muster6.png" alt="Kreislauf Muster 6: Ex-Thema übernimmt" class="my-6 w-full max-w-[480px] mx-auto" loading="lazy" />
-<p>Der Ausweg ist nicht, die Ex zu ignorieren — das funktioniert nicht, das weißt du. Der Ausweg ist: lernen zu unterscheiden, was wirklich dein Thema ist. Was ist ein Problem zwischen deinem Partner und seiner Ex? Was betrifft dich direkt? Und wo ziehst du die Linie — innerlich, nicht ihr gegenüber?</p>
-<p class="section-break"><strong>Wo du gerade stehst:</strong></p>
-<p>Du gehst ins Bett und dein letzter Gedanke ist nicht an deinen Partner, nicht an dich — sondern an sie. Was wird sie morgen wieder anstellen? Wie wird er reagieren? Was bedeutet das für euer Wochenende? Du verbringst mehr Zeit in deinem Kopf mit der Ex als mit deinem eigenen Leben. Und das Schlimmste: Du weißt, dass es so nicht weitergehen kann. Aber aufhören fühlt sich an wie aufgeben.</p>
-<p class="section-break"><strong>Wo du stehen kannst:</strong></p>
-<p>Die Ex schreibt — und du liest es nicht. Nicht weil es dir egal ist, sondern weil du weißt: Das ist eine Sache zwischen deinem Partner und ihr. Du gehst ins Bett und dein letzter Gedanke ist: Was machen wir am Wochenende Schönes? Die Ex hat Raum in seinem Handy — aber nicht in deinem Kopf. Und dein Partner? Der regelt seine Sachen. Vielleicht nicht perfekt. Aber es ist seine Verantwortung, und du hast gelernt, ihm das zuzutrauen.</p>`,
-  },
+  "6": {
+    "label": "Verantwortung",
+    "title": "Was zwischen deinem Partner und seiner Ex passiert, besch\u00e4ftigt dich oft noch, wenn er l\u00e4ngst wieder etwas anderes macht.",
+    "body": "<p>Eine Nachricht kommt, dein Partner erz\u00e4hlt dir davon und ihr \u00fcberlegt gemeinsam, was er antworten k\u00f6nnte. Sp\u00e4ter legt er das Handy weg. Du gehst im Kopf weiter durch, was sie wohl schreiben wird und wie sich der Streit verhindern lie\u00dfe. Dein eigener Abend ist dar\u00fcber fast vergessen.</p>\n<p>Dass dich das besch\u00e4ftigt, ist verst\u00e4ndlich. Die Absprachen der beiden k\u00f6nnen deine Pl\u00e4ne ver\u00e4ndern und die Stimmung zu Hause beeinflussen. Du kannst die Folgen nicht immer einfach ausblenden.</p>\n<p>Trotzdem ist es ein Unterschied, ob du mit deinem Partner \u00fcber diese Folgen sprichst oder die Kl\u00e4rung mit seiner Ex \u00fcbernimmst. Wenn du jede Antwort mitformulierst und m\u00f6gliche Konflikte vorausdenkst, bist du irgendwann an einem Gespr\u00e4ch beteiligt, das eigentlich die beiden f\u00fchren m\u00fcssen.</p>\n<p>Hilfreich ist deshalb, bei einer aktuellen Situation genauer zu trennen: Was muss dein Partner mit ihr kl\u00e4ren? Und was musst du mit deinem Partner besprechen?</p>\n<p>Wenn es beispielsweise um ein zus\u00e4tzliches Betreuungswochenende geht, m\u00fcssen die Eltern die Betreuung vereinbaren. Du brauchst dagegen Klarheit dar\u00fcber, ob dein Partner mit deiner Unterst\u00fctzung rechnet und was aus euren bisherigen Pl\u00e4nen wird.</p>\n<p>Du k\u00f6nntest sagen: \u201eBitte kl\u00e4r mit ihr, ob du die Betreuung \u00fcbernehmen kannst. Ich habe am Samstag schon etwas vor und stehe daf\u00fcr nicht zur Verf\u00fcgung.\u201c</p>\n<p>Du musst daf\u00fcr weder ihre Nachricht bewerten noch eine passende Antwort entwerfen. Du sagst deinem Partner, was er \u00fcber deine Zeit wissen muss, und l\u00e4sst ihn die Absprache selbst f\u00fchren.</p>",
+    "mail": "In meinen Mails bekommst du f\u00fcnf Fragen, die dir beim Sortieren helfen, und eine 60-Sekunden-\u00dcbung, um das Gedankenkreisen zu unterbrechen.",
+    "cta": "Meine f\u00fcnf Fragen und die \u00dcbung erhalten"
+  }
 };
 
 // === STATE ===
@@ -623,15 +551,13 @@ function renderScoreSummary(areaScores, totalPct) {
 
 function renderPattern(id) {
   const p = PATTERNS[id];
+  document.getElementById('pattern-label').textContent = p.label;
   document.getElementById('pattern-title').textContent = p.title;
   document.getElementById('pattern-body').innerHTML = p.body;
+  document.getElementById('pattern-mail').textContent = p.mail;
+  document.getElementById('submit-btn').textContent = p.cta;
 }
 
-function showShortResult() {
-  const shortResult = document.getElementById('short-result');
-  shortResult.classList.remove('hidden');
-  shortResult.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
 
 function getTrafficSource() {
   const params = new URLSearchParams(window.location.search);
