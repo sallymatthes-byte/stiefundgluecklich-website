@@ -6,6 +6,7 @@ export async function onRequestPost(context) {
   return createProductCheckout(context, {
     product: 'beyondbonus',
     amount: 49700,
+    inclusiveTaxRate: 'txr_1ULdutInzeBpNRoh80VBWoob',
     name: 'Beyond Bonus: Online-Intensivprogramm',
     description: '54 Video- und Audio-Lektionen, Workbook, 10-Wochen-E-Mail-Begleitung und 12 Monate Zugang',
     successPath: '/beyondbonus-danke',

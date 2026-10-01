@@ -44,6 +44,12 @@ export async function createProductCheckout(context, config) {
     'metadata[customer_name]': name,
   });
 
+  if (config.inclusiveTaxRate) {
+    params.set('line_items[0][tax_rates][0]', config.inclusiveTaxRate);
+    params.set('line_items[0][price_data][tax_behavior]', 'inclusive');
+    params.set('billing_address_collection', 'required');
+  }
+
   try {
     const response = await fetch('https://api.stripe.com/v1/checkout/sessions', {
       method: 'POST',
