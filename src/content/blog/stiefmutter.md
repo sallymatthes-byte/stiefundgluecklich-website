@@ -14,7 +14,7 @@ imageAlt: "Nachdenkliche Frau auf einer Bank im herbstlichen Wald — die Rolle 
 
 ---
 
-🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Stiefmütter und Bonusmamas.
+🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 

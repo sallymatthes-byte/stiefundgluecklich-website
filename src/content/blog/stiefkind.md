@@ -17,7 +17,7 @@ imageAlt: "Bonuskind und Bonusmama im warmen Herbstlicht — Beziehungsaufbau in
 
 ---
 
-🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst. Jede Woche eine neue Folge für Bonusmamas.
+🎙 **Passend dazu:** Hör dir den Podcast „Bonusgeflüster" an — auf [Spotify](https://open.spotify.com/show/5wNKGzYsF6PMxuCRmUu5Pm) oder überall, wo du Podcasts hörst.
 
 ---
 
